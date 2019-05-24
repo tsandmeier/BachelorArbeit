@@ -15,6 +15,8 @@ import java.util.List;
 public class BigramTemplate extends AbstractFeatureTemplate<BigramTemplate.BigramScope> {
 
 
+    private static final int MAX_NGRAM_SIZE = 4;
+    private static final int MIN_NGRAM_SIZE = 2;
 
     /**
      * The scope of a template defines the variables that can be used for the
@@ -154,15 +156,15 @@ public class BigramTemplate extends AbstractFeatureTemplate<BigramTemplate.Bigra
 
         for (String token : surfaceForm.split("\\W")) {
             for(int i = 0; i < token.length(); i++){
-                char[] bigramChars = new char[2];
-                if(token.length()>i+1) {
-                    token.getChars(i, i + 2, bigramChars, 0);
-                    String bigram = new String(bigramChars);
-                    factor.getFeatureVector().set(et.toString() + bigram, true);
+                for(int j = MIN_NGRAM_SIZE; j <= MAX_NGRAM_SIZE; j++) {
+                    char[] bigramChars = new char[j];
+                    if (token.length() >= i + j) {
+                        token.getChars(i, i + j, bigramChars, 0);
+                        String bigram = new String(bigramChars);
+                        factor.getFeatureVector().set(et.entityName + " " + bigram, true);
+                    }
                 }
             }
         }
-
     }
-
 }

@@ -5,7 +5,10 @@ import de.hterhors.semanticmr.crf.factor.Factor;
 import de.hterhors.semanticmr.crf.structure.EntityType;
 import de.hterhors.semanticmr.crf.structure.annotations.DocumentLinkedAnnotation;
 import de.hterhors.semanticmr.crf.templates.AbstractFeatureTemplate;
+import de.hterhors.semanticmr.crf.variables.Document;
+import de.hterhors.semanticmr.crf.variables.DocumentToken;
 import de.hterhors.semanticmr.crf.variables.State;
+import de.hterhors.semanticmr.exce.DocumentLinkedAnnotationMismatchException;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -22,20 +25,23 @@ public class WBFTemplate extends AbstractFeatureTemplate<WBFTemplate.WBFScope> {
 			extends AbstractFactorScope<WBFScope> {
 
 		public String wordAfter;
-		public int indexWordOne;
-		public int indexWordTwo;
+		public DocumentToken tokenOne;
+		public DocumentToken tokenTwo;
 
 		public EntityType typeOne;
 		public EntityType typeTwo;
 
+		public Document document;
+
 		public WBFScope(
-                AbstractFeatureTemplate<WBFScope> template, int indexOne, int indexTwo, EntityType typeOne, EntityType typeTwo, String token) {
+				AbstractFeatureTemplate<WBFScope> template, DocumentToken tokenOne, DocumentToken tokenTwo,
+				EntityType typeOne, EntityType typeTwo, Document document) {
 			super(template);
-			this.indexWordOne = indexOne;
-			this.indexWordTwo = indexTwo;
+			this.tokenOne = tokenOne;
+			this.tokenTwo = tokenTwo;
 			this.typeOne = typeOne;
 			this.typeTwo = typeTwo;
-			this.wordAfter = token;
+			this.document = document;
 		}
 
 		@Override
@@ -56,8 +62,8 @@ public class WBFTemplate extends AbstractFeatureTemplate<WBFTemplate.WBFScope> {
 			if (o == null || getClass() != o.getClass()) return false;
 			if (!super.equals(o)) return false;
 			WBFScope wbfScope = (WBFScope) o;
-			return indexWordOne == wbfScope.indexWordOne &&
-					indexWordTwo == wbfScope.indexWordTwo &&
+			return tokenOne == wbfScope.tokenOne &&
+					tokenTwo == wbfScope.tokenTwo &&
 					Objects.equals(wordAfter, wbfScope.wordAfter) &&
 					Objects.equals(typeOne, wbfScope.typeOne) &&
 					Objects.equals(typeTwo, wbfScope.typeTwo);
@@ -65,18 +71,27 @@ public class WBFTemplate extends AbstractFeatureTemplate<WBFTemplate.WBFScope> {
 
 		@Override
 		public int hashCode() {
-			return Objects.hash(super.hashCode(), wordAfter, indexWordOne, indexWordTwo, typeOne, typeTwo);
+			return Objects.hash(super.hashCode(), wordAfter, tokenOne, tokenTwo, typeOne, typeTwo);
 		}
 	}
 
 	@Override
 	public List<WBFScope> generateFactorScopes(State state) {
 		List<WBFScope> factors = new ArrayList<>();
+		Document document = state.getInstance().getDocument();
 
 		for (DocumentLinkedAnnotation annotation : super.<DocumentLinkedAnnotation>getPredictedAnnotations(state)) {
 			for (DocumentLinkedAnnotation annotation2 : super.<DocumentLinkedAnnotation>getPredictedAnnotations(state)){
 				if(!annotation.equals(annotation2)) {
-					factors.add(new WBFScope(this, annotation.relatedTokens.get(annotation.relatedTokens.size() - 1).getDocTokenIndex(), annotation2.relatedTokens.get(0).getDocTokenIndex(), annotation.entityType, annotation2.entityType, state.getInstance().getDocument().tokenList.get(annotation.relatedTokens.get(annotation.relatedTokens.size() - 1).getDocTokenIndex() + 1).getText()));
+					try {
+						factors.add(new WBFScope(this,
+								document.getTokenByCharOffset(annotation.documentPosition.docCharOffset),
+								document.getTokenByCharOffset(annotation2.documentPosition.docCharOffset),
+								annotation.entityType, annotation2.entityType,
+								document));
+					} catch (DocumentLinkedAnnotationMismatchException e) {
+						e.printStackTrace();
+					}
 				}
 			}
 		}
@@ -85,10 +100,27 @@ public class WBFTemplate extends AbstractFeatureTemplate<WBFTemplate.WBFScope> {
 
 	@Override
 	public void generateFeatureVector(Factor<WBFScope> factor) {
-		if(Math.abs(factor.getFactorScope().indexWordTwo-factor.getFactorScope().indexWordOne)>1) {
-			factor.getFeatureVector().set(factor.getFactorScope().typeOne + factor.getFactorScope().wordAfter, true);
-			factor.getFeatureVector().set(factor.getFactorScope().typeTwo + factor.getFactorScope().wordAfter, true);
+		String subtext;
+		if (factor.getFactorScope().tokenOne.getDocCharOffset()<factor.getFactorScope().tokenTwo.getDocCharOffset()) {
+			subtext = factor.getFactorScope().document.getContent(
+					factor.getFactorScope().tokenOne, factor.getFactorScope().tokenTwo
+			);
+
+			//factor.getFeatureVector().set(factor.getFactorScope().typeOne.entityName + " " + factor.getFactorScope().typeTwo.entityName + " " + numberOfWords(subtext), true);
+			if (numberOfWords(subtext)<=5) {
+				factor.getFeatureVector().set(factor.getFactorScope().typeOne.entityName + " "
+						+ factor.getFactorScope().typeTwo.entityName + " "
+						+subtext, true);
+			}
 		}
 	}
 
+	public int numberOfWords(String input) {
+		if (input == null || input.isEmpty()) {
+			return 0;
+		}
+
+		String[] words = input.split("\\s+");
+		return words.length;
+	}
 }

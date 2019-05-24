@@ -19,7 +19,7 @@ import de.hterhors.semanticmr.crf.sampling.stopcrit.IStoppingCriterion;
 import de.hterhors.semanticmr.crf.sampling.stopcrit.impl.ConverganceCrit;
 import de.hterhors.semanticmr.crf.sampling.stopcrit.impl.MaxChainLengthCrit;
 import de.hterhors.semanticmr.crf.templates.AbstractFeatureTemplate;
-import de.hterhors.semanticmr.crf.templates.nerla.WBFTemplate;
+import de.hterhors.semanticmr.crf.templates.nerla.WBNULLTemplate;
 import de.hterhors.semanticmr.crf.variables.Annotations;
 import de.hterhors.semanticmr.crf.variables.IStateInitializer;
 import de.hterhors.semanticmr.crf.variables.Instance;
@@ -31,6 +31,7 @@ import de.hterhors.semanticmr.projects.AbstractSemReadProject;
 import de.hterhors.semanticmr.projects.psink.normalization.WeightNormalization;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import tsandmeier.ba.templates.*;
 
 import java.io.File;
 import java.io.IOException;
@@ -47,6 +48,7 @@ import java.util.Random;
  */
 public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProject {
 	private static Logger log = LogManager.getFormatterLogger(de.hterhors.semanticmr.examples.nerla.NamedEntityRecognitionAndLinkingExample.class);
+	private final boolean overrideModel = true;
 
 	/**
 	 * Start the named entity recognition and linking procedure.
@@ -55,7 +57,7 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
 	 * @throws IOException
 	 */
 	public static void main(String[] args) {
-		new de.hterhors.semanticmr.examples.nerla.NamedEntityRecognitionAndLinkingExample();
+		new NamedEntityRecognitionAndLinkingExample();
 	}
 
 	/**
@@ -144,7 +146,7 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
 		 * 
 		 */
 		NerlaCandidateProviderCollection candidateRetrieval = new NerlaCandidateProviderCollection(
-				new InMEMDictionaryBasedCandidateProvider(dictionaryFile));
+				new GetDictionaryClass(dictionaryFile));
 
 		/**
 		 * For the entity recognition and linking problem, the EntityRecLinkExplorer is
@@ -172,7 +174,7 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
 		 * if not necessary.
 		 *
 		 */
-		IObjectiveFunction objectiveFunction = new NerlaObjectiveFunction(EEvaluationDetail.ENTITY_TYPE);
+		IObjectiveFunction objectiveFunction = new NerlaObjectiveFunction(EEvaluationDetail.LITERAL);
 
 		/**
 		 * The learner defines the update strategy of learned weights. parameters are
@@ -193,7 +195,12 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
 		 */
 		List<AbstractFeatureTemplate<?>> featureTemplates = new ArrayList<>();
 
+		featureTemplates.add(new AvgNumberTemplate());
+//		featureTemplates.add(new MentionsInSentenceTemplate());  //verschlechtert
+		featureTemplates.add(new BigramTemplate());
 		featureTemplates.add(new WBFTemplate());
+		featureTemplates.add(new StartsWithCapitalTemplate()); //verschlechtert alles?
+		featureTemplates.add(new WBNULLTemplate());
 //		featureTemplates.add(new MorphologicalNerlaTemplate());
 //		featureTemplates.add(new TokenContextTemplate());
 //		featureTemplates.add(new IntraTokenTemplate());
@@ -212,7 +219,7 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
 		 * 
 		 * TODO: Find perfect number of epochs.
 		 */
-		int numberOfEpochs = 10;
+		int numberOfEpochs = 5;
 
 		/**
 		 * To increase the systems speed performance, we add two stopping criterion for
@@ -266,11 +273,13 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
 		 * NOTE: Make sure that the base model directory exists!
 		 */
 		final File modelBaseDir = new File("models/nerla/test1/");
-		final String modelName = "NERLA1234" + new Random().nextInt(10000);
+		//final String modelName = "NERLA1234" + new Random().nextInt(10000);
+		final String modelName = "testModel";
 
 		Model model;
 
-		if (Model.exists(modelBaseDir, modelName)) {
+
+		if (Model.exists(modelBaseDir, modelName)&&!overrideModel) {
 			/**
 			 * If the model exists load from the file system.
 			 */
@@ -301,7 +310,7 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
 			 * Save the model as binary. Do not override, in case a file already exists for
 			 * that name.
 			 */
-			model.save();
+			model.save(true);
 
 			/**
 			 * Print the model in a readable format.
