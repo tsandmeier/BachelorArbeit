@@ -9,6 +9,7 @@ import de.hterhors.semanticmr.crf.variables.State;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Objects;
 
 /**
  * @author hterhors
@@ -46,6 +47,20 @@ public class StartsWithCapitalTemplate extends AbstractFeatureTemplate<StartsWit
 			return false;
 		}
 
+		@Override
+		public boolean equals(Object o) {
+			if (this == o) return true;
+			if (o == null || getClass() != o.getClass()) return false;
+			if (!super.equals(o)) return false;
+			StartsWithCapitalScope that = (StartsWithCapitalScope) o;
+			return Objects.equals(surfaceForm, that.surfaceForm) &&
+					Objects.equals(type, that.type);
+		}
+
+		@Override
+		public int hashCode() {
+			return Objects.hash(super.hashCode(), surfaceForm, type);
+		}
 	}
 
 	@Override
@@ -68,11 +83,9 @@ public class StartsWithCapitalTemplate extends AbstractFeatureTemplate<StartsWit
 		String surfaceForm = factor.getFactorScope().surfaceForm;
 		EntityType type = factor.getFactorScope().type;
 
-		if(surfaceForm.length()<1) {
-			return;
+		if(surfaceForm.length()>=1) {
+			factor.getFeatureVector().set(type.entityName + " " + Character.isUpperCase(surfaceForm.charAt(0)), true);
 		}
-		factor.getFeatureVector().set(type.toString(), Character.isUpperCase(surfaceForm.charAt(0)));
-
 	}
 
 }
