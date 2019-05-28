@@ -14,7 +14,7 @@ import de.hterhors.semanticmr.crf.of.IObjectiveFunction;
 import de.hterhors.semanticmr.crf.of.NerlaObjectiveFunction;
 import de.hterhors.semanticmr.crf.sampling.AbstractSampler;
 import de.hterhors.semanticmr.crf.sampling.impl.EpochSwitchSampler;
-import de.hterhors.semanticmr.crf.sampling.stopcrit.IStoppingCriterion;
+import de.hterhors.semanticmr.crf.sampling.stopcrit.ISamplingStoppingCriterion;
 import de.hterhors.semanticmr.crf.sampling.stopcrit.impl.ConverganceCrit;
 import de.hterhors.semanticmr.crf.sampling.stopcrit.impl.MaxChainLengthCrit;
 import de.hterhors.semanticmr.crf.templates.AbstractFeatureTemplate;
@@ -23,12 +23,12 @@ import de.hterhors.semanticmr.crf.variables.IStateInitializer;
 import de.hterhors.semanticmr.crf.variables.Instance;
 import de.hterhors.semanticmr.crf.variables.State;
 import de.hterhors.semanticmr.eval.EEvaluationDetail;
-import de.hterhors.semanticmr.examples.nerla.specs.NERLASpecs;
 import de.hterhors.semanticmr.init.specifications.SystemScope;
 import de.hterhors.semanticmr.projects.AbstractSemReadProject;
-import de.hterhors.semanticmr.projects.psink.normalization.WeightNormalization;
+import de.hterhors.semanticmr.projects.examples.WeightNormalization;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import tsandmeier.ba.specs.NERLASpecs;
 import tsandmeier.ba.templates.*;
 
 import java.io.File;
@@ -44,7 +44,7 @@ import java.util.Map;
  *
  */
 public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProject {
-	private static Logger log = LogManager.getFormatterLogger(de.hterhors.semanticmr.examples.nerla.NamedEntityRecognitionAndLinkingExample.class);
+	private static Logger log = LogManager.getFormatterLogger(NamedEntityRecognitionAndLinkingExample.class);
 	private final boolean overrideModel = true;
 
 	/**
@@ -192,16 +192,16 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
 		 */
 		List<AbstractFeatureTemplate<?>> featureTemplates = new ArrayList<>();
 
-//		featureTemplates.add(new AvgNumberTemplate());
+		featureTemplates.add(new AvgNumberTemplate());
 		featureTemplates.add(new ML12Template());
-//		featureTemplates.add(new NumberMBTemplate()); //schient nichts zu NumberWBT beizutragen
-//		featureTemplates.add(new BMFLTemplate()); //macht kaum Unterschied, wohl zu ähnlich zu WBF
-//		featureTemplates.add(new NumberWBTemplate());
-//		featureTemplates.add(new MentionsInSentenceTemplate());
-//		featureTemplates.add(new BigramTemplate());
-//		featureTemplates.add(new WBFTemplate());
-//		featureTemplates.add(new StartsWithCapitalTemplate()); //verschlechtert ein bisschen, warum?
-//		featureTemplates.add(new WBNULLTemplate());
+		featureTemplates.add(new NumberMBTemplate()); //schient nichts zu NumberWBT beizutragen
+		featureTemplates.add(new BMFLTemplate()); //macht kaum Unterschied, wohl zu ähnlich zu WBF
+		featureTemplates.add(new NumberWBTemplate());
+		featureTemplates.add(new MentionsInSentenceTemplate());
+		featureTemplates.add(new BigramTemplate());
+		featureTemplates.add(new WBFTemplate());
+		featureTemplates.add(new StartsWithCapitalTemplate()); //verschlechtert ein bisschen, warum?
+		featureTemplates.add(new WBNULLTemplate());
 //		featureTemplates.add(new MorphologicalNerlaTemplate());
 //		featureTemplates.add(new TokenContextTemplate());
 //		featureTemplates.add(new IntraTokenTemplate());
@@ -220,7 +220,7 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
 		 * 
 		 * TODO: Find perfect number of epochs.
 		 */
-		int numberOfEpochs = 5;
+		int numberOfEpochs = 10;
 
 		/**
 		 * To increase the systems speed performance, we add two stopping criterion for
@@ -228,7 +228,7 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
 		 * example we set the maximum chain length to 10. That means, only 10 changes
 		 * (annotations) can be added to each document.
 		 */
-		IStoppingCriterion maxStepCrit = new MaxChainLengthCrit(10);
+		ISamplingStoppingCriterion maxStepCrit = new MaxChainLengthCrit(8); //warum klappt nicht mit 10?
 
 		/**
 		 * The next stopping criterion checks for no or only little (based on a
@@ -236,7 +236,9 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
 		 * the last three states were scored equally, we assume the system to be
 		 * converged.
 		 */
-		IStoppingCriterion noModelChangeCrit = new ConverganceCrit(3, s -> s.getModelScore());
+		ISamplingStoppingCriterion noModelChangeCrit = new ConverganceCrit(3, s -> s.getModelScore());
+		ISamplingStoppingCriterion[] sampleStoppingCrits = new ISamplingStoppingCriterion[] { maxStepCrit,
+				noModelChangeCrit };
 
 		/**
 		 * Sampling strategy that defines how the system should be trained. We
@@ -304,8 +306,7 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
 			/**
 			 * Train the CRF.
 			 */
-			crf.train(learner, instanceProvider.getRedistributedTrainingInstances(), numberOfEpochs, maxStepCrit,
-					noModelChangeCrit);
+			crf.train(learner, instanceProvider.getRedistributedTrainingInstances(), numberOfEpochs, sampleStoppingCrits);
 
 			/**
 			 * Save the model as binary. Do not override, in case a file already exists for

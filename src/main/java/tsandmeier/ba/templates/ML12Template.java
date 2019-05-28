@@ -10,8 +10,10 @@ import de.hterhors.semanticmr.crf.variables.DocumentToken;
 import de.hterhors.semanticmr.crf.variables.State;
 import edu.stanford.nlp.tagger.maxent.MaxentTagger;
 
+import javax.print.Doc;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Objects;
 
 /**
  * @author hterhors
@@ -20,6 +22,8 @@ import java.util.List;
  */
 public class ML12Template extends AbstractFeatureTemplate<ML12Template.ML12Scope> {
 
+	Document taggedDocument;
+	boolean docIsTagged = false;
 
 	MaxentTagger tagger = new MaxentTagger(
 
@@ -28,10 +32,33 @@ public class ML12Template extends AbstractFeatureTemplate<ML12Template.ML12Scope
 	static class ML12Scope
 			extends AbstractFactorScope<ML12Scope> {
 
+		DocumentToken taggedToken;
+		DocumentToken phraseToken;
+
+		EntityType type;
+
 
 		public ML12Scope(
-                AbstractFeatureTemplate<ML12Scope> template) {
+                AbstractFeatureTemplate<ML12Scope> template, DocumentToken token, DocumentToken phraseToken, EntityType type) {
 			super(template);
+			this.taggedToken = token;
+			this.type = type;
+			this.phraseToken = phraseToken;
+		}
+
+		@Override
+		public boolean equals(Object o) {
+			if (this == o) return true;
+			if (o == null || getClass() != o.getClass()) return false;
+			if (!super.equals(o)) return false;
+			ML12Scope ml12Scope = (ML12Scope) o;
+			return Objects.equals(taggedToken, ml12Scope.taggedToken) &&
+					Objects.equals(type, ml12Scope.type);
+		}
+
+		@Override
+		public int hashCode() {
+			return Objects.hash(super.hashCode(), taggedToken, type);
 		}
 
 		@Override
@@ -51,26 +78,39 @@ public class ML12Template extends AbstractFeatureTemplate<ML12Template.ML12Scope
 	@Override
 	public List<ML12Scope> generateFactorScopes(State state) {
 		List<ML12Scope> factors = new ArrayList<>();
-		Document doc = state.getInstance().getDocument();
-		String tagged = tagger.tagString(doc.documentContent);
-		System.out.println(tagged);
-//		Document taggedDoc = new Document("taggedDoc", "bal bla");
-
+		if(!docIsTagged) {
+			Document doc = state.getInstance().getDocument();
+			String tagged = tagger.tagString(doc.documentContent);
+//			System.out.println(".");
+			taggedDocument = new Document("taggedDoc", tagged);
+			//System.out.println(taggedDocument.documentContent);
+			docIsTagged = true;
+		}
 		for (DocumentLinkedAnnotation annotation : super.<DocumentLinkedAnnotation>getPredictedAnnotations(state)) {
 			EntityType type = annotation.getEntityType();
 			for(DocumentToken token: annotation.relatedTokens){
-				token.getDocTokenIndex();
+					if((token.getDocTokenIndex()*2)+1<=taggedDocument.tokenList.size()) {
+						DocumentToken taggedToken = taggedDocument.tokenList.get(token.getDocTokenIndex() * 2);
+						DocumentToken phrase = taggedDocument.tokenList.get((token.getDocTokenIndex() * 2)+1);
+						factors.add(new ML12Scope(this, taggedToken, phrase, type));
+					}
 			}
-			factors.add(new ML12Scope(this));
 		}
 		return factors;
 	}
 
 	@Override
 	public void generateFeatureVector(Factor<ML12Scope> factor) {
+		factor.getFeatureVector().set(factor.getFactorScope().type.entityName + " " +
+				factor.getFactorScope().taggedToken.getText() + " " + factor.getFactorScope().phraseToken.getText(),true);
 
-		// factor.getFeatureVector().set();
+	}
 
+	private String getTokenPhrase (DocumentToken token){
+		String text = token.getText();
+		String[] splitted = text.split("_");
+		String phrase = splitted[splitted.length-1];
+		return phrase;
 	}
 
 }
