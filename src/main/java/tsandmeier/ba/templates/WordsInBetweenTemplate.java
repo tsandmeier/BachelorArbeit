@@ -15,14 +15,22 @@ import java.util.List;
 import java.util.Objects;
 
 /**
- * @author hterhors
+ * checks for all the words between two mentions
  *
- * @date Nov 15, 2017
+ * collection of:
+ * WBNULL (noch extra)
+ * WBFL
+ * WBF
+ *
  */
-public class WBFTemplate extends AbstractFeatureTemplate<WBFTemplate.WBFScope> {
+public class WordsInBetweenTemplate extends AbstractFeatureTemplate<WordsInBetweenTemplate.WordsInBetweenScope> {
 
-	static class WBFScope
-			extends AbstractFactorScope<WBFScope> {
+	private static final int MAX_NUMBER_OF_WORDS = 6;  //6 Wörter sind deutlich erfolgreicher als 5, aber dann gibts eohl keine Steigerung mehr. Warum?
+
+	private boolean wbfActive = true;
+
+	static class WordsInBetweenScope
+			extends AbstractFactorScope<WordsInBetweenScope> {
 
 		public String wordAfter;
 		public DocumentToken tokenOne;
@@ -33,8 +41,8 @@ public class WBFTemplate extends AbstractFeatureTemplate<WBFTemplate.WBFScope> {
 
 		public Document document;
 
-		public WBFScope(
-				AbstractFeatureTemplate<WBFScope> template, DocumentToken tokenOne, DocumentToken tokenTwo,
+		public WordsInBetweenScope(
+				AbstractFeatureTemplate<WordsInBetweenScope> template, DocumentToken tokenOne, DocumentToken tokenTwo,
 				EntityType typeOne, EntityType typeTwo, Document document) {
 			super(template);
 			this.tokenOne = tokenOne;
@@ -61,12 +69,12 @@ public class WBFTemplate extends AbstractFeatureTemplate<WBFTemplate.WBFScope> {
 			if (this == o) return true;
 			if (o == null || getClass() != o.getClass()) return false;
 			if (!super.equals(o)) return false;
-			WBFScope wbfScope = (WBFScope) o;
-			return tokenOne == wbfScope.tokenOne &&
-					tokenTwo == wbfScope.tokenTwo &&
-					Objects.equals(wordAfter, wbfScope.wordAfter) &&
-					Objects.equals(typeOne, wbfScope.typeOne) &&
-					Objects.equals(typeTwo, wbfScope.typeTwo);
+			WordsInBetweenScope wordsInBetweenScope = (WordsInBetweenScope) o;
+			return tokenOne == wordsInBetweenScope.tokenOne &&
+					tokenTwo == wordsInBetweenScope.tokenTwo &&
+					Objects.equals(wordAfter, wordsInBetweenScope.wordAfter) &&
+					Objects.equals(typeOne, wordsInBetweenScope.typeOne) &&
+					Objects.equals(typeTwo, wordsInBetweenScope.typeTwo);
 		}
 
 		@Override
@@ -76,15 +84,15 @@ public class WBFTemplate extends AbstractFeatureTemplate<WBFTemplate.WBFScope> {
 	}
 
 	@Override
-	public List<WBFScope> generateFactorScopes(State state) {
-		List<WBFScope> factors = new ArrayList<>();
+	public List<WordsInBetweenScope> generateFactorScopes(State state) {
+		List<WordsInBetweenScope> factors = new ArrayList<>();
 		Document document = state.getInstance().getDocument();
 
 		for (DocumentLinkedAnnotation annotation : super.<DocumentLinkedAnnotation>getPredictedAnnotations(state)) {
 			for (DocumentLinkedAnnotation annotation2 : super.<DocumentLinkedAnnotation>getPredictedAnnotations(state)){
 				if(!annotation.equals(annotation2)) {
 					try {
-						factors.add(new WBFScope(this,
+						factors.add(new WordsInBetweenScope(this,
 								document.getTokenByCharOffset(annotation.documentPosition.docCharOffset),
 								document.getTokenByCharOffset(annotation2.documentPosition.docCharOffset),
 								annotation.entityType, annotation2.entityType,
@@ -99,19 +107,31 @@ public class WBFTemplate extends AbstractFeatureTemplate<WBFTemplate.WBFScope> {
 	}
 
 	@Override
-	public void generateFeatureVector(Factor<WBFScope> factor) {
+	public void generateFeatureVector(Factor<WordsInBetweenScope> factor) {
 		String subtext;
+
+
 		if (factor.getFactorScope().tokenOne.getDocCharOffset()<factor.getFactorScope().tokenTwo.getDocCharOffset()) {
+
+			//get all words between the mentions
 			subtext = factor.getFactorScope().document.getContent(
 					factor.getFactorScope().tokenOne, factor.getFactorScope().tokenTwo
 			);
 
-			//factor.getFeatureVector().set(factor.getFactorScope().typeOne.entityName + " " + factor.getFactorScope().typeTwo.entityName + " " + numberOfWords(subtext), true);
-			if (numberOfWords(subtext)<=5) {
+
+			if (numberOfWords(subtext)<= MAX_NUMBER_OF_WORDS) {
 				factor.getFeatureVector().set(factor.getFactorScope().typeOne.entityName + " "
 						+ factor.getFactorScope().typeTwo.entityName + " "
 						+subtext, true);
 			}
+
+			if(wbfActive){
+				if(numberOfWords(subtext) >= 2){
+					factor.getFeatureVector().set(factor.getFactorScope().typeOne.entityName + " "
+							+ factor.getFactorScope().typeTwo.entityName + " " + tokenizeString(subtext)[0], true);
+				}
+			}
+
 		}
 	}
 
@@ -122,5 +142,9 @@ public class WBFTemplate extends AbstractFeatureTemplate<WBFTemplate.WBFScope> {
 
 		String[] words = input.split("\\s+");
 		return words.length;
+	}
+
+	public String[] tokenizeString(String text){
+		return text.split("\\s+");
 	}
 }

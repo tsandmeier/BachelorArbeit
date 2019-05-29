@@ -16,9 +16,7 @@ import java.util.List;
 import java.util.Objects;
 
 /**
- * @author hterhors
- *
- * @date Nov 15, 2017
+ * Uses Stanford-POS-Tagger to find out what kind of object in the sentence a token is. Not working yet!
  */
 public class ML12Template extends AbstractFeatureTemplate<ML12Template.ML12Scope> {
 
@@ -32,14 +30,14 @@ public class ML12Template extends AbstractFeatureTemplate<ML12Template.ML12Scope
 	static class ML12Scope
 			extends AbstractFactorScope<ML12Scope> {
 
-		DocumentToken taggedToken;
+		String taggedToken;
 		DocumentToken phraseToken;
 
 		EntityType type;
 
 
 		public ML12Scope(
-                AbstractFeatureTemplate<ML12Scope> template, DocumentToken token, DocumentToken phraseToken, EntityType type) {
+                AbstractFeatureTemplate<ML12Scope> template, String token, EntityType type) {
 			super(template);
 			this.taggedToken = token;
 			this.type = type;
@@ -53,12 +51,13 @@ public class ML12Template extends AbstractFeatureTemplate<ML12Template.ML12Scope
 			if (!super.equals(o)) return false;
 			ML12Scope ml12Scope = (ML12Scope) o;
 			return Objects.equals(taggedToken, ml12Scope.taggedToken) &&
+					Objects.equals(phraseToken, ml12Scope.phraseToken) &&
 					Objects.equals(type, ml12Scope.type);
 		}
 
 		@Override
 		public int hashCode() {
-			return Objects.hash(super.hashCode(), taggedToken, type);
+			return Objects.hash(super.hashCode(), taggedToken, phraseToken, type);
 		}
 
 		@Override
@@ -89,11 +88,10 @@ public class ML12Template extends AbstractFeatureTemplate<ML12Template.ML12Scope
 		for (DocumentLinkedAnnotation annotation : super.<DocumentLinkedAnnotation>getPredictedAnnotations(state)) {
 			EntityType type = annotation.getEntityType();
 			for(DocumentToken token: annotation.relatedTokens){
-					if((token.getDocTokenIndex()*2)+1<=taggedDocument.tokenList.size()) {
-						DocumentToken taggedToken = taggedDocument.tokenList.get(token.getDocTokenIndex() * 2);
-						DocumentToken phrase = taggedDocument.tokenList.get((token.getDocTokenIndex() * 2)+1);
-						factors.add(new ML12Scope(this, taggedToken, phrase, type));
-					}
+						String taggedToken = tagger.getTag(token.getDocTokenIndex());
+//						DocumentToken taggedToken = taggedDocument.tokenList.get(token.getDocTokenIndex() * 2);
+//						DocumentToken phrase = taggedDocument.tokenList.get((token.getDocTokenIndex() * 2)+1);
+						factors.add(new ML12Scope(this, taggedToken, type));
 			}
 		}
 		return factors;
@@ -101,8 +99,7 @@ public class ML12Template extends AbstractFeatureTemplate<ML12Template.ML12Scope
 
 	@Override
 	public void generateFeatureVector(Factor<ML12Scope> factor) {
-		factor.getFeatureVector().set(factor.getFactorScope().type.entityName + " " +
-				factor.getFactorScope().taggedToken.getText() + " " + factor.getFactorScope().phraseToken.getText(),true);
+		factor.getFeatureVector().set(factor.getFactorScope().type.entityName + " " + factor.getFactorScope().taggedToken,true);
 
 	}
 
