@@ -15,9 +15,7 @@ import java.util.List;
 import java.util.Objects;
 
 /**
- * @author hterhors
- *
- * @date Nov 15, 2017
+ * checks if two mentions belong to the same sentence
  */
 public class MentionsInSentenceTemplate extends AbstractFeatureTemplate<MentionsInSentenceTemplate.MentionsInSentenceScope> {
 

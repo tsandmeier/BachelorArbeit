@@ -127,7 +127,7 @@ public class ML12Template extends AbstractFeatureTemplate<ML12Template.ML12Scope
 	}
 
 	private static void writeUsingFileWriter(String data, String filename) {
-		File file = new File("/home/tobias/Projekte/BachelorArbeit/testAusgaben/"+filename+".txt");
+		File file = new File("/homes/tsandmeier/Dokumente/BA/BachelorArbeit/testAusgaben/"+filename+".txt");
 		FileWriter fr = null;
 		try {
 			fr = new FileWriter(file);

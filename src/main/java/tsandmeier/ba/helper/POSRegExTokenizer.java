@@ -16,7 +16,8 @@ public class POSRegExTokenizer {
     private static Logger log = LogManager.getFormatterLogger(POSRegExTokenizer.class);
 //    private static Pattern pattern = Pattern.compile("[a-zA-Z]+|\\d+|[^\\w\\s]");
 //    private static Pattern pattern = Pattern.compile("[\\w\\d,\\.]+_[\\w\\d,\\.]+|[a-zA-Z]+|[\\d]+|[^\\w\\s]");
-    private static Pattern pattern = Pattern.compile("[\\w\\d,.]+_[\\w\\d,.]+|[a-zA-Z]+|[\\d]+|[^\\w\\s]");
+//    private static Pattern pattern = Pattern.compile("[\\w\\d,.]+_[\\w\\d,.]+|[a-zA-Z]+|[\\d]+|[^\\w\\s]");
+    private static Pattern pattern = Pattern.compile("[\\w\\d,.]+_[\\w\\d,.]+|[^\\w\\s]_[\\w\\d,.]+|[a-zA-Z]+|[\\d]+|[^\\w\\s]");
 
     public POSRegExTokenizer() {
     }
@@ -42,11 +43,7 @@ public class POSRegExTokenizer {
                     tokens.add(new Token(sentenceIndex, index, accumulatedSentenceLength + from, accumulatedSentenceLength + to, text, from));
                 }
 
-                if (text.equals(".")) {
-                    skipNext = true;
-                } else{
-                    skipNext = false;
-                }
+                skipNext = text.equals(".");
             }
             skipNext = false;
 

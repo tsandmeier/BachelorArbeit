@@ -16,12 +16,21 @@ import java.util.Objects;
 
 /**
  * checks for all the words between two mentions
- * contains:
- * WBFL <- only word in between
+ *
+ * collection of:
+ * WBNULL (noch extra)
+ * WBL <- last word inbetween if more than two words in betweeen
+ * WBF <- first word between if more than two words between
+ * arbeitstitel <- words inbetween without last and first word inbetween
  */
-public class WordsInBetweenTemplate extends AbstractFeatureTemplate<WordsInBetweenTemplate.WordsInBetweenScope> {
+public class WBLTemplate extends AbstractFeatureTemplate<WBLTemplate.WordsInBetweenScope> {
 
 	private static final int MAX_NUMBER_OF_WORDS = 6;  //6 Wörter sind deutlich erfolgreicher als 5, aber dann gibts eohl keine Steigerung mehr. Warum?
+
+	private boolean allWordsBetweenActive = false;
+	private boolean wbfActive = false;
+	private boolean wbflActive = true;
+	private boolean arbeitstitelActive = false;
 
 	static class WordsInBetweenScope
 			extends AbstractFactorScope<WordsInBetweenScope> {
@@ -113,12 +122,40 @@ public class WordsInBetweenTemplate extends AbstractFeatureTemplate<WordsInBetwe
 			);
 			String [] tokenizedSubtext = tokenizeString(subtext);
 
-
-			if (tokenizedSubtext.length<= MAX_NUMBER_OF_WORDS) {
-				factor.getFeatureVector().set(factor.getFactorScope().typeOne.entityName + " "
-						+ factor.getFactorScope().typeTwo.entityName + " "
-						+subtext, true);
+			if(allWordsBetweenActive) {
+				if (tokenizedSubtext.length <= MAX_NUMBER_OF_WORDS) {
+					factor.getFeatureVector().set(factor.getFactorScope().typeOne.entityName + " "
+							+ factor.getFactorScope().typeTwo.entityName + " "
+							+ subtext, true);
+				}
 			}
+
+			if(wbfActive){
+				if(tokenizedSubtext.length >= 2){
+					factor.getFeatureVector().set(factor.getFactorScope().typeOne.entityName + " "
+							+ factor.getFactorScope().typeTwo.entityName + " " + tokenizedSubtext[0], true);
+				}
+			}
+
+			if(wbflActive){
+				if(tokenizedSubtext.length >= 2){
+					factor.getFeatureVector().set(factor.getFactorScope().typeOne.entityName + " "
+							+ factor.getFactorScope().typeTwo.entityName + " " + tokenizedSubtext[tokenizedSubtext.length-1], true);
+				}
+			}
+
+			if(arbeitstitelActive){
+				if(tokenizedSubtext.length>2 && tokenizedSubtext.length <= MAX_NUMBER_OF_WORDS){
+
+					String[] tmpArray = new String[tokenizedSubtext.length-2];
+
+					System.arraycopy(tokenizedSubtext, 1, tmpArray, 0, tokenizedSubtext.length - 1 - 1);
+
+					factor.getFeatureVector().set("test: "+factor.getFactorScope().typeOne.entityName + " "
+							+ factor.getFactorScope().typeTwo.entityName + " " + String.join(" ", tmpArray), true);
+				}
+			}
+
 		}
 	}
 

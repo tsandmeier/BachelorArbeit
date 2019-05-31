@@ -14,10 +14,10 @@ import java.util.List;
 import java.util.Objects;
 
 /**
- * looks for the words before a mention
- * joins BM1F and BM1L and even more
+ * looks for the words after a mention
+ * joins AM1F and AM1L and even more
  */
-public class BMFLTemplate extends AbstractFeatureTemplate<BMFLTemplate.BMFLScope> {
+public class AMFLTemplate extends AbstractFeatureTemplate<AMFLTemplate.BMFLScope> {
 
 
 	private static final int NUMBER_OF_WORDS = 3;
@@ -74,7 +74,7 @@ public class BMFLTemplate extends AbstractFeatureTemplate<BMFLTemplate.BMFLScope
 		Document document = state.getInstance().getDocument();
 
 		for (DocumentLinkedAnnotation annotation : super.<DocumentLinkedAnnotation>getPredictedAnnotations(state)) {
-			DocumentToken token = annotation.relatedTokens.get(0);
+			DocumentToken token = annotation.relatedTokens.get(annotation.relatedTokens.size()-1);
 			factors.add(new BMFLScope(this, document, token, annotation.getEntityType()));
 
 		}
@@ -84,9 +84,9 @@ public class BMFLTemplate extends AbstractFeatureTemplate<BMFLTemplate.BMFLScope
 	@Override
 	public void generateFeatureVector(Factor<BMFLScope> factor) {
 		for (int i = 2; i <= NUMBER_OF_WORDS; i++) {
-			if(factor.getFactorScope().token.getDocTokenIndex() -i >= 0) {
-				DocumentToken firstToken = factor.getFactorScope().document.tokenList.get(factor.getFactorScope().token.getDocTokenIndex() - i);
-				String subtext = factor.getFactorScope().document.getContent(firstToken, factor.getFactorScope().document.tokenList.get(factor.getFactorScope().token.getDocTokenIndex() - 1));
+			if(factor.getFactorScope().token.getDocTokenIndex() +i <= factor.getFactorScope().document.tokenList.size()-1) {
+				DocumentToken lastToken = factor.getFactorScope().document.tokenList.get(factor.getFactorScope().token.getDocTokenIndex() + i);
+				String subtext = factor.getFactorScope().document.getContent(factor.getFactorScope().document.tokenList.get(factor.getFactorScope().token.getDocTokenIndex() + 1), lastToken);
 
 				factor.getFeatureVector().set(factor.getFactorScope().type.entityName + " " + subtext, true);
 			}

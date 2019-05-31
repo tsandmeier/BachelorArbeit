@@ -193,14 +193,17 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
 		List<AbstractFeatureTemplate<?>> featureTemplates = new ArrayList<>();
 
 
-//		featureTemplates.add(new NumberMBTemplate()); //schient nichts zu NumberWBT beizutragen
-//		featureTemplates.add(new BMFLTemplate()); //macht kaum Unterschied, wohl zu ähnlich zu WBF
-//		featureTemplates.add(new NumberWBTemplate());
-//		featureTemplates.add(new MentionsInSentenceTemplate());
-//		featureTemplates.add(new BigramTemplate());
-//		featureTemplates.add(new WordsInBetweenTemplate());
-//		featureTemplates.add(new StartsWithCapitalTemplate()); //verschlechtert ein bisschen, warum?
-//		featureTemplates.add(new WBNULLTemplate());
+		featureTemplates.add(new NumberMBTemplate()); //scheint nichts zu NumberWBT beizutragen
+		featureTemplates.add(new BMFLTemplate());
+		featureTemplates.add(new AMFLTemplate());
+		featureTemplates.add(new NumberWBTemplate());
+		featureTemplates.add(new MentionsInSentenceTemplate());
+		featureTemplates.add(new BigramTemplate());
+		featureTemplates.add(new WordsInBetweenTemplate()); //sehr nützlich
+		featureTemplates.add(new StartsWithCapitalTemplate()); //verschlechtert ein bisschen, warum?
+		featureTemplates.add(new WBNULLTemplate());
+		featureTemplates.add(new WBFTemplate()); //wohl nutzlos
+		featureTemplates.add(new WBOTemplate()); //scheint sehr stark zu verlangsamen! und wohl nutzlos
 
 
 //		featureTemplates.add(new MorphologicalNerlaTemplate());
@@ -208,7 +211,7 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
 //		featureTemplates.add(new IntraTokenTemplate());
 //		featureTemplates.add(new LevenshteinTemplate());
 
-		featureTemplates.add(new ML12Template());
+//		featureTemplates.add(new ML12Template());
 //		featureTemplates.add(new AvgNumberTemplate());
 
 		/**
@@ -224,7 +227,7 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
 		 * 
 		 * TODO: Find perfect number of epochs.
 		 */
-		int numberOfEpochs = 10;
+		int numberOfEpochs = 10;  //10 scheint doppelt so gut wie 9, danach wohl keine Besserung
 
 		/**
 		 * To increase the systems speed performance, we add two stopping criterion for
