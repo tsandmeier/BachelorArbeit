@@ -9,8 +9,13 @@ import de.hterhors.semanticmr.crf.variables.Document;
 import de.hterhors.semanticmr.crf.variables.DocumentToken;
 import de.hterhors.semanticmr.crf.variables.State;
 import edu.stanford.nlp.tagger.maxent.MaxentTagger;
+import jdk.nashorn.internal.parser.Token;
+import tsandmeier.ba.helper.POSTaggedTokenizer;
 
 import javax.print.Doc;
+import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;
@@ -80,9 +85,15 @@ public class ML12Template extends AbstractFeatureTemplate<ML12Template.ML12Scope
 		if(!docIsTagged) {
 			Document doc = state.getInstance().getDocument();
 			String tagged = tagger.tagString(doc.documentContent);
+			List<DocumentToken> taggedTokens = POSTaggedTokenizer.tokenizeDocumentsContent(tagged);
+			String [] tokenized = tokenizeText(tagged);
 //			System.out.println(".");
 			taggedDocument = new Document("taggedDoc", tagged);
 			//System.out.println(taggedDocument.documentContent);
+
+			writeUsingFileWriter(makeString(doc.tokenList), "original");
+			writeUsingFileWriter(tagged, "tagged");
+			writeUsingFileWriter(makeString(taggedTokens), "tokenized");
 			docIsTagged = true;
 		}
 		for (DocumentLinkedAnnotation annotation : super.<DocumentLinkedAnnotation>getPredictedAnnotations(state)) {
@@ -108,6 +119,45 @@ public class ML12Template extends AbstractFeatureTemplate<ML12Template.ML12Scope
 		String[] splitted = text.split("_");
 		String phrase = splitted[splitted.length-1];
 		return phrase;
+	}
+
+	private String[] tokenizeText(String text){
+		String[] tokenized = text.split("[^a-zA-Z0-9_\\.\\,]");
+		return tokenized;
+	}
+
+	private static void writeUsingFileWriter(String data, String filename) {
+		File file = new File("/home/tobias/Projekte/BachelorArbeit/testAusgaben/"+filename+".txt");
+		FileWriter fr = null;
+		try {
+			fr = new FileWriter(file);
+			fr.write(data);
+		} catch (IOException e) {
+			e.printStackTrace();
+		}finally{
+			//close resources
+			try {
+				fr.close();
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+		}
+	}
+
+	private String makeString (String[] tokens){
+		String output = "";
+		for (String token : tokens){
+			output = output + token + "\n";
+		}
+		return output;
+	}
+
+	private String makeString (List<DocumentToken> tokens){
+		String output = "";
+		for (DocumentToken token : tokens){
+			output = output + token.getText() + "\n";
+		}
+		return output;
 	}
 
 }
