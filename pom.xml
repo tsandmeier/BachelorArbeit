@@ -19,6 +19,27 @@
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
 
+<!--        &lt;!&ndash; https://mvnrepository.com/artifact/edu.stanford.nlp/stanford-pos-tagger &ndash;&gt;-->
+<!--        <dependency>-->
+<!--            <groupId>edu.stanford.nlp</groupId>-->
+<!--            <artifactId>stanford-pos-tagger</artifactId>-->
+<!--            <version>3.0.2</version>-->
+<!--        </dependency>-->
+
+        <dependency>
+            <groupId>edu.stanford.nlp</groupId>
+            <artifactId>stanford-corenlp</artifactId>
+            <version>3.9.2</version>
+        </dependency>
+        <dependency>
+            <groupId>edu.stanford.nlp</groupId>
+            <artifactId>stanford-corenlp</artifactId>
+            <version>3.9.2</version>
+            <classifier>models</classifier>
+        </dependency>
+
+
+
         <!-- https://mvnrepository.com/artifact/com.google.code.gson/gson -->
         <dependency>
             <groupId>com.google.code.gson</groupId>
@@ -60,6 +81,22 @@
                 <configuration>
                     <source>1.8</source>
                     <target>1.8</target>
+                </configuration>
+            </plugin>
+
+            <plugin>
+                <!-- Build an executable JAR -->
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-jar-plugin</artifactId>
+                <version>3.1.0</version>
+                <configuration>
+                    <archive>
+                        <manifest>
+                            <addClasspath>true</addClasspath>
+                            <classpathPrefix>lib/</classpathPrefix>
+                            <mainClass>tsandmeier.ba.NamedEntityRecognitionAndLinkingExample.class</mainClass>
+                        </manifest>
+                    </archive>
                 </configuration>
             </plugin>
         </plugins>

@@ -9,7 +9,6 @@ public class AgeNormalization extends AbstractNormalizationFunction {
 		super(EntityType.get("Age"));
 	}
 
-	@Override
 	public String normalize(String annotation) {
 		final String[] parts = annotation.toLowerCase().split("\\W");
 		StringBuilder normalizedString = new StringBuilder();
@@ -20,4 +19,8 @@ public class AgeNormalization extends AbstractNormalizationFunction {
 		return normalizedString.toString().trim();
 	}
 
+	@Override
+	public String interprete(String s) {
+		return null;
+	}
 }

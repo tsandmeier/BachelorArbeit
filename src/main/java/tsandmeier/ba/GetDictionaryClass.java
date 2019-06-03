@@ -2,6 +2,7 @@ package tsandmeier.ba;
 
 import de.hterhors.semanticmr.candprov.nerla.INerlaCandidateProvider;
 import de.hterhors.semanticmr.crf.structure.EntityType;
+import tsandmeier.ba.normalization.SemanticAge;
 import tsandmeier.ba.normalization.SemanticWeight;
 
 import java.io.File;
@@ -27,6 +28,8 @@ public class GetDictionaryClass implements INerlaCandidateProvider {
 	final private Map<EntityType, Set<String>> dictionary = new HashMap<>();
 
 
+	Set<EntityType> weightSet = new HashSet<>(Collections.singletonList(EntityType.get("Weight")));
+	Set<EntityType> ageSet = new HashSet<>(Collections.singletonList(EntityType.get("Age")));
 	Set<EntityType> set = new HashSet<>(Arrays.asList(EntityType.get("Weight"), EntityType.get("Age")));
 	/**
 	 * The reversed dictionary for fast look up.
@@ -73,12 +76,23 @@ public class GetDictionaryClass implements INerlaCandidateProvider {
 //		if(text.matches(".*\\d+.*")){
 //			return set;
 //		}
-		SemanticWeight sw = new SemanticWeight.Builder().interprete("200 +-10g ").build();
 
 
-		System.out.println(sw.asFormattedString());
+//		SemanticWeight sw = new SemanticWeight.Builder().interprete(text).build();
+//
+//		if(sw.exists()){
+//			return weightSet;
+//		}
+//
+//		SemanticAge sa = new SemanticAge.Builder().interprete(text).build();
+//
+//		if(sa.exists()){
+//			return ageSet;
+//		}
 
-		System.out.println(sw.exists());
+//		System.out.println(sw.asFormattedString());
+//
+//		System.out.println(sw.exists());
 
 		return reverseDictionary.getOrDefault(text, Collections.emptySet());
 	}

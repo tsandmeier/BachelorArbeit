@@ -9,7 +9,7 @@ public class WeightNormalization extends AbstractNormalizationFunction {
 		super(EntityType.get("Weight"));
 	}
 
-	@Override
+
 	public String normalize(String annotation) {
 
 		return new SemanticWeight.Builder().interprete(annotation).build().normalize().asFormattedString();
@@ -23,4 +23,8 @@ public class WeightNormalization extends AbstractNormalizationFunction {
 //		return normalizedString.toString().trim();
 	}
 
+	@Override
+	public String interprete(String s) {
+		return null;
+	}
 }

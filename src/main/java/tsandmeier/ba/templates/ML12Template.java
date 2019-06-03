@@ -9,6 +9,7 @@ import de.hterhors.semanticmr.crf.variables.Document;
 import de.hterhors.semanticmr.crf.variables.DocumentToken;
 import de.hterhors.semanticmr.crf.variables.State;
 import edu.stanford.nlp.tagger.maxent.MaxentTagger;
+import edu.stanford.nlp.tagger.maxent.TaggerConfig;
 import jdk.nashorn.internal.parser.Token;
 import tsandmeier.ba.helper.POSTaggedTokenizer;
 
@@ -19,6 +20,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;
+import java.util.Properties;
 
 /**
  * Uses Stanford-POS-Tagger to find out what kind of object in the sentence a token is. Not working yet!
@@ -28,9 +30,16 @@ public class ML12Template extends AbstractFeatureTemplate<ML12Template.ML12Scope
 	Document taggedDocument;
 	boolean docIsTagged = false;
 
-	MaxentTagger tagger = new MaxentTagger(
+	Properties props = new Properties();
 
-			"src/main/java/tsandmeier/ba/tagger/english-left3words-distsim.tagger");
+
+//	MaxentTagger tagger = new MaxentTagger(
+//
+//			"src/main/java/tsandmeier/ba/tagger/english-left3words-distsim.tagger");
+
+//	config.setProperty("tagSeparator", "TAGTAGTAG");
+
+	MaxentTagger tagger = new MaxentTagger();
 
 	static class ML12Scope
 			extends AbstractFactorScope<ML12Scope> {
@@ -83,8 +92,16 @@ public class ML12Template extends AbstractFeatureTemplate<ML12Template.ML12Scope
 	public List<ML12Scope> generateFactorScopes(State state) {
 		List<ML12Scope> factors = new ArrayList<>();
 		if(!docIsTagged) {
+			props.setProperty("tagSeparator", "TAG");
+			MaxentTagger tagger = new MaxentTagger(
+			"src/main/java/tsandmeier/ba/tagger/english-left3words-distsim.tagger", props);
+
+
+
+
 			Document doc = state.getInstance().getDocument();
 			String tagged = tagger.tagString(doc.documentContent);
+
 			List<DocumentToken> taggedTokens = POSTaggedTokenizer.tokenizeDocumentsContent(tagged);
 			String [] tokenized = tokenizeText(tagged);
 //			System.out.println(".");
@@ -93,7 +110,7 @@ public class ML12Template extends AbstractFeatureTemplate<ML12Template.ML12Scope
 
 			writeUsingFileWriter(makeString(doc.tokenList), "original");
 			writeUsingFileWriter(tagged, "tagged");
-			writeUsingFileWriter(makeString(taggedTokens), "tokenized");
+			writeUsingFileWriter(makeString(tokenized), "tokenized");
 			docIsTagged = true;
 		}
 		for (DocumentLinkedAnnotation annotation : super.<DocumentLinkedAnnotation>getPredictedAnnotations(state)) {

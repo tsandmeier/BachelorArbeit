@@ -104,9 +104,9 @@ public class AvgNumberTemplate extends AbstractFeatureTemplate<AvgNumberTemplate
 			for(String token : numberTokens) {
 				tokensum += Integer.parseInt(token);
 			}
-			factor.getFeatureVector().set(factor.getFactorScope().entityType.entityName + (tokensum/numericCounter),true);
+			factor.getFeatureVector().set(factor.getFactorScope().entityType.entityName + " " + (tokensum/numericCounter),true);
 		} else {
-			factor.getFeatureVector().set(factor.getFactorScope().entityType.entityName + " keine Zahl", true);
+//			factor.getFeatureVector().set(factor.getFactorScope().entityType.entityName + " keine Zahl", true);
 			//TODO: Fall vernünftig behandeln
 		}
 	}

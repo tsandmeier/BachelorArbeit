@@ -8,7 +8,7 @@
  curWordMinFeatureThresh = 2
                    debug = false
              debugPrefix = 
-            tagSeparator = _
+            tagSeparator = /
                 encoding = UTF-8
               iterations = 100
                     lang = english

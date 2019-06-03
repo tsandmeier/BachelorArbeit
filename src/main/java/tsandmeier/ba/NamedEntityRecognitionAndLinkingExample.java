@@ -194,6 +194,7 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
 
 
 //		featureTemplates.add(new NumberMBTemplate()); //scheint nichts zu NumberWBT beizutragen
+		featureTemplates.add(new WMTemplate()); //scheint nicht sbeizutragen, obwohl einzeln nicht schlecht
 //		featureTemplates.add(new BMFLTemplate());
 //		featureTemplates.add(new AMFLTemplate());
 //		featureTemplates.add(new NumberWBTemplate());
@@ -212,7 +213,7 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
 //		featureTemplates.add(new LevenshteinTemplate());
 
 //		featureTemplates.add(new ML12Template());
-		featureTemplates.add(new AvgNumberTemplate());
+//		featureTemplates.add(new AvgNumberTemplate());
 
 		/**
 		 * During exploration we initialize each state with no annotations. In NERLA
