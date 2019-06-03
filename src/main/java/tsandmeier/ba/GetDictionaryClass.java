@@ -2,6 +2,7 @@ package tsandmeier.ba;
 
 import de.hterhors.semanticmr.candprov.nerla.INerlaCandidateProvider;
 import de.hterhors.semanticmr.crf.structure.EntityType;
+import tsandmeier.ba.normalization.SemanticWeight;
 
 import java.io.File;
 import java.io.IOException;
@@ -72,6 +73,12 @@ public class GetDictionaryClass implements INerlaCandidateProvider {
 //		if(text.matches(".*\\d+.*")){
 //			return set;
 //		}
+		SemanticWeight sw = new SemanticWeight.Builder().interprete("200 +-10g ").build();
+
+
+		System.out.println(sw.asFormattedString());
+
+		System.out.println(sw.exists());
 
 		return reverseDictionary.getOrDefault(text, Collections.emptySet());
 	}

@@ -193,17 +193,17 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
 		List<AbstractFeatureTemplate<?>> featureTemplates = new ArrayList<>();
 
 
-		featureTemplates.add(new NumberMBTemplate()); //scheint nichts zu NumberWBT beizutragen
-		featureTemplates.add(new BMFLTemplate());
-		featureTemplates.add(new AMFLTemplate());
-		featureTemplates.add(new NumberWBTemplate());
-		featureTemplates.add(new MentionsInSentenceTemplate());
-		featureTemplates.add(new BigramTemplate());
-		featureTemplates.add(new WordsInBetweenTemplate()); //sehr nützlich
-		featureTemplates.add(new StartsWithCapitalTemplate()); //verschlechtert ein bisschen, warum?
-		featureTemplates.add(new WBNULLTemplate());
-		featureTemplates.add(new WBFTemplate()); //wohl nutzlos
-		featureTemplates.add(new WBOTemplate()); //scheint sehr stark zu verlangsamen! und wohl nutzlos
+//		featureTemplates.add(new NumberMBTemplate()); //scheint nichts zu NumberWBT beizutragen
+//		featureTemplates.add(new BMFLTemplate());
+//		featureTemplates.add(new AMFLTemplate());
+//		featureTemplates.add(new NumberWBTemplate());
+//		featureTemplates.add(new MentionsInSentenceTemplate());
+//		featureTemplates.add(new BigramTemplate());
+//		featureTemplates.add(new WordsInBetweenTemplate()); //sehr nützlich
+//		featureTemplates.add(new StartsWithCapitalTemplate()); //verschlechtert ein bisschen, warum?
+//		featureTemplates.add(new WBNULLTemplate());
+//		featureTemplates.add(new WBFTemplate()); //wohl nutzlos
+//		featureTemplates.add(new WBOTemplate()); //scheint sehr stark zu verlangsamen! und wohl nutzlos
 
 
 //		featureTemplates.add(new MorphologicalNerlaTemplate());
@@ -212,7 +212,7 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
 //		featureTemplates.add(new LevenshteinTemplate());
 
 //		featureTemplates.add(new ML12Template());
-//		featureTemplates.add(new AvgNumberTemplate());
+		featureTemplates.add(new AvgNumberTemplate());
 
 		/**
 		 * During exploration we initialize each state with no annotations. In NERLA
