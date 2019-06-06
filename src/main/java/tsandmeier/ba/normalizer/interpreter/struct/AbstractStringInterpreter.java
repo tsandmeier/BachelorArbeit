@@ -1,8 +1,10 @@
-package tsandmeier.ba.normalization;
+package tsandmeier.ba.normalizer.interpreter.struct;
+
+import tsandmeier.ba.normalizer.interpreter.struct.AbstractInterpreter;
 
 import java.util.regex.Pattern;
 
-public abstract class AbstractInterpreter implements IDatatypeInterpretation {
+public abstract class AbstractStringInterpreter extends AbstractInterpreter implements IStringInterpreter {
 
 	/**
 	 * 
@@ -23,10 +25,8 @@ public abstract class AbstractInterpreter implements IDatatypeInterpretation {
 	final protected static String connection_ = "(" + freeSpace_ + "(to|and)" + freeSpace_ + "|"
 			+ freeSpaceQuestionMark_ + "((\\+?-)|\\+(/|\\\\)-|±|" + freeSpace_ + ")" + freeSpaceQuestionMark_ + ")";
 
-	final public String surfaceForm;
-
-	public AbstractInterpreter(final String surfaceForm) {
-		this.surfaceForm = surfaceForm;
+	public AbstractStringInterpreter(final String surfaceForm) {
+		super(surfaceForm);
 	}
 
 	public static final int PATTERN_BITMASK = Pattern.CASE_INSENSITIVE + Pattern.DOTALL;
@@ -160,7 +160,7 @@ public abstract class AbstractInterpreter implements IDatatypeInterpretation {
 	}
 
 	@Override
-	public boolean exists() {
+	public boolean isInterpretable() {
 		return surfaceForm != null;
 	}
 }

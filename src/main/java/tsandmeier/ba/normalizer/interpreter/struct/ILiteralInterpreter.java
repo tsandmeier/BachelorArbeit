@@ -1,19 +1,19 @@
-package tsandmeier.ba.normalization;
+package tsandmeier.ba.normalizer.interpreter.struct;
 
 import java.io.Serializable;
 import java.text.DecimalFormat;
 import java.util.regex.Pattern;
 
-public interface IDatatypeInterpretation extends Serializable {
+public interface ILiteralInterpreter extends Serializable {
 
 	public static final DecimalFormat DECIMAL_FORMAT = new DecimalFormat("#.########");
 
-	public boolean exists();
+	public boolean isInterpretable();
 
 	public String asFormattedString();
 
-	public Pattern getPattern();
+	public ILiteralInterpreter normalize();
 
-	public IDatatypeInterpretation normalize();
-	
+	public boolean isNumeric();
+
 }

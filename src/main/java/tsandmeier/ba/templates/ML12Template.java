@@ -109,7 +109,7 @@ public class ML12Template extends AbstractFeatureTemplate<ML12Template.ML12Scope
 			//System.out.println(taggedDocument.documentContent);
 
 			writeUsingFileWriter(makeString(doc.tokenList), "original");
-			writeUsingFileWriter(tagged, "tagged");
+			writeUsingFileWriter(makeString(taggedDocument.tokenList), "tagged");
 			writeUsingFileWriter(makeString(tokenized), "tokenized");
 			docIsTagged = true;
 		}

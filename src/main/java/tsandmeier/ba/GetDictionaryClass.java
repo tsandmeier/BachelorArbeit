@@ -2,8 +2,8 @@ package tsandmeier.ba;
 
 import de.hterhors.semanticmr.candprov.nerla.INerlaCandidateProvider;
 import de.hterhors.semanticmr.crf.structure.EntityType;
-import tsandmeier.ba.normalization.SemanticAge;
-import tsandmeier.ba.normalization.SemanticWeight;
+import tsandmeier.ba.normalizer.interpreter.AgeInterpreter;
+import tsandmeier.ba.normalizer.interpreter.WeightInterpreter;
 
 import java.io.File;
 import java.io.IOException;
@@ -35,6 +35,10 @@ public class GetDictionaryClass implements INerlaCandidateProvider {
 	 * The reversed dictionary for fast look up.
 	 */
 	final private Map<String, Set<EntityType>> reverseDictionary = new HashMap<>();
+
+
+	final private Map<String, WeightInterpreter > weightCache = new HashMap<	>();
+	final private Map<String, AgeInterpreter> ageCache = new HashMap<	>();
 
 	/**
 	 * The in memory dictionary based candidate provider is the simplest form of
@@ -78,15 +82,35 @@ public class GetDictionaryClass implements INerlaCandidateProvider {
 //		}
 
 
-//		SemanticWeight sw = new SemanticWeight.Builder().interprete(text).build();
-//
-//		if(sw.exists()){
-//			return weightSet;
-//		}
-//
+		WeightInterpreter sw = null;
+
+		if((sw = weightCache.get(text))==null)
+		{
+			weightCache.put(text, sw =new WeightInterpreter(text));
+		}
+
+		if(sw.isInterpretable()){
+			return weightSet;
+		}
+
+
+		AgeInterpreter sa = null;
+
+		if((sa = ageCache.get(text))==null)
+		{
+			ageCache.put(text, sa =new AgeInterpreter(text));
+		}
+
+		if(sa.isInterpretable()){
+			return weightSet;
+		}
+
+
+
+
 //		SemanticAge sa = new SemanticAge.Builder().interprete(text).build();
 //
-//		if(sa.exists()){
+//		if(sa.exists() && sa.unit.equals("week")){
 //			return ageSet;
 //		}
 

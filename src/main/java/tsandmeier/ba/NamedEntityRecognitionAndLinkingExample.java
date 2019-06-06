@@ -194,7 +194,7 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
 
 
 //		featureTemplates.add(new NumberMBTemplate()); //scheint nichts zu NumberWBT beizutragen
-		featureTemplates.add(new WMTemplate()); //scheint nicht sbeizutragen, obwohl einzeln nicht schlecht
+//		featureTemplates.add(new WMTemplate()); //scheint nicht sbeizutragen, obwohl einzeln nicht schlecht
 //		featureTemplates.add(new BMFLTemplate());
 //		featureTemplates.add(new AMFLTemplate());
 //		featureTemplates.add(new NumberWBTemplate());
@@ -204,7 +204,11 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
 //		featureTemplates.add(new StartsWithCapitalTemplate()); //verschlechtert ein bisschen, warum?
 //		featureTemplates.add(new WBNULLTemplate());
 //		featureTemplates.add(new WBFTemplate()); //wohl nutzlos
+//
+
 //		featureTemplates.add(new WBOTemplate()); //scheint sehr stark zu verlangsamen! und wohl nutzlos
+//		featureTemplates.add(new HMTemplate());
+//		featureTemplates.add(new WBLTemplate());
 
 
 //		featureTemplates.add(new MorphologicalNerlaTemplate());

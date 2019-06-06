@@ -13,9 +13,7 @@ import java.util.List;
 import java.util.Objects;
 
 /**
- * @author hterhors
- *
- * @date Nov 15, 2017
+ * first word of a mention
  */
 public class HMTemplate extends AbstractFeatureTemplate<HMTemplate.HMScope> {
 

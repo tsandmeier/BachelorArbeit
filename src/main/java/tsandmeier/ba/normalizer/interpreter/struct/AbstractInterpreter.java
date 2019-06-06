@@ -1,8 +1,8 @@
-package tsandmeier.ba.normalization;
+package tsandmeier.ba.normalizer.interpreter.struct;
 
 import java.util.regex.Pattern;
 
-public abstract class AbstractNumericInterpreter extends AbstractInterpreter implements INumericInterpreter {
+public abstract class AbstractInterpreter implements ILiteralInterpreter {
 
 	/**
 	 * 
@@ -15,10 +15,7 @@ public abstract class AbstractNumericInterpreter extends AbstractInterpreter imp
 
 	final protected static String writtenNumbers = PRE_BOUNDS
 			+ "(one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|forteen|fifteen)";
-	/**
-	 * TODO: Maybe include , for 1,5 as 1.5
-	 */
-	final protected static String digits = "\\d{1,3}((\\.)\\d)?\\d{0,3}";
+	final protected static String digits = "\\d{1,3}((\\.|,)\\d)?\\d{0,3}";
 	final protected static String connection = "\\s?(times|per|x|-|" + BAD_CHAR + ")\\s?";
 	final protected static String relationLessConnection = "(\\sof.{2,5})?";
 	final protected static String freeSpace_ = "[^\\d\\w\\.,=]";
@@ -26,8 +23,10 @@ public abstract class AbstractNumericInterpreter extends AbstractInterpreter imp
 	final protected static String connection_ = "(" + freeSpace_ + "(to|and)" + freeSpace_ + "|"
 			+ freeSpaceQuestionMark_ + "((\\+?-)|\\+(/|\\\\)-|±|" + freeSpace_ + ")" + freeSpaceQuestionMark_ + ")";
 
-	public AbstractNumericInterpreter(final String surfaceForm) {
-		super(surfaceForm);
+	final public String surfaceForm;
+
+	public AbstractInterpreter(final String surfaceForm) {
+		this.surfaceForm = surfaceForm;
 	}
 
 	public static final int PATTERN_BITMASK = Pattern.CASE_INSENSITIVE + Pattern.DOTALL;
@@ -39,31 +38,13 @@ public abstract class AbstractNumericInterpreter extends AbstractInterpreter imp
 	 * @return unified unit
 	 */
 	protected static String mapVariation(String unitVariation) {
-		StringBuffer mappedUnit = new StringBuffer();
-		final String unitParts[] = unitVariation.toLowerCase().split("_");
-		for (int i = 0; i < unitParts.length - 1; i++) {
-			mappedUnit.append(map(unitParts[i]));
-			mappedUnit.append("_");
-		}
-		mappedUnit.append(map(unitParts[unitParts.length - 1]));
-//		System.out.println(unitVariation + "--> " + mappedUnit);
-		return mappedUnit.toString();
-	}
-
-	private static String map(String unitVariation) {
 		switch (unitVariation.toLowerCase()) {
-		case "per day":
-			return "daily";
-		case "a day":
-			return "daily";
 		case "milligram":
 			return "mg";
 		case "kilo":
 		case "kilogram":
 			return "kg";
-		case "grams":
 		case "gram":
-		case "gm":
 			return "g";
 		case "minutes":
 		case "minute":
@@ -71,9 +52,8 @@ public abstract class AbstractNumericInterpreter extends AbstractInterpreter imp
 		case "m":
 			return "min";
 		case "hours":
-		case "hour":
-		case "hr":
-			return "h";
+		case "h":
+			return "hour";
 		case "seconds":
 		case "second":
 			return "s";
@@ -105,16 +85,10 @@ public abstract class AbstractNumericInterpreter extends AbstractInterpreter imp
 			return "year";
 		case "y":
 			return "year";
-		case "%":
-			return "percentage";
-		case "mu":
-			return "miu";
 		case "u":
 			return "iu";
-		case "unit":
-			return "iu";
-		case "units":
-			return "iu";
+		case "%":
+			return "percentage";
 		default:
 			return unitVariation;
 		}
@@ -160,22 +134,13 @@ public abstract class AbstractNumericInterpreter extends AbstractInterpreter imp
 		return group.replaceAll(",", "");
 	}
 
-	protected static String clean(final String toClean) {
+	protected static String clean(final String dosage) {
 
-		// System.out.println(toClean);
-
-		String interprete = toClean.toLowerCase();
+		String interprete = dosage.toLowerCase();
 		/*
 		 * TODO: Bad heuristic!?
 		 */
-		if (interprete.matches(".*" + BAD_CHAR + "g.*"))
-			interprete = interprete.replaceAll(BAD_CHAR + "g", "µg");
-		if (interprete.matches(".*" + BAD_CHAR + "l.*"))
-			interprete = interprete.replaceAll(BAD_CHAR + "l", "µl");
-
-		interprete = interprete.replaceAll("[^\\x20-\\x7Eµ]+", "");
 		interprete = interprete.replaceAll(BAD_CHAR, "µ");
-
 		interprete = interprete.replaceAll("\\s", "");
 		interprete = interprete.replaceAll("\\.", "");
 		return interprete;
@@ -195,7 +160,7 @@ public abstract class AbstractNumericInterpreter extends AbstractInterpreter imp
 	}
 
 	@Override
-	public boolean exists() {
+	public boolean isInterpretable() {
 		return surfaceForm != null;
 	}
 }

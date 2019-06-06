@@ -27,10 +27,6 @@ public class WBOTemplate extends AbstractFeatureTemplate<WBOTemplate.WordsInBetw
 
 	private static final int MAX_NUMBER_OF_WORDS = 6;  //6 Wörter sind deutlich erfolgreicher als 5, aber dann gibts eohl keine Steigerung mehr. Warum?
 
-	private boolean allWordsBetweenActive = false;
-	private boolean wbfActive = false;
-	private boolean wbflActive = false;
-	private boolean arbeitstitelActive = true;
 
 	static class WordsInBetweenScope
 			extends AbstractFactorScope<WordsInBetweenScope> {
@@ -120,38 +116,16 @@ public class WBOTemplate extends AbstractFeatureTemplate<WBOTemplate.WordsInBetw
 			subtext = factor.getFactorScope().document.getContent(
 					factor.getFactorScope().tokenOne, factor.getFactorScope().tokenTwo
 			);
-			String [] tokenizedSubtext = tokenizeString(subtext);
+			if(subtext.length()<100) {
+				String[] tokenizedSubtext = tokenizeString(subtext);
 
-			if(allWordsBetweenActive) {
-				if (tokenizedSubtext.length <= MAX_NUMBER_OF_WORDS) {
-					factor.getFeatureVector().set(factor.getFactorScope().typeOne.entityName + " "
-							+ factor.getFactorScope().typeTwo.entityName + " "
-							+ subtext, true);
-				}
-			}
+				if (tokenizedSubtext.length > 2 && tokenizedSubtext.length <= MAX_NUMBER_OF_WORDS) {
 
-			if(wbfActive){
-				if(tokenizedSubtext.length >= 2){
-					factor.getFeatureVector().set(factor.getFactorScope().typeOne.entityName + " "
-							+ factor.getFactorScope().typeTwo.entityName + " " + tokenizedSubtext[0], true);
-				}
-			}
-
-			if(wbflActive){
-				if(tokenizedSubtext.length >= 2){
-					factor.getFeatureVector().set(factor.getFactorScope().typeOne.entityName + " "
-							+ factor.getFactorScope().typeTwo.entityName + " " + tokenizedSubtext[tokenizedSubtext.length-1], true);
-				}
-			}
-
-			if(arbeitstitelActive){
-				if(tokenizedSubtext.length>2 && tokenizedSubtext.length <= MAX_NUMBER_OF_WORDS){
-
-					String[] tmpArray = new String[tokenizedSubtext.length-2];
+					String[] tmpArray = new String[tokenizedSubtext.length - 2];
 
 					System.arraycopy(tokenizedSubtext, 1, tmpArray, 0, tokenizedSubtext.length - 1 - 1);
 
-					factor.getFeatureVector().set("test: "+factor.getFactorScope().typeOne.entityName + " "
+					factor.getFeatureVector().set("test: " + factor.getFactorScope().typeOne.entityName + " "
 							+ factor.getFactorScope().typeTwo.entityName + " " + String.join(" ", tmpArray), true);
 				}
 			}
