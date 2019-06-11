@@ -11,6 +11,7 @@ import de.hterhors.semanticmr.crf.variables.State;
 import de.hterhors.semanticmr.exce.DocumentLinkedAnnotationMismatchException;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 import java.util.Objects;
 
@@ -111,10 +112,10 @@ public class WordsInBetweenTemplate extends AbstractFeatureTemplate<WordsInBetwe
 			subtext = factor.getFactorScope().document.getContent(
 					factor.getFactorScope().tokenOne, factor.getFactorScope().tokenTwo
 			);
-			String [] tokenizedSubtext = tokenizeString(subtext);
+			String [] tokenizedSubtext = tokenizeAndReduceString(subtext);
 
 
-			if (tokenizedSubtext.length<= MAX_NUMBER_OF_WORDS) {
+			if (tokenizedSubtext.length<= MAX_NUMBER_OF_WORDS && tokenizedSubtext.length > 0) {
 				factor.getFeatureVector().set(factor.getFactorScope().typeOne.entityName + " "
 						+ factor.getFactorScope().typeTwo.entityName + " "
 						+subtext, true);
@@ -131,7 +132,11 @@ public class WordsInBetweenTemplate extends AbstractFeatureTemplate<WordsInBetwe
 		return words.length;
 	}
 
-	public String[] tokenizeString(String text){
-		return text.split("\\s+");
+	public String[] tokenizeAndReduceString(String text){
+		String[] tmpArray = text.split("\\s+");
+		if(tmpArray.length>=2){
+		return Arrays.copyOfRange(tmpArray, 1, tmpArray.length-1);
+		}
+		return new String[]{};
 	}
 }

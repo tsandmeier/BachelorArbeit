@@ -1,10 +1,10 @@
 package tsandmeier.ba.normalizer.interpreter;
 
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
-
 import tsandmeier.ba.normalizer.interpreter.struct.AbstractNumericInterpreter;
 import tsandmeier.ba.normalizer.interpreter.struct.ISingleUnit;
+
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 /*
  * Test on http://regexr.com/
@@ -111,6 +111,7 @@ public class AgeInterpreter extends AbstractNumericInterpreter {
 
 		if (matcher.find()) {
 
+			interpretable = true;
 			if (matcher.group(AgeInterpreter.agePattern1GroupName) != null) {
 				if (matcher.group(AgeInterpreter.unitsGroup) != null)
 					unit = EAgeUnits.valueOf(mapVariation(matcher.group(AgeInterpreter.unitsGroup).toLowerCase()));
@@ -130,7 +131,6 @@ public class AgeInterpreter extends AbstractNumericInterpreter {
 					if (matcher.group(AgeInterpreter.writtenToGroup) != null)
 						meanValue = mapWrittenNumbertoInt(matcher.group(AgeInterpreter.writtenToGroup));
 				}
-				interpretable = true;
 			} else if (matcher.group(AgeInterpreter.agePattern2GroupName) != null) {
 				if (matcher.group(AgeInterpreter.unitsGroup2) != null)
 					unit = EAgeUnits.valueOf(mapVariation(matcher.group(AgeInterpreter.unitsGroup2).toLowerCase()));
@@ -142,7 +142,6 @@ public class AgeInterpreter extends AbstractNumericInterpreter {
 					fromValue = mapWrittenNumbertoInt(matcher.group(AgeInterpreter.writtenFromGroup2));
 				if (matcher.group(AgeInterpreter.writtenToGroup2) != null)
 					toValue = mapWrittenNumbertoInt(matcher.group(AgeInterpreter.writtenToGroup2));
-				interpretable = true;
 			}
 			double _meanValue = meanValue == defaultMeanValue ? (fromValue + toValue) / 2 : meanValue;
 			double _fromValue = fromValue == defaultFromValue ? (meanValue - varianceValue) : fromValue;
@@ -159,17 +158,20 @@ public class AgeInterpreter extends AbstractNumericInterpreter {
 		this.toValue = toValue;
 	}
 
-	private AgeInterpreter(String surfaceForm, EAgeUnits unit, double meanValue, double fromValue, double toValue) {
+	private AgeInterpreter(String surfaceForm, EAgeUnits unit, double meanValue, double fromValue, double toValue,
+			boolean interpretable) {
 		super(surfaceForm);
 		this.unit = unit;
 		this.meanValue = meanValue;
 		this.fromValue = fromValue;
 		this.toValue = toValue;
+		this.interpretable = interpretable;
 	}
 
 	public AgeInterpreter convertTo(EAgeUnits toWeightUnit) {
 		return new AgeInterpreter(surfaceForm, toWeightUnit, convertValue(meanValue, unit, toWeightUnit),
-				convertValue(fromValue, unit, toWeightUnit), convertValue(toValue, unit, toWeightUnit));
+				convertValue(fromValue, unit, toWeightUnit), convertValue(toValue, unit, toWeightUnit),
+				this.interpretable);
 	}
 
 	@Override
@@ -184,8 +186,8 @@ public class AgeInterpreter extends AbstractNumericInterpreter {
 
 	@Override
 	public String toString() {
-		return "SemanticAge [surfaceForm=" + surfaceForm + ", unit=" + unit + ", meanValue=" + meanValue
-				+ ", fromValue=" + fromValue + ", toValue=" + toValue + "]";
+		return "AgeInterpreter [surfaceForm=" + surfaceForm + ", interpretable=" + interpretable + ", meanValue="
+				+ meanValue + ", unit=" + unit + ", fromValue=" + fromValue + ", toValue=" + toValue + "]";
 	}
 
 	@Override

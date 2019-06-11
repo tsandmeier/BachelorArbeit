@@ -28,6 +28,7 @@ import de.hterhors.semanticmr.projects.AbstractSemReadProject;
 import de.hterhors.semanticmr.projects.examples.WeightNormalization;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import tsandmeier.ba.normalizer.AgeNormalization;
 import tsandmeier.ba.specs.NERLASpecs;
 import tsandmeier.ba.templates.*;
 
@@ -76,6 +77,8 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
 
 	public NamedEntityRecognitionAndLinkingExample() {
 
+
+
 		/**
 		 * 1. STEP initialize the system.
 		 * 
@@ -102,6 +105,7 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
 				 * is bound to exactly one entity type.
 				 */
 				.registerNormalizationFunction(new WeightNormalization())
+				.registerNormalizationFunction(new AgeNormalization())
 				/**
 				 * Finally, we build the systems scope.
 				 */
@@ -193,6 +197,7 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
 		List<AbstractFeatureTemplate<?>> featureTemplates = new ArrayList<>();
 
 
+		featureTemplates.add(new BracketsTemplate());
 //		featureTemplates.add(new NumberMBTemplate()); //scheint nichts zu NumberWBT beizutragen
 //		featureTemplates.add(new WMTemplate()); //scheint nicht sbeizutragen, obwohl einzeln nicht schlecht
 //		featureTemplates.add(new BMFLTemplate());

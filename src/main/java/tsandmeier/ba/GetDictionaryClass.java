@@ -28,6 +28,10 @@ public class GetDictionaryClass implements INerlaCandidateProvider {
 	final private Map<EntityType, Set<String>> dictionary = new HashMap<>();
 
 
+
+	WeightInterpreter sw;
+	AgeInterpreter sa;
+
 	Set<EntityType> weightSet = new HashSet<>(Collections.singletonList(EntityType.get("Weight")));
 	Set<EntityType> ageSet = new HashSet<>(Collections.singletonList(EntityType.get("Age")));
 	Set<EntityType> set = new HashSet<>(Arrays.asList(EntityType.get("Weight"), EntityType.get("Age")));
@@ -55,6 +59,9 @@ public class GetDictionaryClass implements INerlaCandidateProvider {
 		/**
 		 * TODO: check file contents format.
 		 */
+
+
+
 		try {
 			for (String dictLine : Files.readAllLines(dictionaryFile.toPath())) {
 
@@ -81,29 +88,27 @@ public class GetDictionaryClass implements INerlaCandidateProvider {
 //			return set;
 //		}
 
+////
 
-		WeightInterpreter sw = null;
-
-		if((sw = weightCache.get(text))==null)
-		{
-			weightCache.put(text, sw =new WeightInterpreter(text));
-		}
-
-		if(sw.isInterpretable()){
-			return weightSet;
-		}
-
-
-		AgeInterpreter sa = null;
-
-		if((sa = ageCache.get(text))==null)
-		{
-			ageCache.put(text, sa =new AgeInterpreter(text));
-		}
-
-		if(sa.isInterpretable()){
-			return weightSet;
-		}
+//		if((sw = weightCache.get(text))==null)
+//		{
+//			weightCache.put(text, sw =new WeightInterpreter(text));
+//		}
+//
+//		if(sw.isInterpretable()){
+//			return weightSet;
+//		}
+//
+//
+//
+//		if((sa = ageCache.get(text))==null)
+//		{
+//			ageCache.put(text, sa =new AgeInterpreter(text));
+//		}
+//
+//		if(sa.isInterpretable()){
+//			return ageSet;
+//		}
 
 
 

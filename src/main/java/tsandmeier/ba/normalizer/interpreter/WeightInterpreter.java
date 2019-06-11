@@ -1,11 +1,10 @@
 package tsandmeier.ba.normalizer.interpreter;
 
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
-
 import tsandmeier.ba.normalizer.interpreter.struct.AbstractNumericInterpreter;
 import tsandmeier.ba.normalizer.interpreter.struct.ISingleUnit;
 
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 /*
  * Test on http://regexr.com/
  * 
@@ -22,13 +21,6 @@ import tsandmeier.ba.normalizer.interpreter.struct.ISingleUnit;
  * 
  */
 public class WeightInterpreter extends AbstractNumericInterpreter {
-
-	public static void main(String[] args) {
-
-		WeightInterpreter wi = new WeightInterpreter("hallo welt");
-
-		System.out.println(wi);
-	}
 
 	/**
 	 * 
@@ -140,6 +132,8 @@ public class WeightInterpreter extends AbstractNumericInterpreter {
 			about = matcher.group(WeightInterpreter.aboutGroupName) != null
 					&& !matcher.group(WeightInterpreter.aboutGroupName).trim().isEmpty();
 
+			interpretable = true;
+
 			if (matcher.group(WeightInterpreter.pattern1GrouName) != null) {
 				double fromValue_ = defaultFromValue;
 				if (matcher.group(WeightInterpreter.p1Unit1) != null)
@@ -169,7 +163,6 @@ public class WeightInterpreter extends AbstractNumericInterpreter {
 						meanValue = fromValue_;
 					}
 				}
-				interpretable = true;
 			} else if (matcher.group(WeightInterpreter.pattern2GrouName) != null) {
 				double fromValue_ = defaultFromValue;
 				if (matcher.group(WeightInterpreter.p2Unit1) != null)
@@ -190,13 +183,11 @@ public class WeightInterpreter extends AbstractNumericInterpreter {
 						meanValue = fromValue_;
 					}
 				}
-				interpretable = true;
 			} else if (matcher.group(WeightInterpreter.pattern3GrouName) != null) {
 				if (matcher.group(WeightInterpreter.p3Unit1) != null)
 					unit = EWeightUnits.valueOf(mapVariation(matcher.group(WeightInterpreter.p3Unit1).toLowerCase()));
 				if (matcher.group(WeightInterpreter.p3Numbers1) != null)
 					meanValue = Double.valueOf(matcher.group(WeightInterpreter.p3Numbers1));
-				interpretable = true;
 			}
 			double _meanValue = meanValue == defaultMeanValue ? (fromValue + toValue) / 2 : meanValue;
 			double _fromValue = fromValue == defaultFromValue ? (meanValue - varianceValue) : fromValue;
@@ -215,18 +206,19 @@ public class WeightInterpreter extends AbstractNumericInterpreter {
 	}
 
 	private WeightInterpreter(String surfaceForm, EWeightUnits unit, double meanValue, boolean about, double fromValue,
-			double toValue) {
+			double toValue, boolean interpretable) {
 		super(surfaceForm);
 		this.unit = unit;
 		this.meanValue = meanValue;
 		this.about = about;
 		this.fromValue = fromValue;
 		this.toValue = toValue;
+		this.interpretable = interpretable;
 	}
 
 	public WeightInterpreter convertTo(EWeightUnits toWeightUnit) {
 		return new WeightInterpreter(surfaceForm, toWeightUnit, convertValue(meanValue, toWeightUnit), about,
-				convertValue(fromValue, toWeightUnit), convertValue(toValue, toWeightUnit));
+				convertValue(fromValue, toWeightUnit), convertValue(toValue, toWeightUnit), this.interpretable);
 	}
 
 	public static double convertValue(double value, EWeightUnits fromWeightUnit, EWeightUnits toWeightUnit) {
