@@ -14,10 +14,12 @@ import org.apache.logging.log4j.Logger;
 
 public class POSRegExTokenizer {
     private static Logger log = LogManager.getFormatterLogger(POSRegExTokenizer.class);
-//    private static Pattern pattern = Pattern.compile("[a-zA-Z]+|\\d+|[^\\w\\s]");
+//    private static Pattern pattern = Pattern.compile("[a-zA-Z.]+|\\d+|[^\\w\\s]");
 //    private static Pattern pattern = Pattern.compile("[\\w\\d,\\.]+_[\\w\\d,\\.]+|[a-zA-Z]+|[\\d]+|[^\\w\\s]");
 //    private static Pattern pattern = Pattern.compile("[\\w\\d,.]+_[\\w\\d,.]+|[a-zA-Z]+|[\\d]+|[^\\w\\s]");
-    private static Pattern pattern = Pattern.compile("[\\w\\d,.]+_[\\w\\d,.]+|[^\\w\\s]_[\\w\\d,.]+|[a-zA-Z]+|[\\d]+|[^\\w\\s]");
+//    private static Pattern pattern = Pattern.compile("[\\w\\d]+_[\\w\\d,.]+|[^\\w\\s]_[\\w\\d,.]+|[a-zA-Z]+|[\\d]+|[^\\w\\s]");
+    //TODO: PATTERN VERBESSERN, SODASS AUCH MEHR SÄTZE GLEICH SIND(Punkt am Ende des Satzes macht oft Probleme)
+    private static Pattern pattern = Pattern.compile("[!\"#$%&'()*+,\\-.\\\\\\/:;<=>?@\\[\\]^_`{|}~§¬{}]+_[!\"#$%&'()*+,\\-.\\\\\\/:;<=>?@\\[\\]^_`{|}~§¬{}]+|[\\w\\d,.]+_[\\w\\d,\\.]+|[^\\w\\s]_[\\w\\d,.]+|[a-zA-Z]+|[\\d]+|[^\\w\\s]");
 
     public POSRegExTokenizer() {
     }
@@ -39,9 +41,9 @@ public class POSRegExTokenizer {
                 String text = matcher.group();
                 int from = matcher.start();
                 int to = matcher.end();
-                if(!skipNext) {
+//                if(!skipNext) {
                     tokens.add(new Token(sentenceIndex, index, accumulatedSentenceLength + from, accumulatedSentenceLength + to, text, from));
-                }
+//                }
 
                 skipNext = text.equals(".");
             }

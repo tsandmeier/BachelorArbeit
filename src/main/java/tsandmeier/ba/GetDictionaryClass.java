@@ -90,14 +90,14 @@ public class GetDictionaryClass implements INerlaCandidateProvider {
 
 ////
 
-//		if((sw = weightCache.get(text))==null)
-//		{
-//			weightCache.put(text, sw =new WeightInterpreter(text));
-//		}
-//
-//		if(sw.isInterpretable()){
-//			return weightSet;
-//		}
+		if((sw = weightCache.get(text))==null)
+		{
+			weightCache.put(text, sw =new WeightInterpreter(text));
+		}
+
+		if(sw.isInterpretable()){
+			return weightSet;
+		}
 //
 //
 //
