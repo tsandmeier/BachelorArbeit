@@ -237,7 +237,7 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
 		 * 
 		 * TODO: Find perfect number of epochs.
 		 */
-		int numberOfEpochs = 10;  //10 scheint doppelt so gut wie 9, danach wohl keine Besserung
+		int numberOfEpochs = 4;  //10 scheint doppelt so gut wie 9, danach wohl keine Besserung
 
 		/**
 		 * To increase the systems speed performance, we add two stopping criterion for
