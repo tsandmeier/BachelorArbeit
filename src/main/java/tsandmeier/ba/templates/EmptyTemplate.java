@@ -1,8 +1,7 @@
 package tsandmeier.ba.templates;
 
-import de.hterhors.semanticmr.crf.factor.AbstractFactorScope;
-import de.hterhors.semanticmr.crf.factor.Factor;
-import de.hterhors.semanticmr.crf.structure.EntityType;
+import de.hterhors.semanticmr.crf.model.AbstractFactorScope;
+import de.hterhors.semanticmr.crf.model.Factor;
 import de.hterhors.semanticmr.crf.structure.annotations.DocumentLinkedAnnotation;
 import de.hterhors.semanticmr.crf.templates.AbstractFeatureTemplate;
 import de.hterhors.semanticmr.crf.variables.State;
@@ -20,7 +19,7 @@ public class EmptyTemplate extends AbstractFeatureTemplate<EmptyTemplate.EmptySc
 
 
 	static class EmptyScope
-			extends AbstractFactorScope<EmptyScope> {
+			extends AbstractFactorScope {
 
 
 

@@ -1,12 +1,10 @@
 package tsandmeier.ba.templates;
 
-import de.hterhors.semanticmr.crf.factor.AbstractFactorScope;
-import de.hterhors.semanticmr.crf.factor.Factor;
+import de.hterhors.semanticmr.crf.model.AbstractFactorScope;
+import de.hterhors.semanticmr.crf.model.Factor;
 import de.hterhors.semanticmr.crf.structure.EntityType;
 import de.hterhors.semanticmr.crf.structure.annotations.DocumentLinkedAnnotation;
 import de.hterhors.semanticmr.crf.templates.AbstractFeatureTemplate;
-import de.hterhors.semanticmr.crf.variables.Document;
-import de.hterhors.semanticmr.crf.variables.DocumentToken;
 import de.hterhors.semanticmr.crf.variables.State;
 
 import java.util.ArrayList;
@@ -23,7 +21,7 @@ public class BracketsTemplate extends AbstractFeatureTemplate<BracketsTemplate.B
 
 
 	static class BracketsScope
-			extends AbstractFactorScope<BracketsScope> {
+			extends AbstractFactorScope {
 
 		private final EntityType type;
 		String surface;

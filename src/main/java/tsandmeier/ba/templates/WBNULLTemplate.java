@@ -1,10 +1,11 @@
 package tsandmeier.ba.templates;
 
-import de.hterhors.semanticmr.crf.factor.AbstractFactorScope;
-import de.hterhors.semanticmr.crf.factor.Factor;
+import de.hterhors.semanticmr.crf.model.AbstractFactorScope;
+import de.hterhors.semanticmr.crf.model.Factor;
 import de.hterhors.semanticmr.crf.structure.EntityType;
 import de.hterhors.semanticmr.crf.structure.annotations.DocumentLinkedAnnotation;
 import de.hterhors.semanticmr.crf.templates.AbstractFeatureTemplate;
+import de.hterhors.semanticmr.crf.variables.DocumentToken;
 import de.hterhors.semanticmr.crf.variables.State;
 
 import java.io.File;
@@ -16,114 +17,104 @@ import java.util.Objects;
 
 /**
  * @author hterhors
- *
  * @date Nov 15, 2017
  */
 public class WBNULLTemplate extends AbstractFeatureTemplate<WBNULLTemplate.WBNULLScope> {
 
-	static class WBNULLScope
-			extends AbstractFactorScope<WBNULLScope> {
+    static class WBNULLScope
+            extends AbstractFactorScope {
 
-		public String surfaceFormOne;
-		public String surfaceFormTwo;
-		public EntityType typeOne;
-		public EntityType typeTwo;
+        EntityType typeOne;
+        EntityType typeTwo;
 
-		public int beginWordTwo;
-		public int endWordOne;
+        DocumentToken tokenOne;
+        DocumentToken tokenTwo;
 
 
-		public WBNULLScope(
-                AbstractFeatureTemplate<WBNULLScope> template, int beginWordTwo, int endWordOne,
-                EntityType typeOne, EntityType typeTwo) {
-			super(template);
-			this.endWordOne = endWordOne;
-			this.beginWordTwo = beginWordTwo;
-			this.typeOne = typeOne;
-			this.typeTwo = typeTwo;
-		}
+        public WBNULLScope(AbstractFeatureTemplate template, EntityType typeOne, EntityType typeTwo, DocumentToken tokenOne, DocumentToken tokenTwo) {
+            super(template);
+            this.typeOne = typeOne;
+            this.typeTwo = typeTwo;
+            this.tokenOne = tokenOne;
+            this.tokenTwo = tokenTwo;
+        }
 
-		@Override
-		public int implementHashCode() {
-			// TODO Auto-generated method stub
-			return 0;
-		}
+        @Override
+        public boolean equals(Object o) {
+            if (this == o) return true;
+            if (o == null || getClass() != o.getClass()) return false;
+            if (!super.equals(o)) return false;
+            WBNULLScope that = (WBNULLScope) o;
+            return Objects.equals(typeOne, that.typeOne) &&
+                    Objects.equals(typeTwo, that.typeTwo) &&
+                    Objects.equals(tokenOne, that.tokenOne) &&
+                    Objects.equals(tokenTwo, that.tokenTwo);
+        }
 
-		@Override
-		public boolean implementEquals(Object obj) {
-			// TODO Auto-generated method stub
-			return false;
-		}
+        @Override
+        public int hashCode() {
+            return Objects.hash(super.hashCode(), typeOne, typeTwo, tokenOne, tokenTwo);
+        }
 
-		@Override
-		public boolean equals(Object o) {
-			if (this == o) return true;
-			if (o == null || getClass() != o.getClass()) return false;
-			if (!super.equals(o)) return false;
-			WBNULLScope that = (WBNULLScope) o;
-			return beginWordTwo == that.beginWordTwo &&
-					endWordOne == that.endWordOne &&
-					Objects.equals(surfaceFormOne, that.surfaceFormOne) &&
-					Objects.equals(surfaceFormTwo, that.surfaceFormTwo) &&
-					Objects.equals(typeOne, that.typeOne) &&
-					Objects.equals(typeTwo, that.typeTwo);
-		}
+        @Override
+        public int implementHashCode() {
+            // TODO Auto-generated method stub
+            return 0;
+        }
 
-		@Override
-		public int hashCode() {
-			return Objects.hash(super.hashCode(), surfaceFormOne, surfaceFormTwo, typeOne, typeTwo, beginWordTwo, endWordOne);
-		}
-	}
+        @Override
+        public boolean implementEquals(Object obj) {
+            // TODO Auto-generated method stub
+            return false;
+        }
+    }
 
-	@Override
-	public List<WBNULLScope> generateFactorScopes(State state) {
+    @Override
+    public List<WBNULLScope> generateFactorScopes(State state) {
 //		writeUsingFileWriter(state.getInstance().getDocument().documentContent);
 //		riteUsingFileWriter("Hallo");
 
-		List<WBNULLScope> factors = new ArrayList<>();
+        List<WBNULLScope> factors = new ArrayList<>();
 
-		for (DocumentLinkedAnnotation annotation : super.<DocumentLinkedAnnotation>getPredictedAnnotations(state)) {
-			for (DocumentLinkedAnnotation annotation2 :super.<DocumentLinkedAnnotation>getPredictedAnnotations(state))
-				if(!annotation.equals(annotation2)){
-					int beginWordTwo = annotation2.getStartDocCharOffset();
-					int endWordOne = annotation.getEndDocCharOffset();
-					EntityType typeOne = annotation.entityType;
-					EntityType typeTwo = annotation2.entityType;
-							factors.add(new WBNULLScope(this, beginWordTwo, endWordOne, typeOne, typeTwo));
-				}
+        for (DocumentLinkedAnnotation annotation : super.<DocumentLinkedAnnotation>getPredictedAnnotations(state)) {
+            for (DocumentLinkedAnnotation annotation2 : super.<DocumentLinkedAnnotation>getPredictedAnnotations(state))
+                if (!annotation.equals(annotation2)) {
+                    factors.add(new WBNULLScope(this, annotation.entityType, annotation2.entityType, annotation.relatedTokens.get(annotation.relatedTokens.size() - 1),
+                            annotation2.relatedTokens.get(0)));
+                }
 
-		}
-		return factors;
-	}
+        }
+        return factors;
+    }
 
-	@Override
-	public void generateFeatureVector(Factor<WBNULLScope> factor) {
-//		if(!isWordBetween(factor.getFactorScope().beginWordTwo, factor.getFactorScope().endWordOne)) {
-			factor.getFeatureVector().set("IS_WORD_BETWEEN_" + factor.getFactorScope().typeOne.entityName+" "+factor.getFactorScope().typeTwo.entityName+" "+isWordBetween(factor.getFactorScope().beginWordTwo, factor.getFactorScope().endWordOne), true);
-//			factor.getFeatureVector().set("NO_WORD_BETWEEN_FOR_TYPE_" + factor.getFactorScope().typeTwo.entityName, true);
-//			factor.getFeatureVector().set("NO_WORD_BETWEEN ", true);
-//		}
-	}
+    @Override
+    public void generateFeatureVector(Factor<WBNULLScope> factor) {
 
-	private boolean isWordBetween(int beginWordTwo, int endWordOne){
-		return (beginWordTwo - endWordOne >= 2) || (beginWordTwo - endWordOne <= -2);
-	}
+        factor.getFeatureVector().set("SEPARATED <" + factor.getFactorScope().typeOne.entityName + ", " +
+                factor.getFactorScope().typeTwo.entityName + "> " +
+                isWordBetween(factor.getFactorScope().tokenOne, factor.getFactorScope().tokenTwo), true);
 
-	private static void writeUsingFileWriter(String data) {
-		File file = new File("/home/tobias/Projekte/SemanticMachineReading/bla/inhalt.txt");
-		FileWriter fr = null;
-		try {
-			fr = new FileWriter(file);
-			fr.write(data);
-		} catch (IOException e) {
-			e.printStackTrace();
-		}finally{
-			//close resources
-			try {
-				fr.close();
-			} catch (IOException e) {
-				e.printStackTrace();
-			}
-		}
-	}
+    }
+
+    private boolean isWordBetween(DocumentToken tokenOne, DocumentToken tokenTwo) {
+        return (tokenTwo.getDocTokenIndex() - tokenOne.getDocTokenIndex() == 1);
+    }
+
+    private static void writeUsingFileWriter(String data) {
+        File file = new File("/home/tobias/Projekte/SemanticMachineReading/bla/inhalt.txt");
+        FileWriter fr = null;
+        try {
+            fr = new FileWriter(file);
+            fr.write(data);
+        } catch (IOException e) {
+            e.printStackTrace();
+        } finally {
+            //close resources
+            try {
+                fr.close();
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+        }
+    }
 }

@@ -6,10 +6,10 @@ import de.hterhors.semanticmr.corpus.distributor.AbstractCorpusDistributor;
 import de.hterhors.semanticmr.corpus.distributor.ShuffleCorpusDistributor;
 import de.hterhors.semanticmr.crf.SemanticParsingCRF;
 import de.hterhors.semanticmr.crf.exploration.EntityRecLinkExplorer;
-import de.hterhors.semanticmr.crf.factor.Model;
 import de.hterhors.semanticmr.crf.learner.AdvancedLearner;
 import de.hterhors.semanticmr.crf.learner.optimizer.SGD;
 import de.hterhors.semanticmr.crf.learner.regularizer.L2;
+import de.hterhors.semanticmr.crf.model.Model;
 import de.hterhors.semanticmr.crf.of.IObjectiveFunction;
 import de.hterhors.semanticmr.crf.of.NerlaObjectiveFunction;
 import de.hterhors.semanticmr.crf.sampling.AbstractSampler;
@@ -18,13 +18,15 @@ import de.hterhors.semanticmr.crf.sampling.stopcrit.ISamplingStoppingCriterion;
 import de.hterhors.semanticmr.crf.sampling.stopcrit.impl.ConverganceCrit;
 import de.hterhors.semanticmr.crf.sampling.stopcrit.impl.MaxChainLengthCrit;
 import de.hterhors.semanticmr.crf.templates.AbstractFeatureTemplate;
+import de.hterhors.semanticmr.crf.templates.dla.MorphologicalNerlaTemplate;
+import de.hterhors.semanticmr.crf.templates.shared.IntraTokenTemplate;
+import de.hterhors.semanticmr.crf.templates.shared.LevenshteinTemplate;
 import de.hterhors.semanticmr.crf.variables.Annotations;
 import de.hterhors.semanticmr.crf.variables.IStateInitializer;
 import de.hterhors.semanticmr.crf.variables.Instance;
 import de.hterhors.semanticmr.crf.variables.State;
 import de.hterhors.semanticmr.eval.EEvaluationDetail;
 import de.hterhors.semanticmr.init.specifications.SystemScope;
-import de.hterhors.semanticmr.projects.AbstractSemReadProject;
 import de.hterhors.semanticmr.projects.examples.WeightNormalization;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -40,8 +42,7 @@ import java.util.Map;
 
 /**
  * Example of how to perform named entity recognition and linking.
- * 
- * @author hterhors
+ *
  *
  */
 public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProject {
@@ -67,6 +68,7 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
 	 * not sufficient! Consider implementing your own candidate retrieval e.g. fuzzy
 	 * lookup, Lucene-based etc...
 	 */
+
 	private final File dictionaryFile = new File("src/main/resources/examples/nerla/dicts/organismModel.dict");
 
 	/**
@@ -86,7 +88,7 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
 		 * entities-file is important) defined specification files. The scope mainly
 		 * affects the exploration.
 		 */
-		super(SystemScope.Builder.getSpecsHandler()
+		super(SystemScope.Builder.getScopeHandler()
 				/**
 				 * We add a scope reader that reads and interprets the 4 specification files.
 				 */
@@ -175,6 +177,7 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
 		 * if not necessary.
 		 *
 		 */
+//		IObjectiveFunction objectiveFunction = new BetaNerlaObjectiveFunction(EEvaluationDetail.LITERAL);
 		IObjectiveFunction objectiveFunction = new NerlaObjectiveFunction(EEvaluationDetail.LITERAL);
 
 		/**
@@ -184,7 +187,7 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
 		 * 
 		 * TODO: find best alpha value in combination with L2-regularization.
 		 */
-		AdvancedLearner learner = new AdvancedLearner(new SGD(0.01, 0), new L2(0.0001));
+		AdvancedLearner learner = new AdvancedLearner(new SGD(0.001, 0), new L2(0.0001)); //alpha von 0.001 scheint besser als 0.01, 0.0001 macht jedoch wieder schlechter
 
 		/**
 		 * Next, we need to specify the actual feature templates. In this example we
@@ -194,26 +197,26 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
 		 * TODO: Implement further templates / features to solve your problem.
 		 * 
 		 */
-		List<AbstractFeatureTemplate<?>> featureTemplates = new ArrayList<>();
+		List<AbstractFeatureTemplate> featureTemplates = new ArrayList<>();
 
 
-		featureTemplates.add(new BracketsTemplate());
-		featureTemplates.add(new NumberMBTemplate()); //scheint nichts zu NumberWBT beizutragen
-		featureTemplates.add(new WMTemplate()); //scheint nicht sbeizutragen, obwohl einzeln nicht schlecht
+//		featureTemplates.add(new BracketsTemplate());
+//		featureTemplates.add(new NumberMBTemplate()); //scheint nichts zu NumberWBT beizutragen
+//		featureTemplates.add(new WMTemplate()); //scheint nichts beizutragen, obwohl einzeln nicht schlecht
 		featureTemplates.add(new BMFLTemplate());
 		featureTemplates.add(new AMFLTemplate());
-		featureTemplates.add(new NumberWBTemplate());
-		featureTemplates.add(new MentionsInSentenceTemplate());
-		featureTemplates.add(new BigramTemplate());
-		featureTemplates.add(new WordsInBetweenTemplate()); //sehr nützlich
-		featureTemplates.add(new StartsWithCapitalTemplate()); //verschlechtert ein bisschen, warum?
+//		featureTemplates.add(new NumberWBTemplate());
+		featureTemplates.add(new MentionsInSentenceTemplate()); //sehr nützlich
+		featureTemplates.add(new BigramTemplate(false)); //nützlich
+//		featureTemplates.add(new WordsInBetweenTemplate());
+//		featureTemplates.add(new StartsWithCapitalTemplate()); //verschlechtert ein bisschen, warum?
 		featureTemplates.add(new WBNULLTemplate());
-		featureTemplates.add(new WBFTemplate()); //wohl nutzlos
-//
+		featureTemplates.add(new WBFTemplate());
+//		featureTemplates.add(new WBOTemplate());
+		featureTemplates.add(new HMTemplate(false));
 
-//		featureTemplates.add(new WBOTemplate()); //scheint sehr stark zu verlangsamen! und wohl nutzlos
-//		featureTemplates.add(new HMTemplate());
-//		featureTemplates.add(new WBLTemplate());
+
+		featureTemplates.add(new WBLTemplate());
 
 
 //		featureTemplates.add(new MorphologicalNerlaTemplate());
@@ -237,7 +240,7 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
 		 * 
 		 * TODO: Find perfect number of epochs.
 		 */
-		int numberOfEpochs = 4;  //10 scheint doppelt so gut wie 9, danach wohl keine Besserung
+		int numberOfEpochs = 10;  //10 scheint doppelt so gut wie 9, danach wohl keine Besserung
 
 		/**
 		 * To increase the systems speed performance, we add two stopping criterion for
@@ -245,7 +248,7 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
 		 * example we set the maximum chain length to 10. That means, only 10 changes
 		 * (annotations) can be added to each document.
 		 */
-		ISamplingStoppingCriterion maxStepCrit = new MaxChainLengthCrit(8); //warum klappt nicht mit 10?
+		ISamplingStoppingCriterion maxStepCrit = new MaxChainLengthCrit(10);
 
 		/**
 		 * The next stopping criterion checks for no or only little (based on a
@@ -343,7 +346,7 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
 		 * in this case. This method returns for each instances a final state (best
 		 * state based on the trained model) that contains annotations.
 		 */
-		Map<Instance, State> testResults = crf.test(instanceProvider.getRedistributedTestInstances(), maxStepCrit,
+		Map<Instance, State> testResults = crf.predict(instanceProvider.getRedistributedTestInstances(), maxStepCrit,
 				noModelChangeCrit);
 
 		/**
@@ -351,8 +354,11 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
 		 */
 		evaluate(log, testResults);
 
-		log.info(crf.getTrainingStatistics());
-		log.info(crf.getTestStatistics());
+//		log.info(crf.getTrainingStatistics());
+//		log.info(crf.getTestStatistics());
+
+		System.out.println(crf.getTrainingStatistics());
+		System.out.println(crf.getTestStatistics());
 
 		/**
 		 * TODO: Compare results with results when changing some parameter. Implement

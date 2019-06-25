@@ -1,7 +1,7 @@
 package tsandmeier.ba.templates;
 
-import de.hterhors.semanticmr.crf.factor.AbstractFactorScope;
-import de.hterhors.semanticmr.crf.factor.Factor;
+import de.hterhors.semanticmr.crf.model.AbstractFactorScope;
+import de.hterhors.semanticmr.crf.model.Factor;
 import de.hterhors.semanticmr.crf.structure.EntityType;
 import de.hterhors.semanticmr.crf.structure.annotations.DocumentLinkedAnnotation;
 import de.hterhors.semanticmr.crf.templates.AbstractFeatureTemplate;
@@ -15,13 +15,7 @@ import java.util.List;
 import java.util.Objects;
 
 /**
- * checks for all the words between two mentions
- *
- * collection of:
- * WBNULL (noch extra)
- * WBFL <- last word inbetween if more than two words in betweeen
- * WBF <- first word between if more than two words between
- * arbeitstitel <- words inbetween without last and first word inbetween
+ * words inbetween two mentions without last and first word inbetween
  */
 public class WBOTemplate extends AbstractFeatureTemplate<WBOTemplate.WordsInBetweenScope> {
 
@@ -29,7 +23,7 @@ public class WBOTemplate extends AbstractFeatureTemplate<WBOTemplate.WordsInBetw
 
 
 	static class WordsInBetweenScope
-			extends AbstractFactorScope<WordsInBetweenScope> {
+			extends AbstractFactorScope {
 
 		public String wordAfter;
 		public DocumentToken tokenOne;
@@ -125,7 +119,7 @@ public class WBOTemplate extends AbstractFeatureTemplate<WBOTemplate.WordsInBetw
 
 					System.arraycopy(tokenizedSubtext, 1, tmpArray, 0, tokenizedSubtext.length - 1 - 1);
 
-					factor.getFeatureVector().set("test: " + factor.getFactorScope().typeOne.entityName + " "
+					factor.getFeatureVector().set(factor.getFactorScope().typeOne.entityName + " "
 							+ factor.getFactorScope().typeTwo.entityName + " " + String.join(" ", tmpArray), true);
 				}
 			}

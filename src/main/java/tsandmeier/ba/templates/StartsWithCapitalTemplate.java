@@ -1,7 +1,8 @@
 package tsandmeier.ba.templates;
 
-import de.hterhors.semanticmr.crf.factor.AbstractFactorScope;
-import de.hterhors.semanticmr.crf.factor.Factor;
+
+import de.hterhors.semanticmr.crf.model.AbstractFactorScope;
+import de.hterhors.semanticmr.crf.model.Factor;
 import de.hterhors.semanticmr.crf.structure.EntityType;
 import de.hterhors.semanticmr.crf.structure.annotations.DocumentLinkedAnnotation;
 import de.hterhors.semanticmr.crf.templates.AbstractFeatureTemplate;
@@ -12,16 +13,14 @@ import java.util.List;
 import java.util.Objects;
 
 /**
- * @author hterhors
- *
- * @date Nov 15, 2017
+ * Chcks if a mention starts with a capital
  */
 public class StartsWithCapitalTemplate extends AbstractFeatureTemplate<StartsWithCapitalTemplate.StartsWithCapitalScope> {
 
 
 
 	static class StartsWithCapitalScope
-			extends AbstractFactorScope<StartsWithCapitalScope> {
+			extends AbstractFactorScope {
 
 
 		final public String surfaceForm;

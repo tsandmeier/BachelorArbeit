@@ -1,7 +1,7 @@
 package tsandmeier.ba.templates;
 
-import de.hterhors.semanticmr.crf.factor.AbstractFactorScope;
-import de.hterhors.semanticmr.crf.factor.Factor;
+import de.hterhors.semanticmr.crf.model.AbstractFactorScope;
+import de.hterhors.semanticmr.crf.model.Factor;
 import de.hterhors.semanticmr.crf.structure.EntityType;
 import de.hterhors.semanticmr.crf.structure.annotations.DocumentLinkedAnnotation;
 import de.hterhors.semanticmr.crf.templates.AbstractFeatureTemplate;
@@ -18,7 +18,7 @@ import java.util.List;
 public class AvgNumberTemplate extends AbstractFeatureTemplate<AvgNumberTemplate.AvgNumberScope> {
 
 	static class AvgNumberScope
-			extends AbstractFactorScope<AvgNumberScope> {
+			extends AbstractFactorScope {
 
 		final public String surfaceForm;
 		final public EntityType entityType;

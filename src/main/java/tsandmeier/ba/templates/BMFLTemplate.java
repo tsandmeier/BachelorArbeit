@@ -1,7 +1,7 @@
 package tsandmeier.ba.templates;
 
-import de.hterhors.semanticmr.crf.factor.AbstractFactorScope;
-import de.hterhors.semanticmr.crf.factor.Factor;
+import de.hterhors.semanticmr.crf.model.AbstractFactorScope;
+import de.hterhors.semanticmr.crf.model.Factor;
 import de.hterhors.semanticmr.crf.structure.EntityType;
 import de.hterhors.semanticmr.crf.structure.annotations.DocumentLinkedAnnotation;
 import de.hterhors.semanticmr.crf.templates.AbstractFeatureTemplate;
@@ -20,10 +20,10 @@ import java.util.Objects;
 public class BMFLTemplate extends AbstractFeatureTemplate<BMFLTemplate.BMFLScope> {
 
 
-	private static final int NUMBER_OF_WORDS = 3;
+	private static final int NUMBER_OF_WORDS = 5;
 
 	static class BMFLScope
-			extends AbstractFactorScope<BMFLScope> {
+			extends AbstractFactorScope {
 
 		DocumentToken token;
 		EntityType type;
@@ -88,7 +88,7 @@ public class BMFLTemplate extends AbstractFeatureTemplate<BMFLTemplate.BMFLScope
 				DocumentToken firstToken = factor.getFactorScope().document.tokenList.get(factor.getFactorScope().token.getDocTokenIndex() - i);
 				String subtext = factor.getFactorScope().document.getContent(firstToken, factor.getFactorScope().document.tokenList.get(factor.getFactorScope().token.getDocTokenIndex() - 1));
 
-				factor.getFeatureVector().set(factor.getFactorScope().type.entityName + " " + subtext, true);
+				factor.getFeatureVector().set("Words before <"+factor.getFactorScope().type.entityName + ">: " + subtext, true);
 			}
 		}
 	}

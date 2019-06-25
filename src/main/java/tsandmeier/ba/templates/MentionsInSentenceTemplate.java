@@ -1,7 +1,7 @@
 package tsandmeier.ba.templates;
 
-import de.hterhors.semanticmr.crf.factor.AbstractFactorScope;
-import de.hterhors.semanticmr.crf.factor.Factor;
+import de.hterhors.semanticmr.crf.model.AbstractFactorScope;
+import de.hterhors.semanticmr.crf.model.Factor;
 import de.hterhors.semanticmr.crf.structure.EntityType;
 import de.hterhors.semanticmr.crf.structure.annotations.DocumentLinkedAnnotation;
 import de.hterhors.semanticmr.crf.templates.AbstractFeatureTemplate;
@@ -22,7 +22,7 @@ public class MentionsInSentenceTemplate extends AbstractFeatureTemplate<Mentions
     String punctuations = ".:!?";
 
 	static class MentionsInSentenceScope
-			extends AbstractFactorScope<MentionsInSentenceScope> {
+			extends AbstractFactorScope {
 
 
         public DocumentToken tokenOne;

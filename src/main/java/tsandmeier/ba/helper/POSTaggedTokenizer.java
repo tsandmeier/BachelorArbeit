@@ -43,7 +43,9 @@ public class POSTaggedTokenizer {
             Tokenization tokenization = (Tokenization)var4.next();
             Tokenization taggedtokens = POSRegExTokenizer.tokenize(tagger.tagString(sentences.get(sentenceIndex)));
 
-            if(tokenization.tokens.size() == taggedtokens.tokens.size()) {
+            if(tokenization.tokens.size() == taggedtokens.tokens.size() &&
+                    getTokenPhrase(taggedtokens.tokens.get(0)).equals(tokenization.tokens.get(0).getText()) &&
+                    getTokenPhrase(taggedtokens.tokens.get(taggedtokens.tokens.size()-1)).equals(tokenization.tokens.get(tokenization.tokens.size()-1).getText())) {
                 int senTokenIndex = 0;
 
                 for (Iterator var7 = taggedtokens.tokens.iterator(); var7.hasNext(); ++senTokenIndex) {
@@ -61,6 +63,12 @@ public class POSTaggedTokenizer {
 
         log.debug("Number of tokens: " + list.size());
         return list;
+    }
+
+    private static String getTokenPhrase(Token token) {
+        String text = token.getText();
+        String[] splitted = text.split("_");
+        return splitted[0].trim();
     }
 }
 

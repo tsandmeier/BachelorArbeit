@@ -1,7 +1,7 @@
 package tsandmeier.ba.templates;
 
-import de.hterhors.semanticmr.crf.factor.AbstractFactorScope;
-import de.hterhors.semanticmr.crf.factor.Factor;
+import de.hterhors.semanticmr.crf.model.AbstractFactorScope;
+import de.hterhors.semanticmr.crf.model.Factor;
 import de.hterhors.semanticmr.crf.structure.EntityType;
 import de.hterhors.semanticmr.crf.structure.annotations.DocumentLinkedAnnotation;
 import de.hterhors.semanticmr.crf.templates.AbstractFeatureTemplate;
@@ -17,10 +17,14 @@ import java.util.Objects;
  */
 public class HMTemplate extends AbstractFeatureTemplate<HMTemplate.HMScope> {
 
+	public HMTemplate (boolean cache){
+		super(cache);
+	}
+
 
 
 	static class HMScope
-			extends AbstractFactorScope<HMScope> {
+			extends AbstractFactorScope {
 
 		EntityType type;
 		DocumentToken headword;

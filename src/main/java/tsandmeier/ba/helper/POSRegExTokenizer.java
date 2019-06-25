@@ -19,7 +19,7 @@ public class POSRegExTokenizer {
 //    private static Pattern pattern = Pattern.compile("[\\w\\d,.]+_[\\w\\d,.]+|[a-zA-Z]+|[\\d]+|[^\\w\\s]");
 //    private static Pattern pattern = Pattern.compile("[\\w\\d]+_[\\w\\d,.]+|[^\\w\\s]_[\\w\\d,.]+|[a-zA-Z]+|[\\d]+|[^\\w\\s]");
     //TODO: PATTERN VERBESSERN, SODASS AUCH MEHR SÄTZE GLEICH SIND(Punkt am Ende des Satzes macht oft Probleme)
-    private static Pattern pattern = Pattern.compile("[!\"#$%&'()*+,\\-.\\\\\\/:;<=>?@\\[\\]^_`{|}~§¬{}]+_[!\"#$%&'()*+,\\-.\\\\\\/:;<=>?@\\[\\]^_`{|}~§¬{}]+|[\\w\\d,.]+_[\\w\\d,\\.]+|[^\\w\\s]_[\\w\\d,.]+|[a-zA-Z]+|[\\d]+|[^\\w\\s]");
+    private static Pattern pattern = Pattern.compile("[!\"#$%&'()*+,\\-.\\\\\\/:;<=>?@\\[\\]^_`{|}~§¬{}]+_[!\"#$%&'()*+,\\-.\\\\\\/:;<=>?@\\[\\]^_`{|}~§¬{}]+|[\\w\\d,.]+_[\\w\\d,\\.]+|[^\\w\\s]_[\\w\\d,.]+|[-a-zA-Z]+|[\\d]+|[^\\w\\s]");
 
     public POSRegExTokenizer() {
     }

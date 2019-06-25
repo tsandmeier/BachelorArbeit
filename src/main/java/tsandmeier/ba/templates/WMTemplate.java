@@ -1,7 +1,7 @@
 package tsandmeier.ba.templates;
 
-import de.hterhors.semanticmr.crf.factor.AbstractFactorScope;
-import de.hterhors.semanticmr.crf.factor.Factor;
+import de.hterhors.semanticmr.crf.model.AbstractFactorScope;
+import de.hterhors.semanticmr.crf.model.Factor;
 import de.hterhors.semanticmr.crf.structure.EntityType;
 import de.hterhors.semanticmr.crf.structure.annotations.DocumentLinkedAnnotation;
 import de.hterhors.semanticmr.crf.templates.AbstractFeatureTemplate;
@@ -15,12 +15,13 @@ import java.util.Objects;
 /**
  * bag of words
  */
+
 public class WMTemplate extends AbstractFeatureTemplate<WMTemplate.EmptyScope> {
 
 
 
 	static class EmptyScope
-			extends AbstractFactorScope<EmptyScope> {
+			extends AbstractFactorScope {
 
 		EntityType type;
 		List<DocumentToken> tokens;
@@ -78,10 +79,17 @@ public class WMTemplate extends AbstractFeatureTemplate<WMTemplate.EmptyScope> {
 
 	@Override
 	public void generateFeatureVector(Factor<EmptyScope> factor) {
+		List<DocumentToken> tokens = factor.getFactorScope().tokens;
 
+		for(int i = 0; i <= tokens.size(); i++) {
+			for (int j = 0; j <= i; j++) {
+				String subText = makeString(tokens.subList(j, i));
 
-		factor.getFeatureVector().set(factor.getFactorScope().type.entityName+ " " +
-				makeString(factor.getFactorScope().tokens),true);
+				factor.getFeatureVector().set(factor.getFactorScope().type.entityName+ " " +
+						subText,true);
+			}
+		}
+
 
 	}
 

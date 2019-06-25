@@ -88,8 +88,6 @@ public class GetDictionaryClass implements INerlaCandidateProvider {
 //			return set;
 //		}
 
-////
-
 		if((sw = weightCache.get(text))==null)
 		{
 			weightCache.put(text, sw =new WeightInterpreter(text));
@@ -98,7 +96,6 @@ public class GetDictionaryClass implements INerlaCandidateProvider {
 		if(sw.isInterpretable()){
 			return weightSet;
 		}
-//
 //
 //
 //		if((sa = ageCache.get(text))==null)

@@ -1,7 +1,7 @@
 package tsandmeier.ba.templates;
 
-import de.hterhors.semanticmr.crf.factor.AbstractFactorScope;
-import de.hterhors.semanticmr.crf.factor.Factor;
+import de.hterhors.semanticmr.crf.model.AbstractFactorScope;
+import de.hterhors.semanticmr.crf.model.Factor;
 import de.hterhors.semanticmr.crf.structure.EntityType;
 import de.hterhors.semanticmr.crf.structure.annotations.DocumentLinkedAnnotation;
 import de.hterhors.semanticmr.crf.templates.AbstractFeatureTemplate;
@@ -22,121 +22,125 @@ import java.util.Objects;
  */
 public class WordsInBetweenTemplate extends AbstractFeatureTemplate<WordsInBetweenTemplate.WordsInBetweenScope> {
 
-	private static final int MAX_NUMBER_OF_WORDS = 6;  //6 Wörter sind deutlich erfolgreicher als 5, aber dann gibts eohl keine Steigerung mehr. Warum?
+    private static final int MAX_NUMBER_OF_WORDS = 6;  //6 Wörter sind deutlich erfolgreicher als 5, aber dann gibts eohl keine Steigerung mehr. Warum?
 
-	static class WordsInBetweenScope
-			extends AbstractFactorScope<WordsInBetweenScope> {
+    static class WordsInBetweenScope
+            extends AbstractFactorScope {
 
-		public String wordAfter;
-		public DocumentToken tokenOne;
-		public DocumentToken tokenTwo;
+        public String wordAfter;
+        public DocumentToken tokenOne;
+        public DocumentToken tokenTwo;
 
-		public EntityType typeOne;
-		public EntityType typeTwo;
+        public EntityType typeOne;
+        public EntityType typeTwo;
 
-		public Document document;
+        public Document document;
 
-		public WordsInBetweenScope(
-				AbstractFeatureTemplate<WordsInBetweenScope> template, DocumentToken tokenOne, DocumentToken tokenTwo,
-				EntityType typeOne, EntityType typeTwo, Document document) {
-			super(template);
-			this.tokenOne = tokenOne;
-			this.tokenTwo = tokenTwo;
-			this.typeOne = typeOne;
-			this.typeTwo = typeTwo;
-			this.document = document;
-		}
+        public WordsInBetweenScope(
+                AbstractFeatureTemplate<WordsInBetweenScope> template, DocumentToken tokenOne, DocumentToken tokenTwo,
+                EntityType typeOne, EntityType typeTwo, Document document) {
+            super(template);
+            this.tokenOne = tokenOne;
+            this.tokenTwo = tokenTwo;
+            this.typeOne = typeOne;
+            this.typeTwo = typeTwo;
+            this.document = document;
+        }
 
-		@Override
-		public int implementHashCode() {
-			// TODO Auto-generated method stub
-			return 0;
-		}
+        @Override
+        public int implementHashCode() {
+            // TODO Auto-generated method stub
+            return 0;
+        }
 
-		@Override
-		public boolean implementEquals(Object obj) {
-			// TODO Auto-generated method stub
-			return false;
-		}
+        @Override
+        public boolean implementEquals(Object obj) {
+            // TODO Auto-generated method stub
+            return false;
+        }
 
-		@Override
-		public boolean equals(Object o) {
-			if (this == o) return true;
-			if (o == null || getClass() != o.getClass()) return false;
-			if (!super.equals(o)) return false;
-			WordsInBetweenScope wordsInBetweenScope = (WordsInBetweenScope) o;
-			return tokenOne == wordsInBetweenScope.tokenOne &&
-					tokenTwo == wordsInBetweenScope.tokenTwo &&
-					Objects.equals(wordAfter, wordsInBetweenScope.wordAfter) &&
-					Objects.equals(typeOne, wordsInBetweenScope.typeOne) &&
-					Objects.equals(typeTwo, wordsInBetweenScope.typeTwo);
-		}
+        @Override
+        public boolean equals(Object o) {
+            if (this == o) return true;
+            if (o == null || getClass() != o.getClass()) return false;
+            if (!super.equals(o)) return false;
+            WordsInBetweenScope that = (WordsInBetweenScope) o;
+            return Objects.equals(wordAfter, that.wordAfter) &&
+                    Objects.equals(tokenOne, that.tokenOne) &&
+                    Objects.equals(tokenTwo, that.tokenTwo) &&
+                    Objects.equals(typeOne, that.typeOne) &&
+                    Objects.equals(typeTwo, that.typeTwo) &&
+                    Objects.equals(document, that.document);
+        }
 
-		@Override
-		public int hashCode() {
-			return Objects.hash(super.hashCode(), wordAfter, tokenOne, tokenTwo, typeOne, typeTwo);
-		}
-	}
+        @Override
+        public int hashCode() {
+            return Objects.hash(super.hashCode(), wordAfter, tokenOne, tokenTwo, typeOne, typeTwo, document);
+        }
+    }
 
-	@Override
-	public List<WordsInBetweenScope> generateFactorScopes(State state) {
-		List<WordsInBetweenScope> factors = new ArrayList<>();
-		Document document = state.getInstance().getDocument();
+    @Override
+    public List<WordsInBetweenScope> generateFactorScopes(State state) {
+        List<WordsInBetweenScope> factors = new ArrayList<>();
+        Document document = state.getInstance().getDocument();
 
-		for (DocumentLinkedAnnotation annotation : super.<DocumentLinkedAnnotation>getPredictedAnnotations(state)) {
-			for (DocumentLinkedAnnotation annotation2 : super.<DocumentLinkedAnnotation>getPredictedAnnotations(state)){
-				if(!annotation.equals(annotation2)) {
-					try {
-						factors.add(new WordsInBetweenScope(this,
-								document.getTokenByCharOffset(annotation.documentPosition.docCharOffset),
-								document.getTokenByCharOffset(annotation2.documentPosition.docCharOffset),
-								annotation.entityType, annotation2.entityType,
-								document));
-					} catch (DocumentLinkedAnnotationMismatchException e) {
-						e.printStackTrace();
-					}
-				}
-			}
-		}
-		return factors;
-	}
+        for (DocumentLinkedAnnotation annotation : super.<DocumentLinkedAnnotation>getPredictedAnnotations(state)) {
+            for (DocumentLinkedAnnotation annotation2 : super.<DocumentLinkedAnnotation>getPredictedAnnotations(state)) {
+                if (!annotation.equals(annotation2)) {
 
-	@Override
-	public void generateFeatureVector(Factor<WordsInBetweenScope> factor) {
-		String subtext;
+                    DocumentToken firstToken = annotation.relatedTokens.get(annotation.relatedTokens.size() - 1);
+                    DocumentToken secondToken = annotation2.relatedTokens.get(0);
+                    if (firstToken.getDocTokenIndex() > 0 && secondToken.getDocTokenIndex() < document.tokenList.size() - 1 &&
+                            firstToken.getDocTokenIndex() + 1 < secondToken.getDocTokenIndex()) {
+                        factors.add(new WordsInBetweenScope(this,
+                                document.tokenList.get(firstToken.getDocTokenIndex() + 1),
+                                document.tokenList.get(secondToken.getDocTokenIndex() - 1),
+                                annotation.entityType, annotation2.entityType,
+                                document));
+                    }
+                }
+            }
+        }
+        return factors;
+    }
 
+    @Override
+    public void generateFeatureVector(Factor<WordsInBetweenScope> factor) {
 
-		if (factor.getFactorScope().tokenOne.getDocCharOffset()<factor.getFactorScope().tokenTwo.getDocCharOffset()) {
+        String subtext;
 
-			//get all words between the mentions
-			subtext = factor.getFactorScope().document.getContent(
-					factor.getFactorScope().tokenOne, factor.getFactorScope().tokenTwo
-			);
-			String [] tokenizedSubtext = tokenizeAndReduceString(subtext);
+        //get all words between the mentions
+        subtext = factor.getFactorScope().document.getContent(
+                factor.getFactorScope().tokenOne, factor.getFactorScope().tokenTwo
+        );
 
+        String[] tokenizedSubtext = tokenizeString(subtext);
 
-			if (tokenizedSubtext.length<= MAX_NUMBER_OF_WORDS && tokenizedSubtext.length > 0) {
-				factor.getFeatureVector().set(factor.getFactorScope().typeOne.entityName + " "
-						+ factor.getFactorScope().typeTwo.entityName + " "
-						+subtext, true);
-			}
-		}
-	}
+        if (tokenizedSubtext.length <= MAX_NUMBER_OF_WORDS && tokenizedSubtext.length > 0) {
+            factor.getFeatureVector().set(factor.getFactorScope().typeOne.entityName + " "
+                    + factor.getFactorScope().typeTwo.entityName + " "
+                    + subtext, true);
+        }
+    }
 
-	public int numberOfWords(String input) {
-		if (input == null || input.isEmpty()) {
-			return 0;
-		}
+    public int numberOfWords(String input) {
+        if (input == null || input.isEmpty()) {
+            return 0;
+        }
 
-		String[] words = input.split("\\s+");
-		return words.length;
-	}
+        String[] words = input.split("\\s+");
+        return words.length;
+    }
 
-	public String[] tokenizeAndReduceString(String text){
-		String[] tmpArray = text.split("\\s+");
-		if(tmpArray.length>=2){
-		return Arrays.copyOfRange(tmpArray, 1, tmpArray.length-1);
-		}
-		return new String[]{};
-	}
+    public String[] tokenizeAndReduceString(String text) {
+        String[] tmpArray = text.split("\\s+");
+        if (tmpArray.length >= 2) {
+            return Arrays.copyOfRange(tmpArray, 1, tmpArray.length - 1);
+        }
+        return new String[]{};
+    }
+
+    public String[] tokenizeString(String text) {
+        return text.split("\\s+");
+    }
 }

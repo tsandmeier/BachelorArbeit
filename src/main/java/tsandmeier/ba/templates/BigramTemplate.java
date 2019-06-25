@@ -1,8 +1,8 @@
 package tsandmeier.ba.templates;
 
 
-import de.hterhors.semanticmr.crf.factor.AbstractFactorScope;
-import de.hterhors.semanticmr.crf.factor.Factor;
+import de.hterhors.semanticmr.crf.model.AbstractFactorScope;
+import de.hterhors.semanticmr.crf.model.Factor;
 import de.hterhors.semanticmr.crf.structure.EntityType;
 import de.hterhors.semanticmr.crf.structure.annotations.DocumentLinkedAnnotation;
 import de.hterhors.semanticmr.crf.templates.AbstractFeatureTemplate;
@@ -14,8 +14,11 @@ import java.util.List;
 
 public class BigramTemplate extends AbstractFeatureTemplate<BigramTemplate.BigramScope> {
 
+    public BigramTemplate (boolean cache){
+        super(false);
+    }
 
-    private static final int MAX_NGRAM_SIZE = 4;
+    private static final int MAX_NGRAM_SIZE = 2; //2 scheint das beste zu sein
     private static final int MIN_NGRAM_SIZE = 2;
 
     /**
@@ -33,7 +36,7 @@ public class BigramTemplate extends AbstractFeatureTemplate<BigramTemplate.Bigra
      * @author hterhors
      *
      */
-    class BigramScope extends AbstractFactorScope<BigramScope> {
+    class BigramScope extends AbstractFactorScope {
 
         /**
          * The variable that stores a surface that is used for feature generation later.
@@ -153,6 +156,8 @@ public class BigramTemplate extends AbstractFeatureTemplate<BigramTemplate.Bigra
 		 * The next set of features concatenates single tokens (split by none-words)
 		 * of the surface form with the class label.
 		 */
+
+		//TODO: WARUM NICHT GLEICH TOKENLIST ÜBERGEBEN, STATT SPÄTER ZU SPLITTEN?
 
         for (String token : surfaceForm.split("\\W")) {
             for(int i = 0; i < token.length(); i++){

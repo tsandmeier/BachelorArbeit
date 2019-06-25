@@ -1,7 +1,7 @@
 package tsandmeier.ba.templates;
 
-import de.hterhors.semanticmr.crf.factor.AbstractFactorScope;
-import de.hterhors.semanticmr.crf.factor.Factor;
+import de.hterhors.semanticmr.crf.model.AbstractFactorScope;
+import de.hterhors.semanticmr.crf.model.Factor;
 import de.hterhors.semanticmr.crf.structure.EntityType;
 import de.hterhors.semanticmr.crf.structure.annotations.DocumentLinkedAnnotation;
 import de.hterhors.semanticmr.crf.templates.AbstractFeatureTemplate;
@@ -12,16 +12,14 @@ import java.util.List;
 import java.util.Objects;
 
 /**
- * @author hterhors
- *
- * @date Nov 15, 2017
+ * Checks the Number of other mentions between two mentions
  */
 public class NumberMBTemplate extends AbstractFeatureTemplate<NumberMBTemplate.NumberMBScope> {
 
 
 
 	static class NumberMBScope
-			extends AbstractFactorScope<NumberMBScope> {
+			extends AbstractFactorScope {
 
 		int offsetOne;
 		int offsetTwo;
