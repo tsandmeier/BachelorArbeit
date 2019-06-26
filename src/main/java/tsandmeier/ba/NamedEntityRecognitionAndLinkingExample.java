@@ -200,7 +200,7 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
 		List<AbstractFeatureTemplate> featureTemplates = new ArrayList<>();
 
 
-//		featureTemplates.add(new BracketsTemplate());
+		featureTemplates.add(new BracketsTemplate());
 //		featureTemplates.add(new NumberMBTemplate()); //scheint nichts zu NumberWBT beizutragen
 //		featureTemplates.add(new WMTemplate()); //scheint nichts beizutragen, obwohl einzeln nicht schlecht
 		featureTemplates.add(new BMFLTemplate());
@@ -208,12 +208,14 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
 //		featureTemplates.add(new NumberWBTemplate());
 		featureTemplates.add(new MentionsInSentenceTemplate()); //sehr nützlich
 		featureTemplates.add(new BigramTemplate(false)); //nützlich
-//		featureTemplates.add(new WordsInBetweenTemplate());
-//		featureTemplates.add(new StartsWithCapitalTemplate()); //verschlechtert ein bisschen, warum?
+		featureTemplates.add(new WordsInBetweenTemplate());
+		featureTemplates.add(new StartsWithCapitalTemplate()); //verschlechtert ein bisschen, warum?
 		featureTemplates.add(new WBNULLTemplate());
 		featureTemplates.add(new WBFTemplate());
 //		featureTemplates.add(new WBOTemplate());
 		featureTemplates.add(new HMTemplate(false));
+
+		//		featureTemplates.add(new WeightBetweenTemplate());
 
 
 		featureTemplates.add(new WBLTemplate());
@@ -224,7 +226,7 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
 //		featureTemplates.add(new IntraTokenTemplate());
 //		featureTemplates.add(new LevenshteinTemplate());
 
-//		featureTemplates.add(new ML12Template());
+		featureTemplates.add(new ML12Template());
 //		featureTemplates.add(new AvgNumberTemplate());
 
 		/**

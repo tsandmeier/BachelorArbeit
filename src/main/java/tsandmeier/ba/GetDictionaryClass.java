@@ -98,14 +98,14 @@ public class GetDictionaryClass implements INerlaCandidateProvider {
 		}
 //
 //
-//		if((sa = ageCache.get(text))==null)
-//		{
-//			ageCache.put(text, sa =new AgeInterpreter(text));
-//		}
-//
-//		if(sa.isInterpretable()){
-//			return ageSet;
-//		}
+		if((sa = ageCache.get(text))==null)
+		{
+			ageCache.put(text, sa =new AgeInterpreter(text));
+		}
+
+		if(sa.isInterpretable()){
+			return ageSet;
+		}
 
 
 

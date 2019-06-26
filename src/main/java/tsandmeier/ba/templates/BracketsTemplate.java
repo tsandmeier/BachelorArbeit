@@ -79,7 +79,7 @@ public class BracketsTemplate extends AbstractFeatureTemplate<BracketsTemplate.B
 
 			if(annotation.document.documentContent.length() > annotation.getEndDocCharOffset()+1 && annotation.getStartDocCharOffset()>0) {
 				char firstChar = annotation.document.documentContent.charAt(annotation.getStartDocCharOffset() - 1);
-				char lastChar = annotation.document.documentContent.charAt(annotation.getEndDocCharOffset() + 1);
+				char lastChar = annotation.document.documentContent.charAt(annotation.getEndDocCharOffset());
 
 				factors.add(new BracketsScope(this, firstChar, lastChar, surface, type));
 			}
@@ -90,13 +90,8 @@ public class BracketsTemplate extends AbstractFeatureTemplate<BracketsTemplate.B
 	@Override
 	public void generateFeatureVector(Factor<BracketsScope> factor) {
 
-		boolean isFirstBracket = isBracket(factor.getFactorScope().firstChar);
-		boolean isLastBracket = isBracket(factor.getFactorScope().lastChar);
-		boolean isInBrackets = false;
+		boolean isInBrackets = isBracket(factor.getFactorScope().firstChar) && isBracket(factor.getFactorScope().lastChar);
 
-		if(isFirstBracket&&isLastBracket){
-			isInBrackets = true;
-		}
 
 		factor.getFeatureVector().set("In Brackets: " + factor.getFactorScope().type.entityName + " " +
 				isInBrackets, true);

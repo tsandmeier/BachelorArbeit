@@ -87,17 +87,13 @@ public class WordsInBetweenTemplate extends AbstractFeatureTemplate<WordsInBetwe
         for (DocumentLinkedAnnotation annotation : super.<DocumentLinkedAnnotation>getPredictedAnnotations(state)) {
             for (DocumentLinkedAnnotation annotation2 : super.<DocumentLinkedAnnotation>getPredictedAnnotations(state)) {
                 if (!annotation.equals(annotation2)) {
-
                     DocumentToken firstToken = annotation.relatedTokens.get(annotation.relatedTokens.size() - 1);
                     DocumentToken secondToken = annotation2.relatedTokens.get(0);
-                    if (firstToken.getDocTokenIndex() > 0 && secondToken.getDocTokenIndex() < document.tokenList.size() - 1 &&
-                            firstToken.getDocTokenIndex() + 1 < secondToken.getDocTokenIndex()) {
+                    if(firstToken.getDocTokenIndex()+1 < secondToken.getDocTokenIndex())
                         factors.add(new WordsInBetweenScope(this,
-                                document.tokenList.get(firstToken.getDocTokenIndex() + 1),
-                                document.tokenList.get(secondToken.getDocTokenIndex() - 1),
+                                firstToken, secondToken,
                                 annotation.entityType, annotation2.entityType,
                                 document));
-                    }
                 }
             }
         }
@@ -109,16 +105,20 @@ public class WordsInBetweenTemplate extends AbstractFeatureTemplate<WordsInBetwe
 
         String subtext;
 
+        int indexTokenOne = factor.getFactorScope().tokenOne.getDocTokenIndex();
+        int indexTokenTwo = factor.getFactorScope().tokenTwo.getDocTokenIndex();
+
         //get all words between the mentions
         subtext = factor.getFactorScope().document.getContent(
-                factor.getFactorScope().tokenOne, factor.getFactorScope().tokenTwo
+                factor.getFactorScope().document.tokenList.get(indexTokenOne+1),
+                factor.getFactorScope().document.tokenList.get(indexTokenTwo-1)
         );
 
         String[] tokenizedSubtext = tokenizeString(subtext);
 
         if (tokenizedSubtext.length <= MAX_NUMBER_OF_WORDS && tokenizedSubtext.length > 0) {
-            factor.getFeatureVector().set(factor.getFactorScope().typeOne.entityName + " "
-                    + factor.getFactorScope().typeTwo.entityName + " "
+            factor.getFeatureVector().set("WORDS BETWEEN: <" +factor.getFactorScope().typeOne.entityName + ", "
+                    + factor.getFactorScope().typeTwo.entityName + ">: "
                     + subtext, true);
         }
     }
