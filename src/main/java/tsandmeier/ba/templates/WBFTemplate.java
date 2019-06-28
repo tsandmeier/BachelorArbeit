@@ -14,7 +14,7 @@ import java.util.List;
 import java.util.Objects;
 
 /**
- * last word inbetween if more than two words in betweeen
+ * first word inbetween if more than two words in betweeen
  */
 public class WBFTemplate extends AbstractFeatureTemplate<WBFTemplate.WordsInBetweenScope> {
 

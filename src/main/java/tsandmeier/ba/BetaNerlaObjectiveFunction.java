@@ -12,8 +12,15 @@ public class BetaNerlaObjectiveFunction implements IObjectiveFunction {
 
 	final private NerlaEvaluator evaluator;
 
+	int beta = 2;
+
 	public BetaNerlaObjectiveFunction(EEvaluationDetail evaluationDetail) {
 		this.evaluator = new NerlaEvaluator(evaluationDetail);
+	}
+
+	public BetaNerlaObjectiveFunction(EEvaluationDetail evaluationDetail, int beta) {
+		this.evaluator = new NerlaEvaluator(evaluationDetail);
+		this.beta = beta;
 	}
 
 	public BetaNerlaObjectiveFunction() {
@@ -22,7 +29,7 @@ public class BetaNerlaObjectiveFunction implements IObjectiveFunction {
 
 	@Override
 	public void score(State state) {
-		state.setObjectiveScore(state.score(evaluator).getFbeta(4));
+		state.setObjectiveScore(state.score(evaluator).getFbeta(beta));
 	}
 
 	@Override

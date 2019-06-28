@@ -18,7 +18,7 @@ public class AbstractSemReadProject {
 	public AbstractSemReadProject(SystemScope build) {
 	}
 
-	public void evaluate(Logger log, Map<Instance, State> testResults) {
+	public Score evaluate(Logger log, Map<Instance, State> testResults) {
 		Score mean = new Score();
 		for (Entry<Instance, State> res : testResults.entrySet()) {
 
@@ -32,5 +32,6 @@ public class AbstractSemReadProject {
 		}
 		log.info("Mean Score: " + mean);
 		System.out.println("Mean Score: " + mean);
+		return mean;
 	}
 }
