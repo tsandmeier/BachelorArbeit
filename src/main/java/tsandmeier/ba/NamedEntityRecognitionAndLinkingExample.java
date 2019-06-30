@@ -44,9 +44,9 @@ import java.util.Map;
 public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProject {
     private static Logger log = LogManager.getFormatterLogger(NamedEntityRecognitionAndLinkingExample.class);
     private final boolean overrideModel = true;
-    private int mode = 1;
     SemanticParsingCRF crf;
     private IEvaluatable.Score mean;
+    private int mode;
 
     /**1: all
      * 2: singleContextTemplates
@@ -215,7 +215,7 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
                 addDoubleContextTemplates(featureTemplates);
                 addSingleMentionTemplates(featureTemplates);
                 featureTemplates.add(new BracketsTemplate()); //scheint nichts zu NumberWBT beizutragen
-                featureTemplates.add(new ML12Template());
+//                featureTemplates.add(new ML12Template());
                 break;
             case 2:
                 addsingleContextTemplates(featureTemplates);
@@ -271,7 +271,7 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
          *
          * TODO: Find perfect number of epochs.
          */
-        int numberOfEpochs = 1;  //10 scheint doppelt so gut wie 9, danach wohl keine Besserung
+        int numberOfEpochs = 10;  //10 scheint doppelt so gut wie 9, danach wohl keine Besserung
 
         /**
          * To increase the systems speed performance, we add two stopping criterion for
