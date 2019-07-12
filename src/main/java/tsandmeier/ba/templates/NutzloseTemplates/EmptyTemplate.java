@@ -1,4 +1,4 @@
-package tsandmeier.ba.templates;
+package tsandmeier.ba.templates.NutzloseTemplates;
 
 import de.hterhors.semanticmr.crf.model.AbstractFactorScope;
 import de.hterhors.semanticmr.crf.model.Factor;
@@ -10,9 +10,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author hterhors
  *
- * @date Nov 15, 2017
  */
 public class EmptyTemplate extends AbstractFeatureTemplate<EmptyTemplate.EmptyScope> {
 

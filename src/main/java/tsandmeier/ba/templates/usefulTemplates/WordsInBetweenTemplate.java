@@ -1,4 +1,4 @@
-package tsandmeier.ba.templates;
+package tsandmeier.ba.templates.usefulTemplates;
 
 import de.hterhors.semanticmr.crf.model.AbstractFactorScope;
 import de.hterhors.semanticmr.crf.model.Factor;
@@ -8,7 +8,6 @@ import de.hterhors.semanticmr.crf.templates.AbstractFeatureTemplate;
 import de.hterhors.semanticmr.crf.variables.Document;
 import de.hterhors.semanticmr.crf.variables.DocumentToken;
 import de.hterhors.semanticmr.crf.variables.State;
-import de.hterhors.semanticmr.exce.DocumentLinkedAnnotationMismatchException;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -20,11 +19,11 @@ import java.util.Objects;
  * contains:
  * WBFL <- only word in between
  */
-public class WordsInBetweenTemplate extends AbstractFeatureTemplate<WordsInBetweenTemplate.WordsInBetweenScope> {
+public class WordsInBetweenTemplate extends AbstractFeatureTemplate<WordsInBetweenTemplate.AreWordsInBetweenScope> {
 
     private static final int MAX_NUMBER_OF_WORDS = 6;  //6 Wörter sind deutlich erfolgreicher als 5, aber dann gibts eohl keine Steigerung mehr. Warum?
 
-    static class WordsInBetweenScope
+    static class AreWordsInBetweenScope
             extends AbstractFactorScope {
 
         public String wordAfter;
@@ -36,8 +35,8 @@ public class WordsInBetweenTemplate extends AbstractFeatureTemplate<WordsInBetwe
 
         public Document document;
 
-        public WordsInBetweenScope(
-                AbstractFeatureTemplate<WordsInBetweenScope> template, DocumentToken tokenOne, DocumentToken tokenTwo,
+        public AreWordsInBetweenScope(
+                AbstractFeatureTemplate<AreWordsInBetweenScope> template, DocumentToken tokenOne, DocumentToken tokenTwo,
                 EntityType typeOne, EntityType typeTwo, Document document) {
             super(template);
             this.tokenOne = tokenOne;
@@ -64,7 +63,7 @@ public class WordsInBetweenTemplate extends AbstractFeatureTemplate<WordsInBetwe
             if (this == o) return true;
             if (o == null || getClass() != o.getClass()) return false;
             if (!super.equals(o)) return false;
-            WordsInBetweenScope that = (WordsInBetweenScope) o;
+            AreWordsInBetweenScope that = (AreWordsInBetweenScope) o;
             return Objects.equals(wordAfter, that.wordAfter) &&
                     Objects.equals(tokenOne, that.tokenOne) &&
                     Objects.equals(tokenTwo, that.tokenTwo) &&
@@ -80,8 +79,8 @@ public class WordsInBetweenTemplate extends AbstractFeatureTemplate<WordsInBetwe
     }
 
     @Override
-    public List<WordsInBetweenScope> generateFactorScopes(State state) {
-        List<WordsInBetweenScope> factors = new ArrayList<>();
+    public List<AreWordsInBetweenScope> generateFactorScopes(State state) {
+        List<AreWordsInBetweenScope> factors = new ArrayList<>();
         Document document = state.getInstance().getDocument();
 
         for (DocumentLinkedAnnotation annotation : super.<DocumentLinkedAnnotation>getPredictedAnnotations(state)) {
@@ -89,8 +88,8 @@ public class WordsInBetweenTemplate extends AbstractFeatureTemplate<WordsInBetwe
                 if (!annotation.equals(annotation2)) {
                     DocumentToken firstToken = annotation.relatedTokens.get(annotation.relatedTokens.size() - 1);
                     DocumentToken secondToken = annotation2.relatedTokens.get(0);
-                    if(firstToken.getDocTokenIndex()+1 < secondToken.getDocTokenIndex())
-                        factors.add(new WordsInBetweenScope(this,
+                    if (firstToken.getDocTokenIndex() < secondToken.getDocTokenIndex())
+                        factors.add(new AreWordsInBetweenScope(this,
                                 firstToken, secondToken,
                                 annotation.entityType, annotation2.entityType,
                                 document));
@@ -101,7 +100,7 @@ public class WordsInBetweenTemplate extends AbstractFeatureTemplate<WordsInBetwe
     }
 
     @Override
-    public void generateFeatureVector(Factor<WordsInBetweenScope> factor) {
+    public void generateFeatureVector(Factor<AreWordsInBetweenScope> factor) {
 
         String subtext;
 
@@ -109,15 +108,17 @@ public class WordsInBetweenTemplate extends AbstractFeatureTemplate<WordsInBetwe
         int indexTokenTwo = factor.getFactorScope().tokenTwo.getDocTokenIndex();
 
         //get all words between the mentions
-        subtext = factor.getFactorScope().document.getContent(
-                factor.getFactorScope().document.tokenList.get(indexTokenOne+1),
-                factor.getFactorScope().document.tokenList.get(indexTokenTwo-1)
-        );
 
-        String[] tokenizedSubtext = tokenizeString(subtext);
+        if (indexTokenTwo - indexTokenOne == 1) {
+            factor.getFeatureVector().set("NO WORDS BETWEEN: <" + factor.getFactorScope().typeOne.entityName + ", " +
+                    factor.getFactorScope().typeTwo.entityName + "> ", true);
+        } else if (indexTokenTwo - indexTokenOne < MAX_NUMBER_OF_WORDS) {
+            subtext = factor.getFactorScope().document.getContent(
+                    factor.getFactorScope().document.tokenList.get(indexTokenOne + 1),
+                    factor.getFactorScope().document.tokenList.get(indexTokenTwo - 1)
+            );
 
-        if (tokenizedSubtext.length <= MAX_NUMBER_OF_WORDS && tokenizedSubtext.length > 0) {
-            factor.getFeatureVector().set("WORDS BETWEEN: <" +factor.getFactorScope().typeOne.entityName + ", "
+            factor.getFeatureVector().set("WORDS BETWEEN: <" + factor.getFactorScope().typeOne.entityName + ", "
                     + factor.getFactorScope().typeTwo.entityName + ">: "
                     + subtext, true);
         }

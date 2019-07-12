@@ -1,4 +1,4 @@
-package tsandmeier.ba.templates;
+package tsandmeier.ba.templates.usefulTemplates;
 
 import de.hterhors.semanticmr.crf.model.AbstractFactorScope;
 import de.hterhors.semanticmr.crf.model.Factor;
@@ -16,9 +16,13 @@ import java.util.Objects;
 /**
  * looks for the words before a mention
  * joins BM1F and BM1L and even more
+ * looks for second/third word before mention
  */
 public class BMFLTemplate extends AbstractFeatureTemplate<BMFLTemplate.BMFLScope> {
 
+	public BMFLTemplate (boolean cache){
+		super(cache);
+	}
 
 	private static final int NUMBER_OF_WORDS = 5;
 
@@ -83,12 +87,15 @@ public class BMFLTemplate extends AbstractFeatureTemplate<BMFLTemplate.BMFLScope
 
 	@Override
 	public void generateFeatureVector(Factor<BMFLScope> factor) {
+		DocumentToken firstToken;
+		String subtext;
 		for (int i = 2; i <= NUMBER_OF_WORDS; i++) {
 			if(factor.getFactorScope().token.getDocTokenIndex() -i >= 0) {
-				DocumentToken firstToken = factor.getFactorScope().document.tokenList.get(factor.getFactorScope().token.getDocTokenIndex() - i);
-				String subtext = factor.getFactorScope().document.getContent(firstToken, factor.getFactorScope().document.tokenList.get(factor.getFactorScope().token.getDocTokenIndex() - 1));
+				firstToken = factor.getFactorScope().document.tokenList.get(factor.getFactorScope().token.getDocTokenIndex() - i);
+				subtext = factor.getFactorScope().document.getContent(firstToken, factor.getFactorScope().document.tokenList.get(factor.getFactorScope().token.getDocTokenIndex() - 1));
 
 				factor.getFeatureVector().set("Words before <"+factor.getFactorScope().type.entityName + ">: " + subtext, true);
+				factor.getFeatureVector().set(i+"  Words before <"+factor.getFactorScope().type.entityName + ">: " + factor.getFactorScope().document.tokenList.get(factor.getFactorScope().token.getDocTokenIndex() - i).getText(), true);
 			}
 		}
 	}

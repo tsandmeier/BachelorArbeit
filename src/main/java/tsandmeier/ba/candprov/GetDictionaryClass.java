@@ -1,4 +1,4 @@
-package tsandmeier.ba;
+package tsandmeier.ba.candprov;
 
 import de.hterhors.semanticmr.candprov.nerla.INerlaCandidateProvider;
 import de.hterhors.semanticmr.crf.structure.EntityType;
@@ -34,7 +34,7 @@ public class GetDictionaryClass implements INerlaCandidateProvider {
 
 	Set<EntityType> weightSet = new HashSet<>(Collections.singletonList(EntityType.get("Weight")));
 	Set<EntityType> ageSet = new HashSet<>(Collections.singletonList(EntityType.get("Age")));
-	Set<EntityType> set = new HashSet<>(Arrays.asList(EntityType.get("Weight"), EntityType.get("Age")));
+//	Set<EntityType> set = new HashSet<>(Arrays.asList(EntityType.get("Weight"), EntityType.get("Age")));
 	/**
 	 * The reversed dictionary for fast look up.
 	 */
@@ -94,31 +94,21 @@ public class GetDictionaryClass implements INerlaCandidateProvider {
 		}
 
 		if(sw.isInterpretable()){
+			//System.out.println("IS WEIGHT: " +text);
 			return weightSet;
 		}
 //
 //
-//		if((sa = ageCache.get(text))==null)
-//		{
-//			ageCache.put(text, sa =new AgeInterpreter(text));
-//		}
-//
-//		if(sa.isInterpretable()){
-//			return ageSet;
-//		}
+		if((sa = ageCache.get(text))==null)
+		{
+			ageCache.put(text, sa =new AgeInterpreter(text));
+		}
+
+		if(sa.isInterpretable()){
+			return ageSet;
+		}
 
 
-
-
-//		SemanticAge sa = new SemanticAge.Builder().interprete(text).build();
-//
-//		if(sa.exists() && sa.unit.equals("week")){
-//			return ageSet;
-//		}
-
-//		System.out.println(sw.asFormattedString());
-//
-//		System.out.println(sw.exists());
 
 		return reverseDictionary.getOrDefault(text, Collections.emptySet());
 	}

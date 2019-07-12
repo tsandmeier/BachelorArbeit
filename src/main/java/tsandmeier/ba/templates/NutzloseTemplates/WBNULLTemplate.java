@@ -1,4 +1,4 @@
-package tsandmeier.ba.templates;
+package tsandmeier.ba.templates.NutzloseTemplates;
 
 import de.hterhors.semanticmr.crf.model.AbstractFactorScope;
 import de.hterhors.semanticmr.crf.model.Factor;
@@ -90,10 +90,15 @@ public class WBNULLTemplate extends AbstractFeatureTemplate<WBNULLTemplate.WBNUL
     @Override
     public void generateFeatureVector(Factor<WBNULLScope> factor) {
 
-        factor.getFeatureVector().set("SEPARATED <" + factor.getFactorScope().typeOne.entityName + ", " +
-                factor.getFactorScope().typeTwo.entityName + "> " +
-                isWordBetween(factor.getFactorScope().tokenOne, factor.getFactorScope().tokenTwo), true);
+        int indexTokenOne = factor.getFactorScope().tokenOne.getDocTokenIndex();
+        int indexTokenTwo = factor.getFactorScope().tokenTwo.getDocTokenIndex();
 
+        //get all words between the mentions
+
+        if (indexTokenTwo - indexTokenOne == 1) {
+            factor.getFeatureVector().set("NO WORDS BETWEEN: <" + factor.getFactorScope().typeOne.entityName + ", " +
+                    factor.getFactorScope().typeTwo.entityName + "> ", true);
+        }
     }
 
     private boolean isWordBetween(DocumentToken tokenOne, DocumentToken tokenTwo) {

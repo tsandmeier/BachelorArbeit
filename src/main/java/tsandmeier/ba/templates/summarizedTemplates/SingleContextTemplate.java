@@ -1,4 +1,4 @@
-package tsandmeier.ba.templates;
+package tsandmeier.ba.templates.summarizedTemplates;
 
 import de.hterhors.semanticmr.crf.model.AbstractFactorScope;
 import de.hterhors.semanticmr.crf.model.Factor;
@@ -17,8 +17,15 @@ import java.util.Objects;
  * looks for the words after a mention
  * joins AM1F and AM1L and even more
  */
-public class AMFLTemplate extends AbstractFeatureTemplate<AMFLTemplate.AMFLScope> {
+public class SingleContextTemplate extends AbstractFeatureTemplate<SingleContextTemplate.AMFLScope> {
 
+    public SingleContextTemplate(boolean cache) {
+        super(cache);
+    }
+
+
+    private static final boolean amfl = true;
+    private static final boolean bmfl = true;
 
     private static final int NUMBER_OF_WORDS = 3;
 
@@ -82,15 +89,20 @@ public class AMFLTemplate extends AbstractFeatureTemplate<AMFLTemplate.AMFLScope
 
     @Override
     public void generateFeatureVector(Factor<AMFLScope> factor) {
-        for (int i = 1; i <= NUMBER_OF_WORDS; i++) {
-            int tokenIndex = factor.getFactorScope().token.getDocTokenIndex();
-            if (tokenIndex + i <= factor.getFactorScope().document.tokenList.size() - 1) {
-                DocumentToken lastToken = factor.getFactorScope().document.tokenList.get(tokenIndex + i);
-                String subtext = factor.getFactorScope().document.getContent(
-                        factor.getFactorScope().document.tokenList.get(tokenIndex+1), lastToken);
+        if(amfl) {
+            for (int i = 1; i <= NUMBER_OF_WORDS; i++) {
+                int tokenIndex = factor.getFactorScope().token.getDocTokenIndex();
+                if (tokenIndex + i <= factor.getFactorScope().document.tokenList.size() - 1) {
+                    DocumentToken lastToken = factor.getFactorScope().document.tokenList.get(tokenIndex + i);
+                    String subtext = factor.getFactorScope().document.getContent(
+                            factor.getFactorScope().document.tokenList.get(tokenIndex + 1), lastToken);
 
-                factor.getFeatureVector().set("Words after <"+factor.getFactorScope().type.entityName + ">: " + subtext, true);
+                    factor.getFeatureVector().set("Words after <" + factor.getFactorScope().type.entityName + ">: " + subtext, true);
+                }
             }
+        }
+        if (bmfl) {
+
         }
     }
 }

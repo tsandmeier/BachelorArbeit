@@ -1,4 +1,4 @@
-package tsandmeier.ba.templates;
+package tsandmeier.ba.templates.usefulTemplates;
 
 import de.hterhors.semanticmr.crf.model.AbstractFactorScope;
 import de.hterhors.semanticmr.crf.model.Factor;
@@ -79,7 +79,7 @@ public class HMTemplate extends AbstractFeatureTemplate<HMTemplate.HMScope> {
 
 	@Override
 	public void generateFeatureVector(Factor<HMScope> factor) {
-		factor.getFeatureVector().set(factor.getFactorScope().type.entityName + " " + factor.getFactorScope().headword.getText(), true);
+		factor.getFeatureVector().set("First Word of Annotation <"+factor.getFactorScope().type.entityName + ">: " + factor.getFactorScope().headword.getText(), true);
 
 	}
 

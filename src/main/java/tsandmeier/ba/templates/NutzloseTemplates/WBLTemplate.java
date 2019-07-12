@@ -1,4 +1,4 @@
-package tsandmeier.ba.templates;
+package tsandmeier.ba.templates.NutzloseTemplates;
 
 import de.hterhors.semanticmr.crf.model.AbstractFactorScope;
 import de.hterhors.semanticmr.crf.model.Factor;
@@ -16,9 +16,9 @@ import java.util.Objects;
 /**
  * last word inbetween if more than two words in betweeen
  */
-public class WBLTemplate extends AbstractFeatureTemplate<WBLTemplate.WordsInBetweenScope> {
+public class WBLTemplate extends AbstractFeatureTemplate<WBLTemplate.WBLScope> {
 
-    static class WordsInBetweenScope
+    static class WBLScope
             extends AbstractFactorScope {
 
         DocumentToken tokenOne;
@@ -29,7 +29,7 @@ public class WBLTemplate extends AbstractFeatureTemplate<WBLTemplate.WordsInBetw
 
         Document document;
 
-        public WordsInBetweenScope(AbstractFeatureTemplate template, DocumentToken tokenOne, DocumentToken tokenTwo, EntityType typeOne, EntityType typeTwo, Document document) {
+        public WBLScope(AbstractFeatureTemplate template, DocumentToken tokenOne, DocumentToken tokenTwo, EntityType typeOne, EntityType typeTwo, Document document) {
             super(template);
             this.tokenOne = tokenOne;
             this.tokenTwo = tokenTwo;
@@ -55,7 +55,7 @@ public class WBLTemplate extends AbstractFeatureTemplate<WBLTemplate.WordsInBetw
             if (this == o) return true;
             if (o == null || getClass() != o.getClass()) return false;
             if (!super.equals(o)) return false;
-            WordsInBetweenScope that = (WordsInBetweenScope) o;
+            WBLScope that = (WBLScope) o;
             return Objects.equals(tokenOne, that.tokenOne) &&
                     Objects.equals(tokenTwo, that.tokenTwo) &&
                     Objects.equals(typeOne, that.typeOne) &&
@@ -70,15 +70,15 @@ public class WBLTemplate extends AbstractFeatureTemplate<WBLTemplate.WordsInBetw
     }
 
     @Override
-    public List<WordsInBetweenScope> generateFactorScopes(State state) {
-        List<WordsInBetweenScope> factors = new ArrayList<>();
+    public List<WBLScope> generateFactorScopes(State state) {
+        List<WBLScope> factors = new ArrayList<>();
         Document document = state.getInstance().getDocument();
 
         for (DocumentLinkedAnnotation annotation : super.<DocumentLinkedAnnotation>getPredictedAnnotations(state)) {
             for (DocumentLinkedAnnotation annotation2 : super.<DocumentLinkedAnnotation>getPredictedAnnotations(state)) {
                 if (!annotation.equals(annotation2)) {
 
-                    factors.add(new WordsInBetweenScope(this,
+                    factors.add(new WBLScope(this,
                             annotation.relatedTokens.get(annotation.relatedTokens.size() - 1),
                             annotation2.relatedTokens.get(0),
                             annotation.entityType, annotation2.entityType,
@@ -90,25 +90,15 @@ public class WBLTemplate extends AbstractFeatureTemplate<WBLTemplate.WordsInBetw
     }
 
     @Override
-    public void generateFeatureVector(Factor<WordsInBetweenScope> factor) {
+    public void generateFeatureVector(Factor<WBLScope> factor) {
 
-        String subtext;
+        if (factor.getFactorScope().tokenOne.getDocTokenIndex() < factor.getFactorScope().tokenTwo.getDocTokenIndex() &&
+                factor.getFactorScope().tokenTwo.getDocTokenIndex() - factor.getFactorScope().tokenOne.getDocTokenIndex() > 3) {
 
-        if (factor.getFactorScope().tokenOne.getDocTokenIndex() < factor.getFactorScope().tokenTwo.getDocTokenIndex()) {
-
-            //get all words between the mentions
-
-            subtext = factor.getFactorScope().document.getContent(
-                    factor.getFactorScope().tokenOne, factor.getFactorScope().tokenTwo
-            );
-
-            String[] tokenizedSubtext = tokenizeString(subtext);
-
-
-            if (tokenizedSubtext.length >= 5) {
+                String lastWordBetween = factor.getFactorScope().document.tokenList.get(factor.getFactorScope().tokenTwo.getDocTokenIndex()-1).getText();
                 factor.getFeatureVector().set("WBL: <" + factor.getFactorScope().typeOne.entityName + " "
-                        + factor.getFactorScope().typeTwo.entityName + "> " + tokenizedSubtext[tokenizedSubtext.length - 2], true);
-            }
+                        + factor.getFactorScope().typeTwo.entityName + "> " + lastWordBetween, true);
+
 
 
         }

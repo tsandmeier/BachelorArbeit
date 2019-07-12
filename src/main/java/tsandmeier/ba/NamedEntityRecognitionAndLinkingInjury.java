@@ -27,16 +27,12 @@ import de.hterhors.semanticmr.eval.EEvaluationDetail;
 import de.hterhors.semanticmr.init.specifications.SystemScope;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import tsandmeier.ba.candprov.GetDictionaryClass;
-import tsandmeier.ba.normalizer.AgeNormalization;
-import tsandmeier.ba.normalizer.WeightNormalization;
-import tsandmeier.ba.specs.NERLASpecsOrganismModel;
+import tsandmeier.ba.candprov.*;
+import tsandmeier.ba.specs.NERLASpecsInjury;
 import tsandmeier.ba.templates.NutzloseTemplates.WBFTemplate;
 import tsandmeier.ba.templates.NutzloseTemplates.WBLTemplate;
 import tsandmeier.ba.templates.NutzloseTemplates.WBNULLTemplate;
 import tsandmeier.ba.templates.NutzloseTemplates.WordsInBetweenTemplateSingle;
-import tsandmeier.ba.templates.usefulTemplates.WordsInBetweenTemplate;
-import tsandmeier.ba.templates.usefulTemplates.WBTemplate;
 import tsandmeier.ba.templates.usefulTemplates.*;
 
 import java.io.File;
@@ -48,8 +44,8 @@ import java.util.Map;
 /**
  * Example of how to perform named entity recognition and linking.
  */
-public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProject {
-    private static Logger log = LogManager.getFormatterLogger(NamedEntityRecognitionAndLinkingExample.class);
+public class NamedEntityRecognitionAndLinkingInjury extends AbstractSemReadProject {
+    private static Logger log = LogManager.getFormatterLogger(NamedEntityRecognitionAndLinkingInjury.class);
     private final boolean overrideModel = true;
     SemanticParsingCRF crf;
     private IEvaluatable.Score mean;
@@ -72,8 +68,8 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
      * @throws IOException
      */
     public static void main(String[] args) {
-        NamedEntityRecognitionAndLinkingExample nerla = new NamedEntityRecognitionAndLinkingExample();
-        nerla.startProcedure(1);
+        new NamedEntityRecognitionAndLinkingInjury().startProcedure(1);
+
     }
 
     /**
@@ -86,15 +82,15 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
      * lookup, Lucene-based etc...
      */
 
-    private final File dictionaryFile = new File("src/main/resources/examples/nerla/dicts/organismModel.dict");
+    private final File dictionaryFile = new File("src/main/resources/examples/nerla/dicts/injury.dict");
 
     /**
      * The directory of the corpus instances. In this example each instance is
      * stored in its own json-file.
      */
-    private final File instanceDirectory = new File("src/main/resources/examples/nerla/organismModel/corpus/instances/");
+    private final File instanceDirectory = new File("src/main/resources/examples/nerla/injury/corpus/instances/");
 
-    public NamedEntityRecognitionAndLinkingExample() {
+    public NamedEntityRecognitionAndLinkingInjury() {
 
         /**
          * 1. STEP initialize the system.
@@ -107,7 +103,7 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
                     /**
                      * We add a scope reader that reads and interprets the 4 specification files.
                      */
-                    .addScopeSpecification(NERLASpecsOrganismModel.csvSpecsReader)
+                    .addScopeSpecification(NERLASpecsInjury.csvSpecsReader)
                     /**
                      * We apply the scope(s).
                      */
@@ -121,8 +117,8 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
                      * weights "500 g", "0.5kg", "500g" are all equal. Each normalization function
                      * is bound to exactly one entity type.
                      */
-                .registerNormalizationFunction(new WeightNormalization())
-                .registerNormalizationFunction(new AgeNormalization())
+//                .registerNormalizationFunction(new WeightNormalization())
+//                .registerNormalizationFunction(new AgeNormalization())
                     /**
                      * Finally, we build the systems scope.
                      */
@@ -144,7 +140,8 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
          *
          */
         AbstractCorpusDistributor shuffleCorpusDistributor = new ShuffleCorpusDistributor.Builder()
-                .setCorpusSizeFraction(1F).setTrainingProportion(80).setTestProportion(20).setSeed(102L).build();
+                .setCorpusSizeFraction(1F).setTrainingProportion(80).setTestProportion(20).setSeed(100L).build();
+
 
         /**
          * The instance provider reads all json files in the given directory. We can set
@@ -155,6 +152,7 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
          * that should be read.
          */
         InstanceProvider instanceProvider = new InstanceProvider(instanceDirectory, shuffleCorpusDistributor);
+
 
         /**
          * 3. STEP
@@ -170,7 +168,8 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
 //        NerlaCandidateProviderCollection candidateRetrieval = new NerlaCandidateProviderCollection(
 //                new GetDictionaryClass(dictionaryFile));
         NerlaCandidateProviderCollection candidateRetrieval = new NerlaCandidateProviderCollection(
-                new GetDictionaryClass(dictionaryFile));
+                new CreateAndGetDictionaryClass(instanceProvider.getInstances()));
+//        candidateRetrieval.addCandidateProvider(new LevenshteinCandidateRetrieval());
 
         /**
          * For the entity recognition and linking problem, the EntityRecLinkExplorer is
@@ -199,7 +198,7 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
          *
          */
 //		IObjectiveFunction objectiveFunction = new BetaNerlaObjectiveFunction(EEvaluationDetail.LITERAL);
-        IObjectiveFunction objectiveFunction = new NerlaObjectiveFunction(EEvaluationDetail.DOCUMENT_LINKED);
+        IObjectiveFunction objectiveFunction = new NerlaObjectiveFunction(EEvaluationDetail.LITERAL);
 
         /**
          * The learner defines the update strategy of learned weights. parameters are
@@ -222,94 +221,75 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
         this.mode = mode;
 
         featureTemplates = new ArrayList<>();
-
-//        featureTemplates.add(new RootTypeTemplate());
-//        featureTemplates.add(new OverlappingTemplate(false));
-//        featureTemplates.add(new BMFLTemplate(false));
-//        featureTemplates.add(new IdentityTemplate());
-//        featureTemplates.add(new WordCountTemplate());
-//        featureTemplates.add(new WBFTemplate());
-//        featureTemplates.add(new WBLTemplate());
-//        featureTemplates.add(new WordsInBetweenTemplateSingle());
-//        featureTemplates.add(new WBNULLTemplate());
-//        featureTemplates.add(new WordsInBetweenTemplate());
-//        featureTemplates.add(new WBTemplate());
-//        featureTemplates.add(new BigramTemplate(false));
-//        featureTemplates.add(new WordsInBetweenTemplate());
-//        featureTemplates.add(new BracketsTemplate());
-
-        switch (mode) {
+        addSingleMentionTemplates(featureTemplates);
+        addsingleContextTemplates(featureTemplates);
+        addDoubleContextTemplates(featureTemplates);
+        switch (0) {
             case 1:                                         //alle Templates
                 addNumberTemplates(featureTemplates);
                 addsingleContextTemplates(featureTemplates);
                 addDoubleContextTemplates(featureTemplates);
                 addSingleMentionTemplates(featureTemplates);
+                featureTemplates.add(new BracketsTemplate());
+                featureTemplates.add(new SimilarWordsTemplate());
                 featureTemplates.add(new ML12Template());
-                addNormalizationtemplates(featureTemplates);
-                addDoubleComparisonTemplates(featureTemplates);
+                featureTemplates.add(new WMTemplate());
+//                addNormalizationtemplates(featureTemplates);
                 break;
             case 2:                                         //alle ohne ML12
                 addNumberTemplates(featureTemplates);
                 addsingleContextTemplates(featureTemplates);
                 addDoubleContextTemplates(featureTemplates);
                 addSingleMentionTemplates(featureTemplates);
-                addNormalizationtemplates(featureTemplates);
-                addDoubleComparisonTemplates(featureTemplates);
+                featureTemplates.add(new BracketsTemplate());
+                featureTemplates.add(new WMTemplate());
+//                addNormalizationtemplates(featureTemplates);
                 break;
 
             case 3:                                        //alle ohne DoubleContext
                 addNumberTemplates(featureTemplates);
                 addsingleContextTemplates(featureTemplates);
                 addSingleMentionTemplates(featureTemplates);
+                featureTemplates.add(new BracketsTemplate());
                 featureTemplates.add(new ML12Template());
-                addNormalizationtemplates(featureTemplates);
-                addDoubleComparisonTemplates(featureTemplates);
+//                addNormalizationtemplates(featureTemplates);
                 break;
 
             case 4:                                         //alle ohne SingleContext
                 addNumberTemplates(featureTemplates);
                 addDoubleContextTemplates(featureTemplates);
                 addSingleMentionTemplates(featureTemplates);
+                featureTemplates.add(new BracketsTemplate());
                 featureTemplates.add(new ML12Template());
-                addNormalizationtemplates(featureTemplates);
-                addDoubleComparisonTemplates(featureTemplates);
+//                addNormalizationtemplates(featureTemplates);
                 break;
 
             case 5:                                         //alle ohne Numbertemplates
                 addsingleContextTemplates(featureTemplates);
                 addDoubleContextTemplates(featureTemplates);
                 addSingleMentionTemplates(featureTemplates);
+                featureTemplates.add(new BracketsTemplate());
                 featureTemplates.add(new ML12Template());
-                addNormalizationtemplates(featureTemplates);
-                addDoubleComparisonTemplates(featureTemplates);
+//                addNormalizationtemplates(featureTemplates);
                 break;
 
             case 6:                                          //alle ohne singlemention
                 addNumberTemplates(featureTemplates);
                 addsingleContextTemplates(featureTemplates);
                 addDoubleContextTemplates(featureTemplates);
+                featureTemplates.add(new BracketsTemplate());
                 featureTemplates.add(new ML12Template());
-                addNormalizationtemplates(featureTemplates);
-                addDoubleComparisonTemplates(featureTemplates);
+//                addNormalizationtemplates(featureTemplates);
                 break;
             case 7:                                         //alle ohne Normalization
                 addNumberTemplates(featureTemplates);
                 addsingleContextTemplates(featureTemplates);
                 addDoubleContextTemplates(featureTemplates);
                 addSingleMentionTemplates(featureTemplates);
+                featureTemplates.add(new BracketsTemplate());
                 featureTemplates.add(new ML12Template());
-                addDoubleComparisonTemplates(featureTemplates);
-                break;
-            case 8:                                         //alle ohne DoubleComparison
-                addNumberTemplates(featureTemplates);
-                addsingleContextTemplates(featureTemplates);
-                addDoubleContextTemplates(featureTemplates);
-                addSingleMentionTemplates(featureTemplates);
-                featureTemplates.add(new ML12Template());
-                addNormalizationtemplates(featureTemplates);
-                break;
         }
-////
+//
 //        featureTemplates.add(new AMFLTemplate());
 //        featureTemplates.add(new BMFLTemplate());
 
@@ -398,7 +378,7 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
          *
          * NOTE: Make sure that the base model directory exists!
          */
-        final File modelBaseDir = new File("models/nerla/test1/");
+        final File modelBaseDir = new File("models/nerla/injury/");
         //final String modelName = "NERLA1234" + new Random().nextInt(10000);
         final String modelName = "testModel";
 
@@ -422,12 +402,14 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
          */
         crf = new SemanticParsingCRF(model, explorer, sampler, stateInitializer, objectiveFunction);
 
-        IEvaluatable.Score coverage = crf.computeCoverage(false,objectiveFunction, instanceProvider.getRedistributedTrainingInstances());
+//        IEvaluatable.Score coverage = crf.computeCoverage(true,objectiveFunction, instanceProvider.getRedistributedTestInstances());
 //
-        System.out.println("COVERAGE: "+coverage);
+//        System.out.println(coverage);
 //
 //
-        System.exit(1);
+//         System.exit(1);
+
+
 
         /**
          * If the model was loaded from the file system, we do not need to train it.
@@ -484,30 +466,27 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
     private void addsingleContextTemplates(List<AbstractFeatureTemplate> featureTemplates) {
         featureTemplates.add(new BMFLTemplate(false));
         featureTemplates.add(new AMFLTemplate(false));
-        featureTemplates.add(new BracketsTemplate());
     }
 
     private void addDoubleContextTemplates(List<AbstractFeatureTemplate> featureTemplates) {
-        featureTemplates.add(new MentionsInSentenceTemplate()); //sehr nützlich
+//        featureTemplates.add(new MentionsInSentenceTemplate()); //sehr nützlich
         featureTemplates.add(new WordsInBetweenTemplate());
-//        featureTemplates.add(new WBNULLTemplate());
-        featureTemplates.add(new WBTemplate());
-        featureTemplates.add(new RootTypeTemplate());
-        featureTemplates.add(new WBOTemplate());
-    }
-
-    private void addSingleMentionTemplates(List<AbstractFeatureTemplate> featureTemplates) {
-        featureTemplates.add(new BigramTemplate(false)); //nützlich
-        featureTemplates.add(new HMTemplate(false));
-        featureTemplates.add(new StartsWithCapitalTemplate());
-        featureTemplates.add(new IdentityTemplate());
-        featureTemplates.add(new WMTemplate());
-        featureTemplates.add(new WordCountTemplate());
+//        featureTemplates.add(new WBFTemplate());
+//        featureTemplates.add(new WBLTemplate());
+//        featureTemplates.add(new RootTypeTemplate());
     }
 
     private void addDoubleComparisonTemplates(List<AbstractFeatureTemplate> featureTemplates){
         featureTemplates.add(new OverlappingTemplate(false));
         featureTemplates.add(new SimilarWordsTemplate());
+    }
+
+    private void addSingleMentionTemplates(List<AbstractFeatureTemplate> featureTemplates) {
+        featureTemplates.add(new BigramTemplate(false)); //nützlich
+        featureTemplates.add(new HMTemplate(false));
+        featureTemplates.add(new StartsWithCapitalTemplate()); //verschlechtert ein bisschen, warum?
+        featureTemplates.add(new WordCountTemplate());
+        featureTemplates.add(new IdentityTemplate());
     }
 
     private void addNormalizationtemplates(List<AbstractFeatureTemplate> featureTemplates) {

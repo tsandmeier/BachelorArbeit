@@ -1,4 +1,4 @@
-package tsandmeier.ba.templates;
+package tsandmeier.ba.templates.NutzloseTemplates;
 
 import de.hterhors.semanticmr.crf.model.AbstractFactorScope;
 import de.hterhors.semanticmr.crf.model.Factor;
@@ -13,34 +13,21 @@ import java.util.List;
 import java.util.Objects;
 
 /**
- * bag of words
+ * checks wether the surfaceForm of an Annotation coould contain an abbreviation of the EntityName
+ *
  */
 
-public class WMTemplate extends AbstractFeatureTemplate<WMTemplate.EmptyScope> {
+public class AbbreviationTemplate extends AbstractFeatureTemplate<AbbreviationTemplate.EmptyScope> {
 
-
+	public AbbreviationTemplate(boolean cache){
+		super(cache);
+	}
 
 	static class EmptyScope
 			extends AbstractFactorScope {
 
 		EntityType type;
 		List<DocumentToken> tokens;
-
-
-
-
-		public EmptyScope(
-				AbstractFeatureTemplate<EmptyScope> template, EntityType type, List<DocumentToken> tokens) {
-			super(template);
-			this.type = type;
-			this.tokens = tokens;
-		}
-
-		@Override
-		public int implementHashCode() {
-			// TODO Auto-generated method stub
-			return 0;
-		}
 
 		@Override
 		public boolean equals(Object o) {
@@ -55,6 +42,19 @@ public class WMTemplate extends AbstractFeatureTemplate<WMTemplate.EmptyScope> {
 		@Override
 		public int hashCode() {
 			return Objects.hash(super.hashCode(), type, tokens);
+		}
+
+		public EmptyScope(AbstractFeatureTemplate template, EntityType type, List<DocumentToken> tokens) {
+			super(template);
+			this.type = type;
+			this.tokens = tokens;
+		}
+
+
+		@Override
+		public int implementHashCode() {
+			// TODO Auto-generated method stub
+			return 0;
 		}
 
 		@Override
@@ -79,27 +79,13 @@ public class WMTemplate extends AbstractFeatureTemplate<WMTemplate.EmptyScope> {
 
 	@Override
 	public void generateFeatureVector(Factor<EmptyScope> factor) {
-		List<DocumentToken> tokens = factor.getFactorScope().tokens;
 
-		for(int i = 0; i <= tokens.size(); i++) {
-			for (int j = 0; j <= i; j++) {
-				String subText = makeString(tokens.subList(j, i));
-
-				factor.getFeatureVector().set(factor.getFactorScope().type.entityName+ " " +
-						subText,true);
+		for(DocumentToken token: factor.getFactorScope().tokens){
+			if(token.getLength() <= (factor.getFactorScope().type.entityName.length()/3)){
+				factor.getFeatureVector().set("<" + factor.getFactorScope().type.entityName +"> contains abbreviation: " + token.getText(), true);
 			}
 		}
 
-
-	}
-
-	private String makeString (List<DocumentToken> tokens){
-		String output = "";
-		for (DocumentToken token : tokens){
-			if(!(token.isPunctuation()))
-			output = output + token.getText() + " ";
-		}
-		return output.trim();
 	}
 
 }

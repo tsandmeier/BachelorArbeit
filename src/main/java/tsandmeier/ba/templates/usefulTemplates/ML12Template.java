@@ -1,4 +1,4 @@
-package tsandmeier.ba.templates;
+package tsandmeier.ba.templates.usefulTemplates;
 
 import de.hterhors.semanticmr.crf.model.AbstractFactorScope;
 import de.hterhors.semanticmr.crf.model.Factor;
@@ -9,14 +9,9 @@ import de.hterhors.semanticmr.crf.variables.Document;
 import de.hterhors.semanticmr.crf.variables.DocumentToken;
 import de.hterhors.semanticmr.crf.variables.Instance;
 import de.hterhors.semanticmr.crf.variables.State;
-import de.hterhors.semanticmr.tokenizer.SentenceSplitter;
-import de.hterhors.semanticmr.tokenizer.Tokenization;
-import edu.stanford.nlp.tagger.maxent.MaxentTagger;
-import tsandmeier.ba.helper.POSRegExTokenizer;
 import tsandmeier.ba.helper.POSTaggedTokenizer;
 
 import java.util.*;
-import java.util.stream.Collectors;
 
 /**
  * Uses Stanford-POS-Tagger to find out what kind of object in the sentence a token is.
@@ -96,6 +91,7 @@ public class ML12Template extends AbstractFeatureTemplate<ML12Template.ML12Scope
 		{
 			posTokenizedContent =  POSTaggedTokenizer.tokenizeDocumentsContent(doc.documentContent);
 			cache.put(factor.getFactorScope().instance,posTokenizedContent);
+			System.out.println("TOKENZING");
 		}
 
 		for(DocumentToken token: factor.getFactorScope().tokens) {
@@ -108,7 +104,6 @@ public class ML12Template extends AbstractFeatureTemplate<ML12Template.ML12Scope
 				}
 			}
 		}
-
 	}
 
 	private String getTokenPhrase (DocumentToken token){
