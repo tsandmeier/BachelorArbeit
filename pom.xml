@@ -50,6 +50,18 @@
             <artifactId>log4j-core</artifactId>
             <version>2.10.0</version>
         </dependency>
+        <dependency>
+            <groupId>com.github.miachm.sods</groupId>
+            <artifactId>SODS</artifactId>
+            <version>1.1.0</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/org.jopendocument/jOpenDocument -->
+        <dependency>
+            <groupId>org.jopendocument</groupId>
+            <artifactId>jOpenDocument</artifactId>
+            <version>1.3b1</version>
+        </dependency>
+
 
 
         <!-- https://mvnrepository.com/artifact/com.google.code.gson/gson -->
@@ -111,7 +123,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass>tsandmeier.ba.StatisticProvider</mainClass>
+                            <mainClass>tsandmeier.ba.NamedEntityRecognitionAndLinkingInjury</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

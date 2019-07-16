@@ -1,4 +1,83 @@
-- Templates mit einem Scope zusammenfassen verschlechtert anscheinend das Ergebnis
+Injury Ergebnis mit:
+    SingleMentionTemplates, SingleContextTemplates, WordsInbetweentemplate
+    Alpha = 0.001
+    WindowSize 5
+    10 Epochen
+        F1 = 0.406
+        TrainTime = 100,54 min
+        TestTime = 4,41 min
 
-- Injury dauert Ewigkeiten
 
+
+Organism Coverage mit
+    WindowSize 5:   0.987
+    WindowSize 10: 0.989
+
+Injury Coverage mit
+    WindowSize 5: 0.876
+    WindowSize 10: 0.878
+
+
+
+Fehlermeldung bei OrganismModel über StatisticProvider (Direkt nach Training des ersten Durchlaufs)
+    Model already exists override model!
+    Exception in thread "main" java.lang.NoClassDefFoundError: de/hterhors/semanticmr/crf/model/SerializableModelWrapper
+            at de.hterhors.semanticmr.crf.model.Model.save(Model.java:315)
+            at de.hterhors.semanticmr.crf.model.Model.save(Model.java:286)
+            at tsandmeier.ba.NamedEntityRecognitionAndLinkingInjury.startProcedure(NamedEntityRecognitionAndLinkingInjury.java:430)
+            at tsandmeier.ba.StatisticProvider.main(StatisticProvider.java:109)
+    Caused by: java.lang.ClassNotFoundException: de.hterhors.semanticmr.crf.model.SerializableModelWrapper
+            at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:583)
+            at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:178)
+            at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+            ... 4 more
+
+BUG? CorpusSize verkleinert -> Testenge vergößert
+
+Fehlermeldung:
+===========TRAIN============
+ [1/10][97/165][6]_____________N206 Takeoka 2009_____________|
+Final State  Model[1,50080] Objective[1,00000] {
+GOLD [3]:
+WistarRat       "Wistar Hannover rats"  7997
+Age     "10–12 weeks old"       ("84 day")      8019
+Exception in thread "main" java.lang.NoClassDefFoundError: org/apache/logging/log4j/message/ParameterizedMessage
+        at org.apache.logging.log4j.message.ParameterizedNoReferenceMessageFactory.newMessage(ParameterizedNoReferenceMessageFactory.java:105)
+        at org.apache.logging.log4j.message.AbstractMessageFactory.newMessage(AbstractMessageFactory.java:83)
+        at org.apache.logging.log4j.spi.AbstractLogger.logMessage(AbstractLogger.java:2030)
+        at org.apache.logging.log4j.spi.AbstractLogger.logIfEnabled(AbstractLogger.java:1906)
+        at org.apache.logging.log4j.spi.AbstractLogger.error(AbstractLogger.java:867)
+        at org.apache.logging.log4j.core.layout.StringBuilderEncoder.logEncodeTextException(StringBuilderEncoder.java:95)
+        at org.apache.logging.log4j.core.layout.StringBuilderEncoder.encode(StringBuilderEncoder.java:70)
+        at org.apache.logging.log4j.core.layout.StringBuilderEncoder.encode(StringBuilderEncoder.java:32)
+        at org.apache.logging.log4j.core.layout.PatternLayout.encode(PatternLayout.java:220)
+        at org.apache.logging.log4j.core.layout.PatternLayout.encode(PatternLayout.java:58)
+        at org.apache.logging.log4j.core.appender.AbstractOutputStreamAppender.directEncodeEvent(AbstractOutputStreamAppender.java:177)
+        at org.apache.logging.log4j.core.appender.AbstractOutputStreamAppender.tryAppend(AbstractOutputStreamAppender.java:170)
+        at org.apache.logging.log4j.core.appender.AbstractOutputStreamAppender.append(AbstractOutputStreamAppender.java:161)
+        at org.apache.logging.log4j.core.config.AppenderControl.tryCallAppender(AppenderControl.java:156)
+        at org.apache.logging.log4j.core.config.AppenderControl.callAppender0(AppenderControl.java:129)
+        at org.apache.logging.log4j.core.config.AppenderControl.callAppenderPreventRecursion(AppenderControl.java:120)
+        at org.apache.logging.log4j.core.config.AppenderControl.callAppender(AppenderControl.java:84)
+        at org.apache.logging.log4j.core.config.LoggerConfig.callAppenders(LoggerConfig.java:464)
+        at org.apache.logging.log4j.core.config.LoggerConfig.processLogEvent(LoggerConfig.java:448)
+        at org.apache.logging.log4j.core.config.LoggerConfig.log(LoggerConfig.java:431)
+        at org.apache.logging.log4j.core.config.LoggerConfig.log(LoggerConfig.java:406)
+        at org.apache.logging.log4j.core.config.AwaitCompletionReliabilityStrategy.log(AwaitCompletionReliabilityStrategy.java:63)
+        at org.apache.logging.log4j.core.Logger.logMessage(Logger.java:146)
+        at org.apache.logging.log4j.spi.AbstractLogger.tryLogMessage(AbstractLogger.java:2170)
+        at org.apache.logging.log4j.spi.AbstractLogger.logMessageTrackRecursion(AbstractLogger.java:2125)
+        at org.apache.logging.log4j.spi.AbstractLogger.logMessageSafely(AbstractLogger.java:2108)
+        at org.apache.logging.log4j.spi.AbstractLogger.logMessage(AbstractLogger.java:2002)
+        at org.apache.logging.log4j.spi.AbstractLogger.logIfEnabled(AbstractLogger.java:1974)
+        at org.apache.logging.log4j.spi.AbstractLogger.info(AbstractLogger.java:1311)
+        at de.hterhors.semanticmr.crf.helper.log.LogUtils.logState(LogUtils.java:22)
+        at de.hterhors.semanticmr.crf.SemanticParsingCRF.train(SemanticParsingCRF.java:182)
+        at de.hterhors.semanticmr.crf.SemanticParsingCRF.train(SemanticParsingCRF.java:106)
+        at tsandmeier.ba.NamedEntityRecognitionAndLinkingExample.startProcedure(NamedEntityRecognitionAndLinkingExample.java:436)
+        at tsandmeier.ba.StatisticProvider.main(StatisticProvider.java:108)
+Caused by: java.lang.ClassNotFoundException: org.apache.logging.log4j.message.ParameterizedMessage
+        at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:583)
+        at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:178)
+        at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+        ... 34 more

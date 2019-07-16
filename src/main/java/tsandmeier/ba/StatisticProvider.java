@@ -4,6 +4,8 @@ import com.github.jferard.fastods.*;
 import de.hterhors.semanticmr.crf.SemanticParsingCRF;
 import de.hterhors.semanticmr.crf.structure.IEvaluatable;
 import de.hterhors.semanticmr.crf.templates.AbstractFeatureTemplate;
+import tsandmeier.ba.NutzloseTemplates.WordsInBetweenTemplateSingle;
+import tsandmeier.ba.templates.*;
 
 import java.io.File;
 import java.io.IOException;
@@ -12,6 +14,8 @@ import java.util.*;
 import java.util.logging.Logger;
 
 public class StatisticProvider {
+    private static List<Double> alphaList = Arrays.asList(0.001, 0.01, 0.1);
+
     public static void main(String[] args) throws IOException, FastOdsException, ClassNotFoundException {
 
 //        List<ClassLoader> classLoadersList = new LinkedList<ClassLoader>();
@@ -27,22 +31,27 @@ public class StatisticProvider {
 //
 //        Set<Class<?>> classes = reflections.getSubTypesOf(Object.class);
 
-//        List<File> files = getClasses("ba.templates.usefulTemplates");
+//        List<File> files = getClasses("ba.templates");
 //
 //        File[] tempFiles= files.get(0).listFiles(file -> {
-//            return file.getName().contains("Template.class");
+//            if(file.getName().contains("Template.class")) {
+//                return true;
+//            }
+//            return false;
 //        });
-//
+
 //        String name = tempFiles[0].getAbsoluteFile().getName().split("\\.")[0];
 
 //        ImmutableSet<ClassPath> set = ClassLoader.getTopLevelClasses();
-//
-//        final List<String> featureTemplates = Arrays.asList(AMFLTemplate.class.getSimpleName(), AvgNumberTemplate.class.getSimpleName(),
-//                BigramTemplate.class.getSimpleName(), BMFLTemplate.class.getSimpleName(), BracketsTemplate.class.getSimpleName(), HMTemplate.class.getSimpleName(),
-//                MentionsInSentenceTemplate.class.getSimpleName(), ML12Template.class.getSimpleName(), NormalizedAgeTemplate.class.getSimpleName(), NormalizedWeightTemplate.class.getSimpleName(),
-//                NumberMBTemplate.class.getSimpleName(), NumberWBTemplate.class.getSimpleName(), SimilarWordsTemplate.class.getSimpleName(), StartsWithCapitalTemplate.class.getSimpleName(), WBFTemplate.class.getSimpleName(), WBLTemplate.class.getSimpleName(),
-//                WBNULLTemplate.class.getSimpleName(), WBOTemplate.class.getSimpleName(), WeightBetweenTemplate.class.getSimpleName(), WMTemplate.class.getSimpleName(), WordCountTemplate.class.getSimpleName(),
-//                WordsInBetweenTemplateSingle.class.getSimpleName());
+
+        final List<String> featureTemplates = Arrays.asList(AMFLTemplate.class.getSimpleName(), BigramTemplate.class.getSimpleName(),
+                BMFLTemplate.class.getSimpleName(), BracketsTemplate.class.getSimpleName(), HMTemplate.class.getSimpleName(), IdentityTemplate.class.getSimpleName(),
+                MentionsInSentenceTemplate.class.getSimpleName(), ML12Template.class.getSimpleName(), NormalizedAgeTemplate.class.getSimpleName(),
+                NormalizedWeightTemplate.class.getSimpleName(),
+                NumberMBTemplate.class.getSimpleName(), NumberWBTemplate.class.getSimpleName(), OverlappingTemplate.class.getSimpleName(), RootTypeTemplate.class.getSimpleName(),
+                SimilarWordsTemplate.class.getSimpleName(),
+                StartsWithCapitalTemplate.class.getSimpleName(), WBOTemplate.class.getSimpleName(), WBTemplate.class.getSimpleName(),
+                WMTemplate.class.getSimpleName(), WordCountTemplate.class.getSimpleName(), WordsInBetweenTemplateSingle.class.getSimpleName());
 
 
 //        final List<?> featureTemplates = Arrays.asList(AMFLTemplate.class, AvgNumberTemplate.class,
@@ -67,64 +76,80 @@ public class StatisticProvider {
         final OdsDocument document = writer.document();
         final Table table = document.addTable("test");
 
-//        NamedEntityRecognitionAndLinkingExample nerla = new NamedEntityRecognitionAndLinkingExample(1);
+//        NamedEntityRecognitionAndLinkingExample nerla = new NamedEntityRecognitionAndLinkingExample();
         NamedEntityRecognitionAndLinkingInjury nerla = new NamedEntityRecognitionAndLinkingInjury();
 
-        for (int y = 0; y <= 1; y++) {
+        for (int y = 0; y <= 7; y++) {
+
 
             final TableRow row = table.nextRow();
             final TableCellWalker cell = row.getWalker();
 
             if (y == 0) {
-//                for (int x = 0; x < tempFiles.length; x++) {
-////                    cell.setStringValue(featureTemplates.get(x));
+                for (int x = 0; x < featureTemplates.size(); x++) {
+                    cell.setStringValue(featureTemplates.get(x));
 //                    cell.setStringValue(tempFiles[x].getAbsoluteFile().getName().split("\\.")[0]);
-//                    cell.next();
-//                }
-                cell.setStringValue("F1-Score"); cell.next();
-                cell.setStringValue("Total Time"); cell.next();
-                cell.setStringValue("Training Time"); cell.next();
+                    cell.next();
+                }
+                cell.setStringValue("F1-Score");
+                cell.next();
+                cell.setStringValue("Total Time");
+                cell.next();
+                cell.setStringValue("Training Time");
+                cell.next();
                 cell.setStringValue("Testing Time");
+                cell.next();
+                cell.setStringValue("Alpha");
             }
 
             if (y >= 1) {
+                System.out.println("*****************DURCHGANG NUMMER " + 1 + " *************************");
 
-                nerla.startProcedure(y);
-                IEvaluatable.Score mean = nerla.getMean();
-                SemanticParsingCRF crf = nerla.getCRF();
-                SemanticParsingCRF.CRFStatistics crfStats = crf.getTrainingStatistics();
-                long trainDuration = crfStats.getTotalDuration();
-                long testDuration = nerla.getCRF().getTestStatistics().getTotalDuration();
-                long totalDuration = trainDuration + testDuration;
+                for (double alpha : alphaList) {
 
-                double f1 = mean.getF1();
+                    System.out.println("***********NEUER ALPHAWERT: " + alpha + " ****************************");
 
-                List<AbstractFeatureTemplate> usedTemplates = nerla.getFeatureTemplates();
+                    nerla.startProcedure(y, alpha);
+                    IEvaluatable.Score mean = nerla.getMean();
+                    SemanticParsingCRF crf = nerla.getCRF();
+                    SemanticParsingCRF.CRFStatistics crfStats = crf.getTrainingStatistics();
+                    long trainDuration = crfStats.getTotalDuration();
+                    long testDuration = nerla.getCRF().getTestStatistics().getTotalDuration();
+                    long totalDuration = trainDuration + testDuration;
+
+                    double f1 = mean.getF1();
+
+                    List<AbstractFeatureTemplate> usedTemplates = nerla.getFeatureTemplates();
 
 
-//                for (int x = 0; x < tempFiles.length; x++) {
-//                    boolean isUsed = false;
-//                    for (AbstractFeatureTemplate usedtemplate : usedTemplates) {
-//                        if (usedtemplate.getClass().getSimpleName().equals(tempFiles[x].getAbsoluteFile().getName().split("\\.")[0])) {
-//                            isUsed = true;
-//                        }
-//                    }
-//                    if (isUsed) {
-//                        cell.setStringValue("X");
-//                    } else {
-//                        cell.setStringValue("");
-//                    }
-//
-//                    cell.next();
-//                }
+                    for (int x = 0; x < featureTemplates.size(); x++) {
+                        boolean isUsed = false;
+                        for (AbstractFeatureTemplate usedtemplate : usedTemplates) {
+                            if (usedtemplate.getClass().getSimpleName().equals(featureTemplates.get(x))) {
+                                isUsed = true;
+                            }
+                        }
+                        if (isUsed) {
+                            cell.setStringValue("X");
+                        } else {
+                            cell.setStringValue("");
+                        }
 
-                cell.setStringValue(Double.toString(f1)); cell.next();
-                cell.setStringValue(Long.toString(totalDuration)); cell.next();
-                cell.setStringValue(Long.toString(trainDuration)); cell.next();
-                cell.setStringValue(Long.toString(testDuration));
+                        cell.next();
+                    }
 
+                    cell.setStringValue(Double.toString(f1));
+                    cell.next();
+                    cell.setStringValue(Long.toString(totalDuration));
+                    cell.next();
+                    cell.setStringValue(Long.toString(trainDuration));
+                    cell.next();
+                    cell.setStringValue(Long.toString(testDuration));
+                    cell.next();
+                    cell.setStringValue(Double.toString(alpha));
+                }
             }
-        }
+//        }
 
 
 //        final TableCellStyle style = TableCellStyle.builder("green cell style").backgroundColor().build();
@@ -136,11 +161,9 @@ public class StatisticProvider {
 ////                cell.setStyle(style);
 //                cell.next();
 //            }
-//        }
+        }
 
-        writer.saveAs(new File("statistics", "InjuryStatistic.ods"));
-
-    }
+        writer.saveAs(new File("statistics", "InjuryStatistics.ods"));
 
 //    private static List findClasses(String packageName) throws ClassNotFoundException {
 //
@@ -155,18 +178,18 @@ public class StatisticProvider {
 //        }
 //        return classes;
 //    }
+    }
 
     private static List<File> getClasses(String packageName)
             throws ClassNotFoundException, IOException {
         ClassLoader classLoader = Thread.currentThread().getContextClassLoader();
-        assert classLoader != null;
         String path = packageName.replace('.', '/');
         Enumeration<URL> resources = classLoader.getResources(path);
         List<File> dirs = new ArrayList<File>();
         while (resources.hasMoreElements()) {
             URL resource = resources.nextElement();
-            if(resource.getFile().contains("Template"))
-            dirs.add(new File(resource.getFile()));
+            if (resource.getFile().contains("Template"))
+                dirs.add(new File(resource.getFile()));
         }
         return dirs;
     }

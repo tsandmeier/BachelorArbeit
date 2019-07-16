@@ -18,6 +18,8 @@ import de.hterhors.semanticmr.crf.sampling.stopcrit.ISamplingStoppingCriterion;
 import de.hterhors.semanticmr.crf.sampling.stopcrit.impl.ConverganceCrit;
 import de.hterhors.semanticmr.crf.sampling.stopcrit.impl.MaxChainLengthCrit;
 import de.hterhors.semanticmr.crf.structure.IEvaluatable;
+import de.hterhors.semanticmr.crf.structure.annotations.AbstractAnnotation;
+import de.hterhors.semanticmr.crf.structure.annotations.DocumentLinkedAnnotation;
 import de.hterhors.semanticmr.crf.templates.AbstractFeatureTemplate;
 import de.hterhors.semanticmr.crf.variables.Annotations;
 import de.hterhors.semanticmr.crf.variables.IStateInitializer;
@@ -25,31 +27,27 @@ import de.hterhors.semanticmr.crf.variables.Instance;
 import de.hterhors.semanticmr.crf.variables.State;
 import de.hterhors.semanticmr.eval.EEvaluationDetail;
 import de.hterhors.semanticmr.init.specifications.SystemScope;
+import de.hterhors.semanticmr.json.nerla.JsonNerlaIO;
+import de.hterhors.semanticmr.json.nerla.wrapper.JsonEntityAnnotationWrapper;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import tsandmeier.ba.candprov.GetDictionaryClass;
 import tsandmeier.ba.normalizer.AgeNormalization;
 import tsandmeier.ba.normalizer.WeightNormalization;
 import tsandmeier.ba.specs.NERLASpecsOrganismModel;
-import tsandmeier.ba.templates.NutzloseTemplates.WBFTemplate;
-import tsandmeier.ba.templates.NutzloseTemplates.WBLTemplate;
-import tsandmeier.ba.templates.NutzloseTemplates.WBNULLTemplate;
-import tsandmeier.ba.templates.NutzloseTemplates.WordsInBetweenTemplateSingle;
-import tsandmeier.ba.templates.usefulTemplates.WordsInBetweenTemplate;
-import tsandmeier.ba.templates.usefulTemplates.WBTemplate;
-import tsandmeier.ba.templates.usefulTemplates.*;
+import tsandmeier.ba.templates.*;
 
 import java.io.File;
 import java.io.IOException;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
+import java.util.stream.Collectors;
 
 /**
  * Example of how to perform named entity recognition and linking.
  */
 public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProject {
     private static Logger log = LogManager.getFormatterLogger(NamedEntityRecognitionAndLinkingExample.class);
+    private double alpha = 0.001;
     private final boolean overrideModel = true;
     SemanticParsingCRF crf;
     private IEvaluatable.Score mean;
@@ -71,9 +69,9 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
      * @param args
      * @throws IOException
      */
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
         NamedEntityRecognitionAndLinkingExample nerla = new NamedEntityRecognitionAndLinkingExample();
-        nerla.startProcedure(1);
+        nerla.startProcedure(1, 0.001);
     }
 
     /**
@@ -131,7 +129,10 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
 
     }
 
-    public void startProcedure(int mode){
+    public void startProcedure(int mode, double alpha) throws IOException {
+
+        this.alpha = alpha;
+
         /**
          * 2. STEP read and distribute the corpus.
          *
@@ -144,7 +145,7 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
          *
          */
         AbstractCorpusDistributor shuffleCorpusDistributor = new ShuffleCorpusDistributor.Builder()
-                .setCorpusSizeFraction(1F).setTrainingProportion(80).setTestProportion(20).setSeed(102L).build();
+                .setCorpusSizeFraction(1F).setTrainingProportion(80).setTestProportion(20).setSeed(100L).build();
 
         /**
          * The instance provider reads all json files in the given directory. We can set
@@ -208,7 +209,7 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
          *
          * TODO: find best alpha value in combination with L2-regularization.
          */
-        AdvancedLearner learner = new AdvancedLearner(new SGD(0.001, 0), new L2(0.0001)); //alpha von 0.001 scheint besser als 0.01, 0.0001 macht jedoch wieder schlechter
+        AdvancedLearner learner = new AdvancedLearner(new SGD(alpha, 0), new L2(0.0001)); //alpha von 0.001 scheint besser als 0.01, 0.0001 macht jedoch wieder schlechter
 
         /**
          * Next, we need to specify the actual feature templates. In this example we
@@ -222,21 +223,6 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
         this.mode = mode;
 
         featureTemplates = new ArrayList<>();
-
-//        featureTemplates.add(new RootTypeTemplate());
-//        featureTemplates.add(new OverlappingTemplate(false));
-//        featureTemplates.add(new BMFLTemplate(false));
-//        featureTemplates.add(new IdentityTemplate());
-//        featureTemplates.add(new WordCountTemplate());
-//        featureTemplates.add(new WBFTemplate());
-//        featureTemplates.add(new WBLTemplate());
-//        featureTemplates.add(new WordsInBetweenTemplateSingle());
-//        featureTemplates.add(new WBNULLTemplate());
-//        featureTemplates.add(new WordsInBetweenTemplate());
-//        featureTemplates.add(new WBTemplate());
-//        featureTemplates.add(new BigramTemplate(false));
-//        featureTemplates.add(new WordsInBetweenTemplate());
-//        featureTemplates.add(new BracketsTemplate());
 
         switch (mode) {
             case 1:                                         //alle Templates
@@ -422,12 +408,11 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
          */
         crf = new SemanticParsingCRF(model, explorer, sampler, stateInitializer, objectiveFunction);
 
-        IEvaluatable.Score coverage = crf.computeCoverage(false,objectiveFunction, instanceProvider.getRedistributedTrainingInstances());
+//        IEvaluatable.Score coverage = crf.computeCoverage(true,objectiveFunction, instanceProvider.getRedistributedTrainingInstances());
 //
-        System.out.println("COVERAGE: "+coverage);
+//        System.out.println("COVERAGE: "+coverage);
 //
-//
-        System.exit(1);
+//        System.exit(1);
 
         /**
          * If the model was loaded from the file system, we do not need to train it.
@@ -456,8 +441,13 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
          * in this case. This method returns for each instances a final state (best
          * state based on the trained model) that contains annotations.
          */
+//
         Map<Instance, State> testResults = crf.predict(instanceProvider.getRedistributedTestInstances(), maxStepCrit,
                 noModelChangeCrit);
+
+
+//        Map<Instance, State> testResults = crf.predict(instanceProvider.getRedistributedTestInstances(), maxStepCrit,
+//                noModelChangeCrit);
 
         /**
          * Finally, we evaluate the produced states and print some statistics.
@@ -469,6 +459,40 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
 
         System.out.println(crf.getTrainingStatistics());
         System.out.println(crf.getTestStatistics());
+
+
+        StatSaver.addToSpreadsheet("statistics/organismModel_stats.ods", featureTemplates, mean.getF1(), crf.getTrainingStatistics().getTotalDuration()+crf.getTestStatistics().getTotalDuration(),
+                crf.getTrainingStatistics().getTotalDuration(),crf.getTestStatistics().getTotalDuration(), alpha);
+
+
+        Map<Instance, State> results = crf.predict(instanceProvider.getRedistributedTestInstances(), maxStepCrit,
+                noModelChangeCrit);
+
+        //TODO: Mit PredictHighrecall ausprobieren
+
+
+//        Map<Instance, Set<DocumentLinkedAnnotation>> annotations = new HashMap<>();
+//
+//        for (Map.Entry<Instance, State> result : results.entrySet()) {
+//            for (AbstractAnnotation aa : result.getValue().getCurrentPredictions().getAnnotations()) {
+//
+//                annotations.putIfAbsent(result.getKey(), new HashSet<>());
+//                annotations.get(result.getKey()).add(aa.asInstanceOfDocumentLinkedAnnotation());
+//            }
+//        }
+//
+//        JsonNerlaIO io = new JsonNerlaIO(true);
+//
+//        for (Instance instance : results.keySet()) {
+//
+//
+//
+//            List<JsonEntityAnnotationWrapper> wrappedAnnotation = annotations.get(instance).stream()
+//                    .map(d -> new JsonEntityAnnotationWrapper(d))
+//                    .collect(Collectors.toList());
+//            io.writeNerlas(new File("jsonFiles/"+instance.getName() + ".nerla.json"), wrappedAnnotation);
+//
+//        }
 
         /**
          * TODO: Compare results with results when changing some parameter. Implement
@@ -490,7 +514,6 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
     private void addDoubleContextTemplates(List<AbstractFeatureTemplate> featureTemplates) {
         featureTemplates.add(new MentionsInSentenceTemplate()); //sehr nützlich
         featureTemplates.add(new WordsInBetweenTemplate());
-//        featureTemplates.add(new WBNULLTemplate());
         featureTemplates.add(new WBTemplate());
         featureTemplates.add(new RootTypeTemplate());
         featureTemplates.add(new WBOTemplate());

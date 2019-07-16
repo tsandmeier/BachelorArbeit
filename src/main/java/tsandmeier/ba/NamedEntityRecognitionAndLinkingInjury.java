@@ -27,13 +27,11 @@ import de.hterhors.semanticmr.eval.EEvaluationDetail;
 import de.hterhors.semanticmr.init.specifications.SystemScope;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import tsandmeier.ba.NutzloseTemplates.WBFTemplate;
+import tsandmeier.ba.NutzloseTemplates.WBLTemplate;
 import tsandmeier.ba.candprov.*;
 import tsandmeier.ba.specs.NERLASpecsInjury;
-import tsandmeier.ba.templates.NutzloseTemplates.WBFTemplate;
-import tsandmeier.ba.templates.NutzloseTemplates.WBLTemplate;
-import tsandmeier.ba.templates.NutzloseTemplates.WBNULLTemplate;
-import tsandmeier.ba.templates.NutzloseTemplates.WordsInBetweenTemplateSingle;
-import tsandmeier.ba.templates.usefulTemplates.*;
+import tsandmeier.ba.templates.*;
 
 import java.io.File;
 import java.io.IOException;
@@ -51,6 +49,7 @@ public class NamedEntityRecognitionAndLinkingInjury extends AbstractSemReadProje
     private IEvaluatable.Score mean;
     private int mode;
     List<AbstractFeatureTemplate> featureTemplates;
+    private double alpha;
 
     /**1: all
      * 2: singleContextTemplates
@@ -67,9 +66,15 @@ public class NamedEntityRecognitionAndLinkingInjury extends AbstractSemReadProje
      * @param args
      * @throws IOException
      */
-    public static void main(String[] args) {
-        new NamedEntityRecognitionAndLinkingInjury().startProcedure(1);
-
+    public static void main(String[] args) throws IOException {
+        String arg1 = args[0];
+        String arg2 = args[1];
+        int mode = Integer.valueOf(arg1);
+        double alpha = Double.valueOf(arg2);
+        if(mode < 1 || mode >7){
+            System.out.println("UNGÜLTIGER MODE");
+        }
+        new NamedEntityRecognitionAndLinkingInjury().startProcedure(mode, alpha);
     }
 
     /**
@@ -127,7 +132,10 @@ public class NamedEntityRecognitionAndLinkingInjury extends AbstractSemReadProje
 
     }
 
-    public void startProcedure(int mode){
+    public void startProcedure(int mode, double alpha) throws IOException {
+
+        this.alpha = alpha;
+
         /**
          * 2. STEP read and distribute the corpus.
          *
@@ -207,7 +215,7 @@ public class NamedEntityRecognitionAndLinkingInjury extends AbstractSemReadProje
          *
          * TODO: find best alpha value in combination with L2-regularization.
          */
-        AdvancedLearner learner = new AdvancedLearner(new SGD(0.001, 0), new L2(0.0001)); //alpha von 0.001 scheint besser als 0.01, 0.0001 macht jedoch wieder schlechter
+        AdvancedLearner learner = new AdvancedLearner(new SGD(alpha, 0), new L2(0.0001)); //alpha von 0.001 scheint besser als 0.01, 0.0001 macht jedoch wieder schlechter
 
         /**
          * Next, we need to specify the actual feature templates. In this example we
@@ -221,73 +229,69 @@ public class NamedEntityRecognitionAndLinkingInjury extends AbstractSemReadProje
         this.mode = mode;
 
         featureTemplates = new ArrayList<>();
-        addSingleMentionTemplates(featureTemplates);
-        addsingleContextTemplates(featureTemplates);
-        addDoubleContextTemplates(featureTemplates);
-        switch (0) {
+
+        switch (mode) {
             case 1:                                         //alle Templates
                 addNumberTemplates(featureTemplates);
                 addsingleContextTemplates(featureTemplates);
                 addDoubleContextTemplates(featureTemplates);
                 addSingleMentionTemplates(featureTemplates);
-                featureTemplates.add(new BracketsTemplate());
-                featureTemplates.add(new SimilarWordsTemplate());
                 featureTemplates.add(new ML12Template());
-                featureTemplates.add(new WMTemplate());
 //                addNormalizationtemplates(featureTemplates);
+                addDoubleComparisonTemplates(featureTemplates);
                 break;
             case 2:                                         //alle ohne ML12
                 addNumberTemplates(featureTemplates);
                 addsingleContextTemplates(featureTemplates);
                 addDoubleContextTemplates(featureTemplates);
                 addSingleMentionTemplates(featureTemplates);
-                featureTemplates.add(new BracketsTemplate());
-                featureTemplates.add(new WMTemplate());
 //                addNormalizationtemplates(featureTemplates);
+                addDoubleComparisonTemplates(featureTemplates);
                 break;
 
             case 3:                                        //alle ohne DoubleContext
                 addNumberTemplates(featureTemplates);
                 addsingleContextTemplates(featureTemplates);
                 addSingleMentionTemplates(featureTemplates);
-                featureTemplates.add(new BracketsTemplate());
                 featureTemplates.add(new ML12Template());
 //                addNormalizationtemplates(featureTemplates);
+                addDoubleComparisonTemplates(featureTemplates);
                 break;
 
             case 4:                                         //alle ohne SingleContext
                 addNumberTemplates(featureTemplates);
                 addDoubleContextTemplates(featureTemplates);
                 addSingleMentionTemplates(featureTemplates);
-                featureTemplates.add(new BracketsTemplate());
                 featureTemplates.add(new ML12Template());
 //                addNormalizationtemplates(featureTemplates);
+                addDoubleComparisonTemplates(featureTemplates);
                 break;
 
             case 5:                                         //alle ohne Numbertemplates
                 addsingleContextTemplates(featureTemplates);
                 addDoubleContextTemplates(featureTemplates);
                 addSingleMentionTemplates(featureTemplates);
-                featureTemplates.add(new BracketsTemplate());
                 featureTemplates.add(new ML12Template());
 //                addNormalizationtemplates(featureTemplates);
+                addDoubleComparisonTemplates(featureTemplates);
                 break;
 
             case 6:                                          //alle ohne singlemention
                 addNumberTemplates(featureTemplates);
                 addsingleContextTemplates(featureTemplates);
                 addDoubleContextTemplates(featureTemplates);
-                featureTemplates.add(new BracketsTemplate());
                 featureTemplates.add(new ML12Template());
 //                addNormalizationtemplates(featureTemplates);
+                addDoubleComparisonTemplates(featureTemplates);
                 break;
             case 7:                                         //alle ohne Normalization
                 addNumberTemplates(featureTemplates);
                 addsingleContextTemplates(featureTemplates);
                 addDoubleContextTemplates(featureTemplates);
                 addSingleMentionTemplates(featureTemplates);
-                featureTemplates.add(new BracketsTemplate());
                 featureTemplates.add(new ML12Template());
+//                addDoubleComparisonTemplates(featureTemplates);
+                break;
         }
 //
 //        featureTemplates.add(new AMFLTemplate());
@@ -452,6 +456,9 @@ public class NamedEntityRecognitionAndLinkingInjury extends AbstractSemReadProje
         System.out.println(crf.getTrainingStatistics());
         System.out.println(crf.getTestStatistics());
 
+        StatSaver.addToSpreadsheet("statistics/injury_stats.ods", featureTemplates, mean.getF1(), crf.getTrainingStatistics().getTotalDuration()+crf.getTestStatistics().getTotalDuration(),
+                crf.getTrainingStatistics().getTotalDuration(),crf.getTestStatistics().getTotalDuration(), alpha);
+
         /**
          * TODO: Compare results with results when changing some parameter. Implement
          * more sophisticated feature-templates.
@@ -466,27 +473,29 @@ public class NamedEntityRecognitionAndLinkingInjury extends AbstractSemReadProje
     private void addsingleContextTemplates(List<AbstractFeatureTemplate> featureTemplates) {
         featureTemplates.add(new BMFLTemplate(false));
         featureTemplates.add(new AMFLTemplate(false));
+        featureTemplates.add(new BracketsTemplate());
     }
 
     private void addDoubleContextTemplates(List<AbstractFeatureTemplate> featureTemplates) {
-//        featureTemplates.add(new MentionsInSentenceTemplate()); //sehr nützlich
+        featureTemplates.add(new MentionsInSentenceTemplate()); //sehr nützlich
         featureTemplates.add(new WordsInBetweenTemplate());
-//        featureTemplates.add(new WBFTemplate());
-//        featureTemplates.add(new WBLTemplate());
-//        featureTemplates.add(new RootTypeTemplate());
-    }
-
-    private void addDoubleComparisonTemplates(List<AbstractFeatureTemplate> featureTemplates){
-        featureTemplates.add(new OverlappingTemplate(false));
-        featureTemplates.add(new SimilarWordsTemplate());
+        featureTemplates.add(new WBTemplate());
+        featureTemplates.add(new RootTypeTemplate());
+        featureTemplates.add(new WBOTemplate());
     }
 
     private void addSingleMentionTemplates(List<AbstractFeatureTemplate> featureTemplates) {
         featureTemplates.add(new BigramTemplate(false)); //nützlich
         featureTemplates.add(new HMTemplate(false));
-        featureTemplates.add(new StartsWithCapitalTemplate()); //verschlechtert ein bisschen, warum?
-        featureTemplates.add(new WordCountTemplate());
+        featureTemplates.add(new StartsWithCapitalTemplate());
         featureTemplates.add(new IdentityTemplate());
+        featureTemplates.add(new WMTemplate());
+        featureTemplates.add(new WordCountTemplate());
+    }
+
+    private void addDoubleComparisonTemplates(List<AbstractFeatureTemplate> featureTemplates){
+        featureTemplates.add(new OverlappingTemplate(false));
+        featureTemplates.add(new SimilarWordsTemplate());
     }
 
     private void addNormalizationtemplates(List<AbstractFeatureTemplate> featureTemplates) {
