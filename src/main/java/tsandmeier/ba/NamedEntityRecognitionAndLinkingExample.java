@@ -224,76 +224,108 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
 
         featureTemplates = new ArrayList<>();
 
-        switch (mode) {
-            case 1:                                         //alle Templates
-                addNumberTemplates(featureTemplates);
-                addsingleContextTemplates(featureTemplates);
-                addDoubleContextTemplates(featureTemplates);
-                addSingleMentionTemplates(featureTemplates);
-                featureTemplates.add(new ML12Template());
-                addNormalizationtemplates(featureTemplates);
-                addDoubleComparisonTemplates(featureTemplates);
-                break;
-            case 2:                                         //alle ohne ML12
-                addNumberTemplates(featureTemplates);
-                addsingleContextTemplates(featureTemplates);
-                addDoubleContextTemplates(featureTemplates);
-                addSingleMentionTemplates(featureTemplates);
-                addNormalizationtemplates(featureTemplates);
-                addDoubleComparisonTemplates(featureTemplates);
-                break;
+        boolean specialCase = true;
+        if(!specialCase) {
+            switch (mode) {
+                case 1:                                         //alle Templates
+                    addNumberTemplates(featureTemplates);
+                    addsingleContextTemplates(featureTemplates);
+                    addDoubleContextTemplates(featureTemplates);
+                    addSingleMentionTemplates(featureTemplates);
+                    featureTemplates.add(new ML12Template());
+                    addNormalizationtemplates(featureTemplates);
+                    addDoubleComparisonTemplates(featureTemplates);
+                    break;
+                case 2:                                         //alle ohne ML12
+                    addNumberTemplates(featureTemplates);
+                    addsingleContextTemplates(featureTemplates);
+                    addDoubleContextTemplates(featureTemplates);
+                    addSingleMentionTemplates(featureTemplates);
+                    addNormalizationtemplates(featureTemplates);
+                    addDoubleComparisonTemplates(featureTemplates);
+                    break;
 
-            case 3:                                        //alle ohne DoubleContext
-                addNumberTemplates(featureTemplates);
-                addsingleContextTemplates(featureTemplates);
-                addSingleMentionTemplates(featureTemplates);
-                featureTemplates.add(new ML12Template());
-                addNormalizationtemplates(featureTemplates);
-                addDoubleComparisonTemplates(featureTemplates);
-                break;
+                case 3:                                        //alle ohne DoubleContext
+                    addNumberTemplates(featureTemplates);
+                    addsingleContextTemplates(featureTemplates);
+                    addSingleMentionTemplates(featureTemplates);
+                    featureTemplates.add(new ML12Template());
+                    addNormalizationtemplates(featureTemplates);
+                    addDoubleComparisonTemplates(featureTemplates);
+                    break;
 
-            case 4:                                         //alle ohne SingleContext
-                addNumberTemplates(featureTemplates);
-                addDoubleContextTemplates(featureTemplates);
-                addSingleMentionTemplates(featureTemplates);
-                featureTemplates.add(new ML12Template());
-                addNormalizationtemplates(featureTemplates);
-                addDoubleComparisonTemplates(featureTemplates);
-                break;
+                case 4:                                         //alle ohne SingleContext
+                    addNumberTemplates(featureTemplates);
+                    addDoubleContextTemplates(featureTemplates);
+                    addSingleMentionTemplates(featureTemplates);
+                    featureTemplates.add(new ML12Template());
+                    addNormalizationtemplates(featureTemplates);
+                    addDoubleComparisonTemplates(featureTemplates);
+                    break;
 
-            case 5:                                         //alle ohne Numbertemplates
-                addsingleContextTemplates(featureTemplates);
-                addDoubleContextTemplates(featureTemplates);
-                addSingleMentionTemplates(featureTemplates);
-                featureTemplates.add(new ML12Template());
-                addNormalizationtemplates(featureTemplates);
-                addDoubleComparisonTemplates(featureTemplates);
-                break;
+                case 5:                                         //alle ohne Numbertemplates
+                    addsingleContextTemplates(featureTemplates);
+                    addDoubleContextTemplates(featureTemplates);
+                    addSingleMentionTemplates(featureTemplates);
+                    featureTemplates.add(new ML12Template());
+                    addNormalizationtemplates(featureTemplates);
+                    addDoubleComparisonTemplates(featureTemplates);
+                    break;
 
-            case 6:                                          //alle ohne singlemention
-                addNumberTemplates(featureTemplates);
-                addsingleContextTemplates(featureTemplates);
-                addDoubleContextTemplates(featureTemplates);
-                featureTemplates.add(new ML12Template());
-                addNormalizationtemplates(featureTemplates);
-                addDoubleComparisonTemplates(featureTemplates);
-                break;
-            case 7:                                         //alle ohne Normalization
-                addNumberTemplates(featureTemplates);
-                addsingleContextTemplates(featureTemplates);
-                addDoubleContextTemplates(featureTemplates);
-                addSingleMentionTemplates(featureTemplates);
-                featureTemplates.add(new ML12Template());
-                addDoubleComparisonTemplates(featureTemplates);
-                break;
-            case 8:                                         //alle ohne DoubleComparison
-                addNumberTemplates(featureTemplates);
-                addsingleContextTemplates(featureTemplates);
-                addDoubleContextTemplates(featureTemplates);
-                addSingleMentionTemplates(featureTemplates);
-                featureTemplates.add(new ML12Template());
-                addNormalizationtemplates(featureTemplates);
-                break;
+                case 6:                                          //alle ohne singlemention
+                    addNumberTemplates(featureTemplates);
+                    addsingleContextTemplates(featureTemplates);
+                    addDoubleContextTemplates(featureTemplates);
+                    featureTemplates.add(new ML12Template());
+                    addNormalizationtemplates(featureTemplates);
+                    addDoubleComparisonTemplates(featureTemplates);
+                    break;
+                case 7:                                         //alle ohne Normalization
+                    addNumberTemplates(featureTemplates);
+                    addsingleContextTemplates(featureTemplates);
+                    addDoubleContextTemplates(featureTemplates);
+                    addSingleMentionTemplates(featureTemplates);
+                    featureTemplates.add(new ML12Template());
+                    addDoubleComparisonTemplates(featureTemplates);
+                    break;
+                case 8:                                         //alle ohne DoubleComparison
+                    addNumberTemplates(featureTemplates);
+                    addsingleContextTemplates(featureTemplates);
+                    addDoubleContextTemplates(featureTemplates);
+                    addSingleMentionTemplates(featureTemplates);
+                    featureTemplates.add(new ML12Template());
+                    addNormalizationtemplates(featureTemplates);
+                    break;
+            }
+        } else {
+            switch (mode){
+                case 1:                                     //alle ohne ML12
+                    addNumberTemplates(featureTemplates);
+                    addsingleContextTemplates(featureTemplates);
+                    addDoubleContextTemplates(featureTemplates);
+                    addSingleMentionTemplates(featureTemplates);
+                    addNormalizationtemplates(featureTemplates);
+                    addDoubleComparisonTemplates(featureTemplates);
+                case 2:                                     //alle ohne ML12 und Number
+                    addsingleContextTemplates(featureTemplates);
+                    addDoubleContextTemplates(featureTemplates);
+                    addSingleMentionTemplates(featureTemplates);
+                    addNormalizationtemplates(featureTemplates);
+                    addDoubleComparisonTemplates(featureTemplates);
+                case 3:                                 //alle ohne ML12 und Normalization
+                    addNumberTemplates(featureTemplates);
+                    addsingleContextTemplates(featureTemplates);
+                    addDoubleContextTemplates(featureTemplates);
+                    addSingleMentionTemplates(featureTemplates);
+                    addDoubleComparisonTemplates(featureTemplates);
+                case 4:                                     //alle ohne ML12 und DoubleContext
+                    addNumberTemplates(featureTemplates);
+                    addsingleContextTemplates(featureTemplates);
+                    addDoubleContextTemplates(featureTemplates);
+                    addSingleMentionTemplates(featureTemplates);
+                    addNormalizationtemplates(featureTemplates);
+                    addDoubleComparisonTemplates(featureTemplates);
+            }
         }
 ////
 //        featureTemplates.add(new AMFLTemplate());
@@ -461,7 +493,7 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
         System.out.println(crf.getTestStatistics());
 
 
-        StatSaver.addToSpreadsheet("statistics/organismModel_stats.ods", featureTemplates, mean.getF1(), crf.getTrainingStatistics().getTotalDuration()+crf.getTestStatistics().getTotalDuration(),
+        StatSaver.addToSpreadsheet("statistics/organismModel_stats_ohne_ML12.ods", featureTemplates, mean.getF1(), crf.getTrainingStatistics().getTotalDuration()+crf.getTestStatistics().getTotalDuration(),
                 crf.getTrainingStatistics().getTotalDuration(),crf.getTestStatistics().getTotalDuration(), alpha);
 
 
