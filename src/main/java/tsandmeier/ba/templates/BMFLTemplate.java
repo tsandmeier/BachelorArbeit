@@ -24,6 +24,10 @@ public class BMFLTemplate extends AbstractFeatureTemplate<BMFLTemplate.BMFLScope
 		super(cache);
 	}
 
+	public BMFLTemplate() {
+		super();
+	}
+
 	private static final int NUMBER_OF_WORDS = 5;
 
 	static class BMFLScope

@@ -19,6 +19,10 @@ import java.util.Objects;
  */
 public class AMFLTemplate extends AbstractFeatureTemplate<AMFLTemplate.AMFLScope> {
 
+    public AMFLTemplate() {
+        super();
+    }
+
     public AMFLTemplate (boolean cache) {
         super(cache);
     }

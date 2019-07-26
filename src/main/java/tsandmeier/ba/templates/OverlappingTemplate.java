@@ -17,6 +17,10 @@ import java.util.Objects;
  */
 public class OverlappingTemplate extends AbstractFeatureTemplate<OverlappingTemplate.EmptyScope> {
 
+    public OverlappingTemplate() {
+        super();
+    }
+
     public OverlappingTemplate(boolean cache){
         super(cache);
     }
