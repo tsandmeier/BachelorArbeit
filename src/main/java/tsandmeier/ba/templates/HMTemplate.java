@@ -21,7 +21,9 @@ public class HMTemplate extends AbstractFeatureTemplate<HMTemplate.HMScope> {
 		super(cache);
 	}
 
-
+	public HMTemplate() {
+		super();
+	}
 
 	static class HMScope
 			extends AbstractFactorScope {

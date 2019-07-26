@@ -20,6 +20,10 @@ public class BigramTemplate extends AbstractFeatureTemplate<BigramTemplate.Bigra
         super(cache);
     }
 
+    public BigramTemplate() {
+        super();
+    }
+
     private static final int MAX_NGRAM_SIZE = 5; //2 scheint das beste zu sein
     private static final int MIN_NGRAM_SIZE = 2;
 
