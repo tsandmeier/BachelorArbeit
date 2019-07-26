@@ -1,0 +1,26 @@
+[
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Male",
+    "off": 8726,
+    "sff": "male"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Adult",
+    "off": 8720,
+    "sff": "adult"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "FischerRat",
+    "off": 39685,
+    "sff": "Fischer rats"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Weight",
+    "off": 8755,
+    "sff": "–400 g"
+  }
+]

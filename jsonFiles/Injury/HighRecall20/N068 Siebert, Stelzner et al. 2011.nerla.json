@@ -1,0 +1,62 @@
+[
+  {
+    "docID": "N068 Siebert, Stelzner et al. 2011",
+    "et": "T10",
+    "off": 6335,
+    "sff": "cord"
+  },
+  {
+    "docID": "N068 Siebert, Stelzner et al. 2011",
+    "et": "Weight",
+    "off": 7896,
+    "sff": "10 g"
+  },
+  {
+    "docID": "N068 Siebert, Stelzner et al. 2011",
+    "et": "Hydration",
+    "off": 9569,
+    "sff": "water"
+  },
+  {
+    "docID": "N068 Siebert, Stelzner et al. 2011",
+    "et": "Distance",
+    "off": 7931,
+    "sff": "25 mm"
+  },
+  {
+    "docID": "N068 Siebert, Stelzner et al. 2011",
+    "et": "InjectionDelivery",
+    "off": 7566,
+    "sff": "injection"
+  },
+  {
+    "docID": "N068 Siebert, Stelzner et al. 2011",
+    "et": "NYUImpactor",
+    "off": 7772,
+    "sff": "NYU Impactor"
+  },
+  {
+    "docID": "N068 Siebert, Stelzner et al. 2011",
+    "et": "IntraperitonealLocation",
+    "off": 7561,
+    "sff": "i.p"
+  },
+  {
+    "docID": "N068 Siebert, Stelzner et al. 2011",
+    "et": "ModerateInjury",
+    "off": 2153,
+    "sff": "moderate"
+  },
+  {
+    "docID": "N068 Siebert, Stelzner et al. 2011",
+    "et": "AntibioticMedication",
+    "off": 8995,
+    "sff": "Cefazolin"
+  },
+  {
+    "docID": "N068 Siebert, Stelzner et al. 2011",
+    "et": "T9",
+    "off": 7687,
+    "sff": "T9"
+  }
+]

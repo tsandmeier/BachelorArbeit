@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N151 Huang 2010",
+    "et": "T8",
+    "off": 3354,
+    "sff": "T8"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "Distance",
+    "off": 3238,
+    "sff": "2"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "Hydration",
+    "off": 14360,
+    "sff": "freely"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "MildInjury",
+    "off": 11362,
+    "sff": "injury"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "Contusion",
+    "off": 1952,
+    "sff": "cord"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "Weight",
+    "off": 6797,
+    "sff": "300 g"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "T8",
+    "off": 18726,
+    "sff": "8"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "C3",
+    "off": 12886,
+    "sff": "third"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "MildInjury",
+    "off": 4860,
+    "sff": "injury"
+  }
+]

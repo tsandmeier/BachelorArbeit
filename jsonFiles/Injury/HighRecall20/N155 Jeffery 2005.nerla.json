@@ -1,0 +1,62 @@
+[
+  {
+    "docID": "N155 Jeffery 2005",
+    "et": "Dislocation",
+    "off": 3335,
+    "sff": "intervertebral"
+  },
+  {
+    "docID": "N155 Jeffery 2005",
+    "et": "Dislocation",
+    "off": 19815,
+    "sff": "intervertebral"
+  },
+  {
+    "docID": "N155 Jeffery 2005",
+    "et": "Dislocation",
+    "off": 3028,
+    "sff": "intervertebral"
+  },
+  {
+    "docID": "N155 Jeffery 2005",
+    "et": "SevereInjury",
+    "off": 414,
+    "sff": "severe SCI"
+  },
+  {
+    "docID": "N155 Jeffery 2005",
+    "et": "SevereInjury",
+    "off": 4990,
+    "sff": "severe SCI"
+  },
+  {
+    "docID": "N155 Jeffery 2005",
+    "et": "SevereInjury",
+    "off": 1474,
+    "sff": "severe SCI"
+  },
+  {
+    "docID": "N155 Jeffery 2005",
+    "et": "Dislocation",
+    "off": 8522,
+    "sff": "consequence of intervertebral disc extrusion"
+  },
+  {
+    "docID": "N155 Jeffery 2005",
+    "et": "Dislocation",
+    "off": 19997,
+    "sff": "intervertebral"
+  },
+  {
+    "docID": "N155 Jeffery 2005",
+    "et": "Compression",
+    "off": 35929,
+    "sff": "crushing"
+  },
+  {
+    "docID": "N155 Jeffery 2005",
+    "et": "Dislocation",
+    "off": 20323,
+    "sff": "intervertebral"
+  }
+]

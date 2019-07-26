@@ -1,0 +1,62 @@
+[
+  {
+    "docID": "N238 Janzedeh",
+    "et": "BladderExpression",
+    "off": 6900,
+    "sff": "bladder empting"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "Xylazine",
+    "off": 6493,
+    "sff": "xylasine"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "KetamineAsAnaesthetic",
+    "off": 6469,
+    "sff": "ketamine"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "Nutrition",
+    "off": 6102,
+    "sff": "access to food"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "AntibioticMedication",
+    "off": 6866,
+    "sff": "gentamycin"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "DosageExtracorporal",
+    "off": 6479,
+    "sff": "80 mg/kg"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "Hydration",
+    "off": 6121,
+    "sff": "water freely"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "DosageExtracorporal",
+    "off": 6503,
+    "sff": "10 mg/kg"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "VertebralArea",
+    "off": 6489,
+    "sff": "and"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "Compression",
+    "off": 6613,
+    "sff": "compressed"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "docID": "N032 Wang 2011  21697383",
+    "et": "No5DumontForeceps",
+    "off": 5685,
+    "sff": "Dumont"
+  },
+  {
+    "docID": "N032 Wang 2011  21697383",
+    "et": "DorsalInjuryArea",
+    "off": 34745,
+    "sff": "dorsal funiculus"
+  },
+  {
+    "docID": "N032 Wang 2011  21697383",
+    "et": "DosageExtracorporal",
+    "off": 5437,
+    "sff": "25%"
+  },
+  {
+    "docID": "N032 Wang 2011  21697383",
+    "et": "DorsalInjuryArea",
+    "off": 21205,
+    "sff": "dorsal funiculus"
+  },
+  {
+    "docID": "N032 Wang 2011  21697383",
+    "et": "C5",
+    "off": 11590,
+    "sff": "C5"
+  },
+  {
+    "docID": "N032 Wang 2011  21697383",
+    "et": "C4",
+    "off": 872,
+    "sff": "C4"
+  },
+  {
+    "docID": "N032 Wang 2011  21697383",
+    "et": "DorsalInjuryArea",
+    "off": 18641,
+    "sff": "dorsal funiculus"
+  },
+  {
+    "docID": "N032 Wang 2011  21697383",
+    "et": "C3",
+    "off": 14824,
+    "sff": "C3"
+  },
+  {
+    "docID": "N032 Wang 2011  21697383",
+    "et": "Isoflurane",
+    "off": 5410,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N032 Wang 2011  21697383",
+    "et": "ScoutenWireKnife",
+    "off": 9763,
+    "sff": "wire"
+  }
+]

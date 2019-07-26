@@ -1,0 +1,26 @@
+[
+  {
+    "docID": "N110 Cheng, C.-H.a  b  c, Lin et al. 2015",
+    "et": "Adult",
+    "off": 12551,
+    "sff": "adult"
+  },
+  {
+    "docID": "N110 Cheng, C.-H.a  b  c, Lin et al. 2015",
+    "et": "Female",
+    "off": 12557,
+    "sff": "female"
+  },
+  {
+    "docID": "N110 Cheng, C.-H.a  b  c, Lin et al. 2015",
+    "et": "SpragueDawleyRat",
+    "off": 12564,
+    "sff": "Sprague-Dawley rats"
+  },
+  {
+    "docID": "N110 Cheng, C.-H.a  b  c, Lin et al. 2015",
+    "et": "Weight",
+    "off": 12585,
+    "sff": "200–250 g"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "CompleteTransection",
+    "off": 11383,
+    "sff": "completely transected"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "BladderExpression",
+    "off": 11745,
+    "sff": "Bladder evacuation"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "C3",
+    "off": 27375,
+    "sff": "third"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "DosageExtracorporal",
+    "off": 11069,
+    "sff": "1 – 2%"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "IntraperitonealLocation",
+    "off": 35645,
+    "sff": "IP"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "Isoflurane",
+    "off": 11076,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "T8",
+    "off": 11453,
+    "sff": "T8"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "T7",
+    "off": 22972,
+    "sff": "T7"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "MildInjury",
+    "off": 3025,
+    "sff": "injury"
+  }
+]

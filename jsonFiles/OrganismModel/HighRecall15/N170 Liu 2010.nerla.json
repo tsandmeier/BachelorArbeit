@@ -1,0 +1,38 @@
+[
+  {
+    "docID": "N170 Liu 2010",
+    "et": "SpragueDawleyRat",
+    "off": 4149,
+    "sff": "Sprague Dawley rats"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "Male",
+    "off": 4187,
+    "sff": "male"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "Weight",
+    "off": 4170,
+    "sff": "250–280 g"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "Female",
+    "off": 4196,
+    "sff": "female"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "Adult",
+    "off": 4143,
+    "sff": "adult"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "Age",
+    "off": 501,
+    "sff": "One week"
+  }
+]

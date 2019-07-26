@@ -1,0 +1,26 @@
+[
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "Weight",
+    "off": 14603,
+    "sff": "mean 250 g"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "WistarRat",
+    "off": 8677,
+    "sff": "Wistar rats"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "Female",
+    "off": 14472,
+    "sff": "female"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "Age",
+    "off": 14577,
+    "sff": "12 weeks"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "docID": "N241 Pan",
+    "et": "Female",
+    "off": 5440,
+    "sff": "female"
+  },
+  {
+    "docID": "N241 Pan",
+    "et": "WistarRat",
+    "off": 5447,
+    "sff": "Wistar rats"
+  },
+  {
+    "docID": "N241 Pan",
+    "et": "Age",
+    "off": 5510,
+    "sff": "70 days"
+  },
+  {
+    "docID": "N241 Pan",
+    "et": "Weight",
+    "off": 5490,
+    "sff": "250±20 g"
+  }
+]

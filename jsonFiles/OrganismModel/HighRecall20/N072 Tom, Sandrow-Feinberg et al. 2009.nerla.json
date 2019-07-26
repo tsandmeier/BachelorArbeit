@@ -1,0 +1,50 @@
+[
+  {
+    "docID": "N072 Tom, Sandrow-Feinberg et al. 2009",
+    "et": "Female",
+    "off": 6588,
+    "sff": "female"
+  },
+  {
+    "docID": "N072 Tom, Sandrow-Feinberg et al. 2009",
+    "et": "FischerRat",
+    "off": 63647,
+    "sff": "Fischer"
+  },
+  {
+    "docID": "N072 Tom, Sandrow-Feinberg et al. 2009",
+    "et": "FischerRat",
+    "off": 58600,
+    "sff": "Fischer"
+  },
+  {
+    "docID": "N072 Tom, Sandrow-Feinberg et al. 2009",
+    "et": "Adult",
+    "off": 6573,
+    "sff": "injuries—Adult"
+  },
+  {
+    "docID": "N072 Tom, Sandrow-Feinberg et al. 2009",
+    "et": "SpragueDawleyRat",
+    "off": 6595,
+    "sff": "Sprague Dawley rats"
+  },
+  {
+    "docID": "N072 Tom, Sandrow-Feinberg et al. 2009",
+    "et": "SpragueDawleyRat",
+    "off": 6603,
+    "sff": "Dawley"
+  },
+  {
+    "docID": "N072 Tom, Sandrow-Feinberg et al. 2009",
+    "et": "SpragueDawleyRat",
+    "off": 6595,
+    "sff": "Sprague"
+  },
+  {
+    "docID": "N072 Tom, Sandrow-Feinberg et al. 2009",
+    "et": "CatSpecies",
+    "off": 63190,
+    "sff": "cats"
+  }
+]

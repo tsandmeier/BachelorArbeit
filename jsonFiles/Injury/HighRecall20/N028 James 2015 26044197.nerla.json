@@ -1,0 +1,62 @@
+[
+  {
+    "docID": "N028 James 2015 26044197",
+    "et": "InjectionDelivery",
+    "off": 8428,
+    "sff": "i.p."
+  },
+  {
+    "docID": "N028 James 2015 26044197",
+    "et": "DosageExtracorporal",
+    "off": 7622,
+    "sff": "60 mg/kg"
+  },
+  {
+    "docID": "N028 James 2015 26044197",
+    "et": "InfiniteHorizonImpactor",
+    "off": 7994,
+    "sff": "Infinite Horizon impactor"
+  },
+  {
+    "docID": "N028 James 2015 26044197",
+    "et": "Hydration",
+    "off": 5918,
+    "sff": "water"
+  },
+  {
+    "docID": "N028 James 2015 26044197",
+    "et": "Housing",
+    "off": 5849,
+    "sff": "housed"
+  },
+  {
+    "docID": "N028 James 2015 26044197",
+    "et": "KetamineAsAnaesthetic",
+    "off": 7612,
+    "sff": "ketamine"
+  },
+  {
+    "docID": "N028 James 2015 26044197",
+    "et": "C5",
+    "off": 14486,
+    "sff": "C5"
+  },
+  {
+    "docID": "N028 James 2015 26044197",
+    "et": "ModerateInjury",
+    "off": 1578,
+    "sff": "moderate"
+  },
+  {
+    "docID": "N028 James 2015 26044197",
+    "et": "AntibioticMedication",
+    "off": 8962,
+    "sff": "antibiotics"
+  },
+  {
+    "docID": "N028 James 2015 26044197",
+    "et": "Nutrition",
+    "off": 5894,
+    "sff": "free access to food"
+  }
+]

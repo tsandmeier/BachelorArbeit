@@ -1,0 +1,32 @@
+[
+  {
+    "docID": "N021 Yang 2009 19761692",
+    "et": "Female",
+    "off": 15379,
+    "sff": "female"
+  },
+  {
+    "docID": "N021 Yang 2009 19761692",
+    "et": "Weight",
+    "off": 15416,
+    "sff": "180 - 250 g"
+  },
+  {
+    "docID": "N021 Yang 2009 19761692",
+    "et": "Adult",
+    "off": 15364,
+    "sff": "adult"
+  },
+  {
+    "docID": "N021 Yang 2009 19761692",
+    "et": "Male",
+    "off": 15370,
+    "sff": "male"
+  },
+  {
+    "docID": "N021 Yang 2009 19761692",
+    "et": "SpragueDawleyRat",
+    "off": 15386,
+    "sff": "Sprague-Dawley rats"
+  }
+]

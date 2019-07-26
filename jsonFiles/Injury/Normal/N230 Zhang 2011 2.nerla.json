@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N230 Zhang 2011 2",
+    "et": "T10",
+    "off": 794,
+    "sff": "T10"
+  },
+  {
+    "docID": "N230 Zhang 2011 2",
+    "et": "AntibioticMedication",
+    "off": 6337,
+    "sff": "Antibiotic cephazolin"
+  },
+  {
+    "docID": "N230 Zhang 2011 2",
+    "et": "Contusion",
+    "off": 64,
+    "sff": "contusion injury"
+  },
+  {
+    "docID": "N230 Zhang 2011 2",
+    "et": "Distance",
+    "off": 6012,
+    "sff": "25 mm height"
+  },
+  {
+    "docID": "N230 Zhang 2011 2",
+    "et": "Distance",
+    "off": 27057,
+    "sff": "25 mm height"
+  },
+  {
+    "docID": "N230 Zhang 2011 2",
+    "et": "BladderExpression",
+    "off": 6547,
+    "sff": "Urinary bladders were manually emptied"
+  },
+  {
+    "docID": "N230 Zhang 2011 2",
+    "et": "Distance",
+    "off": 769,
+    "sff": "25 mm height"
+  },
+  {
+    "docID": "N230 Zhang 2011 2",
+    "et": "DosageExtracorporal",
+    "off": 6369,
+    "sff": "20 mg/kg"
+  },
+  {
+    "docID": "N230 Zhang 2011 2",
+    "et": "IntraperitonealLocation",
+    "off": 6225,
+    "sff": "ip"
+  }
+]

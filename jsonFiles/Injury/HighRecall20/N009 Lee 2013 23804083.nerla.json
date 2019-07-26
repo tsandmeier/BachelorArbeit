@@ -1,0 +1,62 @@
+[
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "VertebralArea",
+    "off": 21937,
+    "sff": "T8 and T9"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "InjectionDelivery",
+    "off": 14438,
+    "sff": "i.p."
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "IntraperitonealLocation",
+    "off": 14632,
+    "sff": "i.p"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "DosageExtracorporal",
+    "off": 7696,
+    "sff": "2%"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "CompleteTransection",
+    "off": 13327,
+    "sff": "completely transected"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "C4",
+    "off": 32139,
+    "sff": "fourth"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "MildInjury",
+    "off": 77735,
+    "sff": "injury"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "T8",
+    "off": 6532,
+    "sff": "T8"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "Isoflurane",
+    "off": 11756,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "C3",
+    "off": 14800,
+    "sff": "third"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "SpragueDawleyRat",
+    "off": 4130,
+    "sff": "Sprague±Dawley rats"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "Female",
+    "off": 4123,
+    "sff": "female"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "Weight",
+    "off": 4151,
+    "sff": "250-300 g"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "SpragueDawleyRat",
+    "off": 4138,
+    "sff": "Dawley"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "WistarRat",
+    "off": 3706,
+    "sff": "Wistar"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "WistarRat",
+    "off": 3706,
+    "sff": "Wistar rats"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "SpragueDawleyRat",
+    "off": 4130,
+    "sff": "Sprague"
+  }
+]

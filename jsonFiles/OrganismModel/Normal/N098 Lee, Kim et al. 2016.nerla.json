@@ -1,0 +1,20 @@
+[
+  {
+    "docID": "N098 Lee, Kim et al. 2016",
+    "et": "DogSpecies",
+    "off": 11617,
+    "sff": "beagles"
+  },
+  {
+    "docID": "N098 Lee, Kim et al. 2016",
+    "et": "Male",
+    "off": 11612,
+    "sff": "male"
+  },
+  {
+    "docID": "N098 Lee, Kim et al. 2016",
+    "et": "Weight",
+    "off": 11649,
+    "sff": "8.87 ± 1.65 kg"
+  }
+]

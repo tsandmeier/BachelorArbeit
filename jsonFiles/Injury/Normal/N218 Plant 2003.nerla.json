@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N218 Plant 2003",
+    "et": "Contusion",
+    "off": 404,
+    "sff": "contused"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "Distance",
+    "off": 9253,
+    "sff": "12.5 mm"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "BladderExpression",
+    "off": 11162,
+    "sff": "bladder was emptied manually"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "Weight",
+    "off": 9240,
+    "sff": "10.0 g"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "Halothane",
+    "off": 8880,
+    "sff": "halothane"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "T9",
+    "off": 9085,
+    "sff": "T9"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "T10",
+    "off": 9088,
+    "sff": "T10"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "AntibioticMedication",
+    "off": 11053,
+    "sff": "Bicillin"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "Laminectomy",
+    "off": 9039,
+    "sff": "laminectomy"
+  }
+]

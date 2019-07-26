@@ -1,0 +1,38 @@
+[
+  {
+    "docID": "N177 Luo 2013",
+    "et": "Weight",
+    "off": 5290,
+    "sff": "180–250 g"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "Age",
+    "off": 5321,
+    "sff": "90 to 120 days"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "SpragueDawleyRat",
+    "off": 5262,
+    "sff": "Sprague-Dawleyrats"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "Adult",
+    "off": 5249,
+    "sff": "adult"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "Age",
+    "off": 5327,
+    "sff": "120 days"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "Female",
+    "off": 5255,
+    "sff": "female"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "Female",
+    "off": 5137,
+    "sff": "female"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "Age",
+    "off": 5166,
+    "sff": "aged 2.5Y3 months"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "Weight",
+    "off": 5194,
+    "sff": "200-230 g"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "Adult",
+    "off": 5131,
+    "sff": "Adult"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "WistarRat",
+    "off": 5144,
+    "sff": "Wistar Hannover rats"
+  }
+]

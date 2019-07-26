@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N120 Xia, Huang et al. 2017",
+    "et": "T7",
+    "off": 10268,
+    "sff": "T7"
+  },
+  {
+    "docID": "N120 Xia, Huang et al. 2017",
+    "et": "AntibioticMedication",
+    "off": 12568,
+    "sff": "penicillin"
+  },
+  {
+    "docID": "N120 Xia, Huang et al. 2017",
+    "et": "ChloralHydrate",
+    "off": 13182,
+    "sff": "hydrate"
+  },
+  {
+    "docID": "N120 Xia, Huang et al. 2017",
+    "et": "Laminectomy",
+    "off": 10331,
+    "sff": "laminectomy"
+  },
+  {
+    "docID": "N120 Xia, Huang et al. 2017",
+    "et": "PartialTransection",
+    "off": 38849,
+    "sff": "hemisection"
+  },
+  {
+    "docID": "N120 Xia, Huang et al. 2017",
+    "et": "ChloralHydrate",
+    "off": 10198,
+    "sff": "chloral hydrate"
+  },
+  {
+    "docID": "N120 Xia, Huang et al. 2017",
+    "et": "InjectionDelivery",
+    "off": 3113,
+    "sff": "injection"
+  },
+  {
+    "docID": "N120 Xia, Huang et al. 2017",
+    "et": "T9",
+    "off": 10271,
+    "sff": "T9"
+  },
+  {
+    "docID": "N120 Xia, Huang et al. 2017",
+    "et": "Right",
+    "off": 1377,
+    "sff": "right-side"
+  }
+]

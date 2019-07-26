@@ -1,0 +1,32 @@
+[
+  {
+    "docID": "N106 Xiong",
+    "et": "Weight",
+    "off": 7505,
+    "sff": "±20 g"
+  },
+  {
+    "docID": "N106 Xiong",
+    "et": "Weight",
+    "off": 7502,
+    "sff": "200±20 g"
+  },
+  {
+    "docID": "N106 Xiong",
+    "et": "Female",
+    "off": 7480,
+    "sff": "female"
+  },
+  {
+    "docID": "N106 Xiong",
+    "et": "Weight",
+    "off": 7493,
+    "sff": "weighing 200±20 g"
+  },
+  {
+    "docID": "N106 Xiong",
+    "et": "Adult",
+    "off": 7474,
+    "sff": "Adult"
+  }
+]

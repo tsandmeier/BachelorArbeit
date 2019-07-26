@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N026 Garcia-Alias 2009 19668200",
+    "et": "Distance",
+    "off": 4698,
+    "sff": "2 mm"
+  },
+  {
+    "docID": "N026 Garcia-Alias 2009 19668200",
+    "et": "SevereInjury",
+    "off": 32436,
+    "sff": "severe"
+  },
+  {
+    "docID": "N026 Garcia-Alias 2009 19668200",
+    "et": "DorsalInjuryArea",
+    "off": 32752,
+    "sff": "funiculus"
+  },
+  {
+    "docID": "N026 Garcia-Alias 2009 19668200",
+    "et": "Halothane",
+    "off": 4577,
+    "sff": "halothane"
+  },
+  {
+    "docID": "N026 Garcia-Alias 2009 19668200",
+    "et": "DorsalInjuryArea",
+    "off": 13933,
+    "sff": "dorsal funiculus"
+  },
+  {
+    "docID": "N026 Garcia-Alias 2009 19668200",
+    "et": "C3",
+    "off": 11983,
+    "sff": "C3"
+  },
+  {
+    "docID": "N026 Garcia-Alias 2009 19668200",
+    "et": "DorsalInjuryArea",
+    "off": 499,
+    "sff": "dorsal funiculus"
+  },
+  {
+    "docID": "N026 Garcia-Alias 2009 19668200",
+    "et": "L4",
+    "off": 9121,
+    "sff": "4"
+  },
+  {
+    "docID": "N026 Garcia-Alias 2009 19668200",
+    "et": "C4",
+    "off": 21100,
+    "sff": "C4"
+  }
+]

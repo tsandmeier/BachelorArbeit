@@ -1,0 +1,26 @@
+[
+  {
+    "docID": "N016 Grosso 2014 24871142",
+    "et": "Weight",
+    "off": 6858,
+    "sff": "250 to 300 g"
+  },
+  {
+    "docID": "N016 Grosso 2014 24871142",
+    "et": "Adult",
+    "off": 6808,
+    "sff": "Adult"
+  },
+  {
+    "docID": "N016 Grosso 2014 24871142",
+    "et": "SpragueDawleyRat",
+    "off": 6821,
+    "sff": "Sprague-Dawley rats"
+  },
+  {
+    "docID": "N016 Grosso 2014 24871142",
+    "et": "Female",
+    "off": 6814,
+    "sff": "female"
+  }
+]

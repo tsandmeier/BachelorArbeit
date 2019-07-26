@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N008 Jin 2016 26852702",
+    "et": "Weight",
+    "off": 13919,
+    "sff": "10 g"
+  },
+  {
+    "docID": "N008 Jin 2016 26852702",
+    "et": "AntibioticMedication",
+    "off": 15464,
+    "sff": "Cefazolin"
+  },
+  {
+    "docID": "N008 Jin 2016 26852702",
+    "et": "Isoflurane",
+    "off": 17006,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N008 Jin 2016 26852702",
+    "et": "T10",
+    "off": 802,
+    "sff": "T10"
+  },
+  {
+    "docID": "N008 Jin 2016 26852702",
+    "et": "NYUImpactor",
+    "off": 13905,
+    "sff": "NYU impactor"
+  },
+  {
+    "docID": "N008 Jin 2016 26852702",
+    "et": "Nutrition",
+    "off": 12986,
+    "sff": "Food"
+  },
+  {
+    "docID": "N008 Jin 2016 26852702",
+    "et": "Xylazine",
+    "off": 13761,
+    "sff": "Xylazine"
+  },
+  {
+    "docID": "N008 Jin 2016 26852702",
+    "et": "Distance",
+    "off": 13925,
+    "sff": "25 mm"
+  },
+  {
+    "docID": "N008 Jin 2016 26852702",
+    "et": "KetamineAsAnaesthetic",
+    "off": 13820,
+    "sff": "Ketamine"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "docID": "N164 Li 2003",
+    "et": "RatSpecies",
+    "off": 1252,
+    "sff": "rat"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "Adult",
+    "off": 1939,
+    "sff": "adult"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "Adult",
+    "off": 3219,
+    "sff": "adult"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "RatSpecies",
+    "off": 1106,
+    "sff": "rat"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "Adult",
+    "off": 1246,
+    "sff": "adult"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "Adult",
+    "off": 1100,
+    "sff": "adult"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "Female",
+    "off": 5377,
+    "sff": "female"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "Adult",
+    "off": 5371,
+    "sff": "adult"
+  }
+]

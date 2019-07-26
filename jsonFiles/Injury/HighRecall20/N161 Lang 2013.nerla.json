@@ -1,0 +1,62 @@
+[
+  {
+    "docID": "N161 Lang 2013",
+    "et": "AntibioticMedication",
+    "off": 20721,
+    "sff": "penicillin"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "Weight",
+    "off": 21299,
+    "sff": "g"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "T10",
+    "off": 15885,
+    "sff": "T10"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "ChloralHydrate",
+    "off": 19394,
+    "sff": "chloral hydrate"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "T10",
+    "off": 19583,
+    "sff": "T10"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "IntraperitonealLocation",
+    "off": 19360,
+    "sff": "intraperitoneal"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "Laminectomy",
+    "off": 20482,
+    "sff": "laminectomies"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "Contusion",
+    "off": 9248,
+    "sff": "cord"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "Left",
+    "off": 3712,
+    "sff": "left"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "InjectionDelivery",
+    "off": 19376,
+    "sff": "injection"
+  }
+]

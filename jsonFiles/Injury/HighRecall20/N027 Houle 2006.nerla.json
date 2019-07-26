@@ -1,0 +1,62 @@
+[
+  {
+    "docID": "N027 Houle 2006",
+    "et": "AspirationLesion",
+    "off": 838,
+    "sff": "aspiration"
+  },
+  {
+    "docID": "N027 Houle 2006",
+    "et": "AspirationLesion",
+    "off": 5814,
+    "sff": "aspiration"
+  },
+  {
+    "docID": "N027 Houle 2006",
+    "et": "AspirationLesion",
+    "off": 6646,
+    "sff": "aspiration"
+  },
+  {
+    "docID": "N027 Houle 2006",
+    "et": "DosageExtracorporal",
+    "off": 5681,
+    "sff": "60 mg/kg"
+  },
+  {
+    "docID": "N027 Houle 2006",
+    "et": "C3",
+    "off": 18251,
+    "sff": "third"
+  },
+  {
+    "docID": "N027 Houle 2006",
+    "et": "Xylazine",
+    "off": 5695,
+    "sff": "xylazine"
+  },
+  {
+    "docID": "N027 Houle 2006",
+    "et": "DosageExtracorporal",
+    "off": 5705,
+    "sff": "10 mg/kg"
+  },
+  {
+    "docID": "N027 Houle 2006",
+    "et": "AspirationLesion",
+    "off": 9759,
+    "sff": "aspiration"
+  },
+  {
+    "docID": "N027 Houle 2006",
+    "et": "C3",
+    "off": 1152,
+    "sff": "C3"
+  },
+  {
+    "docID": "N027 Houle 2006",
+    "et": "KetamineAsAnaesthetic",
+    "off": 5671,
+    "sff": "ketamine"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "LongEvansRat",
+    "off": 16495,
+    "sff": "Evans"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "SpragueDawleyRat",
+    "off": 5830,
+    "sff": "Sprague–Dawley rats"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "Weight",
+    "off": 5851,
+    "sff": "250–275 g"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "SpragueDawleyRat",
+    "off": 5830,
+    "sff": "Sprague–Dawley"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "Female",
+    "off": 5823,
+    "sff": "Female"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "SpragueDawleyRat",
+    "off": 22861,
+    "sff": "SD"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "SpragueDawleyRat",
+    "off": 23025,
+    "sff": "SD"
+  }
+]

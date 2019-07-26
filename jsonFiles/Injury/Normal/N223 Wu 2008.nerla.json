@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N223 Wu 2008",
+    "et": "Weight",
+    "off": 10696,
+    "sff": "25 g"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "Thoracic",
+    "off": 445,
+    "sff": "thoracic"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "Weight",
+    "off": 12378,
+    "sff": "10"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "T9",
+    "off": 676,
+    "sff": "T9"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "DorsalInjuryArea",
+    "off": 11068,
+    "sff": "funiculus"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "T10",
+    "off": 10659,
+    "sff": "T10"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "BladderExpression",
+    "off": 11621,
+    "sff": "bladders were expressed"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "Distance",
+    "off": 10701,
+    "sff": "cm"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "Contusion",
+    "off": 189,
+    "sff": "cord"
+  }
+]

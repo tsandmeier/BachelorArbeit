@@ -1,0 +1,62 @@
+[
+  {
+    "docID": "N117 Vavrek, Pearse et al. 2007",
+    "et": "VertebralArea",
+    "off": 5037,
+    "sff": "thoracic"
+  },
+  {
+    "docID": "N117 Vavrek, Pearse et al. 2007",
+    "et": "CompleteTransection",
+    "off": 1146,
+    "sff": "complete transection"
+  },
+  {
+    "docID": "N117 Vavrek, Pearse et al. 2007",
+    "et": "PartialTransection",
+    "off": 17652,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N117 Vavrek, Pearse et al. 2007",
+    "et": "PartialTransection",
+    "off": 13878,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N117 Vavrek, Pearse et al. 2007",
+    "et": "Isoflurane",
+    "off": 6108,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N117 Vavrek, Pearse et al. 2007",
+    "et": "VertebralArea",
+    "off": 11783,
+    "sff": "and"
+  },
+  {
+    "docID": "N117 Vavrek, Pearse et al. 2007",
+    "et": "Nutrition",
+    "off": 13483,
+    "sff": "both"
+  },
+  {
+    "docID": "N117 Vavrek, Pearse et al. 2007",
+    "et": "T8",
+    "off": 5111,
+    "sff": "Th8"
+  },
+  {
+    "docID": "N117 Vavrek, Pearse et al. 2007",
+    "et": "Nutrition",
+    "off": 5432,
+    "sff": "provided"
+  },
+  {
+    "docID": "N117 Vavrek, Pearse et al. 2007",
+    "et": "VertebralArea",
+    "off": 8799,
+    "sff": "thoracic"
+  }
+]

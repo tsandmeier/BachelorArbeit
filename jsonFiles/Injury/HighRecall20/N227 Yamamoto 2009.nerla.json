@@ -1,0 +1,62 @@
+[
+  {
+    "docID": "N227 Yamamoto 2009",
+    "et": "Injury",
+    "off": 17958,
+    "sff": "heat lesion"
+  },
+  {
+    "docID": "N227 Yamamoto 2009",
+    "et": "PartialTransection",
+    "off": 8157,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N227 Yamamoto 2009",
+    "et": "VertebralArea",
+    "off": 1442,
+    "sff": "and"
+  },
+  {
+    "docID": "N227 Yamamoto 2009",
+    "et": "C1",
+    "off": 17576,
+    "sff": "first"
+  },
+  {
+    "docID": "N227 Yamamoto 2009",
+    "et": "PartialTransection",
+    "off": 8949,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N227 Yamamoto 2009",
+    "et": "Vibraknife",
+    "off": 15508,
+    "sff": "™"
+  },
+  {
+    "docID": "N227 Yamamoto 2009",
+    "et": "PartialTransection",
+    "off": 3280,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N227 Yamamoto 2009",
+    "et": "PartialTransection",
+    "off": 8466,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N227 Yamamoto 2009",
+    "et": "PartialTransection",
+    "off": 595,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N227 Yamamoto 2009",
+    "et": "PartialTransection",
+    "off": 9235,
+    "sff": "lesion"
+  }
+]

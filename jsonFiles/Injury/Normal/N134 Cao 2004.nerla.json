@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N134 Cao 2004",
+    "et": "AntibioticMedication",
+    "off": 16432,
+    "sff": "cefazolin sodium"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "T8",
+    "off": 15572,
+    "sff": "T8"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Contusion",
+    "off": 1112,
+    "sff": "cord"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "DosageExtracorporal",
+    "off": 16450,
+    "sff": "40 mg/day"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "DosageExtracorporal",
+    "off": 15480,
+    "sff": "0.2 ml/kg"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "SodiumPentobarbital",
+    "off": 15458,
+    "sff": "pentobarbital"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "InjectionDelivery",
+    "off": 15491,
+    "sff": "intraperitoneally"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "MildInjury",
+    "off": 1734,
+    "sff": "injury"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "BladderExpression",
+    "off": 16492,
+    "sff": "bladder expression"
+  }
+]

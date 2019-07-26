@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "T3",
+    "off": 17075,
+    "sff": "T3"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "Nutrition",
+    "off": 7214,
+    "sff": "ad libitum food"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "AntibioticMedication",
+    "off": 10466,
+    "sff": "antibiotic"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "KetamineAsAnaesthetic",
+    "off": 8667,
+    "sff": "ketamine hydrochloride"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "Xylazine",
+    "off": 8784,
+    "sff": "xylazine"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "SubcutaneousLocation",
+    "off": 10502,
+    "sff": "subcutaneously"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "T3",
+    "off": 8907,
+    "sff": "T3"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "Hydration",
+    "off": 7234,
+    "sff": "water"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "InjectionDelivery",
+    "off": 10419,
+    "sff": "subcutaneously"
+  }
+]

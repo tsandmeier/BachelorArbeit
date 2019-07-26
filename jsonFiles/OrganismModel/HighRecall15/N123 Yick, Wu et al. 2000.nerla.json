@@ -1,0 +1,38 @@
+[
+  {
+    "docID": "N123 Yick, Wu et al. 2000",
+    "et": "SpragueDawleyRat",
+    "off": 4672,
+    "sff": "Spraque±Dawley rats"
+  },
+  {
+    "docID": "N123 Yick, Wu et al. 2000",
+    "et": "Weight",
+    "off": 4693,
+    "sff": "200±250 g"
+  },
+  {
+    "docID": "N123 Yick, Wu et al. 2000",
+    "et": "SpragueDawleyRat",
+    "off": 4680,
+    "sff": "Dawley"
+  },
+  {
+    "docID": "N123 Yick, Wu et al. 2000",
+    "et": "WistarRat",
+    "off": 4687,
+    "sff": "rats"
+  },
+  {
+    "docID": "N123 Yick, Wu et al. 2000",
+    "et": "Female",
+    "off": 4665,
+    "sff": "female"
+  },
+  {
+    "docID": "N123 Yick, Wu et al. 2000",
+    "et": "Adult",
+    "off": 4659,
+    "sff": "Adult"
+  }
+]

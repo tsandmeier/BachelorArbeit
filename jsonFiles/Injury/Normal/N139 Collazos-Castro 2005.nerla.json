@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "Xylazine",
+    "off": 8271,
+    "sff": "xilazine"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "Weight",
+    "off": 8548,
+    "sff": "10-g"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "Contusion",
+    "off": 58,
+    "sff": "contusion"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "MildInjury",
+    "off": 693,
+    "sff": "mild"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "MildInjury",
+    "off": 21409,
+    "sff": "mild"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "Distance",
+    "off": 8577,
+    "sff": "12.5 mm"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "SodiumPentobarbital",
+    "off": 8242,
+    "sff": "pentobarbital"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "DosageExtracorporal",
+    "off": 8281,
+    "sff": "5 mg/kg"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "DosageExtracorporal",
+    "off": 8257,
+    "sff": "50 mg/kg"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "Compression",
+    "off": 8833,
+    "sff": "compressed"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "Right",
+    "off": 14390,
+    "sff": "right-side"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "KetamineAsAnaesthetic",
+    "off": 8516,
+    "sff": "ketamine"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "Right",
+    "off": 26855,
+    "sff": "right"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "Right",
+    "off": 26695,
+    "sff": "right"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "T9",
+    "off": 8756,
+    "sff": "T9"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "Xylazine",
+    "off": 8585,
+    "sff": "xylazine"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "SevereInjury",
+    "off": 27883,
+    "sff": "severe"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "SevereInjury",
+    "off": 2089,
+    "sff": "severe"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "DorsalInjuryArea",
+    "off": 9349,
+    "sff": "lesion"
+  }
+]

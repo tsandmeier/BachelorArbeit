@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N198 Ruitenberg 2002",
+    "et": "DosageExtracorporal",
+    "off": 40111,
+    "sff": "10 mg/kg"
+  },
+  {
+    "docID": "N198 Ruitenberg 2002",
+    "et": "Distance",
+    "off": 42939,
+    "sff": "10 mm"
+  },
+  {
+    "docID": "N198 Ruitenberg 2002",
+    "et": "IntramuscularLocation",
+    "off": 40000,
+    "sff": "intramuscularly"
+  },
+  {
+    "docID": "N198 Ruitenberg 2002",
+    "et": "DorsalInjuryArea",
+    "off": 23420,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N198 Ruitenberg 2002",
+    "et": "C4",
+    "off": 40283,
+    "sff": "fourth cervical vertebra"
+  },
+  {
+    "docID": "N198 Ruitenberg 2002",
+    "et": "KetamineAsAnaesthetic",
+    "off": 40021,
+    "sff": "ketamine"
+  },
+  {
+    "docID": "N198 Ruitenberg 2002",
+    "et": "Left",
+    "off": 10504,
+    "sff": "left"
+  },
+  {
+    "docID": "N198 Ruitenberg 2002",
+    "et": "AntibioticMedication",
+    "off": 8668,
+    "sff": "ampicillin"
+  },
+  {
+    "docID": "N198 Ruitenberg 2002",
+    "et": "Xylazine",
+    "off": 40101,
+    "sff": "xylazine"
+  }
+]

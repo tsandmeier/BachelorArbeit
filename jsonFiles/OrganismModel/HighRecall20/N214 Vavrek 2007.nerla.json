@@ -1,0 +1,44 @@
+[
+  {
+    "docID": "N214 Vavrek 2007",
+    "et": "Weight",
+    "off": 4499,
+    "sff": "150 µL/200 g"
+  },
+  {
+    "docID": "N214 Vavrek 2007",
+    "et": "Adult",
+    "off": 3360,
+    "sff": "adult"
+  },
+  {
+    "docID": "N214 Vavrek 2007",
+    "et": "FischerRat",
+    "off": 3373,
+    "sff": "Fischer rats"
+  },
+  {
+    "docID": "N214 Vavrek 2007",
+    "et": "Female",
+    "off": 3366,
+    "sff": "female"
+  },
+  {
+    "docID": "N214 Vavrek 2007",
+    "et": "Weight",
+    "off": 4506,
+    "sff": "200 g bwt"
+  },
+  {
+    "docID": "N214 Vavrek 2007",
+    "et": "Adult",
+    "off": 3737,
+    "sff": "adult"
+  },
+  {
+    "docID": "N214 Vavrek 2007",
+    "et": "Adult",
+    "off": 3592,
+    "sff": "adult"
+  }
+]

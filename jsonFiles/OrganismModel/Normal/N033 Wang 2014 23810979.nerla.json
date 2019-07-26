@@ -1,0 +1,26 @@
+[
+  {
+    "docID": "N033 Wang 2014 23810979",
+    "et": "Adult",
+    "off": 7565,
+    "sff": "adult"
+  },
+  {
+    "docID": "N033 Wang 2014 23810979",
+    "et": "Female",
+    "off": 7571,
+    "sff": "female"
+  },
+  {
+    "docID": "N033 Wang 2014 23810979",
+    "et": "Weight",
+    "off": 7587,
+    "sff": "200-220 g"
+  },
+  {
+    "docID": "N033 Wang 2014 23810979",
+    "et": "SpragueDawleyRat",
+    "off": 7578,
+    "sff": "SD rats"
+  }
+]

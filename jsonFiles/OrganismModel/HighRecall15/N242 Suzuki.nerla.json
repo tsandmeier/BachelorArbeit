@@ -1,0 +1,38 @@
+[
+  {
+    "docID": "N242 Suzuki",
+    "et": "Weight",
+    "off": 5890,
+    "sff": "20g"
+  },
+  {
+    "docID": "N242 Suzuki",
+    "et": "Age",
+    "off": 5835,
+    "sff": "8±10 weeks"
+  },
+  {
+    "docID": "N242 Suzuki",
+    "et": "Female",
+    "off": 5852,
+    "sff": "female"
+  },
+  {
+    "docID": "N242 Suzuki",
+    "et": "C57_BL6_Mouse",
+    "off": 5860,
+    "sff": "wild-type C57BL/6 mice"
+  },
+  {
+    "docID": "N242 Suzuki",
+    "et": "Adult",
+    "off": 5828,
+    "sff": "adult"
+  },
+  {
+    "docID": "N242 Suzuki",
+    "et": "Weight",
+    "off": 5884,
+    "sff": "15 to 20g"
+  }
+]

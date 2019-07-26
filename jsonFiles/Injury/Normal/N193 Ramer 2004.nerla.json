@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "KetamineAsAnaesthetic",
+    "off": 10247,
+    "sff": "ketamine"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "DosageExtracorporal",
+    "off": 10287,
+    "sff": "10 mg/kg"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Xylazine",
+    "off": 10277,
+    "sff": "xylazine"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Thoracic",
+    "off": 4453,
+    "sff": "thoracic"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Distance",
+    "off": 10502,
+    "sff": "mm"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "InjectionDelivery",
+    "off": 9945,
+    "sff": "i.p."
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "C4",
+    "off": 10404,
+    "sff": "C4"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "IntraperitonealLocation",
+    "off": 10267,
+    "sff": "i.p."
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Compression",
+    "off": 10658,
+    "sff": "crush"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "docID": "N212 Torres-Esp¡n 2014",
+    "et": "Xylazine",
+    "off": 10855,
+    "sff": "xylazine"
+  },
+  {
+    "docID": "N212 Torres-Esp¡n 2014",
+    "et": "InjectionDelivery",
+    "off": 10888,
+    "sff": "i.p."
+  },
+  {
+    "docID": "N212 Torres-Esp¡n 2014",
+    "et": "InjectionDelivery",
+    "off": 18265,
+    "sff": "i.p."
+  },
+  {
+    "docID": "N212 Torres-Esp¡n 2014",
+    "et": "DosageExtracorporal",
+    "off": 10876,
+    "sff": "90"
+  },
+  {
+    "docID": "N212 Torres-Esp¡n 2014",
+    "et": "IntraperitonealLocation",
+    "off": 16353,
+    "sff": "i.p."
+  },
+  {
+    "docID": "N212 Torres-Esp¡n 2014",
+    "et": "DosageExtracorporal",
+    "off": 10879,
+    "sff": "10 mg/kg"
+  },
+  {
+    "docID": "N212 Torres-Esp¡n 2014",
+    "et": "SpringScissors",
+    "off": 15533,
+    "sff": "spring"
+  },
+  {
+    "docID": "N212 Torres-Esp¡n 2014",
+    "et": "T8",
+    "off": 11086,
+    "sff": "T8"
+  },
+  {
+    "docID": "N212 Torres-Esp¡n 2014",
+    "et": "InfiniteHorizonImpactor",
+    "off": 11156,
+    "sff": "Infinite Horizon Impactor"
+  },
+  {
+    "docID": "N212 Torres-Esp¡n 2014",
+    "et": "KetamineAsAnaesthetic",
+    "off": 10846,
+    "sff": "ketamine"
+  }
+]

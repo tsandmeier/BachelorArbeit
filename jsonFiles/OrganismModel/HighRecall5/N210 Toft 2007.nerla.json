@@ -1,0 +1,26 @@
+[
+  {
+    "docID": "N210 Toft 2007",
+    "et": "Adult",
+    "off": 11464,
+    "sff": "adult"
+  },
+  {
+    "docID": "N210 Toft 2007",
+    "et": "FischerRat",
+    "off": 11475,
+    "sff": "Fischer 344 rats"
+  },
+  {
+    "docID": "N210 Toft 2007",
+    "et": "Male",
+    "off": 11470,
+    "sff": "male"
+  },
+  {
+    "docID": "N210 Toft 2007",
+    "et": "Weight",
+    "off": 11519,
+    "sff": "200–250 g"
+  }
+]

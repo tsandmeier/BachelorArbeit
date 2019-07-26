@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N239 Lee",
+    "et": "AntibioticMedication",
+    "off": 7302,
+    "sff": "cefazolin sodium"
+  },
+  {
+    "docID": "N239 Lee",
+    "et": "BladderExpression",
+    "off": 8902,
+    "sff": "bladder expression"
+  },
+  {
+    "docID": "N239 Lee",
+    "et": "SpringScissors",
+    "off": 10826,
+    "sff": "scissors"
+  },
+  {
+    "docID": "N239 Lee",
+    "et": "Weight",
+    "off": 12785,
+    "sff": "10 min at 1500 g"
+  },
+  {
+    "docID": "N239 Lee",
+    "et": "L1",
+    "off": 9351,
+    "sff": "L1"
+  },
+  {
+    "docID": "N239 Lee",
+    "et": "Isoflurane",
+    "off": 7590,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N239 Lee",
+    "et": "DosageExtracorporal",
+    "off": 7320,
+    "sff": "40 mg/kg"
+  },
+  {
+    "docID": "N239 Lee",
+    "et": "Weight",
+    "off": 4640,
+    "sff": "300 g for 10"
+  },
+  {
+    "docID": "N239 Lee",
+    "et": "T11",
+    "off": 10621,
+    "sff": "T11"
+  }
+]

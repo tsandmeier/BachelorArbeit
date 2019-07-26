@@ -1,0 +1,38 @@
+[
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Female",
+    "off": 5903,
+    "sff": "female"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Weight",
+    "off": 5935,
+    "sff": "300 g"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Weight",
+    "off": 5934,
+    "sff": "–300 g"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Adult",
+    "off": 5897,
+    "sff": "Adult"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Weight",
+    "off": 5931,
+    "sff": "250–300 g"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "SpragueDawleyRat",
+    "off": 5910,
+    "sff": "Sprague–Dawley rats"
+  }
+]
