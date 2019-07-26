@@ -1,0 +1,50 @@
+[
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "Age",
+    "off": 54064,
+    "sff": "12D, 14A,B"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "SpragueDawleyRat",
+    "off": 6361,
+    "sff": "Sprague Dawley rats"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "Female",
+    "off": 6354,
+    "sff": "female"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "Weight",
+    "off": 6386,
+    "sff": "250 g; Harlan"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "Weight",
+    "off": 14610,
+    "sff": "terminals; 250 mg"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "Weight",
+    "off": 6382,
+    "sff": "225-250 g"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "Adult",
+    "off": 6348,
+    "sff": "adult"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "Weight",
+    "off": 14621,
+    "sff": "250 mg"
+  }
+]

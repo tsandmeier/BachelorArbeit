@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N239 Lee",
+    "et": "Age",
+    "off": 10420,
+    "sff": "until the 11-week"
+  },
+  {
+    "docID": "N239 Lee",
+    "et": "Weight",
+    "off": 4640,
+    "sff": "300 g"
+  },
+  {
+    "docID": "N239 Lee",
+    "et": "DogSpecies",
+    "off": 6529,
+    "sff": "beagles"
+  },
+  {
+    "docID": "N239 Lee",
+    "et": "Age",
+    "off": 10430,
+    "sff": "11-week"
+  },
+  {
+    "docID": "N239 Lee",
+    "et": "Weight",
+    "off": 6561,
+    "sff": "9.54 ± 1.24 kg"
+  },
+  {
+    "docID": "N239 Lee",
+    "et": "Female",
+    "off": 6579,
+    "sff": "female"
+  },
+  {
+    "docID": "N239 Lee",
+    "et": "Male",
+    "off": 6592,
+    "sff": "male"
+  },
+  {
+    "docID": "N239 Lee",
+    "et": "Weight",
+    "off": 12795,
+    "sff": "1500 g, 4"
+  },
+  {
+    "docID": "N239 Lee",
+    "et": "DogSpecies",
+    "off": 1083,
+    "sff": "dogs"
+  }
+]
