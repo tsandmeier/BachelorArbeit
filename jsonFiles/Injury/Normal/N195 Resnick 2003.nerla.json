@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "SevereInjury",
+    "off": 17295,
+    "sff": "severe"
+  },
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "T8",
+    "off": 3983,
+    "sff": "T8"
+  },
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "Weight",
+    "off": 4019,
+    "sff": "12.5 g"
+  },
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "T9",
+    "off": 3989,
+    "sff": "T9"
+  },
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "NYUImpactor",
+    "off": 601,
+    "sff": "NYU impactor"
+  },
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "Contusion",
+    "off": 279,
+    "sff": "cord"
+  },
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "BladderExpression",
+    "off": 4445,
+    "sff": "bladder evacuation"
+  },
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "Weight",
+    "off": 16955,
+    "sff": "12.5 g"
+  },
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "Distance",
+    "off": 4026,
+    "sff": "cm"
+  }
+]

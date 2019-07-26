@@ -1,0 +1,50 @@
+[
+  {
+    "docID": "N052 Bartus, James et al. 2014",
+    "et": "Adult",
+    "off": 7599,
+    "sff": "Adult"
+  },
+  {
+    "docID": "N052 Bartus, James et al. 2014",
+    "et": "Female",
+    "off": 7605,
+    "sff": "female"
+  },
+  {
+    "docID": "N052 Bartus, James et al. 2014",
+    "et": "Weight",
+    "off": 7633,
+    "sff": "200-220 g"
+  },
+  {
+    "docID": "N052 Bartus, James et al. 2014",
+    "et": "SpragueDawleyRat",
+    "off": 7612,
+    "sff": "Sprague Dawley rats"
+  },
+  {
+    "docID": "N052 Bartus, James et al. 2014",
+    "et": "FischerRat",
+    "off": 74975,
+    "sff": "Fischer"
+  },
+  {
+    "docID": "N052 Bartus, James et al. 2014",
+    "et": "FischerRat",
+    "off": 72084,
+    "sff": "Fischer"
+  },
+  {
+    "docID": "N052 Bartus, James et al. 2014",
+    "et": "SpragueDawleyRat",
+    "off": 7612,
+    "sff": "Sprague"
+  },
+  {
+    "docID": "N052 Bartus, James et al. 2014",
+    "et": "SpragueDawleyRat",
+    "off": 7620,
+    "sff": "Dawley"
+  }
+]

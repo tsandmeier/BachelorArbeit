@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Compression",
+    "off": 9372,
+    "sff": "crushed"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Xylazine",
+    "off": 9076,
+    "sff": "xylazine"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "InjectionDelivery",
+    "off": 9031,
+    "sff": "i.p"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "KetamineAsAnaesthetic",
+    "off": 8995,
+    "sff": "ketamine hydrochloride"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "C4",
+    "off": 9207,
+    "sff": "fourth"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "DorsalInjuryArea",
+    "off": 60233,
+    "sff": "dorsal funiculus"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "No5DumontForeceps",
+    "off": 9560,
+    "sff": "Dumont forceps"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "AntibioticMedication",
+    "off": 49642,
+    "sff": "penicillin"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "IntraperitonealLocation",
+    "off": 8826,
+    "sff": "i.p"
+  }
+]

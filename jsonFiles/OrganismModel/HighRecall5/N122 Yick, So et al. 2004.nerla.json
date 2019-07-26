@@ -1,0 +1,26 @@
+[
+  {
+    "docID": "N122 Yick, So et al. 2004",
+    "et": "Adult",
+    "off": 5906,
+    "sff": "Adult"
+  },
+  {
+    "docID": "N122 Yick, So et al. 2004",
+    "et": "Weight",
+    "off": 5944,
+    "sff": "200–250 g"
+  },
+  {
+    "docID": "N122 Yick, So et al. 2004",
+    "et": "Age",
+    "off": 5912,
+    "sff": "9-week-old"
+  },
+  {
+    "docID": "N122 Yick, So et al. 2004",
+    "et": "SpragueDawleyRat",
+    "off": 5923,
+    "sff": "Sprague-Dawley rats"
+  }
+]

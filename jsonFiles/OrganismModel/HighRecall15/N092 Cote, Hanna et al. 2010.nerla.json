@@ -1,0 +1,38 @@
+[
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "Female",
+    "off": 5968,
+    "sff": "female"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "CatSpecies",
+    "off": 23233,
+    "sff": "cats"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "Weight",
+    "off": 6002,
+    "sff": "2.5–3.5 kg"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "CatSpecies",
+    "off": 14042,
+    "sff": "cats"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "Adult",
+    "off": 5962,
+    "sff": "adult"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "CatSpecies",
+    "off": 5975,
+    "sff": "cats"
+  }
+]

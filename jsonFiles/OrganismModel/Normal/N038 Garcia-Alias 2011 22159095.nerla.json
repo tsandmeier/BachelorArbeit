@@ -1,0 +1,26 @@
+[
+  {
+    "docID": "N038 Garcia-Alias 2011 22159095",
+    "et": "Female",
+    "off": 7729,
+    "sff": "female"
+  },
+  {
+    "docID": "N038 Garcia-Alias 2011 22159095",
+    "et": "Adult",
+    "off": 7723,
+    "sff": "adult"
+  },
+  {
+    "docID": "N038 Garcia-Alias 2011 22159095",
+    "et": "SpragueDawleyRat",
+    "off": 7736,
+    "sff": "Sprague Dawley rats"
+  },
+  {
+    "docID": "N038 Garcia-Alias 2011 22159095",
+    "et": "Weight",
+    "off": 7759,
+    "sff": "200 g"
+  }
+]

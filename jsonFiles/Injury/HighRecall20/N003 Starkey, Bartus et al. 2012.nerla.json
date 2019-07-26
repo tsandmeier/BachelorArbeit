@@ -1,0 +1,62 @@
+[
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "DorsalInjuryArea",
+    "off": 34687,
+    "sff": "dorsal funiculus"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "T7",
+    "off": 24777,
+    "sff": "–"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "Right",
+    "off": 28249,
+    "sff": "right"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "KetamineAsAnaesthetic",
+    "off": 10153,
+    "sff": "ketamine"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "PartialTransection",
+    "off": 61781,
+    "sff": "hemisection"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "Right",
+    "off": 38544,
+    "sff": "right"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "IridectomyScissors",
+    "off": 11886,
+    "sff": "iridectomy scissors"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "InjectionDelivery",
+    "off": 10198,
+    "sff": "injected"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "Left",
+    "off": 26834,
+    "sff": "left"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "PartialTransection",
+    "off": 6776,
+    "sff": "hemisection"
+  }
+]

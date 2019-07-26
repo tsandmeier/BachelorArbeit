@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "KetamineAsAnaesthetic",
+    "off": 9787,
+    "sff": "ketamine"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "AntibioticMedication",
+    "off": 10256,
+    "sff": "antibiotic"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "DorsalInjuryArea",
+    "off": 802,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "AntibioticMedication",
+    "off": 10456,
+    "sff": "cefazolin"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "DosageExtracorporal",
+    "off": 9821,
+    "sff": "5 mg/kg"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Xylazine",
+    "off": 9811,
+    "sff": "xylazine"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "BladderExpression",
+    "off": 10347,
+    "sff": "Bladder expression"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "T9",
+    "off": 10111,
+    "sff": "T9"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "InjectionDelivery",
+    "off": 9773,
+    "sff": "injections"
+  }
+]

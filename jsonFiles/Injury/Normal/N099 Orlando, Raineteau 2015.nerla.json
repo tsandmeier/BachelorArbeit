@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N099 Orlando, Raineteau 2015",
+    "et": "T8",
+    "off": 15750,
+    "sff": "T8"
+  },
+  {
+    "docID": "N099 Orlando, Raineteau 2015",
+    "et": "AntibioticMedication",
+    "off": 8241,
+    "sff": "antibiotic"
+  },
+  {
+    "docID": "N099 Orlando, Raineteau 2015",
+    "et": "SpringScissors",
+    "off": 7963,
+    "sff": "scissors"
+  },
+  {
+    "docID": "N099 Orlando, Raineteau 2015",
+    "et": "DosageExtracorporal",
+    "off": 8253,
+    "sff": "5 mg/kg"
+  },
+  {
+    "docID": "N099 Orlando, Raineteau 2015",
+    "et": "Laminectomy",
+    "off": 7808,
+    "sff": "laminectomy"
+  },
+  {
+    "docID": "N099 Orlando, Raineteau 2015",
+    "et": "Dislocation",
+    "off": 40923,
+    "sff": "consequence"
+  },
+  {
+    "docID": "N099 Orlando, Raineteau 2015",
+    "et": "C3",
+    "off": 17963,
+    "sff": "C3"
+  },
+  {
+    "docID": "N099 Orlando, Raineteau 2015",
+    "et": "AntibioticMedication",
+    "off": 8302,
+    "sff": "Baytril"
+  },
+  {
+    "docID": "N099 Orlando, Raineteau 2015",
+    "et": "InjectionDelivery",
+    "off": 8289,
+    "sff": "injection"
+  }
+]

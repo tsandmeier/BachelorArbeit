@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "Nutrition",
+    "off": 999,
+    "sff": "both"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "T9",
+    "off": 8132,
+    "sff": "T9"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "DosageExtracorporal",
+    "off": 8066,
+    "sff": "2%"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "Isoflurane",
+    "off": 8069,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "VertebralArea",
+    "off": 33990,
+    "sff": "levels"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "Nutrition",
+    "off": 29586,
+    "sff": "both"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "VertebralArea",
+    "off": 15480,
+    "sff": "levels"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "VertebralArea",
+    "off": 24254,
+    "sff": "levels"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "CompleteTransection",
+    "off": 23127,
+    "sff": "completely transected"
+  }
+]

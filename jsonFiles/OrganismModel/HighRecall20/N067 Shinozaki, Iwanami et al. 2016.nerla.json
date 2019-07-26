@@ -1,0 +1,50 @@
+[
+  {
+    "docID": "N067 Shinozaki, Iwanami et al. 2016",
+    "et": "DogSpecies",
+    "off": 46487,
+    "sff": "dogs"
+  },
+  {
+    "docID": "N067 Shinozaki, Iwanami et al. 2016",
+    "et": "Female",
+    "off": 6316,
+    "sff": "female"
+  },
+  {
+    "docID": "N067 Shinozaki, Iwanami et al. 2016",
+    "et": "Adult",
+    "off": 6310,
+    "sff": "Adult"
+  },
+  {
+    "docID": "N067 Shinozaki, Iwanami et al. 2016",
+    "et": "SpragueDawleyRat",
+    "off": 6323,
+    "sff": "Sprague-Dawley rats"
+  },
+  {
+    "docID": "N067 Shinozaki, Iwanami et al. 2016",
+    "et": "Weight",
+    "off": 6361,
+    "sff": "200–220 g"
+  },
+  {
+    "docID": "N067 Shinozaki, Iwanami et al. 2016",
+    "et": "WistarRat",
+    "off": 6338,
+    "sff": "rats"
+  },
+  {
+    "docID": "N067 Shinozaki, Iwanami et al. 2016",
+    "et": "FischerRat",
+    "off": 43046,
+    "sff": "Fischer"
+  },
+  {
+    "docID": "N067 Shinozaki, Iwanami et al. 2016",
+    "et": "SpragueDawleyRat",
+    "off": 6323,
+    "sff": "Sprague-Dawley"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "Weight",
+    "off": 9074,
+    "sff": "220–270 g"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "SpragueDawleyRat",
+    "off": 22964,
+    "sff": "SD"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "SpragueDawleyRat",
+    "off": 9053,
+    "sff": "Sprague–Dawley"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "SpragueDawleyRat",
+    "off": 9053,
+    "sff": "Sprague–Dawley rats"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "FischerRat",
+    "off": 15473,
+    "sff": "Fischer"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "Female",
+    "off": 9046,
+    "sff": "female"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "Adult",
+    "off": 4868,
+    "sff": "adult"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "FischerRat",
+    "off": 2651,
+    "sff": "Fischer"
+  }
+]

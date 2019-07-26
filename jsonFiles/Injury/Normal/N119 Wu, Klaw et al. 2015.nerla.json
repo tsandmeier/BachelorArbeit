@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N119 Wu, Klaw et al. 2015",
+    "et": "T7",
+    "off": 12302,
+    "sff": "T7"
+  },
+  {
+    "docID": "N119 Wu, Klaw et al. 2015",
+    "et": "T9",
+    "off": 19820,
+    "sff": "T9"
+  },
+  {
+    "docID": "N119 Wu, Klaw et al. 2015",
+    "et": "Isoflurane",
+    "off": 8579,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N119 Wu, Klaw et al. 2015",
+    "et": "AspirationLesion",
+    "off": 12483,
+    "sff": "aspiration"
+  },
+  {
+    "docID": "N119 Wu, Klaw et al. 2015",
+    "et": "Nutrition",
+    "off": 8874,
+    "sff": "ad libitum access to food"
+  },
+  {
+    "docID": "N119 Wu, Klaw et al. 2015",
+    "et": "DorsalInjuryArea",
+    "off": 13313,
+    "sff": "dorsal funiculus"
+  },
+  {
+    "docID": "N119 Wu, Klaw et al. 2015",
+    "et": "Hydration",
+    "off": 8904,
+    "sff": "water"
+  },
+  {
+    "docID": "N119 Wu, Klaw et al. 2015",
+    "et": "T8",
+    "off": 12337,
+    "sff": "T8"
+  },
+  {
+    "docID": "N119 Wu, Klaw et al. 2015",
+    "et": "Xylazine",
+    "off": 11390,
+    "sff": "xylazine"
+  }
+]

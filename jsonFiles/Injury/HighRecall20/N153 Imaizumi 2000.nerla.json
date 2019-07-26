@@ -1,0 +1,62 @@
+[
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "Distance",
+    "off": 13086,
+    "sff": "0 mm"
+  },
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "InjectionDelivery",
+    "off": 4896,
+    "sff": "i.p."
+  },
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "T11",
+    "off": 4994,
+    "sff": "T11"
+  },
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "Laminectomy",
+    "off": 5009,
+    "sff": "laminectomy"
+  },
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "DosageExtracorporal",
+    "off": 4886,
+    "sff": "10 mg/kg"
+  },
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "SpringScissors",
+    "off": 5148,
+    "sff": "spring scissors"
+  },
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "T11",
+    "off": 5038,
+    "sff": "T11"
+  },
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "DosageExtracorporal",
+    "off": 4876,
+    "sff": "75 mg/kg"
+  },
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "Xylazine",
+    "off": 4866,
+    "sff": "xylazine"
+  },
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "IntraperitonealLocation",
+    "off": 6493,
+    "sff": "i.p."
+  }
+]

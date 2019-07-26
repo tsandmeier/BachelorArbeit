@@ -1,0 +1,20 @@
+[
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Female",
+    "off": 8331,
+    "sff": "females"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "CatSpecies",
+    "off": 8295,
+    "sff": "cats"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Adult",
+    "off": 8324,
+    "sff": "adult"
+  }
+]

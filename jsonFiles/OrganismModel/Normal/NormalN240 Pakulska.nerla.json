@@ -1,0 +1,26 @@
+[
+  {
+    "docID": "N240 Pakulska",
+    "et": "SpragueDawleyRat",
+    "off": 9632,
+    "sff": "Sprague Dawley rats"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "Weight",
+    "off": 9653,
+    "sff": "200-250 g"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "Weight",
+    "off": 7882,
+    "sff": "200e250 g"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "Female",
+    "off": 9625,
+    "sff": "female"
+  }
+]

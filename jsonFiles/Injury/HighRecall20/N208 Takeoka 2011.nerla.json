@@ -1,0 +1,62 @@
+[
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "Isoflurane",
+    "off": 6202,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "Xylazine",
+    "off": 14084,
+    "sff": "xylazine"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "DorsalInjuryArea",
+    "off": 46149,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "T7",
+    "off": 6691,
+    "sff": "T7"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "Isoflurane",
+    "off": 10140,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "DosageExtracorporal",
+    "off": 14094,
+    "sff": "5 mg/kg"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "IntraperitonealLocation",
+    "off": 14103,
+    "sff": "i.p."
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "T9",
+    "off": 6273,
+    "sff": "T9"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "T9",
+    "off": 26447,
+    "sff": "T9"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "T9",
+    "off": 28087,
+    "sff": "T9"
+  }
+]

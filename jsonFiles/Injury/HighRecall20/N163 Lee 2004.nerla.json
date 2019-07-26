@@ -1,0 +1,62 @@
+[
+  {
+    "docID": "N163 Lee 2004",
+    "et": "DorsalInjuryArea",
+    "off": 24998,
+    "sff": "funiculus"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "T9",
+    "off": 7537,
+    "sff": "T"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "DorsalInjuryArea",
+    "off": 25008,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Isoflurane",
+    "off": 8454,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "DorsalInjuryArea",
+    "off": 26050,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Xylazine",
+    "off": 10594,
+    "sff": "HCl"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "T8",
+    "off": 6034,
+    "sff": "T8"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "T9",
+    "off": 11984,
+    "sff": "9"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "DorsalInjuryArea",
+    "off": 6779,
+    "sff": "funiculus"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "SevereInjury",
+    "off": 1914,
+    "sff": "severe injuries"
+  }
+]

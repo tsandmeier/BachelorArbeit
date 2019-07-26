@@ -1,0 +1,62 @@
+[
+  {
+    "docID": "N146 Fouad 2009",
+    "et": "T10",
+    "off": 2237,
+    "sff": "segment"
+  },
+  {
+    "docID": "N146 Fouad 2009",
+    "et": "Distance",
+    "off": 7970,
+    "sff": "25 mm"
+  },
+  {
+    "docID": "N146 Fouad 2009",
+    "et": "AntibioticMedication",
+    "off": 7156,
+    "sff": "antibiotics"
+  },
+  {
+    "docID": "N146 Fouad 2009",
+    "et": "BladderExpression",
+    "off": 7474,
+    "sff": "emptied"
+  },
+  {
+    "docID": "N146 Fouad 2009",
+    "et": "NYUImpactor",
+    "off": 25752,
+    "sff": "York"
+  },
+  {
+    "docID": "N146 Fouad 2009",
+    "et": "BladderExpression",
+    "off": 6550,
+    "sff": "bladders were manually emptied"
+  },
+  {
+    "docID": "N146 Fouad 2009",
+    "et": "T8",
+    "off": 5520,
+    "sff": "Th8"
+  },
+  {
+    "docID": "N146 Fouad 2009",
+    "et": "Weight",
+    "off": 5287,
+    "sff": "per 200 g"
+  },
+  {
+    "docID": "N146 Fouad 2009",
+    "et": "Weight",
+    "off": 5383,
+    "sff": "per 200 g"
+  },
+  {
+    "docID": "N146 Fouad 2009",
+    "et": "Weight",
+    "off": 27696,
+    "sff": "10"
+  }
+]

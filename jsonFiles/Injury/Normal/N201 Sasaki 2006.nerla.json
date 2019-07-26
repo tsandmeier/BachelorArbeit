@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "DorsalInjuryArea",
+    "off": 5706,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "T9",
+    "off": 863,
+    "sff": "T9"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "DorsalInjuryArea",
+    "off": 16533,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "Blade",
+    "off": 14349,
+    "sff": "No"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "DorsalInjuryArea",
+    "off": 5544,
+    "sff": "dorsal funiculus"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "DorsalInjuryArea",
+    "off": 10034,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "DorsalInjuryArea",
+    "off": 5453,
+    "sff": "dorsal funiculus"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "T9",
+    "off": 5223,
+    "sff": "T9"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "Blade",
+    "off": 21894,
+    "sff": "No"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "docID": "N121 Xu, Klaw et al. 2015",
+    "et": "T10",
+    "off": 4309,
+    "sff": "T10"
+  },
+  {
+    "docID": "N121 Xu, Klaw et al. 2015",
+    "et": "Weight",
+    "off": 41387,
+    "sff": "10"
+  },
+  {
+    "docID": "N121 Xu, Klaw et al. 2015",
+    "et": "NYUImpactor",
+    "off": 4097,
+    "sff": "York"
+  },
+  {
+    "docID": "N121 Xu, Klaw et al. 2015",
+    "et": "CompleteTransection",
+    "off": 4706,
+    "sff": "complete transection"
+  },
+  {
+    "docID": "N121 Xu, Klaw et al. 2015",
+    "et": "T10",
+    "off": 4396,
+    "sff": "T10"
+  },
+  {
+    "docID": "N121 Xu, Klaw et al. 2015",
+    "et": "InjectionDelivery",
+    "off": 10529,
+    "sff": "ip"
+  },
+  {
+    "docID": "N121 Xu, Klaw et al. 2015",
+    "et": "Distance",
+    "off": 47300,
+    "sff": "2"
+  },
+  {
+    "docID": "N121 Xu, Klaw et al. 2015",
+    "et": "IntraperitonealLocation",
+    "off": 13286,
+    "sff": "ip"
+  },
+  {
+    "docID": "N121 Xu, Klaw et al. 2015",
+    "et": "Thoracic",
+    "off": 46511,
+    "sff": "thoracic"
+  },
+  {
+    "docID": "N121 Xu, Klaw et al. 2015",
+    "et": "IntraperitonealLocation",
+    "off": 4217,
+    "sff": "ip"
+  }
+]

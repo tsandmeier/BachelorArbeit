@@ -1,0 +1,26 @@
+[
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "FischerRat",
+    "off": 6875,
+    "sff": "Fischer 344 rats"
+  },
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "Adult",
+    "off": 6850,
+    "sff": "Adult"
+  },
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "Female",
+    "off": 6868,
+    "sff": "female"
+  },
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "Weight",
+    "off": 6857,
+    "sff": "180-200 g"
+  }
+]

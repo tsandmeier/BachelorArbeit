@@ -1,0 +1,50 @@
+[
+  {
+    "docID": "N127 Bowes, Massey et al. 2012",
+    "et": "Male",
+    "off": 21807,
+    "sff": "male"
+  },
+  {
+    "docID": "N127 Bowes, Massey et al. 2012",
+    "et": "Adult",
+    "off": 21801,
+    "sff": "adult"
+  },
+  {
+    "docID": "N127 Bowes, Massey et al. 2012",
+    "et": "Age",
+    "off": 5756,
+    "sff": "2D"
+  },
+  {
+    "docID": "N127 Bowes, Massey et al. 2012",
+    "et": "WistarRat",
+    "off": 5918,
+    "sff": "rats"
+  },
+  {
+    "docID": "N127 Bowes, Massey et al. 2012",
+    "et": "Age",
+    "off": 23633,
+    "sff": "4–7 d"
+  },
+  {
+    "docID": "N127 Bowes, Massey et al. 2012",
+    "et": "WistarRat",
+    "off": 4920,
+    "sff": "rats"
+  },
+  {
+    "docID": "N127 Bowes, Massey et al. 2012",
+    "et": "WistarRat",
+    "off": 17688,
+    "sff": "rats"
+  },
+  {
+    "docID": "N127 Bowes, Massey et al. 2012",
+    "et": "Age",
+    "off": 23634,
+    "sff": "–7 d"
+  }
+]

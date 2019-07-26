@@ -1,0 +1,50 @@
+[
+  {
+    "docID": "N071 Tom, Kadakia et al. 2009 ",
+    "et": "Adult",
+    "off": 5140,
+    "sff": "adult"
+  },
+  {
+    "docID": "N071 Tom, Kadakia et al. 2009 ",
+    "et": "SpragueDawleyRat",
+    "off": 5153,
+    "sff": "Sprague-Dawley"
+  },
+  {
+    "docID": "N071 Tom, Kadakia et al. 2009 ",
+    "et": "SpragueDawleyRat",
+    "off": 6560,
+    "sff": "Sprague-Dawley rats"
+  },
+  {
+    "docID": "N071 Tom, Kadakia et al. 2009 ",
+    "et": "SpragueDawleyRat",
+    "off": 5153,
+    "sff": "Sprague-Dawley rats"
+  },
+  {
+    "docID": "N071 Tom, Kadakia et al. 2009 ",
+    "et": "LongEvansRat",
+    "off": 35298,
+    "sff": "Long"
+  },
+  {
+    "docID": "N071 Tom, Kadakia et al. 2009 ",
+    "et": "Female",
+    "off": 5146,
+    "sff": "female"
+  },
+  {
+    "docID": "N071 Tom, Kadakia et al. 2009 ",
+    "et": "Weight",
+    "off": 5174,
+    "sff": "225–250 g"
+  },
+  {
+    "docID": "N071 Tom, Kadakia et al. 2009 ",
+    "et": "CatSpecies",
+    "off": 36739,
+    "sff": "cats"
+  }
+]

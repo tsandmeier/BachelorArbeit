@@ -1,0 +1,62 @@
+[
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "T12",
+    "off": 6950,
+    "sff": "T12"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "T12",
+    "off": 436,
+    "sff": "T12"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "LightSource",
+    "off": 4848,
+    "sff": "150W halogen bulb"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "T12",
+    "off": 9595,
+    "sff": "T12"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "L1",
+    "off": 440,
+    "sff": "L1"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "T12",
+    "off": 12393,
+    "sff": "T12"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "PhotochemicalInjury",
+    "off": 17021,
+    "sff": "photochemical injury"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "L1",
+    "off": 12397,
+    "sff": "L1"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "LightIntensity",
+    "off": 4924,
+    "sff": "maximal nominal power"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "PhotochemicalInjury",
+    "off": 1680,
+    "sff": "photochemical injury"
+  }
+]

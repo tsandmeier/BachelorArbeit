@@ -1,0 +1,62 @@
+[
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "Distance",
+    "off": 7726,
+    "sff": "25 mm"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "IntraperitonealLocation",
+    "off": 7473,
+    "sff": "intraperitoneal"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "BladderExpression",
+    "off": 8020,
+    "sff": "bladder expression"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "NYUImpactor",
+    "off": 7672,
+    "sff": "NYU-II impactor"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "T10",
+    "off": 994,
+    "sff": "T10"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "Weight",
+    "off": 22834,
+    "sff": "10"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "Weight",
+    "off": 7705,
+    "sff": "10.0 g"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "InjectionDelivery",
+    "off": 7489,
+    "sff": "injection"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "AntibioticMedication",
+    "off": 7880,
+    "sff": "Bicillin"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "T10",
+    "off": 7595,
+    "sff": "T10"
+  }
+]

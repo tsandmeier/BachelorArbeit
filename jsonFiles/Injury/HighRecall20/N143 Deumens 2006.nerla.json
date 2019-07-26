@@ -1,0 +1,62 @@
+[
+  {
+    "docID": "N143 Deumens 2006",
+    "et": "InjectionDelivery",
+    "off": 15512,
+    "sff": "i.p"
+  },
+  {
+    "docID": "N143 Deumens 2006",
+    "et": "DorsalInjuryArea",
+    "off": 71711,
+    "sff": "dorsal funiculus"
+  },
+  {
+    "docID": "N143 Deumens 2006",
+    "et": "DorsalInjuryArea",
+    "off": 13903,
+    "sff": "dorsal funiculus"
+  },
+  {
+    "docID": "N143 Deumens 2006",
+    "et": "Distance",
+    "off": 52195,
+    "sff": "mm"
+  },
+  {
+    "docID": "N143 Deumens 2006",
+    "et": "T11",
+    "off": 7608,
+    "sff": "T11"
+  },
+  {
+    "docID": "N143 Deumens 2006",
+    "et": "Halothane",
+    "off": 12856,
+    "sff": "halothane"
+  },
+  {
+    "docID": "N143 Deumens 2006",
+    "et": "AspirationLesion",
+    "off": 13664,
+    "sff": "aspiration"
+  },
+  {
+    "docID": "N143 Deumens 2006",
+    "et": "T9",
+    "off": 8135,
+    "sff": "9"
+  },
+  {
+    "docID": "N143 Deumens 2006",
+    "et": "AntibioticMedication",
+    "off": 9440,
+    "sff": "antibiotics"
+  },
+  {
+    "docID": "N143 Deumens 2006",
+    "et": "T11",
+    "off": 30238,
+    "sff": "T11"
+  }
+]

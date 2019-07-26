@@ -1,0 +1,50 @@
+[
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "Female",
+    "off": 5576,
+    "sff": "Female"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "RatSpecies",
+    "off": 4792,
+    "sff": "rat"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "SpragueDawleyRat",
+    "off": 5583,
+    "sff": "Sprague-Dawley"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "SpragueDawleyRat",
+    "off": 5583,
+    "sff": "Sprague-Dawley rats"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "Weight",
+    "off": 5612,
+    "sff": "250-300 g"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "SpragueDawleyRat",
+    "off": 9949,
+    "sff": "SD"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "Adult",
+    "off": 1121,
+    "sff": "adult"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "Adult",
+    "off": 19438,
+    "sff": "adult"
+  }
+]

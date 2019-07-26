@@ -1,0 +1,32 @@
+[
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "Female",
+    "off": 5851,
+    "sff": "female"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "Adult",
+    "off": 42492,
+    "sff": "adult"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "Adult",
+    "off": 1070,
+    "sff": "adult"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "Adult",
+    "off": 5845,
+    "sff": "adult"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "CatSpecies",
+    "off": 5859,
+    "sff": "spayed cats"
+  }
+]

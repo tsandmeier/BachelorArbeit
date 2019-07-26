@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N150 Guest 2008",
+    "et": "IntramuscularLocation",
+    "off": 12846,
+    "sff": "intramuscular"
+  },
+  {
+    "docID": "N150 Guest 2008",
+    "et": "AntibioticMedication",
+    "off": 13202,
+    "sff": "tetracycline"
+  },
+  {
+    "docID": "N150 Guest 2008",
+    "et": "AntibioticMedication",
+    "off": 13323,
+    "sff": "Baytril"
+  },
+  {
+    "docID": "N150 Guest 2008",
+    "et": "T10",
+    "off": 13642,
+    "sff": "T10"
+  },
+  {
+    "docID": "N150 Guest 2008",
+    "et": "BladderExpression",
+    "off": 13172,
+    "sff": "voiding"
+  },
+  {
+    "docID": "N150 Guest 2008",
+    "et": "Distance",
+    "off": 16953,
+    "sff": "25 mm"
+  },
+  {
+    "docID": "N150 Guest 2008",
+    "et": "Xylazine",
+    "off": 12893,
+    "sff": "xylazine"
+  },
+  {
+    "docID": "N150 Guest 2008",
+    "et": "KetamineAsAnaesthetic",
+    "off": 12874,
+    "sff": "ketamine"
+  },
+  {
+    "docID": "N150 Guest 2008",
+    "et": "AntibioticMedication",
+    "off": 12981,
+    "sff": "Kefzol"
+  }
+]

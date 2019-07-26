@@ -1,0 +1,50 @@
+[
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "Adult",
+    "off": 7059,
+    "sff": "Adult"
+  },
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "SpragueDawleyRat",
+    "off": 7078,
+    "sff": "Dawley"
+  },
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "Weight",
+    "off": 7096,
+    "sff": "200–250 g"
+  },
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "Male",
+    "off": 7065,
+    "sff": "male"
+  },
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "SpragueDawleyRat",
+    "off": 13867,
+    "sff": "SD"
+  },
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "SpragueDawleyRat",
+    "off": 7086,
+    "sff": "SD"
+  },
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "SpragueDawleyRat",
+    "off": 7070,
+    "sff": "Sprague"
+  },
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "WistarRat",
+    "off": 7090,
+    "sff": "rats"
+  }
+]

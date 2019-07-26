@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N167 Li 2012",
+    "et": "T10",
+    "off": 7455,
+    "sff": "T10"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "IntraperitonealLocation",
+    "off": 7323,
+    "sff": "intraperitoneal"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "AntibioticMedication",
+    "off": 7790,
+    "sff": "Bicillin"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "NYUImpactor",
+    "off": 7528,
+    "sff": "NYU-II impactor"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "Weight",
+    "off": 7568,
+    "sff": "10.0 g"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "DosageExtracorporal",
+    "off": 7800,
+    "sff": "60,000 U/kg"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "SodiumPentobarbital",
+    "off": 7363,
+    "sff": "pentobarbiturate"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "InjectionDelivery",
+    "off": 7339,
+    "sff": "injection"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "BladderExpression",
+    "off": 7851,
+    "sff": "bladder expression"
+  }
+]

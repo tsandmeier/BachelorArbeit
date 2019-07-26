@@ -1,0 +1,26 @@
+[
+  {
+    "docID": "N243 Bretzner et al., 2010",
+    "et": "Adult",
+    "off": 10078,
+    "sff": "adult"
+  },
+  {
+    "docID": "N243 Bretzner et al., 2010",
+    "et": "Weight",
+    "off": 10110,
+    "sff": "300–400 g"
+  },
+  {
+    "docID": "N243 Bretzner et al., 2010",
+    "et": "SpragueDawleyRat",
+    "off": 10089,
+    "sff": "Sprague-Dawley rats"
+  },
+  {
+    "docID": "N243 Bretzner et al., 2010",
+    "et": "Male",
+    "off": 10084,
+    "sff": "male"
+  }
+]

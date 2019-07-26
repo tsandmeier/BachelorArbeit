@@ -1,0 +1,62 @@
+[
+  {
+    "docID": "N036 Shields 2008 18486695",
+    "et": "IntraperitonealLocation",
+    "off": 7172,
+    "sff": "IP"
+  },
+  {
+    "docID": "N036 Shields 2008 18486695",
+    "et": "Housing",
+    "off": 10219,
+    "sff": "housed"
+  },
+  {
+    "docID": "N036 Shields 2008 18486695",
+    "et": "Vibraknife",
+    "off": 2317,
+    "sff": "Vibraknife"
+  },
+  {
+    "docID": "N036 Shields 2008 18486695",
+    "et": "C3",
+    "off": 7237,
+    "sff": "C3"
+  },
+  {
+    "docID": "N036 Shields 2008 18486695",
+    "et": "DosageExtracorporal",
+    "off": 7218,
+    "sff": "0.03 mg/kg"
+  },
+  {
+    "docID": "N036 Shields 2008 18486695",
+    "et": "InjectionDelivery",
+    "off": 2869,
+    "sff": "IP"
+  },
+  {
+    "docID": "N036 Shields 2008 18486695",
+    "et": "AntibioticMedication",
+    "off": 7206,
+    "sff": "gentamicin"
+  },
+  {
+    "docID": "N036 Shields 2008 18486695",
+    "et": "C5",
+    "off": 15553,
+    "sff": "C5"
+  },
+  {
+    "docID": "N036 Shields 2008 18486695",
+    "et": "IntraperitonealLocation",
+    "off": 10371,
+    "sff": "IP"
+  },
+  {
+    "docID": "N036 Shields 2008 18486695",
+    "et": "InjectionDelivery",
+    "off": 10948,
+    "sff": "IP"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "docID": "N008 Jin 2016 26852702",
+    "et": "FischerRat",
+    "off": 15849,
+    "sff": "Fischer 344 rats"
+  },
+  {
+    "docID": "N008 Jin 2016 26852702",
+    "et": "Weight",
+    "off": 12831,
+    "sff": "225-250 g"
+  },
+  {
+    "docID": "N008 Jin 2016 26852702",
+    "et": "Female",
+    "off": 12818,
+    "sff": "female"
+  },
+  {
+    "docID": "N008 Jin 2016 26852702",
+    "et": "Adult",
+    "off": 12812,
+    "sff": "Adult"
+  }
+]

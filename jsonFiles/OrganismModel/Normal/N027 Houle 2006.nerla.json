@@ -1,0 +1,26 @@
+[
+  {
+    "docID": "N027 Houle 2006",
+    "et": "Adult",
+    "off": 5601,
+    "sff": "Adult"
+  },
+  {
+    "docID": "N027 Houle 2006",
+    "et": "Weight",
+    "off": 5608,
+    "sff": "225-250 g"
+  },
+  {
+    "docID": "N027 Houle 2006",
+    "et": "Female",
+    "off": 5619,
+    "sff": "female"
+  },
+  {
+    "docID": "N027 Houle 2006",
+    "et": "SpragueDawleyRat",
+    "off": 5626,
+    "sff": "Sprague Dawley rats"
+  }
+]

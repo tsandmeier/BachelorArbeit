@@ -1,0 +1,62 @@
+[
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "BladderExpression",
+    "off": 38066,
+    "sff": "Urinary bladders were emptied"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "Weight",
+    "off": 37678,
+    "sff": "10 g"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "Distance",
+    "off": 853,
+    "sff": "25 mm height"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "IntraperitonealLocation",
+    "off": 37459,
+    "sff": "ip"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "T10",
+    "off": 898,
+    "sff": "T10"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "NYUImpactor",
+    "off": 832,
+    "sff": "NYU impactor"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "NYUImpactor",
+    "off": 832,
+    "sff": "NYU"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "InjectionDelivery",
+    "off": 32803,
+    "sff": "ip"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "Hydration",
+    "off": 32149,
+    "sff": "free access to drinking water"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "AntibioticMedication",
+    "off": 37990,
+    "sff": "antibiotic cephazolin"
+  }
+]

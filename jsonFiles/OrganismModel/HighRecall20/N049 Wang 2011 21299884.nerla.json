@@ -1,0 +1,32 @@
+[
+  {
+    "docID": "N049 Wang 2011 21299884",
+    "et": "Adult",
+    "off": 7652,
+    "sff": "adult"
+  },
+  {
+    "docID": "N049 Wang 2011 21299884",
+    "et": "Weight",
+    "off": 7679,
+    "sff": "250 g ± 30"
+  },
+  {
+    "docID": "N049 Wang 2011 21299884",
+    "et": "SpragueDawleyRat",
+    "off": 7658,
+    "sff": "Sprague-Dawley rats"
+  },
+  {
+    "docID": "N049 Wang 2011 21299884",
+    "et": "Weight",
+    "off": 11338,
+    "sff": "0.16 g Na2S2O3 solved"
+  },
+  {
+    "docID": "N049 Wang 2011 21299884",
+    "et": "Female",
+    "off": 7645,
+    "sff": "Female"
+  }
+]

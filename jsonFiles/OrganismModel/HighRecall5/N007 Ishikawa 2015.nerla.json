@@ -1,0 +1,26 @@
+[
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "SpragueDawleyRat",
+    "off": 6157,
+    "sff": "Sprague-Dawley rats"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "Female",
+    "off": 6150,
+    "sff": "female"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "Adult",
+    "off": 6144,
+    "sff": "Adult"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "Weight",
+    "off": 6186,
+    "sff": "200-230 g"
+  }
+]

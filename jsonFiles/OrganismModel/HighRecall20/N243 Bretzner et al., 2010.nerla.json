@@ -1,0 +1,50 @@
+[
+  {
+    "docID": "N243 Bretzner et al., 2010",
+    "et": "WistarRat",
+    "off": 10104,
+    "sff": "rats"
+  },
+  {
+    "docID": "N243 Bretzner et al., 2010",
+    "et": "Weight",
+    "off": 10110,
+    "sff": "300–400 g"
+  },
+  {
+    "docID": "N243 Bretzner et al., 2010",
+    "et": "SpragueDawleyRat",
+    "off": 10089,
+    "sff": "Sprague-Dawley rats"
+  },
+  {
+    "docID": "N243 Bretzner et al., 2010",
+    "et": "Male",
+    "off": 10084,
+    "sff": "male"
+  },
+  {
+    "docID": "N243 Bretzner et al., 2010",
+    "et": "Age",
+    "off": 8000,
+    "sff": "4–5 days"
+  },
+  {
+    "docID": "N243 Bretzner et al., 2010",
+    "et": "Age",
+    "off": 8247,
+    "sff": "4–6 days"
+  },
+  {
+    "docID": "N243 Bretzner et al., 2010",
+    "et": "Adult",
+    "off": 10078,
+    "sff": "adult"
+  },
+  {
+    "docID": "N243 Bretzner et al., 2010",
+    "et": "SpragueDawleyRat",
+    "off": 10089,
+    "sff": "Sprague-Dawley"
+  }
+]

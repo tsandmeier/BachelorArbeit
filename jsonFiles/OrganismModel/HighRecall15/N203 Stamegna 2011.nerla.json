@@ -1,0 +1,38 @@
+[
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Female",
+    "off": 6381,
+    "sff": "Female"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "SpragueDawleyRat",
+    "off": 6394,
+    "sff": "Sprague Dawley rats"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Adult",
+    "off": 6388,
+    "sff": "adult"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "SpragueDawleyRat",
+    "off": 6394,
+    "sff": "Sprague"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "SpragueDawleyRat",
+    "off": 6402,
+    "sff": "Dawley"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Weight",
+    "off": 6424,
+    "sff": "250 g"
+  }
+]
