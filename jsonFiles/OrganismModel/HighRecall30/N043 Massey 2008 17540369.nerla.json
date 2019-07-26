@@ -1,0 +1,62 @@
+[
+  {
+    "docID": "N043 Massey 2008 17540369",
+    "et": "Male",
+    "off": 7794,
+    "sff": "male"
+  },
+  {
+    "docID": "N043 Massey 2008 17540369",
+    "et": "LongEvansRat",
+    "off": 75499,
+    "sff": "Long"
+  },
+  {
+    "docID": "N043 Massey 2008 17540369",
+    "et": "Weight",
+    "off": 13963,
+    "sff": "through a  30-G"
+  },
+  {
+    "docID": "N043 Massey 2008 17540369",
+    "et": "Weight",
+    "off": 7800,
+    "sff": "275-350 g"
+  },
+  {
+    "docID": "N043 Massey 2008 17540369",
+    "et": "SpragueDawleyRat",
+    "off": 7811,
+    "sff": "Sprague-Dawley rats"
+  },
+  {
+    "docID": "N043 Massey 2008 17540369",
+    "et": "SpragueDawleyRat",
+    "off": 7811,
+    "sff": "Sprague-Dawley"
+  },
+  {
+    "docID": "N043 Massey 2008 17540369",
+    "et": "WistarRat",
+    "off": 7826,
+    "sff": "rats"
+  },
+  {
+    "docID": "N043 Massey 2008 17540369",
+    "et": "Adult",
+    "off": 7788,
+    "sff": "Adult"
+  },
+  {
+    "docID": "N043 Massey 2008 17540369",
+    "et": "CatSpecies",
+    "off": 80883,
+    "sff": "cat"
+  },
+  {
+    "docID": "N043 Massey 2008 17540369",
+    "et": "CatSpecies",
+    "off": 94686,
+    "sff": "cats"
+  }
+]
