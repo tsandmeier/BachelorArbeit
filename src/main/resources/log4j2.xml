@@ -115,6 +115,15 @@
 			<AppenderRef ref="LogFile" />
 		</Logger>
 
+		<Logger
+				name="NamedEntityRecognitionAndLinkingExample"
+				level="INFO" additivity="false">
+			<AppenderRef ref="Console" />
+			<AppenderRef ref="LogFile" />
+		</Logger>
+
+
+
 	</Loggers>
 
 </Configuration>
