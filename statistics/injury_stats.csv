@@ -1,0 +1,2 @@
+AMFLTemplate,BigramTemplate,BMFLTemplate,BracketsTemplate,HMTemplate,IdentityTemplate,MentionsInSentenceTemplate,ML12Template,NormalizedAgeTemplate,NormalizedWeightTemplate,NumberMBTemplate,NumberWBTemplate,OverlappingTemplate,RootTypeTemplate,SimilarWordsTemplate,StartsWithCapitalTemplate,WBOTemplate,WBTemplate,WMTemplate,WordCountTemplate,WordsInBetweenTemplate,F1,TotalTime,TrainTime,TestTime,Alpha
+,X,,,X,X,X,X,,,X,X,X,X,X,X,X,X,X,X,X,0.2459677419354839,5704860,5236626,468234,0.001

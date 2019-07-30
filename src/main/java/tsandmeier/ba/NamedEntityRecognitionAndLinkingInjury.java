@@ -18,6 +18,8 @@ import de.hterhors.semanticmr.crf.sampling.stopcrit.ISamplingStoppingCriterion;
 import de.hterhors.semanticmr.crf.sampling.stopcrit.impl.ConverganceCrit;
 import de.hterhors.semanticmr.crf.sampling.stopcrit.impl.MaxChainLengthCrit;
 import de.hterhors.semanticmr.crf.structure.IEvaluatable;
+import de.hterhors.semanticmr.crf.structure.annotations.AbstractAnnotation;
+import de.hterhors.semanticmr.crf.structure.annotations.DocumentLinkedAnnotation;
 import de.hterhors.semanticmr.crf.templates.AbstractFeatureTemplate;
 import de.hterhors.semanticmr.crf.variables.Annotations;
 import de.hterhors.semanticmr.crf.variables.IStateInitializer;
@@ -25,6 +27,8 @@ import de.hterhors.semanticmr.crf.variables.Instance;
 import de.hterhors.semanticmr.crf.variables.State;
 import de.hterhors.semanticmr.eval.EEvaluationDetail;
 import de.hterhors.semanticmr.init.specifications.SystemScope;
+import de.hterhors.semanticmr.json.nerla.JsonNerlaIO;
+import de.hterhors.semanticmr.json.nerla.wrapper.JsonEntityAnnotationWrapper;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import tsandmeier.ba.NutzloseTemplates.WBFTemplate;
@@ -35,16 +39,15 @@ import tsandmeier.ba.templates.*;
 
 import java.io.File;
 import java.io.IOException;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
+import java.util.stream.Collectors;
 
 /**
  * Example of how to perform named entity recognition and linking.
  */
 public class NamedEntityRecognitionAndLinkingInjury extends AbstractSemReadProject {
     private static Logger log = LogManager.getFormatterLogger(NamedEntityRecognitionAndLinkingInjury.class);
-    private final boolean overrideModel = true;
+    private final boolean overrideModel = false;
     SemanticParsingCRF crf;
     private IEvaluatable.Score mean;
     private int mode;
@@ -284,7 +287,7 @@ public class NamedEntityRecognitionAndLinkingInjury extends AbstractSemReadProje
 //                addNormalizationtemplates(featureTemplates);
                 addDoubleComparisonTemplates(featureTemplates);
                 break;
-            case 7:                                         //alle ohne Normalization
+            case 7:                                         //alle ohne DoubleComparison
                 addNumberTemplates(featureTemplates);
                 addsingleContextTemplates(featureTemplates);
                 addDoubleContextTemplates(featureTemplates);
@@ -428,7 +431,7 @@ public class NamedEntityRecognitionAndLinkingInjury extends AbstractSemReadProje
              * Save the model as binary. Do not override, in case a file already exists for
              * that name.
              */
-            model.save(true);
+            model.save(false);
 
             /**
              * Print the model in a readable format.
@@ -442,22 +445,53 @@ public class NamedEntityRecognitionAndLinkingInjury extends AbstractSemReadProje
          * in this case. This method returns for each instances a final state (best
          * state based on the trained model) that contains annotations.
          */
-        Map<Instance, State> testResults = crf.predict(instanceProvider.getRedistributedTestInstances(), maxStepCrit,
+        Map<Instance, State> results = crf.predict(instanceProvider.getInstances(), maxStepCrit,
                 noModelChangeCrit);
 
         /**
          * Finally, we evaluate the produced states and print some statistics.
          */
-        mean = evaluate(log, testResults);
 
 //		log.info(crf.getTrainingStatistics());
 //		log.info(crf.getTestStatistics());
 
-        System.out.println(crf.getTrainingStatistics());
-        System.out.println(crf.getTestStatistics());
 
-        StatSaver.addToSpreadsheet("statistics/injury_stats.ods", featureTemplates, mean.getF1(), crf.getTrainingStatistics().getTotalDuration()+crf.getTestStatistics().getTotalDuration(),
-                crf.getTrainingStatistics().getTotalDuration(),crf.getTestStatistics().getTotalDuration(), alpha);
+//        StatSaver.addToSpreadsheet("statistics/injury_stats.ods", featureTemplates, mean.getF1(), crf.getTrainingStatistics().getTotalDuration()+crf.getTestStatistics().getTotalDuration(),
+//                crf.getTrainingStatistics().getTotalDuration(),crf.getTestStatistics().getTotalDuration(), alpha);
+
+
+
+        Map<Instance, Set<DocumentLinkedAnnotation>> annotations = new HashMap<>();
+
+        for (Map.Entry<Instance, State> result : results.entrySet()) {
+            for (AbstractAnnotation aa : result.getValue().getCurrentPredictions().getAnnotations()) {
+
+                annotations.putIfAbsent(result.getKey(), new HashSet<>());
+                annotations.get(result.getKey()).add(aa.asInstanceOfDocumentLinkedAnnotation());
+            }
+        }
+
+        JsonNerlaIO io = new JsonNerlaIO(true);
+
+        for (Instance instance : results.keySet()) {
+
+
+
+            List<JsonEntityAnnotationWrapper> wrappedAnnotation = annotations.get(instance).stream()
+                    .map(d -> new JsonEntityAnnotationWrapper(d))
+                    .collect(Collectors.toList());
+            io.writeNerlas(new File("jsonFiles/Injury/Normal/"+instance.getName() + ".nerla.json"), wrappedAnnotation);
+
+        }
+
+
+        mean = evaluate(log, results);
+
+
+
+
+
+
 
         /**
          * TODO: Compare results with results when changing some parameter. Implement
