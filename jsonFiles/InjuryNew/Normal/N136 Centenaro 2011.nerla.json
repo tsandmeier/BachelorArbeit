@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N136 Centenaro 2011",
+    "et": "AntibioticMedication",
+    "off": 31927,
+    "sff": "Baytril"
+  },
+  {
+    "docID": "N136 Centenaro 2011",
+    "et": "DosageExtracorporal",
+    "off": 31956,
+    "sff": "2.5 mg/kg"
+  },
+  {
+    "docID": "N136 Centenaro 2011",
+    "et": "InjectionDelivery",
+    "off": 37841,
+    "sff": "i.p"
+  },
+  {
+    "docID": "N136 Centenaro 2011",
+    "et": "Nutrition",
+    "off": 29556,
+    "sff": "ad libitum"
+  },
+  {
+    "docID": "N136 Centenaro 2011",
+    "et": "IntraperitonealLocation",
+    "off": 30763,
+    "sff": "i.p"
+  },
+  {
+    "docID": "N136 Centenaro 2011",
+    "et": "DosageExtracorporal",
+    "off": 30753,
+    "sff": "40 mg/kg"
+  },
+  {
+    "docID": "N136 Centenaro 2011",
+    "et": "SodiumPentobarbital",
+    "off": 30738,
+    "sff": "pentobarbital"
+  },
+  {
+    "docID": "N136 Centenaro 2011",
+    "et": "Housing",
+    "off": 29490,
+    "sff": "temperature controlled environment"
+  },
+  {
+    "docID": "N136 Centenaro 2011",
+    "et": "Housing",
+    "off": 27104,
+    "sff": "controlled"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N196 Richter 2005",
+    "et": "Xylazine",
+    "off": 12225,
+    "sff": "xylazine"
+  },
+  {
+    "docID": "N196 Richter 2005",
+    "et": "IntraperitonealLocation",
+    "off": 12261,
+    "sff": "i.p."
+  },
+  {
+    "docID": "N196 Richter 2005",
+    "et": "C3",
+    "off": 12333,
+    "sff": "third"
+  },
+  {
+    "docID": "N196 Richter 2005",
+    "et": "KetamineAsAnaesthetic",
+    "off": 12234,
+    "sff": "ketamine"
+  },
+  {
+    "docID": "N196 Richter 2005",
+    "et": "DosageExtracorporal",
+    "off": 6009,
+    "sff": "10"
+  },
+  {
+    "docID": "N196 Richter 2005",
+    "et": "Distance",
+    "off": 12613,
+    "sff": "mm"
+  },
+  {
+    "docID": "N196 Richter 2005",
+    "et": "C4",
+    "off": 12343,
+    "sff": "fourth"
+  },
+  {
+    "docID": "N196 Richter 2005",
+    "et": "InjectionDelivery",
+    "off": 12067,
+    "sff": "i.p."
+  },
+  {
+    "docID": "N196 Richter 2005",
+    "et": "DosageExtracorporal",
+    "off": 12251,
+    "sff": "70 mg/kg"
+  }
+]

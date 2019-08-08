@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "DosageExtracorporal",
+    "off": 14201,
+    "sff": "20 mg/kg"
+  },
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "T10",
+    "off": 6236,
+    "sff": "T10"
+  },
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "AntibioticMedication",
+    "off": 6820,
+    "sff": "gentamicin sulfate"
+  },
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "InjectionDelivery",
+    "off": 1069,
+    "sff": "injection"
+  },
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "AntibioticMedication",
+    "off": 10431,
+    "sff": "ampicillin"
+  },
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "Weight",
+    "off": 10417,
+    "sff": "10 mg"
+  },
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "BladderExpression",
+    "off": 6685,
+    "sff": "assisted in feeding and urination"
+  },
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "Xylazine",
+    "off": 14191,
+    "sff": "xylazine"
+  },
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "KetamineAsAnaesthetic",
+    "off": 12123,
+    "sff": "ketamine"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N170 Liu 2010",
+    "et": "IntramuscularLocation",
+    "off": 6190,
+    "sff": "intramuscular"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "T12",
+    "off": 5075,
+    "sff": "T12"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "InjectionDelivery",
+    "off": 14663,
+    "sff": "injected"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "DosageExtracorporal",
+    "off": 6283,
+    "sff": "10 mg/kg"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "AntibioticMedication",
+    "off": 6226,
+    "sff": "gentamicin"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "T11",
+    "off": 5071,
+    "sff": "T11"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "Laminectomy",
+    "off": 5042,
+    "sff": "laminectomy"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "Left",
+    "off": 5212,
+    "sff": "left side"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "Blade",
+    "off": 5276,
+    "sff": "scalpel"
+  }
+]

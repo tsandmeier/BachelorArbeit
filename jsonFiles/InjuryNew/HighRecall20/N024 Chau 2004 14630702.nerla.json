@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N024 Chau 2004 14630702",
+    "et": "MildInjury",
+    "off": 12014,
+    "sff": "injury"
+  },
+  {
+    "docID": "N024 Chau 2004 14630702",
+    "et": "T8",
+    "off": 3308,
+    "sff": "T8"
+  },
+  {
+    "docID": "N024 Chau 2004 14630702",
+    "et": "CompleteTransection",
+    "off": 4436,
+    "sff": "transected"
+  },
+  {
+    "docID": "N024 Chau 2004 14630702",
+    "et": "Hydration",
+    "off": 7344,
+    "sff": "access"
+  },
+  {
+    "docID": "N024 Chau 2004 14630702",
+    "et": "Nutrition",
+    "off": 1133,
+    "sff": "and"
+  },
+  {
+    "docID": "N024 Chau 2004 14630702",
+    "et": "VertebralArea",
+    "off": 786,
+    "sff": "thoracic"
+  },
+  {
+    "docID": "N024 Chau 2004 14630702",
+    "et": "PartialTransection",
+    "off": 3270,
+    "sff": "hemisection"
+  },
+  {
+    "docID": "N024 Chau 2004 14630702",
+    "et": "Nutrition",
+    "off": 9396,
+    "sff": "and"
+  },
+  {
+    "docID": "N024 Chau 2004 14630702",
+    "et": "Hydration",
+    "off": 2199,
+    "sff": "were"
+  }
+]

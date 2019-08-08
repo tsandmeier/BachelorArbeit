@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N016 Grosso 2014 24871142",
+    "et": "BladderExpression",
+    "off": 9866,
+    "sff": "voiding of bladders"
+  },
+  {
+    "docID": "N016 Grosso 2014 24871142",
+    "et": "Xylazine",
+    "off": 15159,
+    "sff": "xylazine"
+  },
+  {
+    "docID": "N016 Grosso 2014 24871142",
+    "et": "Weight",
+    "off": 8981,
+    "sff": "0.25 g"
+  },
+  {
+    "docID": "N016 Grosso 2014 24871142",
+    "et": "SpringScissors",
+    "off": 7452,
+    "sff": "spring"
+  },
+  {
+    "docID": "N016 Grosso 2014 24871142",
+    "et": "AntibioticMedication",
+    "off": 10082,
+    "sff": "cephalozolin"
+  },
+  {
+    "docID": "N016 Grosso 2014 24871142",
+    "et": "T9",
+    "off": 7264,
+    "sff": "T9"
+  },
+  {
+    "docID": "N016 Grosso 2014 24871142",
+    "et": "Isoflurane",
+    "off": 10803,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N016 Grosso 2014 24871142",
+    "et": "T8",
+    "off": 7308,
+    "sff": "T8"
+  },
+  {
+    "docID": "N016 Grosso 2014 24871142",
+    "et": "IntraperitonealLocation",
+    "off": 15145,
+    "sff": "i.p"
+  }
+]

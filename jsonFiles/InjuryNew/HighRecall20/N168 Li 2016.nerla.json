@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N168 Li 2016",
+    "et": "UnilateralInjuryArea",
+    "off": 2688,
+    "sff": "unilateral"
+  },
+  {
+    "docID": "N168 Li 2016",
+    "et": "Injury",
+    "off": 5689,
+    "sff": "heat lesion"
+  },
+  {
+    "docID": "N168 Li 2016",
+    "et": "VertebralArea",
+    "off": 11036,
+    "sff": "and"
+  },
+  {
+    "docID": "N168 Li 2016",
+    "et": "UnilateralInjuryArea",
+    "off": 5506,
+    "sff": "Unilateral CST lesions"
+  },
+  {
+    "docID": "N168 Li 2016",
+    "et": "UnilateralInjuryArea",
+    "off": 1038,
+    "sff": "unilateral"
+  },
+  {
+    "docID": "N168 Li 2016",
+    "et": "InfiniteHorizonImpactor",
+    "off": 7419,
+    "sff": "tip"
+  },
+  {
+    "docID": "N168 Li 2016",
+    "et": "Injury",
+    "off": 2115,
+    "sff": "heat lesion"
+  },
+  {
+    "docID": "N168 Li 2016",
+    "et": "Compression",
+    "off": 20525,
+    "sff": "injuries"
+  },
+  {
+    "docID": "N168 Li 2016",
+    "et": "Isoflurane",
+    "off": 5436,
+    "sff": "isoflurane"
+  }
+]

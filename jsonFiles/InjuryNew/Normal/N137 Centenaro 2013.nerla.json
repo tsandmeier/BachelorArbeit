@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N137 Centenaro 2013",
+    "et": "Housing",
+    "off": 6069,
+    "sff": "temperature controlled environment"
+  },
+  {
+    "docID": "N137 Centenaro 2013",
+    "et": "DosageExtracorporal",
+    "off": 7351,
+    "sff": "40 mg/kg"
+  },
+  {
+    "docID": "N137 Centenaro 2013",
+    "et": "InjectionDelivery",
+    "off": 14406,
+    "sff": "i.p"
+  },
+  {
+    "docID": "N137 Centenaro 2013",
+    "et": "SodiumPentobarbital",
+    "off": 7336,
+    "sff": "pentobarbital"
+  },
+  {
+    "docID": "N137 Centenaro 2013",
+    "et": "AntibioticMedication",
+    "off": 8387,
+    "sff": "antibiotic"
+  },
+  {
+    "docID": "N137 Centenaro 2013",
+    "et": "IntraperitonealLocation",
+    "off": 7361,
+    "sff": "i.p"
+  },
+  {
+    "docID": "N137 Centenaro 2013",
+    "et": "DosageExtracorporal",
+    "off": 8412,
+    "sff": "2.5 mg/kg"
+  },
+  {
+    "docID": "N137 Centenaro 2013",
+    "et": "Housing",
+    "off": 3689,
+    "sff": "environment"
+  },
+  {
+    "docID": "N137 Centenaro 2013",
+    "et": "Nutrition",
+    "off": 6136,
+    "sff": "ad libitum"
+  }
+]

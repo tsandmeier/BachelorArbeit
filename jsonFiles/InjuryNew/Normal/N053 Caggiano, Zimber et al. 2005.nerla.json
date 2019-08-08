@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N053 Caggiano, Zimber et al. 2005",
+    "et": "MildInjury",
+    "off": 1582,
+    "sff": "mild injury"
+  },
+  {
+    "docID": "N053 Caggiano, Zimber et al. 2005",
+    "et": "Isoflurane",
+    "off": 8623,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N053 Caggiano, Zimber et al. 2005",
+    "et": "MildInjury",
+    "off": 24173,
+    "sff": "mild injury"
+  },
+  {
+    "docID": "N053 Caggiano, Zimber et al. 2005",
+    "et": "Xylazine",
+    "off": 13874,
+    "sff": "Xylazine"
+  },
+  {
+    "docID": "N053 Caggiano, Zimber et al. 2005",
+    "et": "VertebralArea",
+    "off": 8952,
+    "sff": "T9 and T10"
+  },
+  {
+    "docID": "N053 Caggiano, Zimber et al. 2005",
+    "et": "DosageExtracorporal",
+    "off": 8618,
+    "sff": "1.8%"
+  },
+  {
+    "docID": "N053 Caggiano, Zimber et al. 2005",
+    "et": "MildInjury",
+    "off": 18886,
+    "sff": "mild injury"
+  },
+  {
+    "docID": "N053 Caggiano, Zimber et al. 2005",
+    "et": "AntibioticMedication",
+    "off": 8712,
+    "sff": "Cefazolin"
+  },
+  {
+    "docID": "N053 Caggiano, Zimber et al. 2005",
+    "et": "Compression",
+    "off": 9690,
+    "sff": "compressing"
+  }
+]

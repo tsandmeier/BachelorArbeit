@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N115 Ni, Xia et al. 2015",
+    "et": "CompleteTransection",
+    "off": 25706,
+    "sff": "transected completely"
+  },
+  {
+    "docID": "N115 Ni, Xia et al. 2015",
+    "et": "Nutrition",
+    "off": 26514,
+    "sff": "ad libitum"
+  },
+  {
+    "docID": "N115 Ni, Xia et al. 2015",
+    "et": "ChloralHydrate",
+    "off": 25036,
+    "sff": "chloral hydrate"
+  },
+  {
+    "docID": "N115 Ni, Xia et al. 2015",
+    "et": "Right",
+    "off": 27000,
+    "sff": "right-side"
+  },
+  {
+    "docID": "N115 Ni, Xia et al. 2015",
+    "et": "T7",
+    "off": 25105,
+    "sff": "T7"
+  },
+  {
+    "docID": "N115 Ni, Xia et al. 2015",
+    "et": "BladderExpression",
+    "off": 26669,
+    "sff": "bladder voiding"
+  },
+  {
+    "docID": "N115 Ni, Xia et al. 2015",
+    "et": "Laminectomy",
+    "off": 25168,
+    "sff": "laminectomy"
+  },
+  {
+    "docID": "N115 Ni, Xia et al. 2015",
+    "et": "T9",
+    "off": 25108,
+    "sff": "T9"
+  },
+  {
+    "docID": "N115 Ni, Xia et al. 2015",
+    "et": "ChloralHydrate",
+    "off": 27576,
+    "sff": "hydrate"
+  }
+]

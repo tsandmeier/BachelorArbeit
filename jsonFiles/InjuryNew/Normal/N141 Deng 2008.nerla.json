@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N141 Deng 2008",
+    "et": "BladderExpression",
+    "off": 9509,
+    "sff": "Urinary bladders were emptied"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "AspirationLesion",
+    "off": 5794,
+    "sff": "aspiration"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "AntibioticMedication",
+    "off": 9433,
+    "sff": "Cefazolin"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "T10",
+    "off": 7755,
+    "sff": "T10"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Weight",
+    "off": 7827,
+    "sff": "10 g was centered"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Distance",
+    "off": 7884,
+    "sff": "50 mm"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Contusion",
+    "off": 132,
+    "sff": "cord"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Weight",
+    "off": 17088,
+    "sff": "10"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "T9",
+    "off": 7752,
+    "sff": "T9"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N242 Suzuki",
+    "et": "AntibioticMedication",
+    "off": 7121,
+    "sff": "tetracycline"
+  },
+  {
+    "docID": "N242 Suzuki",
+    "et": "Isoflurane",
+    "off": 8455,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N242 Suzuki",
+    "et": "Nutrition",
+    "off": 9293,
+    "sff": "Food"
+  },
+  {
+    "docID": "N242 Suzuki",
+    "et": "AneurysmClip",
+    "off": 8735,
+    "sff": "aneurysm clip"
+  },
+  {
+    "docID": "N242 Suzuki",
+    "et": "DosageExtracorporal",
+    "off": 17886,
+    "sff": "60 mg/kg"
+  },
+  {
+    "docID": "N242 Suzuki",
+    "et": "Hydration",
+    "off": 9302,
+    "sff": "water were provided ad libitum"
+  },
+  {
+    "docID": "N242 Suzuki",
+    "et": "AntibioticMedication",
+    "off": 9371,
+    "sff": "antibiotic"
+  },
+  {
+    "docID": "N242 Suzuki",
+    "et": "Housing",
+    "off": 9173,
+    "sff": "sterile cages under heating lamps"
+  },
+  {
+    "docID": "N242 Suzuki",
+    "et": "VertebralArea",
+    "off": 43624,
+    "sff": "and"
+  }
+]

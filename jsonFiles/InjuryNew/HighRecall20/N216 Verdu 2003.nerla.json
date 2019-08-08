@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "SodiumPentobarbital",
+    "off": 12164,
+    "sff": "pentobarbital"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "PhotochemicalInjury",
+    "off": 19950,
+    "sff": "photochemical injury"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "T10",
+    "off": 32734,
+    "sff": "T10"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "LightSource",
+    "off": 535,
+    "sff": "optic fiber"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "IntraperitonealLocation",
+    "off": 8481,
+    "sff": "i.p."
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "InjectionDelivery",
+    "off": 12189,
+    "sff": "i.p."
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "L1",
+    "off": 32673,
+    "sff": "L1"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "T8",
+    "off": 411,
+    "sff": "T8"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "PhotochemicalInjury",
+    "off": 9032,
+    "sff": "lesion was induced by illuminating"
+  }
+]

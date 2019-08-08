@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "Weight",
+    "off": 10282,
+    "sff": "10 g weight"
+  },
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "AntibioticMedication",
+    "off": 10886,
+    "sff": "penicillin"
+  },
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "BladderExpression",
+    "off": 11249,
+    "sff": "Manual bladder expression was performed"
+  },
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "Weight",
+    "off": 78551,
+    "sff": "10"
+  },
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "DorsalInjuryArea",
+    "off": 74768,
+    "sff": "dorsal funiculus"
+  },
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "BladderExpression",
+    "off": 11256,
+    "sff": "bladder expression"
+  },
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "T10",
+    "off": 560,
+    "sff": "T10"
+  },
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "Halothane",
+    "off": 10010,
+    "sff": "halothane"
+  },
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "T9",
+    "off": 36421,
+    "sff": "9"
+  }
+]

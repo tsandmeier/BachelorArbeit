@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N177 Luo 2013",
+    "et": "InjectionDelivery",
+    "off": 6443,
+    "sff": "i.p"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "CompleteTransection",
+    "off": 6602,
+    "sff": "completely transectedusing"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "SpringScissors",
+    "off": 6651,
+    "sff": "scissors"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "Nutrition",
+    "off": 5440,
+    "sff": "ad libitum"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "SodiumPentobarbital",
+    "off": 6428,
+    "sff": "pento-barbital"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "Nutrition",
+    "off": 7246,
+    "sff": "ad libitum"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "AntibioticMedication",
+    "off": 7347,
+    "sff": "penicillin"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "BladderExpression",
+    "off": 7276,
+    "sff": "Bladders of animals wereemptied manually"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "NYUImpactor",
+    "off": 14938,
+    "sff": "II"
+  }
+]

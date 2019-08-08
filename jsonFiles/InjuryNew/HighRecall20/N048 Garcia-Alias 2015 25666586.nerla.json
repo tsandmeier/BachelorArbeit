@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N048 Garcia-Alias 2015 25666586",
+    "et": "Compression",
+    "off": 6510,
+    "sff": "crush"
+  },
+  {
+    "docID": "N048 Garcia-Alias 2015 25666586",
+    "et": "Laminectomy",
+    "off": 8015,
+    "sff": "laminectomy"
+  },
+  {
+    "docID": "N048 Garcia-Alias 2015 25666586",
+    "et": "Nutrition",
+    "off": 11135,
+    "sff": "food"
+  },
+  {
+    "docID": "N048 Garcia-Alias 2015 25666586",
+    "et": "Nutrition",
+    "off": 10833,
+    "sff": "food"
+  },
+  {
+    "docID": "N048 Garcia-Alias 2015 25666586",
+    "et": "VertebralArea",
+    "off": 6912,
+    "sff": "and"
+  },
+  {
+    "docID": "N048 Garcia-Alias 2015 25666586",
+    "et": "Compression",
+    "off": 27127,
+    "sff": "crush"
+  },
+  {
+    "docID": "N048 Garcia-Alias 2015 25666586",
+    "et": "VertebralArea",
+    "off": 8047,
+    "sff": "C4"
+  },
+  {
+    "docID": "N048 Garcia-Alias 2015 25666586",
+    "et": "Isoflurane",
+    "off": 7580,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N048 Garcia-Alias 2015 25666586",
+    "et": "C4",
+    "off": 17275,
+    "sff": "C4"
+  }
+]

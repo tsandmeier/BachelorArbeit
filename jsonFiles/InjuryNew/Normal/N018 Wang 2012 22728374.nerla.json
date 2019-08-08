@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N018 Wang 2012 22728374",
+    "et": "T8",
+    "off": 13890,
+    "sff": "T8"
+  },
+  {
+    "docID": "N018 Wang 2012 22728374",
+    "et": "Compression",
+    "off": 33496,
+    "sff": "crushed"
+  },
+  {
+    "docID": "N018 Wang 2012 22728374",
+    "et": "DosageExtracorporal",
+    "off": 7954,
+    "sff": "10 mg/kg"
+  },
+  {
+    "docID": "N018 Wang 2012 22728374",
+    "et": "KetamineAsAnaesthetic",
+    "off": 7918,
+    "sff": "ketamine"
+  },
+  {
+    "docID": "N018 Wang 2012 22728374",
+    "et": "Xylazine",
+    "off": 7944,
+    "sff": "xylazine"
+  },
+  {
+    "docID": "N018 Wang 2012 22728374",
+    "et": "Isoflurane",
+    "off": 9104,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N018 Wang 2012 22728374",
+    "et": "T7",
+    "off": 11032,
+    "sff": "T7"
+  },
+  {
+    "docID": "N018 Wang 2012 22728374",
+    "et": "C4",
+    "off": 51143,
+    "sff": "cervical"
+  },
+  {
+    "docID": "N018 Wang 2012 22728374",
+    "et": "No5DumontForeceps",
+    "off": 12463,
+    "sff": "Dumont"
+  }
+]

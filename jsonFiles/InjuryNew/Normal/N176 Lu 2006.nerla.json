@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N176 Lu 2006",
+    "et": "DorsalInjuryArea",
+    "off": 42877,
+    "sff": "funiculus"
+  },
+  {
+    "docID": "N176 Lu 2006",
+    "et": "KetamineAsAnaesthetic",
+    "off": 9662,
+    "sff": "ketamine"
+  },
+  {
+    "docID": "N176 Lu 2006",
+    "et": "Xylazine",
+    "off": 9683,
+    "sff": "rompun"
+  },
+  {
+    "docID": "N176 Lu 2006",
+    "et": "C4",
+    "off": 777,
+    "sff": "C4"
+  },
+  {
+    "docID": "N176 Lu 2006",
+    "et": "ScoutenWireKnife",
+    "off": 9915,
+    "sff": "knife"
+  },
+  {
+    "docID": "N176 Lu 2006",
+    "et": "DorsalInjuryArea",
+    "off": 2104,
+    "sff": "dorsal column"
+  },
+  {
+    "docID": "N176 Lu 2006",
+    "et": "DorsalHemisection",
+    "off": 9781,
+    "sff": "dorsal column wireknife lesion"
+  },
+  {
+    "docID": "N176 Lu 2006",
+    "et": "DosageExtracorporal",
+    "off": 9691,
+    "sff": "1.3 g/ml"
+  },
+  {
+    "docID": "N176 Lu 2006",
+    "et": "ScoutenWireKnife",
+    "off": 14258,
+    "sff": "wire knife"
+  }
+]

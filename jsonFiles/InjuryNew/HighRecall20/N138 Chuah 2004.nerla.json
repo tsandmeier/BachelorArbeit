@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "DosageExtracorporal",
+    "off": 8167,
+    "sff": "3%"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Isoflurane",
+    "off": 8219,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "T9",
+    "off": 729,
+    "sff": "9"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "T8",
+    "off": 4161,
+    "sff": "T8"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "IntramuscularLocation",
+    "off": 8432,
+    "sff": "intramuscularly"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "T9",
+    "off": 9054,
+    "sff": "T9"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "T11",
+    "off": 8903,
+    "sff": "T11"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "DorsalInjuryArea",
+    "off": 20897,
+    "sff": "dorsal funiculus"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "DorsalInjuryArea",
+    "off": 20518,
+    "sff": "funiculus"
+  }
+]

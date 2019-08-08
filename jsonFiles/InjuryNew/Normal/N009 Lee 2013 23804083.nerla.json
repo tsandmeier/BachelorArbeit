@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "DosageExtracorporal",
+    "off": 7696,
+    "sff": "2%"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "Weight",
+    "off": 6390,
+    "sff": "g"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "Weight",
+    "off": 79210,
+    "sff": "10"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "Isoflurane",
+    "off": 11756,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "BladderExpression",
+    "off": 5159,
+    "sff": "urinary bladder"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "BladderExpression",
+    "off": 71319,
+    "sff": "urinary bladder"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "T8",
+    "off": 6532,
+    "sff": "T8"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "MildInjury",
+    "off": 77735,
+    "sff": "injury"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "BladderExpression",
+    "off": 77180,
+    "sff": "urinary bladder"
+  }
+]

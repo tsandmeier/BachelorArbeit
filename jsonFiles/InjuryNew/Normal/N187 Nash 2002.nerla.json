@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N187 Nash 2002",
+    "et": "ChloralHydrate",
+    "off": 17102,
+    "sff": "chloral hydrate"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "T9",
+    "off": 8050,
+    "sff": "9"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "DorsalInjuryArea",
+    "off": 8719,
+    "sff": "dorsal funiculus"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "DorsalInjuryArea",
+    "off": 8593,
+    "sff": "dorsal funiculus"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "DorsalInjuryArea",
+    "off": 25974,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "PartialTransection",
+    "off": 14537,
+    "sff": "bilateral lesion"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "IridectomyScissors",
+    "off": 8662,
+    "sff": "iridectomy scissors"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Isoflurane",
+    "off": 8096,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "T9",
+    "off": 6387,
+    "sff": "–"
+  }
+]

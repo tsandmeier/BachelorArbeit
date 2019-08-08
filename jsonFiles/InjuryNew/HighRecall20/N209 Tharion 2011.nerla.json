@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "Weight",
+    "off": 6860,
+    "sff": "10 g rod falls"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "DosageExtracorporal",
+    "off": 6669,
+    "sff": "10 mg/kg"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "DosageExtracorporal",
+    "off": 6666,
+    "sff": "90"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "Xylazine",
+    "off": 6656,
+    "sff": "xylazine"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "KetamineAsAnaesthetic",
+    "off": 6643,
+    "sff": "ketamine"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "T10",
+    "off": 6711,
+    "sff": "T10"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "BladderExpression",
+    "off": 7484,
+    "sff": "expression of the urinary bladder"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "AntibioticMedication",
+    "off": 7578,
+    "sff": "antibiotics"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "InjectionDelivery",
+    "off": 4657,
+    "sff": "injection"
+  }
+]

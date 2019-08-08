@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N076 Andrews 2004",
+    "et": "KetamineAsAnaesthetic",
+    "off": 14280,
+    "sff": "ketamine"
+  },
+  {
+    "docID": "N076 Andrews 2004",
+    "et": "VertebralArea",
+    "off": 74196,
+    "sff": "thoracic"
+  },
+  {
+    "docID": "N076 Andrews 2004",
+    "et": "Xylazine",
+    "off": 14332,
+    "sff": "Xylazine HCl"
+  },
+  {
+    "docID": "N076 Andrews 2004",
+    "et": "Hydration",
+    "off": 14133,
+    "sff": "water were provided ad libitum"
+  },
+  {
+    "docID": "N076 Andrews 2004",
+    "et": "Compression",
+    "off": 14753,
+    "sff": "crushing"
+  },
+  {
+    "docID": "N076 Andrews 2004",
+    "et": "VertebralArea",
+    "off": 14434,
+    "sff": "T8 and T9"
+  },
+  {
+    "docID": "N076 Andrews 2004",
+    "et": "Nutrition",
+    "off": 14124,
+    "sff": "Food"
+  },
+  {
+    "docID": "N076 Andrews 2004",
+    "et": "DorsalInjuryArea",
+    "off": 42429,
+    "sff": "dorsal funiculus"
+  },
+  {
+    "docID": "N076 Andrews 2004",
+    "et": "AntibioticMedication",
+    "off": 15699,
+    "sff": "Cefazolin"
+  }
+]

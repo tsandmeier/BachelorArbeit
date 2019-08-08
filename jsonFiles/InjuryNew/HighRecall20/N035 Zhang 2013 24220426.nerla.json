@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "T10",
+    "off": 8223,
+    "sff": "T10"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "Distance",
+    "off": 19090,
+    "sff": "25"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "T10",
+    "off": 20450,
+    "sff": "T"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "Weight",
+    "off": 18860,
+    "sff": "10"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "Injury",
+    "off": 8227,
+    "sff": "segmental transversal injury"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "Distance",
+    "off": 5719,
+    "sff": "50"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "Contusion",
+    "off": 1263,
+    "sff": "cord"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "Thoracic",
+    "off": 19050,
+    "sff": "thoracic"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "T10",
+    "off": 19609,
+    "sff": "T"
+  }
+]

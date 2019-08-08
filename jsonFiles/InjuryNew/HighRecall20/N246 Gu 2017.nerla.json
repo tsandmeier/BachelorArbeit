@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N246 Gu 2017",
+    "et": "InjectionDelivery",
+    "off": 33646,
+    "sff": "i.p."
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "Hydration",
+    "off": 32558,
+    "sff": "water"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "IntraperitonealLocation",
+    "off": 34736,
+    "sff": "i.p."
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "BladderExpression",
+    "off": 32577,
+    "sff": "manual bladder evacuation"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "Weight",
+    "off": 32026,
+    "sff": "10 g rod"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "Weight",
+    "off": 36641,
+    "sff": "10"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "AntibioticMedication",
+    "off": 32299,
+    "sff": "Gentamicin"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "NYUImpactor",
+    "off": 381,
+    "sff": "NYU weight-drop impactor"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "T10",
+    "off": 20733,
+    "sff": "T10"
+  }
+]

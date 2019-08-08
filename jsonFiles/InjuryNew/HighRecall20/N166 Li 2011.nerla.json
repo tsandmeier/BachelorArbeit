@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N166 Li 2011",
+    "et": "Weight",
+    "off": 8299,
+    "sff": "10.0 g"
+  },
+  {
+    "docID": "N166 Li 2011",
+    "et": "Weight",
+    "off": 29024,
+    "sff": "10 g-25"
+  },
+  {
+    "docID": "N166 Li 2011",
+    "et": "NYUImpactor",
+    "off": 8259,
+    "sff": "NYU-II impactor"
+  },
+  {
+    "docID": "N166 Li 2011",
+    "et": "BladderExpression",
+    "off": 8565,
+    "sff": "bladder expression"
+  },
+  {
+    "docID": "N166 Li 2011",
+    "et": "T10",
+    "off": 8186,
+    "sff": "T10"
+  },
+  {
+    "docID": "N166 Li 2011",
+    "et": "AntibioticMedication",
+    "off": 8506,
+    "sff": "Bicillin"
+  },
+  {
+    "docID": "N166 Li 2011",
+    "et": "InjectionDelivery",
+    "off": 8071,
+    "sff": "injection"
+  },
+  {
+    "docID": "N166 Li 2011",
+    "et": "T10",
+    "off": 943,
+    "sff": "T10"
+  },
+  {
+    "docID": "N166 Li 2011",
+    "et": "Distance",
+    "off": 29089,
+    "sff": "12.5 mm"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N229 Yui 2014",
+    "et": "AntibioticMedication",
+    "off": 12276,
+    "sff": "cefazolin sodium"
+  },
+  {
+    "docID": "N229 Yui 2014",
+    "et": "IntraperitonealLocation",
+    "off": 12940,
+    "sff": "i.p."
+  },
+  {
+    "docID": "N229 Yui 2014",
+    "et": "Nutrition",
+    "off": 4980,
+    "sff": "ad libitum access to food"
+  },
+  {
+    "docID": "N229 Yui 2014",
+    "et": "AntibioticMedication",
+    "off": 14180,
+    "sff": "antibiotics"
+  },
+  {
+    "docID": "N229 Yui 2014",
+    "et": "SevereInjury",
+    "off": 1318,
+    "sff": "severe"
+  },
+  {
+    "docID": "N229 Yui 2014",
+    "et": "T10",
+    "off": 11952,
+    "sff": "T10"
+  },
+  {
+    "docID": "N229 Yui 2014",
+    "et": "Hydration",
+    "off": 5010,
+    "sff": "water"
+  },
+  {
+    "docID": "N229 Yui 2014",
+    "et": "InjectionDelivery",
+    "off": 11862,
+    "sff": "i.p"
+  },
+  {
+    "docID": "N229 Yui 2014",
+    "et": "Weight",
+    "off": 17330,
+    "sff": "10"
+  }
+]

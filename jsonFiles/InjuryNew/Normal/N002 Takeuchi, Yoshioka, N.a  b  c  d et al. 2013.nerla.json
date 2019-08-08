@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N002 Takeuchi, Yoshioka, N.a  b  c  d et al. 2013",
+    "et": "Contusion",
+    "off": 48597,
+    "sff": "cord"
+  },
+  {
+    "docID": "N002 Takeuchi, Yoshioka, N.a  b  c  d et al. 2013",
+    "et": "Compression",
+    "off": 31902,
+    "sff": "compression"
+  },
+  {
+    "docID": "N002 Takeuchi, Yoshioka, N.a  b  c  d et al. 2013",
+    "et": "Thoracic",
+    "off": 35565,
+    "sff": "thoracic"
+  },
+  {
+    "docID": "N002 Takeuchi, Yoshioka, N.a  b  c  d et al. 2013",
+    "et": "InfiniteHorizonImpactor",
+    "off": 32068,
+    "sff": "Infinite Horizon Impactor"
+  },
+  {
+    "docID": "N002 Takeuchi, Yoshioka, N.a  b  c  d et al. 2013",
+    "et": "VertebralArea",
+    "off": 31981,
+    "sff": "thoracic"
+  },
+  {
+    "docID": "N002 Takeuchi, Yoshioka, N.a  b  c  d et al. 2013",
+    "et": "Distance",
+    "off": 33319,
+    "sff": "3 cm"
+  },
+  {
+    "docID": "N002 Takeuchi, Yoshioka, N.a  b  c  d et al. 2013",
+    "et": "Nutrition",
+    "off": 40489,
+    "sff": "3"
+  },
+  {
+    "docID": "N002 Takeuchi, Yoshioka, N.a  b  c  d et al. 2013",
+    "et": "Nutrition",
+    "off": 23736,
+    "sff": "3"
+  },
+  {
+    "docID": "N002 Takeuchi, Yoshioka, N.a  b  c  d et al. 2013",
+    "et": "VertebralArea",
+    "off": 24286,
+    "sff": "and"
+  }
+]

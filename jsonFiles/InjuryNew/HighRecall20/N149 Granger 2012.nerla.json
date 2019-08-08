@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N149 Granger 2012",
+    "et": "Dislocation",
+    "off": 17493,
+    "sff": "intervertebral"
+  },
+  {
+    "docID": "N149 Granger 2012",
+    "et": "Dislocation",
+    "off": 28102,
+    "sff": "intervertebral"
+  },
+  {
+    "docID": "N149 Granger 2012",
+    "et": "SevereInjury",
+    "off": 1670,
+    "sff": "severe"
+  },
+  {
+    "docID": "N149 Granger 2012",
+    "et": "Injury",
+    "off": 4860,
+    "sff": "injury"
+  },
+  {
+    "docID": "N149 Granger 2012",
+    "et": "L4",
+    "off": 6899,
+    "sff": "L4"
+  },
+  {
+    "docID": "N149 Granger 2012",
+    "et": "Dislocation",
+    "off": 28299,
+    "sff": "intervertebral"
+  },
+  {
+    "docID": "N149 Granger 2012",
+    "et": "SevereInjury",
+    "off": 6591,
+    "sff": "severe"
+  },
+  {
+    "docID": "N149 Granger 2012",
+    "et": "T10",
+    "off": 6891,
+    "sff": "T10"
+  },
+  {
+    "docID": "N149 Granger 2012",
+    "et": "Dislocation",
+    "off": 4499,
+    "sff": "intervertebral"
+  }
+]

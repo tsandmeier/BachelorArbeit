@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N192 Polentes 2004",
+    "et": "T8",
+    "off": 34144,
+    "sff": "T8"
+  },
+  {
+    "docID": "N192 Polentes 2004",
+    "et": "AspirationLesion",
+    "off": 15425,
+    "sff": "aspiration"
+  },
+  {
+    "docID": "N192 Polentes 2004",
+    "et": "DorsalInjuryArea",
+    "off": 67243,
+    "sff": "funiculus"
+  },
+  {
+    "docID": "N192 Polentes 2004",
+    "et": "Blade",
+    "off": 18990,
+    "sff": "microscalpel"
+  },
+  {
+    "docID": "N192 Polentes 2004",
+    "et": "DorsalInjuryArea",
+    "off": 4291,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N192 Polentes 2004",
+    "et": "DorsalInjuryArea",
+    "off": 61251,
+    "sff": "funiculus"
+  },
+  {
+    "docID": "N192 Polentes 2004",
+    "et": "Blade",
+    "off": 10630,
+    "sff": "microscalpel"
+  },
+  {
+    "docID": "N192 Polentes 2004",
+    "et": "AntibioticMedication",
+    "off": 12307,
+    "sff": "Terramycine"
+  },
+  {
+    "docID": "N192 Polentes 2004",
+    "et": "Blade",
+    "off": 10666,
+    "sff": "No"
+  }
+]

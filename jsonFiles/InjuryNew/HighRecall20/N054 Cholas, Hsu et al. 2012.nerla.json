@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N054 Cholas, Hsu et al. 2012",
+    "et": "SpringScissors",
+    "off": 21115,
+    "sff": "scissors"
+  },
+  {
+    "docID": "N054 Cholas, Hsu et al. 2012",
+    "et": "AntibioticMedication",
+    "off": 18848,
+    "sff": "antibiotics"
+  },
+  {
+    "docID": "N054 Cholas, Hsu et al. 2012",
+    "et": "AntibioticMedication",
+    "off": 19417,
+    "sff": "antibiotics"
+  },
+  {
+    "docID": "N054 Cholas, Hsu et al. 2012",
+    "et": "T8",
+    "off": 16843,
+    "sff": "T8"
+  },
+  {
+    "docID": "N054 Cholas, Hsu et al. 2012",
+    "et": "InjectionDelivery",
+    "off": 16056,
+    "sff": "intraperitoneal"
+  },
+  {
+    "docID": "N054 Cholas, Hsu et al. 2012",
+    "et": "T9",
+    "off": 16850,
+    "sff": "T9"
+  },
+  {
+    "docID": "N054 Cholas, Hsu et al. 2012",
+    "et": "Blade",
+    "off": 21094,
+    "sff": "scalpel"
+  },
+  {
+    "docID": "N054 Cholas, Hsu et al. 2012",
+    "et": "Laminectomy",
+    "off": 16814,
+    "sff": "laminectomy"
+  },
+  {
+    "docID": "N054 Cholas, Hsu et al. 2012",
+    "et": "AspirationLesion",
+    "off": 17677,
+    "sff": "aspiration"
+  }
+]

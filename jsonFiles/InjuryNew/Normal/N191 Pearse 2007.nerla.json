@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "DosageExtracorporal",
+    "off": 11555,
+    "sff": "5 mg/kg"
+  },
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "AntibioticMedication",
+    "off": 11543,
+    "sff": "Gentamicin"
+  },
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "T8",
+    "off": 10934,
+    "sff": "T8"
+  },
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "Distance",
+    "off": 11123,
+    "sff": "12.5 mm"
+  },
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "KetamineAsAnaesthetic",
+    "off": 10685,
+    "sff": "ketamine"
+  },
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "Nutrition",
+    "off": 11519,
+    "sff": "food"
+  },
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "Weight",
+    "off": 11095,
+    "sff": "10.0 g rod"
+  },
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "Contusion",
+    "off": 2308,
+    "sff": "cord"
+  },
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "Xylazine",
+    "off": 10703,
+    "sff": "xylazine"
+  }
+]

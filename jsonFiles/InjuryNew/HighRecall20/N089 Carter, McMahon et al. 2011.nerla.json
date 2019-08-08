@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N089 Carter, McMahon et al. 2011",
+    "et": "SevereInjury",
+    "off": 1373,
+    "sff": "severe"
+  },
+  {
+    "docID": "N089 Carter, McMahon et al. 2011",
+    "et": "DorsalInjuryArea",
+    "off": 28276,
+    "sff": "dorsal funiculus"
+  },
+  {
+    "docID": "N089 Carter, McMahon et al. 2011",
+    "et": "DosageExtracorporal",
+    "off": 6691,
+    "sff": "60 mg/kg"
+  },
+  {
+    "docID": "N089 Carter, McMahon et al. 2011",
+    "et": "C4",
+    "off": 6891,
+    "sff": "C4"
+  },
+  {
+    "docID": "N089 Carter, McMahon et al. 2011",
+    "et": "L4",
+    "off": 8315,
+    "sff": "4"
+  },
+  {
+    "docID": "N089 Carter, McMahon et al. 2011",
+    "et": "LightIntensity",
+    "off": 17734,
+    "sff": "power"
+  },
+  {
+    "docID": "N089 Carter, McMahon et al. 2011",
+    "et": "IridectomyScissors",
+    "off": 7069,
+    "sff": "iridectomy scissors"
+  },
+  {
+    "docID": "N089 Carter, McMahon et al. 2011",
+    "et": "Distance",
+    "off": 7108,
+    "sff": "mm"
+  },
+  {
+    "docID": "N089 Carter, McMahon et al. 2011",
+    "et": "KetamineAsAnaesthetic",
+    "off": 6681,
+    "sff": "ketamine"
+  }
+]

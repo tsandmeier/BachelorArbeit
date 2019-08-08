@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N190 Pearse 2004",
+    "et": "T8",
+    "off": 9349,
+    "sff": "T8"
+  },
+  {
+    "docID": "N190 Pearse 2004",
+    "et": "Halothane",
+    "off": 8463,
+    "sff": "halothane"
+  },
+  {
+    "docID": "N190 Pearse 2004",
+    "et": "IntraperitonealLocation",
+    "off": 11310,
+    "sff": "i.p"
+  },
+  {
+    "docID": "N190 Pearse 2004",
+    "et": "InjectionDelivery",
+    "off": 619,
+    "sff": "i.p"
+  },
+  {
+    "docID": "N190 Pearse 2004",
+    "et": "Distance",
+    "off": 9643,
+    "sff": "12.5 mm"
+  },
+  {
+    "docID": "N190 Pearse 2004",
+    "et": "NYUImpactor",
+    "off": 9146,
+    "sff": "York"
+  },
+  {
+    "docID": "N190 Pearse 2004",
+    "et": "T10",
+    "off": 13648,
+    "sff": "T10"
+  },
+  {
+    "docID": "N190 Pearse 2004",
+    "et": "Weight",
+    "off": 9615,
+    "sff": "10.0-g"
+  },
+  {
+    "docID": "N190 Pearse 2004",
+    "et": "AntibioticMedication",
+    "off": 10062,
+    "sff": "Bicillin"
+  }
+]

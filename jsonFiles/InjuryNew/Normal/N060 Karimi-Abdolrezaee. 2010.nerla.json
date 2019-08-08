@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N060 Karimi-Abdolrezaee. 2010",
+    "et": "Compression",
+    "off": 8036,
+    "sff": "compression"
+  },
+  {
+    "docID": "N060 Karimi-Abdolrezaee. 2010",
+    "et": "Halothane",
+    "off": 8260,
+    "sff": "halothane"
+  },
+  {
+    "docID": "N060 Karimi-Abdolrezaee. 2010",
+    "et": "DosageExtracorporal",
+    "off": 8284,
+    "sff": "Äì2%"
+  },
+  {
+    "docID": "N060 Karimi-Abdolrezaee. 2010",
+    "et": "AntibioticMedication",
+    "off": 8795,
+    "sff": "Clavamox"
+  },
+  {
+    "docID": "N060 Karimi-Abdolrezaee. 2010",
+    "et": "IntraperitonealLocation",
+    "off": 14046,
+    "sff": "i.p."
+  },
+  {
+    "docID": "N060 Karimi-Abdolrezaee. 2010",
+    "et": "T7",
+    "off": 8627,
+    "sff": "T7"
+  },
+  {
+    "docID": "N060 Karimi-Abdolrezaee. 2010",
+    "et": "BladderExpression",
+    "off": 8969,
+    "sff": "bladders"
+  },
+  {
+    "docID": "N060 Karimi-Abdolrezaee. 2010",
+    "et": "Weight",
+    "off": 35638,
+    "sff": "2 g von"
+  },
+  {
+    "docID": "N060 Karimi-Abdolrezaee. 2010",
+    "et": "AneurysmClip",
+    "off": 8022,
+    "sff": "aneurysm clip"
+  }
+]

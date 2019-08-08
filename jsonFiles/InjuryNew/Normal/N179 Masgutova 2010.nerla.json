@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N179 Masgutova 2010",
+    "et": "Distance",
+    "off": 1119,
+    "sff": "6 mm"
+  },
+  {
+    "docID": "N179 Masgutova 2010",
+    "et": "MildInjury",
+    "off": 2281,
+    "sff": "injury"
+  },
+  {
+    "docID": "N179 Masgutova 2010",
+    "et": "PartialTransection",
+    "off": 7093,
+    "sff": "hemisection"
+  },
+  {
+    "docID": "N179 Masgutova 2010",
+    "et": "Hydration",
+    "off": 3775,
+    "sff": "water"
+  },
+  {
+    "docID": "N179 Masgutova 2010",
+    "et": "T8",
+    "off": 7761,
+    "sff": "TVIII"
+  },
+  {
+    "docID": "N179 Masgutova 2010",
+    "et": "Nutrition",
+    "off": 3751,
+    "sff": "free access to food"
+  },
+  {
+    "docID": "N179 Masgutova 2010",
+    "et": "Laminectomy",
+    "off": 3788,
+    "sff": "laminectomy"
+  },
+  {
+    "docID": "N179 Masgutova 2010",
+    "et": "Contusion",
+    "off": 1722,
+    "sff": "cord"
+  },
+  {
+    "docID": "N179 Masgutova 2010",
+    "et": "Weight",
+    "off": 3691,
+    "sff": "250 g"
+  }
+]

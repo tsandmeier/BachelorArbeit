@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N045 Novotna 2011 21630006",
+    "et": "Halothane",
+    "off": 8098,
+    "sff": "halothane"
+  },
+  {
+    "docID": "N045 Novotna 2011 21630006",
+    "et": "BladderExpression",
+    "off": 7751,
+    "sff": "urinary bladder"
+  },
+  {
+    "docID": "N045 Novotna 2011 21630006",
+    "et": "T9",
+    "off": 7370,
+    "sff": "9"
+  },
+  {
+    "docID": "N045 Novotna 2011 21630006",
+    "et": "Weight",
+    "off": 8655,
+    "sff": "10.0"
+  },
+  {
+    "docID": "N045 Novotna 2011 21630006",
+    "et": "T10",
+    "off": 8412,
+    "sff": "10"
+  },
+  {
+    "docID": "N045 Novotna 2011 21630006",
+    "et": "Halothane",
+    "off": 7263,
+    "sff": "halothane"
+  },
+  {
+    "docID": "N045 Novotna 2011 21630006",
+    "et": "BladderExpression",
+    "off": 7795,
+    "sff": "bladder expression"
+  },
+  {
+    "docID": "N045 Novotna 2011 21630006",
+    "et": "Weight",
+    "off": 6519,
+    "sff": "320 g"
+  },
+  {
+    "docID": "N045 Novotna 2011 21630006",
+    "et": "DorsalInjuryArea",
+    "off": 16045,
+    "sff": "lesion"
+  }
+]

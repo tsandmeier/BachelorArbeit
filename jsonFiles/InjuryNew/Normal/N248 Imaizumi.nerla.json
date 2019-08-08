@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N248 Imaizumi",
+    "et": "KetamineAsAnaesthetic",
+    "off": 25244,
+    "sff": "ketamine"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "SpringScissors",
+    "off": 25511,
+    "sff": "Vannas-Tubbinegin spring scissors"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "DosageExtracorporal",
+    "off": 25263,
+    "sff": "75 mg/kg"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "Xylazine",
+    "off": 25253,
+    "sff": "xylazine"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "InjectionDelivery",
+    "off": 25283,
+    "sff": "i.p."
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "T11",
+    "off": 25381,
+    "sff": "T11"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "Laminectomy",
+    "off": 25396,
+    "sff": "laminectomy"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "DosageExtracorporal",
+    "off": 25273,
+    "sff": "10 mg/kg"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "IntraperitonealLocation",
+    "off": 26443,
+    "sff": "i.p."
+  }
+]

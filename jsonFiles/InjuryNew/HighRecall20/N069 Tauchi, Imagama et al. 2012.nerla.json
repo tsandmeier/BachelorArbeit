@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N069 Tauchi, Imagama et al. 2012",
+    "et": "T10",
+    "off": 25303,
+    "sff": "Th10"
+  },
+  {
+    "docID": "N069 Tauchi, Imagama et al. 2012",
+    "et": "DosageExtracorporal",
+    "off": 5439,
+    "sff": "10 mg/kg"
+  },
+  {
+    "docID": "N069 Tauchi, Imagama et al. 2012",
+    "et": "Xylazine",
+    "off": 5429,
+    "sff": "xylazine"
+  },
+  {
+    "docID": "N069 Tauchi, Imagama et al. 2012",
+    "et": "AntibioticMedication",
+    "off": 6609,
+    "sff": "antibiotics"
+  },
+  {
+    "docID": "N069 Tauchi, Imagama et al. 2012",
+    "et": "Laminectomy",
+    "off": 5759,
+    "sff": "laminectomy"
+  },
+  {
+    "docID": "N069 Tauchi, Imagama et al. 2012",
+    "et": "BladderExpression",
+    "off": 6387,
+    "sff": "bladder was compressed"
+  },
+  {
+    "docID": "N069 Tauchi, Imagama et al. 2012",
+    "et": "InfiniteHorizonImpactor",
+    "off": 5602,
+    "sff": "Infinite Horizon Impactor"
+  },
+  {
+    "docID": "N069 Tauchi, Imagama et al. 2012",
+    "et": "KetamineAsAnaesthetic",
+    "off": 5403,
+    "sff": "ketamine"
+  },
+  {
+    "docID": "N069 Tauchi, Imagama et al. 2012",
+    "et": "InjectionDelivery",
+    "off": 5390,
+    "sff": "injection"
+  }
+]

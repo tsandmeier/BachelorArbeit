@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N052 Bartus, James et al. 2014",
+    "et": "Compression",
+    "off": 60775,
+    "sff": "crush"
+  },
+  {
+    "docID": "N052 Bartus, James et al. 2014",
+    "et": "VertebralArea",
+    "off": 8279,
+    "sff": "T10"
+  },
+  {
+    "docID": "N052 Bartus, James et al. 2014",
+    "et": "DosageExtracorporal",
+    "off": 8137,
+    "sff": "60 mg/kg"
+  },
+  {
+    "docID": "N052 Bartus, James et al. 2014",
+    "et": "Hydration",
+    "off": 7776,
+    "sff": "water"
+  },
+  {
+    "docID": "N052 Bartus, James et al. 2014",
+    "et": "VertebralArea",
+    "off": 79946,
+    "sff": "thoracic"
+  },
+  {
+    "docID": "N052 Bartus, James et al. 2014",
+    "et": "Nutrition",
+    "off": 7746,
+    "sff": "ad libitum access to food"
+  },
+  {
+    "docID": "N052 Bartus, James et al. 2014",
+    "et": "VertebralArea",
+    "off": 44713,
+    "sff": "and"
+  },
+  {
+    "docID": "N052 Bartus, James et al. 2014",
+    "et": "InfiniteHorizonImpactor",
+    "off": 8295,
+    "sff": "Infinite Horizons impactor"
+  },
+  {
+    "docID": "N052 Bartus, James et al. 2014",
+    "et": "KetamineAsAnaesthetic",
+    "off": 8127,
+    "sff": "ketamine"
+  }
+]

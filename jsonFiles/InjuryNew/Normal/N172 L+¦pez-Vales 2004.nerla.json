@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "T7",
+    "off": 28087,
+    "sff": "T7"
+  },
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "InjectionDelivery",
+    "off": 12116,
+    "sff": "i.p."
+  },
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "T9",
+    "off": 14343,
+    "sff": "T9"
+  },
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "PhotochemicalInjury",
+    "off": 8706,
+    "sff": "lesion was induced by illuminating"
+  },
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "DorsalInjuryArea",
+    "off": 23642,
+    "sff": "dorsal funiculus"
+  },
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "IntraperitonealLocation",
+    "off": 8050,
+    "sff": "i.p."
+  },
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "T7",
+    "off": 14332,
+    "sff": "T7"
+  },
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "PhotochemicalInjury",
+    "off": 29730,
+    "sff": "photochemical injury"
+  },
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "T8",
+    "off": 8330,
+    "sff": "T8"
+  }
+]

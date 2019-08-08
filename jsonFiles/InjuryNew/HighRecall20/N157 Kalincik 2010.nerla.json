@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N157 Kalincik 2010",
+    "et": "Xylazine",
+    "off": 6650,
+    "sff": "xylazine"
+  },
+  {
+    "docID": "N157 Kalincik 2010",
+    "et": "T3",
+    "off": 6903,
+    "sff": "T3"
+  },
+  {
+    "docID": "N157 Kalincik 2010",
+    "et": "AntibioticMedication",
+    "off": 7676,
+    "sff": "cephalotin"
+  },
+  {
+    "docID": "N157 Kalincik 2010",
+    "et": "BladderExpression",
+    "off": 7942,
+    "sff": "urinary bladderwas"
+  },
+  {
+    "docID": "N157 Kalincik 2010",
+    "et": "T3",
+    "off": 13536,
+    "sff": "T3"
+  },
+  {
+    "docID": "N157 Kalincik 2010",
+    "et": "InjectionDelivery",
+    "off": 6668,
+    "sff": "i.p."
+  },
+  {
+    "docID": "N157 Kalincik 2010",
+    "et": "DosageExtracorporal",
+    "off": 6660,
+    "sff": "7 mg/kg"
+  },
+  {
+    "docID": "N157 Kalincik 2010",
+    "et": "KetamineAsAnaesthetic",
+    "off": 6547,
+    "sff": "ketamine hydrochloride"
+  },
+  {
+    "docID": "N157 Kalincik 2010",
+    "et": "IntraperitonealLocation",
+    "off": 6582,
+    "sff": "i.p"
+  }
+]
