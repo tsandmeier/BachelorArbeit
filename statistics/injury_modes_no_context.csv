@@ -1,7 +1,0 @@
-AMFLTemplate,BigramTemplate,BMFLTemplate,BracketsTemplate,HMTemplate,IdentityTemplate,MentionsInSentenceTemplate,ML12Template,NormalizedAgeTemplate,NormalizedWeightTemplate,NumberMBTemplate,NumberWBTemplate,OverlappingTemplate,RootTypeTemplate,SimilarWordsTemplate,StartsWithCapitalTemplate,WBOTemplate,WBTemplate,WMTemplate,WordCountTemplate,WordsInBetweenTemplate,F1,TotalTime,TrainTime,TestTime,Alpha
-X,X,X,X,X,X,X,X,,,X,X,X,X,X,X,X,X,X,X,X,0.10619469026548672,4486367,3956754,529613,0.01
-X,X,X,X,X,X,X,X,,,X,X,X,X,X,X,X,X,X,X,X,0.3367556468172484,6908505,6359090,549415,0.001 alle
-X,X,X,X,X,X,X,,,,X,X,X,X,X,X,X,X,X,X,X,0.31456310679611643,6798022,6358237,439785,0.001 ohne ML12
-X,X,X,X,X,X,X,X,,,,,X,X,X,X,X,X,X,X,X,0.3121387283236994,6442742,6038454,404288,0.001 ohne Number
-X,,X,X,,,X,X,,,X,X,X,X,X,,X,X,,,X,0.2486288848263254,6341637,5639034,702603,0.001 ohne SingleMention
-X,X,X,X,X,X,X,X,,,X,X,,X,,X,X,X,X,X,X,0.3422459893048128,7232771,6562714,670057,0.001 ohne DoubleComparison

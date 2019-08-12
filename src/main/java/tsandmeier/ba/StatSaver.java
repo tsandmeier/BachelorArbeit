@@ -31,26 +31,6 @@ public class StatSaver {
 
     static String[] temps;
 
-//    public static void main(String[] args) throws IOException, FastOdsException, ClassNotFoundException {
-////        readODS(new File("generated_files/readme_example.ods"));
-//        List<AbstractFeatureTemplate> bla = new ArrayList<>();
-//        bla.add(new BigramTemplate(false));
-//        bla.add(new WordsInBetweenTemplate());
-//        bla.add(new AMFLTemplate(false));
-//        bla.add(new WBOTemplate());
-//        bla.add(new SimilarWordsTemplate());
-//        bla.add(new NumberWBTemplate());
-//        addToSpreadsheet("statistics/testest.ods",bla, 0.58, 678326, 4387493, 84934, 0.001);
-//        List<AbstractFeatureTemplate> bla2 = new ArrayList<>();
-//        bla2.add(new StartsWithCapitalTemplate());
-//        bla2.add(new WBTemplate());
-//        bla2.add(new ML12Template());
-//        bla2.add(new WordCountTemplate());
-//        bla2.add(new OverlappingTemplate(false));
-//        addToSpreadsheet("statistics/testest.ods",bla2,0.55,213,43154,545, 0.01);
-//
-//    }
-
 
     public static File createSpreadsheet(String filePath) throws IOException {
         // Create the data to save.
@@ -69,7 +49,6 @@ public class StatSaver {
         SpreadSheet spreadSheet = SpreadSheet.createEmpty(model);
 
         Sheet sheet = spreadSheet.getSheet(0);
-//        sheet.setRowCount(sheet.getRowCount()+1);
         sheet.setColumnCount(both.length);
         for(int x=0; x<sheet.getColumnCount();x++){
             sheet.setValueAt(both[x], x, 0);

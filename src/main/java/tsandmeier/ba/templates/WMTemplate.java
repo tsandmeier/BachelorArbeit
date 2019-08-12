@@ -13,7 +13,7 @@ import java.util.List;
 import java.util.Objects;
 
 /**
- * bag of words
+ * Bag-of-Words Feature
  */
 
 public class WMTemplate extends AbstractFeatureTemplate<WMTemplate.EmptyScope> {
@@ -38,7 +38,6 @@ public class WMTemplate extends AbstractFeatureTemplate<WMTemplate.EmptyScope> {
 
 		@Override
 		public int implementHashCode() {
-			// TODO Auto-generated method stub
 			return 0;
 		}
 
@@ -59,7 +58,6 @@ public class WMTemplate extends AbstractFeatureTemplate<WMTemplate.EmptyScope> {
 
 		@Override
 		public boolean implementEquals(Object obj) {
-			// TODO Auto-generated method stub
 			return false;
 		}
 

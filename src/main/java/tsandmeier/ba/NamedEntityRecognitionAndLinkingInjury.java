@@ -31,8 +31,6 @@ import de.hterhors.semanticmr.json.nerla.JsonNerlaIO;
 import de.hterhors.semanticmr.json.nerla.wrapper.JsonEntityAnnotationWrapper;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import tsandmeier.ba.NutzloseTemplates.WBFTemplate;
-import tsandmeier.ba.NutzloseTemplates.WBLTemplate;
 import tsandmeier.ba.candprov.*;
 import tsandmeier.ba.specs.NERLASpecsInjury;
 import tsandmeier.ba.templates.*;
@@ -50,18 +48,9 @@ public class NamedEntityRecognitionAndLinkingInjury extends AbstractSemReadProje
     private final boolean overrideModel = false;
     SemanticParsingCRF crf;
     private IEvaluatable.Score mean;
-    private int mode;
     List<AbstractFeatureTemplate> featureTemplates;
-    private double alpha;
+    private double alpha = 0.001;
 
-    /**1: all
-     * 2: singleContextTemplates
-     * 3: doubleContextTemplates
-     * 4: singleMentionTemplates
-     * 5: NumberTemplates
-     * 6: POS-Tagging
-     * 7:
-     */
 
     /**
      * Start the named entity recognition and linking procedure.
@@ -70,14 +59,8 @@ public class NamedEntityRecognitionAndLinkingInjury extends AbstractSemReadProje
      * @throws IOException
      */
     public static void main(String[] args) throws IOException {
-        String arg1 = args[0];
-        String arg2 = args[1];
-        int mode = Integer.valueOf(arg1);
-        double alpha = Double.valueOf(arg2);
-        if(mode < 1 || mode >7){
-            System.out.println("UNGÜLTIGER MODE");
-        }
-        new NamedEntityRecognitionAndLinkingInjury().startProcedure(mode, alpha);
+
+        new NamedEntityRecognitionAndLinkingInjury().startProcedure();
     }
 
     /**
@@ -135,9 +118,8 @@ public class NamedEntityRecognitionAndLinkingInjury extends AbstractSemReadProje
 
     }
 
-    public void startProcedure(int mode, double alpha) throws IOException {
+    public void startProcedure() throws IOException {
 
-        this.alpha = alpha;
 
         /**
          * 2. STEP read and distribute the corpus.
@@ -215,8 +197,6 @@ public class NamedEntityRecognitionAndLinkingInjury extends AbstractSemReadProje
          * The learner defines the update strategy of learned weights. parameters are
          * the alpha value that is specified in the SGD (first parameter) and the
          * L2-regularization value.
-         *
-         * TODO: find best alpha value in combination with L2-regularization.
          */
         AdvancedLearner learner = new AdvancedLearner(new SGD(alpha, 0), new L2(0.0001)); //alpha von 0.001 scheint besser als 0.01, 0.0001 macht jedoch wieder schlechter
 
@@ -225,97 +205,18 @@ public class NamedEntityRecognitionAndLinkingInjury extends AbstractSemReadProje
          * provide 3 templates that implements standard features like morphological-,
          * context-, and surface form-features.
          *
-         * TODO: Implement further templates / features to solve your problem.
-         *
          */
-
-        this.mode = mode;
 
         featureTemplates = new ArrayList<>();
 
-        switch (mode) {
-            case 1:                                         //alle Templates
-                addNumberTemplates(featureTemplates);
-                addsingleContextTemplates(featureTemplates);
-                addDoubleContextTemplates(featureTemplates);
-                addSingleMentionTemplates(featureTemplates);
-                featureTemplates.add(new ML12Template());
-//                addNormalizationtemplates(featureTemplates);
-                addDoubleComparisonTemplates(featureTemplates);
-                break;
-            case 2:                                         //alle ohne ML12
-                addNumberTemplates(featureTemplates);
-                addsingleContextTemplates(featureTemplates);
-                addDoubleContextTemplates(featureTemplates);
-                addSingleMentionTemplates(featureTemplates);
-//                addNormalizationtemplates(featureTemplates);
-                addDoubleComparisonTemplates(featureTemplates);
-                break;
-
-            case 3:                                        //alle ohne DoubleContext
-                addNumberTemplates(featureTemplates);
-                addsingleContextTemplates(featureTemplates);
-                addSingleMentionTemplates(featureTemplates);
-                featureTemplates.add(new ML12Template());
-//                addNormalizationtemplates(featureTemplates);
-                addDoubleComparisonTemplates(featureTemplates);
-                break;
-
-            case 4:                                         //alle ohne SingleContext
-                addNumberTemplates(featureTemplates);
-                addDoubleContextTemplates(featureTemplates);
-                addSingleMentionTemplates(featureTemplates);
-                featureTemplates.add(new ML12Template());
-//                addNormalizationtemplates(featureTemplates);
-                addDoubleComparisonTemplates(featureTemplates);
-                break;
-
-            case 5:                                         //alle ohne Numbertemplates
-                addsingleContextTemplates(featureTemplates);
-                addDoubleContextTemplates(featureTemplates);
-                addSingleMentionTemplates(featureTemplates);
-                featureTemplates.add(new ML12Template());
-//                addNormalizationtemplates(featureTemplates);
-                addDoubleComparisonTemplates(featureTemplates);
-                break;
-
-            case 6:                                          //alle ohne singlemention
-                addNumberTemplates(featureTemplates);
-                addsingleContextTemplates(featureTemplates);
-                addDoubleContextTemplates(featureTemplates);
-                featureTemplates.add(new ML12Template());
-//                addNormalizationtemplates(featureTemplates);
-                addDoubleComparisonTemplates(featureTemplates);
-                break;
-            case 7:                                         //alle ohne DoubleComparison
-                addNumberTemplates(featureTemplates);
-                addsingleContextTemplates(featureTemplates);
-                addDoubleContextTemplates(featureTemplates);
-                addSingleMentionTemplates(featureTemplates);
-                featureTemplates.add(new ML12Template());
-//                addDoubleComparisonTemplates(featureTemplates);
-                break;
-        }
-//
-//        featureTemplates.add(new AMFLTemplate());
-//        featureTemplates.add(new BMFLTemplate());
+        addNumberTemplates(featureTemplates);
+        addsingleContextTemplates(featureTemplates);
+        addDoubleContextTemplates(featureTemplates);
+        addSingleMentionTemplates(featureTemplates);
+        featureTemplates.add(new ML12Template());
+        addDoubleComparisonTemplates(featureTemplates);
 
 
-//		featureTemplates.add(new WMTemplate()); //scheint nichts beizutragen, obwohl einzeln nicht schlecht
-
-
-//		featureTemplates.add(new WBOTemplate());
-
-
-        //		featureTemplates.add(new WeightBetweenTemplate());
-
-
-//		featureTemplates.add(new MorphologicalNerlaTemplate());
-//		featureTemplates.add(new TokenContextTemplate());
-//		featureTemplates.add(new IntraTokenTemplate());
-//		featureTemplates.add(new LevenshteinTemplate());
-
-//		featureTemplates.add(new AvgNumberTemplate());
 
         /**
          * During exploration we initialize each state with no annotations. In NERLA
@@ -328,7 +229,6 @@ public class NamedEntityRecognitionAndLinkingInjury extends AbstractSemReadProje
         /**
          * Number of epochs, the system should train.
          *
-         * TODO: Find perfect number of epochs.
          */
         int numberOfEpochs = 10;  //10 scheint doppelt so gut wie 9, danach wohl keine Besserung
 
@@ -370,9 +270,6 @@ public class NamedEntityRecognitionAndLinkingInjury extends AbstractSemReadProje
          *
          * For now, we chose a simple epoch switch strategy that switches between greedy
          * objective score and greedy models score every epoch.
-         *
-         * TODO: Although many problems seem to work well with this strategy there are
-         * certainly better strategies.
          */
 //		AbstractSampler sampler = SamplerCollection.greedyModelStrategy();
 //		AbstractSampler sampler = SamplerCollection.greedyObjectiveStrategy();
@@ -448,14 +345,8 @@ public class NamedEntityRecognitionAndLinkingInjury extends AbstractSemReadProje
         Map<Instance, State> results = crf.predict(instanceProvider.getInstances(), maxStepCrit,
                 noModelChangeCrit);
 
-        /**
-         * Finally, we evaluate the produced states and print some statistics.
-         */
 
-//		log.info(crf.getTrainingStatistics());
-//		log.info(crf.getTestStatistics());
-
-
+        //for saving the results into a table
 //        StatSaver.addToSpreadsheet("statistics/injury_stats.ods", featureTemplates, mean.getF1(), crf.getTrainingStatistics().getTotalDuration()+crf.getTestStatistics().getTotalDuration(),
 //                crf.getTrainingStatistics().getTotalDuration(),crf.getTestStatistics().getTotalDuration(), alpha);
 
@@ -488,15 +379,6 @@ public class NamedEntityRecognitionAndLinkingInjury extends AbstractSemReadProje
         mean = evaluate(log, results);
 
 
-
-
-
-
-
-        /**
-         * TODO: Compare results with results when changing some parameter. Implement
-         * more sophisticated feature-templates.
-         */
     }
 
     private void addNumberTemplates(List<AbstractFeatureTemplate> featureTemplates) {
@@ -531,12 +413,6 @@ public class NamedEntityRecognitionAndLinkingInjury extends AbstractSemReadProje
         featureTemplates.add(new OverlappingTemplate(false));
         featureTemplates.add(new SimilarWordsTemplate());
     }
-
-    private void addNormalizationtemplates(List<AbstractFeatureTemplate> featureTemplates) {
-        featureTemplates.add(new NormalizedWeightTemplate());
-        featureTemplates.add(new NormalizedAgeTemplate());
-    }
-
 
     public SemanticParsingCRF getCRF() {
         return crf;

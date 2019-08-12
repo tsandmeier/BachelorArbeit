@@ -137,9 +137,6 @@ public abstract class AbstractInterpreter implements ILiteralInterpreter {
 	protected static String clean(final String dosage) {
 
 		String interprete = dosage.toLowerCase();
-		/*
-		 * TODO: Bad heuristic!?
-		 */
 		interprete = interprete.replaceAll(BAD_CHAR, "µ");
 		interprete = interprete.replaceAll("\\s", "");
 		interprete = interprete.replaceAll("\\.", "");

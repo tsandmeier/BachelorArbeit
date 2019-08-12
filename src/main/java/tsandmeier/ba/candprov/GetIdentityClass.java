@@ -45,9 +45,6 @@ public class GetIdentityClass implements INerlaCandidateProvider {
      */
     public GetIdentityClass(final File dictionaryFile) {
 
-        /**
-         * TODO: check file contents format.
-         */
 
 
         try {

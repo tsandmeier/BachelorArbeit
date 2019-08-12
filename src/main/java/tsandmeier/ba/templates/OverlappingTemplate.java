@@ -13,7 +13,7 @@ import java.util.List;
 import java.util.Objects;
 
 /**
- *
+ * Checks for Overlapping Words in Two Mentions.
  */
 public class OverlappingTemplate extends AbstractFeatureTemplate<OverlappingTemplate.EmptyScope> {
 
@@ -67,13 +67,11 @@ public class OverlappingTemplate extends AbstractFeatureTemplate<OverlappingTemp
 
         @Override
         public int implementHashCode() {
-            // TODO Auto-generated method stub
             return 0;
         }
 
         @Override
         public boolean implementEquals(Object obj) {
-            // TODO Auto-generated method stub
             return false;
         }
 

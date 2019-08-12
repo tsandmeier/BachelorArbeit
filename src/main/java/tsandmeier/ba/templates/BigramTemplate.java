@@ -13,6 +13,9 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;
 
+/**
+ * splits the mention into parts of size n
+ */
 
 public class BigramTemplate extends AbstractFeatureTemplate<BigramTemplate.BigramScope> {
 
@@ -24,7 +27,7 @@ public class BigramTemplate extends AbstractFeatureTemplate<BigramTemplate.Bigra
         super();
     }
 
-    private static final int MAX_NGRAM_SIZE = 5; //2 scheint das beste zu sein
+    private static final int MAX_NGRAM_SIZE = 5; //5 seems to be the most efficient
     private static final int MIN_NGRAM_SIZE = 2;
 
     /**
@@ -71,14 +74,7 @@ public class BigramTemplate extends AbstractFeatureTemplate<BigramTemplate.Bigra
 
     @Override
     public List<BigramScope> generateFactorScopes(State state) {
-
-        /**
-         * The list of factors. One factor for each annotation.
-         */
         final List<BigramScope> factors = new ArrayList<>();
-		/*
-		 * Get the current annotations of the state.
-		 */
         for (DocumentLinkedAnnotation annotation: super.<DocumentLinkedAnnotation>getPredictedAnnotations(state)) {
             EntityType entityType = annotation.getEntityType();
             factors.add(new BigramScope(this, annotation.relatedTokens, entityType));
@@ -89,19 +85,6 @@ public class BigramTemplate extends AbstractFeatureTemplate<BigramTemplate.Bigra
 
     @Override
     public void generateFeatureVector(Factor<BigramScope> factor) {
-
-		/*
-		 * This method is called after the factor generation, but only if the factors
-		 * were not be cached previously! In this method, we first get the factor scope
-		 * and the feature vector and compute features based on the variables of the
-		 * scope in order to add them to the feature vector.
-		 */
-
-        /**
-         * The scope that was previously created. Here, we have access to all previously
-         * filled variables.
-         */
-
         EntityType et = factor.getFactorScope().entityType;
         List<DocumentToken> tokens = factor.getFactorScope().tokens;
 

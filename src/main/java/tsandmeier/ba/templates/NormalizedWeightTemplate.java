@@ -16,7 +16,7 @@ import java.util.Objects;
 
 /**
  /**
- * checks the range of an age, if there is an age and an animal mentioned in the same document
+ * checks the range of a weight, if there is a weight and an animal mentioned in the same document
  */
 
 public class NormalizedWeightTemplate extends AbstractFeatureTemplate<NormalizedWeightTemplate.NormalizedWeightFactor> {
@@ -57,13 +57,11 @@ public class NormalizedWeightTemplate extends AbstractFeatureTemplate<Normalized
 
         @Override
         public int implementHashCode() {
-            // TODO Auto-generated method stub
             return 0;
         }
 
         @Override
         public boolean implementEquals(Object obj) {
-            // TODO Auto-generated method stub
             return false;
         }
 

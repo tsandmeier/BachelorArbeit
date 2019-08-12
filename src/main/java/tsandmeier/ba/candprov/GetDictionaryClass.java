@@ -56,10 +56,6 @@ public class GetDictionaryClass implements INerlaCandidateProvider {
 	 */
 	public GetDictionaryClass(final File dictionaryFile) {
 
-		/**
-		 * TODO: check file contents format.
-		 */
-
 
 
 		try {

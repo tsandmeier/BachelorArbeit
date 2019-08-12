@@ -15,7 +15,6 @@ import java.util.Objects;
 
 /**
  * Checks if a mention starts with a capital, if it's not in the beginning of a sentence
- * TODO: Schauen ob immer lower case oder immer uppercase
  */
 public class StartsWithCapitalTemplate extends AbstractFeatureTemplate<StartsWithCapitalTemplate.StartsWithCapitalScope> {
 
@@ -36,13 +35,11 @@ public class StartsWithCapitalTemplate extends AbstractFeatureTemplate<StartsWit
 
         @Override
         public int implementHashCode() {
-            // TODO Auto-generated method stub
             return 0;
         }
 
         @Override
         public boolean implementEquals(Object obj) {
-            // TODO Auto-generated method stub
             return false;
         }
 

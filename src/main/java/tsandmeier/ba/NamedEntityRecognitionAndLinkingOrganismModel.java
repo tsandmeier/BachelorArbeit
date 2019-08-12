@@ -18,8 +18,6 @@ import de.hterhors.semanticmr.crf.sampling.stopcrit.ISamplingStoppingCriterion;
 import de.hterhors.semanticmr.crf.sampling.stopcrit.impl.ConverganceCrit;
 import de.hterhors.semanticmr.crf.sampling.stopcrit.impl.MaxChainLengthCrit;
 import de.hterhors.semanticmr.crf.structure.IEvaluatable;
-import de.hterhors.semanticmr.crf.structure.annotations.AbstractAnnotation;
-import de.hterhors.semanticmr.crf.structure.annotations.DocumentLinkedAnnotation;
 import de.hterhors.semanticmr.crf.templates.AbstractFeatureTemplate;
 import de.hterhors.semanticmr.crf.variables.Annotations;
 import de.hterhors.semanticmr.crf.variables.IStateInitializer;
@@ -27,8 +25,6 @@ import de.hterhors.semanticmr.crf.variables.Instance;
 import de.hterhors.semanticmr.crf.variables.State;
 import de.hterhors.semanticmr.eval.EEvaluationDetail;
 import de.hterhors.semanticmr.init.specifications.SystemScope;
-import de.hterhors.semanticmr.json.nerla.JsonNerlaIO;
-import de.hterhors.semanticmr.json.nerla.wrapper.JsonEntityAnnotationWrapper;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import tsandmeier.ba.candprov.GetDictionaryClass;
@@ -40,17 +36,15 @@ import tsandmeier.ba.templates.*;
 import java.io.File;
 import java.io.IOException;
 import java.util.*;
-import java.util.stream.Collectors;
 
 /**
  * Example of how to perform named entity recognition and linking.
  */
-public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProject {
-    private static Logger log = LogManager.getFormatterLogger("NamedEntityRecognitionAndLinkingExample");
+public class NamedEntityRecognitionAndLinkingOrganismModel extends AbstractSemReadProject {
+    private static Logger log = LogManager.getFormatterLogger("NamedEntityRecognitionAndLinkingOrganismModel");
     private double alpha = 0.001;
-    private final boolean overrideModel = true;
+    private final boolean overrideModel = false;
     SemanticParsingCRF crf;
-    private int mode;
     List<AbstractFeatureTemplate> featureTemplates;
     IEvaluatable.Score mean;
 
@@ -70,14 +64,7 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
      * @throws IOException
      */
     public static void main(String[] args) throws IOException {
-        String arg1 = args[0];
-        String arg2 = args[1];
-        int mode = Integer.valueOf(arg1);
-        double alpha = Double.valueOf(arg2);
-        if (mode < 1 || mode > 7) {
-            System.out.println("UNGÜLTIGER MODE");
-        }
-        new NamedEntityRecognitionAndLinkingExample().startProcedure(mode, alpha);
+        new NamedEntityRecognitionAndLinkingOrganismModel().startProcedure();
     }
 
     /**
@@ -98,7 +85,7 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
      */
     private final File instanceDirectory = new File("src/main/resources/examples/nerla/organismModel/corpus/instances/");
 
-    public NamedEntityRecognitionAndLinkingExample() {
+    public NamedEntityRecognitionAndLinkingOrganismModel() {
 
         /**
          * 1. STEP initialize the system.
@@ -135,9 +122,7 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
 
     }
 
-    public void startProcedure(int mode, double alpha) throws IOException {
-
-        this.alpha = alpha;
+    public void startProcedure() throws IOException {
 
         /**
          * 2. STEP read and distribute the corpus.
@@ -151,7 +136,7 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
          *
          */
         AbstractCorpusDistributor shuffleCorpusDistributor = new ShuffleCorpusDistributor.Builder()
-                .setCorpusSizeFraction(1F).setTrainingProportion(80).setTestProportion(20).setSeed(100L).build();
+                .setCorpusSizeFraction(1F).setTrainingProportion(80).setTestProportion(20).build();
 
         /**
          * The instance provider reads all json files in the given directory. We can set
@@ -213,7 +198,6 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
          * the alpha value that is specified in the SGD (first parameter) and the
          * L2-regularization value.
          *
-         * TODO: find best alpha value in combination with L2-regularization.
          */
         AdvancedLearner learner = new AdvancedLearner(new SGD(alpha, 0), new L2(0.0001)); //alpha von 0.001 scheint besser als 0.01, 0.0001 macht jedoch wieder schlechter
 
@@ -222,187 +206,18 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
          * provide 3 templates that implements standard features like morphological-,
          * context-, and surface form-features.
          *
-         * TODO: Implement further templates / features to solve your problem.
-         *
          */
-
-        this.mode = mode;
 
         featureTemplates = new ArrayList<>();
 
+        addNumberTemplates(featureTemplates);
         addsingleContextTemplates(featureTemplates);
-        addSingleMentionTemplates(featureTemplates);
         addDoubleContextTemplates(featureTemplates);
+        addSingleMentionTemplates(featureTemplates);
+        featureTemplates.add(new ML12Template());
+        addNormalizationtemplates(featureTemplates);
+        addDoubleComparisonTemplates(featureTemplates);
 
-
-
-        boolean optimizeMode = true;
-        boolean onlyDoubleContext = false;
-        if (!optimizeMode && !onlyDoubleContext) {
-            switch (mode) {
-                case 1:                                         //alle Templates
-                    addNumberTemplates(featureTemplates);
-                    addsingleContextTemplates(featureTemplates);
-                    addDoubleContextTemplates(featureTemplates);
-                    addSingleMentionTemplates(featureTemplates);
-                    featureTemplates.add(new ML12Template());
-                    addNormalizationtemplates(featureTemplates);
-                    addDoubleComparisonTemplates(featureTemplates);
-                    break;
-                case 2:                                         //alle ohne ML12
-                    addNumberTemplates(featureTemplates);
-                    addsingleContextTemplates(featureTemplates);
-                    addDoubleContextTemplates(featureTemplates);
-                    addSingleMentionTemplates(featureTemplates);
-                    addNormalizationtemplates(featureTemplates);
-                    addDoubleComparisonTemplates(featureTemplates);
-                    break;
-
-                case 3:                                        //alle ohne DoubleContext
-                    addNumberTemplates(featureTemplates);
-                    addsingleContextTemplates(featureTemplates);
-                    addSingleMentionTemplates(featureTemplates);
-                    featureTemplates.add(new ML12Template());
-                    addNormalizationtemplates(featureTemplates);
-                    addDoubleComparisonTemplates(featureTemplates);
-                    break;
-
-                case 4:                                         //alle ohne SingleContext
-                    addNumberTemplates(featureTemplates);
-                    addDoubleContextTemplates(featureTemplates);
-                    addSingleMentionTemplates(featureTemplates);
-                    featureTemplates.add(new ML12Template());
-                    addNormalizationtemplates(featureTemplates);
-                    addDoubleComparisonTemplates(featureTemplates);
-                    break;
-
-                case 5:                                         //alle ohne Numbertemplates
-                    addsingleContextTemplates(featureTemplates);
-                    addDoubleContextTemplates(featureTemplates);
-		    addSingleMentionTemplates(featureTemplates);
-                    featureTemplates.add(new ML12Template());
-                    addNormalizationtemplates(featureTemplates);
-                    addDoubleComparisonTemplates(featureTemplates);
-                    break;
-
-                case 6:                                          //alle ohne singlemention
-                    addNumberTemplates(featureTemplates);
-                    addsingleContextTemplates(featureTemplates);
-                    addDoubleContextTemplates(featureTemplates);
-                    featureTemplates.add(new ML12Template());
-                    addNormalizationtemplates(featureTemplates);
-                    addDoubleComparisonTemplates(featureTemplates);
-                    break;
-                case 7:                                         //alle ohne Normalization
-                    addNumberTemplates(featureTemplates);
-                    addsingleContextTemplates(featureTemplates);
-                    addDoubleContextTemplates(featureTemplates);
-                    addSingleMentionTemplates(featureTemplates);
-                    featureTemplates.add(new ML12Template());
-                    addDoubleComparisonTemplates(featureTemplates);
-                    break;
-                case 8:                                         //alle ohne DoubleComparison
-                    addNumberTemplates(featureTemplates);
-                    addsingleContextTemplates(featureTemplates);
-                    addDoubleContextTemplates(featureTemplates);
-                    addSingleMentionTemplates(featureTemplates);
-                    featureTemplates.add(new ML12Template());
-                    addNormalizationtemplates(featureTemplates);
-                    break;
-            }
-        } else if (optimizeMode) {	//Mode ohne POS & Normalization
-            switch (mode) {
-                case 1:                                         //alle Templates
-                    addsingleContextTemplates(featureTemplates);
-                    addDoubleContextTemplates(featureTemplates);
-                    addSingleMentionTemplates(featureTemplates);
-                    addDoubleComparisonTemplates(featureTemplates);
-		    addNumberTemplates(featureTemplates);
-                    break;
-                case 2:                                         //ohne DoubleComparison
-                    addsingleContextTemplates(featureTemplates);
-                    addDoubleContextTemplates(featureTemplates);
-                    addSingleMentionTemplates(featureTemplates);
-                    addNumberTemplates(featureTemplates);
-                    break;
-                case 3:                                         //ohne SingleMention
-                    addsingleContextTemplates(featureTemplates);
-                    addDoubleContextTemplates(featureTemplates);
-                    addDoubleComparisonTemplates(featureTemplates);
-                    addNormalizationtemplates(featureTemplates);
-                    break;
-                case 4:                                         //ohne DoubleContext
-      		    addsingleContextTemplates(featureTemplates);
-                    addSingleMentionTemplates(featureTemplates);
-                    addDoubleComparisonTemplates(featureTemplates);
-                    addNumberTemplates(featureTemplates);
-                    break;
-                case 5:                        //ohne SingleContext
-                    addDoubleContextTemplates(featureTemplates);
-                    addDoubleComparisonTemplates(featureTemplates);
-                    addSingleMentionTemplates(featureTemplates);
-		    addNumberTemplates(featureTemplates);
-                case 6:                        //ohne Number
-                    addDoubleContextTemplates(featureTemplates);
-                    addDoubleComparisonTemplates(featureTemplates);
-                    addSingleMentionTemplates(featureTemplates);
-                    addsingleContextTemplates(featureTemplates);
-            }
-        } else if (onlyDoubleContext) {
-            switch (mode) {                    //alle
-                case 1:
-                    featureTemplates.add(new MentionsInSentenceTemplate());
-                    featureTemplates.add(new WordsInBetweenTemplate());
-                    featureTemplates.add(new WBTemplate());
-                    featureTemplates.add(new RootTypeTemplate());
-                    featureTemplates.add(new WBOTemplate());
-                    break;
-                case 2:
-                    featureTemplates.add(new MentionsInSentenceTemplate()); //ohne WBO
-                    featureTemplates.add(new WordsInBetweenTemplate());
-                    featureTemplates.add(new WBTemplate());
-                    featureTemplates.add(new RootTypeTemplate());
-                    break;
-                case 3:
-                    featureTemplates.add(new MentionsInSentenceTemplate()); //ohne RootType
-                    featureTemplates.add(new WordsInBetweenTemplate());
-                    featureTemplates.add(new WBTemplate());
-                    featureTemplates.add(new WBOTemplate());
-                    break;
-                case 4:
-                    featureTemplates.add(new MentionsInSentenceTemplate()); //ohne WB
-                    featureTemplates.add(new WordsInBetweenTemplate());
-                    featureTemplates.add(new RootTypeTemplate());
-                    featureTemplates.add(new WBOTemplate());
-                    break;
-		case 5:
-                    featureTemplates.add(new MentionsInSentenceTemplate()); //ohne WordsInBetween
-                    featureTemplates.add(new WBTemplate());
-                    featureTemplates.add(new RootTypeTemplate());
-                    featureTemplates.add(new WBOTemplate());
-            }
-        }
-
-	
-//        featureTemplates.add(new AMFLTemplate());
-//        featureTemplates.add(new BMFLTemplate());
-
-
-//		featureTemplates.add(new WMTemplate()); //scheint nichts beizutragen, obwohl einzeln nicht schlecht
-
-
-//		featureTemplates.add(new WBOTemplate());
-
-
-        //		featureTemplates.add(new WeightBetweenTemplate());
-
-
-//		featureTemplates.add(new MorphologicalNerlaTemplate());
-//		featureTemplates.add(new TokenContextTemplate());
-//		featureTemplates.add(new IntraTokenTemplate());
-//		featureTemplates.add(new LevenshteinTemplate());
-
-//		featureTemplates.add(new AvgNumberTemplate());
 
         /**
          * During exploration we initialize each state with no annotations. In NERLA
@@ -415,7 +230,6 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
         /**
          * Number of epochs, the system should train.
          *
-         * TODO: Find perfect number of epochs.
          */
         int numberOfEpochs = 10;  //10 scheint doppelt so gut wie 9, danach wohl keine Besserung
 
@@ -458,8 +272,6 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
          * For now, we chose a simple epoch switch strategy that switches between greedy
          * objective score and greedy models score every epoch.
          *
-         * TODO: Although many problems seem to work well with this strategy there are
-         * certainly better strategies.
          */
 //		AbstractSampler sampler = SamplerCollection.greedyModelStrategy();
 //		AbstractSampler sampler = SamplerCollection.greedyObjectiveStrategy();
@@ -473,9 +285,8 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
          * NOTE: Make sure that the base model directory exists!
          */
         final File modelBaseDir = new File("models/nerla/organismModel/");
-//        final String modelName = "NERLA1234" + new Random().nextInt(10000);
+        final String modelName = "NERLA1234" + new Random().nextInt(10000);
 //        final String modelName = "testModel";
-        final String modelName = "NERLA12345786";
 
         Model model;
 
@@ -535,65 +346,54 @@ public class NamedEntityRecognitionAndLinkingExample extends AbstractSemReadProj
                 noModelChangeCrit);
 
 
-
         /**
          * Finally, we evaluate the produced states and print some statistics.
          */
         mean = evaluate(log, results);
 
-//		log.info(crf.getTrainingStatistics());
-//		log.info(crf.getTestStatistics());
-
-        System.out.println(crf.getTrainingStatistics());
-        System.out.println(crf.getTestStatistics());
+		log.info(crf.getTrainingStatistics());
+		log.info(crf.getTestStatistics());
 
 
-        StatSaver.addToSpreadsheet("statistics/organismModel_stats_no_POS_Norm.ods", featureTemplates, mean.getF1(), crf.getTrainingStatistics().getTotalDuration() + crf.getTestStatistics().getTotalDuration(),
-                crf.getTrainingStatistics().getTotalDuration(), crf.getTestStatistics().getTotalDuration(), alpha);
+            //for saving the results into a table
+        //StatSaver.addToSpreadsheet("statistics/organismModel_stats_no_POS_Norm_new.ods", featureTemplates, mean.getF1(), crf.getTrainingStatistics().getTotalDuration() + crf.getTestStatistics().getTotalDuration(),
+        //        crf.getTrainingStatistics().getTotalDuration(), crf.getTestStatistics().getTotalDuration(), alpha);
 
 
 //        Map<Instance, State> results = crf.predictHighRecall(instanceProvider.getInstances(),5, maxStepCrit,
 //                noModelChangeCrit);
 
-        //TODO: Mit PredictHighrecall ausprobieren
 
 
+        //To get the Json Files
 
+        //      Map<Instance, Set<DocumentLinkedAnnotation>> annotations = new HashMap<>();
 
-        //Ausgeben der Json Files
+        //     for (Map.Entry<Instance, State> result : results.entrySet()) {
+        //       for (AbstractAnnotation aa : result.getValue().getCurrentPredictions().getAnnotations()) {
 
-  //      Map<Instance, Set<DocumentLinkedAnnotation>> annotations = new HashMap<>();
-
-   //     for (Map.Entry<Instance, State> result : results.entrySet()) {
-     //       for (AbstractAnnotation aa : result.getValue().getCurrentPredictions().getAnnotations()) {
-
-       //         annotations.putIfAbsent(result.getKey(), new HashSet<>());
-         //       annotations.get(result.getKey()).add(aa.asInstanceOfDocumentLinkedAnnotation());
-         //   }
-      //  }
+        //         annotations.putIfAbsent(result.getKey(), new HashSet<>());
+        //       annotations.get(result.getKey()).add(aa.asInstanceOfDocumentLinkedAnnotation());
+        //   }
+        //  }
 
 //        JsonNerlaIO io = new JsonNerlaIO(true);
 
 //       for (Instance instance : results.keySet()) {
 
 
+        //          List<JsonEntityAnnotationWrapper> wrappedAnnotation = annotations.get(instance).stream()
+        //                .map(d -> new JsonEntityAnnotationWrapper(d))
+        //               .collect(Collectors.toList());
+        //        io.writeNerlas(new File("jsonFiles/OrganismModel/HighRecall30/"+instance.getName() + ".nerla.json"), wrappedAnnotation);
 
-  //          List<JsonEntityAnnotationWrapper> wrappedAnnotation = annotations.get(instance).stream()
-    //                .map(d -> new JsonEntityAnnotationWrapper(d))
-    //               .collect(Collectors.toList());
-    //        io.writeNerlas(new File("jsonFiles/OrganismModel/HighRecall30/"+instance.getName() + ".nerla.json"), wrappedAnnotation);
+        //  }
 
-     //  }
-	
 //
 //        IEvaluatable.Score mean = evaluate(log, results);
 //        System.out.println(crf.getTrainingStatistics());
 //        System.out.println(crf.getTestStatistics());
 
-        /**
-         * TODO: Compare results with results when changing some parameter. Implement
-         * more sophisticated feature-templates.
-         */
     }
 
     private void addNumberTemplates(List<AbstractFeatureTemplate> featureTemplates) {

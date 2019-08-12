@@ -13,8 +13,7 @@ import java.util.List;
 import java.util.Objects;
 
 /**
- * @author hterhors
- * @date Nov 15, 2017
+ * Checks for Similar Words in tow Mentions.
  */
 public class SimilarWordsTemplate extends AbstractFeatureTemplate<SimilarWordsTemplate.OverlappingScope> {
 
@@ -37,13 +36,11 @@ public class SimilarWordsTemplate extends AbstractFeatureTemplate<SimilarWordsTe
 
         @Override
         public int implementHashCode() {
-            // TODO Auto-generated method stub
             return 0;
         }
 
         @Override
         public boolean implementEquals(Object obj) {
-            // TODO Auto-generated method stub
             return false;
         }
 

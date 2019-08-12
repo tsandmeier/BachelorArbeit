@@ -47,7 +47,6 @@ public class BMFLTemplate extends AbstractFeatureTemplate<BMFLTemplate.BMFLScope
 
 		@Override
 		public int implementHashCode() {
-			// TODO Auto-generated method stub
 			return 0;
 		}
 
@@ -69,7 +68,6 @@ public class BMFLTemplate extends AbstractFeatureTemplate<BMFLTemplate.BMFLScope
 
 		@Override
 		public boolean implementEquals(Object obj) {
-			// TODO Auto-generated method stub
 			return false;
 		}
 
