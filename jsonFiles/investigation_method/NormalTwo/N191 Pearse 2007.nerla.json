@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "BBBSubscoreTest",
+    "off": 63768,
+    "sff": "BBB subscores"
+  },
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "FootprintAnalysisTest",
+    "off": 64406,
+    "sff": "rotation of the hind limbs"
+  },
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "CystVolumeTest",
+    "off": 47200,
+    "sff": "cavity formation"
+  },
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "FootprintAnalysisTest",
+    "off": 64702,
+    "sff": "foot rotation"
+  },
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "FootprintAnalysisTest",
+    "off": 42873,
+    "sff": "foot rotation"
+  },
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "FootprintAnalysisTest",
+    "off": 42730,
+    "sff": "base of support"
+  },
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "FootprintAnalysisTest",
+    "off": 42776,
+    "sff": "stride length"
+  },
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "BBBSubscoreTest",
+    "off": 63671,
+    "sff": "BBB subscore"
+  },
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "FootprintAnalysisTest",
+    "off": 64572,
+    "sff": "rotation of the hind limbs"
+  }
+]

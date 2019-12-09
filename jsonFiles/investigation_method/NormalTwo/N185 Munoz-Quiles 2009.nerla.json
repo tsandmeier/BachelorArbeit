@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "LesionVolumeTest",
+    "off": 29801,
+    "sff": "mean volume of GFAP-negative tissue"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "SinglePelletReachingTest",
+    "off": 22099,
+    "sff": "Movement"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "InclinedPlaneTest",
+    "off": 30660,
+    "sff": "climbing test"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "InclinedPlaneTest",
+    "off": 23479,
+    "sff": "climbing abilities"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "InclinedPlaneTest",
+    "off": 25068,
+    "sff": "climbing performance"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "InclinedPlaneTest",
+    "off": 7686,
+    "sff": "climbing test"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "InclinedPlaneTest",
+    "off": 23359,
+    "sff": "ability to climb"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "NonFunctionalTest",
+    "off": 1638,
+    "sff": "pathology"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "InclinedPlaneTest",
+    "off": 26904,
+    "sff": "maximum climbing performance"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "AutonomicDysreflexiaTest",
+    "off": 6437,
+    "sff": "pressure"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "AutonomicDysreflexiaTest",
+    "off": 3103,
+    "sff": "overall"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "AutonomicDysreflexiaTest",
+    "off": 13649,
+    "sff": "overall"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "HindpawSensationTest",
+    "off": 4641,
+    "sff": "target"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "AutonomicDysreflexiaTest",
+    "off": 18178,
+    "sff": "overall"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "SinglePelletReachingTest",
+    "off": 1494,
+    "sff": "DFR"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "MyelinationTest",
+    "off": 8748,
+    "sff": "percentage"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "MyelinationTest",
+    "off": 12760,
+    "sff": "percentage"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "LocomotorTest",
+    "off": 21057,
+    "sff": "instances"
+  }
+]

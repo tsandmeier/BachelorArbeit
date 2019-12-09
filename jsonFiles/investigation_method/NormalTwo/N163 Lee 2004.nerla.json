@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N163 Lee 2004",
+    "et": "NeuronalChangesTest",
+    "off": 21662,
+    "sff": "size"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "BBBTest",
+    "off": 2375,
+    "sff": "and"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "MyelinationTest",
+    "off": 5492,
+    "sff": "diameter"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "LesionVolumeTest",
+    "off": 22975,
+    "sff": "damage"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "MyelinationTest",
+    "off": 6613,
+    "sff": "diameter"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "MyelinationTest",
+    "off": 7589,
+    "sff": "diameter"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "BBBTest",
+    "off": 21009,
+    "sff": "BBB"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "ElectrophysiologyTest",
+    "off": 13374,
+    "sff": "relative"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "InclinedPlaneTest",
+    "off": 18619,
+    "sff": "maximum"
+  }
+]

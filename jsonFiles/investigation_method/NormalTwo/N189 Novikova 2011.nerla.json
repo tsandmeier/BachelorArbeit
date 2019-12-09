@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N189 Novikova 2011",
+    "et": "NeuronalChangesTest",
+    "off": 45734,
+    "sff": "rubrospinal neurons"
+  },
+  {
+    "docID": "N189 Novikova 2011",
+    "et": "GeneExpressionAnalysis",
+    "off": 42124,
+    "sff": "expression"
+  },
+  {
+    "docID": "N189 Novikova 2011",
+    "et": "NeuronalCellLossTest",
+    "off": 2014,
+    "sff": "cell death"
+  },
+  {
+    "docID": "N189 Novikova 2011",
+    "et": "NeuroprotectionTest",
+    "off": 32056,
+    "sff": "survival rate"
+  },
+  {
+    "docID": "N189 Novikova 2011",
+    "et": "AxonalChangesTest",
+    "off": 32363,
+    "sff": "Quantification of BDA-labeled axonal profiles"
+  },
+  {
+    "docID": "N189 Novikova 2011",
+    "et": "AxonalChangesTest",
+    "off": 32871,
+    "sff": "density of terminal arborizations"
+  },
+  {
+    "docID": "N189 Novikova 2011",
+    "et": "AxonalChangesTest",
+    "off": 32750,
+    "sff": "density of rubrospinal stem axons"
+  },
+  {
+    "docID": "N189 Novikova 2011",
+    "et": "AxonalRegenerationTest",
+    "off": 1498,
+    "sff": "regrowth"
+  },
+  {
+    "docID": "N189 Novikova 2011",
+    "et": "GeneExpressionAnalysis",
+    "off": 39998,
+    "sff": "expression"
+  }
+]

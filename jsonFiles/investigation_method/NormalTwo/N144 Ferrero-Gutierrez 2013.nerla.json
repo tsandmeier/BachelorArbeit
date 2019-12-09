@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "AutonomicDysreflexiaTest",
+    "off": 18918,
+    "sff": "pressure"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "NeuronalCellLossTest",
+    "off": 42613,
+    "sff": "cell death"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "BBBTest",
+    "off": 25658,
+    "sff": "locomotor function"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "ScarringTest",
+    "off": 40516,
+    "sff": "glial"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "NonFunctionalTest",
+    "off": 41202,
+    "sff": "pathology"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "AxonalRegenerationTest",
+    "off": 3768,
+    "sff": "regrowth"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "GeneExpressionAnalysis",
+    "off": 45172,
+    "sff": "expression"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "BBBTest",
+    "off": 16246,
+    "sff": "BBB test"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "ScarringTest",
+    "off": 1791,
+    "sff": "glial scar formation"
+  }
+]

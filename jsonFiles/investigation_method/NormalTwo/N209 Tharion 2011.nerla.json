@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "BBBTest",
+    "off": 20179,
+    "sff": "BBB"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "BBBTest",
+    "off": 20707,
+    "sff": "BBB"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 1269,
+    "sff": "motor-evoked potentials"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "GeneExpressionAnalysis",
+    "off": 16827,
+    "sff": "expression"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "GeneExpressionAnalysis",
+    "off": 7484,
+    "sff": "expression"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 11368,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "BBBTest",
+    "off": 8778,
+    "sff": "BBB"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "BBBTest",
+    "off": 11354,
+    "sff": "BBB"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "InvestigationMethod",
+    "off": 7466,
+    "sff": "health"
+  }
+]

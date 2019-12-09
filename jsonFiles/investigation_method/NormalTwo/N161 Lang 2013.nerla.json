@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N161 Lang 2013",
+    "et": "GeneExpressionAnalysis",
+    "off": 10383,
+    "sff": "expressions"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "ProteinLevelAnalysis",
+    "off": 10530,
+    "sff": "expressions of ERK"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "GeneExpressionAnalysis",
+    "off": 4759,
+    "sff": "expression"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "GeneExpressionAnalysis",
+    "off": 13393,
+    "sff": "expression"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "ProteinLevelAnalysis",
+    "off": 1126,
+    "sff": "level of p-ERK"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "HindpawSensationTest",
+    "off": 7499,
+    "sff": "pressure stimuli"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "GeneExpressionAnalysis",
+    "off": 9959,
+    "sff": "mRNA expressions"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "GeneExpressionAnalysis",
+    "off": 4988,
+    "sff": "expression"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "GeneExpressionAnalysis",
+    "off": 12722,
+    "sff": "expressions"
+  }
+]

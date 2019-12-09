@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N248 Imaizumi",
+    "et": "GeneExpressionAnalysis",
+    "off": 7088,
+    "sff": "expression"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "GeneExpressionAnalysis",
+    "off": 6979,
+    "sff": "expression"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "ElectrophysiologyTest",
+    "off": 4700,
+    "sff": "conduction velocity"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "MyelinationTest",
+    "off": 5850,
+    "sff": "myelinated axons"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "ElectrophysiologyTest",
+    "off": 11455,
+    "sff": "relative attenuation"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "GeneExpressionAnalysis",
+    "off": 6779,
+    "sff": "expression"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "GeneExpressionAnalysis",
+    "off": 7372,
+    "sff": "expression"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "GeneExpressionAnalysis",
+    "off": 7449,
+    "sff": "expression"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "GeneExpressionAnalysis",
+    "off": 25098,
+    "sff": "expression"
+  }
+]

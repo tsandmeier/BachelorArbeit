@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N218 Plant 2003",
+    "et": "BBBTest",
+    "off": 44373,
+    "sff": "BBB test"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "NeuronalChangesTest",
+    "off": 30463,
+    "sff": "number of labeled neurons"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "AstrogliosisTest",
+    "off": 13857,
+    "sff": "GFAP"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "NeuronalChangesTest",
+    "off": 22021,
+    "sff": "neurons"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "NeuronalChangesTest",
+    "off": 31079,
+    "sff": "rubrospinal neurons"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "NeuronalChangesTest",
+    "off": 30271,
+    "sff": "number of reticulospinal neurons"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "NeuronalCellLossTest",
+    "off": 41601,
+    "sff": "cell death"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "NeuronalChangesTest",
+    "off": 31062,
+    "sff": "raphespinal"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "GeneExpressionAnalysis",
+    "off": 40277,
+    "sff": "expression"
+  }
+]

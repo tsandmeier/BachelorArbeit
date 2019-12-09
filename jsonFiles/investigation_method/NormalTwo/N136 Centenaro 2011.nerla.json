@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N136 Centenaro 2011",
+    "et": "TissueSparingTest",
+    "off": 15666,
+    "sff": "preserved"
+  },
+  {
+    "docID": "N136 Centenaro 2011",
+    "et": "AutonomicDysreflexiaTest",
+    "off": 42319,
+    "sff": "average"
+  },
+  {
+    "docID": "N136 Centenaro 2011",
+    "et": "AxonalChangesTest",
+    "off": 11696,
+    "sff": "axon profiles"
+  },
+  {
+    "docID": "N136 Centenaro 2011",
+    "et": "LesionVolumeTest",
+    "off": 22798,
+    "sff": "injury sites"
+  },
+  {
+    "docID": "N136 Centenaro 2011",
+    "et": "AutonomicDysreflexiaTest",
+    "off": 42362,
+    "sff": "average"
+  },
+  {
+    "docID": "N136 Centenaro 2011",
+    "et": "LesionVolumeTest",
+    "off": 18059,
+    "sff": "lesion areas"
+  },
+  {
+    "docID": "N136 Centenaro 2011",
+    "et": "GeneExpressionAnalysis",
+    "off": 21384,
+    "sff": "expression"
+  },
+  {
+    "docID": "N136 Centenaro 2011",
+    "et": "AxonalSproutingTest",
+    "off": 9257,
+    "sff": "sprouts"
+  },
+  {
+    "docID": "N136 Centenaro 2011",
+    "et": "AutonomicDysreflexiaTest",
+    "off": 42459,
+    "sff": "average"
+  }
+]

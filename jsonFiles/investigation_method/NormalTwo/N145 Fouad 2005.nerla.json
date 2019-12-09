@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "AxonalRegenerationTest",
+    "off": 36373,
+    "sff": "quantitative analysis of these fibers"
+  },
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "NeuronalChangesTest",
+    "off": 52897,
+    "sff": "rubrospinal neurons"
+  },
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "BBBTest",
+    "off": 16632,
+    "sff": "BBB"
+  },
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "MyelinationTest",
+    "off": 28120,
+    "sff": "number of myelinated axons"
+  },
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "HindpawSensationTest",
+    "off": 35719,
+    "sff": "average target force"
+  },
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "AngiogenesisTest",
+    "off": 27947,
+    "sff": "number of blood vessels"
+  },
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "SpasticityObservation",
+    "off": 29591,
+    "sff": "spasticity was quantified"
+  },
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "GeneExpressionAnalysis",
+    "off": 52974,
+    "sff": "mRNA expression"
+  },
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "GeneExpressionAnalysis",
+    "off": 59969,
+    "sff": "expression"
+  }
+]

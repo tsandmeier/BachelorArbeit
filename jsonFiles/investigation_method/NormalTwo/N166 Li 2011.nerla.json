@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N166 Li 2011",
+    "et": "LesionVolumeTest",
+    "off": 20254,
+    "sff": "area of injured tissue"
+  },
+  {
+    "docID": "N166 Li 2011",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 23163,
+    "sff": "Normal Latency of CSEP"
+  },
+  {
+    "docID": "N166 Li 2011",
+    "et": "TissueSparingTest",
+    "off": 15754,
+    "sff": "intact area"
+  },
+  {
+    "docID": "N166 Li 2011",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 22888,
+    "sff": "amplitude of CSEP"
+  },
+  {
+    "docID": "N166 Li 2011",
+    "et": "MyelinationTest",
+    "off": 20817,
+    "sff": "myelinated nerve fibers"
+  },
+  {
+    "docID": "N166 Li 2011",
+    "et": "MyelinationTest",
+    "off": 1330,
+    "sff": "myelinated nerve fibers"
+  },
+  {
+    "docID": "N166 Li 2011",
+    "et": "MyelinationTest",
+    "off": 1949,
+    "sff": "myelinated nerve fibers"
+  },
+  {
+    "docID": "N166 Li 2011",
+    "et": "MyelinationTest",
+    "off": 10671,
+    "sff": "myelinated nerve fibers"
+  },
+  {
+    "docID": "N166 Li 2011",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 13649,
+    "sff": "amplitude"
+  }
+]

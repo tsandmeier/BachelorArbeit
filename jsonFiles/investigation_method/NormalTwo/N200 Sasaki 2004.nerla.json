@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "NonFunctionalTest",
+    "off": 19623,
+    "sff": "pathology"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "TissueSparingTest",
+    "off": 19585,
+    "sff": "preserved"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "GeneExpressionAnalysis",
+    "off": 32816,
+    "sff": "expression"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "GeneExpressionAnalysis",
+    "off": 32542,
+    "sff": "expression"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "MyelinationTest",
+    "off": 24393,
+    "sff": "number of myelinated axons"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "AxonalChangesTest",
+    "off": 17478,
+    "sff": "axon number"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "MyelinationTest",
+    "off": 26631,
+    "sff": "Myelinated axon counts"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "AxonalChangesTest",
+    "off": 26572,
+    "sff": "numbers of axons"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "OpenFieldTest",
+    "off": 27398,
+    "sff": "open-field locomotor scores"
+  }
+]

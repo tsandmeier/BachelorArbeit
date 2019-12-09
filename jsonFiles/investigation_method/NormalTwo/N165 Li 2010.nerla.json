@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N165 Li 2010",
+    "et": "CystVolumeTest",
+    "off": 11413,
+    "sff": "number"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "GaleRatingScoreTest",
+    "off": 1030,
+    "sff": "score"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "CystVolumeTest",
+    "off": 1321,
+    "sff": "number"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "LocomotorTest",
+    "off": 14987,
+    "sff": "number"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "NeuroprotectionTest",
+    "off": 8743,
+    "sff": "cells"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "BBBTest",
+    "off": 8957,
+    "sff": "scale"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "LocomotorTest",
+    "off": 1588,
+    "sff": "number"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "LocomotorTest",
+    "off": 6659,
+    "sff": "number"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "LocomotorTest",
+    "off": 6689,
+    "sff": "number"
+  }
+]

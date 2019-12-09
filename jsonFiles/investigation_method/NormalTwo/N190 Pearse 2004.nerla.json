@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N190 Pearse 2004",
+    "et": "CystVolumeTest",
+    "off": 24342,
+    "sff": "volume of cavitation"
+  },
+  {
+    "docID": "N190 Pearse 2004",
+    "et": "FootprintAnalysisTest",
+    "off": 28155,
+    "sff": "foot exo-rotation"
+  },
+  {
+    "docID": "N190 Pearse 2004",
+    "et": "CystVolumeTest",
+    "off": 30812,
+    "sff": "volume of cavitation"
+  },
+  {
+    "docID": "N190 Pearse 2004",
+    "et": "LesionVolumeTest",
+    "off": 32170,
+    "sff": "volumes of damaged tissue"
+  },
+  {
+    "docID": "N190 Pearse 2004",
+    "et": "CystVolumeTest",
+    "off": 43215,
+    "sff": "volume of cavitation"
+  },
+  {
+    "docID": "N190 Pearse 2004",
+    "et": "FootprintAnalysisTest",
+    "off": 49141,
+    "sff": "foot exo-rotation"
+  },
+  {
+    "docID": "N190 Pearse 2004",
+    "et": "FootprintAnalysisTest",
+    "off": 28215,
+    "sff": "base of support"
+  },
+  {
+    "docID": "N190 Pearse 2004",
+    "et": "CystVolumeTest",
+    "off": 30692,
+    "sff": "volume of cavitation"
+  },
+  {
+    "docID": "N190 Pearse 2004",
+    "et": "FootprintAnalysisTest",
+    "off": 37968,
+    "sff": "rotation"
+  }
+]

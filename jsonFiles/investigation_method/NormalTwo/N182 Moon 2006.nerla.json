@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N182 Moon 2006",
+    "et": "MortalityObservation",
+    "off": 23993,
+    "sff": "died"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "MortalityObservation",
+    "off": 24283,
+    "sff": "died"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "MortalityObservation",
+    "off": 2014,
+    "sff": "died"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "BBBTest",
+    "off": 14355,
+    "sff": "BBB test"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "MortalityObservation",
+    "off": 23967,
+    "sff": "died"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "MortalityObservation",
+    "off": 32431,
+    "sff": "died"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "MortalityObservation",
+    "off": 18306,
+    "sff": "died"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "MortalityObservation",
+    "off": 23919,
+    "sff": "Mortality"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "LocomotorTest",
+    "off": 30566,
+    "sff": "instances of crawling"
+  }
+]

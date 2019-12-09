@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "LocomotorTest",
+    "off": 4075,
+    "sff": "number"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "NeuronalChangesTest",
+    "off": 1248,
+    "sff": "neuronal"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "BBBTest",
+    "off": 10334,
+    "sff": "testing"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "AxonalChangesTest",
+    "off": 21713,
+    "sff": "terminal"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "ProteinLevelAnalysis",
+    "off": 7208,
+    "sff": "analysis"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "AutonomicDysreflexiaTest",
+    "off": 25831,
+    "sff": "MAP"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "AutonomicDysreflexiaTest",
+    "off": 17384,
+    "sff": "MAP"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "AstrogliosisTest",
+    "off": 12715,
+    "sff": "GFAP"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "AxonalChangesTest",
+    "off": 28091,
+    "sff": "terminal"
+  }
+]

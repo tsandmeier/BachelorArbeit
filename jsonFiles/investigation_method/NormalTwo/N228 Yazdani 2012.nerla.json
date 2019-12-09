@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "GroomingObservation",
+    "off": 20815,
+    "sff": "hygiene"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "GeneExpressionAnalysis",
+    "off": 1774,
+    "sff": "expression"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "InvestigationMethod",
+    "off": 20827,
+    "sff": "health status"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "CystVolumeTest",
+    "off": 21446,
+    "sff": "percentage of cavitaion"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "GeneExpressionAnalysis",
+    "off": 26707,
+    "sff": "expression"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "CystVolumeTest",
+    "off": 21317,
+    "sff": "cavitation area"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "GeneExpressionAnalysis",
+    "off": 10086,
+    "sff": "expression"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "MortalityObservation",
+    "off": 20389,
+    "sff": "mortality"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "NeuronalChangesTest",
+    "off": 29946,
+    "sff": "rubrospinal neurons"
+  }
+]

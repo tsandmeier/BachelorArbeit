@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N142 Deumens 2006 2",
+    "et": "AutomatedGaitAnalysis",
+    "off": 5468,
+    "sff": "stride length"
+  },
+  {
+    "docID": "N142 Deumens 2006 2",
+    "et": "FootprintAnalysisTest",
+    "off": 37515,
+    "sff": "base of support"
+  },
+  {
+    "docID": "N142 Deumens 2006 2",
+    "et": "AutomatedGaitAnalysis",
+    "off": 22112,
+    "sff": "swing speed"
+  },
+  {
+    "docID": "N142 Deumens 2006 2",
+    "et": "FootprintAnalysisTest",
+    "off": 38232,
+    "sff": "base of support"
+  },
+  {
+    "docID": "N142 Deumens 2006 2",
+    "et": "AxonalRegenerationTest",
+    "off": 16875,
+    "sff": "BDA immunoreactivity"
+  },
+  {
+    "docID": "N142 Deumens 2006 2",
+    "et": "FootprintAnalysisTest",
+    "off": 38203,
+    "sff": "rotation"
+  },
+  {
+    "docID": "N142 Deumens 2006 2",
+    "et": "GeneExpressionAnalysis",
+    "off": 46726,
+    "sff": "mRNA expression"
+  },
+  {
+    "docID": "N142 Deumens 2006 2",
+    "et": "FootprintAnalysisTest",
+    "off": 28755,
+    "sff": "base of support"
+  },
+  {
+    "docID": "N142 Deumens 2006 2",
+    "et": "AutomatedGaitAnalysis",
+    "off": 18488,
+    "sff": "base of support"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "ElectrophysiologyTest",
+    "off": 7819,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "ElectrophysiologyTest",
+    "off": 13714,
+    "sff": "CAPs"
+  },
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "ElectrophysiologyTest",
+    "off": 18899,
+    "sff": "CAPs"
+  },
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "AxonalChangesTest",
+    "off": 1363,
+    "sff": "axon areas"
+  },
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "ElectrophysiologyTest",
+    "off": 26857,
+    "sff": "CAPs"
+  },
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "ElectrophysiologyTest",
+    "off": 14167,
+    "sff": "CAP amplitude"
+  },
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "ElectrophysiologyTest",
+    "off": 1225,
+    "sff": "Conduction velocity"
+  },
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "ElectrophysiologyTest",
+    "off": 17470,
+    "sff": "CAPs"
+  },
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "AxonalChangesTest",
+    "off": 27279,
+    "sff": "axon profiles"
+  }
+]

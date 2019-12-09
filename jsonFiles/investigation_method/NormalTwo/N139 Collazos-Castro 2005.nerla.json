@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "NonFunctionalTest",
+    "off": 36819,
+    "sff": "pathology"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "NeuronalChangesTest",
+    "off": 3778,
+    "sff": "neurons"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "WalkingAnalysisTest",
+    "off": 4970,
+    "sff": "elbow extension"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "ElectrophysiologyTest",
+    "off": 12024,
+    "sff": "velocity"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "AxonalSproutingTest",
+    "off": 27266,
+    "sff": "sprouts"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "AxonalSproutingTest",
+    "off": 27208,
+    "sff": "sprouts"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "TissueSparingTest",
+    "off": 28769,
+    "sff": "preserved"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "AutomatedGaitAnalysis",
+    "off": 11955,
+    "sff": "swing"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "AutomatedGaitAnalysis",
+    "off": 31760,
+    "sff": "swing"
+  }
+]

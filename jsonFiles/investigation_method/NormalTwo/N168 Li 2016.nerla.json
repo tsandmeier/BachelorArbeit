@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N168 Li 2016",
+    "et": "SensoryTest",
+    "off": 9453,
+    "sff": "withdrawal"
+  },
+  {
+    "docID": "N168 Li 2016",
+    "et": "SensoryTest",
+    "off": 11078,
+    "sff": "mechanical"
+  },
+  {
+    "docID": "N168 Li 2016",
+    "et": "MyelinationTest",
+    "off": 7423,
+    "sff": "diameter"
+  },
+  {
+    "docID": "N168 Li 2016",
+    "et": "LesionVolumeTest",
+    "off": 13276,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N168 Li 2016",
+    "et": "NeuroprotectionTest",
+    "off": 11166,
+    "sff": "numbers"
+  },
+  {
+    "docID": "N168 Li 2016",
+    "et": "CystVolumeTest",
+    "off": 16121,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N168 Li 2016",
+    "et": "AstrogliosisTest",
+    "off": 13311,
+    "sff": "GFAP"
+  },
+  {
+    "docID": "N168 Li 2016",
+    "et": "NeuroprotectionTest",
+    "off": 1709,
+    "sff": "numbers"
+  },
+  {
+    "docID": "N168 Li 2016",
+    "et": "AstrogliosisTest",
+    "off": 9358,
+    "sff": "GFAP"
+  }
+]

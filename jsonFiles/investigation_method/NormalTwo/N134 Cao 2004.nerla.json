@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N134 Cao 2004",
+    "et": "AxonalRegenerationTest",
+    "off": 37858,
+    "sff": "BDA-traced CST fibres"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "GeneExpressionAnalysis",
+    "off": 51056,
+    "sff": "expression"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "OpenFieldTest",
+    "off": 38319,
+    "sff": "BBB scores"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "GeneExpressionAnalysis",
+    "off": 24156,
+    "sff": "expression"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "AxonalRegenerationTest",
+    "off": 36086,
+    "sff": "NF immunoactivity"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "NeuronalChangesTest",
+    "off": 19362,
+    "sff": "rubrospinal neurons"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "GeneExpressionAnalysis",
+    "off": 33862,
+    "sff": "mRNA expression"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "InclinedPlaneTest",
+    "off": 22854,
+    "sff": "inclined plane test"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "GeneExpressionAnalysis",
+    "off": 48959,
+    "sff": "expression"
+  }
+]

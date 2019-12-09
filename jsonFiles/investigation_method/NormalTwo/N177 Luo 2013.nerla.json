@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N177 Luo 2013",
+    "et": "GeneExpressionAnalysis",
+    "off": 15192,
+    "sff": "mRNA expression"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "GeneExpressionAnalysis",
+    "off": 9927,
+    "sff": "expression"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "ProteinLevelAnalysis",
+    "off": 15385,
+    "sff": "NGF proteinwas"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "GeneExpressionAnalysis",
+    "off": 1997,
+    "sff": "expression"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "GeneExpressionAnalysis",
+    "off": 18096,
+    "sff": "mRNA expression"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 1616,
+    "sff": "thermal"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "TailFlickReflexTest",
+    "off": 1768,
+    "sff": "TFL"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "GeneExpressionAnalysis",
+    "off": 15633,
+    "sff": "expression"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "GeneExpressionAnalysis",
+    "off": 10854,
+    "sff": "NGF mRNA expression"
+  }
+]

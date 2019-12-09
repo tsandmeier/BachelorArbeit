@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N223 Wu 2008",
+    "et": "BBBTest",
+    "off": 20510,
+    "sff": "BBB"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "GeneExpressionAnalysis",
+    "off": 4213,
+    "sff": "expression"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "GeneExpressionAnalysis",
+    "off": 10308,
+    "sff": "expression"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "NeuronalChangesTest",
+    "off": 19311,
+    "sff": "NF-positive axons survived"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "GeneExpressionAnalysis",
+    "off": 16879,
+    "sff": "expression"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "GeneExpressionAnalysis",
+    "off": 18941,
+    "sff": "expression"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "GeneExpressionAnalysis",
+    "off": 7277,
+    "sff": "expression"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "GeneExpressionAnalysis",
+    "off": 11996,
+    "sff": "expression"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "GeneExpressionAnalysis",
+    "off": 16027,
+    "sff": "expression"
+  }
+]

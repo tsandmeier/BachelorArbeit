@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "LocomotorTest",
+    "off": 13906,
+    "sff": "plantar steps"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "NeuronalChangesTest",
+    "off": 10811,
+    "sff": "neurons"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "GeneExpressionAnalysis",
+    "off": 33055,
+    "sff": "expression"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "GeneExpressionAnalysis",
+    "off": 40769,
+    "sff": "expression"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "GeneExpressionAnalysis",
+    "off": 32970,
+    "sff": "expression"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "NeuronalChangesTest",
+    "off": 24892,
+    "sff": "neurons"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "NeuronalChangesTest",
+    "off": 40960,
+    "sff": "raphespinal"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "InvestigationMethod",
+    "off": 37161,
+    "sff": "status"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "GeneExpressionAnalysis",
+    "off": 24569,
+    "sff": "expression"
+  }
+]

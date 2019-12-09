@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N141 Deng 2008",
+    "et": "GeneExpressionAnalysis",
+    "off": 7460,
+    "sff": "expression"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "NeuronalChangesTest",
+    "off": 18368,
+    "sff": "neuronal atrophy"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 22485,
+    "sff": "latencies"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "NonFunctionalTest",
+    "off": 18598,
+    "sff": "pathology"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "GeneExpressionAnalysis",
+    "off": 27067,
+    "sff": "expression"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "GeneExpressionAnalysis",
+    "off": 16634,
+    "sff": "expression"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "BBBTest",
+    "off": 1459,
+    "sff": "gait scaling"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "GeneExpressionAnalysis",
+    "off": 26226,
+    "sff": "expression"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "NeuronalChangesTest",
+    "off": 20487,
+    "sff": "neuronal"
+  }
+]

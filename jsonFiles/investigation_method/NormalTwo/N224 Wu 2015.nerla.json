@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N224 Wu 2015",
+    "et": "GeneExpressionAnalysis",
+    "off": 35666,
+    "sff": "expression"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "BodyWeightExamination",
+    "off": 25199,
+    "sff": "body weight of rats"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "BodyWeightExamination",
+    "off": 25534,
+    "sff": "body weight of rats"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "BodyWeightExamination",
+    "off": 24892,
+    "sff": "body weight of rats"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "ProteinLevelAnalysis",
+    "off": 4736,
+    "sff": "Bax"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "ApoptosisTest",
+    "off": 21511,
+    "sff": "cell apoptosis rate"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "BodyWeightExamination",
+    "off": 25413,
+    "sff": "body weight of rats"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "CystVolumeTest",
+    "off": 26565,
+    "sff": "number of cavities"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "BodyWeightExamination",
+    "off": 24788,
+    "sff": "body weight of rats"
+  }
+]

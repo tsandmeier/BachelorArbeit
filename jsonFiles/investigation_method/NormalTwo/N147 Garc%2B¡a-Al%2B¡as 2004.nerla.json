@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N147 Garc%2B¡a-Al%2B¡as 2004",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 22473,
+    "sff": "percentage amplitudes"
+  },
+  {
+    "docID": "N147 Garc%2B¡a-Al%2B¡as 2004",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 11133,
+    "sff": "MEPs"
+  },
+  {
+    "docID": "N147 Garc%2B¡a-Al%2B¡as 2004",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 1096,
+    "sff": "thermal"
+  },
+  {
+    "docID": "N147 Garc%2B¡a-Al%2B¡as 2004",
+    "et": "GeneExpressionAnalysis",
+    "off": 1368,
+    "sff": "expressions"
+  },
+  {
+    "docID": "N147 Garc%2B¡a-Al%2B¡as 2004",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 23094,
+    "sff": "amplitude of the three peaks"
+  },
+  {
+    "docID": "N147 Garc%2B¡a-Al%2B¡as 2004",
+    "et": "InclinedPlaneTest",
+    "off": 21021,
+    "sff": "capacity angle values"
+  },
+  {
+    "docID": "N147 Garc%2B¡a-Al%2B¡as 2004",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 37743,
+    "sff": "MEP"
+  },
+  {
+    "docID": "N147 Garc%2B¡a-Al%2B¡as 2004",
+    "et": "AxonalRegenerationTest",
+    "off": 25399,
+    "sff": "immunostaining intensities"
+  },
+  {
+    "docID": "N147 Garc%2B¡a-Al%2B¡as 2004",
+    "et": "AstrogliosisTest",
+    "off": 25095,
+    "sff": "reactive grade of GFAP"
+  }
+]

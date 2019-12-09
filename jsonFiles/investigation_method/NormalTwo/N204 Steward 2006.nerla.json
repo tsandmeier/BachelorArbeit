@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N204 Steward 2006",
+    "et": "MortalityObservation",
+    "off": 26266,
+    "sff": "died"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "MortalityObservation",
+    "off": 33354,
+    "sff": "died"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "MortalityObservation",
+    "off": 31915,
+    "sff": "died"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "BBBTest",
+    "off": 9026,
+    "sff": "BBB"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "MortalityObservation",
+    "off": 38223,
+    "sff": "died"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "GeneExpressionAnalysis",
+    "off": 50030,
+    "sff": "expression"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "MortalityObservation",
+    "off": 30992,
+    "sff": "died"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "GeneExpressionAnalysis",
+    "off": 50458,
+    "sff": "expression"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "GeneExpressionAnalysis",
+    "off": 50137,
+    "sff": "expression"
+  }
+]

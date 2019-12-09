@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "NeuronalChangesTest",
+    "off": 21891,
+    "sff": "number of quadruple-positive cells"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "AxonalRegenerationTest",
+    "off": 19733,
+    "sff": "number of WGA-positive dots"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "AxonalRegenerationTest",
+    "off": 18154,
+    "sff": "number of BDA-positive dots"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "NeuronalChangesTest",
+    "off": 763,
+    "sff": "neurons"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "AxonalRegenerationTest",
+    "off": 15158,
+    "sff": "number of WGA-positive dots"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "NeuronalChangesTest",
+    "off": 10002,
+    "sff": "neuronal"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "NeuronalChangesTest",
+    "off": 2142,
+    "sff": "number of quadruple-positive cells"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "NeuronalChangesTest",
+    "off": 12916,
+    "sff": "WGA-positive"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "AxonalRegenerationTest",
+    "off": 1949,
+    "sff": "number of WGA-positive dots"
+  }
+]

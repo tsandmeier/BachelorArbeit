@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "OpenFieldTest",
+    "off": 15823,
+    "sff": "open-field locomotor scores"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "NeuronalChangesTest",
+    "off": 1065,
+    "sff": "neuronal loss"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "NeuroprotectionTest",
+    "off": 20471,
+    "sff": "number of FG-positive neurons"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "AxonalDiebackTest",
+    "off": 26542,
+    "sff": "die-back"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "NeuronalCellLossTest",
+    "off": 2990,
+    "sff": "cell death"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "NeuronalChangesTest",
+    "off": 3954,
+    "sff": "neurons"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "NeuronalChangesTest",
+    "off": 20931,
+    "sff": "neuronal loss"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "NeuronalChangesTest",
+    "off": 930,
+    "sff": "neuronal loss"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "NeuroprotectionTest",
+    "off": 20269,
+    "sff": "number of FG-positive neurons"
+  }
+]

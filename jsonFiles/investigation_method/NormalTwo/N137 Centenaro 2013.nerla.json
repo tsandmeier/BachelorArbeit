@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N137 Centenaro 2013",
+    "et": "SensoryTest",
+    "off": 20857,
+    "sff": "withdrawal reflex"
+  },
+  {
+    "docID": "N137 Centenaro 2013",
+    "et": "SensoryTest",
+    "off": 21673,
+    "sff": "lowerwithdrawal reflex"
+  },
+  {
+    "docID": "N137 Centenaro 2013",
+    "et": "MyelinationTest",
+    "off": 16451,
+    "sff": "axon diameter"
+  },
+  {
+    "docID": "N137 Centenaro 2013",
+    "et": "SensoryTest",
+    "off": 12461,
+    "sff": "hyperactive withdrawal reflex"
+  },
+  {
+    "docID": "N137 Centenaro 2013",
+    "et": "SensoryTest",
+    "off": 1455,
+    "sff": "withdrawal reflex"
+  },
+  {
+    "docID": "N137 Centenaro 2013",
+    "et": "HReflexTest",
+    "off": 22596,
+    "sff": "H reflex amplitude"
+  },
+  {
+    "docID": "N137 Centenaro 2013",
+    "et": "SensoryTest",
+    "off": 26256,
+    "sff": "withdrawal reflex"
+  },
+  {
+    "docID": "N137 Centenaro 2013",
+    "et": "SensoryTest",
+    "off": 24437,
+    "sff": "withdrawal reflex"
+  },
+  {
+    "docID": "N137 Centenaro 2013",
+    "et": "SensoryTest",
+    "off": 22178,
+    "sff": "hyperactive withdrawal reflex"
+  }
+]

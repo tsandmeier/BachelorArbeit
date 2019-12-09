@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 11605,
+    "sff": "thermal"
+  },
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "NonFunctionalTest",
+    "off": 52878,
+    "sff": "pathology"
+  },
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 32718,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 16665,
+    "sff": "thermal"
+  },
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 12476,
+    "sff": "MEP"
+  },
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 32884,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "BBBTest",
+    "off": 19153,
+    "sff": "BBB"
+  },
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "GeneExpressionAnalysis",
+    "off": 43257,
+    "sff": "expression"
+  },
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 23016,
+    "sff": "amplitude"
+  }
+]

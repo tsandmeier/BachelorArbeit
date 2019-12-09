@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N219 Ramón-Cueto 1998",
+    "et": "NeuronalChangesTest",
+    "off": 46256,
+    "sff": "neurons"
+  },
+  {
+    "docID": "N219 Ramón-Cueto 1998",
+    "et": "GeneExpressionAnalysis",
+    "off": 15927,
+    "sff": "expression"
+  },
+  {
+    "docID": "N219 Ramón-Cueto 1998",
+    "et": "AxonalRegenerationTest",
+    "off": 2474,
+    "sff": "elongation"
+  },
+  {
+    "docID": "N219 Ramón-Cueto 1998",
+    "et": "AxonalRegenerationTest",
+    "off": 3338,
+    "sff": "elongation"
+  },
+  {
+    "docID": "N219 Ramón-Cueto 1998",
+    "et": "AxonalRegenerationTest",
+    "off": 4262,
+    "sff": "axonal elongation"
+  },
+  {
+    "docID": "N219 Ramón-Cueto 1998",
+    "et": "AxonalSproutingTest",
+    "off": 46231,
+    "sff": "sprouts"
+  },
+  {
+    "docID": "N219 Ramón-Cueto 1998",
+    "et": "AxonalRegenerationTest",
+    "off": 44829,
+    "sff": "elongation"
+  },
+  {
+    "docID": "N219 Ramón-Cueto 1998",
+    "et": "NeuronalChangesTest",
+    "off": 44474,
+    "sff": "neurons"
+  },
+  {
+    "docID": "N219 Ramón-Cueto 1998",
+    "et": "AxonalRegenerationTest",
+    "off": 51713,
+    "sff": "elongation"
+  }
+]

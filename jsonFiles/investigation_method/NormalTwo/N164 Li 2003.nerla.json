@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N164 Li 2003",
+    "et": "InclinedPlaneTest",
+    "off": 10410,
+    "sff": "climbing test"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "AxonalChangesTest",
+    "off": 20308,
+    "sff": "measures"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "PhysiologyTest",
+    "off": 1759,
+    "sff": "ventilation"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 14382,
+    "sff": "recordings"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 14447,
+    "sff": "recordings"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "PhysiologyTest",
+    "off": 804,
+    "sff": "ventilation"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "AutonomicDysreflexiaTest",
+    "off": 9449,
+    "sff": "rate"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "PhysiologyTest",
+    "off": 18508,
+    "sff": "breathing"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "PhysiologyTest",
+    "off": 2311,
+    "sff": "ventilation"
+  }
+]

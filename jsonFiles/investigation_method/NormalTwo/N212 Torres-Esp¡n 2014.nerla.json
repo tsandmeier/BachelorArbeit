@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N212 Torres-Esp¡n 2014",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 36667,
+    "sff": "mean amplitude"
+  },
+  {
+    "docID": "N212 Torres-Esp¡n 2014",
+    "et": "NeuroprotectionTest",
+    "off": 39348,
+    "sff": "rescued more neurons"
+  },
+  {
+    "docID": "N212 Torres-Esp¡n 2014",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 16871,
+    "sff": "MEPs"
+  },
+  {
+    "docID": "N212 Torres-Esp¡n 2014",
+    "et": "AstrogliosisTest",
+    "off": 39955,
+    "sff": "GFAP-labeled area"
+  },
+  {
+    "docID": "N212 Torres-Esp¡n 2014",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 16570,
+    "sff": "MEPs"
+  },
+  {
+    "docID": "N212 Torres-Esp¡n 2014",
+    "et": "AutomatedGaitAnalysis",
+    "off": 14619,
+    "sff": "swing duration"
+  },
+  {
+    "docID": "N212 Torres-Esp¡n 2014",
+    "et": "TissueSparingTest",
+    "off": 38073,
+    "sff": "preserved more tissue"
+  },
+  {
+    "docID": "N212 Torres-Esp¡n 2014",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 35206,
+    "sff": "heat noxious stimuli"
+  },
+  {
+    "docID": "N212 Torres-Esp¡n 2014",
+    "et": "TissueSparingTest",
+    "off": 27524,
+    "sff": "amount of protected tissue"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N192 Polentes 2004",
+    "et": "GeneExpressionAnalysis",
+    "off": 57683,
+    "sff": "expression"
+  },
+  {
+    "docID": "N192 Polentes 2004",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 32794,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N192 Polentes 2004",
+    "et": "ElectrophysiologyTest",
+    "off": 39953,
+    "sff": "respiratory frequency"
+  },
+  {
+    "docID": "N192 Polentes 2004",
+    "et": "ElectrophysiologyTest",
+    "off": 18079,
+    "sff": "response"
+  },
+  {
+    "docID": "N192 Polentes 2004",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 47274,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N192 Polentes 2004",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 28255,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N192 Polentes 2004",
+    "et": "GeneExpressionAnalysis",
+    "off": 54952,
+    "sff": "expression"
+  },
+  {
+    "docID": "N192 Polentes 2004",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 51071,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N192 Polentes 2004",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 50160,
+    "sff": "amplitude"
+  }
+]

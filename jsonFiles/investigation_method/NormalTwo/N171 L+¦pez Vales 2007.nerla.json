@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N171 L+¦pez Vales 2007",
+    "et": "GeneExpressionAnalysis",
+    "off": 29256,
+    "sff": "expression"
+  },
+  {
+    "docID": "N171 L+¦pez Vales 2007",
+    "et": "GeneExpressionAnalysis",
+    "off": 28999,
+    "sff": "expression"
+  },
+  {
+    "docID": "N171 L+¦pez Vales 2007",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 27085,
+    "sff": "MEPs"
+  },
+  {
+    "docID": "N171 L+¦pez Vales 2007",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 16126,
+    "sff": "MEPs"
+  },
+  {
+    "docID": "N171 L+¦pez Vales 2007",
+    "et": "BBBTest",
+    "off": 18262,
+    "sff": "locomotion testing"
+  },
+  {
+    "docID": "N171 L+¦pez Vales 2007",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 26357,
+    "sff": "MEPs"
+  },
+  {
+    "docID": "N171 L+¦pez Vales 2007",
+    "et": "GeneExpressionAnalysis",
+    "off": 32643,
+    "sff": "expression"
+  },
+  {
+    "docID": "N171 L+¦pez Vales 2007",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 2833,
+    "sff": "MEPs"
+  },
+  {
+    "docID": "N171 L+¦pez Vales 2007",
+    "et": "GeneExpressionAnalysis",
+    "off": 32353,
+    "sff": "expression"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "GeneExpressionAnalysis",
+    "off": 41732,
+    "sff": "expression"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "CystVolumeTest",
+    "off": 44010,
+    "sff": "lesion cavities"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "CystVolumeTest",
+    "off": 16858,
+    "sff": "lesion cavities"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "CystVolumeTest",
+    "off": 44105,
+    "sff": "lesion cavities"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "TissueSparingTest",
+    "off": 19179,
+    "sff": "spared tissue"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "CystVolumeTest",
+    "off": 10790,
+    "sff": "lesion cavities"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "CystVolumeTest",
+    "off": 10069,
+    "sff": "lesion cavities"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "GeneExpressionAnalysis",
+    "off": 7773,
+    "sff": "expression"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "CystVolumeTest",
+    "off": 44414,
+    "sff": "lesion cavities"
+  }
+]

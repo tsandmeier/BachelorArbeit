@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N151 Huang 2010",
+    "et": "AstrogliosisTest",
+    "off": 10633,
+    "sff": "GFAP"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "AxonalDiebackTest",
+    "off": 17157,
+    "sff": "retraction"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "LesionVolumeTest",
+    "off": 9505,
+    "sff": "lesion sites"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "LocomotorTest",
+    "off": 15834,
+    "sff": "steps"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "ProteinLevelAnalysis",
+    "off": 19264,
+    "sff": "analysis"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "WalkingAnalysisTest",
+    "off": 13555,
+    "sff": "walking kinematic trajectories"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "ElectrophysiologyTest",
+    "off": 19113,
+    "sff": "velocity"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "GeneExpressionAnalysis",
+    "off": 4100,
+    "sff": "expression"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "AstrogliosisTest",
+    "off": 4142,
+    "sff": "GFAP"
+  }
+]

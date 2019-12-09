@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N170 Liu 2010",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 11457,
+    "sff": "somatosensory evoked potential amplitude"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "AxonalRegenerationTest",
+    "off": 13467,
+    "sff": "number of HRP-labeled neurons"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 468,
+    "sff": "motor evoked potentials"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "LesionVolumeTest",
+    "off": 1948,
+    "sff": "area of damage"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "BBBTest",
+    "off": 3280,
+    "sff": "BBB"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 11767,
+    "sff": "amplitude somatosensory evoked potentials"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 11527,
+    "sff": "motor evoked potential amplitude"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 11883,
+    "sff": "motor evoked potential latency"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 7244,
+    "sff": "amplitude"
+  }
+]

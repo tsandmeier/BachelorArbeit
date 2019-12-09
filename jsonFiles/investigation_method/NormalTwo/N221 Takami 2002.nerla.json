@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N221 Takami 2002",
+    "et": "AstrogliosisTest",
+    "off": 33353,
+    "sff": "GFAP staining"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "AstrogliosisTest",
+    "off": 22679,
+    "sff": "GFAP staining"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "MyelinationTest",
+    "off": 1196,
+    "sff": "axons"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "CystVolumeTest",
+    "off": 19728,
+    "sff": "cystic cavities"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "AxonalSproutingTest",
+    "off": 36959,
+    "sff": "corticospinal sprouts"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "CystVolumeTest",
+    "off": 20518,
+    "sff": "cystic cavities"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "AstrogliosisTest",
+    "off": 22861,
+    "sff": "GFAP staining"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "AngiogenesisTest",
+    "off": 30062,
+    "sff": "number of blood vessels"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "AstrogliosisTest",
+    "off": 33163,
+    "sff": "GFAP staining"
+  }
+]

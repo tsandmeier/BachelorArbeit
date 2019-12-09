@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N167 Li 2012",
+    "et": "GeneExpressionAnalysis",
+    "off": 17538,
+    "sff": "expression"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "GeneExpressionAnalysis",
+    "off": 28882,
+    "sff": "expression"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "GeneExpressionAnalysis",
+    "off": 22402,
+    "sff": "expression"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "GeneExpressionAnalysis",
+    "off": 7859,
+    "sff": "expression"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "GeneExpressionAnalysis",
+    "off": 29273,
+    "sff": "expression"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "GeneExpressionAnalysis",
+    "off": 14187,
+    "sff": "expression"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "GeneExpressionAnalysis",
+    "off": 24109,
+    "sff": "expression"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 12728,
+    "sff": "latency"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 12815,
+    "sff": "amplitude"
+  }
+]

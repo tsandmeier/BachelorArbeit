@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "NeuronalChangesTest",
+    "off": 41973,
+    "sff": "mean neuronal size"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "NeuroprotectionTest",
+    "off": 29056,
+    "sff": "numbers of neurons"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "NeuronalChangesTest",
+    "off": 42169,
+    "sff": "neuronal atrophy"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "NeuronalChangesTest",
+    "off": 53035,
+    "sff": "neuronal atrophy"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "WalkingAnalysisTest",
+    "off": 34760,
+    "sff": "rope-walking test"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "AxonalRegenerationTest",
+    "off": 44031,
+    "sff": "BDA-positive RST axons"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "NeuronalChangesTest",
+    "off": 41363,
+    "sff": "mean soma size of neurons"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "WalkingAnalysisTest",
+    "off": 49752,
+    "sff": "deficit-scoring method"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "WalkingAnalysisTest",
+    "off": 49161,
+    "sff": "rope-walking test"
+  }
+]

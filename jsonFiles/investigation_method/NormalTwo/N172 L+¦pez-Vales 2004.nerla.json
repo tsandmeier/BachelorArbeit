@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 979,
+    "sff": "latency"
+  },
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 22911,
+    "sff": "amplitude of the three waves"
+  },
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 19603,
+    "sff": "MEPs"
+  },
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 19123,
+    "sff": "MEPs"
+  },
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 815,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "InclinedPlaneTest",
+    "off": 21655,
+    "sff": "mean maximum angle"
+  },
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "InclinedPlaneTest",
+    "off": 21455,
+    "sff": "mean maximum angle"
+  },
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "TissueSparingTest",
+    "off": 1062,
+    "sff": "area of preserved spinal cord"
+  },
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 12287,
+    "sff": "MEPs"
+  }
+]

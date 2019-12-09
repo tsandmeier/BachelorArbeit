@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N158 Kang 2015",
+    "et": "TissueSparingTest",
+    "off": 4478,
+    "sff": "preserved"
+  },
+  {
+    "docID": "N158 Kang 2015",
+    "et": "BBBTest",
+    "off": 14210,
+    "sff": "BBB"
+  },
+  {
+    "docID": "N158 Kang 2015",
+    "et": "BBBTest",
+    "off": 29518,
+    "sff": "BBB"
+  },
+  {
+    "docID": "N158 Kang 2015",
+    "et": "GaleRatingScoreTest",
+    "off": 28528,
+    "sff": "score"
+  },
+  {
+    "docID": "N158 Kang 2015",
+    "et": "AxonalRegenerationTest",
+    "off": 18082,
+    "sff": "density"
+  },
+  {
+    "docID": "N158 Kang 2015",
+    "et": "NeuronalChangesTest",
+    "off": 27807,
+    "sff": "neurons"
+  },
+  {
+    "docID": "N158 Kang 2015",
+    "et": "ProteinLevelAnalysis",
+    "off": 7179,
+    "sff": "analysis"
+  },
+  {
+    "docID": "N158 Kang 2015",
+    "et": "MortalityObservation",
+    "off": 21214,
+    "sff": "died"
+  },
+  {
+    "docID": "N158 Kang 2015",
+    "et": "ProteinLevelAnalysis",
+    "off": 7090,
+    "sff": "analysis"
+  }
+]
