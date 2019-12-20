@@ -31,22 +31,22 @@ import de.hterhors.semanticmr.json.nerla.JsonNerlaIO;
 import de.hterhors.semanticmr.json.nerla.wrapper.JsonEntityAnnotationWrapper;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import tsandmeier.ba.NutzloseTemplates.WBFTemplate;
-import tsandmeier.ba.NutzloseTemplates.WBLTemplate;
-import tsandmeier.ba.candprov.*;
+import tsandmeier.ba.candprov.CreateAndGetDictionaryClass;
+import tsandmeier.ba.specs.NERLASpecsGroupName;
 import tsandmeier.ba.specs.NERLASpecsInjury;
 import tsandmeier.ba.templates.*;
 
 import java.io.File;
 import java.io.IOException;
+import java.sql.SQLOutput;
 import java.util.*;
 import java.util.stream.Collectors;
 
 /**
  * Example of how to perform named entity recognition and linking.
  */
-public class NamedEntityRecognitionAndLinkingInjury extends AbstractSemReadProject {
-    private static Logger log = LogManager.getFormatterLogger(NamedEntityRecognitionAndLinkingInjury.class);
+public class NamedEntityRecognitionAndLinkingGroupNames extends AbstractSemReadProject {
+    private static Logger log = LogManager.getFormatterLogger(NamedEntityRecognitionAndLinkingGroupNames.class);
     private final boolean overrideModel = false;
     SemanticParsingCRF crf;
     private IEvaluatable.Score mean;
@@ -77,7 +77,7 @@ public class NamedEntityRecognitionAndLinkingInjury extends AbstractSemReadProje
         if(mode < 1 || mode >7){
             System.out.println("UNGÜLTIGER MODE");
         }
-        new NamedEntityRecognitionAndLinkingInjury().startProcedure(mode, alpha);
+        new NamedEntityRecognitionAndLinkingGroupNames().startProcedure(mode, alpha);
     }
 
     /**
@@ -96,9 +96,9 @@ public class NamedEntityRecognitionAndLinkingInjury extends AbstractSemReadProje
      * The directory of the corpus instances. In this example each instance is
      * stored in its own json-file.
      */
-    private final File instanceDirectory = new File("src/main/resources/examples/nerla/injury/corpus/instances/");
+    private final File instanceDirectory = new File("src/main/resources/examples/nerla/group_name/corpus/instances/");
 
-    public NamedEntityRecognitionAndLinkingInjury() {
+    public NamedEntityRecognitionAndLinkingGroupNames() {
 
         /**
          * 1. STEP initialize the system.
@@ -111,7 +111,7 @@ public class NamedEntityRecognitionAndLinkingInjury extends AbstractSemReadProje
                     /**
                      * We add a scope reader that reads and interprets the 4 specification files.
                      */
-                    .addScopeSpecification(NERLASpecsInjury.csvSpecsReader)
+                    .addScopeSpecification(NERLASpecsGroupName.csvSpecsReader)
                     /**
                      * We apply the scope(s).
                      */
@@ -232,70 +232,15 @@ public class NamedEntityRecognitionAndLinkingInjury extends AbstractSemReadProje
         this.mode = mode;
 
         featureTemplates = new ArrayList<>();
+                           //alle Templates
+        addNumberTemplates(featureTemplates);
+        addsingleContextTemplates(featureTemplates);
+        addDoubleContextTemplates(featureTemplates);
+        addSingleMentionTemplates(featureTemplates);
+//      featureTemplates.add(new ML12Template());
+//      addNormalizationtemplates(featureTemplates);
+        addDoubleComparisonTemplates(featureTemplates);
 
-        switch (mode) {
-            case 1:                                         //alle Templates
-                addNumberTemplates(featureTemplates);
-                addsingleContextTemplates(featureTemplates);
-                addDoubleContextTemplates(featureTemplates);
-                addSingleMentionTemplates(featureTemplates);
-                featureTemplates.add(new ML12Template());
-//                addNormalizationtemplates(featureTemplates);
-                addDoubleComparisonTemplates(featureTemplates);
-                break;
-            case 2:                                         //alle ohne ML12
-                addNumberTemplates(featureTemplates);
-                addsingleContextTemplates(featureTemplates);
-                addDoubleContextTemplates(featureTemplates);
-                addSingleMentionTemplates(featureTemplates);
-//                addNormalizationtemplates(featureTemplates);
-                addDoubleComparisonTemplates(featureTemplates);
-                break;
-
-            case 3:                                        //alle ohne DoubleContext
-                addNumberTemplates(featureTemplates);
-                addsingleContextTemplates(featureTemplates);
-                addSingleMentionTemplates(featureTemplates);
-                featureTemplates.add(new ML12Template());
-//                addNormalizationtemplates(featureTemplates);
-                addDoubleComparisonTemplates(featureTemplates);
-                break;
-
-            case 4:                                         //alle ohne SingleContext
-                addNumberTemplates(featureTemplates);
-                addDoubleContextTemplates(featureTemplates);
-                addSingleMentionTemplates(featureTemplates);
-                featureTemplates.add(new ML12Template());
-//                addNormalizationtemplates(featureTemplates);
-                addDoubleComparisonTemplates(featureTemplates);
-                break;
-
-            case 5:                                         //alle ohne Numbertemplates
-                addsingleContextTemplates(featureTemplates);
-                addDoubleContextTemplates(featureTemplates);
-                addSingleMentionTemplates(featureTemplates);
-                featureTemplates.add(new ML12Template());
-//                addNormalizationtemplates(featureTemplates);
-                addDoubleComparisonTemplates(featureTemplates);
-                break;
-
-            case 6:                                          //alle ohne singlemention
-                addNumberTemplates(featureTemplates);
-                addsingleContextTemplates(featureTemplates);
-                addDoubleContextTemplates(featureTemplates);
-                featureTemplates.add(new ML12Template());
-//                addNormalizationtemplates(featureTemplates);
-                addDoubleComparisonTemplates(featureTemplates);
-                break;
-            case 7:                                         //alle ohne DoubleComparison
-                addNumberTemplates(featureTemplates);
-                addsingleContextTemplates(featureTemplates);
-                addDoubleContextTemplates(featureTemplates);
-                addSingleMentionTemplates(featureTemplates);
-                featureTemplates.add(new ML12Template());
-//                addDoubleComparisonTemplates(featureTemplates);
-                break;
-        }
 //
 //        featureTemplates.add(new AMFLTemplate());
 //        featureTemplates.add(new BMFLTemplate());
@@ -385,9 +330,9 @@ public class NamedEntityRecognitionAndLinkingInjury extends AbstractSemReadProje
          *
          * NOTE: Make sure that the base model directory exists!
          */
-        final File modelBaseDir = new File("models/nerla/injury/");
-        //final String modelName = "NERLA1234" + new Random().nextInt(10000);
-        final String modelName = "testModel";
+        final File modelBaseDir = new File("models/nerla/groupNames/");
+//        final String modelName = "NERLA1234" + new Random().nextInt(10000);
+        final String modelName = "zweiterVersuch";
 
         Model model;
 
@@ -460,6 +405,11 @@ public class NamedEntityRecognitionAndLinkingInjury extends AbstractSemReadProje
 //                crf.getTrainingStatistics().getTotalDuration(),crf.getTestStatistics().getTotalDuration(), alpha);
 
 
+        mean = evaluate(log, results);
+
+        /**
+         * Gefundene Annotationen in Json-File abspeichern
+         */
 
         Map<Instance, Set<DocumentLinkedAnnotation>> annotations = new HashMap<>();
 
@@ -473,57 +423,50 @@ public class NamedEntityRecognitionAndLinkingInjury extends AbstractSemReadProje
 
         JsonNerlaIO io = new JsonNerlaIO(true);
 
+        int missedcounter = 0;
         for (Instance instance : results.keySet()) {
+            try {
+                if(annotations.get(instance)!=null) {
+                    List<JsonEntityAnnotationWrapper> wrappedAnnotation = annotations.get(instance).stream()
+                            .map(d -> new JsonEntityAnnotationWrapper(d))
+                            .collect(Collectors.toList());
 
-
-
-            List<JsonEntityAnnotationWrapper> wrappedAnnotation = annotations.get(instance).stream()
-                    .map(d -> new JsonEntityAnnotationWrapper(d))
-                    .collect(Collectors.toList());
-            io.writeNerlas(new File("jsonFiles/InjuryNew/Normal/"+instance.getName() + ".nerla.json"), wrappedAnnotation);
-
+                    io.writeNerlas(new File("jsonFiles/GroupNames/Normal/" + instance.getName() + ".nerla.json"), wrappedAnnotation);
+                }
+                else{missedcounter++;}
+            } catch(Exception e){e.printStackTrace();}
         }
 
+        System.out.println("VERPASSTE INSTANCES: "+missedcounter);
+//
+//
+//        Map<Instance, State> resultsHighRecall = crf.predict(instanceProvider.getInstances(),maxStepCrit,
+//                noModelChangeCrit);
 
-        Map<Instance, State> resultsHighRecall = crf.predictHighRecall(instanceProvider.getInstances(),20, maxStepCrit,
-                noModelChangeCrit);
-
-        Map<Instance, Set<DocumentLinkedAnnotation>> annotations2 = new HashMap<>();
-
-        for (Map.Entry<Instance, State> result : resultsHighRecall.entrySet()) {
-            for (AbstractAnnotation aa : result.getValue().getCurrentPredictions().getAnnotations()) {
-
-                annotations2.putIfAbsent(result.getKey(), new HashSet<>());
-                annotations2.get(result.getKey()).add(aa.asInstanceOfDocumentLinkedAnnotation());
-            }
-        }
-
-        JsonNerlaIO io2 = new JsonNerlaIO(true);
-
-        for (Instance instance : results.keySet()) {
-
-
-
-            List<JsonEntityAnnotationWrapper> wrappedAnnotation = annotations.get(instance).stream()
-                    .map(d -> new JsonEntityAnnotationWrapper(d))
-                    .collect(Collectors.toList());
-            io2.writeNerlas(new File("jsonFiles/InjuryNew/HighRecall20/"+instance.getName() + ".nerla.json"), wrappedAnnotation);
-
-        }
-
-
-        mean = evaluate(log, results);
-
+//        Map<Instance, Set<DocumentLinkedAnnotation>> annotations2 = new HashMap<>();
+//
+//        for (Map.Entry<Instance, State> result : resultsHighRecall.entrySet()) {
+//            for (AbstractAnnotation aa : result.getValue().getCurrentPredictions().getAnnotations()) {
+//
+//                annotations2.putIfAbsent(result.getKey(), new HashSet<>());
+//                annotations2.get(result.getKey()).add(aa.asInstanceOfDocumentLinkedAnnotation());
+//            }
+//        }
+//
+//        JsonNerlaIO io2 = new JsonNerlaIO(true);
+//
+//        for (Instance instance : results.keySet()) {
+//
+//
+//
+//            List<JsonEntityAnnotationWrapper> wrappedAnnotation = annotations.get(instance).stream()
+//                    .map(d -> new JsonEntityAnnotationWrapper(d))
+//                    .collect(Collectors.toList());
+//            io2.writeNerlas(new File("jsonFiles/InjuryNew/HighRecall20/"+instance.getName() + ".nerla.json"), wrappedAnnotation);
+//
+//        }
 
 
-
-
-
-
-        /**
-         * TODO: Compare results with results when changing some parameter. Implement
-         * more sophisticated feature-templates.
-         */
     }
 
     private void addNumberTemplates(List<AbstractFeatureTemplate> featureTemplates) {
