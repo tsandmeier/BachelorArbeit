@@ -52,13 +52,11 @@ public class ML12Template extends AbstractFeatureTemplate<ML12Template.ML12Scope
 
 		@Override
 		public int implementHashCode() {
-			// TODO Auto-generated method stub
 			return 0;
 		}
 
 		@Override
 		public boolean implementEquals(Object obj) {
-			// TODO Auto-generated method stub
 			return false;
 		}
 

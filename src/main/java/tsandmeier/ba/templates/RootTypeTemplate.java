@@ -13,7 +13,7 @@ import java.util.Objects;
 import java.util.Set;
 
 /**
- *
+ * Compares the RootType of two Mentions
  */
 public class RootTypeTemplate extends AbstractFeatureTemplate<RootTypeTemplate.RootTypeScope> {
 
@@ -34,7 +34,6 @@ public class RootTypeTemplate extends AbstractFeatureTemplate<RootTypeTemplate.R
 
 		@Override
 		public int implementHashCode() {
-			// TODO Auto-generated method stub
 			return 0;
 		}
 
@@ -55,7 +54,6 @@ public class RootTypeTemplate extends AbstractFeatureTemplate<RootTypeTemplate.R
 
 		@Override
 		public boolean implementEquals(Object obj) {
-			// TODO Auto-generated method stub
 			return false;
 		}
 

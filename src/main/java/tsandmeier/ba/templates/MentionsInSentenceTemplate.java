@@ -45,13 +45,11 @@ public class MentionsInSentenceTemplate extends AbstractFeatureTemplate<Mentions
 
 		@Override
 		public int implementHashCode() {
-			// TODO Auto-generated method stub
 			return 0;
 		}
 
 		@Override
 		public boolean implementEquals(Object obj) {
-			// TODO Auto-generated method stub
 			return false;
 		}
 
@@ -119,7 +117,6 @@ public class MentionsInSentenceTemplate extends AbstractFeatureTemplate<Mentions
             }
         }
 	    return 0;
-	    //TODO: RICHITG BEHANDELN
     }
 
     private boolean isSentenceEnding(char charAt) {

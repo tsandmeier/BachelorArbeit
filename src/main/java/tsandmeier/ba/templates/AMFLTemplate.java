@@ -17,6 +17,7 @@ import java.util.Objects;
  * looks for the words after a mention
  * joins AM1F and AM1L and even more
  */
+
 public class AMFLTemplate extends AbstractFeatureTemplate<AMFLTemplate.AMFLScope> {
 
     public AMFLTemplate() {
@@ -46,13 +47,11 @@ public class AMFLTemplate extends AbstractFeatureTemplate<AMFLTemplate.AMFLScope
 
         @Override
         public int implementHashCode() {
-            // TODO Auto-generated method stub
             return 0;
         }
 
         @Override
         public boolean implementEquals(Object obj) {
-            // TODO Auto-generated method stub
             return false;
         }
 

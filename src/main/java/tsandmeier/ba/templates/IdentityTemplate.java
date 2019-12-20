@@ -13,7 +13,7 @@ import java.util.Objects;
 import java.util.Set;
 
 /**
- *
+ * identity of a mention
  */
 public class IdentityTemplate extends AbstractFeatureTemplate<IdentityTemplate.IdentityScope> {
 
@@ -34,7 +34,6 @@ public class IdentityTemplate extends AbstractFeatureTemplate<IdentityTemplate.I
 
 		@Override
 		public int implementHashCode() {
-			// TODO Auto-generated method stub
 			return 0;
 		}
 
@@ -55,7 +54,6 @@ public class IdentityTemplate extends AbstractFeatureTemplate<IdentityTemplate.I
 
 		@Override
 		public boolean implementEquals(Object obj) {
-			// TODO Auto-generated method stub
 			return false;
 		}
 

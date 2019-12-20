@@ -15,9 +15,7 @@ public abstract class AbstractNumericInterpreter extends AbstractInterpreter imp
 
 	final protected static String writtenNumbers = PRE_BOUNDS
 			+ "(one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|forteen|fifteen)";
-	/**
-	 * TODO: Maybe include , for 1,5 as 1.5
-	 */
+
 	final protected static String digits = "\\d{1,3}((\\.)\\d)?\\d{0,3}";
 	final protected static String connection = "\\s?(times|per|x|-|" + BAD_CHAR + ")\\s?";
 	final protected static String relationLessConnection = "(\\sof.{2,5})?";
@@ -167,9 +165,6 @@ public abstract class AbstractNumericInterpreter extends AbstractInterpreter imp
 		// System.out.println(toClean);
 
 		String interprete = toClean.toLowerCase();
-		/*
-		 * TODO: Bad heuristic!?
-		 */
 		if (interprete.matches(".*" + BAD_CHAR + "g.*"))
 			interprete = interprete.replaceAll(BAD_CHAR + "g", "µg");
 		if (interprete.matches(".*" + BAD_CHAR + "l.*"))

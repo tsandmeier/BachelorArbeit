@@ -41,13 +41,11 @@ public class HMTemplate extends AbstractFeatureTemplate<HMTemplate.HMScope> {
 
 		@Override
 		public int implementHashCode() {
-			// TODO Auto-generated method stub
 			return 0;
 		}
 
 		@Override
 		public boolean implementEquals(Object obj) {
-			// TODO Auto-generated method stub
 			return false;
 		}
 

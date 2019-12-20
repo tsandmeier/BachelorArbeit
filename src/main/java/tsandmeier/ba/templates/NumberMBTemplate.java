@@ -12,7 +12,7 @@ import java.util.List;
 import java.util.Objects;
 
 /**
- * Checks the Number of other mentions between two mentions
+ * Checks the Number of other annotated mentions between two mentions
  */
 public class NumberMBTemplate extends AbstractFeatureTemplate<NumberMBTemplate.NumberMBScope> {
 
@@ -42,7 +42,6 @@ public class NumberMBTemplate extends AbstractFeatureTemplate<NumberMBTemplate.N
 
         @Override
         public int implementHashCode() {
-            // TODO Auto-generated method stub
             return 0;
         }
 
@@ -66,7 +65,6 @@ public class NumberMBTemplate extends AbstractFeatureTemplate<NumberMBTemplate.N
 
         @Override
         public boolean implementEquals(Object obj) {
-            // TODO Auto-generated method stub
             return false;
         }
 

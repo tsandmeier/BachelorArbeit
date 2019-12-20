@@ -40,7 +40,6 @@ public class NumberWBTemplate extends AbstractFeatureTemplate<NumberWBTemplate.N
 
 		@Override
 		public int implementHashCode() {
-			// TODO Auto-generated method stub
 			return 0;
 		}
 
@@ -63,7 +62,6 @@ public class NumberWBTemplate extends AbstractFeatureTemplate<NumberWBTemplate.N
 
 		@Override
 		public boolean implementEquals(Object obj) {
-			// TODO Auto-generated method stub
 			return false;
 		}
 	}

@@ -14,8 +14,7 @@ import java.util.List;
 import java.util.Objects;
 
 /**
- * Checks if Annotation is in Brackets
- * TODO: VIelleicht noch auf weitere range ausweiten
+ * Checks if Annotation is in Brackets, and how far those brackets are from the mention
  */
 
 public class BracketsTemplate extends AbstractFeatureTemplate<BracketsTemplate.BracketsScope> {
@@ -55,13 +54,11 @@ public class BracketsTemplate extends AbstractFeatureTemplate<BracketsTemplate.B
 
 		@Override
 		public int implementHashCode() {
-			// TODO Auto-generated method stub
 			return 0;
 		}
 
 		@Override
 		public boolean implementEquals(Object obj) {
-			// TODO Auto-generated method stub
 			return false;
 		}
 

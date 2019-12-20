@@ -16,12 +16,10 @@ import java.util.Objects;
 
 /**
  * checks for all the words between two mentions
- * contains:
- * WBFL <- only word in between
  */
 public class WordsInBetweenTemplate extends AbstractFeatureTemplate<WordsInBetweenTemplate.AreWordsInBetweenScope> {
 
-    private static final int MAX_NUMBER_OF_WORDS = 6;  //6 Wörter sind deutlich erfolgreicher als 5, aber dann gibts eohl keine Steigerung mehr. Warum?
+    private static final int MAX_NUMBER_OF_WORDS = 6;  //6 words seems to be the most successful
 
     static class AreWordsInBetweenScope
             extends AbstractFactorScope {
@@ -48,13 +46,11 @@ public class WordsInBetweenTemplate extends AbstractFeatureTemplate<WordsInBetwe
 
         @Override
         public int implementHashCode() {
-            // TODO Auto-generated method stub
             return 0;
         }
 
         @Override
         public boolean implementEquals(Object obj) {
-            // TODO Auto-generated method stub
             return false;
         }
 

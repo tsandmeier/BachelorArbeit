@@ -18,13 +18,7 @@ import java.util.regex.Pattern;
 import java.util.stream.Collectors;
 
 /**
- * The in memory dictionary based candidate provider is the simplest form of
- * providing entity-candidates given free text.
- * <p>
- * Given an input text, we do a exact string match to entries of the dictionary
- * and return all entity-types to that one or multiple matches exists.
- *
- * @author hterhors
+ * We build a dictionary by looking at the gold-annotations of every Document.
  */
 public class CreateAndGetDictionaryClass implements INerlaCandidateProvider {
 
@@ -50,8 +44,6 @@ public class CreateAndGetDictionaryClass implements INerlaCandidateProvider {
             EntityType.get("DosageExtracorporal"),EntityType.get("Distance")));
 
 
-//    Set<EntityType> ageSet = new HashSet<>(Collections.singletonList(EntityType.get("Age")));
-//	Set<EntityType> set = new HashSet<>(Arrays.asList(EntityType.get("Weight"), EntityType.get("Age")));
     /**
      * The reversed dictionary for fast look up.
      */
@@ -63,9 +55,6 @@ public class CreateAndGetDictionaryClass implements INerlaCandidateProvider {
 
     public CreateAndGetDictionaryClass(List<Instance> instances) {
 
-        /**
-         * TODO: check file contents format.
-         */
 
         for (Instance inst : instances) {
             for (AbstractAnnotation annotation : inst.getGoldAnnotations().getAnnotations()) {

@@ -14,7 +14,7 @@ import java.util.List;
 import java.util.Objects;
 
 /**
- * words inbetween two mentions without last and first word inbetween
+ * Checks for the words in between two mentions without last and first word in between.
  */
 public class WBOTemplate extends AbstractFeatureTemplate<WBOTemplate.wboScope> {
 
@@ -61,13 +61,11 @@ public class WBOTemplate extends AbstractFeatureTemplate<WBOTemplate.wboScope> {
 
         @Override
         public int implementHashCode() {
-            // TODO Auto-generated method stub
             return 0;
         }
 
         @Override
         public boolean implementEquals(Object obj) {
-            // TODO Auto-generated method stub
             return false;
         }
 

@@ -15,7 +15,7 @@ import java.util.List;
 import java.util.Objects;
 
 /**
- * checks the range of an age, if there is an age and an animal mentioned in the same document
+ * Checks the range of an age, if there is an age and an animal mentioned in the same document.
  */
 
 public class NormalizedAgeTemplate extends AbstractFeatureTemplate<NormalizedAgeTemplate.NormalizedAgeFactor> {
@@ -56,13 +56,11 @@ public class NormalizedAgeTemplate extends AbstractFeatureTemplate<NormalizedAge
 
         @Override
         public int implementHashCode() {
-            // TODO Auto-generated method stub
             return 0;
         }
 
         @Override
         public boolean implementEquals(Object obj) {
-            // TODO Auto-generated method stub
             return false;
         }
 
