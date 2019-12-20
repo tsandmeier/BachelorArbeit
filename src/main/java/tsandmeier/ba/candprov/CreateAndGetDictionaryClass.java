@@ -32,16 +32,16 @@ public class CreateAndGetDictionaryClass implements INerlaCandidateProvider {
     AgeInterpreter sa;
 
 
-    Set<EntityType> weightSet = new HashSet<>(Collections.singletonList(EntityType.get("Weight")));
+//    Set<EntityType> weightSet = new HashSet<>(Collections.singletonList(EntityType.get("Weight")));
 //    Set<EntityType> dosageSet = new HashSet<>(Collections.singletonList(EntityType.get("Dosage")));
-    Set<EntityType> dosageSet = new HashSet<>(Arrays.asList(EntityType.get("Dosage"), EntityType.get("DosageIntracorporal"),
-        EntityType.get("DosageExtracorporal")));
+//    Set<EntityType> dosageSet = new HashSet<>(Arrays.asList(EntityType.get("Dosage"), EntityType.get("DosageIntracorporal"),
+//        EntityType.get("DosageExtracorporal")));
 
-    private Set<EntityType> distanceSet = new HashSet<>(Collections.singletonList(EntityType.get("Distance")));
-
-
-    private Set<EntityType> dosageDistanceSet = new HashSet<>(Arrays.asList(EntityType.get("Dosage"), EntityType.get("DosageIntracorporal"),
-            EntityType.get("DosageExtracorporal"),EntityType.get("Distance")));
+//    private Set<EntityType> distanceSet = new HashSet<>(Collections.singletonList(EntityType.get("Distance")));
+//
+//
+//    private Set<EntityType> dosageDistanceSet = new HashSet<>(Arrays.asList(EntityType.get("Dosage"), EntityType.get("DosageIntracorporal"),
+//            EntityType.get("DosageExtracorporal"),EntityType.get("Distance")));
 
 
     /**
@@ -76,15 +76,15 @@ public class CreateAndGetDictionaryClass implements INerlaCandidateProvider {
                     reverseDictionary.get(token.getText()).add(annotation.asInstanceOfDocumentLinkedAnnotation().entityType);
                 }
 
-                dictionary.putIfAbsent(EntityType.get("IntraperitonealLocation"), new HashSet<>());
-                dictionary.get(EntityType.get("IntraperitonealLocation")).add("i.p.");
-                reverseDictionary.putIfAbsent("i.p.", new HashSet<>());
-                reverseDictionary.get("i.p.").add(EntityType.get("IntraperitonealLocation"));
-
-                dictionary.putIfAbsent(EntityType.get("InjectionDelivery"), new HashSet<>());
-                dictionary.get(EntityType.get("InjectionDelivery")).add("i.p.");
-                reverseDictionary.putIfAbsent("i.p.", new HashSet<>());
-                reverseDictionary.get("i.p.").add(EntityType.get("InjectionDelivery"));
+//                dictionary.putIfAbsent(EntityType.get("IntraperitonealLocation"), new HashSet<>());
+//                dictionary.get(EntityType.get("IntraperitonealLocation")).add("i.p.");
+//                reverseDictionary.putIfAbsent("i.p.", new HashSet<>());
+//                reverseDictionary.get("i.p.").add(EntityType.get("IntraperitonealLocation"));
+//
+//                dictionary.putIfAbsent(EntityType.get("InjectionDelivery"), new HashSet<>());
+//                dictionary.get(EntityType.get("InjectionDelivery")).add("i.p.");
+//                reverseDictionary.putIfAbsent("i.p.", new HashSet<>());
+//                reverseDictionary.get("i.p.").add(EntityType.get("InjectionDelivery"));
             }
         }
     }
@@ -117,28 +117,28 @@ public class CreateAndGetDictionaryClass implements INerlaCandidateProvider {
 //			return set;
 //		}
 //
-        if ((sw = weightCache.get(text)) == null) {
-            weightCache.put(text, sw = new WeightInterpreter(text));
-        }
-
-        if (sw.isInterpretable()) {
-            return weightSet;
-        }
-
-        boolean isDosage = isDosage(text);
-        boolean isDistance = isDistance(text);
-
-
-        if(isDosage && isDistance){
-            return dosageDistanceSet;
-        }
-
-        if(isDosage)
-            return dosageSet;
-
-        if(isDistance(text)){
-            return distanceSet;
-        }
+//        if ((sw = weightCache.get(text)) == null) {
+//            weightCache.put(text, sw = new WeightInterpreter(text));
+//        }
+//
+//        if (sw.isInterpretable()) {
+//            return weightSet;
+//        }
+//
+//        boolean isDosage = isDosage(text);
+//        boolean isDistance = isDistance(text);
+//
+//
+//        if(isDosage && isDistance){
+//            return dosageDistanceSet;
+//        }
+//
+//        if(isDosage)
+//            return dosageSet;
+//
+//        if(isDistance(text)){
+//            return distanceSet;
+//        }
 
 ////
 ////
