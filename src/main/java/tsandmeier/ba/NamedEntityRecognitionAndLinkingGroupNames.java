@@ -46,7 +46,7 @@ import java.util.stream.Collectors;
  * Example of how to perform named entity recognition and linking.
  */
 public class NamedEntityRecognitionAndLinkingGroupNames extends AbstractSemReadProject {
-    private static Logger log = LogManager.getFormatterLogger(NamedEntityRecognitionAndLinkingGroupNames.class);
+    private static Logger log = LogManager.getFormatterLogger("de.hterhors.semanticmr.projects.examples.corpus.nerl.NerlCorpusCreationExample");
     private final boolean overrideModel = false;
     SemanticParsingCRF crf;
     private IEvaluatable.Score mean;
@@ -70,6 +70,8 @@ public class NamedEntityRecognitionAndLinkingGroupNames extends AbstractSemReadP
      * @throws IOException
      */
     public static void main(String[] args) throws IOException {
+
+
         String arg1 = args[0];
         String arg2 = args[1];
         int mode = Integer.valueOf(arg1);
@@ -233,11 +235,11 @@ public class NamedEntityRecognitionAndLinkingGroupNames extends AbstractSemReadP
 
         featureTemplates = new ArrayList<>();
                            //alle Templates
-        addNumberTemplates(featureTemplates);
+//        addNumberTemplates(featureTemplates);
         addsingleContextTemplates(featureTemplates);
         addDoubleContextTemplates(featureTemplates);
         addSingleMentionTemplates(featureTemplates);
-//      featureTemplates.add(new ML12Template());
+//      featureTemplates.add(new BigramTemplate(false));
 //      addNormalizationtemplates(featureTemplates);
         addDoubleComparisonTemplates(featureTemplates);
 
@@ -332,7 +334,7 @@ public class NamedEntityRecognitionAndLinkingGroupNames extends AbstractSemReadP
          */
         final File modelBaseDir = new File("models/nerla/groupNames/");
 //        final String modelName = "NERLA1234" + new Random().nextInt(10000);
-        final String modelName = "zweiterVersuch";
+        final String modelName = "all_templates";
 
         Model model;
 
@@ -397,8 +399,8 @@ public class NamedEntityRecognitionAndLinkingGroupNames extends AbstractSemReadP
          * Finally, we evaluate the produced states and print some statistics.
          */
 
-//		log.info(crf.getTrainingStatistics());
-//		log.info(crf.getTestStatistics());
+		log.info(crf.getTrainingStatistics());
+		log.info(crf.getTestStatistics());
 
 
 //        StatSaver.addToSpreadsheet("statistics/injury_stats.ods", featureTemplates, mean.getF1(), crf.getTrainingStatistics().getTotalDuration()+crf.getTestStatistics().getTotalDuration(),
@@ -411,33 +413,33 @@ public class NamedEntityRecognitionAndLinkingGroupNames extends AbstractSemReadP
          * Gefundene Annotationen in Json-File abspeichern
          */
 
-        Map<Instance, Set<DocumentLinkedAnnotation>> annotations = new HashMap<>();
+//        Map<Instance, Set<DocumentLinkedAnnotation>> annotations = new HashMap<>();
+//
+//        for (Map.Entry<Instance, State> result : results.entrySet()) {
+//            for (AbstractAnnotation aa : result.getValue().getCurrentPredictions().getAnnotations()) {
+//
+//                annotations.putIfAbsent(result.getKey(), new HashSet<>());
+//                annotations.get(result.getKey()).add(aa.asInstanceOfDocumentLinkedAnnotation());
+//            }
+//        }
 
-        for (Map.Entry<Instance, State> result : results.entrySet()) {
-            for (AbstractAnnotation aa : result.getValue().getCurrentPredictions().getAnnotations()) {
-
-                annotations.putIfAbsent(result.getKey(), new HashSet<>());
-                annotations.get(result.getKey()).add(aa.asInstanceOfDocumentLinkedAnnotation());
-            }
-        }
-
-        JsonNerlaIO io = new JsonNerlaIO(true);
-
-        int missedcounter = 0;
-        for (Instance instance : results.keySet()) {
-            try {
-                if(annotations.get(instance)!=null) {
-                    List<JsonEntityAnnotationWrapper> wrappedAnnotation = annotations.get(instance).stream()
-                            .map(d -> new JsonEntityAnnotationWrapper(d))
-                            .collect(Collectors.toList());
-
-                    io.writeNerlas(new File("jsonFiles/GroupNames/Normal/" + instance.getName() + ".nerla.json"), wrappedAnnotation);
-                }
-                else{missedcounter++;}
-            } catch(Exception e){e.printStackTrace();}
-        }
-
-        System.out.println("VERPASSTE INSTANCES: "+missedcounter);
+//        JsonNerlaIO io = new JsonNerlaIO(true);
+//
+//        int missedcounter = 0;
+//        for (Instance instance : results.keySet()) {
+//            try {
+//                if(annotations.get(instance)!=null) {
+//                    List<JsonEntityAnnotationWrapper> wrappedAnnotation = annotations.get(instance).stream()
+//                            .map(d -> new JsonEntityAnnotationWrapper(d))
+//                            .collect(Collectors.toList());
+//
+//                    io.writeNerlas(new File("jsonFiles/GroupNames/Normal/" + instance.getName() + ".nerla.json"), wrappedAnnotation);
+//                }
+//                else{missedcounter++;}
+//            } catch(Exception e){e.printStackTrace();}
+//        }
+//
+//        System.out.println("VERPASSTE INSTANCES: "+missedcounter);
 //
 //
 //        Map<Instance, State> resultsHighRecall = crf.predict(instanceProvider.getInstances(),maxStepCrit,
@@ -519,5 +521,4 @@ public class NamedEntityRecognitionAndLinkingGroupNames extends AbstractSemReadP
     public List<AbstractFeatureTemplate> getFeatureTemplates(){
         return featureTemplates;
     }
-
 }

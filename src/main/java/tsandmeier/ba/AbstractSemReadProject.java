@@ -28,10 +28,10 @@ public class AbstractSemReadProject {
 //			}
 
 			mean.add(res.getValue().getScore());
-			LogUtils.logState(log, "======Final Evaluation======", res.getKey(), res.getValue());
+			//LogUtils.logState(log, "======Final Evaluation======", res.getKey(), res.getValue());
 		}
 		log.info("Mean Score: " + mean);
-		System.out.println("Mean Score: " + mean);
+//		System.out.println("Mean Score: " + mean);
 		return mean;
 	}
 }
