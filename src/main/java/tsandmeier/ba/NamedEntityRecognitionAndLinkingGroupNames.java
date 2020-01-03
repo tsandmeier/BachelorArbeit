@@ -18,8 +18,6 @@ import de.hterhors.semanticmr.crf.sampling.stopcrit.ISamplingStoppingCriterion;
 import de.hterhors.semanticmr.crf.sampling.stopcrit.impl.ConverganceCrit;
 import de.hterhors.semanticmr.crf.sampling.stopcrit.impl.MaxChainLengthCrit;
 import de.hterhors.semanticmr.crf.structure.IEvaluatable;
-import de.hterhors.semanticmr.crf.structure.annotations.AbstractAnnotation;
-import de.hterhors.semanticmr.crf.structure.annotations.DocumentLinkedAnnotation;
 import de.hterhors.semanticmr.crf.templates.AbstractFeatureTemplate;
 import de.hterhors.semanticmr.crf.variables.Annotations;
 import de.hterhors.semanticmr.crf.variables.IStateInitializer;
@@ -27,20 +25,16 @@ import de.hterhors.semanticmr.crf.variables.Instance;
 import de.hterhors.semanticmr.crf.variables.State;
 import de.hterhors.semanticmr.eval.EEvaluationDetail;
 import de.hterhors.semanticmr.init.specifications.SystemScope;
-import de.hterhors.semanticmr.json.nerla.JsonNerlaIO;
-import de.hterhors.semanticmr.json.nerla.wrapper.JsonEntityAnnotationWrapper;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import tsandmeier.ba.candprov.CreateAndGetDictionaryClass;
+import tsandmeier.ba.crf.SemanticParsingCRFCustom;
 import tsandmeier.ba.specs.NERLASpecsGroupName;
-import tsandmeier.ba.specs.NERLASpecsInjury;
 import tsandmeier.ba.templates.*;
 
 import java.io.File;
 import java.io.IOException;
-import java.sql.SQLOutput;
 import java.util.*;
-import java.util.stream.Collectors;
 
 /**
  * Example of how to perform named entity recognition and linking.
@@ -52,7 +46,10 @@ public class NamedEntityRecognitionAndLinkingGroupNames extends AbstractSemReadP
     private IEvaluatable.Score mean;
     private int mode;
     List<AbstractFeatureTemplate> featureTemplates;
+
     private double alpha;
+
+    private String modelName;
 
     /**1: all
      * 2: singleContextTemplates
@@ -74,9 +71,10 @@ public class NamedEntityRecognitionAndLinkingGroupNames extends AbstractSemReadP
 
         String arg1 = args[0];
         String arg2 = args[1];
+
         int mode = Integer.valueOf(arg1);
         double alpha = Double.valueOf(arg2);
-        if(mode < 1 || mode >7){
+        if (mode < 1 || mode > 7) {
             System.out.println("UNGÜLTIGER MODE");
         }
         new NamedEntityRecognitionAndLinkingGroupNames().startProcedure(mode, alpha);
@@ -109,30 +107,30 @@ public class NamedEntityRecognitionAndLinkingGroupNames extends AbstractSemReadP
          * entities-file is important) defined specification files. The scope mainly
          * affects the exploration.
          */
-            super(SystemScope.Builder.getScopeHandler()
-                    /**
-                     * We add a scope reader that reads and interprets the 4 specification files.
-                     */
-                    .addScopeSpecification(NERLASpecsGroupName.csvSpecsReader)
-                    /**
-                     * We apply the scope(s).
-                     */
-                    .apply()
-                    /**
-                     * Now normalization functions can be added. A normalization function is
-                     * especially used for literal-based annotations. In case a normalization
-                     * function is provided for a specific entity type, the normalized value is
-                     * compared during evaluation instead of the actual surface form. A
-                     * normalization function normalizes different surface forms so that e.g. the
-                     * weights "500 g", "0.5kg", "500g" are all equal. Each normalization function
-                     * is bound to exactly one entity type.
-                     */
+        super(SystemScope.Builder.getScopeHandler()
+                /**
+                 * We add a scope reader that reads and interprets the 4 specification files.
+                 */
+                .addScopeSpecification(NERLASpecsGroupName.csvSpecsReader)
+                /**
+                 * We apply the scope(s).
+                 */
+                .apply()
+                /**
+                 * Now normalization functions can be added. A normalization function is
+                 * especially used for literal-based annotations. In case a normalization
+                 * function is provided for a specific entity type, the normalized value is
+                 * compared during evaluation instead of the actual surface form. A
+                 * normalization function normalizes different surface forms so that e.g. the
+                 * weights "500 g", "0.5kg", "500g" are all equal. Each normalization function
+                 * is bound to exactly one entity type.
+                 */
 //                .registerNormalizationFunction(new WeightNormalization())
 //                .registerNormalizationFunction(new AgeNormalization())
-                    /**
-                     * Finally, we build the systems scope.
-                     */
-                    .build());
+                /**
+                 * Finally, we build the systems scope.
+                 */
+                .build());
 
 
     }
@@ -140,6 +138,7 @@ public class NamedEntityRecognitionAndLinkingGroupNames extends AbstractSemReadP
     public void startProcedure(int mode, double alpha) throws IOException {
 
         this.alpha = alpha;
+        this.mode = mode;
 
         /**
          * 2. STEP read and distribute the corpus.
@@ -231,17 +230,44 @@ public class NamedEntityRecognitionAndLinkingGroupNames extends AbstractSemReadP
          *
          */
 
-        this.mode = mode;
 
         featureTemplates = new ArrayList<>();
-                           //alle Templates
+
+        switch (mode) {
+            case 1:
+                featureTemplates.add(new BigramTemplate(false));
+                break;
+            case 2:
+                featureTemplates.add(new WMTemplate());
+                break;
+            case 3:
+                featureTemplates.add(new BMFLTemplate());
+                featureTemplates.add(new AMFLTemplate());
+                break;
+            case 4:
+                featureTemplates.add(new BigramTemplate(false));
+                featureTemplates.add(new WMTemplate());
+                break;
+            case 5:
+                featureTemplates.add(new BigramTemplate(false));
+                featureTemplates.add(new BMFLTemplate());
+                featureTemplates.add(new AMFLTemplate());
+                break;
+            case 6:
+                featureTemplates.add(new WMTemplate());
+                featureTemplates.add(new AMFLTemplate());
+                featureTemplates.add(new BMFLTemplate());
+                break;
+            case 7:
+                featureTemplates.add(new BigramTemplate());
+                featureTemplates.add(new WMTemplate());
+                featureTemplates.add(new AMFLTemplate());
+                featureTemplates.add(new BMFLTemplate());
+                break;
+        }
+
+
 //        addNumberTemplates(featureTemplates);
-        addsingleContextTemplates(featureTemplates);
-        addDoubleContextTemplates(featureTemplates);
-        addSingleMentionTemplates(featureTemplates);
-//      featureTemplates.add(new BigramTemplate(false));
-//      addNormalizationtemplates(featureTemplates);
-        addDoubleComparisonTemplates(featureTemplates);
 
 //
 //        featureTemplates.add(new AMFLTemplate());
@@ -333,8 +359,8 @@ public class NamedEntityRecognitionAndLinkingGroupNames extends AbstractSemReadP
          * NOTE: Make sure that the base model directory exists!
          */
         final File modelBaseDir = new File("models/nerla/groupNames/");
-//        final String modelName = "NERLA1234" + new Random().nextInt(10000);
-        final String modelName = "all_templates";
+        final String modelName = "NERLA1234" + new Random().nextInt(10000);
+//        final String modelName = "single_mention_context_mode_"+mode;
 
         Model model;
 
@@ -364,7 +390,6 @@ public class NamedEntityRecognitionAndLinkingGroupNames extends AbstractSemReadP
 //         System.exit(1);
 
 
-
         /**
          * If the model was loaded from the file system, we do not need to train it.
          */
@@ -372,6 +397,7 @@ public class NamedEntityRecognitionAndLinkingGroupNames extends AbstractSemReadP
             /**
              * Train the CRF.
              */
+//            crf.train(learner, instanceProvider.getRedistributedTrainingInstances(), numberOfEpochs, sampleStoppingCrits);
             crf.train(learner, instanceProvider.getRedistributedTrainingInstances(), numberOfEpochs, sampleStoppingCrits);
 
             /**
@@ -399,15 +425,15 @@ public class NamedEntityRecognitionAndLinkingGroupNames extends AbstractSemReadP
          * Finally, we evaluate the produced states and print some statistics.
          */
 
-		log.info(crf.getTrainingStatistics());
-		log.info(crf.getTestStatistics());
+        log.info(crf.getTrainingStatistics());
+        log.info(crf.getTestStatistics());
 
 
 //        StatSaver.addToSpreadsheet("statistics/injury_stats.ods", featureTemplates, mean.getF1(), crf.getTrainingStatistics().getTotalDuration()+crf.getTestStatistics().getTotalDuration(),
 //                crf.getTrainingStatistics().getTotalDuration(),crf.getTestStatistics().getTotalDuration(), alpha);
 
 
-        mean = evaluate(log, results);
+//        mean = evaluate(log, results);
 
         /**
          * Gefundene Annotationen in Json-File abspeichern
@@ -499,7 +525,7 @@ public class NamedEntityRecognitionAndLinkingGroupNames extends AbstractSemReadP
         featureTemplates.add(new WordCountTemplate());
     }
 
-    private void addDoubleComparisonTemplates(List<AbstractFeatureTemplate> featureTemplates){
+    private void addDoubleComparisonTemplates(List<AbstractFeatureTemplate> featureTemplates) {
         featureTemplates.add(new OverlappingTemplate(false));
         featureTemplates.add(new SimilarWordsTemplate());
     }
@@ -518,7 +544,7 @@ public class NamedEntityRecognitionAndLinkingGroupNames extends AbstractSemReadP
         return mean;
     }
 
-    public List<AbstractFeatureTemplate> getFeatureTemplates(){
+    public List<AbstractFeatureTemplate> getFeatureTemplates() {
         return featureTemplates;
     }
 }
