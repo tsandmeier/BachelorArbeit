@@ -14,9 +14,7 @@ import java.util.List;
 import java.util.Objects;
 
 /**
- * looks for the words before a mention
- * joins BM1F and BM1L and even more
- * looks for second/third word before mention
+ * looks for one to a set number of words before a mention
  */
 public class BMFLTemplate extends AbstractFeatureTemplate<BMFLTemplate.BMFLScope> {
 
@@ -97,7 +95,7 @@ public class BMFLTemplate extends AbstractFeatureTemplate<BMFLTemplate.BMFLScope
 				subtext = factor.getFactorScope().document.getContent(firstToken, factor.getFactorScope().document.tokenList.get(factor.getFactorScope().token.getDocTokenIndex() - 1));
 
 				factor.getFeatureVector().set("Words before <"+factor.getFactorScope().type.entityName + ">: " + subtext, true);
-				factor.getFeatureVector().set(i+"  Words before <"+factor.getFactorScope().type.entityName + ">: " + factor.getFactorScope().document.tokenList.get(factor.getFactorScope().token.getDocTokenIndex() - i).getText(), true);
+//				factor.getFeatureVector().set(i+" Words before <"+factor.getFactorScope().type.entityName + ">: " + factor.getFactorScope().document.tokenList.get(factor.getFactorScope().token.getDocTokenIndex() - i).getText(), true);
 			}
 		}
 	}

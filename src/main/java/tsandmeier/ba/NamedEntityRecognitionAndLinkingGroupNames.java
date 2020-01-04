@@ -42,7 +42,7 @@ import java.util.*;
 public class NamedEntityRecognitionAndLinkingGroupNames extends AbstractSemReadProject {
     private static Logger log = LogManager.getFormatterLogger("de.hterhors.semanticmr.projects.examples.corpus.nerl.NerlCorpusCreationExample");
     private final boolean overrideModel = false;
-    SemanticParsingCRF crf;
+    SemanticParsingCRFCustom crf;
     private IEvaluatable.Score mean;
     private int mode;
     List<AbstractFeatureTemplate> featureTemplates;
@@ -380,7 +380,7 @@ public class NamedEntityRecognitionAndLinkingGroupNames extends AbstractSemReadP
         /**
          * Create a new semantic parsing CRF and initialize with needed parameter.
          */
-        crf = new SemanticParsingCRF(model, explorer, sampler, stateInitializer, objectiveFunction);
+        crf = new SemanticParsingCRFCustom(model, explorer, sampler, stateInitializer, objectiveFunction);
 
 //        IEvaluatable.Score coverage = crf.computeCoverage(true,objectiveFunction, instanceProvider.getRedistributedTestInstances());
 //
@@ -398,7 +398,7 @@ public class NamedEntityRecognitionAndLinkingGroupNames extends AbstractSemReadP
              * Train the CRF.
              */
 //            crf.train(learner, instanceProvider.getRedistributedTrainingInstances(), numberOfEpochs, sampleStoppingCrits);
-            crf.train(learner, instanceProvider.getRedistributedTrainingInstances(), numberOfEpochs, sampleStoppingCrits);
+            crf.trainAndTestEveryEpoch(learner, instanceProvider.getRedistributedTrainingInstances(), numberOfEpochs, sampleStoppingCrits, instanceProvider.getInstances(), maxStepCrit, noModelChangeCrit);
 
             /**
              * Save the model as binary. Do not override, in case a file already exists for
@@ -433,7 +433,7 @@ public class NamedEntityRecognitionAndLinkingGroupNames extends AbstractSemReadP
 //                crf.getTrainingStatistics().getTotalDuration(),crf.getTestStatistics().getTotalDuration(), alpha);
 
 
-//        mean = evaluate(log, results);
+        mean = evaluate(log, results);
 
         /**
          * Gefundene Annotationen in Json-File abspeichern
@@ -536,7 +536,7 @@ public class NamedEntityRecognitionAndLinkingGroupNames extends AbstractSemReadP
     }
 
 
-    public SemanticParsingCRF getCRF() {
+    public SemanticParsingCRFCustom getCRF() {
         return crf;
     }
 

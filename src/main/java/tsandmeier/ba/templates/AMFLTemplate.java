@@ -14,8 +14,7 @@ import java.util.List;
 import java.util.Objects;
 
 /**
- * looks for the words after a mention
- * joins AM1F and AM1L and even more
+ * looks for one to a set number of words after a mention
  */
 
 public class AMFLTemplate extends AbstractFeatureTemplate<AMFLTemplate.AMFLScope> {
@@ -28,7 +27,7 @@ public class AMFLTemplate extends AbstractFeatureTemplate<AMFLTemplate.AMFLScope
         super(cache);
     }
 
-    private static final int NUMBER_OF_WORDS = 3;
+    private static final int NUMBER_OF_WORDS = 5;
 
     static class AMFLScope
             extends AbstractFactorScope {
@@ -97,6 +96,8 @@ public class AMFLTemplate extends AbstractFeatureTemplate<AMFLTemplate.AMFLScope
                         factor.getFactorScope().document.tokenList.get(tokenIndex+1), lastToken);
 
                 factor.getFeatureVector().set("Words after <"+factor.getFactorScope().type.entityName + ">: " + subtext, true);
+//                factor.getFeatureVector().set(i+" Words after <"+factor.getFactorScope().type.entityName + ">: " + factor.getFactorScope().document.tokenList.get(tokenIndex + i).getText(), true);
+
             }
         }
     }
