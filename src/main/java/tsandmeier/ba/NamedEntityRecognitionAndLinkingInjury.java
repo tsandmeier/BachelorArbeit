@@ -1,11 +1,11 @@
 package tsandmeier.ba;
 
-import de.hterhors.semanticmr.candprov.nerla.NerlaCandidateProviderCollection;
 import de.hterhors.semanticmr.corpus.InstanceProvider;
 import de.hterhors.semanticmr.corpus.distributor.AbstractCorpusDistributor;
 import de.hterhors.semanticmr.corpus.distributor.ShuffleCorpusDistributor;
 import de.hterhors.semanticmr.crf.SemanticParsingCRF;
 import de.hterhors.semanticmr.crf.exploration.EntityRecLinkExplorer;
+import de.hterhors.semanticmr.crf.exploration.IExplorationStrategy;
 import de.hterhors.semanticmr.crf.learner.AdvancedLearner;
 import de.hterhors.semanticmr.crf.learner.optimizer.SGD;
 import de.hterhors.semanticmr.crf.learner.regularizer.L2;
@@ -32,6 +32,7 @@ import de.hterhors.semanticmr.json.nerla.wrapper.JsonEntityAnnotationWrapper;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import tsandmeier.ba.candprov.*;
+import tsandmeier.ba.crf.SemanticParsingCRFCustomTwo;
 import tsandmeier.ba.specs.NERLASpecsInjury;
 import tsandmeier.ba.templates.*;
 
@@ -46,9 +47,9 @@ import java.util.stream.Collectors;
 public class NamedEntityRecognitionAndLinkingInjury extends AbstractSemReadProject {
     private static Logger log = LogManager.getFormatterLogger(NamedEntityRecognitionAndLinkingInjury.class);
     private final boolean overrideModel = false;
-    SemanticParsingCRF crf;
+    SemanticParsingCRFCustomTwo crf;
     private IEvaluatable.Score mean;
-    List<AbstractFeatureTemplate> featureTemplates;
+    List<AbstractFeatureTemplate<?>> featureTemplates;
     private double alpha = 0.001;
 
 
@@ -158,18 +159,19 @@ public class NamedEntityRecognitionAndLinkingInjury extends AbstractSemReadProje
          * performed! @see ExhaustiveCandidateRetrieval
          *
          */
-//        NerlaCandidateProviderCollection candidateRetrieval = new NerlaCandidateProviderCollection(
-//                new GetDictionaryClass(dictionaryFile));
-        NerlaCandidateProviderCollection candidateRetrieval = new NerlaCandidateProviderCollection(
-                new CreateAndGetDictionaryClass(instanceProvider.getInstances()));
-//        candidateRetrieval.addCandidateProvider(new LevenshteinCandidateRetrieval());
+
+
+
+        for (Instance instance : instanceProvider.getInstances()) {
+            instance.addCandidates(dictionaryFile);
+        }
 
         /**
          * For the entity recognition and linking problem, the EntityRecLinkExplorer is
          * added to perform changes during the exploration. This explorer is especially
          * designed for NERLA and is parameterized with a candidate retrieval.
          */
-        EntityRecLinkExplorer explorer = new EntityRecLinkExplorer(candidateRetrieval);
+        EntityRecLinkExplorer explorer = new EntityRecLinkExplorer();
 
         /**
          * 4. STEP
@@ -209,12 +211,12 @@ public class NamedEntityRecognitionAndLinkingInjury extends AbstractSemReadProje
 
         featureTemplates = new ArrayList<>();
 
-        addNumberTemplates(featureTemplates);
-        addsingleContextTemplates(featureTemplates);
-        addDoubleContextTemplates(featureTemplates);
-        addSingleMentionTemplates(featureTemplates);
-        featureTemplates.add(new ML12Template());
-        addDoubleComparisonTemplates(featureTemplates);
+//        addNumberTemplates(featureTemplates);
+//        addsingleContextTemplates(featureTemplates);
+//        addDoubleContextTemplates(featureTemplates);
+//        addSingleMentionTemplates(featureTemplates);
+//        featureTemplates.add(new ML12Template());
+//        addDoubleComparisonTemplates(featureTemplates);
 
 
 
@@ -304,7 +306,7 @@ public class NamedEntityRecognitionAndLinkingInjury extends AbstractSemReadProje
         /**
          * Create a new semantic parsing CRF and initialize with needed parameter.
          */
-        crf = new SemanticParsingCRF(model, explorer, sampler, stateInitializer, objectiveFunction);
+        crf = new SemanticParsingCRFCustomTwo(model, explorer, sampler, stateInitializer, objectiveFunction);
 
 //        IEvaluatable.Score coverage = crf.computeCoverage(true,objectiveFunction, instanceProvider.getRedistributedTestInstances());
 //
@@ -414,7 +416,7 @@ public class NamedEntityRecognitionAndLinkingInjury extends AbstractSemReadProje
         featureTemplates.add(new SimilarWordsTemplate());
     }
 
-    public SemanticParsingCRF getCRF() {
+    public SemanticParsingCRFCustomTwo getCRF() {
         return crf;
     }
 
@@ -422,7 +424,7 @@ public class NamedEntityRecognitionAndLinkingInjury extends AbstractSemReadProje
         return mean;
     }
 
-    public List<AbstractFeatureTemplate> getFeatureTemplates(){
+    public List<AbstractFeatureTemplate<?>> getFeatureTemplates(){
         return featureTemplates;
     }
 

@@ -56,7 +56,7 @@
 		</Logger>
 
 		<Logger name="de.hterhors.semanticmr.corpus.InstanceProvider"
-			level="INFO" additivity="false">
+			level="DEBUG" additivity="false">
 			<AppenderRef ref="Console" />
 			<AppenderRef ref="LogFile" />
 		</Logger>
@@ -67,6 +67,7 @@
 			<AppenderRef ref="Console" />
 			<AppenderRef ref="LogFile" />
 		</Logger>
+
 		<Logger name="de.hterhors.semanticmr.crf.factor.Model"
 			level="INFO" additivity="false">
 			<AppenderRef ref="Console" />

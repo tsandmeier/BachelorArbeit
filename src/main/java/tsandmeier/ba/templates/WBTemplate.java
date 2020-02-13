@@ -99,13 +99,13 @@ public class WBTemplate extends AbstractFeatureTemplate<WBTemplate.WBScope> {
 
             if (WBFACTIVE) {
                 String firstWordBetween = factor.getFactorScope().document.tokenList.get(factor.getFactorScope().tokenOne.getDocTokenIndex()+1).getText();
-                factor.getFeatureVector().set("WBF: <" + factor.getFactorScope().typeOne.entityName + ", "
-                        + factor.getFactorScope().typeTwo.entityName + "> " + firstWordBetween, true);
+                factor.getFeatureVector().set("WBF: <" + factor.getFactorScope().typeOne.name + ", "
+                        + factor.getFactorScope().typeTwo.name + "> " + firstWordBetween, true);
             }
             if (WBLACTIVE) {
                 String lastWordBetween = factor.getFactorScope().document.tokenList.get(factor.getFactorScope().tokenTwo.getDocTokenIndex()-1).getText();
-                factor.getFeatureVector().set("WBL: <" + factor.getFactorScope().typeOne.entityName + " "
-                        + factor.getFactorScope().typeTwo.entityName + "> " + lastWordBetween, true);
+                factor.getFeatureVector().set("WBL: <" + factor.getFactorScope().typeOne.name + " "
+                        + factor.getFactorScope().typeTwo.name + "> " + lastWordBetween, true);
             }
 
 

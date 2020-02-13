@@ -51,7 +51,7 @@ public class SemanticParsingCRFCustom {
     private static final String TEST_CONTEXT = "===========TEST============\n";
     final List<IExplorationStrategy> explorerList;
     final Model model;
-    final IObjectiveFunction objectiveFunction;
+    IObjectiveFunction objectiveFunction;
     final AbstractSampler sampler;
     private final IStateInitializer initializer;
     private SemanticParsingCRFCustom.CRFStatistics trainingStatistics;
@@ -544,6 +544,7 @@ public class SemanticParsingCRFCustom {
         return meanTrainOFScore;
     }
 
+
     private static class CRFStatistics {
         private final String context;
         private long startTrainingTime;
@@ -578,4 +579,9 @@ public class SemanticParsingCRFCustom {
 //		System.out.println("Mean Score: " + mean);
         return mean;
     }
+
+    public void changeObjectiveFunction (IObjectiveFunction objectiveFunction){
+        this.objectiveFunction = objectiveFunction;
+    }
+
 }

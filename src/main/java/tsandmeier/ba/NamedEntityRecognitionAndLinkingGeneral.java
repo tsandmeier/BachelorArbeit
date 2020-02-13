@@ -3,14 +3,12 @@ package tsandmeier.ba;
 import de.hterhors.semanticmr.corpus.InstanceProvider;
 import de.hterhors.semanticmr.corpus.distributor.AbstractCorpusDistributor;
 import de.hterhors.semanticmr.corpus.distributor.ShuffleCorpusDistributor;
-import de.hterhors.semanticmr.crf.SemanticParsingCRF;
 import de.hterhors.semanticmr.crf.exploration.EntityRecLinkExplorer;
 import de.hterhors.semanticmr.crf.learner.AdvancedLearner;
 import de.hterhors.semanticmr.crf.learner.optimizer.SGD;
 import de.hterhors.semanticmr.crf.learner.regularizer.L2;
 import de.hterhors.semanticmr.crf.model.Model;
 import de.hterhors.semanticmr.crf.of.IObjectiveFunction;
-import de.hterhors.semanticmr.crf.of.NerlaObjectiveFunction;
 import de.hterhors.semanticmr.crf.sampling.AbstractSampler;
 import de.hterhors.semanticmr.crf.sampling.impl.EpochSwitchSampler;
 import de.hterhors.semanticmr.crf.sampling.stopcrit.ISamplingStoppingCriterion;
@@ -23,30 +21,44 @@ import de.hterhors.semanticmr.crf.variables.IStateInitializer;
 import de.hterhors.semanticmr.crf.variables.Instance;
 import de.hterhors.semanticmr.crf.variables.State;
 import de.hterhors.semanticmr.eval.EEvaluationDetail;
+import de.hterhors.semanticmr.init.reader.csv.CSVScopeReader;
 import de.hterhors.semanticmr.init.specifications.SystemScope;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import tsandmeier.ba.candprov.GetDictionaryClass;
+import tsandmeier.ba.candprov.CreateDictionaryClass;
 import tsandmeier.ba.crf.SemanticParsingCRFCustomTwo;
-import tsandmeier.ba.normalizer.AgeNormalization;
-import tsandmeier.ba.normalizer.WeightNormalization;
-import tsandmeier.ba.specs.NERLASpecsOrganismModel;
+import tsandmeier.ba.evaluator.NerlaObjectiveFunctionPartialOverlap;
+import tsandmeier.ba.specs.NERLASpecsGroupName;
 import tsandmeier.ba.templates.*;
 
 import java.io.File;
 import java.io.IOException;
-import java.util.*;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Map;
+import java.util.Random;
 
 /**
  * Example of how to perform named entity recognition and linking.
  */
-public class NamedEntityRecognitionAndLinkingOrganismModel extends AbstractSemReadProject {
-    private static Logger log = LogManager.getFormatterLogger("NamedEntityRecognitionAndLinkingOrganismModel");
-    private double alpha = 0.001;
+public class NamedEntityRecognitionAndLinkingGeneral extends AbstractSemReadProject {
+    private static Logger log = LogManager.getFormatterLogger("de.hterhors.semanticmr.projects.examples.corpus.nerl.NerlCorpusCreationExample");
     private final boolean overrideModel = false;
     SemanticParsingCRFCustomTwo crf;
+    private IEvaluatable.Score mean;
+    private int mode;
     List<AbstractFeatureTemplate<?>> featureTemplates;
-    IEvaluatable.Score mean;
+
+    private final EEvaluationDetail evaluationDetail = EEvaluationDetail.DOCUMENT_LINKED;
+
+    private double alpha;
+
+    private static String INSTANCE_DIRECTORY = "ner/group_name/instances/";
+    private static String ENTITIES = "ner/group_name/data_structure/entities.csv";
+    private static String HIERARCHIES = "ner/group_name/data_structure/hierarchies.csv";
+    private static String SLOTS = "ner/group_name/data_structure/slots.csv";
+    private static String STRUCTURES = "ner/group_name/data_structure/structures.csv";
+
 
     /**1: all
      * 2: singleContextTemplates
@@ -61,10 +73,21 @@ public class NamedEntityRecognitionAndLinkingOrganismModel extends AbstractSemRe
      * Start the named entity recognition and linking procedure.
      *
      * @param args
-     * @throws IOException
      */
-    public static void main(String[] args) throws IOException {
-        new NamedEntityRecognitionAndLinkingOrganismModel().startProcedure();
+    public static void main(String[] args) {
+
+        int mode;
+        double alpha;
+
+            if(args.length == 2){
+                mode = Integer.valueOf(args[0]);
+                alpha = Double.valueOf(args[1]);
+            } else {
+                mode = 1;
+                alpha = 0.001;
+            }
+        new NamedEntityRecognitionAndLinkingGeneral().startProcedure(mode, alpha);
+
     }
 
     /**
@@ -77,15 +100,15 @@ public class NamedEntityRecognitionAndLinkingOrganismModel extends AbstractSemRe
      * lookup, Lucene-based etc...
      */
 
-    private final File dictionaryFile = new File("src/main/resources/examples/nerla/dicts/organismModel.dict");
+//    private final File dictionaryFile = new File("src/main/resources/examples/nerla/dicts/injury.dict");
 
     /**
      * The directory of the corpus instances. In this example each instance is
      * stored in its own json-file.
      */
-    private final File instanceDirectory = new File("src/main/resources/examples/nerla/organismModel/corpus/instances/");
+    private final File instanceDirectory = new File(INSTANCE_DIRECTORY);
 
-    public NamedEntityRecognitionAndLinkingOrganismModel() {
+    public NamedEntityRecognitionAndLinkingGeneral() {
 
         /**
          * 1. STEP initialize the system.
@@ -98,7 +121,7 @@ public class NamedEntityRecognitionAndLinkingOrganismModel extends AbstractSemRe
                 /**
                  * We add a scope reader that reads and interprets the 4 specification files.
                  */
-                .addScopeSpecification(NERLASpecsOrganismModel.csvSpecsReader)
+                .addScopeSpecification(new CSVScopeReader(new File(ENTITIES), new File(HIERARCHIES), new File(SLOTS), new File(STRUCTURES)))
                 /**
                  * We apply the scope(s).
                  */
@@ -112,8 +135,8 @@ public class NamedEntityRecognitionAndLinkingOrganismModel extends AbstractSemRe
                  * weights "500 g", "0.5kg", "500g" are all equal. Each normalization function
                  * is bound to exactly one entity type.
                  */
-                .registerNormalizationFunction(new WeightNormalization())
-                .registerNormalizationFunction(new AgeNormalization())
+//                .registerNormalizationFunction(new WeightNormalization())
+//                .registerNormalizationFunction(new AgeNormalization())
                 /**
                  * Finally, we build the systems scope.
                  */
@@ -122,7 +145,12 @@ public class NamedEntityRecognitionAndLinkingOrganismModel extends AbstractSemRe
 
     }
 
-    public void startProcedure() throws IOException {
+    public void startProcedure(int mode, double alpha) {
+
+        this.alpha = alpha;
+        this.mode = mode;
+
+        InstanceProvider.maxNumberOfAnnotations = 1000;
 
         /**
          * 2. STEP read and distribute the corpus.
@@ -136,7 +164,8 @@ public class NamedEntityRecognitionAndLinkingOrganismModel extends AbstractSemRe
          *
          */
         AbstractCorpusDistributor shuffleCorpusDistributor = new ShuffleCorpusDistributor.Builder()
-                .setCorpusSizeFraction(1F).setTrainingProportion(80).setTestProportion(20).build();
+                .setCorpusSizeFraction(1F).setTrainingProportion(80).setTestProportion(20).setSeed(100L).build();
+
 
         /**
          * The instance provider reads all json files in the given directory. We can set
@@ -147,6 +176,7 @@ public class NamedEntityRecognitionAndLinkingOrganismModel extends AbstractSemRe
          * that should be read.
          */
         InstanceProvider instanceProvider = new InstanceProvider(instanceDirectory, shuffleCorpusDistributor);
+
 
         /**
          * 3. STEP
@@ -160,9 +190,12 @@ public class NamedEntityRecognitionAndLinkingOrganismModel extends AbstractSemRe
          *
          */
 
+        CreateDictionaryClass dictionaryClass = new CreateDictionaryClass(instanceProvider.getInstances());
+
         for (Instance instance : instanceProvider.getInstances()) {
-            instance.addCandidates(dictionaryFile);
+            instance.addCandidates(dictionaryClass.getDictionary());
         }
+
 
         /**
          * For the entity recognition and linking problem, the EntityRecLinkExplorer is
@@ -191,13 +224,14 @@ public class NamedEntityRecognitionAndLinkingOrganismModel extends AbstractSemRe
          *
          */
 //		IObjectiveFunction objectiveFunction = new BetaNerlaObjectiveFunction(EEvaluationDetail.LITERAL);
-        IObjectiveFunction objectiveFunction = new NerlaObjectiveFunction(EEvaluationDetail.DOCUMENT_LINKED);
+        IObjectiveFunction objectiveFunction = new NerlaObjectiveFunctionPartialOverlap(evaluationDetail);
 
         /**
          * The learner defines the update strategy of learned weights. parameters are
          * the alpha value that is specified in the SGD (first parameter) and the
          * L2-regularization value.
          *
+         * TODO: find best alpha value in combination with L2-regularization.
          */
         AdvancedLearner learner = new AdvancedLearner(new SGD(alpha, 0), new L2(0.0001)); //alpha von 0.001 scheint besser als 0.01, 0.0001 macht jedoch wieder schlechter
 
@@ -206,18 +240,80 @@ public class NamedEntityRecognitionAndLinkingOrganismModel extends AbstractSemRe
          * provide 3 templates that implements standard features like morphological-,
          * context-, and surface form-features.
          *
+         * TODO: Implement further templates / features to solve your problem.
+         *
          */
+
 
         featureTemplates = new ArrayList<>();
 
-//        addNumberTemplates(featureTemplates);
-//        addsingleContextTemplates(featureTemplates);
-//        addDoubleContextTemplates(featureTemplates);
-//        addSingleMentionTemplates(featureTemplates);
-//        featureTemplates.add(new ML12Template());
-//        addNormalizationtemplates(featureTemplates);
-//        addDoubleComparisonTemplates(featureTemplates);
+        switch (mode) {
+            case 1:
+                featureTemplates.add(new AMFLTemplate());
+                featureTemplates.add(new BMFLTemplate());
+                featureTemplates.add(new PosInDocTemplate());
 
+                break;
+            case 2:
+                featureTemplates.add(new SimilarWordsTemplate());
+                break;
+            case 3:
+                featureTemplates.add(new OverlappingTemplate());
+                featureTemplates.add(new SimilarWordsTemplate());
+            case 4:
+                featureTemplates.add(new AMFLTemplate());
+                featureTemplates.add(new BMFLTemplate());
+                featureTemplates.add(new OverlappingTemplate());
+                break;
+            case 5:
+                featureTemplates.add(new AMFLTemplate());
+                featureTemplates.add(new BMFLTemplate());
+                featureTemplates.add(new SimilarWordsTemplate());
+            case 6:
+                featureTemplates.add(new BigramTemplate());
+                featureTemplates.add(new SimilarWordsTemplate());
+                break;
+            case 7:
+                featureTemplates.add(new BigramTemplate());
+                featureTemplates.add(new OverlappingTemplate());
+                break;
+            case 8:
+                featureTemplates.add(new BigramTemplate());
+                featureTemplates.add(new OverlappingTemplate());
+                featureTemplates.add(new SimilarWordsTemplate());
+                break;
+            case 9:
+                featureTemplates.add(new BigramTemplate());
+                featureTemplates.add(new OverlappingTemplate());
+                featureTemplates.add(new SimilarWordsTemplate());
+                featureTemplates.add(new AMFLTemplate());
+                featureTemplates.add(new BMFLTemplate());
+                break;
+        }
+
+
+//        addNumberTemplates(featureTemplates);
+
+//
+//        featureTemplates.add(new AMFLTemplate());
+//        featureTemplates.add(new BMFLTemplate());
+
+
+//		featureTemplates.add(new WMTemplate()); //scheint nichts beizutragen, obwohl einzeln nicht schlecht
+
+
+//		featureTemplates.add(new WBOTemplate());
+
+
+        //		featureTemplates.add(new WeightBetweenTemplate());
+
+
+//		featureTemplates.add(new MorphologicalNerlaTemplate());
+//		featureTemplates.add(new TokenContextTemplate());
+//		featureTemplates.add(new IntraTokenTemplate());
+//		featureTemplates.add(new LevenshteinTemplate());
+
+//		featureTemplates.add(new AvgNumberTemplate());
 
         /**
          * During exploration we initialize each state with no annotations. In NERLA
@@ -230,6 +326,7 @@ public class NamedEntityRecognitionAndLinkingOrganismModel extends AbstractSemRe
         /**
          * Number of epochs, the system should train.
          *
+         * TODO: Find perfect number of epochs.
          */
         int numberOfEpochs = 10;  //10 scheint doppelt so gut wie 9, danach wohl keine Besserung
 
@@ -239,7 +336,7 @@ public class NamedEntityRecognitionAndLinkingOrganismModel extends AbstractSemRe
          * example we set the maximum chain length to 10. That means, only 10 changes
          * (annotations) can be added to each document.
          */
-        ISamplingStoppingCriterion maxStepCrit = new MaxChainLengthCrit(10);
+        ISamplingStoppingCriterion maxStepCrit = new MaxChainLengthCrit(500);
 
         /**
          * The next stopping criterion checks for no or only little (based on a
@@ -272,6 +369,8 @@ public class NamedEntityRecognitionAndLinkingOrganismModel extends AbstractSemRe
          * For now, we chose a simple epoch switch strategy that switches between greedy
          * objective score and greedy models score every epoch.
          *
+         * TODO: Although many problems seem to work well with this strategy there are
+         * certainly better strategies.
          */
 //		AbstractSampler sampler = SamplerCollection.greedyModelStrategy();
 //		AbstractSampler sampler = SamplerCollection.greedyObjectiveStrategy();
@@ -284,9 +383,9 @@ public class NamedEntityRecognitionAndLinkingOrganismModel extends AbstractSemRe
          *
          * NOTE: Make sure that the base model directory exists!
          */
-        final File modelBaseDir = new File("models/nerla/organismModel/");
+        final File modelBaseDir = new File("models/nerla/groupNames/");
         final String modelName = "NERLA1234" + new Random().nextInt(10000);
-//        final String modelName = "testModel";
+//        final String modelName = "DocLinked_mit_300_maxStep";
 
         Model model;
 
@@ -310,9 +409,11 @@ public class NamedEntityRecognitionAndLinkingOrganismModel extends AbstractSemRe
 
 //        IEvaluatable.Score coverage = crf.computeCoverage(true,objectiveFunction, instanceProvider.getRedistributedTrainingInstances());
 //
-//        System.out.println("COVERAGE: "+coverage);
+//        System.out.println(coverage);
 //
-//        System.exit(1);
+//
+//         System.exit(1);
+
 
         /**
          * If the model was loaded from the file system, we do not need to train it.
@@ -321,13 +422,14 @@ public class NamedEntityRecognitionAndLinkingOrganismModel extends AbstractSemRe
             /**
              * Train the CRF.
              */
+//            crf.train(learner, instanceProvider.getRedistributedTrainingInstances(), numberOfEpochs, sampleStoppingCrits);
             crf.train(learner, instanceProvider.getRedistributedTrainingInstances(), numberOfEpochs, sampleStoppingCrits);
 
             /**
              * Save the model as binary. Do not override, in case a file already exists for
              * that name.
              */
-            model.save(true);
+            model.save(false);
 
             /**
              * Print the model in a readable format.
@@ -341,59 +443,21 @@ public class NamedEntityRecognitionAndLinkingOrganismModel extends AbstractSemRe
          * in this case. This method returns for each instances a final state (best
          * state based on the trained model) that contains annotations.
          */
-//
+
+        crf.changeObjectiveFunction(new NerlaObjectiveFunctionPartialOverlap(evaluationDetail));
+
         Map<Instance, State> results = crf.predict(instanceProvider.getRedistributedTestInstances(), maxStepCrit,
                 noModelChangeCrit);
-
 
         /**
          * Finally, we evaluate the produced states and print some statistics.
          */
+
+        log.info(crf.getTrainingStatistics());
+        log.info(crf.getTestStatistics());
         mean = evaluate(log, results);
 
-		log.info(crf.getTrainingStatistics());
-		log.info(crf.getTestStatistics());
-
-
-            //for saving the results into a table
-        //StatSaver.addToSpreadsheet("statistics/organismModel_stats_no_POS_Norm_new.ods", featureTemplates, mean.getF1(), crf.getTrainingStatistics().getTotalDuration() + crf.getTestStatistics().getTotalDuration(),
-        //        crf.getTrainingStatistics().getTotalDuration(), crf.getTestStatistics().getTotalDuration(), alpha);
-
-
-//        Map<Instance, State> results = crf.predictHighRecall(instanceProvider.getInstances(),5, maxStepCrit,
-//                noModelChangeCrit);
-
-
-
-        //To get the Json Files
-
-        //      Map<Instance, Set<DocumentLinkedAnnotation>> annotations = new HashMap<>();
-
-        //     for (Map.Entry<Instance, State> result : results.entrySet()) {
-        //       for (AbstractAnnotation aa : result.getValue().getCurrentPredictions().getAnnotations()) {
-
-        //         annotations.putIfAbsent(result.getKey(), new HashSet<>());
-        //       annotations.get(result.getKey()).add(aa.asInstanceOfDocumentLinkedAnnotation());
-        //   }
-        //  }
-
-//        JsonNerlaIO io = new JsonNerlaIO(true);
-
-//       for (Instance instance : results.keySet()) {
-
-
-        //          List<JsonEntityAnnotationWrapper> wrappedAnnotation = annotations.get(instance).stream()
-        //                .map(d -> new JsonEntityAnnotationWrapper(d))
-        //               .collect(Collectors.toList());
-        //        io.writeNerlas(new File("jsonFiles/OrganismModel/HighRecall30/"+instance.getName() + ".nerla.json"), wrappedAnnotation);
-
-        //  }
-
-//
-//        IEvaluatable.Score mean = evaluate(log, results);
-//        System.out.println(crf.getTrainingStatistics());
-//        System.out.println(crf.getTestStatistics());
-
+        log.info("Modell gespeichert unter: " + modelBaseDir.toString() + "/" + modelName);
     }
 
     private void addNumberTemplates(List<AbstractFeatureTemplate> featureTemplates) {

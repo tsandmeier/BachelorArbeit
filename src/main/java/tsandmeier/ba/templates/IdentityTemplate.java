@@ -74,13 +74,13 @@ public class IdentityTemplate extends AbstractFeatureTemplate<IdentityTemplate.I
 	@Override
 	public void generateFeatureVector(Factor<IdentityScope> factor) {
 
-		if(factor.getFactorScope().type.entityName.equals(factor.getFactorScope().surfaceForm)) {
-			factor.getFeatureVector().set("Exact Match: <"+ factor.getFactorScope().type.entityName+"> "+ factor.getFactorScope().surfaceForm, true);
+		if(factor.getFactorScope().type.name.equals(factor.getFactorScope().surfaceForm)) {
+			factor.getFeatureVector().set("Exact Match: <"+ factor.getFactorScope().type.name+"> "+ factor.getFactorScope().surfaceForm, true);
 
 			Set<EntityType> parentEntity = factor.getFactorScope().type.getDirectSuperEntityTypes();
 			for(EntityType parent : parentEntity) {
 
-				factor.getFeatureVector().set("Exact Match for ChildEntity: <" + parent.entityName + "> " + factor.getFactorScope().surfaceForm, true);
+				factor.getFeatureVector().set("Exact Match for ChildEntity: <" + parent.name + "> " + factor.getFactorScope().surfaceForm, true);
 			}
 		}
 

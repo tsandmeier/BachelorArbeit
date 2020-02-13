@@ -95,8 +95,8 @@ public class AMFLTemplate extends AbstractFeatureTemplate<AMFLTemplate.AMFLScope
                 subtext = factor.getFactorScope().document.getContent(
                         factor.getFactorScope().document.tokenList.get(tokenIndex+1), lastToken);
 
-                factor.getFeatureVector().set("Words after <"+factor.getFactorScope().type.entityName + ">: " + subtext, true);
-//                factor.getFeatureVector().set(i+" Words after <"+factor.getFactorScope().type.entityName + ">: " + factor.getFactorScope().document.tokenList.get(tokenIndex + i).getText(), true);
+                factor.getFeatureVector().set("Words after <"+factor.getFactorScope().type.name + ">: " + subtext, true);
+//                factor.getFeatureVector().set(i+" Words after <"+factor.getFactorScope().type.name + ">: " + factor.getFactorScope().document.tokenList.get(tokenIndex + i).getText(), true);
 
             }
         }

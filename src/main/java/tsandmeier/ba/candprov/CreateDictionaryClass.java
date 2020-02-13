@@ -1,6 +1,5 @@
 package tsandmeier.ba.candprov;
 
-import de.hterhors.semanticmr.candprov.nerla.INerlaCandidateProvider;
 import de.hterhors.semanticmr.crf.structure.EntityType;
 import de.hterhors.semanticmr.crf.structure.annotations.AbstractAnnotation;
 import de.hterhors.semanticmr.crf.structure.annotations.DocumentLinkedAnnotation;
@@ -20,13 +19,12 @@ import java.util.stream.Collectors;
 /**
  * We build a dictionary by looking at the gold-annotations of every Document.
  */
-public class CreateAndGetDictionaryClass implements INerlaCandidateProvider {
+public class CreateDictionaryClass {
 
     /**
      * The dictionary.
      */
     final private Map<EntityType, Set<String>> dictionary = new HashMap<>();
-
 
     WeightInterpreter sw;
     AgeInterpreter sa;
@@ -53,7 +51,7 @@ public class CreateAndGetDictionaryClass implements INerlaCandidateProvider {
     final private Map<String, WeightInterpreter> weightCache = new HashMap<>();
     final private Map<String, AgeInterpreter> ageCache = new HashMap<>();
 
-    public CreateAndGetDictionaryClass(List<Instance> instances) {
+    public CreateDictionaryClass(List<Instance> instances) {
 
 
         for (Instance inst : instances) {
@@ -110,50 +108,6 @@ public class CreateAndGetDictionaryClass implements INerlaCandidateProvider {
 //		}
 //	}
 
-    @Override
-    public Set<EntityType> getEntityTypeCandidates(String text) {
-
-//		if(text.matches(".*\\d+.*")){
-//			return set;
-//		}
-//
-//        if ((sw = weightCache.get(text)) == null) {
-//            weightCache.put(text, sw = new WeightInterpreter(text));
-//        }
-//
-//        if (sw.isInterpretable()) {
-//            return weightSet;
-//        }
-//
-//        boolean isDosage = isDosage(text);
-//        boolean isDistance = isDistance(text);
-//
-//
-//        if(isDosage && isDistance){
-//            return dosageDistanceSet;
-//        }
-//
-//        if(isDosage)
-//            return dosageSet;
-//
-//        if(isDistance(text)){
-//            return distanceSet;
-//        }
-
-////
-////
-//            if ((sa = ageCache.get(text)) == null) {
-//                ageCache.put(text, sa = new AgeInterpreter(text));
-//            }
-//
-//            if (sa.isInterpretable()) {
-//                return ageSet;
-//            }
-
-
-        return reverseDictionary.getOrDefault(text, Collections.emptySet());
-    }
-
     public String convertToString(List<DocumentToken> tokens) {
         StringBuilder sb = new StringBuilder();
         for (DocumentToken token : tokens) {
@@ -169,6 +123,10 @@ public class CreateAndGetDictionaryClass implements INerlaCandidateProvider {
 
     public boolean isDistance(String text){
         return text.matches("[0-9]+ ?(mm|cm|dm|centimeter[s]?|decimeter[s]|meter[s]?|m|km|kilometer[s]?)");
+    }
+
+    public Map<EntityType, Set<String>> getDictionary(){
+        return dictionary;
     }
 
 }

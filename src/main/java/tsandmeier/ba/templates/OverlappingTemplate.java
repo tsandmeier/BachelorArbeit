@@ -100,11 +100,11 @@ public class OverlappingTemplate extends AbstractFeatureTemplate<OverlappingTemp
 
         if(startTwo < endOne){
             if(endTwo < endOne){
-                factor.getFeatureVector().set("Number of Overlapping Words in <"+ factor.getFactorScope().typeOne.entityName+ ", " +
-                        factor.getFactorScope().typeTwo.entityName+">: "+ factor.getFactorScope().tokensTwo.size(),true);
+                factor.getFeatureVector().set("Number of Overlapping Words in <"+ factor.getFactorScope().typeOne.name+ ", " +
+                        factor.getFactorScope().typeTwo.name+">: "+ factor.getFactorScope().tokensTwo.size(),true);
             } else{
-                factor.getFeatureVector().set("Number of Overlapping Words in <"+ factor.getFactorScope().typeOne.entityName+ ", " +
-                        factor.getFactorScope().typeTwo.entityName+">: "+ (endOne-startTwo+1),true);
+                factor.getFeatureVector().set("Number of Overlapping Words in <"+ factor.getFactorScope().typeOne.name+ ", " +
+                        factor.getFactorScope().typeTwo.name+">: "+ (endOne-startTwo+1),true);
             }
         }
 

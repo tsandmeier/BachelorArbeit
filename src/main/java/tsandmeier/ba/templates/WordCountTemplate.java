@@ -78,7 +78,7 @@ public class WordCountTemplate extends AbstractFeatureTemplate<WordCountTemplate
 	@Override
 	public void generateFeatureVector(Factor<EmptyScope> factor) {
 
-		factor.getFeatureVector().set("Number of Words in <" + factor.getFactorScope().type.entityName + ">: " + factor.getFactorScope().numberOfWords, true);
+		factor.getFeatureVector().set("Number of Words in <" + factor.getFactorScope().type.name + ">: " + factor.getFactorScope().numberOfWords, true);
 
 	}
 }

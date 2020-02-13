@@ -86,13 +86,13 @@ public class NormalizedAgeTemplate extends AbstractFeatureTemplate<NormalizedAge
     public void generateFeatureVector(Factor<NormalizedAgeFactor> factor) {
         AgeInterpreter ai = new AgeInterpreter(makeString(factor.getFactorScope().tokens)).normalize();
         if (ai.getMeanValue() < 800) {
-            factor.getFeatureVector().set("Age under 2 years: <" + factor.getFactorScope().type.entityName + ">", true);
+            factor.getFeatureVector().set("Age under 2 years: <" + factor.getFactorScope().type.name + ">", true);
         }
         if (ai.getMeanValue() < 5500) {
-            factor.getFeatureVector().set("Age under 15 years: <" + factor.getFactorScope().type.entityName + ">", true);
+            factor.getFeatureVector().set("Age under 15 years: <" + factor.getFactorScope().type.name + ">", true);
         }
         if (ai.getMeanValue() < 3650) {
-            factor.getFeatureVector().set("Age under 10 years: <" + factor.getFactorScope().type.entityName + ">", true);
+            factor.getFeatureVector().set("Age under 10 years: <" + factor.getFactorScope().type.name + ">", true);
         }
 
     }

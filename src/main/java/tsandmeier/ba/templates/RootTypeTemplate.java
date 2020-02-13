@@ -80,7 +80,7 @@ public class RootTypeTemplate extends AbstractFeatureTemplate<RootTypeTemplate.R
 
 		for(EntityType superTypeOne: superTypesOne){
 			for(EntityType superTypeTwo: superTypesTwo){
-				factor.getFeatureVector().set("SuperTypes in same Document: <" + superTypeOne.entityName + ", " + superTypeTwo.entityName +">",true);
+				factor.getFeatureVector().set("SuperTypes in same Document: <" + superTypeOne.name + ", " + superTypeTwo.name +">",true);
 			}
 		}
 	}

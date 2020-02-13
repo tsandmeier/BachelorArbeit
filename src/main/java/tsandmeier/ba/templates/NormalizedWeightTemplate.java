@@ -87,16 +87,16 @@ public class NormalizedWeightTemplate extends AbstractFeatureTemplate<Normalized
     public void generateFeatureVector(Factor<NormalizedWeightFactor> factor) {
         WeightInterpreter sw = new WeightInterpreter(makeString(factor.getFactorScope().tokens)).normalize();
         if (sw.getMeanValue() > 10 && sw.getMeanValue() < 50) {
-            factor.getFeatureVector().set("Weight in range 10-50 grams: <" + factor.getFactorScope().type.entityName + ">", true);
+            factor.getFeatureVector().set("Weight in range 10-50 grams: <" + factor.getFactorScope().type.name + ">", true);
         }
         if (sw.getMeanValue() > 150 && sw.getMeanValue() < 450) {
-            factor.getFeatureVector().set("Weight in range 150-450 grams: <" + factor.getFactorScope().type.entityName + ">", true);
+            factor.getFeatureVector().set("Weight in range 150-450 grams: <" + factor.getFactorScope().type.name + ">", true);
         }
         if (sw.getMeanValue() > 10000 && sw.getMeanValue() < 30000) {
-            factor.getFeatureVector().set("Weight in range 10000-30000 grams: <" + factor.getFactorScope().type.entityName + ">", true);
+            factor.getFeatureVector().set("Weight in range 10000-30000 grams: <" + factor.getFactorScope().type.name + ">", true);
         }
         if (sw.getMeanValue() > 5000 && sw.getMeanValue() < 15000) {
-            factor.getFeatureVector().set("Weight in range 5000-15000 grams: <" + factor.getFactorScope().type.entityName + ">", true);
+            factor.getFeatureVector().set("Weight in range 5000-15000 grams: <" + factor.getFactorScope().type.name + ">", true);
         }
     }
 

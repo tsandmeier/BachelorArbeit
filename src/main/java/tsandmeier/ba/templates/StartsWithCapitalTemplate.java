@@ -81,7 +81,7 @@ public class StartsWithCapitalTemplate extends AbstractFeatureTemplate<StartsWit
 
         if (token.getLength() >= 1 && token.getSentenceIndex()>0) {
             if (Character.isUpperCase(token.getText().charAt(0)))
-                factor.getFeatureVector().set("Starts with Capital: <" + type.entityName + ">", true);
+                factor.getFeatureVector().set("Starts with Capital: <" + type.name + ">", true);
         }
     }
 

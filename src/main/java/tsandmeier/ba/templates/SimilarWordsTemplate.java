@@ -85,11 +85,11 @@ public class SimilarWordsTemplate extends AbstractFeatureTemplate<SimilarWordsTe
         List<DocumentToken> tokenListOne = factor.getFactorScope().firstTokens;
         List<DocumentToken> tokenListTwo = factor.getFactorScope().secondTokens;
 
-        factor.getFeatureVector().set("Number of Overlapping Words for <"+ factor.getFactorScope().typeOne.entityName +
-                ", " + factor.getFactorScope().typeTwo.entityName + ">: "+ getOverlapping(tokenListOne, tokenListTwo).getDegree(), true);
+        factor.getFeatureVector().set("Number of Overlapping Words for <"+ factor.getFactorScope().typeOne.name +
+                ", " + factor.getFactorScope().typeTwo.name + ">: "+ getOverlapping(tokenListOne, tokenListTwo).getDegree(), true);
 
-        factor.getFeatureVector().set("Overlapping Words for <"+ factor.getFactorScope().typeOne.entityName +
-                ", " + factor.getFactorScope().typeTwo.entityName + ">: "+ getOverlapping(tokenListOne, tokenListTwo).getTokenList(), true);
+        factor.getFeatureVector().set("Overlapping Words for <"+ factor.getFactorScope().typeOne.name +
+                ", " + factor.getFactorScope().typeTwo.name + ">: "+ getOverlapping(tokenListOne, tokenListTwo).getTokenList(), true);
 
     }
 

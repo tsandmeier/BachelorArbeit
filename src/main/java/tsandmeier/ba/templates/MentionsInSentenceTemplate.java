@@ -83,8 +83,8 @@ public class MentionsInSentenceTemplate extends AbstractFeatureTemplate<Mentions
                     if(!annotation.equals(annotation2)) {
                         try {
                             factors.add(new MentionsInSentenceScope(this,
-                                    document.getTokenByCharOffset(annotation.documentPosition.docCharOffset),
-                                    document.getTokenByCharOffset(annotation2.documentPosition.docCharOffset),
+                                    document.getTokenByCharStartOffset(annotation.documentPosition.docCharOffset),
+                                    document.getTokenByCharStartOffset(annotation2.documentPosition.docCharOffset),
                                     annotation.entityType, annotation2.entityType));
                         } catch (DocumentLinkedAnnotationMismatchException e) {
                             e.printStackTrace();
@@ -100,8 +100,8 @@ public class MentionsInSentenceTemplate extends AbstractFeatureTemplate<Mentions
         if(factor.getFactorScope().tokenOne.getSentenceIndex() ==
                 factor.getFactorScope().tokenTwo.getSentenceIndex()){
 
-            factor.getFeatureVector().set("In Same Sentence: " + factor.getFactorScope().typeOne.entityName +
-                    ", " + factor.getFactorScope().typeTwo.entityName, true);
+            factor.getFeatureVector().set("In Same Sentence: " + factor.getFactorScope().typeOne.name +
+                    ", " + factor.getFactorScope().typeTwo.name, true);
         }
 
 	}

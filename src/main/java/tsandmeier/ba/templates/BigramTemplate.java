@@ -95,7 +95,7 @@ public class BigramTemplate extends AbstractFeatureTemplate<BigramTemplate.Bigra
                     if (token.getText().length() >= i + j) {
                         token.getText().getChars(i, i + j, bigramChars, 0);
                         String bigram = new String(bigramChars);
-                        factor.getFeatureVector().set(et.entityName + " " + bigram, true);
+                        factor.getFeatureVector().set(et.name + " " + bigram, true);
                     }
                 }
             }

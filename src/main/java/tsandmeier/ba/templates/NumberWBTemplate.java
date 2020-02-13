@@ -94,7 +94,7 @@ public class NumberWBTemplate extends AbstractFeatureTemplate<NumberWBTemplate.N
 			int wordsBetween = factor.getFactorScope().firstTokenTwo.getDocTokenIndex() -
 					factor.getFactorScope().lastTokenOne.getDocTokenIndex() - 1;
 
-			factor.getFeatureVector().set(factor.getFactorScope().typeOne.entityName+" "+factor.getFactorScope().typeTwo.entityName+" "+wordsBetween, true);
+			factor.getFeatureVector().set(factor.getFactorScope().typeOne.name+" "+factor.getFactorScope().typeTwo.name+" "+wordsBetween, true);
 
 	}
 }

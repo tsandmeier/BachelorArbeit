@@ -1,17 +1,14 @@
 package tsandmeier.ba;
 
-import de.hterhors.semanticmr.candprov.nerla.NerlaCandidateProviderCollection;
 import de.hterhors.semanticmr.corpus.InstanceProvider;
 import de.hterhors.semanticmr.corpus.distributor.AbstractCorpusDistributor;
 import de.hterhors.semanticmr.corpus.distributor.ShuffleCorpusDistributor;
-import de.hterhors.semanticmr.crf.SemanticParsingCRF;
 import de.hterhors.semanticmr.crf.exploration.EntityRecLinkExplorer;
 import de.hterhors.semanticmr.crf.learner.AdvancedLearner;
 import de.hterhors.semanticmr.crf.learner.optimizer.SGD;
 import de.hterhors.semanticmr.crf.learner.regularizer.L2;
 import de.hterhors.semanticmr.crf.model.Model;
 import de.hterhors.semanticmr.crf.of.IObjectiveFunction;
-import de.hterhors.semanticmr.crf.of.NerlaObjectiveFunction;
 import de.hterhors.semanticmr.crf.sampling.AbstractSampler;
 import de.hterhors.semanticmr.crf.sampling.impl.EpochSwitchSampler;
 import de.hterhors.semanticmr.crf.sampling.stopcrit.ISamplingStoppingCriterion;
@@ -27,14 +24,17 @@ import de.hterhors.semanticmr.eval.EEvaluationDetail;
 import de.hterhors.semanticmr.init.specifications.SystemScope;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import tsandmeier.ba.candprov.CreateAndGetDictionaryClass;
-import tsandmeier.ba.crf.SemanticParsingCRFCustom;
+import tsandmeier.ba.candprov.CreateDictionaryClass;
+import tsandmeier.ba.crf.SemanticParsingCRFCustomTwo;
+import tsandmeier.ba.evaluator.NerlaObjectiveFunctionPartialOverlap;
 import tsandmeier.ba.specs.NERLASpecsGroupName;
 import tsandmeier.ba.templates.*;
 
 import java.io.File;
 import java.io.IOException;
-import java.util.*;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Map;
 
 /**
  * Example of how to perform named entity recognition and linking.
@@ -42,14 +42,15 @@ import java.util.*;
 public class NamedEntityRecognitionAndLinkingGroupNames extends AbstractSemReadProject {
     private static Logger log = LogManager.getFormatterLogger("de.hterhors.semanticmr.projects.examples.corpus.nerl.NerlCorpusCreationExample");
     private final boolean overrideModel = false;
-    SemanticParsingCRFCustom crf;
+    SemanticParsingCRFCustomTwo crf;
     private IEvaluatable.Score mean;
     private int mode;
-    List<AbstractFeatureTemplate> featureTemplates;
+    List<AbstractFeatureTemplate<?>> featureTemplates;
+
+    private final EEvaluationDetail evaluationDetail = EEvaluationDetail.DOCUMENT_LINKED;
 
     private double alpha;
 
-    private String modelName;
 
     /**1: all
      * 2: singleContextTemplates
@@ -135,10 +136,12 @@ public class NamedEntityRecognitionAndLinkingGroupNames extends AbstractSemReadP
 
     }
 
-    public void startProcedure(int mode, double alpha) throws IOException {
+    public void startProcedure(int mode, double alpha) {
 
         this.alpha = alpha;
         this.mode = mode;
+
+        InstanceProvider.maxNumberOfAnnotations = 1000;
 
         /**
          * 2. STEP read and distribute the corpus.
@@ -177,18 +180,20 @@ public class NamedEntityRecognitionAndLinkingGroupNames extends AbstractSemReadP
          * performed! @see ExhaustiveCandidateRetrieval
          *
          */
-//        NerlaCandidateProviderCollection candidateRetrieval = new NerlaCandidateProviderCollection(
-//                new GetDictionaryClass(dictionaryFile));
-        NerlaCandidateProviderCollection candidateRetrieval = new NerlaCandidateProviderCollection(
-                new CreateAndGetDictionaryClass(instanceProvider.getInstances()));
-//        candidateRetrieval.addCandidateProvider(new LevenshteinCandidateRetrieval());
+
+        CreateDictionaryClass dictionaryClass = new CreateDictionaryClass(instanceProvider.getInstances());
+
+        for (Instance instance : instanceProvider.getInstances()) {
+            instance.addCandidates(dictionaryClass.getDictionary());
+        }
+
 
         /**
          * For the entity recognition and linking problem, the EntityRecLinkExplorer is
          * added to perform changes during the exploration. This explorer is especially
          * designed for NERLA and is parameterized with a candidate retrieval.
          */
-        EntityRecLinkExplorer explorer = new EntityRecLinkExplorer(candidateRetrieval);
+        EntityRecLinkExplorer explorer = new EntityRecLinkExplorer();
 
         /**
          * 4. STEP
@@ -210,7 +215,7 @@ public class NamedEntityRecognitionAndLinkingGroupNames extends AbstractSemReadP
          *
          */
 //		IObjectiveFunction objectiveFunction = new BetaNerlaObjectiveFunction(EEvaluationDetail.LITERAL);
-        IObjectiveFunction objectiveFunction = new NerlaObjectiveFunction(EEvaluationDetail.LITERAL);
+        IObjectiveFunction objectiveFunction = new NerlaObjectiveFunctionPartialOverlap(evaluationDetail);
 
         /**
          * The learner defines the update strategy of learned weights. parameters are
@@ -235,32 +240,43 @@ public class NamedEntityRecognitionAndLinkingGroupNames extends AbstractSemReadP
 
         switch (mode) {
             case 1:
-                featureTemplates.add(new BigramTemplate(false));
+                featureTemplates.add(new AMFLTemplate());
+                featureTemplates.add(new BMFLTemplate());
+                featureTemplates.add(new PosInDocTemplate());
+
                 break;
             case 2:
-                featureTemplates.add(new WMTemplate());
+                featureTemplates.add(new SimilarWordsTemplate());
                 break;
             case 3:
-                featureTemplates.add(new BMFLTemplate());
-                featureTemplates.add(new AMFLTemplate());
-                break;
+                featureTemplates.add(new OverlappingTemplate());
+                featureTemplates.add(new SimilarWordsTemplate());
             case 4:
-                featureTemplates.add(new BigramTemplate(false));
-                featureTemplates.add(new WMTemplate());
+                featureTemplates.add(new AMFLTemplate());
+                featureTemplates.add(new BMFLTemplate());
+                featureTemplates.add(new OverlappingTemplate());
                 break;
             case 5:
-                featureTemplates.add(new BigramTemplate(false));
-                featureTemplates.add(new BMFLTemplate());
                 featureTemplates.add(new AMFLTemplate());
-                break;
+                featureTemplates.add(new BMFLTemplate());
+                featureTemplates.add(new SimilarWordsTemplate());
             case 6:
-                featureTemplates.add(new WMTemplate());
-                featureTemplates.add(new AMFLTemplate());
-                featureTemplates.add(new BMFLTemplate());
+                featureTemplates.add(new BigramTemplate());
+                featureTemplates.add(new SimilarWordsTemplate());
                 break;
             case 7:
                 featureTemplates.add(new BigramTemplate());
-                featureTemplates.add(new WMTemplate());
+                featureTemplates.add(new OverlappingTemplate());
+                break;
+            case 8:
+                featureTemplates.add(new BigramTemplate());
+                featureTemplates.add(new OverlappingTemplate());
+                featureTemplates.add(new SimilarWordsTemplate());
+                break;
+            case 9:
+                featureTemplates.add(new BigramTemplate());
+                featureTemplates.add(new OverlappingTemplate());
+                featureTemplates.add(new SimilarWordsTemplate());
                 featureTemplates.add(new AMFLTemplate());
                 featureTemplates.add(new BMFLTemplate());
                 break;
@@ -311,7 +327,7 @@ public class NamedEntityRecognitionAndLinkingGroupNames extends AbstractSemReadP
          * example we set the maximum chain length to 10. That means, only 10 changes
          * (annotations) can be added to each document.
          */
-        ISamplingStoppingCriterion maxStepCrit = new MaxChainLengthCrit(10);
+        ISamplingStoppingCriterion maxStepCrit = new MaxChainLengthCrit(500);
 
         /**
          * The next stopping criterion checks for no or only little (based on a
@@ -359,8 +375,8 @@ public class NamedEntityRecognitionAndLinkingGroupNames extends AbstractSemReadP
          * NOTE: Make sure that the base model directory exists!
          */
         final File modelBaseDir = new File("models/nerla/groupNames/");
-        final String modelName = "NERLA1234" + new Random().nextInt(10000);
-//        final String modelName = "single_mention_context_mode_"+mode;
+//        final String modelName = "NERLA1234" + new Random().nextInt(10000);
+        final String modelName = "DocLinked_mit_300_maxStep";
 
         Model model;
 
@@ -380,9 +396,9 @@ public class NamedEntityRecognitionAndLinkingGroupNames extends AbstractSemReadP
         /**
          * Create a new semantic parsing CRF and initialize with needed parameter.
          */
-        crf = new SemanticParsingCRFCustom(model, explorer, sampler, stateInitializer, objectiveFunction);
+        crf = new SemanticParsingCRFCustomTwo(model, explorer, sampler, stateInitializer, objectiveFunction);
 
-//        IEvaluatable.Score coverage = crf.computeCoverage(true,objectiveFunction, instanceProvider.getRedistributedTestInstances());
+//        IEvaluatable.Score coverage = crf.computeCoverage(true,objectiveFunction, instanceProvider.getRedistributedTrainingInstances());
 //
 //        System.out.println(coverage);
 //
@@ -398,7 +414,7 @@ public class NamedEntityRecognitionAndLinkingGroupNames extends AbstractSemReadP
              * Train the CRF.
              */
 //            crf.train(learner, instanceProvider.getRedistributedTrainingInstances(), numberOfEpochs, sampleStoppingCrits);
-            crf.trainAndTestEveryEpoch(learner, instanceProvider.getRedistributedTrainingInstances(), numberOfEpochs, sampleStoppingCrits, instanceProvider.getInstances(), maxStepCrit, noModelChangeCrit);
+            crf.train(learner, instanceProvider.getRedistributedTrainingInstances(), numberOfEpochs, sampleStoppingCrits);
 
             /**
              * Save the model as binary. Do not override, in case a file already exists for
@@ -418,7 +434,10 @@ public class NamedEntityRecognitionAndLinkingGroupNames extends AbstractSemReadP
          * in this case. This method returns for each instances a final state (best
          * state based on the trained model) that contains annotations.
          */
-        Map<Instance, State> results = crf.predict(instanceProvider.getInstances(), maxStepCrit,
+
+        crf.changeObjectiveFunction(new NerlaObjectiveFunctionPartialOverlap(evaluationDetail));
+
+        Map<Instance, State> results = crf.predict(instanceProvider.getRedistributedTestInstances(), maxStepCrit,
                 noModelChangeCrit);
 
         /**
@@ -434,6 +453,8 @@ public class NamedEntityRecognitionAndLinkingGroupNames extends AbstractSemReadP
 
 
         mean = evaluate(log, results);
+
+        log.info("Modell gespeichert unter: " + modelBaseDir.toString() + "/" + modelName);
 
         /**
          * Gefundene Annotationen in Json-File abspeichern
@@ -536,7 +557,7 @@ public class NamedEntityRecognitionAndLinkingGroupNames extends AbstractSemReadP
     }
 
 
-    public SemanticParsingCRFCustom getCRF() {
+    public SemanticParsingCRFCustomTwo getCRF() {
         return crf;
     }
 
@@ -544,7 +565,8 @@ public class NamedEntityRecognitionAndLinkingGroupNames extends AbstractSemReadP
         return mean;
     }
 
-    public List<AbstractFeatureTemplate> getFeatureTemplates() {
+    public List<AbstractFeatureTemplate<?>> getFeatureTemplates() {
         return featureTemplates;
     }
+
 }

@@ -79,7 +79,7 @@ public class HMTemplate extends AbstractFeatureTemplate<HMTemplate.HMScope> {
 
 	@Override
 	public void generateFeatureVector(Factor<HMScope> factor) {
-		factor.getFeatureVector().set("First Word of Annotation <"+factor.getFactorScope().type.entityName + ">: " + factor.getFactorScope().headword.getText(), true);
+		factor.getFeatureVector().set("First Word of Annotation <"+factor.getFactorScope().type.name + ">: " + factor.getFactorScope().headword.getText(), true);
 
 	}
 

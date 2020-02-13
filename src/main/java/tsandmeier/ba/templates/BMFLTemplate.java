@@ -94,8 +94,8 @@ public class BMFLTemplate extends AbstractFeatureTemplate<BMFLTemplate.BMFLScope
 				firstToken = factor.getFactorScope().document.tokenList.get(factor.getFactorScope().token.getDocTokenIndex() - i);
 				subtext = factor.getFactorScope().document.getContent(firstToken, factor.getFactorScope().document.tokenList.get(factor.getFactorScope().token.getDocTokenIndex() - 1));
 
-				factor.getFeatureVector().set("Words before <"+factor.getFactorScope().type.entityName + ">: " + subtext, true);
-//				factor.getFeatureVector().set(i+" Words before <"+factor.getFactorScope().type.entityName + ">: " + factor.getFactorScope().document.tokenList.get(factor.getFactorScope().token.getDocTokenIndex() - i).getText(), true);
+				factor.getFeatureVector().set("Words before <"+factor.getFactorScope().type.name + ">: " + subtext, true);
+//				factor.getFeatureVector().set(i+" Words before <"+factor.getFactorScope().type.name + ">: " + factor.getFactorScope().document.tokenList.get(factor.getFactorScope().token.getDocTokenIndex() - i).getText(), true);
 			}
 		}
 	}

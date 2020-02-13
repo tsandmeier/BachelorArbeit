@@ -1,4 +1,4 @@
-package tsandmeier.ba.templates;
+package tsandmeier.ba.groupnameTemplates;
 
 import de.hterhors.semanticmr.crf.model.AbstractFactorScope;
 import de.hterhors.semanticmr.crf.model.Factor;
@@ -17,30 +17,26 @@ import java.util.Objects;
 /**
  * checks for all the words between two mentions
  */
-public class WordsInBetweenTemplate extends AbstractFeatureTemplate<WordsInBetweenTemplate.AreWordsInBetweenScope> {
+public class WordsInBetweenGroupNamesTemplate extends AbstractFeatureTemplate<WordsInBetweenGroupNamesTemplate.AreWordsInBetweenScope> {
 
     private static final int MAX_NUMBER_OF_WORDS = 6;  //6 words seems to be the most successful
 
     static class AreWordsInBetweenScope
             extends AbstractFactorScope {
 
-        public String wordAfter;
-        public DocumentToken tokenOne;
-        public DocumentToken tokenTwo;
-
-        public EntityType typeOne;
-        public EntityType typeTwo;
+        DocumentLinkedAnnotation annoOne;
+        DocumentLinkedAnnotation annoTwo;
 
         public Document document;
 
         public AreWordsInBetweenScope(
-                AbstractFeatureTemplate<AreWordsInBetweenScope> template, DocumentToken tokenOne, DocumentToken tokenTwo,
-                EntityType typeOne, EntityType typeTwo, Document document) {
+                AbstractFeatureTemplate<AreWordsInBetweenScope> template, DocumentLinkedAnnotation annoOne, DocumentLinkedAnnotation annoTwo,
+                Document document) {
             super(template);
-            this.tokenOne = tokenOne;
-            this.tokenTwo = tokenTwo;
-            this.typeOne = typeOne;
-            this.typeTwo = typeTwo;
+
+            this.annoOne = annoOne;
+            this.annoTwo = annoTwo;
+
             this.document = document;
         }
 
@@ -60,17 +56,14 @@ public class WordsInBetweenTemplate extends AbstractFeatureTemplate<WordsInBetwe
             if (o == null || getClass() != o.getClass()) return false;
             if (!super.equals(o)) return false;
             AreWordsInBetweenScope that = (AreWordsInBetweenScope) o;
-            return Objects.equals(wordAfter, that.wordAfter) &&
-                    Objects.equals(tokenOne, that.tokenOne) &&
-                    Objects.equals(tokenTwo, that.tokenTwo) &&
-                    Objects.equals(typeOne, that.typeOne) &&
-                    Objects.equals(typeTwo, that.typeTwo) &&
+            return Objects.equals(annoOne, that.annoOne) &&
+                    Objects.equals(annoTwo, that.annoTwo) &&
                     Objects.equals(document, that.document);
         }
 
         @Override
         public int hashCode() {
-            return Objects.hash(super.hashCode(), wordAfter, tokenOne, tokenTwo, typeOne, typeTwo, document);
+            return Objects.hash(super.hashCode(), annoOne, annoTwo, document);
         }
     }
 
@@ -86,8 +79,7 @@ public class WordsInBetweenTemplate extends AbstractFeatureTemplate<WordsInBetwe
                     DocumentToken secondToken = annotation2.relatedTokens.get(0);
                     if (firstToken.getDocTokenIndex() < secondToken.getDocTokenIndex())
                         factors.add(new AreWordsInBetweenScope(this,
-                                firstToken, secondToken,
-                                annotation.entityType, annotation2.entityType,
+                                annotation, annotation2,
                                 document));
                 }
             }
@@ -98,46 +90,34 @@ public class WordsInBetweenTemplate extends AbstractFeatureTemplate<WordsInBetwe
     @Override
     public void generateFeatureVector(Factor<AreWordsInBetweenScope> factor) {
 
-        String subtext;
-
-        int indexTokenOne = factor.getFactorScope().tokenOne.getDocTokenIndex();
-        int indexTokenTwo = factor.getFactorScope().tokenTwo.getDocTokenIndex();
+        int indexTokenOne = factor.getFactorScope().annoOne.relatedTokens.get(factor.getFactorScope().
+                annoOne.relatedTokens.size() - 1).getDocTokenIndex();
+        int indexTokenTwo = factor.getFactorScope().annoTwo.relatedTokens.get(factor.getFactorScope().
+                annoTwo.relatedTokens.size() - 1).getDocTokenIndex();
 
         //get all words between the mentions
 
+
+        StringBuilder sbOne = new StringBuilder();
+        factor.getFactorScope().annoOne.relatedTokens.forEach(p -> sbOne.append(p.getText() + " "));
+
+        StringBuilder sbTwo = new StringBuilder();
+        factor.getFactorScope().annoTwo.relatedTokens.forEach(p -> sbTwo.append(p.getText() + " "));
+
+
         if (indexTokenTwo - indexTokenOne == 1) {
-            factor.getFeatureVector().set("NO WORDS BETWEEN: <" + factor.getFactorScope().typeOne.name + ", " +
-                    factor.getFactorScope().typeTwo.name + "> ", true);
+            factor.getFeatureVector().set("NO WORDS BETWEEN: <\"" + sbOne.toString() + "\", \"" +
+                    sbTwo.toString() + "\"> ", true);
         } else if (indexTokenTwo - indexTokenOne < MAX_NUMBER_OF_WORDS) {
-            subtext = factor.getFactorScope().document.getContent(
+
+            String subtext = factor.getFactorScope().document.getContent(
                     factor.getFactorScope().document.tokenList.get(indexTokenOne + 1),
                     factor.getFactorScope().document.tokenList.get(indexTokenTwo - 1)
             );
 
-            factor.getFeatureVector().set("WORDS BETWEEN: <" + factor.getFactorScope().typeOne.name + ", "
-                    + factor.getFactorScope().typeTwo.name + ">: "
+            factor.getFeatureVector().set("WORDS BETWEEN: <\"" + sbOne.toString() + "\", \""
+                    + sbTwo.toString() + "\">: "
                     + subtext, true);
         }
-    }
-
-    public int numberOfWords(String input) {
-        if (input == null || input.isEmpty()) {
-            return 0;
-        }
-
-        String[] words = input.split("\\s+");
-        return words.length;
-    }
-
-    public String[] tokenizeAndReduceString(String text) {
-        String[] tmpArray = text.split("\\s+");
-        if (tmpArray.length >= 2) {
-            return Arrays.copyOfRange(tmpArray, 1, tmpArray.length - 1);
-        }
-        return new String[]{};
-    }
-
-    public String[] tokenizeString(String text) {
-        return text.split("\\s+");
     }
 }

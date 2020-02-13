@@ -83,7 +83,7 @@ public class WMTemplate extends AbstractFeatureTemplate<WMTemplate.EmptyScope> {
 			for (int j = 0; j <= i; j++) {
 				String subText = makeString(tokens.subList(j, i));
 
-				factor.getFeatureVector().set(factor.getFactorScope().type.entityName+ " " +
+				factor.getFeatureVector().set(factor.getFactorScope().type.name+ " " +
 						subText,true);
 			}
 		}

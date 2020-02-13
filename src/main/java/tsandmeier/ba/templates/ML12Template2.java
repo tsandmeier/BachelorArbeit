@@ -9,6 +9,7 @@ import de.hterhors.semanticmr.crf.variables.Document;
 import de.hterhors.semanticmr.crf.variables.DocumentToken;
 import de.hterhors.semanticmr.crf.variables.Instance;
 import de.hterhors.semanticmr.crf.variables.State;
+import edu.stanford.nlp.tagger.maxent.MaxentTagger;
 import tsandmeier.ba.helper.POSTaggedTokenizer;
 
 import java.util.*;
@@ -16,7 +17,7 @@ import java.util.*;
 /**
  * Uses Stanford-POS-Tagger to find out what kind of object in the sentence a token is.
  */
-public class ML12Template extends AbstractFeatureTemplate<ML12Template.ML12Scope> {
+public class ML12Template2 extends AbstractFeatureTemplate<ML12Template2.ML12Scope> {
 
 
 	static class ML12Scope
@@ -52,11 +53,13 @@ public class ML12Template extends AbstractFeatureTemplate<ML12Template.ML12Scope
 
 		@Override
 		public int implementHashCode() {
+			// TODO Auto-generated method stub
 			return 0;
 		}
 
 		@Override
 		public boolean implementEquals(Object obj) {
+			// TODO Auto-generated method stub
 			return false;
 		}
 
@@ -81,26 +84,31 @@ public class ML12Template extends AbstractFeatureTemplate<ML12Template.ML12Scope
 	@Override
 	public void generateFeatureVector(Factor<ML12Scope> factor) {
 
-		Document doc = factor.getFactorScope().instance.getDocument();
-		List<DocumentToken>	posTokenizedContent ;
 
+				Document doc = factor.getFactorScope().instance.getDocument();
+				List<DocumentToken>	posTokenizedContent ;
+
+		String a = "I like watching movies";
+		MaxentTagger tagger =  new MaxentTagger("lib/tagger/taggers/english-left3words-distsim.tagger");
+		String tagged = tagger.tagString(a);
+		System.out.println(tagged);
 
 		if((posTokenizedContent = cache .get(factor.getFactorScope().instance))==null)
 		{
-			posTokenizedContent =  POSTaggedTokenizer.tokenizeDocumentsContent(doc.documentContent);
+			String posContent =  tagger.tagString(doc.documentContent);
 			cache.put(factor.getFactorScope().instance,posTokenizedContent);
 		}
 
-		for(DocumentToken token: factor.getFactorScope().tokens) {
-			for (DocumentToken posTaggedDT : posTokenizedContent) {
-				if (posTaggedDT.getSentenceIndex() == token.getSentenceIndex()) {
-					if (posTaggedDT.getSenTokenIndex() == token.getSenTokenIndex()) {
-						factor.getFeatureVector().set(factor.getFactorScope().type.name + " " + getTokenPhrase(posTaggedDT), true);
-						break;
-					}
-				}
-			}
-		}
+//		for(DocumentToken token: factor.getFactorScope().tokens) {
+//			for (DocumentToken posTaggedDT : posTokenizedContent) {
+//				if (posTaggedDT.getSentenceIndex() == token.getSentenceIndex()) {
+//					if (posTaggedDT.getSenTokenIndex() == token.getSenTokenIndex()) {
+//						factor.getFeatureVector().set(factor.getFactorScope().type.name + " " + getTokenPhrase(posTaggedDT), true);
+//						break;
+//					}
+//				}
+//			}
+//		}
 	}
 
 	private String getTokenPhrase (DocumentToken token){

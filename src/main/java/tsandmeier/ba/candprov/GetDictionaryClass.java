@@ -1,6 +1,5 @@
 package tsandmeier.ba.candprov;
 
-import de.hterhors.semanticmr.candprov.nerla.INerlaCandidateProvider;
 import de.hterhors.semanticmr.crf.structure.EntityType;
 import tsandmeier.ba.normalizer.interpreter.AgeInterpreter;
 import tsandmeier.ba.normalizer.interpreter.WeightInterpreter;
@@ -20,7 +19,7 @@ import java.util.*;
  * @author hterhors
  *
  */
-public class GetDictionaryClass implements INerlaCandidateProvider {
+public class GetDictionaryClass {
 
 	/**
 	 * The dictionary.
@@ -77,7 +76,6 @@ public class GetDictionaryClass implements INerlaCandidateProvider {
 		}
 	}
 
-	@Override
 	public Set<EntityType> getEntityTypeCandidates(String text) {
 
 //		if(text.matches(".*\\d+.*")){

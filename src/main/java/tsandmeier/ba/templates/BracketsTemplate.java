@@ -88,7 +88,7 @@ public class BracketsTemplate extends AbstractFeatureTemplate<BracketsTemplate.B
 				String textAfter = doc.getContent(doc.tokenList.get(lastIndex+1), doc.tokenList.get(lastIndex+i+1));
 
 				if(hasOpenBracket(textBefore)&&hasClosedBracket(textAfter)){
-					factor.getFeatureVector().set("In Brackets for Range "+i+": <"+ factor.getFactorScope().type.entityName +
+					factor.getFeatureVector().set("In Brackets for Range "+i+": <"+ factor.getFactorScope().type.name +
 							">",true);
 				}
 			}

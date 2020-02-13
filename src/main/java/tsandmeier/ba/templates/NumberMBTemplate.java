@@ -100,7 +100,7 @@ public class NumberMBTemplate extends AbstractFeatureTemplate<NumberMBTemplate.N
                 mentionCounter++;
             }
         }
-        factor.getFeatureVector().set(factor.getFactorScope().typeOne.entityName + ", " + factor.getFactorScope().typeTwo.entityName + " " +
+        factor.getFeatureVector().set(factor.getFactorScope().typeOne.name + ", " + factor.getFactorScope().typeTwo.name + " " +
                 mentionCounter, true);
 
     }
