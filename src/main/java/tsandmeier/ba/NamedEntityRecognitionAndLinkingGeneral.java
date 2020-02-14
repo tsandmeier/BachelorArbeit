@@ -21,18 +21,16 @@ import de.hterhors.semanticmr.crf.variables.IStateInitializer;
 import de.hterhors.semanticmr.crf.variables.Instance;
 import de.hterhors.semanticmr.crf.variables.State;
 import de.hterhors.semanticmr.eval.EEvaluationDetail;
-import de.hterhors.semanticmr.init.reader.csv.CSVScopeReader;
+import de.hterhors.semanticmr.init.reader.csv.CSVDataStructureReader;
 import de.hterhors.semanticmr.init.specifications.SystemScope;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import tsandmeier.ba.candprov.CreateDictionaryClass;
 import tsandmeier.ba.crf.SemanticParsingCRFCustomTwo;
 import tsandmeier.ba.evaluator.NerlaObjectiveFunctionPartialOverlap;
-import tsandmeier.ba.specs.NERLASpecsGroupName;
 import tsandmeier.ba.templates.*;
 
 import java.io.File;
-import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
@@ -121,7 +119,7 @@ public class NamedEntityRecognitionAndLinkingGeneral extends AbstractSemReadProj
                 /**
                  * We add a scope reader that reads and interprets the 4 specification files.
                  */
-                .addScopeSpecification(new CSVScopeReader(new File(ENTITIES), new File(HIERARCHIES), new File(SLOTS), new File(STRUCTURES)))
+                .addScopeSpecification(new CSVDataStructureReader(new File(ENTITIES), new File(HIERARCHIES), new File(SLOTS), new File(STRUCTURES)))
                 /**
                  * We apply the scope(s).
                  */

@@ -1,7 +1,7 @@
 package tsandmeier.ba.specs;
 
 import de.hterhors.semanticmr.init.reader.ISpecificationsReader;
-import de.hterhors.semanticmr.init.reader.csv.CSVScopeReader;
+import de.hterhors.semanticmr.init.reader.csv.CSVDataStructureReader;
 
 import java.io.File;
 
@@ -34,6 +34,6 @@ public class NERLASpecsOrganismModel {
 	 */
 	private final static File hierarchies = new File("src/main/resources/examples/nerla/organismModel/specs/csv/hierarchies.csv");
 
-	public static final ISpecificationsReader csvSpecsReader = new CSVScopeReader(NERLASpecsOrganismModel.entities,
+	public static final ISpecificationsReader csvSpecsReader = new CSVDataStructureReader(NERLASpecsOrganismModel.entities,
 			NERLASpecsOrganismModel.hierarchies, NERLASpecsOrganismModel.slots, NERLASpecsOrganismModel.structures);
 }
