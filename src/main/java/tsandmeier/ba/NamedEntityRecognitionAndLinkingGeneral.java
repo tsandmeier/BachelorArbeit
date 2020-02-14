@@ -9,6 +9,7 @@ import de.hterhors.semanticmr.crf.learner.optimizer.SGD;
 import de.hterhors.semanticmr.crf.learner.regularizer.L2;
 import de.hterhors.semanticmr.crf.model.Model;
 import de.hterhors.semanticmr.crf.of.IObjectiveFunction;
+import de.hterhors.semanticmr.crf.of.NerlaObjectiveFunction;
 import de.hterhors.semanticmr.crf.sampling.AbstractSampler;
 import de.hterhors.semanticmr.crf.sampling.impl.EpochSwitchSampler;
 import de.hterhors.semanticmr.crf.sampling.stopcrit.ISamplingStoppingCriterion;
@@ -28,6 +29,7 @@ import org.apache.logging.log4j.Logger;
 import tsandmeier.ba.candprov.CreateDictionaryClass;
 import tsandmeier.ba.crf.SemanticParsingCRFCustomTwo;
 import tsandmeier.ba.evaluator.NerlaObjectiveFunctionPartialOverlap;
+import tsandmeier.ba.groupnameTemplates.*;
 import tsandmeier.ba.templates.*;
 
 import java.io.File;
@@ -145,6 +147,10 @@ public class NamedEntityRecognitionAndLinkingGeneral extends AbstractSemReadProj
 
     public void startProcedure(int mode, double alpha) {
 
+        log.info("Trainiert mit Objective Function, getestet mit ObjectiveFunctionPartialOverlap");
+        log.info("Evaluation Detail: "+evaluationDetail.toString());
+        log.info("MaxStepCrit: 50");
+
         this.alpha = alpha;
         this.mode = mode;
 
@@ -222,7 +228,7 @@ public class NamedEntityRecognitionAndLinkingGeneral extends AbstractSemReadProj
          *
          */
 //		IObjectiveFunction objectiveFunction = new BetaNerlaObjectiveFunction(EEvaluationDetail.LITERAL);
-        IObjectiveFunction objectiveFunction = new NerlaObjectiveFunctionPartialOverlap(evaluationDetail);
+        IObjectiveFunction objectiveFunction = new NerlaObjectiveFunction(evaluationDetail);
 
         /**
          * The learner defines the update strategy of learned weights. parameters are
@@ -249,7 +255,18 @@ public class NamedEntityRecognitionAndLinkingGeneral extends AbstractSemReadProj
             case 1:
                 featureTemplates.add(new AMFLTemplate());
                 featureTemplates.add(new BMFLTemplate());
+                featureTemplates.add(new GroupNamesInSameSentenceTemplate_FAST());
+                featureTemplates.add(new WBFGroupNamesTemplate_FAST());
+                featureTemplates.add(new WBGroupNamesTemplate());
+                featureTemplates.add(new WBLGroupNamesTemplate());
+                featureTemplates.add(new WordsInBetweenGroupNamesTemplate());
+                featureTemplates.add(new BigramTemplate());
+                featureTemplates.add(new HMTemplate());
+                featureTemplates.add(new NumberMBTemplate());
+                featureTemplates.add(new NumberWBTemplate());
+                featureTemplates.add(new OverlappingTemplate());
                 featureTemplates.add(new PosInDocTemplate());
+                featureTemplates.add(new PosInSentenceTemplate());
 
                 break;
             case 2:
@@ -334,7 +351,7 @@ public class NamedEntityRecognitionAndLinkingGeneral extends AbstractSemReadProj
          * example we set the maximum chain length to 10. That means, only 10 changes
          * (annotations) can be added to each document.
          */
-        ISamplingStoppingCriterion maxStepCrit = new MaxChainLengthCrit(500);
+        ISamplingStoppingCriterion maxStepCrit = new MaxChainLengthCrit(50);
 
         /**
          * The next stopping criterion checks for no or only little (based on a
