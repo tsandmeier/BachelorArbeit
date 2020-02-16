@@ -53,21 +53,18 @@ public class NamedEntityRecognitionAndLinkingGeneral extends AbstractSemReadProj
 
     private double alpha;
 
-    private static String INSTANCE_DIRECTORY = "ner/group_name/instances/";
+    private static String TYPE_OF_TOPIC = "delivery_method";
+
+    private static String SPECIFICATION_DIRECTORY = "ner/"+TYPE_OF_TOPIC+"/data_structure/";
+    private static String INSTANCE_DIRECTORY = "ner/"+TYPE_OF_TOPIC+"/instances/";
+
+
+
     private static String ENTITIES = "ner/group_name/data_structure/entities.csv";
     private static String HIERARCHIES = "ner/group_name/data_structure/hierarchies.csv";
     private static String SLOTS = "ner/group_name/data_structure/slots.csv";
     private static String STRUCTURES = "ner/group_name/data_structure/structures.csv";
 
-
-    /**1: all
-     * 2: singleContextTemplates
-     * 3: doubleContextTemplates
-     * 4: singleMentionTemplates
-     * 5: NumberTemplates
-     * 6: POS-Tagging
-     * 7:
-     */
 
     /**
      * Start the named entity recognition and linking procedure.
@@ -121,7 +118,7 @@ public class NamedEntityRecognitionAndLinkingGeneral extends AbstractSemReadProj
                 /**
                  * We add a scope reader that reads and interprets the 4 specification files.
                  */
-                .addScopeSpecification(new CSVDataStructureReader(new File(ENTITIES), new File(HIERARCHIES), new File(SLOTS), new File(STRUCTURES)))
+                .addScopeSpecification(new CSVDataStructureReader(new File(SPECIFICATION_DIRECTORY+"entities.csv"), new File(SPECIFICATION_DIRECTORY+"hierarchies.csv"), new File(SPECIFICATION_DIRECTORY+"slots.csv"), new File(SPECIFICATION_DIRECTORY+"structures.csv")))
                 /**
                  * We apply the scope(s).
                  */
@@ -255,11 +252,11 @@ public class NamedEntityRecognitionAndLinkingGeneral extends AbstractSemReadProj
             case 1:
                 featureTemplates.add(new AMFLTemplate());
                 featureTemplates.add(new BMFLTemplate());
-                featureTemplates.add(new GroupNamesInSameSentenceTemplate_FAST());
-                featureTemplates.add(new WBFGroupNamesTemplate_FAST());
-                featureTemplates.add(new WBGroupNamesTemplate());
-                featureTemplates.add(new WBLGroupNamesTemplate());
-                featureTemplates.add(new WordsInBetweenGroupNamesTemplate());
+                featureTemplates.add(new MentionsInSentenceTemplate());
+                featureTemplates.add(new WBOTemplate());
+                featureTemplates.add(new WBTemplate());
+                featureTemplates.add(new WMTemplate());
+                featureTemplates.add(new WordsInBetweenTemplate());
                 featureTemplates.add(new BigramTemplate());
                 featureTemplates.add(new HMTemplate());
                 featureTemplates.add(new NumberMBTemplate());
@@ -267,7 +264,6 @@ public class NamedEntityRecognitionAndLinkingGeneral extends AbstractSemReadProj
                 featureTemplates.add(new OverlappingTemplate());
                 featureTemplates.add(new PosInDocTemplate());
                 featureTemplates.add(new PosInSentenceTemplate());
-
                 break;
             case 2:
                 featureTemplates.add(new SimilarWordsTemplate());
@@ -464,8 +460,8 @@ public class NamedEntityRecognitionAndLinkingGeneral extends AbstractSemReadProj
         Map<Instance, State> results = crf.predict(instanceProvider.getRedistributedTestInstances(), maxStepCrit,
                 noModelChangeCrit);
 
-        /**
-         * Finally, we evaluate the produced states and print some statistics.
+        /*
+          Finally, we evaluate the produced states and print some statistics.
          */
 
         log.info(crf.getTrainingStatistics());
