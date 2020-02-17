@@ -29,6 +29,7 @@ import org.apache.logging.log4j.Logger;
 import tsandmeier.ba.candprov.CreateDictionaryClass;
 import tsandmeier.ba.crf.SemanticParsingCRFCustomTwo;
 import tsandmeier.ba.evaluator.NerlaObjectiveFunctionPartialOverlap;
+import tsandmeier.ba.explorer.EntityRecLinkExplorerCustom;
 import tsandmeier.ba.groupnameTemplates.*;
 import tsandmeier.ba.templates.*;
 
@@ -53,7 +54,7 @@ public class NamedEntityRecognitionAndLinkingGeneral extends AbstractSemReadProj
 
     private double alpha;
 
-    private static String TYPE_OF_TOPIC = "delivery_method";
+    private static String TYPE_OF_TOPIC = "group_name";
 
     private static String SPECIFICATION_DIRECTORY = "ner/"+TYPE_OF_TOPIC+"/data_structure/";
     private static String INSTANCE_DIRECTORY = "ner/"+TYPE_OF_TOPIC+"/instances/";
@@ -203,7 +204,7 @@ public class NamedEntityRecognitionAndLinkingGeneral extends AbstractSemReadProj
          * added to perform changes during the exploration. This explorer is especially
          * designed for NERLA and is parameterized with a candidate retrieval.
          */
-        EntityRecLinkExplorer explorer = new EntityRecLinkExplorer();
+        EntityRecLinkExplorerCustom explorer = new EntityRecLinkExplorerCustom();
 
         /**
          * 4. STEP
@@ -266,7 +267,21 @@ public class NamedEntityRecognitionAndLinkingGeneral extends AbstractSemReadProj
                 featureTemplates.add(new PosInSentenceTemplate());
                 break;
             case 2:
-                featureTemplates.add(new SimilarWordsTemplate());
+                featureTemplates.add(new AMFLTemplate());
+                featureTemplates.add(new BMFLTemplate());
+                featureTemplates.add(new GroupNamesInSameSentenceTemplate_FAST());
+                featureTemplates.add(new WBOTemplate());
+                featureTemplates.add(new WBFGroupNamesTemplate_FAST());
+                featureTemplates.add(new WBLGroupNamesTemplate());
+                featureTemplates.add(new WMTemplate());
+                featureTemplates.add(new WordsInBetweenGroupNamesTemplate());
+                featureTemplates.add(new BigramTemplate());
+                featureTemplates.add(new HMTemplate());
+                featureTemplates.add(new NumberMBTemplate());
+                featureTemplates.add(new NumberWBTemplate());
+                featureTemplates.add(new OverlappingTemplate());
+                featureTemplates.add(new PosInDocTemplate());
+                featureTemplates.add(new PosInSentenceTemplate());
                 break;
             case 3:
                 featureTemplates.add(new OverlappingTemplate());

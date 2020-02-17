@@ -13,7 +13,7 @@ import de.hterhors.semanticmr.eval.EEvaluationDetail;
 import de.hterhors.semanticmr.init.specifications.SystemScope;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import tsandmeier.ba.baseLine.AutomatedSectionifcation;
+import tsandmeier.ba.tools.AutomatedSectionification;
 import tsandmeier.ba.baseLine.CollectExpGroupNames;
 import tsandmeier.ba.baseLine.SCIOEntityTypes;
 import tsandmeier.ba.crf.SemanticParsingCRFCustomTwo;
@@ -279,11 +279,11 @@ public class NamedEntityRecognitionAndLinkingGroupBaseLine extends AbstractSemRe
     }
 
     public static List<DocumentLinkedAnnotation> filter(Instance instance, List<DocumentLinkedAnnotation> groupNames) {
-        AutomatedSectionifcation sectionification = AutomatedSectionifcation.getInstance(instance);
+        AutomatedSectionification sectionification = AutomatedSectionification.getInstance(instance);
 
-        groupNames.removeIf(groupName -> sectionification.getSection(groupName) != AutomatedSectionifcation.ESection.RESULTS
-                || sectionification.getSection(groupName) != AutomatedSectionifcation.ESection.ABSTRACT
-                || sectionification.getSection(groupName) != AutomatedSectionifcation.ESection.METHODS);
+        groupNames.removeIf(groupName -> sectionification.getSection(groupName) != AutomatedSectionification.ESection.RESULTS
+                || sectionification.getSection(groupName) != AutomatedSectionification.ESection.ABSTRACT
+                || sectionification.getSection(groupName) != AutomatedSectionification.ESection.METHODS);
 
         return groupNames;
     }
