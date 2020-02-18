@@ -93,10 +93,10 @@ public class EntityRecLinkExplorerCustom implements IExplorationStrategy {
 				if (fromToken.getSentenceIndex() != toToken.getSentenceIndex())
 					continue;
 
-				AutomatedSectionification.ESection section = new AutomatedSectionification(currentState.getInstance()).getSection(fromToken.getSentenceIndex());
-				if(section.equals(AutomatedSectionification.ESection.METHODS)||section.equals(AutomatedSectionification.ESection.DISCUSSION)
-						||section.equals(AutomatedSectionification.ESection.REFERENCES))
-					continue;
+//				AutomatedSectionification.ESection section = new AutomatedSectionification(currentState.getInstance()).getSection(fromToken.getSentenceIndex());
+//				if(section.equals(AutomatedSectionification.ESection.METHODS)||section.equals(AutomatedSectionification.ESection.DISCUSSION)
+//						||section.equals(AutomatedSectionification.ESection.REFERENCES))
+//					continue;
 
 				if (fromToken == toToken && currentState.containsAnnotationOnTokens(fromToken))
 					continue;

@@ -16,6 +16,8 @@ import de.hterhors.semanticmr.crf.sampling.stopcrit.ISamplingStoppingCriterion;
 import de.hterhors.semanticmr.crf.sampling.stopcrit.impl.ConverganceCrit;
 import de.hterhors.semanticmr.crf.sampling.stopcrit.impl.MaxChainLengthCrit;
 import de.hterhors.semanticmr.crf.structure.IEvaluatable;
+import de.hterhors.semanticmr.crf.structure.annotations.AbstractAnnotation;
+import de.hterhors.semanticmr.crf.structure.annotations.DocumentLinkedAnnotation;
 import de.hterhors.semanticmr.crf.templates.AbstractFeatureTemplate;
 import de.hterhors.semanticmr.crf.variables.Annotations;
 import de.hterhors.semanticmr.crf.variables.IStateInitializer;
@@ -24,6 +26,8 @@ import de.hterhors.semanticmr.crf.variables.State;
 import de.hterhors.semanticmr.eval.EEvaluationDetail;
 import de.hterhors.semanticmr.init.reader.csv.CSVDataStructureReader;
 import de.hterhors.semanticmr.init.specifications.SystemScope;
+import de.hterhors.semanticmr.json.nerla.JsonNerlaIO;
+import de.hterhors.semanticmr.json.nerla.wrapper.JsonEntityAnnotationWrapper;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import tsandmeier.ba.candprov.CreateDictionaryClass;
@@ -34,10 +38,9 @@ import tsandmeier.ba.groupnameTemplates.*;
 import tsandmeier.ba.templates.*;
 
 import java.io.File;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Map;
-import java.util.Random;
+import java.io.IOException;
+import java.util.*;
+import java.util.stream.Collectors;
 
 /**
  * Example of how to perform named entity recognition and linking.
@@ -56,9 +59,8 @@ public class NamedEntityRecognitionAndLinkingGeneral extends AbstractSemReadProj
 
     private static String TYPE_OF_TOPIC = "group_name";
 
-    private static String SPECIFICATION_DIRECTORY = "ner/"+TYPE_OF_TOPIC+"/data_structure/";
-    private static String INSTANCE_DIRECTORY = "ner/"+TYPE_OF_TOPIC+"/instances/";
-
+    private static String SPECIFICATION_DIRECTORY = "ner/" + TYPE_OF_TOPIC + "/data_structure/";
+    private static String INSTANCE_DIRECTORY = "ner/" + TYPE_OF_TOPIC + "/instances/";
 
 
     private static String ENTITIES = "ner/group_name/data_structure/entities.csv";
@@ -72,18 +74,18 @@ public class NamedEntityRecognitionAndLinkingGeneral extends AbstractSemReadProj
      *
      * @param args
      */
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
 
         int mode;
         double alpha;
 
-            if(args.length == 2){
-                mode = Integer.valueOf(args[0]);
-                alpha = Double.valueOf(args[1]);
-            } else {
-                mode = 1;
-                alpha = 0.001;
-            }
+        if (args.length == 2) {
+            mode = Integer.valueOf(args[0]);
+            alpha = Double.valueOf(args[1]);
+        } else {
+            mode = 1;
+            alpha = 0.001;
+        }
         new NamedEntityRecognitionAndLinkingGeneral().startProcedure(mode, alpha);
 
     }
@@ -119,7 +121,7 @@ public class NamedEntityRecognitionAndLinkingGeneral extends AbstractSemReadProj
                 /**
                  * We add a scope reader that reads and interprets the 4 specification files.
                  */
-                .addScopeSpecification(new CSVDataStructureReader(new File(SPECIFICATION_DIRECTORY+"entities.csv"), new File(SPECIFICATION_DIRECTORY+"hierarchies.csv"), new File(SPECIFICATION_DIRECTORY+"slots.csv"), new File(SPECIFICATION_DIRECTORY+"structures.csv")))
+                .addScopeSpecification(new CSVDataStructureReader(new File(SPECIFICATION_DIRECTORY + "entities.csv"), new File(SPECIFICATION_DIRECTORY + "hierarchies.csv"), new File(SPECIFICATION_DIRECTORY + "slots.csv"), new File(SPECIFICATION_DIRECTORY + "structures.csv")))
                 /**
                  * We apply the scope(s).
                  */
@@ -143,10 +145,10 @@ public class NamedEntityRecognitionAndLinkingGeneral extends AbstractSemReadProj
 
     }
 
-    public void startProcedure(int mode, double alpha) {
+    public void startProcedure(int mode, double alpha) throws IOException {
 
         log.info("Trainiert mit Objective Function, getestet mit ObjectiveFunctionPartialOverlap");
-        log.info("Evaluation Detail: "+evaluationDetail.toString());
+        log.info("Evaluation Detail: " + evaluationDetail.toString());
         log.info("MaxStepCrit: 50");
 
         this.alpha = alpha;
@@ -253,18 +255,18 @@ public class NamedEntityRecognitionAndLinkingGeneral extends AbstractSemReadProj
             case 1:
                 featureTemplates.add(new AMFLTemplate());
                 featureTemplates.add(new BMFLTemplate());
-                featureTemplates.add(new MentionsInSentenceTemplate());
-                featureTemplates.add(new WBOTemplate());
-                featureTemplates.add(new WBTemplate());
-                featureTemplates.add(new WMTemplate());
-                featureTemplates.add(new WordsInBetweenTemplate());
-                featureTemplates.add(new BigramTemplate());
-                featureTemplates.add(new HMTemplate());
-                featureTemplates.add(new NumberMBTemplate());
-                featureTemplates.add(new NumberWBTemplate());
-                featureTemplates.add(new OverlappingTemplate());
-                featureTemplates.add(new PosInDocTemplate());
-                featureTemplates.add(new PosInSentenceTemplate());
+//                featureTemplates.add(new MentionsInSentenceTemplate());
+//                featureTemplates.add(new WBOTemplate());
+//                featureTemplates.add(new WBTemplate());
+//                featureTemplates.add(new WMTemplate());
+//                featureTemplates.add(new WordsInBetweenTemplate());
+//                featureTemplates.add(new BigramTemplate());
+//                featureTemplates.add(new HMTemplate());
+//                featureTemplates.add(new NumberMBTemplate());
+//                featureTemplates.add(new NumberWBTemplate());
+//                featureTemplates.add(new OverlappingTemplate());
+//                featureTemplates.add(new PosInDocTemplate());
+//                featureTemplates.add(new PosInSentenceTemplate());
                 break;
             case 2:
                 featureTemplates.add(new AMFLTemplate());
@@ -410,8 +412,8 @@ public class NamedEntityRecognitionAndLinkingGeneral extends AbstractSemReadProj
          * NOTE: Make sure that the base model directory exists!
          */
         final File modelBaseDir = new File("models/nerla/groupNames/");
-        final String modelName = "NERLA1234" + new Random().nextInt(10000);
-//        final String modelName = "DocLinked_mit_300_maxStep";
+//        final String modelName = "NERLA1234" + new Random().nextInt(10000);
+        final String modelName = "NERLA12346381";
 
         Model model;
 
@@ -484,6 +486,32 @@ public class NamedEntityRecognitionAndLinkingGeneral extends AbstractSemReadProj
         mean = evaluate(log, results);
 
         log.info("Modell gespeichert unter: " + modelBaseDir.toString() + "/" + modelName);
+
+        Map<Instance, Set<DocumentLinkedAnnotation>> annotations = new HashMap<>();
+
+        for (Map.Entry<Instance, State> result : results.entrySet()) {
+            for (AbstractAnnotation aa : result.getValue().getCurrentPredictions().getAnnotations()) {
+
+                annotations.putIfAbsent(result.getKey(), new HashSet<>());
+                annotations.get(result.getKey()).add(aa.asInstanceOfDocumentLinkedAnnotation());
+            }
+        }
+
+        JsonNerlaIO io = new JsonNerlaIO(true);
+
+        for (Instance instance : results.keySet()) {
+
+            new File("jsonFiles/"+TYPE_OF_TOPIC).mkdirs();
+            new File("jsonFiles/"+TYPE_OF_TOPIC+"/"+evaluationDetail.toString()).mkdirs();
+
+            List<JsonEntityAnnotationWrapper> wrappedAnnotation = annotations.get(instance).stream()
+                    .map(d -> new JsonEntityAnnotationWrapper(d))
+                    .collect(Collectors.toList());
+            io.writeNerlas(new File("jsonFiles/" + TYPE_OF_TOPIC+ "/" + evaluationDetail.toString()+"/"+ instance.getName() + ".nerla.json"), wrappedAnnotation);
+
+        }
+
+
     }
 
     private void addNumberTemplates(List<AbstractFeatureTemplate> featureTemplates) {

@@ -365,7 +365,7 @@ public class NamedEntityRecognitionAndLinkingOrganismModel extends AbstractSemRe
 
 
 
-        //To get the Json Files
+        //For creating the Json Files
 
         //      Map<Instance, Set<DocumentLinkedAnnotation>> annotations = new HashMap<>();
 
