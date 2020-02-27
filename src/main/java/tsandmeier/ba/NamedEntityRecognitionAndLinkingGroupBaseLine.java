@@ -3,6 +3,7 @@ package tsandmeier.ba;
 import de.hterhors.semanticmr.corpus.InstanceProvider;
 import de.hterhors.semanticmr.corpus.distributor.AbstractCorpusDistributor;
 import de.hterhors.semanticmr.corpus.distributor.ShuffleCorpusDistributor;
+import de.hterhors.semanticmr.crf.helper.log.LogUtils;
 import de.hterhors.semanticmr.crf.structure.IEvaluatable;
 import de.hterhors.semanticmr.crf.structure.annotations.AbstractAnnotation;
 import de.hterhors.semanticmr.crf.structure.annotations.AnnotationBuilder;
@@ -10,6 +11,7 @@ import de.hterhors.semanticmr.crf.structure.annotations.DocumentLinkedAnnotation
 import de.hterhors.semanticmr.crf.templates.AbstractFeatureTemplate;
 import de.hterhors.semanticmr.crf.variables.*;
 import de.hterhors.semanticmr.eval.EEvaluationDetail;
+import de.hterhors.semanticmr.init.reader.csv.CSVDataStructureReader;
 import de.hterhors.semanticmr.init.specifications.SystemScope;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -38,19 +40,17 @@ public class NamedEntityRecognitionAndLinkingGroupBaseLine extends AbstractSemRe
     private int mode;
     List<AbstractFeatureTemplate<?>> featureTemplates;
 
-    private final EEvaluationDetail evaluationDetail = EEvaluationDetail.DOCUMENT_LINKED;
+    private final EEvaluationDetail evaluationDetail = EEvaluationDetail.LITERAL;
+
+    private static String TYPE_OF_TOPIC = "treatment";
+
+    private static String SPECIFICATION_DIRECTORY = "ner/" + TYPE_OF_TOPIC + "/data_structure/";
+    private static String INSTANCE_DIRECTORY = "ner/" + TYPE_OF_TOPIC + "/instances/";
+
 
     private double alpha;
 
 
-    /**1: all
-     * 2: singleContextTemplates
-     * 3: doubleContextTemplates
-     * 4: singleMentionTemplates
-     * 5: NumberTemplates
-     * 6: POS-Tagging
-     * 7:
-     */
 
     /**
      * Start the named entity recognition and linking procedure.
@@ -59,27 +59,8 @@ public class NamedEntityRecognitionAndLinkingGroupBaseLine extends AbstractSemRe
      * @throws IOException
      */
     public static void main(String[] args) {
-
         new NamedEntityRecognitionAndLinkingGroupBaseLine().startProcedure();
     }
-
-    /**
-     * A dictionary file that is used for the in-memory dictionary based candidate
-     * retrieval component. It is basically a list of terms and synonyms for
-     * specific entities.
-     * <p>
-     * In a real world scenario dictionary lookups for candidate retrieval is mostly
-     * not sufficient! Consider implementing your own candidate retrieval e.g. fuzzy
-     * lookup, Lucene-based etc...
-     */
-
-    private final File dictionaryFile = new File("src/main/resources/examples/nerla/dicts/injury.dict");
-
-    /**
-     * The directory of the corpus instances. In this example each instance is
-     * stored in its own json-file.
-     */
-    private final File instanceDirectory = new File("src/main/resources/examples/nerla/group_name/corpus/instances/");
 
     public NamedEntityRecognitionAndLinkingGroupBaseLine() {
 
@@ -94,7 +75,7 @@ public class NamedEntityRecognitionAndLinkingGroupBaseLine extends AbstractSemRe
                 /**
                  * We add a scope reader that reads and interprets the 4 specification files.
                  */
-                .addScopeSpecification(NERLASpecsGroupName.csvSpecsReader)
+                .addScopeSpecification(new CSVDataStructureReader(new File(SPECIFICATION_DIRECTORY + "entities.csv"), new File(SPECIFICATION_DIRECTORY + "hierarchies.csv"), new File(SPECIFICATION_DIRECTORY + "slots.csv"), new File(SPECIFICATION_DIRECTORY + "structures.csv")))
                 /**
                  * We apply the scope(s).
                  */
@@ -145,7 +126,7 @@ public class NamedEntityRecognitionAndLinkingGroupBaseLine extends AbstractSemRe
          * ShuffleCorpusDistributor, we initially set a limit to the number of files
          * that should be read.
          */
-        InstanceProvider instanceProvider = new InstanceProvider(instanceDirectory, shuffleCorpusDistributor);
+        InstanceProvider instanceProvider = new InstanceProvider(new File(INSTANCE_DIRECTORY), shuffleCorpusDistributor);
 
 //        for(Instance instance: instanceProvider.getInstances()){
 //            List<Integer> indexes = new ArrayList<Integer>();
@@ -163,13 +144,16 @@ public class NamedEntityRecognitionAndLinkingGroupBaseLine extends AbstractSemRe
 //            }
 //        }
 
-        NerlaEvaluatorPartialOverlap nerl = new NerlaEvaluatorPartialOverlap(EEvaluationDetail.DOCUMENT_LINKED);
+        NerlaEvaluatorPartialOverlap nerl = new NerlaEvaluatorPartialOverlap(evaluationDetail);
+        Map<Instance, IEvaluatable.Score> testResults = new HashMap<>();
         int counter = 0;
         for(Instance instance: instanceProvider.getInstances()){
             counter++;
             List<DocumentLinkedAnnotation> patternAnnotations = extractGroupNamesWithPattern(instance);
 
             IEvaluatable.Score score = nerl.prf1(instance.getGoldAnnotations().getAnnotations(), patternAnnotations);
+
+            testResults.putIfAbsent(instance, score);
 
             log.info("Nummer "+counter+": "+instance.getName());
             log.info("********************************************GOLD************************************************");
@@ -180,11 +164,24 @@ public class NamedEntityRecognitionAndLinkingGroupBaseLine extends AbstractSemRe
             for(AbstractAnnotation annotation: patternAnnotations){
                 log.info(annotation.asInstanceOfDocumentLinkedAnnotation().toPrettyString());
             }
+            log.info(System.lineSeparator());
 
 
 
-            System.out.println("F1: "+score.getF1()+" Recall: "+score.getRecall()+" Precision: "+score.getPrecision());
+//            System.out.println("F1: "+score.getF1()+" Recall: "+score.getRecall()+" Precision: "+score.getPrecision());
+            log.info(score.toString());
         }
+
+        IEvaluatable.Score mean = new IEvaluatable.Score();
+        for (Map.Entry<Instance, IEvaluatable.Score> res : testResults.entrySet()) {
+
+            mean.add(res.getValue());
+//            LogUtils.logState(log, "======Final Evaluation======", res.getKey(), res.getValue());
+        }
+
+        log.info("\n");
+        log.info("Mean Score: " + mean);
+
 
 
 
@@ -263,10 +260,34 @@ public class NamedEntityRecognitionAndLinkingGroupBaseLine extends AbstractSemRe
                             continue;
                         annotation = AnnotationBuilder.toAnnotation(instance.getDocument(), SCIOEntityTypes.groupName,
                                 groupName.substring(groupName.lastIndexOf(" ")), m.start(group));
-                        //Hier kommt immer die Fehlermeldung:
-                        //Can not map start charachter offset: 797 to token in document: N139 Collazos-Castro 2005
-                        //Durch m.start(group) +1 findet es StartToken, aber Endtoken nicht mehr
-                        //dadurch bleibt Liste der vorhergesagten Annotationen leer, obwohl eigentlich  welche gefunden wurden
+                    } catch (Exception e) {
+                        annotation = null;
+                    }
+                    if (annotation != null)
+                        anns.add(annotation);
+                }
+            }
+        }
+        return filter(instance, anns);
+    }
+
+    public static List<DocumentLinkedAnnotation> extractOrganismModelWithPattern(Instance instance) {
+        List<DocumentLinkedAnnotation> anns = new ArrayList<>();
+        Set<String> distinct = new HashSet<>();
+        for (CollectExpGroupNames.PatternIndexPair p : CollectExpGroupNames.pattern) {
+            Matcher m = p.pattern.matcher(instance.getDocument().documentContent);
+            while (m.find()) {
+                for (Integer group : p.groups) {
+                    DocumentLinkedAnnotation annotation;
+                    try {
+                        String groupName = m.group(group);
+                        if (groupName.length() > 80)
+                            continue;
+
+                        if (CollectExpGroupNames.STOP_TERM_LIST.contains(groupName))
+                            continue;
+                        annotation = AnnotationBuilder.toAnnotation(instance.getDocument(), SCIOEntityTypes.groupName,
+                                groupName.substring(groupName.lastIndexOf(" ")), m.start(group));
                     } catch (Exception e) {
                         annotation = null;
                     }
@@ -282,8 +303,8 @@ public class NamedEntityRecognitionAndLinkingGroupBaseLine extends AbstractSemRe
         AutomatedSectionification sectionification = AutomatedSectionification.getInstance(instance);
 
         groupNames.removeIf(groupName -> sectionification.getSection(groupName) != AutomatedSectionification.ESection.RESULTS
-                || sectionification.getSection(groupName) != AutomatedSectionification.ESection.ABSTRACT
-                || sectionification.getSection(groupName) != AutomatedSectionification.ESection.METHODS);
+                && sectionification.getSection(groupName) != AutomatedSectionification.ESection.ABSTRACT
+                && sectionification.getSection(groupName) != AutomatedSectionification.ESection.METHODS);
 
         return groupNames;
     }

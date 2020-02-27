@@ -63,6 +63,8 @@ public class EntityRecLinkExplorerCustom implements IExplorationStrategy {
 	private void addNewAnnotation(final List<State> proposalStates, State currentState) {
 		final List<DocumentToken> tokens = currentState.getInstance().getDocument().tokenList;
 
+		AutomatedSectionification sectionification = new AutomatedSectionification(currentState.getInstance());
+
 		for (int windowSize = MIN_WINDOW_SIZE; windowSize <= MAX_WINDOW_SIZE; windowSize++) {
 
 			for (int runIndex = 0; runIndex < tokens.size() - windowSize; runIndex++) {
@@ -93,10 +95,10 @@ public class EntityRecLinkExplorerCustom implements IExplorationStrategy {
 				if (fromToken.getSentenceIndex() != toToken.getSentenceIndex())
 					continue;
 
-//				AutomatedSectionification.ESection section = new AutomatedSectionification(currentState.getInstance()).getSection(fromToken.getSentenceIndex());
-//				if(section.equals(AutomatedSectionification.ESection.METHODS)||section.equals(AutomatedSectionification.ESection.DISCUSSION)
-//						||section.equals(AutomatedSectionification.ESection.REFERENCES))
-//					continue;
+				AutomatedSectionification.ESection section = sectionification.getSection(fromToken.getSentenceIndex());
+				if(section.equals(AutomatedSectionification.ESection.METHODS)||section.equals(AutomatedSectionification.ESection.DISCUSSION)
+						||section.equals(AutomatedSectionification.ESection.REFERENCES))
+					continue;
 
 				if (fromToken == toToken && currentState.containsAnnotationOnTokens(fromToken))
 					continue;

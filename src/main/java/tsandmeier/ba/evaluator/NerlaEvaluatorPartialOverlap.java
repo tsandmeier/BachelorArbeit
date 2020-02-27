@@ -1,5 +1,6 @@
 package tsandmeier.ba.evaluator;
 
+import de.hterhors.semanticmr.crf.structure.EntityType;
 import de.hterhors.semanticmr.crf.structure.IEvaluatable.Score;
 import de.hterhors.semanticmr.crf.structure.annotations.*;
 import de.hterhors.semanticmr.crf.variables.DocumentToken;
@@ -37,6 +38,9 @@ public class NerlaEvaluatorPartialOverlap extends AbstractEvaluator {
         int tp = 0;
         int fp = 0;
         int fn = 0;
+
+//EntityType.get("Injury").getTransitiveClosureSubEntityTypes().contains()
+
 
         if(evaluationDetail.equals(EEvaluationDetail.LITERAL)) {
 

@@ -444,13 +444,13 @@ public class SemanticParsingCRFCustomTwo {
 
             this.testStatistics.endTrainingTime = System.currentTimeMillis();
 
-            LogUtils.logState(log,
-                    TEST_CONTEXT + "[" + ++instanceIndex + "/" + instancesToPredict.size() + "] [" + samplingStep + "]",
-                    instance, currentState);
+//            LogUtils.logState(log,
+//                    TEST_CONTEXT + "[" + ++instanceIndex + "/" + instancesToPredict.size() + "] [" + samplingStep + "]",
+//                    instance, currentState);
 //			computeCoverage(true, coverageObjectiveFunction, Arrays.asList(instance));
-            log.info("***********************************************************");
-            log.info("\n");
-            log.info("Time: " + this.testStatistics.getTotalDuration());
+//            log.info("***********************************************************");
+//            log.info("\n");
+//            log.info("Time: " + this.testStatistics.getTotalDuration());
 
         }
         this.testStatistics.endTrainingTime = System.currentTimeMillis();

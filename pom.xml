@@ -5,10 +5,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>tsandmeier.ba</groupId>
-    <artifactId>DeliveryMethod</artifactId>
+    <artifactId>General_Test</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    <name>DeliveryMethod</name>
+    <name>General_Test</name>
     <packaging>jar</packaging>
 
     <dependencies>
@@ -127,7 +127,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass>tsandmeier.ba.NamedEntityRecognitionAndLinkingGeneral</mainClass>
+                            <mainClass>tsandmeier.ba.NamedEntityRecognitionAndLinkingGeneralTest</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

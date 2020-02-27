@@ -3,7 +3,6 @@ package tsandmeier.ba;
 import de.hterhors.semanticmr.corpus.InstanceProvider;
 import de.hterhors.semanticmr.corpus.distributor.AbstractCorpusDistributor;
 import de.hterhors.semanticmr.corpus.distributor.ShuffleCorpusDistributor;
-import de.hterhors.semanticmr.crf.exploration.EntityRecLinkExplorer;
 import de.hterhors.semanticmr.crf.learner.AdvancedLearner;
 import de.hterhors.semanticmr.crf.learner.optimizer.SGD;
 import de.hterhors.semanticmr.crf.learner.regularizer.L2;
@@ -16,8 +15,6 @@ import de.hterhors.semanticmr.crf.sampling.stopcrit.ISamplingStoppingCriterion;
 import de.hterhors.semanticmr.crf.sampling.stopcrit.impl.ConverganceCrit;
 import de.hterhors.semanticmr.crf.sampling.stopcrit.impl.MaxChainLengthCrit;
 import de.hterhors.semanticmr.crf.structure.IEvaluatable;
-import de.hterhors.semanticmr.crf.structure.annotations.AbstractAnnotation;
-import de.hterhors.semanticmr.crf.structure.annotations.DocumentLinkedAnnotation;
 import de.hterhors.semanticmr.crf.templates.AbstractFeatureTemplate;
 import de.hterhors.semanticmr.crf.variables.Annotations;
 import de.hterhors.semanticmr.crf.variables.IStateInitializer;
@@ -26,26 +23,29 @@ import de.hterhors.semanticmr.crf.variables.State;
 import de.hterhors.semanticmr.eval.EEvaluationDetail;
 import de.hterhors.semanticmr.init.reader.csv.CSVDataStructureReader;
 import de.hterhors.semanticmr.init.specifications.SystemScope;
-import de.hterhors.semanticmr.json.nerla.JsonNerlaIO;
-import de.hterhors.semanticmr.json.nerla.wrapper.JsonEntityAnnotationWrapper;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import tsandmeier.ba.candprov.CreateDictionaryClass;
 import tsandmeier.ba.crf.SemanticParsingCRFCustomTwo;
 import tsandmeier.ba.evaluator.NerlaObjectiveFunctionPartialOverlap;
 import tsandmeier.ba.explorer.EntityRecLinkExplorerCustom;
-import tsandmeier.ba.groupnameTemplates.*;
+import tsandmeier.ba.groupnameTemplates.GroupNamesInSameSentenceTemplate_FAST;
+import tsandmeier.ba.groupnameTemplates.WBFGroupNamesTemplate_FAST;
+import tsandmeier.ba.groupnameTemplates.WBLGroupNamesTemplate_FAST;
+import tsandmeier.ba.groupnameTemplates.WordsInBetweenGroupNamesTemplate_FAST;
 import tsandmeier.ba.templates.*;
 
 import java.io.File;
 import java.io.IOException;
-import java.util.*;
-import java.util.stream.Collectors;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Map;
+import java.util.Random;
 
 /**
  * Example of how to perform named entity recognition and linking.
  */
-public class NamedEntityRecognitionAndLinkingGeneral extends AbstractSemReadProject {
+public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemReadProject {
     private static Logger log = LogManager.getFormatterLogger("de.hterhors.semanticmr.projects.examples.corpus.nerl.NerlCorpusCreationExample");
     private final boolean overrideModel = false;
     SemanticParsingCRFCustomTwo crf;
@@ -68,6 +68,11 @@ public class NamedEntityRecognitionAndLinkingGeneral extends AbstractSemReadProj
     private static String SLOTS = "ner/group_name/data_structure/slots.csv";
     private static String STRUCTURES = "ner/group_name/data_structure/structures.csv";
 
+    private String typeOfTopic;
+    File instanceDirectory;
+
+    String modelName;
+
 
     /**
      * Start the named entity recognition and linking procedure.
@@ -79,14 +84,13 @@ public class NamedEntityRecognitionAndLinkingGeneral extends AbstractSemReadProj
         int mode;
         double alpha;
 
-        if (args.length == 2) {
+        if (args.length == 4) {
             mode = Integer.valueOf(args[0]);
             alpha = Double.valueOf(args[1]);
+            new NamedEntityRecognitionAndLinkingGeneralTest(args[2],args[3]).startProcedure(mode, alpha);
         } else {
-            mode = 1;
-            alpha = 0.001;
+            log.info("Falsche Anzahl an Parametern!");
         }
-        new NamedEntityRecognitionAndLinkingGeneral().startProcedure(mode, alpha);
     }
 
     /**
@@ -105,9 +109,8 @@ public class NamedEntityRecognitionAndLinkingGeneral extends AbstractSemReadProj
      * The directory of the corpus instances. In this example each instance is
      * stored in its own json-file.
      */
-    private final File instanceDirectory = new File(INSTANCE_DIRECTORY);
 
-    public NamedEntityRecognitionAndLinkingGeneral() {
+    public NamedEntityRecognitionAndLinkingGeneralTest(String typeOfTopic, String modelName) {
 
         /**
          * 1. STEP initialize the system.
@@ -120,7 +123,7 @@ public class NamedEntityRecognitionAndLinkingGeneral extends AbstractSemReadProj
                 /**
                  * We add a scope reader that reads and interprets the 4 specification files.
                  */
-                .addScopeSpecification(new CSVDataStructureReader(new File(SPECIFICATION_DIRECTORY + "entities.csv"), new File(SPECIFICATION_DIRECTORY + "hierarchies.csv"), new File(SPECIFICATION_DIRECTORY + "slots.csv"), new File(SPECIFICATION_DIRECTORY + "structures.csv")))
+                .addScopeSpecification(new CSVDataStructureReader(new File("ner/"+typeOfTopic+"/data_structure/entities.csv"), new File("ner/"+typeOfTopic+"/data_structure/hierarchies.csv"), new File("ner/"+typeOfTopic+"/data_structure/slots.csv"), new File("ner/"+typeOfTopic+"/data_structure/structures.csv")))
                 /**
                  * We apply the scope(s).
                  */
@@ -141,7 +144,9 @@ public class NamedEntityRecognitionAndLinkingGeneral extends AbstractSemReadProj
                  */
                 .build());
 
-
+        this.typeOfTopic = typeOfTopic;
+        this.instanceDirectory = new File("ner/" + typeOfTopic + "/instances/");
+        this.modelName = modelName;
     }
 
     public void startProcedure(int mode, double alpha) throws IOException {
@@ -152,6 +157,7 @@ public class NamedEntityRecognitionAndLinkingGeneral extends AbstractSemReadProj
 
         this.alpha = alpha;
         this.mode = mode;
+
 
         InstanceProvider.maxNumberOfAnnotations = 1000;
 
@@ -411,7 +417,7 @@ public class NamedEntityRecognitionAndLinkingGeneral extends AbstractSemReadProj
          * NOTE: Make sure that the base model directory exists!
          */
         final File modelBaseDir = new File("models/nerla/");
-        final String modelName = "NERLA1234" + new Random().nextInt(10000);
+//        final String modelName = "NERLA1234" + new Random().nextInt(10000);
 //        final String modelName = "NERLA12341332";
 
         Model model;
@@ -471,9 +477,12 @@ public class NamedEntityRecognitionAndLinkingGeneral extends AbstractSemReadProj
          * state based on the trained model) that contains annotations.
          */
 
+
+        log.info("******************TRAINIERT MIT LITERAL - GETESTET MIT LITERAL*****************************");
+
         crf.changeObjectiveFunction(new NerlaObjectiveFunctionPartialOverlap(evaluationDetail));
 
-        Map<Instance, State> results = crf.predict(instanceProvider.getInstances(), maxStepCrit,
+        Map<Instance, State> results = crf.predict(instanceProvider.getRedistributedTestInstances(), maxStepCrit,
                 noModelChangeCrit);
 
         /*
@@ -486,8 +495,26 @@ public class NamedEntityRecognitionAndLinkingGeneral extends AbstractSemReadProj
         log.info(crf.getTrainingStatistics());
         log.info(crf.getTestStatistics());
 
-        log.info("Modell gespeichert unter: " + modelBaseDir.toString() + "/" + modelName);
+        log.info("genutztes Modell: " + modelBaseDir.toString() + "/" + modelName);
 
+        log.info("******************TRAINIERT MIT LITERAL - GETESTET MIT DOCUMENTLINKED*****************************");
+
+        crf.changeObjectiveFunction(new NerlaObjectiveFunctionPartialOverlap(EEvaluationDetail.DOCUMENT_LINKED));
+
+        results = crf.predict(instanceProvider.getRedistributedTestInstances(), maxStepCrit,
+                noModelChangeCrit);
+
+        /*
+          Finally, we evaluate the produced states and print some statistics.
+         */
+
+
+        mean = evaluate(log, results);
+
+        log.info(crf.getTrainingStatistics());
+        log.info(crf.getTestStatistics());
+
+        log.info("genutztes Modell: " + modelBaseDir.toString() + "/" + modelName);
 
         //jsonFiles
 
