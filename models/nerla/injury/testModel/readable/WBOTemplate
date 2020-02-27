@@ -1,0 +1,40 @@
+WBO <EntityType [entityTypeName=Compression], EntityType [entityTypeName=C4]> at spinal level	0.0049991979082699665
+WBO <EntityType [entityTypeName=AntibioticMedication], EntityType [entityTypeName=DosageExtracorporal]> was used (	0.003999559019920108
+WBO <EntityType [entityTypeName=SodiumPentobarbital], EntityType [entityTypeName=DosageExtracorporal]> (Nembutal,	0.003999490728004653
+WBO <EntityType [entityTypeName=Isoflurane], EntityType [entityTypeName=DosageExtracorporal]> in a mixture of	0.0039994031428879665
+WBO <EntityType [entityTypeName=DorsalHemisection], EntityType [entityTypeName=T11]> at vertebral level	0.0029996064706257586
+WBO <EntityType [entityTypeName=DosageExtracorporal], EntityType [entityTypeName=DosageExtracorporal]> and xylazine (	0.0020001512735253395
+WBO <EntityType [entityTypeName=DosageExtracorporal], EntityType [entityTypeName=DosageExtracorporal]> and xylasine (	0.001999870999655787
+WBO <EntityType [entityTypeName=Distance], EntityType [entityTypeName=T10]> to spinal cord	0.001999709716649771
+WBO <EntityType [entityTypeName=Xylazine], EntityType [entityTypeName=DosageExtracorporal]> cocktail (Ketamine HCl	0.0019997069164742563
+WBO <EntityType [entityTypeName=NYUImpactor], EntityType [entityTypeName=Weight]> with a weight of	0.0019996304326378085
+WBO <EntityType [entityTypeName=Halothane], EntityType [entityTypeName=DosageExtracorporal]> anesthesia (1‚	0.001999588538042063
+WBO <EntityType [entityTypeName=Distance], EntityType [entityTypeName=T10]> setting) on	0.0019995777403086458
+WBO <EntityType [entityTypeName=Weight], EntityType [entityTypeName=Distance]> weight was dropped from	0.0019995604434092326
+WBO <EntityType [entityTypeName=DorsalInjuryArea], EntityType [entityTypeName=ScoutenWireKnife]> lesion using a	9.999691479703713E-4
+WBO <EntityType [entityTypeName=DosageExtracorporal], EntityType [entityTypeName=DosageExtracorporal]> , xylazine (	9.999366494979965E-4
+WBO <EntityType [entityTypeName=DosageExtracorporal], EntityType [entityTypeName=InjectionDelivery]> xylazine) by intraperitoneal	9.999300499372453E-4
+WBO <EntityType [entityTypeName=DosageExtracorporal], EntityType [entityTypeName=DosageExtracorporal]> and xilazine [	9.99890253509332E-4
+WBO <EntityType [entityTypeName=Weight], EntityType [entityTypeName=Distance]> was dropped from	9.998416600191028E-4
+WBO <EntityType [entityTypeName=Xylazine], EntityType [entityTypeName=DosageExtracorporal]> (100:	9.99796968091415E-4
+WBO <EntityType [entityTypeName=Xylazine], EntityType [entityTypeName=DosageExtracorporal]> ketamine (10 and	9.997918691393827E-4
+WBO <EntityType [entityTypeName=Contusion], EntityType [entityTypeName=Weight]> by dropping a	9.997662747926463E-4
+WBO <EntityType [entityTypeName=InjectionDelivery], EntityType [entityTypeName=DosageExtracorporal]> and xylazine (	-9.798633440018194E-8
+WBO <EntityType [entityTypeName=Xylazine], EntityType [entityTypeName=DosageExtracorporal]> (6.5 mg/	-9.997939687047173E-4
+WBO <EntityType [entityTypeName=Weight], EntityType [entityTypeName=NYUImpactor]> 12.5 mm,	-9.998423599085781E-4
+WBO <EntityType [entityTypeName=Distance], EntityType [entityTypeName=Distance]> The contusion impact	-9.998460593325144E-4
+WBO <EntityType [entityTypeName=IntraperitonealLocation], EntityType [entityTypeName=DosageExtracorporal]> injections of BrdU (	-9.998515585014996E-4
+WBO <EntityType [entityTypeName=DosageExtracorporal], EntityType [entityTypeName=Xylazine]> i.p.) and	-9.998632568343096E-4
+WBO <EntityType [entityTypeName=DorsalHemisection], EntityType [entityTypeName=DosageExtracorporal]> at the T-	-9.998824543950102E-4
+WBO <EntityType [entityTypeName=DosageExtracorporal], EntityType [entityTypeName=Weight]> and buprenorphine (	-9.99887053865328E-4
+WBO <EntityType [entityTypeName=InjectionDelivery], EntityType [entityTypeName=DosageExtracorporal]> of sodium pentobarbital (	-9.99887853775369E-4
+WBO <EntityType [entityTypeName=Weight], EntityType [entityTypeName=Distance]> from a 12.5 mm	-9.998932531848843E-4
+WBO <EntityType [entityTypeName=Weight], EntityType [entityTypeName=Distance]> from a height of	-9.998935531529347E-4
+WBO <EntityType [entityTypeName=Hydration], EntityType [entityTypeName=BladderExpression]> and food.	-9.999091516155521E-4
+WBO <EntityType [entityTypeName=DosageExtracorporal], EntityType [entityTypeName=AntibioticMedication]> U/qd	-9.999288500217882E-4
+WBO <EntityType [entityTypeName=CompleteTransection], EntityType [entityTypeName=Blade]> at T8 using a	-9.99932349779229E-4
+WBO <EntityType [entityTypeName=Distance], EntityType [entityTypeName=T10]> onto the exposed	-9.999328497455778E-4
+WBO <EntityType [entityTypeName=DosageExtracorporal], EntityType [entityTypeName=DosageExtracorporal]> and acepromazine (	-9.999367494916763E-4
+WBO <EntityType [entityTypeName=InjectionDelivery], EntityType [entityTypeName=DosageExtracorporal]> injections of BrdU (	-9.999866475852881E-4
+WBO <EntityType [entityTypeName=PartialTransection], EntityType [entityTypeName=T9]> was made at	-9.999890475563562E-4
+WBO <EntityType [entityTypeName=InjectionDelivery], EntityType [entityTypeName=DosageExtracorporal]> injection of pentobarbital (	-0.0019997506110798996

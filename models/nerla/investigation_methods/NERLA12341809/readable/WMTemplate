@@ -1,0 +1,1293 @@
+AutonomicDysreflexiaTest 	0.012997051005321707
+AutonomicDysreflexiaTest HR	0.009998545592892465
+SomatosensoryEvokedPotentialsTest of	0.008998777030166737
+LocomotorTest 	0.008998397071697856
+GaleRatingScoreTest CBS	0.007998913067496932
+GaleRatingScoreTest 	0.006998992516850963
+BBBTest 	0.006997567984321158
+AxonalChangesTest of	0.005999262543564354
+SomatosensoryEvokedPotentialsTest amplitude of	0.005999236648344046
+LocomotorTest PWR	0.0059992184451774355
+CystVolumeTest of	0.005998983877393966
+ProteinLevelAnalysis of	0.005998972275695493
+MortalityObservation 	0.00599888688205345
+AxonalChangesTest density of	0.0049995657684220535
+CystVolumeTest cavitation area	0.004999494175805876
+ImagingTest FA	0.004999479872964417
+ImagingTest FA values	0.004999479872964417
+ProteinLevelAnalysis Bax	0.004999469074294472
+LesionVolumeTest lesion areas	0.004999464377745782
+TailFlickReflexTest TFL	0.004999464273556646
+TailFlickReflexTest 	0.004999464273556646
+ElectrophysiologyTest CAPs	0.004999458175638804
+InflammationTest Iba1	0.0049994504751070794
+MotorEvokedPotentialsTest MEP	0.0049992846927842255
+AxonalChangesTest axon	0.00499925990650198
+LocomotorTest IFFT	0.004999227499705717
+InflammationTest 	0.00499914471491863
+LesionVolumeTest of	0.004999108520917995
+FootprintAnalysisTest 	0.00499898963115975
+ProteinLevelAnalysis 	0.004998430392692241
+ElectrophysiologyTest 	0.004998426902054069
+MotorEvokedPotentialsTest 	0.004998136830429191
+NeuroprotectionTest rate	0.003999628618542983
+NeuroprotectionTest survival rate	0.003999628618542983
+AxonalRegenerationTest BDA	0.0039995869195002835
+AxonalRegenerationTest BDA immunoreactivity	0.0039995869195002835
+GeneExpressionAnalysis mRNA	0.003999554629433304
+SomatosensoryEvokedPotentialsTest CSEP	0.003999532821254725
+SomatosensoryEvokedPotentialsTest of CSEP	0.003999532821254725
+ProteinLevelAnalysis BDNF level	0.003999516224740529
+AxonalChangesTest axon number	0.00399950233038512
+FootprintAnalysisTest of	0.003999489732194017
+AxonalChangesTest CST	0.00399948342969548
+AxonalChangesTest CST label	0.00399948342969548
+AxonalSproutingTest corticospinal sprouts	0.003999472429553417
+AxonalSproutingTest sprouts	0.003999472429553417
+BBBTest BBB test	0.003999464230211498
+RearingTest 	0.003999460931252714
+RearingTest rears	0.003999460931252714
+AstrogliosisTest astrocytic activation	0.003999458631569676
+BBBTest locomotion testing	0.003999458334977974
+GroomingObservation 	0.003999419334251039
+GroomingObservation hygiene	0.003999419334251039
+MortalityObservation died	0.003999412034218695
+InvestigationMethod muscle weight	0.003999294252946048
+CystVolumeTest area	0.0039992144601874976
+AxonalSproutingTest RST	0.0039992114596293215
+NeuronalChangesTest size	0.003999042788182544
+SinglePelletReachingTest 	0.003998989378806665
+TissueSparingTest preserved more	0.002999848148981582
+TissueSparingTest more	0.002999848148981582
+TissueSparingTest preserved more tissue	0.002999848148981582
+TissueSparingTest more tissue	0.002999848148981582
+LesionVolumeTest lesion volumes	0.002999749059143719
+AutonomicDysreflexiaTest heart rate response	0.0029997317617894512
+AutonomicDysreflexiaTest rate response	0.0029997317617894512
+AstrogliosisTest GFAP staining	0.0029997201624984175
+SomatosensoryEvokedPotentialsTest SSEPs	0.0029996536720284686
+AxonalRegenerationTest axonal elongation	0.002999639673474082
+InvestigationMethod health status	0.002999588475015828
+FootprintAnalysisTest base of	0.0029995852755151757
+FootprintAnalysisTest base of support	0.0029995852755151757
+FootprintAnalysisTest of support	0.0029995852755151757
+FootprintAnalysisTest base	0.0029995852755151757
+AxonalChangesTest label	0.0029995801775270876
+MotorEvokedPotentialsTest percentage amplitudes	0.002999574077292391
+AutomatedGaitAnalysis crossing time	0.0029995676754162675
+AutonomicDysreflexiaTest overall HR	0.0029995674782944876
+GeneExpressionAnalysis mRNA expression	0.002999560281372796
+OpenFieldTest open-field locomotor	0.002999555180241199
+OpenFieldTest open-field locomotor scores	0.002999555180241199
+ProteinLevelAnalysis ERK	0.002999554076742642
+ProteinLevelAnalysis expressions	0.002999554076742642
+ProteinLevelAnalysis expressions of	0.002999554076742642
+ProteinLevelAnalysis expressions of ERK	0.002999554076742642
+ProteinLevelAnalysis of ERK	0.002999554076742642
+HindpawSensationTest pressure stimuli	0.0029995536768057476
+ProteinLevelAnalysis NGF proteinwas	0.0029995461779296277
+ProteinLevelAnalysis proteinwas	0.0029995461779296277
+FootprintAnalysisTest rotation	0.0029995380837676087
+WalkingAnalysisTest horizontal rope	0.00299953458063306
+WalkingAnalysisTest horizontal rope locomotion	0.00299953458063306
+WalkingAnalysisTest rope locomotion	0.00299953458063306
+WalkingAnalysisTest horizontal rope locomotion performance	0.00299953458063306
+WalkingAnalysisTest rope locomotion performance	0.00299953458063306
+WalkingAnalysisTest locomotion performance	0.00299953458063306
+WalkingAnalysisTest rope	0.00299953458063306
+AutonomicDysreflexiaTest peak HR	0.0029995251821744533
+AutonomicDysreflexiaTest minHR	0.002999524882221921
+AutonomicDysreflexiaTest maxMAP	0.0029995245822694184
+CystVolumeTest volume of	0.0029995170873301146
+LesionVolumeTest areas	0.0029995139818147676
+GaleRatingScoreTest CBS score	0.0029995110845224193
+AxonalRegenerationTest of	0.0029995092884755946
+NonFunctionalTest bladder size	0.0029995084797714566
+NonFunctionalTest size	0.0029995084797714566
+BBBTest test	0.0029994700826974966
+ImagingTest of	0.002999459688315294
+AutomatedGaitAnalysis swing	0.0029994580917835885
+AutonomicDysreflexiaTest heart rate	0.002999445091711464
+InclinedPlaneTest angle	0.002999438997823732
+NeuronalChangesTest soma size	0.002999428598804549
+ThermalHyperalgesiaTest withdrawal latency	0.002999419596478386
+ThermalHyperalgesiaTest thermal	0.0029994055987805496
+LocomotorTest of	0.002999399100444589
+SomatosensoryEvokedPotentialsTest the	0.0029993980028992563
+SomatosensoryEvokedPotentialsTest of the	0.0029993980028992563
+MotorEvokedPotentialsTest MEPs	0.002999368098641737
+MyelinationTest axon	0.0029993541987448124
+AstrogliosisTest of	0.0029993456060864714
+AstrogliosisTest GFAP	0.002999246822223163
+ImagingTest 	0.0029990899272484867
+AutomatedGaitAnalysis 	0.0029988125656927643
+WalkingAnalysisTest 	0.002998318126824657
+AxonalChangesTest density of terminal	0.0019999602956878937
+AxonalChangesTest of terminal	0.0019999602956878937
+AxonalChangesTest terminal	0.0019999602956878937
+AxonalChangesTest density of terminal arborizations	0.0019999602956878937
+AxonalChangesTest of terminal arborizations	0.0019999602956878937
+AxonalChangesTest terminal arborizations	0.0019999602956878937
+NeuronalChangesTest rubrospinal neurons	0.0019999185983340753
+InclinedPlaneTest climbing test	0.0019998895021799868
+MyelinationTest myelinated nerve	0.0019998734005301365
+MyelinationTest nerve	0.0019998734005301365
+MyelinationTest myelinated nerve fibers	0.0019998734005301365
+MyelinationTest nerve fibers	0.0019998734005301365
+BBBTest group scores	0.0019998549019171717
+SomatosensoryEvokedPotentialsTest amplitude of SSEPs	0.001999846206012748
+SomatosensoryEvokedPotentialsTest of SSEPs	0.001999846206012748
+LesionVolumeTest volumes	0.0019998070099727086
+SomatosensoryEvokedPotentialsTest amplitude of CSEP	0.001999799905447757
+AxonalRegenerationTest number of HRP-labeled	0.0019997859118473845
+AxonalRegenerationTest of HRP-labeled	0.0019997859118473845
+AxonalRegenerationTest HRP-labeled	0.0019997859118473845
+AxonalRegenerationTest number of HRP-labeled neurons	0.0019997859118473845
+AxonalRegenerationTest of HRP-labeled neurons	0.0019997859118473845
+AxonalRegenerationTest HRP-labeled neurons	0.0019997859118473845
+AxonalChangesTest DBH	0.0019997857132607686
+AxonalChangesTest DBH appositions	0.0019997857132607686
+BBBTest hindlimb scores	0.0019997700101009323
+AxonalChangesTest fluorescence measures	0.001999769615578614
+AxonalChangesTest measures	0.001999769615578614
+BBBTest BBB-score	0.001999759617118655
+AxonalChangesTest areas	0.001999740915925379
+AxonalChangesTest axon areas	0.001999740915925379
+GeneExpressionAnalysis 	0.001999734723756183
+InvestigationMethod axonal density	0.0019997335182740626
+SomatosensoryEvokedPotentialsTest Normal	0.0019997329158069673
+SomatosensoryEvokedPotentialsTest Normal Latency	0.0019997329158069673
+SomatosensoryEvokedPotentialsTest Normal Latency of	0.0019997329158069673
+SomatosensoryEvokedPotentialsTest Latency of	0.0019997329158069673
+SomatosensoryEvokedPotentialsTest Normal Latency of CSEP	0.0019997329158069673
+SomatosensoryEvokedPotentialsTest Latency of CSEP	0.0019997329158069673
+AxonalRegenerationTest immunostaining intensities	0.0019997293177629774
+TissueSparingTest preserved	0.001999726723246157
+MyelinationTest percentage of	0.001999723218684644
+MyelinationTest percentage of myelinated	0.001999723218684644
+MyelinationTest percentage of myelinated area	0.001999723218684644
+MyelinationTest of myelinated area	0.001999723218684644
+MyelinationTest myelinated area	0.001999723218684644
+MyelinationTest area	0.001999723218684644
+CystVolumeTest volume of the	0.0019997218188922603
+CystVolumeTest of the	0.0019997218188922603
+CystVolumeTest the	0.0019997218188922603
+CystVolumeTest volume of the cavity	0.0019997218188922603
+CystVolumeTest of the cavity	0.0019997218188922603
+CystVolumeTest the cavity	0.0019997218188922603
+AxonalChangesTest density	0.0019997213210527554
+AxonalRegenerationTest number of	0.0019997185219965204
+AutomatedGaitAnalysis swing duration	0.00199971831779866
+AxonalChangesTest Quantification of	0.00199971501576366
+AxonalChangesTest Quantification of BDA-labeled	0.00199971501576366
+AxonalChangesTest of BDA-labeled	0.00199971501576366
+AxonalChangesTest Quantification of BDA-labeled axonal	0.00199971501576366
+AxonalChangesTest of BDA-labeled axonal	0.00199971501576366
+AxonalChangesTest BDA-labeled axonal	0.00199971501576366
+AxonalChangesTest Quantification of BDA-labeled axonal profiles	0.00199971501576366
+AxonalChangesTest of BDA-labeled axonal profiles	0.00199971501576366
+AxonalChangesTest BDA-labeled axonal profiles	0.00199971501576366
+AxonalChangesTest axonal profiles	0.00199971501576366
+AxonalRegenerationTest regrowth	0.0019997092192652562
+ElectrophysiologyTest conduction velocity	0.0019997064227711193
+InclinedPlaneTest climb	0.0019997030189141613
+InclinedPlaneTest ability to	0.0019997030189141613
+InclinedPlaneTest to	0.0019997030189141613
+InclinedPlaneTest ability to climb	0.0019997030189141613
+InclinedPlaneTest to climb	0.0019997030189141613
+SensoryTest lowerwithdrawal	0.0019996960191942786
+SensoryTest lowerwithdrawal reflex	0.0019996960191942786
+PhysiologyTest breathing frequency	0.0019996953216230968
+BBBTest gait	0.001999691822810823
+BBBTest gait scaling	0.001999691822810823
+BBBTest scaling	0.001999691822810823
+AxonalRegenerationTest elongation	0.0019996896247339033
+LesionVolumeTest sites	0.0019996865257758917
+ThermalHyperalgesiaTest mechanical thresholds	0.0019996853232818594
+AxonalChangesTest density of raphespinal	0.001999682922244898
+AxonalChangesTest of raphespinal	0.001999682922244898
+AxonalChangesTest density of raphespinal axons	0.001999682922244898
+AxonalChangesTest of raphespinal axons	0.001999682922244898
+AxonalChangesTest raphespinal axons	0.001999682922244898
+AxonalRegenerationTest BDA-traced CST	0.0019996792228670754
+AxonalRegenerationTest CST	0.0019996792228670754
+AxonalRegenerationTest BDA-traced CST fibres	0.0019996792228670754
+AxonalRegenerationTest CST fibres	0.0019996792228670754
+WalkingAnalysisTest elbow	0.0019996770250076284
+WalkingAnalysisTest elbow extension	0.0019996770250076284
+NeuronalChangesTest mean neuronal	0.0019996758234430314
+NeuronalChangesTest mean neuronal size	0.0019996758234430314
+NeuronalChangesTest neuronal size	0.0019996758234430314
+NeuronalChangesTest NF-positive	0.0019996743237006903
+NeuronalChangesTest NF-positive axons	0.0019996743237006903
+NeuronalChangesTest NF-positive axons survived	0.0019996743237006903
+NeuronalChangesTest axons survived	0.0019996743237006903
+MyelinationTest Myelinated	0.001999673723807853
+MyelinationTest Myelinated axon	0.001999673723807853
+MyelinationTest Myelinated axon counts	0.001999673723807853
+MyelinationTest axon counts	0.001999673723807853
+LesionVolumeTest area of damage	0.0019996721249480928
+LesionVolumeTest of damage	0.0019996721249480928
+LesionVolumeTest damage	0.0019996721249480928
+MyelinationTest axon diameter	0.001999671022478158
+ImagingTest distortion of	0.0019996681229591286
+ImagingTest distortion of nerve	0.0019996681229591286
+ImagingTest of nerve	0.0019996681229591286
+ImagingTest nerve	0.0019996681229591286
+ImagingTest distortion of nerve tracks	0.0019996681229591286
+ImagingTest of nerve tracks	0.0019996681229591286
+ImagingTest nerve tracks	0.0019996681229591286
+ImagingTest tracks	0.0019996681229591286
+WalkingAnalysisTest error	0.0019996667244440076
+WalkingAnalysisTest error scores	0.0019996667244440076
+AutomatedGaitAnalysis base	0.0019996666256364465
+AutomatedGaitAnalysis base of	0.0019996666256364465
+AutomatedGaitAnalysis of	0.0019996666256364465
+AutomatedGaitAnalysis base of support	0.0019996666256364465
+AutomatedGaitAnalysis of support	0.0019996666256364465
+GeneExpressionAnalysis NGF	0.001999666523205278
+GeneExpressionAnalysis NGF mRNA	0.001999666523205278
+GeneExpressionAnalysis NGF mRNA expression	0.001999666523205278
+TissueSparingTest intact area	0.001999665923313701
+SinglePelletReachingTest Movement	0.0019996657261997144
+SinglePelletReachingTest Movement ratings	0.0019996657261997144
+SinglePelletReachingTest ratings	0.0019996657261997144
+LocomotorTest IFFT scores	0.0019996655234049334
+NeuronalChangesTest NeuN-labeled cell	0.0019996636237299362
+NeuronalChangesTest cell	0.0019996636237299362
+NeuronalChangesTest NeuN-labeled cell bodies	0.0019996636237299362
+NeuronalChangesTest cell bodies	0.0019996636237299362
+NeuronalChangesTest bodies	0.0019996636237299362
+InvestigationMethod fresh	0.0019996634237635642
+InvestigationMethod fresh muscle	0.0019996634237635642
+InvestigationMethod fresh muscle weight	0.0019996634237635642
+WalkingAnalysisTest mean	0.001999663223797212
+WalkingAnalysisTest ankle	0.001999663223797212
+WalkingAnalysisTest mean ankle	0.001999663223797212
+WalkingAnalysisTest mean ankle angles	0.001999663223797212
+WalkingAnalysisTest ankle angles	0.001999663223797212
+WalkingAnalysisTest angles	0.001999663223797212
+WalkingAnalysisTest step	0.0019996630238308805
+WalkingAnalysisTest Mean	0.0019996630238308805
+WalkingAnalysisTest Mean step	0.0019996630238308805
+WalkingAnalysisTest Mean step height	0.0019996630238308805
+WalkingAnalysisTest step height	0.0019996630238308805
+WalkingAnalysisTest height	0.0019996630238308805
+InclinedPlaneTest test	0.0019996627286983015
+LesionVolumeTest injury sites	0.001999662423235037
+BodyWeightExamination body	0.0019996619240229864
+BodyWeightExamination body weight	0.0019996619240229864
+BodyWeightExamination body weight of	0.0019996619240229864
+BodyWeightExamination weight of	0.0019996619240229864
+BodyWeightExamination of	0.0019996619240229864
+BodyWeightExamination body weight of rats	0.0019996619240229864
+BodyWeightExamination weight of rats	0.0019996619240229864
+BodyWeightExamination of rats	0.0019996619240229864
+BodyWeightExamination rats	0.0019996619240229864
+NeuronalChangesTest neuronal atrophy	0.001999661327207255
+NeuronalChangesTest atrophy	0.001999661327207255
+LesionVolumeTest mean	0.001999660124327889
+LesionVolumeTest mean volume	0.001999660124327889
+LesionVolumeTest mean volume of	0.001999660124327889
+LesionVolumeTest volume of	0.001999660124327889
+LesionVolumeTest mean volume of GFAP-negative	0.001999660124327889
+LesionVolumeTest volume of GFAP-negative	0.001999660124327889
+LesionVolumeTest of GFAP-negative	0.001999660124327889
+LesionVolumeTest mean volume of GFAP-negative tissue	0.001999660124327889
+LesionVolumeTest volume of GFAP-negative tissue	0.001999660124327889
+LesionVolumeTest of GFAP-negative tissue	0.001999660124327889
+LesionVolumeTest GFAP-negative tissue	0.001999660124327889
+InclinedPlaneTest maximum	0.001999659428584104
+ElectrophysiologyTest respiratory frequency	0.0019996585237836624
+HindpawSensationTest average target	0.001999658024692281
+HindpawSensationTest target	0.001999658024692281
+HindpawSensationTest average target force	0.001999658024692281
+HindpawSensationTest target force	0.001999658024692281
+HindpawSensationTest force	0.001999658024692281
+AngiogenesisTest number	0.0019996568235799406
+AngiogenesisTest number of	0.0019996568235799406
+AngiogenesisTest number of blood	0.0019996568235799406
+AngiogenesisTest number of blood vessels	0.0019996568235799406
+NonFunctionalTest mean	0.001999653625466914
+NonFunctionalTest mean renal	0.001999653625466914
+NonFunctionalTest renal	0.001999653625466914
+NonFunctionalTest mean renal pathology	0.001999653625466914
+NonFunctionalTest renal pathology	0.001999653625466914
+NonFunctionalTest pathology	0.001999653625466914
+NonFunctionalTest mean renal pathology score	0.001999653625466914
+NonFunctionalTest renal pathology score	0.001999653625466914
+NonFunctionalTest pathology score	0.001999653625466914
+NonFunctionalTest score	0.001999653625466914
+NeuronalCellLossTest 	0.001999653124057896
+NeuronalCellLossTest cell	0.001999653124057896
+NeuronalCellLossTest death	0.001999653124057896
+NeuronalCellLossTest cell death	0.001999653124057896
+GaitTest hindlimb lateral	0.001999650125692792
+GaitTest hindlimb lateral stability	0.001999650125692792
+GaitTest lateral stability	0.001999650125692792
+AutomatedGaitAnalysis time	0.001999649424585145
+MyelinationTest of	0.0019996491276598636
+MyelinationTest of myelinated	0.0019996491276598636
+LesionVolumeTest area of	0.001999648829022934
+AstrogliosisTest GFAP-labeled	0.0019996463267688883
+AstrogliosisTest GFAP-labeled area	0.0019996463267688883
+AstrogliosisTest area	0.0019996463267688883
+LocomotorTest number of	0.001999645026594359
+LocomotorTest number of steps	0.001999645026594359
+LocomotorTest of steps	0.001999645026594359
+LocomotorTest number of steps completed	0.001999645026594359
+LocomotorTest of steps completed	0.001999645026594359
+LocomotorTest steps completed	0.001999645026594359
+InvestigationMethod health	0.0019996442259696784
+NarrowBeamTest beam	0.001999643926413236
+NarrowBeamTest beam walking	0.001999643926413236
+NarrowBeamTest beam walking test	0.001999643926413236
+NarrowBeamTest walking test	0.001999643926413236
+NarrowBeamTest test	0.001999643926413236
+AxonalChangesTest branches	0.0019996423269303338
+InvestigationMethod status	0.0019996419260950365
+InclinedPlaneTest mean	0.001999641129914552
+InclinedPlaneTest mean maximum	0.001999641129914552
+InclinedPlaneTest mean maximum angle	0.001999641129914552
+InclinedPlaneTest maximum angle	0.001999641129914552
+HindpawSensationTest stimuli	0.001999640625536515
+AdhesiveRemovalTest adhesive tape	0.0019996388281437035
+AdhesiveRemovalTest tape	0.0019996388281437035
+AdhesiveRemovalTest adhesive tape removal	0.0019996388281437035
+AdhesiveRemovalTest tape removal	0.0019996388281437035
+AdhesiveRemovalTest adhesive tape removal test	0.0019996388281437035
+AdhesiveRemovalTest tape removal test	0.0019996388281437035
+AdhesiveRemovalTest test	0.0019996388281437035
+AdhesiveRemovalTest removal test	0.0019996388281437035
+SpasticityObservation spasticity was	0.0019996380278695693
+SpasticityObservation was	0.0019996380278695693
+SpasticityObservation spasticity was quantified	0.0019996380278695693
+SpasticityObservation was quantified	0.0019996380278695693
+AutonomicDysreflexiaTest T50MAP	0.0019996366285467675
+ElectrophysiologyTest relative attenuation	0.001999635728712792
+CystVolumeTest percentage of	0.0019996341285800625
+CystVolumeTest percentage of cavitaion	0.0019996341285800625
+CystVolumeTest of cavitaion	0.0019996341285800625
+CystVolumeTest cavitaion	0.0019996341285800625
+AxonalRegenerationTest NF	0.001999633929046079
+AxonalRegenerationTest NF immunoactivity	0.001999633929046079
+AxonalRegenerationTest immunoactivity	0.001999633929046079
+FootprintAnalysisTest foot	0.0019996336270887614
+FootprintAnalysisTest foot rotation	0.0019996336270887614
+SomatosensoryEvokedPotentialsTest somatosensory evoked	0.001999631829438607
+SomatosensoryEvokedPotentialsTest evoked	0.001999631829438607
+OpenFieldTest open-field	0.0019996308298895465
+InvestigationMethod mean	0.001999630829182485
+InvestigationMethod mean wet	0.001999630829182485
+InvestigationMethod wet	0.001999630829182485
+InvestigationMethod mean wet muscle	0.001999630829182485
+InvestigationMethod wet muscle	0.001999630829182485
+InvestigationMethod mean wet muscle weight	0.001999630829182485
+InvestigationMethod wet muscle weight	0.001999630829182485
+ProteinLevelAnalysis proportion of	0.001999628931014306
+FootprintAnalysisTest stride	0.001999628427163553
+FootprintAnalysisTest stride length	0.001999628427163553
+InflammationTest Microglial	0.001999627630230402
+InflammationTest Microglial cells	0.001999627630230402
+AxonalSproutingTest sprouting of RST	0.001999627027653326
+AxonalSproutingTest of RST	0.001999627027653326
+AxonalSproutingTest sprouting of RST axons	0.001999627027653326
+AxonalSproutingTest of RST axons	0.001999627027653326
+AxonalSproutingTest RST axons	0.001999627027653326
+NeuroprotectionTest rescued more	0.0019996262300539147
+NeuroprotectionTest more	0.0019996262300539147
+NeuroprotectionTest rescued more neurons	0.0019996262300539147
+NeuroprotectionTest more neurons	0.0019996262300539147
+ThermalHyperalgesiaTest heat	0.0019996259301086907
+ThermalHyperalgesiaTest heat noxious	0.0019996259301086907
+ThermalHyperalgesiaTest noxious	0.0019996259301086907
+ThermalHyperalgesiaTest heat noxious stimuli	0.0019996259301086907
+ThermalHyperalgesiaTest noxious stimuli	0.0019996259301086907
+ThermalHyperalgesiaTest stimuli	0.0019996259301086907
+TissueSparingTest spinal tissue was	0.001999624830321085
+TissueSparingTest tissue was	0.001999624830321085
+TissueSparingTest was	0.001999624830321085
+TissueSparingTest spinal tissue was spared	0.001999624830321085
+TissueSparingTest tissue was spared	0.001999624830321085
+TissueSparingTest was spared	0.001999624830321085
+CystVolumeTest Mean	0.001999624630353414
+CystVolumeTest cyst	0.001999624630353414
+CystVolumeTest and	0.001999624630353414
+CystVolumeTest Mean cyst	0.001999624630353414
+CystVolumeTest Mean cyst area	0.001999624630353414
+CystVolumeTest cyst area	0.001999624630353414
+CystVolumeTest Mean cyst area and	0.001999624630353414
+CystVolumeTest cyst area and	0.001999624630353414
+CystVolumeTest area and	0.001999624630353414
+CystVolumeTest Mean cyst area and number	0.001999624630353414
+CystVolumeTest cyst area and number	0.001999624630353414
+CystVolumeTest area and number	0.001999624630353414
+CystVolumeTest and number	0.001999624630353414
+CystVolumeTest number	0.0019996244303868427
+AstrogliosisTest reactive grade	0.0019996228307076576
+AstrogliosisTest grade	0.0019996228307076576
+AstrogliosisTest reactive grade of	0.0019996228307076576
+AstrogliosisTest grade of	0.0019996228307076576
+AstrogliosisTest reactive grade of GFAP	0.0019996228307076576
+AstrogliosisTest grade of GFAP	0.0019996228307076576
+AstrogliosisTest of GFAP	0.0019996228307076576
+ImagingTest values	0.001999619226010255
+AxonalDiebackTest die-back	0.0019996163283470154
+ElectrophysiologyTest hypercapnia conditions	0.001999615327472283
+LesionVolumeTest tissue	0.001999612932905181
+AutonomicDysreflexiaTest peak	0.0019996120309139047
+NeuroprotectionTest neuronal number	0.0019996119317218643
+NeuroprotectionTest cavity areas	0.0019996085303519125
+NeuroprotectionTest areas	0.0019996085303519125
+LocomotorTest steps	0.0019996030326820077
+SensoryTest reflex	0.001999595932463315
+SomatosensoryEvokedPotentialsTest three	0.0019995905368835353
+SomatosensoryEvokedPotentialsTest amplitude of the	0.0019995905368835353
+SomatosensoryEvokedPotentialsTest amplitude of the three	0.0019995905368835353
+SomatosensoryEvokedPotentialsTest of the three	0.0019995905368835353
+SomatosensoryEvokedPotentialsTest the three	0.0019995905368835353
+GaleRatingScoreTest score	0.0019995905338764546
+InvestigationMethod muscle	0.001999587835846717
+ProteinLevelAnalysis NGF	0.0019995854296656363
+AxonalSproutingTest axon	0.0019995844319760014
+AxonalSproutingTest RST axon	0.0019995844319760014
+AxonalSproutingTest RST axon sprouting	0.0019995844319760014
+AxonalSproutingTest axon sprouting	0.0019995844319760014
+HReflexTest H	0.0019995840271147276
+HReflexTest H reflex	0.0019995840271147276
+HReflexTest reflex	0.0019995840271147276
+HReflexTest H reflex amplitude	0.0019995840271147276
+HReflexTest reflex amplitude	0.0019995840271147276
+SinglePelletReachingTest DFR task	0.001999583227361371
+SinglePelletReachingTest task	0.001999583227361371
+ObservationOfAnimalBehaviour 	0.0019995822304308634
+ObservationOfAnimalBehaviour autotomy	0.0019995822304308634
+AutonomicDysreflexiaTest rate	0.0019995624373399207
+InvestigationMethod fibre	0.0019995546315571197
+InvestigationMethod fibre CSA	0.0019995546315571197
+InvestigationMethod CSA	0.0019995546315571197
+AutomatedGaitAnalysis stride	0.0019995367393431016
+AutomatedGaitAnalysis stride length	0.0019995367393431016
+SomatosensoryEvokedPotentialsTest amplitude	0.0019995079500753333
+NeuronalChangesTest soma	0.001999469550472548
+BBBSubscoreTest 	0.0019994662435152528
+BBBSubscoreTest BBB	0.0019994662435152528
+AxonalDiebackTest 	0.001999458444091727
+CystVolumeTest volume	0.0019994552497322638
+NonFunctionalTest 	0.001999379951695232
+SpinalCordEvokedPotentialsTest 	0.001999351555108412
+SinglePelletReachingTest DFR	0.0019993236526069445
+PhysiologyTest 	0.001999222169487818
+BBBTest BBB	0.0019990862021228486
+MyelinationTest 	0.0019990289931722614
+InvestigationMethod 	0.001998965299486373
+GeneExpressionAnalysis mRNA expressions	9.999943480605083E-4
+GeneExpressionAnalysis expressions	9.999943480605083E-4
+NeuronalChangesTest neurons	9.999843511333106E-4
+AxonalRegenerationTest NF-positive	9.999766477678362E-4
+AxonalRegenerationTest NF-positive fibers	9.999766477678362E-4
+BBBTest locomotor function	9.999710485407594E-4
+AxonalChangesTest NF	9.999388493589201E-4
+AxonalChangesTest NF immunoreactive	9.999388493589201E-4
+AxonalChangesTest NF immunoreactive axons	9.999388493589201E-4
+AxonalChangesTest immunoreactive axons	9.999388493589201E-4
+AxonalRegenerationTest DBH-positive	9.999379494085837E-4
+AxonalRegenerationTest DBH-positive fibres	9.999379494085837E-4
+InclinedPlaneTest maximum climbing	9.999363495170176E-4
+InclinedPlaneTest maximum climbing performance	9.999363495170176E-4
+NeuronalChangesTest number of reticulospinal	9.999245503365584E-4
+NeuronalChangesTest of reticulospinal	9.999245503365584E-4
+NeuronalChangesTest number of reticulospinal neurons	9.999245503365584E-4
+NeuronalChangesTest of reticulospinal neurons	9.999245503365584E-4
+NeuronalChangesTest reticulospinal neurons	9.999245503365584E-4
+AxonalChangesTest stem	9.999225504892623E-4
+AxonalChangesTest density of rubrospinal	9.999225504892623E-4
+AxonalChangesTest of rubrospinal	9.999225504892623E-4
+AxonalChangesTest density of rubrospinal stem	9.999225504892623E-4
+AxonalChangesTest of rubrospinal stem	9.999225504892623E-4
+AxonalChangesTest rubrospinal stem	9.999225504892623E-4
+AxonalChangesTest density of rubrospinal stem axons	9.999225504892623E-4
+AxonalChangesTest of rubrospinal stem axons	9.999225504892623E-4
+AxonalChangesTest rubrospinal stem axons	9.999225504892623E-4
+AxonalChangesTest stem axons	9.999225504892623E-4
+FootprintAnalysisTest the	9.999044566788486E-4
+FootprintAnalysisTest hind	9.999044566788486E-4
+FootprintAnalysisTest limbs	9.999044566788486E-4
+FootprintAnalysisTest rotation of	9.999044566788486E-4
+FootprintAnalysisTest rotation of the	9.999044566788486E-4
+FootprintAnalysisTest of the	9.999044566788486E-4
+FootprintAnalysisTest rotation of the hind	9.999044566788486E-4
+FootprintAnalysisTest of the hind	9.999044566788486E-4
+FootprintAnalysisTest the hind	9.999044566788486E-4
+FootprintAnalysisTest rotation of the hind limbs	9.999044566788486E-4
+FootprintAnalysisTest of the hind limbs	9.999044566788486E-4
+FootprintAnalysisTest the hind limbs	9.999044566788486E-4
+FootprintAnalysisTest hind limbs	9.999044566788486E-4
+SomatosensoryEvokedPotentialsTest Latency	9.999043536290967E-4
+AxonalChangesTest number of associations	9.998969527971258E-4
+AxonalChangesTest of associations	9.998969527971258E-4
+SensoryTest hyperactive	9.99892656460518E-4
+SensoryTest hyperactive withdrawal	9.99892656460518E-4
+SensoryTest hyperactive withdrawal reflex	9.99892656460518E-4
+MyelinationTest fibers	9.998853529624254E-4
+MotorEvokedPotentialsTest amplitudes	9.998829580323302E-4
+NeuroprotectionTest numbers	9.998794614192116E-4
+NeuroprotectionTest numbers of	9.998794614192116E-4
+NeuroprotectionTest of	9.998794614192116E-4
+NeuroprotectionTest numbers of neurons	9.998794614192116E-4
+NeuroprotectionTest of neurons	9.998794614192116E-4
+BBBTest group	9.998752542146004E-4
+ElectrophysiologyTest conduction	9.9987036185018E-4
+ThermalHyperalgesiaTest mean	9.998666563754938E-4
+ThermalHyperalgesiaTest mean withdrawal	9.998666563754938E-4
+ThermalHyperalgesiaTest mean withdrawal latencies	9.998666563754938E-4
+ThermalHyperalgesiaTest withdrawal latencies	9.998666563754938E-4
+AxonalSproutingTest primary	9.998657593956186E-4
+AxonalSproutingTest primary collateral	9.998657593956186E-4
+AxonalSproutingTest collateral	9.998657593956186E-4
+AxonalSproutingTest primary collateral processes	9.998657593956186E-4
+AxonalSproutingTest collateral processes	9.998657593956186E-4
+ProteinLevelAnalysis Western	9.998649598088804E-4
+ProteinLevelAnalysis Western blotting	9.998649598088804E-4
+ProteinLevelAnalysis blotting	9.998649598088804E-4
+ProteinLevelAnalysis Western blotting analysis	9.998649598088804E-4
+ProteinLevelAnalysis blotting analysis	9.998649598088804E-4
+ProteinLevelAnalysis analysis	9.998649598088804E-4
+CystVolumeTest cavities	9.998610641565174E-4
+AutomatedGaitAnalysis duration	9.998547610052982E-4
+SensoryTest withdrawal reflex	9.998535618362212E-4
+MyelinationTest number	9.998444613410237E-4
+MyelinationTest number of	9.998444613410237E-4
+MyelinationTest number of myelinated	9.998444613410237E-4
+MyelinationTest number of myelinated axons	9.998444613410237E-4
+CystVolumeTest lesion	9.99840864398779E-4
+CystVolumeTest lesion cavities	9.99840864398779E-4
+SomatosensoryEvokedPotentialsTest amplitude somatosensory	9.998401602575914E-4
+SomatosensoryEvokedPotentialsTest amplitude somatosensory evoked	9.998401602575914E-4
+SomatosensoryEvokedPotentialsTest amplitude somatosensory evoked potentials	9.998401602575914E-4
+SomatosensoryEvokedPotentialsTest somatosensory evoked potentials	9.998401602575914E-4
+SomatosensoryEvokedPotentialsTest evoked potentials	9.998401602575914E-4
+AxonalDiebackTest retraction	9.998375632520784E-4
+AxonalDiebackTest retraction of	9.998375632520784E-4
+AxonalDiebackTest of	9.998375632520784E-4
+AxonalDiebackTest retraction of rubrospinal	9.998375632520784E-4
+AxonalDiebackTest of rubrospinal	9.998375632520784E-4
+AxonalDiebackTest axons	9.998375632520784E-4
+AxonalDiebackTest retraction of rubrospinal axons	9.998375632520784E-4
+AxonalDiebackTest of rubrospinal axons	9.998375632520784E-4
+AxonalDiebackTest rubrospinal axons	9.998375632520784E-4
+CystVolumeTest number of	9.998326614837788E-4
+CystVolumeTest number of cavities	9.998326614837788E-4
+CystVolumeTest of cavities	9.998326614837788E-4
+WalkingAnalysisTest kinematic	9.998272643074488E-4
+WalkingAnalysisTest kinematic analysis	9.998272643074488E-4
+WalkingAnalysisTest locomotion	9.998264638086498E-4
+ProteinLevelAnalysis proportion of variant	9.998255642011933E-4
+ProteinLevelAnalysis of variant	9.998255642011933E-4
+ProteinLevelAnalysis variant	9.998255642011933E-4
+ProteinLevelAnalysis proportion of variant 2s	9.998255642011933E-4
+ProteinLevelAnalysis 2s	9.998255642011933E-4
+ProteinLevelAnalysis of variant 2s	9.998255642011933E-4
+ProteinLevelAnalysis variant 2s	9.998255642011933E-4
+BBBSubscoreTest BBB subscores	9.998242649234214E-4
+BBBSubscoreTest subscores	9.998242649234214E-4
+InclinedPlaneTest climbing abilities	9.998235634846179E-4
+InclinedPlaneTest abilities	9.998235634846179E-4
+ThermalHyperalgesiaTest thresholds	9.998203666784008E-4
+NeuronalChangesTest raphespinal	9.998156651585765E-4
+BBBTest Scores	9.998150645820743E-4
+NeuroprotectionTest survival	9.998127656796654E-4
+GaitTest lateral	9.998127649840022E-4
+AxonalRegenerationTest NF200	9.998125650472938E-4
+AxonalRegenerationTest NF200 positive	9.998125650472938E-4
+AxonalRegenerationTest NF200 positive structures	9.998125650472938E-4
+AxonalRegenerationTest positive structures	9.998125650472938E-4
+AxonalRegenerationTest fibre density	9.998106653851249E-4
+AxonalRegenerationTest density	9.998106653851249E-4
+AxonalRegenerationTest fibre	9.998106653851249E-4
+NeuronalChangesTest FBlabeled	9.998101654997832E-4
+NeuronalChangesTest FBlabeled neurons	9.998101654997832E-4
+NeuronalChangesTest WGA-positive	9.998093656518928E-4
+NeuronalChangesTest WGA-positive somata	9.998093656518928E-4
+NeuronalChangesTest somata	9.998093656518928E-4
+GaitTest fore–hind	9.998079640122733E-4
+GaitTest fore–hind coordination	9.998079640122733E-4
+SomatosensoryEvokedPotentialsTest latency of	9.998074660157175E-4
+SomatosensoryEvokedPotentialsTest latency of the	9.998074660157175E-4
+SomatosensoryEvokedPotentialsTest latency of the SSEPs	9.998074660157175E-4
+SomatosensoryEvokedPotentialsTest of the SSEPs	9.998074660157175E-4
+SomatosensoryEvokedPotentialsTest the SSEPs	9.998074660157175E-4
+AxonalRegenerationTest these	9.998069661120606E-4
+AxonalRegenerationTest quantitative analysis	9.998069661120606E-4
+AxonalRegenerationTest analysis	9.998069661120606E-4
+AxonalRegenerationTest quantitative analysis of	9.998069661120606E-4
+AxonalRegenerationTest analysis of	9.998069661120606E-4
+AxonalRegenerationTest quantitative analysis of these	9.998069661120606E-4
+AxonalRegenerationTest analysis of these	9.998069661120606E-4
+AxonalRegenerationTest of these	9.998069661120606E-4
+AxonalRegenerationTest quantitative analysis of these fibers	9.998069661120606E-4
+AxonalRegenerationTest analysis of these fibers	9.998069661120606E-4
+AxonalRegenerationTest of these fibers	9.998069661120606E-4
+AxonalRegenerationTest these fibers	9.998069661120606E-4
+SpasticityObservation quantified	9.998063662180461E-4
+CystVolumeTest percentage	9.998038666920233E-4
+ProteinLevelAnalysis proportion	9.998036682655664E-4
+ProteinLevelAnalysis proportion of slow	9.998033668131105E-4
+ProteinLevelAnalysis of slow	9.998033668131105E-4
+ProteinLevelAnalysis slow	9.998033668131105E-4
+ProteinLevelAnalysis proportion of slow MLC	9.998033668131105E-4
+ProteinLevelAnalysis of slow MLC	9.998033668131105E-4
+ProteinLevelAnalysis slow MLC	9.998033668131105E-4
+ProteinLevelAnalysis MLC	9.998033668131105E-4
+ProteinLevelAnalysis proportion of slow MLC isoforms	9.998033668131105E-4
+ProteinLevelAnalysis of slow MLC isoforms	9.998033668131105E-4
+ProteinLevelAnalysis slow MLC isoforms	9.998033668131105E-4
+ProteinLevelAnalysis MLC isoforms	9.998033668131105E-4
+ProteinLevelAnalysis isoforms	9.998033668131105E-4
+AutonomicDysreflexiaTest average	9.998029668918048E-4
+AutonomicDysreflexiaTest average T50	9.998029668918048E-4
+AutonomicDysreflexiaTest average T50 mean	9.998029668918048E-4
+AutonomicDysreflexiaTest T50 mean	9.998029668918048E-4
+AutonomicDysreflexiaTest average T50 mean arterial	9.998029668918048E-4
+AutonomicDysreflexiaTest T50 mean arterial	9.998029668918048E-4
+AutonomicDysreflexiaTest average T50 mean arterial pressure	9.998029668918048E-4
+AutonomicDysreflexiaTest T50 mean arterial pressure	9.998029668918048E-4
+AutonomicDysreflexiaTest T50	9.998029668918048E-4
+NeuronalChangesTest overall	9.998028669115035E-4
+NeuronalChangesTest overall number	9.998028669115035E-4
+NeuronalChangesTest overall number of	9.998028669115035E-4
+NeuronalChangesTest overall number of primary	9.998028669115035E-4
+NeuronalChangesTest overall number of primary dendrites	9.998028669115035E-4
+AxonalRegenerationTest FB-labeled	9.998027615343529E-4
+AxonalRegenerationTest FB-labeled neurons	9.998027615343529E-4
+MortalityObservation mortality	9.9980246886837E-4
+MyelinationTest percentage	9.99802268070342E-4
+PhysiologyTest minute	9.998021670471736E-4
+PhysiologyTest minute ventilation	9.998021670471736E-4
+PhysiologyTest ventilation	9.998021670471736E-4
+PhysiologyTest minute ventilation values	9.998021670471736E-4
+PhysiologyTest ventilation values	9.998021670471736E-4
+PhysiologyTest values	9.998021670471736E-4
+AstrogliosisTest GFAP luminance	9.998014677570677E-4
+AstrogliosisTest luminance	9.998014677570677E-4
+NeuroprotectionTest Neuronal	9.998006673474012E-4
+NeuroprotectionTest Neuronal cell	9.998006673474012E-4
+NeuroprotectionTest cell	9.998006673474012E-4
+NeuroprotectionTest Neuronal cell bodies	9.998006673474012E-4
+NeuroprotectionTest cell bodies	9.998006673474012E-4
+NeuroprotectionTest bodies	9.998006673474012E-4
+NeuroprotectionTest Neuronal cell bodies were	9.998006673474012E-4
+NeuroprotectionTest cell bodies were	9.998006673474012E-4
+NeuroprotectionTest bodies were	9.998006673474012E-4
+NeuroprotectionTest were	9.998006673474012E-4
+NeuroprotectionTest Neuronal cell bodies were located	9.998006673474012E-4
+NeuroprotectionTest cell bodies were located	9.998006673474012E-4
+NeuroprotectionTest bodies were located	9.998006673474012E-4
+NeuroprotectionTest were located	9.998006673474012E-4
+MyelinationTest diameter	9.998000666663768E-4
+MotorEvokedPotentialsTest rubrospinal MEP	9.997997663101577E-4
+MotorEvokedPotentialsTest rubrospinal MEP recordings	9.997997663101577E-4
+MotorEvokedPotentialsTest MEP recordings	9.997997663101577E-4
+MotorEvokedPotentialsTest recordings	9.997997663101577E-4
+TissueSparingTest amount	9.99799667514283E-4
+TissueSparingTest amount of	9.99799667514283E-4
+TissueSparingTest amount of protected	9.99799667514283E-4
+TissueSparingTest of protected	9.99799667514283E-4
+TissueSparingTest protected	9.99799667514283E-4
+TissueSparingTest amount of protected tissue	9.99799667514283E-4
+TissueSparingTest of protected tissue	9.99799667514283E-4
+TissueSparingTest protected tissue	9.99799667514283E-4
+LesionVolumeTest The	9.997995675671647E-4
+LesionVolumeTest The amount	9.997995675671647E-4
+LesionVolumeTest amount	9.997995675671647E-4
+LesionVolumeTest The amount of	9.997995675671647E-4
+LesionVolumeTest amount of	9.997995675671647E-4
+LesionVolumeTest The amount of degenerate	9.997995675671647E-4
+LesionVolumeTest amount of degenerate	9.997995675671647E-4
+LesionVolumeTest of degenerate	9.997995675671647E-4
+LesionVolumeTest degenerate	9.997995675671647E-4
+LesionVolumeTest The amount of degenerate tissue	9.997995675671647E-4
+LesionVolumeTest amount of degenerate tissue	9.997995675671647E-4
+LesionVolumeTest of degenerate tissue	9.997995675671647E-4
+LesionVolumeTest degenerate tissue	9.997995675671647E-4
+ImagingTest distortion	9.997995668349971E-4
+TissueSparingTest spinal tissue	9.997992676246906E-4
+WalkingAnalysisTest deficit-scoring	9.997987677277528E-4
+WalkingAnalysisTest deficit-scoring method	9.997987677277528E-4
+WalkingAnalysisTest method	9.997987677277528E-4
+SomatosensoryEvokedPotentialsTest amplitude of the three peaks	9.99798067868792E-4
+SomatosensoryEvokedPotentialsTest of the three peaks	9.99798067868792E-4
+SomatosensoryEvokedPotentialsTest the three peaks	9.99798067868792E-4
+SomatosensoryEvokedPotentialsTest three peaks	9.99798067868792E-4
+SomatosensoryEvokedPotentialsTest peaks	9.99798067868792E-4
+InclinedPlaneTest capacity	9.99797867909179E-4
+InclinedPlaneTest capacity angle	9.99797867909179E-4
+InclinedPlaneTest capacity angle values	9.99797867909179E-4
+InclinedPlaneTest angle values	9.99797867909179E-4
+InclinedPlaneTest values	9.99797867909179E-4
+ThermalHyperalgesiaTest sensory	9.997971680508482E-4
+ThermalHyperalgesiaTest sensory thermal	9.997971680508482E-4
+NeuronalChangesTest NeuN-labeled	9.997957675136166E-4
+CystVolumeTest mean	9.997952684378483E-4
+CystVolumeTest these	9.997952684378483E-4
+CystVolumeTest mean volume	9.997952684378483E-4
+CystVolumeTest mean volume of	9.997952684378483E-4
+CystVolumeTest mean volume of these	9.997952684378483E-4
+CystVolumeTest volume of these	9.997952684378483E-4
+CystVolumeTest of these	9.997952684378483E-4
+CystVolumeTest mean volume of these cavities	9.997952684378483E-4
+CystVolumeTest volume of these cavities	9.997952684378483E-4
+CystVolumeTest of these cavities	9.997952684378483E-4
+CystVolumeTest these cavities	9.997952684378483E-4
+HindpawSensationTest pressure	9.997948672806876E-4
+AstrogliosisTest staining	9.997937657583076E-4
+ElectrophysiologyTest response	9.997937655481465E-4
+AxonalRegenerationTest axotomized neurons to regenerate	9.997930688904627E-4
+AxonalRegenerationTest neurons to regenerate	9.997930688904627E-4
+AxonalRegenerationTest to regenerate	9.997930688904627E-4
+AxonalRegenerationTest regenerate	9.997930688904627E-4
+AxonalRegenerationTest axotomized	9.997930688904627E-4
+AxonalRegenerationTest axotomized neurons	9.997930688904627E-4
+AxonalRegenerationTest axotomized neurons to	9.997930688904627E-4
+AxonalRegenerationTest neurons to	9.997930688904627E-4
+AxonalRegenerationTest to	9.997930688904627E-4
+SomatosensoryEvokedPotentialsTest waves	9.997924690147428E-4
+SomatosensoryEvokedPotentialsTest amplitude of the three waves	9.997924690147428E-4
+SomatosensoryEvokedPotentialsTest of the three waves	9.997924690147428E-4
+SomatosensoryEvokedPotentialsTest the three waves	9.997924690147428E-4
+SomatosensoryEvokedPotentialsTest three waves	9.997924690147428E-4
+MotorEvokedPotentialsTest motor evoked potential	9.997917691601911E-4
+MotorEvokedPotentialsTest evoked potential	9.997917691601911E-4
+MotorEvokedPotentialsTest motor evoked potential amplitude	9.997917691601911E-4
+MotorEvokedPotentialsTest evoked potential amplitude	9.997917691601911E-4
+MotorEvokedPotentialsTest potential amplitude	9.997917691601911E-4
+SomatosensoryEvokedPotentialsTest somatosensory evoked potential	9.997916691810095E-4
+SomatosensoryEvokedPotentialsTest evoked potential	9.997916691810095E-4
+SomatosensoryEvokedPotentialsTest somatosensory evoked potential amplitude	9.997916691810095E-4
+SomatosensoryEvokedPotentialsTest evoked potential amplitude	9.997916691810095E-4
+SomatosensoryEvokedPotentialsTest potential amplitude	9.997916691810095E-4
+ImagingTest depression	9.997915653561632E-4
+ImagingTest the	9.997915653561632E-4
+ImagingTest cord	9.997915653561632E-4
+ImagingTest depression of	9.997915653561632E-4
+ImagingTest depression of the	9.997915653561632E-4
+ImagingTest of the	9.997915653561632E-4
+ImagingTest depression of the spinal	9.997915653561632E-4
+ImagingTest of the spinal	9.997915653561632E-4
+ImagingTest the spinal	9.997915653561632E-4
+ImagingTest depression of the spinal cord	9.997915653561632E-4
+ImagingTest of the spinal cord	9.997915653561632E-4
+ImagingTest the spinal cord	9.997915653561632E-4
+ImagingTest spinal cord	9.997915653561632E-4
+ProteinLevelAnalysis level of	9.997892679385414E-4
+ProteinLevelAnalysis p-ERK	9.997892679385414E-4
+ProteinLevelAnalysis level of p-ERK	9.997892679385414E-4
+ProteinLevelAnalysis of p-ERK	9.997892679385414E-4
+AxonalRegenerationTest corticospinal and	9.997844675974684E-4
+AxonalRegenerationTest and	9.997844675974684E-4
+AxonalRegenerationTest corticospinal and serotonergic	9.997844675974684E-4
+AxonalRegenerationTest and serotonergic	9.997844675974684E-4
+AxonalRegenerationTest corticospinal and serotonergic axons	9.997844675974684E-4
+AxonalRegenerationTest and serotonergic axons	9.997844675974684E-4
+AxonalRegenerationTest serotonergic axons	9.997844675974684E-4
+InclinedPlaneTest climbing performance	9.997844643721968E-4
+AutonomicDysreflexiaTest mean	9.997833728899366E-4
+AutonomicDysreflexiaTest mean arterial	9.997833728899366E-4
+AutonomicDysreflexiaTest arterial	9.997833728899366E-4
+AutonomicDysreflexiaTest mean arterial pressure	9.997833728899366E-4
+AutonomicDysreflexiaTest arterial pressure	9.997833728899366E-4
+AutonomicDysreflexiaTest pressure	9.997833728899366E-4
+HindpawSensationTest average	9.997815695745832E-4
+AxonalRegenerationTest intensities	9.997787690475995E-4
+AxonalRegenerationTest fibres	9.997781690980253E-4
+AxonalRegenerationTest BDA-traced	9.997751707756949E-4
+ElectrophysiologyTest relative	9.997747715615529E-4
+GaitTest hindlimb	9.997738705503877E-4
+ScarringTest glial	9.997707666176074E-4
+ScarringTest scar	9.997707666176074E-4
+ScarringTest glial scar	9.997707666176074E-4
+ScarringTest glial scar formation	9.997707666176074E-4
+ScarringTest scar formation	9.997707666176074E-4
+WalkingAnalysisTest test	9.997682727585847E-4
+WalkingAnalysisTest rope-walking	9.997682727585847E-4
+WalkingAnalysisTest rope-walking test	9.997682727585847E-4
+ElectrophysiologyTest attenuation	9.997677725096725E-4
+AdhesiveRemovalTest adhesive	9.997646727394303E-4
+AxonalSproutingTest sprouting of	9.997644707231167E-4
+AxonalSproutingTest of	9.997644707231167E-4
+LocomotorTest number	9.997624722110868E-4
+NeuronalChangesTest survived	9.997577727293148E-4
+NeuronalChangesTest neuronal	9.997572769369996E-4
+NeuronalChangesTest number of	9.99755968694241E-4
+MotorEvokedPotentialsTest mean latency	9.99755769732302E-4
+LocomotorTest instances	9.997540738502255E-4
+LocomotorTest instances of	9.997540738502255E-4
+LocomotorTest instances of crawling	9.997540738502255E-4
+LocomotorTest of crawling	9.997540738502255E-4
+LocomotorTest crawling	9.997540738502255E-4
+WalkingAnalysisTest scores	9.997500734809635E-4
+NeuroprotectionTest rescued	9.99748775059165E-4
+AutonomicDysreflexiaTest overall	9.997469736938032E-4
+NeuronalChangesTest synaptic	9.997468712929182E-4
+NeuronalChangesTest synaptic density	9.997468712929182E-4
+AxonalChangesTest NF-positive	9.99746072390203E-4
+NeuronalChangesTest mean	9.997457765771108E-4
+InvestigationMethod axonal	9.997453707075317E-4
+AxonalChangesTest appositions	9.997441714310058E-4
+ElectrophysiologyTest frequency	9.997437726606377E-4
+LocomotorTest PWR scores	9.99743271618453E-4
+PhysiologyTest frequency	9.997427730044266E-4
+LesionVolumeTest injury	9.997415726128319E-4
+ImagingTest hyperintense	9.99740871625741E-4
+ImagingTest hyperintense region	9.99740871625741E-4
+GeneExpressionAnalysis expression	9.997403756956756E-4
+AutomatedGaitAnalysis swing speed	9.997397739849277E-4
+AutomatedGaitAnalysis speed	9.997397739849277E-4
+AngiogenesisTest of	9.997393726831798E-4
+AngiogenesisTest of blood	9.997393726831798E-4
+AngiogenesisTest blood	9.997393726831798E-4
+AngiogenesisTest of blood vessels	9.997393726831798E-4
+AngiogenesisTest blood vessels	9.997393726831798E-4
+AngiogenesisTest vessels	9.997393726831798E-4
+AngiogenesisTest 	9.997393726831798E-4
+AxonalRegenerationTest RST	9.997392711661433E-4
+AxonalRegenerationTest BDA-positive RST	9.997392711661433E-4
+AxonalRegenerationTest BDA-positive RST axons	9.997392711661433E-4
+AxonalRegenerationTest RST axons	9.997392711661433E-4
+InvestigationMethod density	9.99737070770653E-4
+MotorEvokedPotentialsTest mean	9.997357735276326E-4
+AxonalRegenerationTest number	9.99734874366969E-4
+AxonalRegenerationTest fibers	9.997341770689293E-4
+AxonalChangesTest profiles	9.997316759551408E-4
+OpenFieldTest locomotor scores	9.997314712365962E-4
+ProteinLevelAnalysis BDNF	9.997294738819202E-4
+FootprintAnalysisTest support	9.997288721584772E-4
+NarrowBeamTest 	9.997268754834143E-4
+NarrowBeamTest walking	9.997268754834143E-4
+AstrogliosisTest density	9.997227753788143E-4
+AstrogliosisTest density of	9.997227753788143E-4
+AstrogliosisTest density of astrocytes	9.997227753788143E-4
+AstrogliosisTest of astrocytes	9.997227753788143E-4
+FootprintAnalysisTest length	9.997226752336684E-4
+AstrogliosisTest activation	9.997214750810275E-4
+NeuronalChangesTest number of primary	9.997212779318627E-4
+NeuronalChangesTest of primary	9.997212779318627E-4
+NeuronalChangesTest primary	9.997212779318627E-4
+NeuronalChangesTest number of primary dendrites	9.997212779318627E-4
+NeuronalChangesTest of primary dendrites	9.997212779318627E-4
+NeuronalChangesTest primary dendrites	9.997212779318627E-4
+SpinalCordEvokedPotentialsTest amplitude	9.997211739059763E-4
+ApoptosisTest 	9.997206724393685E-4
+ApoptosisTest cell	9.997206724393685E-4
+ApoptosisTest cell apoptosis	9.997206724393685E-4
+ApoptosisTest apoptosis	9.997206724393685E-4
+ApoptosisTest cell apoptosis rate	9.997206724393685E-4
+ApoptosisTest apoptosis rate	9.997206724393685E-4
+ApoptosisTest rate	9.997206724393685E-4
+AdhesiveRemovalTest removal	9.997203773288912E-4
+AxonalSproutingTest axons	9.99718975937341E-4
+OpenFieldTest BBB	9.997136779944145E-4
+OpenFieldTest BBB scores	9.997136779944145E-4
+AutonomicDysreflexiaTest MAP	9.99711179334407E-4
+ElectrophysiologyTest velocity	9.997083779963419E-4
+SensoryTest mechanical	9.997066751204116E-4
+AxonalChangesTest DBH-positive varicosities	9.997050726869195E-4
+PhysiologyTest breathing	9.997035740924045E-4
+AxonalChangesTest signal	9.997033749196084E-4
+AxonalChangesTest signal fluorescence	9.997033749196084E-4
+ElectrophysiologyTest hypercapnia	9.997007763322039E-4
+LocomotorTest scores	9.997006783638701E-4
+ElectrophysiologyTest amplitude	9.996955772193412E-4
+MotorEvokedPotentialsTest motor	9.99686981651224E-4
+MotorEvokedPotentialsTest motor evoked	9.99686981651224E-4
+MotorEvokedPotentialsTest evoked	9.99686981651224E-4
+NeuronalChangesTest axons	9.996839761576002E-4
+TissueSparingTest intact	9.996779757447994E-4
+MyelinationTest counts	9.996771763047842E-4
+AutomatedGaitAnalysis support	9.996767780884545E-4
+ElectrophysiologyTest active	9.996746784357083E-4
+AutomatedGaitAnalysis length	9.996728825905985E-4
+MortalityObservation Mortality	9.99672378966397E-4
+InvestigationMethod weight	9.996704847755674E-4
+PhysiologyTest tidal	9.996689769669056E-4
+PhysiologyTest tidal volume	9.996689769669056E-4
+PhysiologyTest volume	9.996689769669056E-4
+BodyWeightExamination 	9.996675765101164E-4
+BodyWeightExamination weight	9.996675765101164E-4
+GaitTest stability	9.996656780759232E-4
+HindpawSensationTest 	9.99663385586041E-4
+ProteinLevelAnalysis ELISA	9.996568780039604E-4
+AstrogliosisTest astrocytic	9.996564831603442E-4
+ProteinLevelAnalysis level	9.996540827711111E-4
+AutonomicDysreflexiaTest heart	9.996537818160185E-4
+SpasticityObservation spasticity	9.996444803519356E-4
+BBBSubscoreTest BBB subscore	9.996419785918316E-4
+BBBSubscoreTest subscore	9.996419785918316E-4
+TissueSparingTest spared	9.99639284511141E-4
+SomatosensoryEvokedPotentialsTest somatosensory	9.996384874852396E-4
+WalkingAnalysisTest errors	9.99636679933899E-4
+TissueSparingTest tissue	9.996345915407627E-4
+AstrogliosisTest reactive	9.996343831446088E-4
+SpinalCordEvokedPotentialsTest latency	9.996303812024375E-4
+LesionVolumeTest lesion	9.996208888957523E-4
+NeuroprotectionTest cavity	9.99617882811644E-4
+SomatosensoryEvokedPotentialsTest latency	9.99611188192665E-4
+MotorEvokedPotentialsTest latency	9.996106863646183E-4
+AxonalChangesTest number	9.995997887387962E-4
+AxonalRegenerationTest axons	9.995814918062928E-4
+InflammationTest cells	9.995682952283972E-4
+TissueSparingTest area	9.995444975782746E-4
+SensoryTest 	9.995406944705778E-4
+OpenFieldTest scores	9.99539997244458E-4
+NeuroprotectionTest number	9.995270969413127E-4
+ThermalHyperalgesiaTest latency	9.994647031836034E-4
+InclinedPlaneTest 	9.990767561585906E-4
+AstrogliosisTest GFAP immunoreactivity	7.11936084688894E-8
+AstrogliosisTest immunoreactivity	7.11936084688894E-8
+TissueSparingTest volume	6.919008747626112E-8
+TissueSparingTest volume of	6.919008747626112E-8
+TissueSparingTest volume of spared	6.919008747626112E-8
+TissueSparingTest volume of spared tissue	6.919008747626112E-8
+NeuronalChangesTest number of labeled neurons	2.879595176780785E-8
+NeuronalChangesTest of labeled neurons	2.879595176780785E-8
+NeuronalChangesTest labeled neurons	2.879595176780785E-8
+NeuroprotectionTest labeled	2.4395405214221178E-8
+NeuroprotectionTest labeled neurons	2.4395405214221178E-8
+LesionVolumeTest lesion sites	2.410254085349043E-8
+BBBTest locomotor	1.0600264979435482E-8
+AxonalChangesTest number of NF-IR	-9.999144993978317E-11
+AxonalChangesTest of NF-IR	-9.999144993978317E-11
+AxonalChangesTest NF-IR	-9.999144993978317E-11
+AxonalChangesTest number of NF-IR positive	-9.999144993978317E-11
+AxonalChangesTest of NF-IR positive	-9.999144993978317E-11
+AxonalChangesTest NF-IR positive	-9.999144993978317E-11
+AxonalChangesTest number of NF-IR positive axons	-9.999144993978317E-11
+AxonalChangesTest of NF-IR positive axons	-9.999144993978317E-11
+AxonalChangesTest NF-IR positive axons	-9.999144993978317E-11
+AxonalChangesTest positive axons	-9.999144993978317E-11
+NeuronalChangesTest reticulospinal	-9.999246985787358E-11
+AxonalChangesTest arborizations	-1.9999605908686158E-10
+MotorEvokedPotentialsTest motor-evoked	-3.9997655888753645E-10
+MotorEvokedPotentialsTest motor-evoked potentials	-3.9997655888753645E-10
+ThermalHyperalgesiaTest latencies	-1.9997355074920848E-9
+NeuronalChangesTest rubrospinal	-6.199425286306802E-9
+AxonalChangesTest immunoreactive	-8.699509020236228E-9
+BBBTest function	-1.2299093714908347E-8
+BBBTest average	-1.3298915630524055E-8
+BBBTest average BBB	-1.3298915630524055E-8
+BBBTest average BBB score	-1.3298915630524055E-8
+AxonalRegenerationTest regeneration of	-1.6199632992852463E-8
+AxonalRegenerationTest regeneration of rubrospinal	-1.6199632992852463E-8
+AxonalRegenerationTest regeneration of rubrospinal axons	-1.6199632992852463E-8
+AxonalChangesTest associations	-1.6598428801293914E-8
+MotorEvokedPotentialsTest mean amplitude	-1.9996204670080725E-8
+AxonalChangesTest Quantification	-2.259745892168752E-8
+LesionVolumeTest area of injured	-2.3295925162368373E-8
+LesionVolumeTest of injured	-2.3295925162368373E-8
+LesionVolumeTest injured	-2.3295925162368373E-8
+LesionVolumeTest area of injured tissue	-2.3295925162368373E-8
+LesionVolumeTest of injured tissue	-2.3295925162368373E-8
+LesionVolumeTest injured tissue	-2.3295925162368373E-8
+MotorEvokedPotentialsTest potential	-2.5395035928241822E-8
+AxonalRegenerationTest quantitative	-2.5995321591364266E-8
+TissueSparingTest of spared	-2.769834448343955E-8
+TissueSparingTest of spared tissue	-2.769834448343955E-8
+NeuroprotectionTest neuronal	-3.339472649280091E-8
+CystVolumeTest cavitation	-3.449644269186498E-8
+AxonalChangesTest BDA-labeled	-3.609630255990346E-8
+AxonalRegenerationTest corticospinal	-3.7895661929486825E-8
+BBBTest testing	-3.858852003391824E-8
+AxonalRegenerationTest serotonergic	-3.8795502548943775E-8
+LocomotorTest plantar	-4.1993912350527867E-8
+LocomotorTest plantar steps	-4.1993912350527867E-8
+ThermalHyperalgesiaTest plantar	-4.7294695920694783E-8
+ThermalHyperalgesiaTest plantar algesimetry	-4.7294695920694783E-8
+ThermalHyperalgesiaTest algesimetry	-4.7294695920694783E-8
+ThermalHyperalgesiaTest plantar algesimetry had	-4.7294695920694783E-8
+ThermalHyperalgesiaTest algesimetry had	-4.7294695920694783E-8
+ThermalHyperalgesiaTest had	-4.7294695920694783E-8
+ThermalHyperalgesiaTest plantar algesimetry had a	-4.7294695920694783E-8
+ThermalHyperalgesiaTest algesimetry had a	-4.7294695920694783E-8
+ThermalHyperalgesiaTest had a	-4.7294695920694783E-8
+ThermalHyperalgesiaTest a	-4.7294695920694783E-8
+ThermalHyperalgesiaTest plantar algesimetry had a latency	-4.7294695920694783E-8
+ThermalHyperalgesiaTest algesimetry had a latency	-4.7294695920694783E-8
+ThermalHyperalgesiaTest had a latency	-4.7294695920694783E-8
+ThermalHyperalgesiaTest a latency	-4.7294695920694783E-8
+AxonalRegenerationTest immunostaining	-4.7893582509007043E-8
+WalkingAnalysisTest performance	-5.519139429812124E-8
+NeuroprotectionTest rubrospinal	-6.029437283397541E-8
+NeuroprotectionTest rubrospinal neurons	-6.029437283397541E-8
+ElectrophysiologyTest activity	-6.199229281831147E-8
+CystVolumeTest cavity formation	-6.629308446238538E-8
+CystVolumeTest formation	-6.629308446238538E-8
+TissueSparingTest area of preserved grey	-6.688911446385367E-8
+TissueSparingTest of preserved grey	-6.688911446385367E-8
+TissueSparingTest preserved grey	-6.688911446385367E-8
+TissueSparingTest grey	-6.688911446385367E-8
+TissueSparingTest area of preserved grey matter	-6.688911446385367E-8
+TissueSparingTest of preserved grey matter	-6.688911446385367E-8
+TissueSparingTest preserved grey matter	-6.688911446385367E-8
+TissueSparingTest grey matter	-6.688911446385367E-8
+TissueSparingTest matter	-6.688911446385367E-8
+AxonalRegenerationTest number of rubrospinal	-6.738985086161428E-8
+AxonalRegenerationTest number of rubrospinal axons	-6.738985086161428E-8
+WalkingAnalysisTest horizontal	-6.998969378009134E-8
+MyelinationTest of myelinated axons	-7.409102478132462E-8
+AxonalChangesTest rubrospinal	-7.749700818896442E-8
+ElectrophysiologyTest respiratory	-7.758982103755001E-8
+CystVolumeTest cystic	-7.969351762000756E-8
+CystVolumeTest cystic cavities	-7.969351762000756E-8
+AxonalChangesTest number of FB-labeled	-8.159076361968062E-8
+AxonalChangesTest of FB-labeled	-8.159076361968062E-8
+AxonalChangesTest FB-labeled	-8.159076361968062E-8
+AxonalChangesTest number of FB-labeled neurons	-8.159076361968062E-8
+AxonalChangesTest of FB-labeled neurons	-8.159076361968062E-8
+AxonalChangesTest FB-labeled neurons	-8.159076361968062E-8
+AxonalChangesTest neurons	-8.159076361968062E-8
+MotorEvokedPotentialsTest rubrospinal	-8.308803795258829E-8
+AxonalRegenerationTest of rubrospinal	-8.358948385453562E-8
+AxonalRegenerationTest rubrospinal	-8.358948385453562E-8
+AxonalRegenerationTest of rubrospinal axons	-8.358948385453562E-8
+AxonalRegenerationTest rubrospinal axons	-8.358948385453562E-8
+LesionVolumeTest GFAP-negative	-8.808834629593706E-8
+InclinedPlaneTest performance	-9.209073316022815E-8
+AstrogliosisTest astrocytes	-9.428883558605847E-8
+ThermalHyperalgesiaTest mechanical	-9.438829980256645E-8
+WalkingAnalysisTest plantar	-9.519124458884418E-8
+WalkingAnalysisTest plantar steps	-9.519124458884418E-8
+WalkingAnalysisTest steps	-9.519124458884418E-8
+AxonalSproutingTest processes	-9.528885666651303E-8
+TissueSparingTest percentage	-9.688843195961984E-8
+TissueSparingTest percentage of	-9.688843195961984E-8
+TissueSparingTest percentage of spared	-9.688843195961984E-8
+TissueSparingTest percentage of spared tissue	-9.688843195961984E-8
+BBBTest hindlimb	-1.0138940618251285E-7
+InflammationTest microglial	-1.0198659910695629E-7
+InflammationTest microglial cells	-1.0198659910695629E-7
+MotorEvokedPotentialsTest motor evoked potentials	-1.0478750896956927E-7
+MotorEvokedPotentialsTest evoked potentials	-1.0478750896956927E-7
+MotorEvokedPotentialsTest potentials	-1.051874855281901E-7
+AxonalChangesTest number of	-1.0828836609473173E-7
+AxonalChangesTest fluorescence	-1.1288601664710042E-7
+WalkingAnalysisTest and	-1.1348901018477862E-7
+WalkingAnalysisTest stance	-1.1348901018477862E-7
+WalkingAnalysisTest stance and	-1.1348901018477862E-7
+WalkingAnalysisTest stance and trajectory	-1.1348901018477862E-7
+WalkingAnalysisTest and trajectory	-1.1348901018477862E-7
+WalkingAnalysisTest trajectory	-1.1348901018477862E-7
+WalkingAnalysisTest stance and trajectory lengths	-1.1348901018477862E-7
+WalkingAnalysisTest and trajectory lengths	-1.1348901018477862E-7
+WalkingAnalysisTest trajectory lengths	-1.1348901018477862E-7
+WalkingAnalysisTest lengths	-1.1348901018477862E-7
+AxonalChangesTest raphespinal	-1.1368372085034117E-7
+AxonalChangesTest varicosities	-1.136912180965411E-7
+SomatosensoryEvokedPotentialsTest potential	-1.1548261804238134E-7
+NeuronalChangesTest dendrites	-1.1618276068046713E-7
+AutonomicDysreflexiaTest response	-1.172858472653289E-7
+AxonalChangesTest are	-1.1789142498581253E-7
+AxonalChangesTest appositions are	-1.1789142498581253E-7
+AxonalChangesTest appositions are detected	-1.1789142498581253E-7
+AxonalChangesTest are detected	-1.1789142498581253E-7
+NeuroprotectionTest tissue	-1.185882820331401E-7
+NeuroprotectionTest tissue preservation	-1.185882820331401E-7
+NeuroprotectionTest preservation	-1.185882820331401E-7
+TissueSparingTest tissue preservation	-1.1988823001739264E-7
+WalkingAnalysisTest analysis	-1.2608427365903247E-7
+AxonalChangesTest DBH-positive	-1.2878859686749996E-7
+ScarringTest 	-1.365851629173538E-7
+ScarringTest formation	-1.365851629173538E-7
+ImagingTest region	-1.369833201099286E-7
+MotorEvokedPotentialsTest percentage	-1.449827619328098E-7
+GaitTest coordination	-1.4578455029387825E-7
+AxonalRegenerationTest structures	-1.4668327655067717E-7
+AxonalSproutingTest corticospinal	-1.5058552979886592E-7
+AdhesiveRemovalTest 	-1.5377807537971682E-7
+AxonalDiebackTest rubrospinal	-1.5788425528571494E-7
+MotorEvokedPotentialsTest latencies	-1.592807325866702E-7
+InclinedPlaneTest ability	-1.6148129281612547E-7
+AxonalRegenerationTest positive	-1.6668266346038573E-7
+LocomotorTest completed	-1.70282080380589E-7
+AxonalRegenerationTest neurons	-1.7377955649321346E-7
+NeuronalChangesTest of	-1.7407817168229369E-7
+BBBTest locomotion	-1.764840109728343E-7
+InclinedPlaneTest climbing	-1.7938093782071515E-7
+ThermalHyperalgesiaTest Mechanical	-1.8518232511109E-7
+ThermalHyperalgesiaTest Mechanical stimulus	-1.8518232511109E-7
+ThermalHyperalgesiaTest stimulus	-1.8518232511109E-7
+NeuronalChangesTest number	-1.8598048255812417E-7
+SpasticityObservation 	-1.8718129958760646E-7
+ElectrophysiologyTest CAP	-1.8748115280354332E-7
+ElectrophysiologyTest CAP amplitude	-1.8748115280354332E-7
+NeuroprotectionTest located	-1.8958019664915594E-7
+ImagingTest spinal	-1.9188227665994258E-7
+ThermalHyperalgesiaTest withdrawal	-1.9467661254903107E-7
+CystVolumeTest cavity	-2.0597356264576332E-7
+HReflexTest 	-2.1167859775781565E-7
+HReflexTest amplitude	-2.1167859775781565E-7
+AutomatedGaitAnalysis crossing	-2.1337914539826742E-7
+OpenFieldTest locomotor	-2.2167735384477917E-7
+InclinedPlaneTest inclined	-2.2677348168380481E-7
+InclinedPlaneTest inclined plane	-2.2677348168380481E-7
+InclinedPlaneTest plane	-2.2677348168380481E-7
+InclinedPlaneTest inclined plane test	-2.2677348168380481E-7
+InclinedPlaneTest plane test	-2.2677348168380481E-7
+NeuroprotectionTest neurons	-2.284700460357804E-7
+LesionVolumeTest volume	-2.3567515643228015E-7
+BBBTest scale	-2.3817064290154724E-7
+NeuronalChangesTest density	-2.413762724422059E-7
+TissueSparingTest spinal	-2.552689962704441E-7
+WalkingAnalysisTest extension	-2.592716306439796E-7
+NonFunctionalTest bladder	-2.736737716787875E-7
+BBBTest score	-2.849661127133394E-7
+BBBTest BBB score	-2.849661127133394E-7
+MotorEvokedPotentialsTest amplitude	-3.260585770424877E-7
+TissueSparingTest of	-3.494565656270576E-7
+SomatosensoryEvokedPotentialsTest 	-7.37608370195488E-7
+TissueSparingTest 	-7.931060698453748E-7
+ThermalHyperalgesiaTest 	-9.594865867798308E-7
+NeuroprotectionTest 	-1.1016745352133645E-6
+AxonalRegenerationTest immunopositive	-9.9981636434263E-4
+AxonalChangesTest positive	-9.998214634288868E-4
+AstrogliosisTest astrocyte	-9.9982166338392E-4
+NeuronalChangesTest HT-positive	-9.998222632771566E-4
+TissueSparingTest sparing	-9.998255626963912E-4
+TissueSparingTest tissue sparing	-9.998255626963912E-4
+TissueSparingTest spinal tissue sparing	-9.998255626963912E-4
+AstrogliosisTest GFAP-positive	-9.99827062436006E-4
+ThermalHyperalgesiaTest stimulation	-9.998282622293178E-4
+AxonalChangesTest DBH-positive axons	-9.998338612837896E-4
+NeuroprotectionTest neurons .14	-9.998581575442055E-4
+NeuroprotectionTest .14	-9.998581575442055E-4
+AxonalRegenerationTest regenerating	-9.998586574734582E-4
+AxonalRegenerationTest regenerating axons	-9.998586574734582E-4
+AxonalChangesTest CGRP-positive	-9.998591574029605E-4
+AxonalSproutingTest axonal	-9.998625569302064E-4
+AxonalSproutingTest sprouting of various axonal populations	-9.998625569302064E-4
+AxonalSproutingTest various axonal	-9.998625569302064E-4
+AxonalSproutingTest of various axonal	-9.998625569302064E-4
+AxonalSproutingTest sprouting of various axonal	-9.998625569302064E-4
+AxonalSproutingTest of various	-9.998625569302064E-4
+AxonalSproutingTest sprouting of various	-9.998625569302064E-4
+AxonalSproutingTest axonal populations	-9.998625569302064E-4
+AxonalSproutingTest various axonal populations	-9.998625569302064E-4
+AxonalSproutingTest of various axonal populations	-9.998625569302064E-4
+AxonalSproutingTest various	-9.998625569302064E-4
+AxonalSproutingTest populations	-9.998625569302064E-4
+AutonomicDysreflexiaTest averaged	-9.998636567797312E-4
+NeuronalChangesTest GFAP-positive	-9.998692560324336E-4
+InflammationTest microglia	-9.998740554168495E-4
+AxonalChangesTest axons were	-9.998760551671552E-4
+AxonalChangesTest axons were detected	-9.998760551671552E-4
+AxonalChangesTest were detected	-9.998760551671552E-4
+AxonalChangesTest were	-9.998760551671552E-4
+NeuronalChangesTest number of labeled	-9.998898595741795E-4
+NeuronalChangesTest of labeled	-9.998898595741795E-4
+SomatosensoryEvokedPotentialsTest somatosensory-evoked	-9.99907357929101E-4
+SomatosensoryEvokedPotentialsTest somatosensory-evoked potentials	-9.99907357929101E-4
+AxonalSproutingTest sprouting axons	-9.999080517159831E-4
+SensoryTest withdrawal	-9.999083512769208E-4
+AxonalChangesTest numbers	-9.999099522552586E-4
+AxonalChangesTest numbers of	-9.999099522552586E-4
+AxonalChangesTest numbers of axons	-9.999099522552586E-4
+AxonalChangesTest of axons	-9.999099522552586E-4
+AxonalRegenerationTest immunoreactivity	-9.99910051534344E-4
+AstrogliosisTest reactivity	-9.999107514716307E-4
+AstrogliosisTest GFAP reactivity	-9.999107514716307E-4
+AngiogenesisTest numbers	-9.999174508967617E-4
+AngiogenesisTest numbers of blood	-9.999174508967617E-4
+AngiogenesisTest numbers of blood vessels	-9.999174508967617E-4
+AngiogenesisTest numbers of	-9.999174508967617E-4
+MyelinationTest numbers	-9.999185523658044E-4
+MyelinationTest numbers of	-9.999185523658044E-4
+MyelinationTest numbers of myelinated	-9.999185523658044E-4
+MyelinationTest numbers of myelinated axons	-9.999185523658044E-4
+NeuronalChangesTest number of labeled cells	-9.999186555259467E-4
+NeuronalChangesTest of labeled cells	-9.999186555259467E-4
+NeuronalChangesTest cells	-9.999186555259467E-4
+NeuronalChangesTest labeled cells	-9.999186555259467E-4
+AxonalChangesTest mean	-9.99923550408151E-4
+AxonalChangesTest mean number	-9.99923550408151E-4
+AxonalChangesTest mean number of	-9.99923550408151E-4
+AxonalChangesTest mean number of labeled	-9.99923550408151E-4
+AxonalChangesTest number of labeled	-9.99923550408151E-4
+AxonalChangesTest of labeled	-9.99923550408151E-4
+AxonalChangesTest labeled	-9.99923550408151E-4
+AxonalChangesTest mean number of labeled axons	-9.99923550408151E-4
+AxonalChangesTest number of labeled axons	-9.99923550408151E-4
+AxonalChangesTest of labeled axons	-9.99923550408151E-4
+AxonalChangesTest labeled axons	-9.99923550408151E-4
+ThermalHyperalgesiaTest paw	-9.999250502990072E-4
+ThermalHyperalgesiaTest paw withdrawal latency	-9.999250502990072E-4
+ThermalHyperalgesiaTest paw withdrawal	-9.999250502990072E-4
+NeuronalChangesTest mean soma	-9.999300468659233E-4
+NeuronalChangesTest mean soma size	-9.999300468659233E-4
+NeuronalChangesTest mean soma size of	-9.999300468659233E-4
+NeuronalChangesTest soma size of	-9.999300468659233E-4
+NeuronalChangesTest size of	-9.999300468659233E-4
+NeuronalChangesTest mean soma size of neurons	-9.999300468659233E-4
+NeuronalChangesTest soma size of neurons	-9.999300468659233E-4
+NeuronalChangesTest size of neurons	-9.999300468659233E-4
+NeuronalChangesTest of neurons	-9.999300468659233E-4
+AxonalChangesTest axon profiles	-9.999833398085171E-4
+TissueSparingTest spared tissue	-9.999855458099447E-4
+AxonalChangesTest detected	-9.999939465921424E-4
+ElectrophysiologyTest Conduction	-9.999980447747776E-4
+ElectrophysiologyTest Conduction velocity	-9.999980447747776E-4
+MyelinationTest myelinated	-0.0010000055341805225
+ElectrophysiologyTest conditions	-0.0010000055428447845
+SomatosensoryEvokedPotentialsTest potentials	-0.0010000204462572765
+AstrogliosisTest astrocytic processes	-0.0010000268406575106
+AstrogliosisTest processes	-0.0010000268406575106
+AxonalRegenerationTest BDA-positive	-0.0010000314373920364
+AxonalRegenerationTest regeneration	-0.0010000381413325643
+AxonalChangesTest axonal density	-0.0010000418366073204
+AxonalRegenerationTest BDA-labeled	-0.0010000494368109692
+AxonalRegenerationTest BDA-labeled fibers	-0.0010000494368109692
+TissueSparingTest area of preserved spinal	-0.0010000545366209638
+TissueSparingTest of preserved spinal	-0.0010000545366209638
+TissueSparingTest preserved spinal	-0.0010000545366209638
+TissueSparingTest area of preserved spinal cord	-0.0010000545366209638
+TissueSparingTest of preserved spinal cord	-0.0010000545366209638
+TissueSparingTest preserved spinal cord	-0.0010000545366209638
+TissueSparingTest spinal cord	-0.0010000545366209638
+TissueSparingTest cord	-0.0010000545366209638
+AxonalSproutingTest sprouting	-0.001000073531211407
+TissueSparingTest preservation	-0.0010001041358499972
+TissueSparingTest area of	-0.001000121425735425
+TissueSparingTest area of preserved	-0.001000121425735425
+TissueSparingTest of preserved	-0.001000121425735425
+MyelinationTest axons	-0.001000145323290455
+AxonalChangesTest axons	-0.0010001474272236589
+AxonalChangesTest axonal	-0.0010001661258549897
+GaitTest 	-0.0010001937223255665
+AxonalSproutingTest 	-0.0010003194055978753
+OpenFieldTest 	-0.0010003375016976307
+CystVolumeTest 	-0.0010007499538233875
+LesionVolumeTest 	-0.0010008889378986645
+NeuronalChangesTest 	-0.0010014704639926138
+AxonalRegenerationTest axonal	-0.0019997736094862443
+OpenFieldTest open field	-0.001999823709004596
+OpenFieldTest field locomotor	-0.001999823709004596
+OpenFieldTest open field locomotor scores	-0.001999823709004596
+OpenFieldTest open field locomotor	-0.001999823709004596
+OpenFieldTest field locomotor scores	-0.001999823709004596
+OpenFieldTest open	-0.001999823709004596
+OpenFieldTest field	-0.001999823709004596
+NeuronalChangesTest labeled	-0.001999869007287004
+BBBTest BBB scale scores	-0.0019998907994352583
+BBBTest scale scores	-0.0019998907994352583
+LesionVolumeTest area	-0.0020000318779659107
+AstrogliosisTest 	-0.0020008453832949338
+AxonalRegenerationTest 	-0.0020012462300867833
+ProteinLevelAnalysis expression	-0.0029996113697688316
+BBBTest BBB scale	-0.0029997341547870152
+ProteinLevelAnalysis protein	-0.0029997596562325902
+BBBTest scores	-0.0030000761182510617
+AxonalRegenerationTest labeled neurons	-0.003999555521828696
+AxonalRegenerationTest labeled	-0.003999555521828696
+LesionVolumeTest lesion area	-0.003999680706988844
+AxonalRegenerationTest axonal regeneration	-0.004999413282960327
+MyelinationTest myelinated axons	-0.004999602153395301
+AxonalChangesTest 	-0.005001176177223815
+BBBTest BBB scores	-0.0069993959619605636

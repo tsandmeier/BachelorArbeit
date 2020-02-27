@@ -1,0 +1,114 @@
+WORDS BETWEEN: <Xylazine, DosageExtracorporal>: (	0.009998407616023369
+WORDS BETWEEN: <AntibioticMedication, DosageExtracorporal>: (	0.006999269880980521
+WORDS BETWEEN: <SodiumPentobarbital, DosageExtracorporal>: (	0.0059992410479905636
+NO WORDS BETWEEN: <DosageExtracorporal, InjectionDelivery> 	0.00599887447824564
+WORDS BETWEEN: <T11, Laminectomy>: A sterile	0.004999331794266465
+WORDS BETWEEN: <T10, L4>: and	0.004999306497808861
+NO WORDS BETWEEN: <Distance, Weight> 	0.004999290901872994
+WORDS BETWEEN: <KetamineAsAnaesthetic, DosageExtracorporal>: (	0.004999276499250041
+WORDS BETWEEN: <Compression, C4>: at spinal level	0.0049991979082699665
+NO WORDS BETWEEN: <DosageExtracorporal, Isoflurane> 	0.003999885298103745
+NO WORDS BETWEEN: <DosageExtracorporal, DosageExtracorporal> 	0.003999641917554057
+NO WORDS BETWEEN: <T12, L1> 	0.0039995768179081825
+WORDS BETWEEN: <AntibioticMedication, DosageExtracorporal>: was used (	0.003999559019920108
+WORDS BETWEEN: <Weight, Distance>: from	0.003999498628179889
+WORDS BETWEEN: <SodiumPentobarbital, DosageExtracorporal>: (Nembutal,	0.003999490728004653
+NO WORDS BETWEEN: <T10, Injury> 	0.003999482231721838
+WORDS BETWEEN: <T8, T9>: or	0.003999416443100164
+WORDS BETWEEN: <Isoflurane, DosageExtracorporal>: in a mixture of	0.0039994031428879665
+NO WORDS BETWEEN: <IntramuscularLocation, InjectionDelivery> 	0.003999327550322251
+WORDS BETWEEN: <DosageExtracorporal, Xylazine>: and	0.0029997287619280577
+NO WORDS BETWEEN: <AneurysmClip, Compression> 	0.00299967386386351
+WORDS BETWEEN: <DorsalHemisection, T11>: at vertebral level	0.0029996064706257586
+NO WORDS BETWEEN: <DosageExtracorporal, Xylazine> 	0.002999606376437624
+NO WORDS BETWEEN: <IntraperitonealLocation, InjectionDelivery> 	0.0029995208860760995
+NO WORDS BETWEEN: <Weight, Distance> 	0.0029991561360104267
+WORDS BETWEEN: <DosageExtracorporal, DosageExtracorporal>: and xylazine (	0.0020001512735253395
+WORDS BETWEEN: <Nutrition, Hydration>: and	0.001999959595811824
+WORDS BETWEEN: <T8, T9>: and	0.001999936796447524
+WORDS BETWEEN: <DosageExtracorporal, DosageExtracorporal>: and xylasine (	0.001999870999655787
+WORDS BETWEEN: <Xylazine, DosageExtracorporal>: hydrochloride (	0.0019998620002601997
+WORDS BETWEEN: <SodiumPentobarbital, DosageExtracorporal>: anesthesia (	0.001999728023234214
+WORDS BETWEEN: <Contusion, Distance>: (	0.001999709716649771
+WORDS BETWEEN: <Distance, T10>: to spinal cord	0.001999709716649771
+WORDS BETWEEN: <Xylazine, DosageExtracorporal>: cocktail (Ketamine HCl	0.0019997069164742563
+WORDS BETWEEN: <Weight, Distance>: released from	0.001999648129589771
+WORDS BETWEEN: <NYUImpactor, Weight>: with a weight of	0.0019996304326378085
+WORDS BETWEEN: <Halothane, DosageExtracorporal>: anesthesia (1‚	0.001999588538042063
+WORDS BETWEEN: <Distance, T10>: setting) on	0.0019995777403086458
+WORDS BETWEEN: <Weight, Distance>: weight was dropped from	0.0019995604434092326
+WORDS BETWEEN: <T9, InfiniteHorizonImpactor>: using the	9.999797477005517E-4
+WORDS BETWEEN: <DorsalInjuryArea, ScoutenWireKnife>: lesion using a	9.999691479703713E-4
+WORDS BETWEEN: <Hydration, Nutrition>: and	9.999529486616856E-4
+WORDS BETWEEN: <DosageExtracorporal, DosageExtracorporal>: , xylazine (	9.999366494979965E-4
+WORDS BETWEEN: <Weight, Distance>: rod	9.999326497590084E-4
+WORDS BETWEEN: <Xylazine, InjectionDelivery>: by intraperitoneal	9.999300499372453E-4
+WORDS BETWEEN: <DosageExtracorporal, InjectionDelivery>: xylazine) by intraperitoneal	9.999300499372453E-4
+WORDS BETWEEN: <Xylazine, IntraperitonealLocation>: by	9.999172509132718E-4
+WORDS BETWEEN: <IntraperitonealLocation, ChloralHydrate>: injected	9.999154510636646E-4
+WORDS BETWEEN: <DosageExtracorporal, DosageExtracorporal>: and xilazine [	9.99890253509332E-4
+WORDS BETWEEN: <Xylazine, DosageExtracorporal>: [	9.99890253509332E-4
+NO WORDS BETWEEN: <T10, ModerateInjury> 	9.998740554168495E-4
+NO WORDS BETWEEN: <DosageExtracorporal, AntibioticMedication> 	9.998691560455031E-4
+WORDS BETWEEN: <AntibioticMedication, DosageExtracorporal>: sodium (	9.998462554568644E-4
+WORDS BETWEEN: <Weight, Distance>: was dropped from	9.998416600191028E-4
+WORDS BETWEEN: <Hydration, Nutrition>: and food	9.998186639231367E-4
+WORDS BETWEEN: <Xylazine, DosageExtracorporal>: (100:	9.99796968091415E-4
+WORDS BETWEEN: <Weight, Distance>: from a	9.997959682948494E-4
+WORDS BETWEEN: <Xylazine, DosageExtracorporal>: ketamine (10 and	9.997918691393827E-4
+WORDS BETWEEN: <T8, Blade>: using a	9.997896695994758E-4
+WORDS BETWEEN: <Contusion, Weight>: by dropping a	9.997662747926463E-4
+WORDS BETWEEN: <InjectionDelivery, SodiumPentobarbital>: injection of	4.7394096464019245E-8
+NO WORDS BETWEEN: <KetamineAsAnaesthetic, Xylazine> 	1.6899704168025248E-8
+WORDS BETWEEN: <KetamineAsAnaesthetic, DosageExtracorporal>: xylazine (	1.6799705078539588E-8
+WORDS BETWEEN: <IntraperitonealLocation, SodiumPentobarbital>: injection of	-1.2098716197562969E-8
+WORDS BETWEEN: <InjectionDelivery, Xylazine>: and	-9.798633440018194E-8
+WORDS BETWEEN: <InjectionDelivery, DosageExtracorporal>: and xylazine (	-9.798633440018194E-8
+WORDS BETWEEN: <Weight, Distance>: gm,	-9.997931688697844E-4
+WORDS BETWEEN: <Xylazine, DosageExtracorporal>: (6.5 mg/	-9.997939687047173E-4
+WORDS BETWEEN: <Laminectomy, T8>: at	-9.997953684173898E-4
+WORDS BETWEEN: <UnilateralInjuryArea, T8>: cord at	-9.998024669903977E-4
+WORDS BETWEEN: <Xylazine, DosageExtracorporal>: (7	-9.99807066092772E-4
+WORDS BETWEEN: <KetamineAsAnaesthetic, DosageExtracorporal>: hydrochloride (	-9.998102654808145E-4
+WORDS BETWEEN: <ModerateInjury, Contusion>: spinal	-9.998324615172471E-4
+NO WORDS BETWEEN: <SevereInjury, Contusion> 	-9.998352610523316E-4
+WORDS BETWEEN: <Contusion, NYUImpactor>: using an	-9.99836960773886E-4
+NO WORDS BETWEEN: <DosageExtracorporal, SodiumPentobarbital> 	-9.998408601460166E-4
+WORDS BETWEEN: <Distance, NYUImpactor>: mm,	-9.998422599243374E-4
+WORDS BETWEEN: <Weight, NYUImpactor>: 12.5 mm,	-9.998423599085781E-4
+NO WORDS BETWEEN: <T8, CompleteTransection> 	-9.998443595954927E-4
+WORDS BETWEEN: <Distance, Distance>: The contusion impact	-9.998460593325144E-4
+WORDS BETWEEN: <AntibioticMedication, DosageExtracorporal>: sodium,	-9.99849858755129E-4
+WORDS BETWEEN: <IntraperitonealLocation, DosageExtracorporal>: injections of BrdU (	-9.998515585014996E-4
+WORDS BETWEEN: <DosageExtracorporal, Xylazine>: i.p.) and	-9.998632568343096E-4
+WORDS BETWEEN: <DorsalHemisection, T9>: at the	-9.998823544067601E-4
+NO WORDS BETWEEN: <T9, DosageExtracorporal> 	-9.998824543950102E-4
+WORDS BETWEEN: <DorsalHemisection, DosageExtracorporal>: at the T-	-9.998824543950102E-4
+WORDS BETWEEN: <Contusion, NYUImpactor>: injury (	-9.998828543481113E-4
+WORDS BETWEEN: <DosageExtracorporal, Weight>: and buprenorphine (	-9.99887053865328E-4
+WORDS BETWEEN: <InjectionDelivery, Laminectomy>: . After	-9.998874538202688E-4
+WORDS BETWEEN: <InjectionDelivery, SodiumPentobarbital>: of	-9.99887853775369E-4
+WORDS BETWEEN: <InjectionDelivery, DosageExtracorporal>: of sodium pentobarbital (	-9.99887853775369E-4
+WORDS BETWEEN: <DosageExtracorporal, IntraperitonealLocation>: Sigma)	-9.998885536971801E-4
+WORDS BETWEEN: <Weight, Distance>: from a 12.5 mm	-9.998932531848843E-4
+NO WORDS BETWEEN: <Distance, Distance> 	-9.998932531848843E-4
+WORDS BETWEEN: <Weight, Distance>: from a height of	-9.998935531529347E-4
+NO WORDS BETWEEN: <Nutrition, BladderExpression> 	-9.999091516155521E-4
+WORDS BETWEEN: <Hydration, BladderExpression>: and food.	-9.999091516155521E-4
+WORDS BETWEEN: <DosageExtracorporal, AntibioticMedication>: U/qd	-9.999288500217882E-4
+WORDS BETWEEN: <CompleteTransection, Blade>: at T8 using a	-9.99932349779229E-4
+WORDS BETWEEN: <CompleteTransection, T8>: at	-9.99932349779229E-4
+WORDS BETWEEN: <Distance, T10>: onto the exposed	-9.999328497455778E-4
+WORDS BETWEEN: <DosageExtracorporal, DosageExtracorporal>: and acepromazine (	-9.999367494916763E-4
+WORDS BETWEEN: <InjectionDelivery, IntraperitonealLocation>: intraperitoneally (	-9.999716478966097E-4
+NO WORDS BETWEEN: <InjectionDelivery, ChloralHydrate> 	-9.999728478634242E-4
+WORDS BETWEEN: <NYUImpactor, Weight>: with a	-9.999738478368694E-4
+WORDS BETWEEN: <Laminectomy, T9>: of	-9.999796477025721E-4
+WORDS BETWEEN: <InjectionDelivery, DosageExtracorporal>: injections of BrdU (	-9.999866475852881E-4
+WORDS BETWEEN: <PartialTransection, T9>: was made at	-9.999890475563562E-4
+WORDS BETWEEN: <InjectionDelivery, DosageExtracorporal>: injection of pentobarbital (	-0.0019997506110798996
+WORDS BETWEEN: <AntibioticMedication, AntibioticMedication>: prescription (	-0.0019998078047200017
+WORDS BETWEEN: <DosageExtracorporal, DosageExtracorporal>: Xylazine HCl	-0.001999831806668339
+WORDS BETWEEN: <BladderExpression, Compression>: function after	-0.001999897098129438
+WORDS BETWEEN: <Xylazine, DosageExtracorporal>: and 0.09	-0.0019999146972723247
+WORDS BETWEEN: <SodiumPentobarbital, DosageExtracorporal>: overdose (	-0.003999690807001833

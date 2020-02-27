@@ -1,0 +1,6 @@
+Exact Match for ChildEntity: <Gender> Male	0.003999987990020147
+Exact Match: <Male> Male	0.003999987990020147
+Exact Match: <Adult> Adult	0.003999974090073894
+Exact Match for ChildEntity: <AgeCategory> Adult	0.003999974090073894
+Exact Match: <Female> Female	0.001999987595032175
+Exact Match for ChildEntity: <Gender> Female	0.001999987595032175

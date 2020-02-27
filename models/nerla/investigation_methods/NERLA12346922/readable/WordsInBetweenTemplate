@@ -1,0 +1,16 @@
+WORDS BETWEEN: <SomatosensoryEvokedPotentialsTest, MotorEvokedPotentialsTest>: and	0.0039996577105763115
+WORDS BETWEEN: <NeuronalChangesTest, NeuronalChangesTest>: and	0.0029997402548331536
+WORDS BETWEEN: <SomatosensoryEvokedPotentialsTest, SomatosensoryEvokedPotentialsTest>: and	0.0019998351060016946
+WORDS BETWEEN: <GroomingObservation, InvestigationMethod>: and	0.001999738512464819
+WORDS BETWEEN: <AutonomicDysreflexiaTest, AutonomicDysreflexiaTest>: and	0.0019997354128685673
+WORDS BETWEEN: <BBBTest, MotorEvokedPotentialsTest>: and the	9.99949348775324E-4
+WORDS BETWEEN: <SpinalCordEvokedPotentialsTest, SpinalCordEvokedPotentialsTest>: and the	9.998472591486222E-4
+WORDS BETWEEN: <SomatosensoryEvokedPotentialsTest, SomatosensoryEvokedPotentialsTest>: and lower	-9.999040520913855E-4
+NO WORDS BETWEEN: <GaleRatingScoreTest, BBBTest> 	-9.999292499934473E-4
+WORDS BETWEEN: <NeuronalChangesTest, NeuronalChangesTest>: raphespinal, and	-9.99946248936845E-4
+NO WORDS BETWEEN: <NeuronalChangesTest, NeuronalChangesTest> 	-9.99946248936845E-4
+WORDS BETWEEN: <AutonomicDysreflexiaTest, AutonomicDysreflexiaTest>: (	-9.999630481765784E-4
+WORDS BETWEEN: <ElectrophysiologyTest, MotorEvokedPotentialsTest>: The mean	-9.999660480705152E-4
+WORDS BETWEEN: <InvestigationMethod, InvestigationMethod>: and	-9.999670480371607E-4
+WORDS BETWEEN: <AutomatedGaitAnalysis, AutomatedGaitAnalysis>: and	-9.9997374783948E-4
+WORDS BETWEEN: <LesionVolumeTest, AstrogliosisTest>: defined by	-9.99989647550023E-4

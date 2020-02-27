@@ -1,0 +1,174 @@
+NO WORDS BETWEEN: <DosageExtracorporal, OlfactoryEnsheathingGliaCell> 	0.01199749218581695
+WORDS BETWEEN: <OlfactoryEnsheathingGliaCell, Cell>: and	0.008998319907476895
+WORDS BETWEEN: <Tissue, Tissue>: or	0.007998517256921375
+WORDS BETWEEN: <Tissue, Tissue>: and	0.00799828220426135
+WORDS BETWEEN: <OlfactoryEnsheathingGliaCell, Matrix>: suspended in	0.006999026442242179
+WORDS BETWEEN: <Rostral, Caudal>: and	0.006997818221570875
+WORDS BETWEEN: <SchwannCell, Conduit>: in Matrigel-filled	0.005999327449651841
+WORDS BETWEEN: <OlfactoryEnsheathingGliaCell, MesenchymalStemCell>: and/or	0.005999147672446282
+WORDS BETWEEN: <InjectionDelivery, Vehicle>: with 0.5 μl of	0.005999117478451538
+WORDS BETWEEN: <Tissue, Matrix>: or	0.005999039985050112
+WORDS BETWEEN: <Tissue, DeliveryMethod>: were gently	0.005999004998829057
+WORDS BETWEEN: <OlfactoryEnsheathingGliaCell, SchwannCell>: or	0.005998955799646825
+WORDS BETWEEN: <OlfactoryEnsheathingGliaCell, InjectionDelivery>: was stereotaxically	0.004999502567999982
+WORDS BETWEEN: <Vehicle, Rostral>: injections 1 mm	0.004999291114546214
+NO WORDS BETWEEN: <OlfactoryEnsheathingGliaCell, DeliveryMethod> 	0.004999217219583593
+WORDS BETWEEN: <OlfactoryEnsheathingGliaCell, InjectionDelivery>: were stereotaxically	0.004999139735386123
+WORDS BETWEEN: <InjectionDelivery, Vehicle>: of OEC suspension or	0.004999136236066795
+WORDS BETWEEN: <InjectionDelivery, CyclosporineA>: received 5 mg of	0.0049989604695893815
+WORDS BETWEEN: <OlfactoryEnsheathingGliaCell, Cell>: /	0.004998923277049225
+WORDS BETWEEN: <Vehicle, OlfactoryEnsheathingGliaCell>: with or without 400,000	0.004998799586954582
+WORDS BETWEEN: <Vehicle, DosageExtracorporal>: with or without	0.004998692313260129
+WORDS BETWEEN: <Vehicle, OlfactoryEnsheathingGliaCell>: alone or with	0.0039996697109809754
+WORDS BETWEEN: <MesenchymalStemCell, OlfactoryEnsheathingGliaCell>: and	0.003999616513275049
+NO WORDS BETWEEN: <DosageExtracorporal, MesenchymalStemCell> 	0.003999421139120905
+NO WORDS BETWEEN: <DosageExtracorporal, Vehicle> 	0.003999277271492012
+WORDS BETWEEN: <DosageExtracorporal, CyclosporineA>: of	0.003999246781163987
+WORDS BETWEEN: <InjectionDelivery, DosageExtracorporal>: received	0.003999246781163987
+WORDS BETWEEN: <DosageExtracorporal, InjectionDelivery>: OEG were	0.003999226476733724
+WORDS BETWEEN: <Rostral, Caudal>: and another 0.5 mm	0.003999182887359184
+WORDS BETWEEN: <BrainDerivedNeurotrophicFactor, InfusionDelivery>: or vehicle was	0.003999176383286006
+WORDS BETWEEN: <Substance, DosageExtracorporal>: (	0.003999129594480479
+WORDS BETWEEN: <DosageExtracorporal, Matrix>: LP or	0.003999128592889985
+NO WORDS BETWEEN: <DosageExtracorporal, Tissue> 	0.003999128292943395
+WORDS BETWEEN: <OlfactoryEnsheathingGliaCell, InjectionDelivery>: were	0.003999092693398054
+WORDS BETWEEN: <SchwannCell, OlfactoryEnsheathingGliaCell>: or	0.003999083401839808
+WORDS BETWEEN: <Direction, Direction>: ,	0.003999081504431534
+WORDS BETWEEN: <Direction, Direction>: and	0.003999064315062525
+WORDS BETWEEN: <OlfactoryEnsheathingGliaCell, DosageExtracorporal>: (	0.002999847350330677
+WORDS BETWEEN: <Caudal, Rostral>: to and	0.002999762553846823
+WORDS BETWEEN: <OlfactoryEnsheathingGliaCell, Vehicle>: , Schwann cells or	0.0029997173625924854
+WORDS BETWEEN: <InjectionDelivery, OlfactoryEnsheathingGliaCell>: of Hoechst-labelled	0.002999614790169103
+WORDS BETWEEN: <InjectionDelivery, OlfactoryEnsheathingGliaCell>: of a suspension of	0.0029995496955010094
+WORDS BETWEEN: <InjectionDelivery, Saline>: of	0.002999447411033435
+WORDS BETWEEN: <Matrix, DeliveryMethod>: were carefully	0.0029993560195576228
+WORDS BETWEEN: <InjectionDelivery, Vehicle>: with 0.5 µl of	0.0029993465262989384
+WORDS BETWEEN: <InjectionDelivery, OlfactoryEnsheathingGliaCell>: of	0.002999299533977623
+WORDS BETWEEN: <Rostral, Caudal>: and two 1 mm	0.0029992967262761046
+WORDS BETWEEN: <PBS, DeliveryMethod>: was	0.002999289632926567
+WORDS BETWEEN: <InjectionDelivery, OlfactoryEnsheathingGliaCell>: of either an	0.0029992870335914515
+WORDS BETWEEN: <InjectionDelivery, OlfactoryEnsheathingGliaCell>: either	0.002999234043404581
+WORDS BETWEEN: <DeliveryMethod, Tissue>: with	0.0029991965529819987
+WORDS BETWEEN: <InjectionDelivery, Vehicle>: at identical volumes of	0.0020000244855199146
+WORDS BETWEEN: <SchwannCell, OlfactoryEnsheathingGliaCell>: ,	0.0019999458962783926
+WORDS BETWEEN: <Rostral, Caudal>: and two just	0.0019999394964658698
+WORDS BETWEEN: <Rostral, Caudal>: , 1 mm	0.0019998516011805693
+WORDS BETWEEN: <InjectionDelivery, Rostral>: 1 mm	0.001999849608182795
+WORDS BETWEEN: <OlfactoryEnsheathingGliaCell, OlfactoryEnsheathingGliaCell>: , seven received non-modified	0.001999790107960225
+WORDS BETWEEN: <DosageExtracorporal, InjectionDelivery>: ) were	0.0019997845084242802
+WORDS BETWEEN: <Rostral, Caudal>: , 1.5–2mm	0.001999754520218078
+WORDS BETWEEN: <OlfactoryEnsheathingGliaCell, DeliveryMethod>: were	0.0019997407258168505
+WORDS BETWEEN: <MesenchymalStemCell, InjectionDelivery>: was	0.0019997358265666744
+WORDS BETWEEN: <DosageExtracorporal, InjectionDelivery>: OECs by intraspinal	0.0019996874394552066
+WORDS BETWEEN: <Vehicle, InjectionDelivery>: was administered by intraspinal	0.001999657331044334
+WORDS BETWEEN: <Direction, Direction>: , central and	0.00199961484279194
+WORDS BETWEEN: <Rostral, Caudal>: and another two	0.0019995824467472275
+WORDS BETWEEN: <DosageExtracorporal, InjectionDelivery>: ,	0.001999567150497434
+WORDS BETWEEN: <CyclosporineA, DosageExtracorporal>: A (	0.0019995256543445293
+WORDS BETWEEN: <Tissue, DeliveryMethod>: or ALP were carefully	0.0019994889632488637
+WORDS BETWEEN: <OlfactoryEnsheathingGliaCell, Rostral>: were injected 1 mm	9.999768477632054E-4
+WORDS BETWEEN: <DosageExtracorporal, InjectionDelivery>: BMSCs by intraspinal	9.997795717738222E-4
+WORDS BETWEEN: <InjectionDelivery, Rostral>: into the	9.997184784627587E-4
+WORDS BETWEEN: <DosageExtracorporal, InjectionDelivery>: Ringer solution were	9.9971828715849E-4
+WORDS BETWEEN: <Rostral, Caudal>: and 1 mm	3.903452276664185E-7
+NO WORDS BETWEEN: <DosageExtracorporal, RingersSolution> 	-2.856393863724125E-7
+WORDS BETWEEN: <InjectionDelivery, Caudal>: into the rostral and	-5.081463353491005E-7
+WORDS BETWEEN: <OlfactoryEnsheathingGliaCell, Vehicle>: in	-9.997127887224953E-4
+WORDS BETWEEN: <DosageExtracorporal, DosageExtracorporal>: of	-9.99715487950932E-4
+WORDS BETWEEN: <DosageExtracorporal, InjectionDelivery>: cells) suspension was	-9.997167875820379E-4
+WORDS BETWEEN: <DosageExtracorporal, InjectionDelivery>: ) based on	-9.99719886709185E-4
+WORDS BETWEEN: <DosageExtracorporal, OlfactoryEnsheathingGliaCell>: ) based on injected	-9.997199866811884E-4
+WORDS BETWEEN: <Cell, OlfactoryEnsheathingGliaCell>: (	-9.997217861789595E-4
+WORDS BETWEEN: <DosageExtracorporal, Vehicle>: , or	-9.997231857905764E-4
+WORDS BETWEEN: <Vehicle, Vehicle>: control	-9.997300839050293E-4
+WORDS BETWEEN: <Matrix, InjectionDelivery>: were	-9.997386816215593E-4
+WORDS BETWEEN: <Caudal, DosageExtracorporal>: spinal	-9.997448800212045E-4
+WORDS BETWEEN: <Caudal, Vehicle>: spinal cord stumps with	-9.997449799957073E-4
+WORDS BETWEEN: <DosageExtracorporal, Vehicle>: stumps with	-9.997449799957073E-4
+WORDS BETWEEN: <DosageExtracorporal, DosageExtracorporal>: OEG and	-9.997486790593371E-4
+WORDS BETWEEN: <OlfactoryEnsheathingGliaCell, DosageExtracorporal>: and	-9.997486790593371E-4
+WORDS BETWEEN: <Vehicle, DosageExtracorporal>: containing OECs (	-9.997491789338507E-4
+WORDS BETWEEN: <DosageExtracorporal, InjectionDelivery>: /kg,	-9.997502786586595E-4
+WORDS BETWEEN: <InjectionDelivery, DosageExtracorporal>: at a concentration of	-9.997560772276569E-4
+WORDS BETWEEN: <DosageExtracorporal, InjectionDelivery>: remained confined to the	-9.997852705341784E-4
+WORDS BETWEEN: <SurgeryTreatment, Rostral>: . The	-9.997863702986879E-4
+WORDS BETWEEN: <SurgeryTreatment, Caudal>: . The rostral and	-9.997864702773398E-4
+WORDS BETWEEN: <InjectionDelivery, Rostral>: injection, and the	-9.997881699159497E-4
+WORDS BETWEEN: <Vehicle, Caudal>: rostrally and	-9.997917691601911E-4
+NO WORDS BETWEEN: <Vehicle, Rostral> 	-9.997917691601911E-4
+WORDS BETWEEN: <Cell, SchwannCell>: nerve Schwann cells (	-9.997949684992834E-4
+WORDS BETWEEN: <Cell, OlfactoryEnsheathingGliaCell>: , from	-9.997951684583167E-4
+WORDS BETWEEN: <SchwannCell, Vehicle>: , or control	-9.99795768335656E-4
+WORDS BETWEEN: <InjectionDelivery, Rostral>: sites	-9.997958683152478E-4
+WORDS BETWEEN: <InjectionDelivery, Caudal>: sites rostral and	-9.997958683152478E-4
+WORDS BETWEEN: <InjectionDelivery, Rostral>: were applied 1 mm	-9.99801067267787E-4
+WORDS BETWEEN: <OlfactoryEnsheathingGliaCell, InjectionDelivery>: were carefully	-9.998020670694517E-4
+NO WORDS BETWEEN: <Tissue, Tissue> 	-9.998030668721162E-4
+WORDS BETWEEN: <Tissue, DeliveryMethod>: mucosa were gently	-9.998030668721162E-4
+WORDS BETWEEN: <OlfactoryEnsheathingGliaCell, MesenchymalStemCell>: Primary cultures of	-9.998052664414974E-4
+WORDS BETWEEN: <DosageExtracorporal, InjectionDelivery>: OEC-M was	-9.99810065518762E-4
+WORDS BETWEEN: <Vehicle, DosageExtracorporal>: ) and	-9.998103654618557E-4
+WORDS BETWEEN: <Vehicle, OlfactoryEnsheathingGliaCell>: ) and 2 ml	-9.998103654618557E-4
+WORDS BETWEEN: <OlfactoryEnsheathingGliaCell, Vehicle>: and 1 ml	-9.998103654618557E-4
+WORDS BETWEEN: <DosageExtracorporal, Vehicle>: OEC-M and 1 ml	-9.998103654618557E-4
+WORDS BETWEEN: <OlfactoryEnsheathingGliaCell, OlfactoryEnsheathingGliaCell>: group and high-dose	-9.99810465442907E-4
+WORDS BETWEEN: <Vehicle, InjectionDelivery>: were	-9.998108653672122E-4
+WORDS BETWEEN: <InjectionDelivery, DosageExtracorporal>: with	-9.998150645820743E-4
+WORDS BETWEEN: <DosageExtracorporal, Vehicle>: μl of	-9.998150645820743E-4
+WORDS BETWEEN: <DosageExtracorporal, BrainDerivedNeurotrophicFactor>: of	-9.998167642692947E-4
+WORDS BETWEEN: <Cell, InjectionDelivery>: suspensions were	-9.998255626963912E-4
+WORDS BETWEEN: <DosageExtracorporal, DosageExtracorporal>: ) in	-9.998360609209385E-4
+WORDS BETWEEN: <CyclosporineA, DosageExtracorporal>: and	-9.998573576579216E-4
+WORDS BETWEEN: <DosageExtracorporal, DosageExtracorporal>: of cyclosporine and	-9.998573576579216E-4
+WORDS BETWEEN: <Cell, OlfactoryEnsheathingGliaCell>: )	-9.998593573748316E-4
+WORDS BETWEEN: <Cell, InjectionDelivery>: ) suspension was	-9.998593573748316E-4
+WORDS BETWEEN: <Vehicle, InjectionDelivery>: (+) was	-9.998629568753483E-4
+WORDS BETWEEN: <SchwannCell, Vehicle>: , or	-9.99864056725313E-4
+WORDS BETWEEN: <Caudal, DosageExtracorporal>: (L4	-9.998651565764876E-4
+WORDS BETWEEN: <Direction, Direction>: and the	-9.998773550069988E-4
+WORDS BETWEEN: <InjectionDelivery, OlfactoryEnsheathingGliaCell>: ; (3)	-9.998838542315631E-4
+WORDS BETWEEN: <Vehicle, Rostral>: injections were placed	-9.99884954104515E-4
+WORDS BETWEEN: <OlfactoryEnsheathingGliaCell, Vehicle>: , non-transduced OEG or	-9.998853540586156E-4
+WORDS BETWEEN: <OlfactoryEnsheathingGliaCell, MesenchymalStemCell>: and 3 × 105	-9.998864539332174E-4
+WORDS BETWEEN: <InjectionDelivery, OlfactoryEnsheathingGliaCell>: (3 × 105	-9.998865539218775E-4
+WORDS BETWEEN: <OlfactoryEnsheathingGliaCell, Tissue>: and	-9.999250502990072E-4
+WORDS BETWEEN: <Rostral, Caudal>: to 4 mm	-9.999261502172748E-4
+NO WORDS BETWEEN: <Saline, Vehicle> 	-9.99936549504327E-4
+NO WORDS BETWEEN: <Saline, Saline> 	-9.999366494979965E-4
+WORDS BETWEEN: <DosageExtracorporal, OlfactoryEnsheathingGliaCell>: +	-9.999506487104487E-4
+WORDS BETWEEN: <OlfactoryEnsheathingGliaCell, Vehicle>: suspension or	-9.99952448623412E-4
+WORDS BETWEEN: <Vehicle, InjectionDelivery>: - 10S was	-9.99952448623412E-4
+WORDS BETWEEN: <Vehicle, Direction>: were made at the	-9.999648481118606E-4
+WORDS BETWEEN: <SchwannCell, SchwannCell>: (	-9.999697479520983E-4
+WORDS BETWEEN: <OlfactoryEnsheathingGliaCell, DosageExtracorporal>: ).	-9.999708479195334E-4
+WORDS BETWEEN: <SchwannCell, OlfactoryEnsheathingGliaCell>: (	-9.999718478909789E-4
+WORDS BETWEEN: <OlfactoryEnsheathingGliaCell, Rostral>: treatment on the SPNs	-9.999877475713125E-4
+WORDS BETWEEN: <Cell, Rostral>: injections at 1 mm	-9.999900475460013E-4
+NO WORDS BETWEEN: <Cell, InjectionDelivery> 	-9.999901475450208E-4
+WORDS BETWEEN: <InjectionDelivery, Rostral>: at 1 mm	-9.999901475450208E-4
+WORDS BETWEEN: <OlfactoryEnsheathingGliaCell, InjectionDelivery>: /ONF	-9.999901475450208E-4
+WORDS BETWEEN: <InjectionDelivery, Direction>: into the	-9.999912475348951E-4
+NO WORDS BETWEEN: <InjectionDelivery, InjectionDelivery> 	-0.0010000804402455054
+WORDS BETWEEN: <OlfactoryEnsheathingGliaCell, Vehicle>: or	-0.0010002863913144689
+WORDS BETWEEN: <Rostral, Caudal>: and 0.5 mm	-0.0019994953599833942
+NO WORDS BETWEEN: <InjectionDelivery, DosageExtracorporal> 	-0.001999497059566426
+WORDS BETWEEN: <CyclosporineA, DosageExtracorporal>: (	-0.0019995744416075084
+WORDS BETWEEN: <StemCell, OlfactoryEnsheathingGliaCell>: +	-0.001999786109718366
+WORDS BETWEEN: <Vehicle, Vehicle>: alone (group	-0.001999843001142088
+WORDS BETWEEN: <InjectionDelivery, Caudal>: 1 mm rostral and	-0.0019998518000345967
+WORDS BETWEEN: <OlfactoryEnsheathingGliaCell, OlfactoryEnsheathingGliaCell>: and ONFs The	-0.001999860702382742
+WORDS BETWEEN: <Cell, OlfactoryEnsheathingGliaCell>: The	-0.0019998607023928514
+WORDS BETWEEN: <OlfactoryEnsheathingGliaCell, Vehicle>: , or	-0.001999940795865421
+WORDS BETWEEN: <OlfactoryEnsheathingGliaCell, MesenchymalStemCell>: and	-0.001999970795205298
+WORDS BETWEEN: <Cell, Cell>: The OECs and	-0.0029996017833903627
+WORDS BETWEEN: <Vehicle, OlfactoryEnsheathingGliaCell>: containing	-0.002999661461562154
+WORDS BETWEEN: <RingersSolution, InjectionDelivery>: solution were	-0.0029997561523793983
+WORDS BETWEEN: <DosageExtracorporal, MesenchymalStemCell>: OECs and	-0.0029998549494223508
+NO WORDS BETWEEN: <InjectionDelivery, OlfactoryEnsheathingGliaCell> 	-0.003999436046835614
+WORDS BETWEEN: <InjectionDelivery, Vehicle>: of	-0.003999524437343522
+WORDS BETWEEN: <Tissue, DeliveryMethod>: tissue was	-0.003999604614203928
+WORDS BETWEEN: <Tissue, DeliveryMethod>: or RLP tissue was	-0.003999604614203928
+WORDS BETWEEN: <DosageExtracorporal, InjectionDelivery>: cells were	-0.003999646206778413
+WORDS BETWEEN: <OlfactoryEnsheathingGliaCell, InjectionDelivery>: was	-0.004999055631908924
+NO WORDS BETWEEN: <Vehicle, InjectionDelivery> 	-0.004999689652295315
+WORDS BETWEEN: <InjectionDelivery, OlfactoryEnsheathingGliaCell>: with	-0.005999463325305348

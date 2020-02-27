@@ -1,0 +1,289 @@
+GroupNames in Same Sentence: 4WDC, 4WDT	0.009997164700500001
+GroupNames in Same Sentence: 2WDC, 2WDT	0.009997162701067066
+GroupNames in Same Sentence: uninfected OEG, AdV-LacZ-transduced OEG	0.004998855926305406
+GroupNames in Same Sentence: OEC, DMEMinjected animals	0.004998848028223917
+GroupNames in Same Sentence: OECs-transplanted rats, DMEMinjected animals	0.004998848028223917
+GroupNames in Same Sentence: OEC, OECs-transplanted rats	0.004998847528339091
+GroupNames in Same Sentence: OECs treated group, BMSCs treated group	0.004998844229206788
+GroupNames in Same Sentence: BMSCs groups, cotransplant groups	0.004998842729553598
+GroupNames in Same Sentence: control group, BMSCs treated	0.004998841729785055
+GroupNames in Same Sentence: sham group, BMSCs treated	0.004998841729785055
+GroupNames in Same Sentence: OECs treated, BMSCs treated	0.004998841729785055
+GroupNames in Same Sentence: control group, OECs treated	0.004998841229900858
+GroupNames in Same Sentence: sham group, OECs treated	0.004998841229900858
+GroupNames in Same Sentence: sham group, control group	0.004998840730016711
+GroupNames in Same Sentence: acute OEC transplant, 1 week delayed transplant	0.004998838430636644
+GroupNames in Same Sentence: delayed transplant, acute OEC graft	0.004998836431101476
+GroupNames in Same Sentence: group OECac, group OECdl	0.004998834631552526
+GroupNames in Same Sentence: OECac, OECdl group	0.004998833631785602
+GroupNames in Same Sentence: DMac, DMdl	0.004998833131902215
+GroupNames in Same Sentence: OEC-treated animals, fibroblast-treated animals	0.0049988282331982405
+GroupNames in Same Sentence: GFP-OEC-transplanted group, fibroblast-transplanted group	0.004998827233432596
+GroupNames in Same Sentence: OEC-transplanted group, fibroblast-transplanted groupwas	0.004998826233667152
+GroupNames in Same Sentence: a-OEC LT, b-OEC ST	0.004998820934955351
+GroupNames in Same Sentence: a-OEC ST, b-OEC ST	0.004998820934955351
+GroupNames in Same Sentence: SCI, b-OEC ST	0.004998820934955351
+GroupNames in Same Sentence: a-OEC ST, a-OEC LT	0.004998820435073234
+GroupNames in Same Sentence: SCI, a-OEC LT	0.004998820435073234
+GroupNames in Same Sentence: SCI, a-OEC ST	0.0049988199351911665
+GroupNames in Same Sentence: control, OEC-transplanted animals	0.004998813936695331
+GroupNames in Same Sentence: Control animals, DM group	0.004998810337529358
+GroupNames in Same Sentence: controls, OEC group	0.004998799940174258
+GroupNames in Same Sentence: OEG, MSC	0.004998791342318936
+GroupNames in Same Sentence: group OEC, group SC	0.004998783444395057
+GroupNames in Same Sentence: DM, control group	0.004998781244963581
+GroupNames in Same Sentence: OEC, SC	0.004998779745329286
+GroupNames in Same Sentence: OEC group, media group	0.004998773746796606
+GroupNames in Same Sentence: repaired rats, sham control rats	0.004998770747532966
+GroupNames in Same Sentence: controls, cABC-treated rats	0.004998756451400974
+GroupNames in Same Sentence: control group, graft-only group	0.004998755951525305
+GroupNames in Same Sentence: cABC, graft-only group	0.004998755951525305
+GroupNames in Same Sentence: cABC, control group	0.004998755451649686
+GroupNames in Same Sentence: untreated, grafts only	0.004998754951774117
+GroupNames in Same Sentence: OEG-LacZ transplants, groups that received vehicle injections	0.004998748453316732
+GroupNames in Same Sentence: OEG-LacZ, non-modified OEG	0.004998745054189669
+GroupNames in Same Sentence: Group B, Group C	0.004998739555572598
+GroupNames in Same Sentence: Md treated group, Purified OM treated groups	0.004998734756892007
+GroupNames in Same Sentence: Primary OB, Primary OM	0.0049987292582862625
+GroupNames in Same Sentence: controls, OEG-treated rats	0.004998716961805188
+GroupNames in Same Sentence: DCG, OTG	0.004998716461933468
+GroupNames in Same Sentence: TCG, OTG	0.004998716461933468
+GroupNames in Same Sentence: TCG, DCG	0.004998715962061798
+GroupNames in Same Sentence: control lesions, transplanted with pig OECs	0.004998712462961508
+GroupNames in Same Sentence: controls, injury alone	0.004998675172906879
+GroupNames in Same Sentence: OEG, SCs	0.004998673273431793
+GroupNames in Same Sentence: 2WDT group, 4WDC group	0.004998664775693623
+GroupNames in Same Sentence: the2WDTgroup, the2WDCgroup	0.0049986632760942685
+GroupNames in Same Sentence: 2WDC, 4WDT	0.004998662276361616
+GroupNames in Same Sentence: 2WDT, 4WDT	0.004998662276361616
+GroupNames in Same Sentence: AC, 4WDT	0.004998662276361616
+GroupNames in Same Sentence: 2WDC, 4WDC	0.004998661776495364
+GroupNames in Same Sentence: 2WDT, 4WDC	0.004998661776495364
+GroupNames in Same Sentence: AC, 4WDC	0.004998661776495364
+GroupNames in Same Sentence: AC, 2WDT	0.004998661276629163
+GroupNames in Same Sentence: AC, 2WDC	0.004998660776763012
+GroupNames in Same Sentence: DMEM-injected group, OEC transplanted group	0.004998647380531934
+GroupNames in Same Sentence: sham injection, transplantation groups	0.0049986463808024606
+GroupNames in Same Sentence: lesion with transplantation of CM-filled capsules, lesion with transplantation of CM-filled capsules and injections of CM	0.004998642781843447
+GroupNames in Same Sentence: EC-injected, EC-encapsulated groups	0.004998640982430975
+GroupNames in Same Sentence: control, CM-injected group	0.00499863998270278
+GroupNames in Same Sentence: OECs-rats, OECs-transplanted rats	0.0049986318850643256
+GroupNames in Same Sentence: DMEM-rats, OECs-transplanted rats	0.0049986318850643256
+GroupNames in Same Sentence: OECs-rats, DMEM-rats	0.004998630385474838
+GroupNames in Same Sentence: group with OLP transplant, group with RLP transplants	0.004998612390513168
+GroupNames in Same Sentence: OM group, RM group	0.00499860609238494
+GroupNames in Same Sentence: hemi-diaphragmofMEDIUMgroup.However, theOEC groups	0.004998600893957478
+GroupNames in Same Sentence: MEDIUM animals, transplanted animals	0.004998598394657413
+GroupNames in Same Sentence: MEDIUM, OEC rat	0.004998597394937736
+GroupNames in Same Sentence: control group, OEC group	0.004998592496335683
+GroupNames in Same Sentence: medium-injected group, OEC group	0.004998592496335683
+GroupNames in Same Sentence: control group, medium-injected group	0.004998591996476409
+GroupNames in Same Sentence: Control, mediuminjected groups	0.004998589997039816
+GroupNames in Same Sentence: OEC, ESMN	0.004998588997321819
+GroupNames in Same Sentence: control animals, transplanted test group	0.004998586498027701
+GroupNames in Same Sentence: cell-treated group, control untreated group	0.004998585998169027
+GroupNames in Same Sentence: control, test	0.004998582999018036
+GroupNames in Same Sentence: Control animals, experimental ones	0.004998579000152847
+GroupNames in Same Sentence: experimental, control rats	0.004998578000437049
+GroupNames in Same Sentence: SCIonly rats, control group	0.00499856980291691
+GroupNames in Same Sentence: G1, SCI-only	0.004998567303632389
+GroupNames in Same Sentence: media-trained animals, OEG-untrained rats	0.004998560006047993
+GroupNames in Same Sentence: media-untrained, media-trained	0.00499855550742231
+GroupNames in Same Sentence: sham group, SCT rats	0.004998542211579935
+GroupNames in Same Sentence: SCT one, OECs transplantationgroup	0.004998541211871496
+GroupNames in Same Sentence: SCT, sham one	0.004998540212163256
+GroupNames in Same Sentence: NSCs, OECs	0.0049985382127473756
+GroupNames in Same Sentence: control ones, OEC treated group	0.0049985355136377444
+GroupNames in Same Sentence: control, NIMSC group	0.004998532614509375
+GroupNames in Same Sentence: NIMSCs, OECs	0.004998531614802854
+GroupNames in Same Sentence: group DM-NS, group DM-AG	0.004998525217030943
+GroupNames in Same Sentence: OEC-NS, DM-AG	0.0049985230177810635
+GroupNames in Same Sentence: DM-NS, DM-AG	0.0049985230177810635
+GroupNames in Same Sentence: DM-NS, OEC-NS	0.004998522517928738
+GroupNames in Same Sentence: OEC-treated group, control group	0.004998519518815835
+GroupNames in Same Sentence: low-dose OEC-M group, high-dose OEC-M group	0.004998512520892724
+GroupNames in Same Sentence: Con-M, high dose	0.004998509721759576
+GroupNames in Same Sentence: 2WDT—rats, 4WDT—rats	0.004998505223257194
+GroupNames in Same Sentence: 2WDC—rats, 4WDT—rats	0.004998505223257194
+GroupNames in Same Sentence: 4WDC—rats, 4WDT—rats	0.004998505223257194
+GroupNames in Same Sentence: AC—rats, 4WDT—rats	0.004998505223257194
+GroupNames in Same Sentence: AT—rats, 4WDT—rats	0.004998505223257194
+GroupNames in Same Sentence: AC—rats, 2WDC—rats	0.004998503923689477
+GroupNames in Same Sentence: AT—rats, 2WDC—rats	0.004998503923689477
+GroupNames in Same Sentence: AC—rats, AT—rats	0.004998503423839061
+GroupNames in Same Sentence: combination treatments, scar ablation and LP transplantation	0.004998498525285012
+GroupNames in Same Sentence: SC, OEC	0.004998487128840979
+GroupNames in Same Sentence: DMEM, OEC	0.004998487128840979
+GroupNames in Same Sentence: DMEM, SC	0.004998486628992242
+GroupNames in Same Sentence: animals that received OECs, rats that had received LP-OEC	0.004998483629989643
+GroupNames in Same Sentence: treated animals, control group	0.004998481130748209
+GroupNames in Same Sentence: SCs rats, OECs rats	0.0049984715338174035
+GroupNames in Same Sentence: OECs group, SCs group	0.004998470034276022
+GroupNames in Same Sentence: DMEM-injected animals, DMEM-injected rats	0.004998463036422191
+GroupNames in Same Sentence: OEC, DMEM-injected rats	0.004998463036422191
+GroupNames in Same Sentence: OEC, DMEM-injected animals	0.004998462536575863
+GroupNames in Same Sentence: SCI control rats, rats without basic treatments but with TANES	0.004998459537498948
+GroupNames in Same Sentence: medium, controls	0.004998442643044826
+GroupNames in Same Sentence: SCs, OEG	0.0049984416433563
+GroupNames in Same Sentence: SCI 22w, injury alone control rats	0.004998439144135859
+GroupNames in Same Sentence: SCI 6w, injury alone control rats	0.004998439144135859
+GroupNames in Same Sentence: SCI 22w, SCI 6w	0.0049984371447604065
+GroupNames in Same Sentence: containing NOM cells, human embryonal spinal cord-derived cells	0.004998433845836596
+GroupNames in Same Sentence: non-transplanted, controls	0.0049984225495657945
+GroupNames in Same Sentence: SCT, controls	0.0049984225495657945
+GroupNames in Same Sentence: SCT, non-transplanted	0.004998422049723516
+GroupNames in Same Sentence: injured-only control, SC grafted	0.003999186101056033
+GroupNames in Same Sentence: OECs, FBs	0.00399917310389153
+GroupNames in Same Sentence: mixture of both vectors, OEG implants transduced with AdV vectors encoding BDNF	0.003998881677349934
+GroupNames in Same Sentence: graft of normal OECs, graft of GDNF OECs	0.003998833991270111
+GroupNames in Same Sentence: DM-injected animals, animals with OEC transplantation	0.003998819895442698
+GroupNames in Same Sentence: controls, animals receiving the hOEC-derived transplants	0.0039988040002250985
+GroupNames in Same Sentence: cABC group, group with transplants	0.003998797402336925
+GroupNames in Same Sentence: non-transduced OEG, medium alone	0.003998786205639243
+GroupNames in Same Sentence: Primary OM treated animals, Primary OM treated group	0.003998778108143635
+GroupNames in Same Sentence: mocktransplanted rats, Unlesioned control rats	0.003998769410882056
+GroupNames in Same Sentence: TEG3 transplantation, unoperated controls	0.003998769011005096
+GroupNames in Same Sentence: transplantation, OEG-treated groups	0.003998762313178024
+GroupNames in Same Sentence: OEG-transplanted group, SCs-transplanted group	0.003998729923175229
+GroupNames in Same Sentence: treatment, control groups	0.0039987267241922584
+GroupNames in Same Sentence: OM transplantation rats, respiratory mucosa–transplanted rats	0.003998671942308232
+GroupNames in Same Sentence: medium-injected group, OEC + ESMN	0.0039986596464828324
+GroupNames in Same Sentence: control group, OEC + ESMN	0.0039986596464828324
+GroupNames in Same Sentence: OEC group, OEC + ESMN	0.0039986596464828324
+GroupNames in Same Sentence: SCIonly rats, rats in group SCI with cell seeded scaffold	0.003998642552264548
+GroupNames in Same Sentence: control group, rats in group SCI with cell seeded scaffold	0.003998642552264548
+GroupNames in Same Sentence: Media-trained rats, media-untrained animals	0.003998633455537415
+GroupNames in Same Sentence: media-trained, OEG-untrained	0.003998628857133914
+GroupNames in Same Sentence: media-untrained, OEG-untrained	0.003998628857133914
+GroupNames in Same Sentence: transplanted group, spinal rats	0.00399862305909157
+GroupNames in Same Sentence: group OEC-NS, group OEC-SS	0.003998605165706704
+GroupNames in Same Sentence: group OEC-AG, group OEC-SS	0.003998605165706704
+GroupNames in Same Sentence: theAT group, the2WDC group	0.003998588671635701
+GroupNames in Same Sentence: 2WDT group, 4WDT group	0.003998587871917968
+GroupNames in Same Sentence: 4WDT, 4WDC group	0.003998587072200396
+GroupNames in Same Sentence: 4WDC, 4WDC group	0.003998587072200396
+GroupNames in Same Sentence: AC, AC group	0.00399858667234167
+GroupNames in Same Sentence: AT—rats, 4WDC—rats	0.003998585872624338
+GroupNames in Same Sentence: 2WDC—rats, 4WDC—rats	0.003998585872624338
+GroupNames in Same Sentence: AC—rats, 4WDC—rats	0.003998585872624338
+GroupNames in Same Sentence: 2WDT—rats, 4WDC—rats	0.003998585872624338
+GroupNames in Same Sentence: 2WDC—rats, 2WDT—rats	0.003998585472765732
+GroupNames in Same Sentence: AT—rats, 2WDT—rats	0.003998585472765732
+GroupNames in Same Sentence: AC—rats, 2WDT—rats	0.003998585472765732
+GroupNames in Same Sentence: OECs rats, DMEM rats	0.00399855868242141
+GroupNames in Same Sentence: SCs rats, DMEM rats	0.00399855868242141
+GroupNames in Same Sentence: SC graft, OEG graft	0.003998537890059844
+GroupNames in Same Sentence: control, sham operated	0.003998520996357086
+GroupNames in Same Sentence: controls, OEG-transplanted rats	0.003998518997096892
+GroupNames in Same Sentence: SCT, OEG-transplanted rats	0.003998518997096892
+GroupNames in Same Sentence: non-transplanted, OEG-transplanted rats	0.003998518997096892
+GroupNames in Same Sentence: FB  CSA, OEC  CSA	0.0029992276540574256
+GroupNames in Same Sentence: rats transplanted with OECs, rats injected with DMEM alone	0.0029989922249501694
+GroupNames in Same Sentence: rats receiving acute, delayed OEC transplants	0.0029989814286308617
+GroupNames in Same Sentence: transplantation control group, damage control group	0.0029989068549826944
+GroupNames in Same Sentence: OTG, damage control group	0.0029989068549826944
+GroupNames in Same Sentence: DCG, damage control group	0.0029989068549826944
+GroupNames in Same Sentence: TCG, damage control group	0.0029989068549826944
+GroupNames in Same Sentence: DCG, transplantation control group	0.0029989065550919945
+GroupNames in Same Sentence: TCG, transplantation control group	0.0029989065550919945
+GroupNames in Same Sentence: OTG, transplantation control group	0.0029989065550919945
+GroupNames in Same Sentence: OEG treated rats, SCs grafted animals	0.0029988846627833376
+GroupNames in Same Sentence: OEGtransplanted group, SCstransplanted group	0.002998881264106142
+GroupNames in Same Sentence: OECs-rats, DMEM-injected animals	0.002998851275474902
+GroupNames in Same Sentence: DMEM-rats, DMEM-injected animals	0.002998851275474902
+GroupNames in Same Sentence: OECs-transplanted rats, DMEM-injected animals	0.002998851275474902
+GroupNames in Same Sentence: RM group, NC group	0.002998835081720159
+GroupNames in Same Sentence: OM group, NC group	0.002998835081720159
+GroupNames in Same Sentence: G3, SCI with cell seeded scaffold	0.0029988129903924135
+GroupNames in Same Sentence: G2, SCI + scaffold	0.0029988126905111
+GroupNames in Same Sentence: OEG-injected rats, OEG transplantation alone	0.002998808592182103
+GroupNames in Same Sentence: co-transplantation group, sham group.The	0.002998794098020431
+GroupNames in Same Sentence: group OEC-NS, group OEC-AG	0.002998783402408725
+GroupNames in Same Sentence: OEC-NS, DM-SS	0.002998780803475566
+GroupNames in Same Sentence: OEC-AG, DM-SS	0.002998780803475566
+GroupNames in Same Sentence: DM-AG, DM-SS	0.002998780803475566
+GroupNames in Same Sentence: DM-NS, DM-SS	0.002998780803475566
+GroupNames in Same Sentence: high dose, low dose OEC-M	0.002998772806748222
+GroupNames in Same Sentence: Con-M, low dose OEC-M	0.002998772806748222
+GroupNames in Same Sentence: OEC, co-transplantation group	0.0029987581128077434
+GroupNames in Same Sentence: SC, co-transplantation group	0.0029987581128077434
+GroupNames in Same Sentence: DMEM, co-transplantation group	0.0029987581128077434
+GroupNames in Same Sentence: SCs receiving animals, OECs receiving animals	0.0029987489166410004
+GroupNames in Same Sentence: controls, OECsinjected rats	0.002998748316891219
+GroupNames in Same Sentence: SC-containing, OEG-only grafts	0.002998731224095947
+GroupNames in Same Sentence: SC grafts, OEG grafts	0.00299873092422281
+GroupNames in Same Sentence: OEC-treatment alone, OEC + CSA	0.001999376295460837
+GroupNames in Same Sentence: OECcompared, FB-treated spinal cords	0.001999375495710401
+GroupNames in Same Sentence: fibroblasttransplanted animals, OECstransplanted animals	0.001999203656945584
+GroupNames in Same Sentence: OEC-transplanted animals, OECstransplanted animals	0.001999203656945584
+GroupNames in Same Sentence: OEC-transplanted animals, fibroblasttransplanted animals	0.0019992034570252087
+GroupNames in Same Sentence: graft of GDNF OECs, transection with no grafted OECs	0.001999193061193248
+GroupNames in Same Sentence: graft of normal OECs, transection with no grafted OECs	0.001999193061193248
+GroupNames in Same Sentence: transplanted, control injured rats	0.0019991846645992057
+GroupNames in Same Sentence: OEG treated rats, control injury only rats	0.001999143681521675
+GroupNames in Same Sentence: SCs grafted animals, control injury only rats	0.001999143681521675
+GroupNames in Same Sentence: SCs group, medium injected control sections	0.0019991430817786022
+GroupNames in Same Sentence: OEG transplanted rats, SCs transplanted animals	0.0019991406828081095
+GroupNames in Same Sentence: injury only, SCs transplanted rats	0.0019991402829799736
+GroupNames in Same Sentence: CM-injected group, Rats that received EC injections	0.001999123890095266
+GroupNames in Same Sentence: control, Rats that received EC injections	0.001999123890095266
+GroupNames in Same Sentence: MEDIUM, contused control rats	0.0019991064977913833
+GroupNames in Same Sentence: OEC rat, contused control rats	0.0019991064977913833
+GroupNames in Same Sentence: OEG transplantation alone, study.OEG transplantation combined with training	0.0019990911047291127
+GroupNames in Same Sentence: OEG-injected rats, study.OEG transplantation combined with training	0.0019990911047291127
+GroupNames in Same Sentence: while training alone, study.OEG transplantation combined with training	0.0019990911047291127
+GroupNames in Same Sentence: OEG-injected rats, while training alone	0.0019990909048199926
+GroupNames in Same Sentence: OEG transplantation alone, while training alone	0.0019990909048199926
+GroupNames in Same Sentence: media-trained, OEG-trained	0.0019990869066417913
+GroupNames in Same Sentence: OEG-untrained, OEG-trained	0.0019990869066417913
+GroupNames in Same Sentence: media-untrained, OEG-trained	0.0019990869066417913
+GroupNames in Same Sentence: co-transplantation rats.The, co-transplantation of NSCs with OECs	0.0019990819089189217
+GroupNames in Same Sentence: inco-transplantation rats, orOECs transplantation rats	0.0019990817090107214
+GroupNames in Same Sentence: co-transplantation NSCs withOECs, OECs transplanta-tion group	0.001999081509102541
+GroupNames in Same Sentence: OEC-SS rats, DM-SS-injected animals	0.001999074012565882
+GroupNames in Same Sentence: DM-SS, OEC-SS	0.001999071613678272
+GroupNames in Same Sentence: DM-NS, OEC-SS	0.001999071613678272
+GroupNames in Same Sentence: OEC-NS, OEC-SS	0.001999071613678272
+GroupNames in Same Sentence: DM-AG, OEC-SS	0.001999071613678272
+GroupNames in Same Sentence: OEC-AG, OEC-SS	0.001999071613678272
+GroupNames in Same Sentence: DM-AG, OEC-AG	0.0019990712138639507
+GroupNames in Same Sentence: DM-NS, OEC-AG	0.0019990712138639507
+GroupNames in Same Sentence: OEC-NS, OEC-AG	0.0019990712138639507
+GroupNames in Same Sentence: OECs transplanted rats, DMEM injected rats	0.0019990503236712053
+GroupNames in Same Sentence: damage control group, OEG transplantation group	9.995194629455128E-4
+GroupNames in Same Sentence: transplantation control group, OEG transplantation group	9.995194629455128E-4
+GroupNames in Same Sentence: DCG, OEG transplantation group	9.995194629455128E-4
+GroupNames in Same Sentence: TCG, OEG transplantation group	9.995194629455128E-4
+GroupNames in Same Sentence: OTG, OEG transplantation group	9.995194629455128E-4
+GroupNames in Same Sentence: FB, OEC	-0.004998591774398228
+GroupNames in Same Sentence: medium, medium	-0.007996956859184598
+GroupNames in Same Sentence: controls, medium	-0.007996956859184598
+GroupNames in Same Sentence: BDNF–DMEM, BDNF–OEC	-0.007997077091255127
+GroupNames in Same Sentence: group OECdl, OECac	-0.007997278893213182
+GroupNames in Same Sentence: group OECac, OECac	-0.007997278893213182
+GroupNames in Same Sentence: controls, SCT	-0.008996610868999643
+GroupNames in Same Sentence: SCT, SCT	-0.008996610868999643
+GroupNames in Same Sentence: OEG-transplanted rats, SCT	-0.008996610868999643
+GroupNames in Same Sentence: non-transplanted, SCT	-0.008996610868999643
+GroupNames in Same Sentence: 2WDC, 2WDC	-0.008996638555655523
+GroupNames in Same Sentence: 2WDT, 2WDC	-0.008996638555655523
+GroupNames in Same Sentence: BMSCs treated group, control group	-0.008997067461560093
+GroupNames in Same Sentence: OECs treated group, control group	-0.008997067461560093
+GroupNames in Same Sentence: SC, SC	-0.008997712954304033
+GroupNames in Same Sentence: untransfected OEG, untreated	-0.008998746545631004
+GroupNames in Same Sentence: Medium group, Md	-0.00999681977996565
+GroupNames in Same Sentence: CM, ECs	-0.01099636262628138
+GroupNames in Same Sentence: DM group, OEC	-0.010996793802682528
+GroupNames in Same Sentence: OEG and MSC, OEG	-0.011996583370640253
+GroupNames in Same Sentence: b-OEC ST, SCI	-0.01399649805490796
+GroupNames in Same Sentence: SCI, SCI	-0.01399649805490796
+GroupNames in Same Sentence: a-OEC LT, SCI	-0.01399649805490796
+GroupNames in Same Sentence: a-OEC ST, SCI	-0.01399649805490796
+GroupNames in Same Sentence: spinal, spinal	-0.01499565062673253
+GroupNames in Same Sentence: lesion-alone group, lesion-alone	-0.014995852167385674
+GroupNames in Same Sentence: transplanted groups, control	-0.014995886657657446
+GroupNames in Same Sentence: experimental animals, control	-0.014996101097518644
+GroupNames in Same Sentence: controls, OEC	-0.014996140388112636
+GroupNames in Same Sentence: media, media	-0.014996324239654715
+GroupNames in Same Sentence: experimental group, control group	-0.01499642501401636
+GroupNames in Same Sentence: DMEM, DMEM	-0.0269921243358806

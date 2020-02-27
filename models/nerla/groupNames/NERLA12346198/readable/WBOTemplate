@@ -1,0 +1,61 @@
+WBO <EntityType [entityTypeName=CuttingDevice], EntityType [entityTypeName=PartialTransection]> was used to	0.006997557943173901
+WBO <EntityType [entityTypeName=CompleteTransection], EntityType [entityTypeName=Scissors]> at T8 using	0.005998678177677171
+WBO <EntityType [entityTypeName=Contusion], EntityType [entityTypeName=T10]> injury was performed at	0.005998129760854258
+WBO <EntityType [entityTypeName=T8], EntityType [entityTypeName=PhotochemicalInjury]> vertebra and a	0.005998020064257845
+WBO <EntityType [entityTypeName=T10], EntityType [entityTypeName=NYUImpactor]> segment using the	0.0059978519262010414
+WBO <EntityType [entityTypeName=Compression], EntityType [entityTypeName=T12]> was performed at	0.005997681466242194
+WBO <EntityType [entityTypeName=C4], EntityType [entityTypeName=LateralHemisection]> spinal cord segment were	0.004998548073013067
+WBO <EntityType [entityTypeName=Injury], EntityType [entityTypeName=InjuryDevice]> produced by a	0.004997949093454136
+WBO <EntityType [entityTypeName=CompleteTransection], EntityType [entityTypeName=Scissors]> at two levels using	0.003999569918403501
+WBO <EntityType [entityTypeName=DorsalHemisection], EntityType [entityTypeName=Scissors]> was performed using sharp	0.003999358560224699
+WBO <EntityType [entityTypeName=Contusion], EntityType [entityTypeName=WeightDrop]> was induced by the	0.003998673667059803
+WBO <EntityType [entityTypeName=Laminectomy], EntityType [entityTypeName=T11]> was performed at	0.003998575978562999
+WBO <EntityType [entityTypeName=Halothane], EntityType [entityTypeName=NitrousOxide]> and O2/	0.00399822839380024
+WBO <EntityType [entityTypeName=Contusion], EntityType [entityTypeName=MASCISImpactor]> was induced by the	0.0029991171376541116
+WBO <EntityType [entityTypeName=LateralHemisection], EntityType [entityTypeName=Scissors]> was transected using	0.002999016632475156
+WBO <EntityType [entityTypeName=LateralHemisection], EntityType [entityTypeName=T11]> was performed at	0.0019995876401591073
+WBO <EntityType [entityTypeName=Compression], EntityType [entityTypeName=C4]> at spinal level	0.0019989904497801324
+WBO <EntityType [entityTypeName=DorsalHemisection], EntityType [entityTypeName=T11]> at vertebral level	0.001998233455272153
+WBO <EntityType [entityTypeName=DorsalHemisection], EntityType [entityTypeName=T6]> lesion was performed at	9.99987647572533E-4
+WBO <EntityType [entityTypeName=Vibraknife], EntityType [entityTypeName=DorsalHemisection]> base. A C3	9.999179508556608E-4
+WBO <EntityType [entityTypeName=LateralHemisection], EntityType [entityTypeName=Scissors]> with a pair of	9.994137193699577E-4
+WBO <EntityType [entityTypeName=PartialTransection], EntityType [entityTypeName=LateralHemisection]> gap of the spinal	9.990488013886542E-4
+WBO <EntityType [entityTypeName=Compression], EntityType [entityTypeName=Forceps]> with jeweler’s	-9.994892779105853E-4
+WBO <EntityType [entityTypeName=NYUImpactor], EntityType [entityTypeName=MASCISImpactor]> with a dropping	-9.9950546976962E-4
+WBO <EntityType [entityTypeName=Contusion], EntityType [entityTypeName=NYUImpactor]> using the NYU	-9.995996276288173E-4
+WBO <EntityType [entityTypeName=Contusion], EntityType [entityTypeName=MASCISImpactor]> injuries (10 g	-9.996089239494885E-4
+WBO <EntityType [entityTypeName=PhotochemicalInjury], EntityType [entityTypeName=T8]> was completely transected at	-9.996278167385298E-4
+WBO <EntityType [entityTypeName=T9], EntityType [entityTypeName=NYUImpactor]> ) contusion by the	-9.996533075753485E-4
+WBO <EntityType [entityTypeName=Contusion], EntityType [entityTypeName=NYUImpactor]> were contused using an	-9.996827977857758E-4
+WBO <EntityType [entityTypeName=Xylazine], EntityType [entityTypeName=T10]> mixture (90/	-9.99712888693789E-4
+WBO <EntityType [entityTypeName=LateralHemisection], EntityType [entityTypeName=PartialTransection]> , which aimed to	-9.997226859290596E-4
+WBO <EntityType [entityTypeName=LateralHemisection], EntityType [entityTypeName=Scissors]> was cut by	-9.99729184148271E-4
+WBO <EntityType [entityTypeName=Blade], EntityType [entityTypeName=DorsalHemisection]> . Possible remaining adhesions	-9.997386816215593E-4
+WBO <EntityType [entityTypeName=Contusion], EntityType [entityTypeName=NYUImpactor]> model was established by	-9.997450799702201E-4
+WBO <EntityType [entityTypeName=NYUImpactor], EntityType [entityTypeName=T8]> by clamping the	-9.997586765970903E-4
+WBO <EntityType [entityTypeName=CompleteTransection], EntityType [entityTypeName=T8]> level 8 (	-9.997673745362607E-4
+WBO <EntityType [entityTypeName=Xylazine], EntityType [entityTypeName=Anaesthetic]> , and 0.09 mg	-9.997860703627928E-4
+WBO <EntityType [entityTypeName=KetamineAsAnaesthetic], EntityType [entityTypeName=Xylazine]> , 0.51 mg	-9.997861703414145E-4
+WBO <EntityType [entityTypeName=Anaesthetic], EntityType [entityTypeName=KetamineAsAnaesthetic]> (2.57 mg	-9.997863702986879E-4
+WBO <EntityType [entityTypeName=LateralHemisection], EntityType [entityTypeName=Scissors]> was transected using angled	-9.99832561500508E-4
+WBO <EntityType [entityTypeName=LateralHemisection], EntityType [entityTypeName=DorsalHemisection]> using an iridectome and	-9.998329614336516E-4
+WBO <EntityType [entityTypeName=NYUImpactor], EntityType [entityTypeName=CompleteTransection]> weight-drop device versus	-9.998478590572163E-4
+WBO <EntityType [entityTypeName=DorsalHemisection], EntityType [entityTypeName=C4]> transplanted into a rat	-9.998634568070004E-4
+WBO <EntityType [entityTypeName=Scissors], EntityType [entityTypeName=CompleteTransection]> and cut out 1	-9.999354495746203E-4
+WBO <EntityType [entityTypeName=Anaesthetic], EntityType [entityTypeName=KetamineAsAnaesthetic]> with i.p.	-9.999480488418885E-4
+WBO <EntityType [entityTypeName=DorsalHemisection], EntityType [entityTypeName=Blade]> was performed using	-9.99972447874326E-4
+WBO <EntityType [entityTypeName=T11], EntityType [entityTypeName=Scissors]> using a pair of	-9.999812476714444E-4
+WBO <EntityType [entityTypeName=T7], EntityType [entityTypeName=AspirationLesion]> was gently removed via	-0.0019992139494276243
+WBO <EntityType [entityTypeName=Anaesthetic], EntityType [entityTypeName=T10]> ), a	-0.0019992765574643836
+WBO <EntityType [entityTypeName=Xylazine], EntityType [entityTypeName=Xylazine]> cocktail (Ketamine	-0.001999357098285007
+WBO <EntityType [entityTypeName=LateralHemisection], EntityType [entityTypeName=Blade]> at T8 using a	-0.0019998895980313895
+WBO <EntityType [entityTypeName=Laminectomy], EntityType [entityTypeName=VertebralArea]> was performed between	-0.001999987795030944
+WBO <EntityType [entityTypeName=PartialTransection], EntityType [entityTypeName=PartialTransection]> gap of the	-0.002998483725654948
+WBO <EntityType [entityTypeName=Scissors], EntityType [entityTypeName=PartialTransection]> was used to bilaterally	-0.0029985547905682906
+WBO <EntityType [entityTypeName=LateralHemisection], EntityType [entityTypeName=Scissors]> with a fine	-0.0029986156618543192
+WBO <EntityType [entityTypeName=Scissors], EntityType [entityTypeName=C2]> , at the	-0.002998617760886222
+WBO <EntityType [entityTypeName=PartialTransection], EntityType [entityTypeName=CompleteTransection]> gap of the spinal	-0.0029995099824684573
+WBO <EntityType [entityTypeName=Contusion], EntityType [entityTypeName=NYUImpactor]> was induced by the	-0.002999626579932697
+WBO <EntityType [entityTypeName=T9], EntityType [entityTypeName=WeightDrop]> level was performed.	-0.003998220785634154
+WBO <EntityType [entityTypeName=Compression], EntityType [entityTypeName=T10]> injury at the	-0.003999006684600447
+WBO <EntityType [entityTypeName=KetamineAsAnaesthetic], EntityType [entityTypeName=KetamineAsAnaesthetic]> : xylazine cocktail (	-0.004998572685664819

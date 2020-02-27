@@ -1,0 +1,443 @@
+GroupName 	0.02199741935884993
+GroupName DM	0.010999407742063818
+GroupName MEDIUM	0.006999691541230958
+GroupName OEC	0.006999375358353299
+GroupName NOM	0.005999769692360921
+GroupName group	0.0059997593967564735
+GroupName sham	0.005999594099947306
+GroupName SA	0.004999898738703322
+GroupName other animal	0.004999818542424866
+GroupName animal groups	0.004999818542424866
+GroupName other animal groups	0.004999818542424866
+GroupName MP	0.004999818343454381
+GroupName group DM	0.004999768843825052
+GroupName 2WDT	0.0049997480460912186
+GroupName co-graft	0.0049997387469498935
+GroupName DM group	0.004999726746890965
+GroupName OLP	0.004999702248630025
+GroupName rats	0.0049996816472898924
+GroupName SA rats	0.003999930790695327
+GroupName MP group	0.003999905492167765
+GroupName 2WDT group	0.003999835094813301
+GroupName controls	0.003999828595178617
+GroupName sham rats	0.003999805094883026
+GroupName MSC	0.003999776197720873
+GroupName NSCs	0.003999775197561096
+GroupName TCG	0.0039997245005558
+GroupName OEC group	0.003999612204300799
+GroupName treatment group	0.0029999548430184875
+GroupName transplant	0.002999939444051164
+GroupName sham controls	0.002999917844061056
+GroupName 4WDC	0.0029999091445962658
+GroupName 4WDC group	0.0029999091445962658
+GroupName human	0.0029999086450247857
+GroupName human NOM	0.0029999086450247857
+GroupName OEC-rolipram groups	0.002999897844997698
+GroupName OEC transplantation group	0.0029998950447934505
+GroupName transplantation group	0.0029998950447934505
+GroupName 2WDC	0.0029998904458038204
+GroupName OEC treated	0.0029998899452443072
+GroupName control rats	0.0029998747460709256
+GroupName SCT	0.0029998604473468553
+GroupName animal	0.0029998560470559663
+GroupName cABC	0.002999846947987324
+GroupName MEDIUM group	0.002999831847972068
+GroupName lesion only animals	0.0029998205487228435
+GroupName only animals	0.0029998205487228435
+GroupName BH	0.0029997887502682752
+GroupName OM	0.002999765551012171
+GroupName OTG	0.002999754452617293
+GroupName plus	0.0019999834950825256
+GroupName lesion plus	0.0019999834950825256
+GroupName OEC treatment group	0.0019999825951386493
+GroupName OEC treatment	0.00199998239514986
+GroupName DMEMinjected animals	0.0019999762951878205
+GroupName DMEMinjected	0.0019999762951878205
+GroupName DMEM animals	0.0019999761951868013
+GroupName medium	0.0019999732947692836
+GroupName group with	0.0019999725951815395
+GroupName group with OLP	0.0019999725951815395
+GroupName with OLP	0.0019999725951815395
+GroupName group with OLP transplant	0.0019999725951815395
+GroupName with OLP transplant	0.0019999725951815395
+GroupName OLP transplant	0.0019999725951815395
+GroupName MEDIUM animals	0.0019999667953403966
+GroupName of	0.001999966795267298
+GroupName injections	0.001999966795267298
+GroupName injections of	0.001999966795267298
+GroupName OEC rats	0.001999966195685027
+GroupName EC	0.0019999615956750373
+GroupName EC group	0.0019999615956750373
+GroupName PNFB	0.001999935796344983
+GroupName hSCI	0.001999928896590473
+GroupName hSCI group	0.001999928896590473
+GroupName GDNF OECs	0.001999922396576659
+GroupName the2WDTgroup	0.0019999089978432324
+GroupName test group	0.0019999076972024685
+GroupName SCs group	0.001999906197267455
+GroupName toMEDIUMgroup	0.0019998933979093222
+GroupName MEDIUM rats	0.001999893397907503
+GroupName other	0.0019998892993077716
+GroupName EPI-NCSCs	0.001999886799648035
+GroupName POEG-transplanted	0.0019998781986920572
+GroupName Group B	0.001999873099100808
+GroupName the2WDCgroup	0.001999872099162501
+GroupName contused	0.0019998532000805817
+GroupName treated	0.00199985130074558
+GroupName GDNF	0.0019998315002794954
+GroupName sham group	0.001999808602925293
+GroupName only	0.0019998018035356615
+GroupName media	0.0019997684053694965
+GroupName lesion plus transplant group	9.999964475034093E-4
+GroupName plus transplant group	9.999964475034093E-4
+GroupName lesion plus transplant group animals	9.999964475034093E-4
+GroupName plus transplant group animals	9.999964475034093E-4
+GroupName transplant group animals	9.999964475034093E-4
+GroupName group animals	9.999964475034093E-4
+GroupName transplant group	9.9999634750649E-4
+GroupName lesion plus transplant	9.9999634750374E-4
+GroupName plus transplant	9.9999634750374E-4
+GroupName LacZ-expressing OECs	9.999925475351686E-4
+GroupName SCT animals	9.999922475267403E-4
+GroupName Unlesioned	9.999897475490027E-4
+GroupName Unlesioned control	9.999897475490027E-4
+GroupName Unlesioned control rats	9.999897475490027E-4
+GroupName control lesions	9.999890475563562E-4
+GroupName lesions	9.999890475563562E-4
+GroupName non-transplanted	9.999885475619086E-4
+GroupName non-transplanted rats	9.999885475619086E-4
+GroupName RB5	9.999884475630492E-4
+GroupName group RB5	9.999884475630492E-4
+GroupName OEC transplantation	9.999883465341354E-4
+GroupName untreated controls	9.999877475713125E-4
+GroupName MatrigelR only controls	9.99987247577515E-4
+GroupName lesion MatrigelR only controls	9.99987247577515E-4
+GroupName MatrigelR	9.99987247577515E-4
+GroupName only controls	9.99987247577515E-4
+GroupName lesion MatrigelR	9.99987247577515E-4
+GroupName MatrigelR only	9.99987247577515E-4
+GroupName lesion MatrigelR only	9.99987247577515E-4
+GroupName plus engraftment	9.999871475787855E-4
+GroupName lesion plus engraftment	9.999871475787855E-4
+GroupName plus engraftment group	9.999871475787855E-4
+GroupName lesion plus engraftment group	9.999871475787855E-4
+GroupName engraftment group	9.999871475787855E-4
+GroupName engraftment	9.999871475787855E-4
+GroupName OECs treated	9.99986047593421E-4
+GroupName OECs treated group	9.99986047593421E-4
+GroupName injections of OEC-conditioned	9.999834476328237E-4
+GroupName of OEC-conditioned	9.999834476328237E-4
+GroupName injections of OEC-conditioned medium	9.999834476328237E-4
+GroupName of OEC-conditioned medium	9.999834476328237E-4
+GroupName injections of OECconditioned	9.999833476344742E-4
+GroupName of OECconditioned	9.999833476344742E-4
+GroupName OECconditioned	9.999833476344742E-4
+GroupName injections of OECconditioned medium	9.999833476344742E-4
+GroupName of OECconditioned medium	9.999833476344742E-4
+GroupName OECconditioned medium	9.999833476344742E-4
+GroupName OEC-conditioned medium	9.99982947641276E-4
+GroupName OECsinjected	9.99981547665893E-4
+GroupName OECsinjected rats	9.99981547665893E-4
+GroupName media-injected	9.999813477244437E-4
+GroupName DMEM-injected animals	9.999807476779572E-4
+GroupName co-injected	9.999803476886387E-4
+GroupName co-injected animals	9.999803476886387E-4
+GroupName OECs-injected	9.9998014769085E-4
+GroupName OECs-injected group	9.9998014769085E-4
+GroupName media-injected animals	9.9998004769455E-4
+GroupName lesion-alone	9.999792477107538E-4
+GroupName lesion-alone group	9.999792477107538E-4
+GroupName Non-T rats	9.99978647723327E-4
+GroupName Chr	9.999785477254573E-4
+GroupName Chr rats	9.999785477254573E-4
+GroupName Non-T	9.999785477237278E-4
+GroupName animals	9.999778476124266E-4
+GroupName with	9.999757481704155E-4
+GroupName co-graft rats	9.999741478256383E-4
+GroupName rolipram-DMEM	9.99972247879837E-4
+GroupName rolipram-DMEM treatment	9.99972247879837E-4
+GroupName rolipram-DMEM treatment group	9.99972247879837E-4
+GroupName Treated	9.99972047885388E-4
+GroupName Treated rats	9.99972047885388E-4
+GroupName OEC transplanted group	9.999661480671346E-4
+GroupName transplanted group	9.999661480671346E-4
+GroupName SCI rats receiving	9.999659480739056E-4
+GroupName rats receiving	9.999659480739056E-4
+GroupName SCI rats receiving OEC	9.999659480739056E-4
+GroupName rats receiving OEC	9.999659480739056E-4
+GroupName receiving OEC	9.999659480739056E-4
+GroupName test	9.999617482494819E-4
+GroupName Control rats	9.999580481835535E-4
+GroupName lesion	9.999487501808598E-4
+GroupName normal OEC	9.999485488160868E-4
+GroupName normal OEC group	9.999485488160868E-4
+GroupName DMEM group	9.999476488862687E-4
+GroupName olfactory	9.999462489510848E-4
+GroupName Group C	9.99946248936845E-4
+GroupName SCs	9.999429477234917E-4
+GroupName combined treatment	9.999424493514037E-4
+GroupName groups OEC	9.99940049288716E-4
+GroupName POEG-transplanted animals	9.999390493490694E-4
+GroupName POEG transplant	9.9993884936126E-4
+GroupName POEG	9.9993884936126E-4
+GroupName OEC-transplanted group	9.999379494166128E-4
+GroupName hemi-diaphragmofMEDIUMgroup.However	9.99937449447714E-4
+GroupName SCI rats	9.999360493973231E-4
+GroupName OEC-rolipram group	9.999353495810707E-4
+GroupName experimental rats	9.999352494734239E-4
+GroupName OEC-rolipram	9.99935049591242E-4
+GroupName experimental group.There	9.999344496395733E-4
+GroupName group.There	9.999344496395733E-4
+GroupName high	9.999333489196134E-4
+GroupName high dose	9.999333489196134E-4
+GroupName high dose OEC-M	9.999333489196134E-4
+GroupName medium injection	9.999310498678927E-4
+GroupName Olfactory ensheathing	9.99927750100551E-4
+GroupName Olfactory ensheathing cell	9.99927750100551E-4
+GroupName ensheathing cell	9.99927750100551E-4
+GroupName Olfactory ensheathing cell transplants	9.99927750100551E-4
+GroupName ensheathing cell transplants	9.99927750100551E-4
+GroupName cell transplants	9.99927750100551E-4
+GroupName sham group.The	9.999243503516486E-4
+GroupName group.The	9.999243503516486E-4
+GroupName group OEC	9.999214505749547E-4
+GroupName BMSC	9.999192507499687E-4
+GroupName BMSC group	9.999192507499687E-4
+GroupName scaffold	9.999130512692279E-4
+GroupName SCI scaffold	9.999130512692279E-4
+GroupName vehicle only	9.999109514532002E-4
+GroupName AdPGIS-OEC	9.999061517672134E-4
+GroupName media group	9.99904152071512E-4
+GroupName ESMN	9.998883523716848E-4
+GroupName GDNF OEC	9.998795516340728E-4
+GroupName OEC transplants	9.99853453458857E-4
+GroupName OLP group	9.99851353980257E-4
+GroupName transplants	9.998492537530751E-4
+GroupName lesion only	9.99844753728428E-4
+GroupName DMEM-injected	6.529661429220978E-8
+GroupName DMEM rats	4.609884466762738E-8
+GroupName OEC transplanted	4.229839595205175E-8
+GroupName untreated	3.999865068562164E-8
+GroupName untreated group	2.439896198084796E-8
+GroupName C	2.3098493813798085E-8
+GroupName transplantation	2.0198532509931768E-8
+GroupName OEC transplanted SCI	1.599962952417518E-8
+GroupName OEC transplanted SCI rats	1.599962952417518E-8
+GroupName normal	1.5399090579781178E-8
+GroupName treatment	1.3898848479374563E-8
+GroupName receiving	1.3599445743135784E-8
+GroupName transplanted SCI	1.2999781185759778E-8
+GroupName transplanted SCI rats	1.2999781185759778E-8
+GroupName media-injected rats	1.300029893512092E-9
+GroupName MSC group	-9.99918699047958E-11
+GroupName NIMSC group	-9.999210988559494E-11
+GroupName Con-M	-9.99924898563715E-11
+GroupName Con-M group	-9.99924898563715E-11
+GroupName NOM implanted	-9.999385976299992E-11
+GroupName implanted	-9.999385976299992E-11
+GroupName NOM implanted group	-9.999385976299992E-11
+GroupName implanted group	-9.999385976299992E-11
+GroupName BMSCs treated	-9.999422974100158E-11
+GroupName BMSCs treated group	-9.999422974100158E-11
+GroupName spinal group	-9.999577966372554E-11
+GroupName a-OEC	-9.999625964466667E-11
+GroupName LT	-9.999625964466667E-11
+GroupName a-OEC LT	-9.999625964466667E-11
+GroupName OEC transplant	-9.999691962222259E-11
+GroupName OEC transplant group	-9.999691962222259E-11
+GroupName OEC-treated animals	-9.999894958049285E-11
+GroupName respiratory	-9.999941957670619E-11
+GroupName respiratory mucosa	-9.999941957670619E-11
+GroupName Non-T animals	-9.999959957584097E-11
+GroupName lesion plus transplant animals	-9.9999669575592E-11
+GroupName plus transplant animals	-9.9999669575592E-11
+GroupName transplant animals	-9.9999669575592E-11
+GroupName olfactory mucosal	-9.999988957512852E-11
+GroupName mucosal	-9.999988957512852E-11
+GroupName olfactory mucosal cell	-9.999988957512852E-11
+GroupName mucosal cell	-9.999988957512852E-11
+GroupName OM group	-1.999852094533485E-10
+GroupName GFP-OEC-transplanted	-1.9998760934128672E-10
+GroupName GFP-OEC-transplanted group	-1.9998760934128672E-10
+GroupName in	-1.9999233912959786E-10
+GroupName rats housed	-1.9999233912959786E-10
+GroupName housed	-1.9999233912959786E-10
+GroupName rats housed in	-1.9999233912959786E-10
+GroupName housed in	-1.9999233912959786E-10
+GroupName rats housed in BH	-1.9999233912959786E-10
+GroupName housed in BH	-1.9999233912959786E-10
+GroupName in BH	-1.9999233912959786E-10
+GroupName OBFB-L	-1.9999543913479274E-10
+GroupName LacZ-expressing	-3.9998645827938583E-10
+GroupName AdPGIS-OEC transplanted	-2.9998483386477026E-9
+GroupName AdPGIS-OEC transplanted SCI	-2.9998483386477026E-9
+GroupName AdPGIS-OEC transplanted SCI rats	-2.9998483386477026E-9
+GroupName OEC-conditioned	-3.799942692103708E-9
+GroupName ensheathing	-5.799598334687028E-9
+GroupName alone	-6.199816761762191E-9
+GroupName injury alone	-6.199816761762191E-9
+GroupName injury alone control	-6.199816761762191E-9
+GroupName alone control	-6.199816761762191E-9
+GroupName injury alone control rats	-6.199816761762191E-9
+GroupName alone control rats	-6.199816761762191E-9
+GroupName B	-6.899776716896463E-9
+GroupName sham animals	-6.899782809864012E-9
+GroupName cells	-1.1399731622080336E-8
+GroupName Schwann cells	-1.1399731622080336E-8
+GroupName Olfactory	-1.2699164303889131E-8
+GroupName OEC groups	-1.6398818250332063E-8
+GroupName high dose OEC-M group	-1.669982056769242E-8
+GroupName OECs group	-2.089942753379771E-8
+GroupName co-graft group	-3.6297732910892104E-8
+GroupName combined	-3.7498345136852734E-8
+GroupName cell	-4.0497900964256614E-8
+GroupName unlesioned controls	-4.0798936972501006E-8
+GroupName SCI rats with	-4.289845776779408E-8
+GroupName rats with	-4.289845776779408E-8
+GroupName SCI rats with vehicle	-4.289845776779408E-8
+GroupName rats with vehicle	-4.289845776779408E-8
+GroupName SCI rats with vehicle treatment	-4.289845776779408E-8
+GroupName rats with vehicle treatment	-4.289845776779408E-8
+GroupName with vehicle treatment	-4.289845776779408E-8
+GroupName vehicle treatment	-4.289845776779408E-8
+GroupName dose	-4.8098748119704614E-8
+GroupName OEC-M	-4.8098748119704614E-8
+GroupName dose OEC-M	-4.8098748119704614E-8
+GroupName other group	-5.569761187865867E-8
+GroupName experimental	-5.789698083700291E-8
+GroupName Group	-7.119704428988545E-8
+GroupName spinal	-7.589756254477346E-8
+GroupName vehicle	-8.589555792307078E-8
+GroupName OEC-transplanted animals	-9.999132512518777E-4
+GroupName AdPGIS-OEC-grafted	-9.999139511914668E-4
+GroupName Experimental	-9.99914451148616E-4
+GroupName Vehicle–DMEM	-9.999176508802914E-4
+GroupName BMSCs	-9.999231504449412E-4
+GroupName TANES	-9.999234504200504E-4
+GroupName OEC-transplanted	-9.999255505654951E-4
+GroupName SC transplants	-9.999319498063303E-4
+GroupName combinatory	-9.99935249587531E-4
+GroupName combinatory therapy	-9.99935249587531E-4
+GroupName therapy	-9.99935249587531E-4
+GroupName LP OEC	-9.999364495106673E-4
+GroupName SCI control	-9.999371494664952E-4
+GroupName OEG-transplanted	-9.999392493369186E-4
+GroupName OEC transplanted rats	-9.999398493007068E-4
+GroupName injury only	-9.999411492234826E-4
+GroupName sham groups	-9.999418491826002E-4
+GroupName PBS	-9.999424491479484E-4
+GroupName OEG-treated	-9.99942549142208E-4
+GroupName OEG-treated rats	-9.99942549142208E-4
+GroupName OEG-trained	-9.99945348985538E-4
+GroupName OEG-trained group	-9.99945348985538E-4
+GroupName subgroups	-9.999466489154637E-4
+GroupName injury	-9.999473490402441E-4
+GroupName BDNF	-9.999505487153792E-4
+GroupName animals receiving	-9.999523486281623E-4
+GroupName animals receiving OECs	-9.999523486281623E-4
+GroupName receiving OECs	-9.999523486281623E-4
+GroupName treated with	-9.999539485533561E-4
+GroupName Animals treated with vehicle	-9.999539485533561E-4
+GroupName Animals treated	-9.999539485533561E-4
+GroupName Animals treated with	-9.999539485533561E-4
+GroupName treated with vehicle	-9.999539485533561E-4
+GroupName fibroblasts	-9.999561484546773E-4
+GroupName sham-operated	-9.999564484415961E-4
+GroupName 1	-9.999565484372557E-4
+GroupName olfactory mucosa	-9.9995794840889E-4
+GroupName mucosa	-9.999580484083093E-4
+GroupName controls ”	-9.999604482757796E-4
+GroupName ”	-9.999604482757796E-4
+GroupName – 7	-9.999643481295127E-4
+GroupName 7	-9.999643481295127E-4
+GroupName Schwann cell	-9.999681480016257E-4
+GroupName Schwann cell transplantation	-9.999681480016257E-4
+GroupName cell transplantation	-9.999681480016257E-4
+GroupName OEC ESMN group	-9.999710479137425E-4
+GroupName ESMN group	-9.999711479053827E-4
+GroupName OEC ESMN	-9.999711479090321E-4
+GroupName unlesioned control rats	-9.999717482232E-4
+GroupName untreated rats	-9.999721478826074E-4
+GroupName unlesioned control animals	-9.999732478525422E-4
+GroupName OEC –	-9.9997374783948E-4
+GroupName SCI	-9.999751478479855E-4
+GroupName damage	-9.999753477989125E-4
+GroupName ’	-9.999789477169955E-4
+GroupName rats ’	-9.999789477169955E-4
+GroupName Schwann	-9.999795477332479E-4
+GroupName EPI-NCSCs-injected	-9.999804476866882E-4
+GroupName low	-9.999814476677334E-4
+GroupName low dose	-9.999814476677334E-4
+GroupName low dose OEC-M	-9.999814476677334E-4
+GroupName low dose OEC-M group	-9.999814476677334E-4
+GroupName transplanted animal	-9.999863475893096E-4
+GroupName untransfected	-9.99987047580066E-4
+GroupName untransfected OEG	-9.99987047580066E-4
+GroupName untransfected OEG group	-9.99987047580066E-4
+GroupName OEG transplanted	-9.99988847558547E-4
+GroupName OEG transplanted groups	-9.99988847558547E-4
+GroupName transplanted groups	-9.99988847558547E-4
+GroupName OEC-treated rats	-9.999903475430897E-4
+GroupName OEC-treated	-9.99990447542039E-4
+GroupName OEC CSA groups	-9.999912475348951E-4
+GroupName CSA groups	-9.999912475348951E-4
+GroupName SCT-animals	-9.9999234752598E-4
+GroupName The	-9.99992747523038E-4
+GroupName graft-only	-9.999947475107277E-4
+GroupName engrafted	-9.999963475037599E-4
+GroupName engrafted animals	-9.999963475037599E-4
+GroupName OEG-injected	-9.99996747502418E-4
+GroupName OEG-injected spinal	-9.99996747502418E-4
+GroupName OEG-injected spinal rats	-9.99996747502418E-4
+GroupName with vehicle	-9.999968470111237E-4
+GroupName dose OEC-M group	-9.999981474883006E-4
+GroupName OEC-M group	-9.999981474883006E-4
+GroupName GDNF OEC group	-9.999983471619901E-4
+GroupName injection	-0.0010000207452471206
+GroupName Control	-0.001000022146973887
+GroupName sham injection	-0.0010000285446796523
+GroupName contusion	-0.0010000289457931602
+GroupName DMEM	-0.0010000652437440205
+GroupName transplanted OECs	-0.0019998527005740765
+GroupName SC grafts	-0.0019998528004296565
+GroupName grafts	-0.0019998528004296565
+GroupName OEG groups	-0.0019998733991984595
+GroupName A	-0.001999878298935602
+GroupName treated group	-0.0019998833984921525
+GroupName LP	-0.001999891498014079
+GroupName cABC group	-0.0019999000975577984
+GroupName Transplantation	-0.0019999000978189064
+GroupName NIMSC	-0.001999915096785153
+GroupName OEG	-0.0019999153975355853
+GroupName experimental group	-0.0019999193977944434
+GroupName graft	-0.0019999266973045383
+GroupName SC graft	-0.0019999266973045383
+GroupName Animals	-0.001999934496238104
+GroupName sham injection group	-0.0019999378962770745
+GroupName injection group	-0.0019999378962770745
+GroupName –	-0.001999938095968992
+GroupName unlesioned control	-0.001999944996075742
+GroupName OECs transplanted rats	-0.001999959195489073
+GroupName OECs transplanted	-0.001999959195489073
+GroupName transplanted rats	-0.0019999600954346197
+GroupName treated rats	-0.001999961995432879
+GroupName injected	-0.0019999639953155314
+GroupName OEC CSA	-0.0019999650953717646
+GroupName CSA	-0.0019999650953717646
+GroupName treatment groups	-0.0019999723953690275
+GroupName media groups	-0.001999977395193535
+GroupName medium-injected	-0.001999979995093553
+GroupName medium-injected group	-0.001999979995093553
+GroupName Control animals	-0.001999980195157441
+GroupName unlesioned	-0.0019999857950127146
+GroupName SC	-0.002999841048569324
+GroupName control animals	-0.002999909344515318
+GroupName OEG group	-0.003999839993997204
+GroupName lesion only group	-0.003999844693224216
+GroupName only group	-0.003999844693224216
+GroupName transplanted	-0.003999871393066535
+GroupName spinal rats	-0.003999902792379791
+GroupName control group	-0.004999745545250333
+GroupName OECs	-0.004999758045157246
+GroupName control	-0.004999778443402821
+GroupName groups	-0.006999608646504873

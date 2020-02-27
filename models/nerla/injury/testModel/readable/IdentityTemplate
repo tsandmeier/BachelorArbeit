@@ -1,0 +1,38 @@
+Exact Match: <T8> T8	0.010997105106688403
+Exact Match for ChildEntity: <Vertebrae> T8	0.010997105106688403
+Exact Match: <T7> T7	0.00799816699644579
+Exact Match for ChildEntity: <Vertebrae> T7	0.00799816699644579
+Exact Match for ChildEntity: <Vertebrae> C4	0.007998059820996266
+Exact Match: <C4> C4	0.007998059820996266
+Exact Match: <T10> T10	0.006998102812834331
+Exact Match for ChildEntity: <Vertebrae> T10	0.006998102812834331
+Exact Match: <T9> T9	0.006997830424541494
+Exact Match for ChildEntity: <Vertebrae> T9	0.006997830424541494
+Exact Match: <C5> C5	0.004998857366214902
+Exact Match for ChildEntity: <Vertebrae> C5	0.004998857366214902
+Exact Match for ChildEntity: <Vertebrae> T11	0.004998822880084357
+Exact Match: <T11> T11	0.004998822880084357
+Exact Match: <T12> T12	0.004998813170296515
+Exact Match for ChildEntity: <Vertebrae> T12	0.004998813170296515
+Exact Match: <C3> C3	0.004998701796808369
+Exact Match for ChildEntity: <Vertebrae> C3	0.004998701796808369
+Exact Match: <C7> C7	0.003999316456500201
+Exact Match for ChildEntity: <Vertebrae> C7	0.003999316456500201
+Exact Match: <L1> L1	0.003999304558961349
+Exact Match for ChildEntity: <Vertebrae> L1	0.003999304558961349
+Exact Match for ChildEntity: <Vertebrae> T3	0.003999159688019924
+Exact Match: <T3> T3	0.003999159688019924
+Exact Match: <L3> L3	0.003999004799572885
+Exact Match for ChildEntity: <Vertebrae> L3	0.003999004799572885
+Exact Match: <L2> L2	0.002999410110559298
+Exact Match for ChildEntity: <Vertebrae> L2	0.002999410110559298
+Exact Match: <T6> T6	0.0029993619066038227
+Exact Match for ChildEntity: <Vertebrae> T6	0.0029993619066038227
+Exact Match for ChildEntity: <Vertebrae> C2	0.0029993568055611455
+Exact Match: <C2> C2	0.0029993568055611455
+Exact Match: <L4> L4	0.002999342114528777
+Exact Match for ChildEntity: <Vertebrae> L4	0.002999342114528777
+Exact Match: <Vibraknife> Vibraknife	0.0019995778502422228
+Exact Match for ChildEntity: <CuttingDevice> Vibraknife	0.0019995778502422228
+Exact Match: <Xylazine> Xylazine	-1.0890352390887762E-8
+Exact Match for ChildEntity: <Anaesthetic> Xylazine	-1.0890352390887762E-8

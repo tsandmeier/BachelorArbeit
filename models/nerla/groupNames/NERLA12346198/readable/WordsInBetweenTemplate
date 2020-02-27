@@ -1,0 +1,163 @@
+WORDS BETWEEN: <Contusion, NYUImpactor>: using an	0.00999648429892703
+NO WORDS BETWEEN: <C4, DorsalHemisection> 	0.009996452504125284
+NO WORDS BETWEEN: <Balloon, Compression> 	0.008997785842542754
+WORDS BETWEEN: <T8, Blade>: using a	0.00799750968875597
+WORDS BETWEEN: <T10, Injury>: -	0.007996981649234333
+WORDS BETWEEN: <CuttingDevice, PartialTransection>: was used to	0.006997557943173901
+WORDS BETWEEN: <CompleteTransection, Scissors>: at T8 using	0.005998678177677171
+WORDS BETWEEN: <PartialTransection, C4>: at the	0.0059984243000117485
+WORDS BETWEEN: <CompleteTransection, Scissors>: with	0.005998288148798883
+NO WORDS BETWEEN: <T8, LateralHemisection> 	0.005998232627570508
+WORDS BETWEEN: <Contusion, T10>: injury was performed at	0.005998129760854258
+WORDS BETWEEN: <T8, PhotochemicalInjury>: vertebra and a	0.005998020064257845
+WORDS BETWEEN: <T10, NYUImpactor>: segment using the	0.0059978519262010414
+WORDS BETWEEN: <Compression, T12>: was performed at	0.005997681466242194
+WORDS BETWEEN: <T9, Scissors>: with	0.004998899695151951
+WORDS BETWEEN: <C4, LateralHemisection>: spinal cord segment were	0.004998548073013067
+WORDS BETWEEN: <Scissors, DorsalHemisection>: , a	0.00499838567070578
+WORDS BETWEEN: <T8, Scissors>: using	0.004998350758746584
+WORDS BETWEEN: <PartialTransection, VertebralArea>: between the	0.004998288281157628
+NO WORDS BETWEEN: <Clip, Compression> 	0.0049982426206089245
+WORDS BETWEEN: <CompleteTransection, T8>: at	0.004998189712720781
+WORDS BETWEEN: <Injury, InjuryDevice>: produced by a	0.004997949093454136
+WORDS BETWEEN: <CompleteTransection, Scissors>: at two levels using	0.003999569918403501
+WORDS BETWEEN: <DorsalHemisection, Scissors>: was performed using sharp	0.003999358560224699
+NO WORDS BETWEEN: <AneurysmClip, Compression> 	0.003999201453246033
+WORDS BETWEEN: <KetamineAsAnaesthetic, Xylazine>: /	0.003998749080828256
+WORDS BETWEEN: <Contusion, WeightDrop>: was induced by the	0.003998673667059803
+WORDS BETWEEN: <Laminectomy, T11>: was performed at	0.003998575978562999
+WORDS BETWEEN: <Halothane, NitrousOxide>: and O2/	0.00399822839380024
+WORDS BETWEEN: <DorsalHemisection, ScoutenWireKnife>: using a	0.002999713463394962
+WORDS BETWEEN: <Contusion, NYUImpactor>: using the	0.0029993965446513766
+WORDS BETWEEN: <KetamineAsAnaesthetic, Xylazine>: :	0.002999356677022524
+WORDS BETWEEN: <Laminectomy, VertebralArea>: of the	0.0029993553630796622
+WORDS BETWEEN: <Contusion, MASCISImpactor>: was induced by the	0.0029991171376541116
+WORDS BETWEEN: <LateralHemisection, Scissors>: was transected using	0.002999016632475156
+WORDS BETWEEN: <CompleteTransection, CuttingDevice>: with a	0.0029987599142697143
+WORDS BETWEEN: <Compression, Forceps>: with fine	0.0029986590670739387
+WORDS BETWEEN: <LateralHemisection, Scissors>: using an	0.0029985365085344173
+WORDS BETWEEN: <LateralHemisection, T8>: at	0.0029983379863603725
+WORDS BETWEEN: <Contusion, NYUImpactor>: with	0.0019997539466302754
+WORDS BETWEEN: <LateralHemisection, T11>: was performed at	0.0019995876401591073
+WORDS BETWEEN: <Xylazine, KetamineAsAnaesthetic>: /	0.001999442175749978
+WORDS BETWEEN: <Compression, C4>: at spinal level	0.0019989904497801324
+WORDS BETWEEN: <DorsalHemisection, T11>: at vertebral level	0.001998233455272153
+WORDS BETWEEN: <DorsalHemisection, T6>: lesion was performed at	9.99987647572533E-4
+WORDS BETWEEN: <Vibraknife, DorsalHemisection>: base. A C3	9.999179508556608E-4
+WORDS BETWEEN: <T8, CompleteTransection>: spinal cord	9.999130512692279E-4
+WORDS BETWEEN: <CompleteTransection, T9>: at approximately	9.998504586652829E-4
+WORDS BETWEEN: <Contusion, MASCISImpactor>: using the	9.99593430129734E-4
+WORDS BETWEEN: <CompleteTransection, Blade>: with a	9.994382053084207E-4
+WORDS BETWEEN: <LateralHemisection, Scissors>: with a pair of	9.994137193699577E-4
+WORDS BETWEEN: <LateralHemisection, Scissors>: using	9.994129198392242E-4
+WORDS BETWEEN: <PartialTransection, LateralHemisection>: gap of the spinal	9.990488013886542E-4
+WORDS BETWEEN: <T10, Laminectomy>: -T11	-9.99460393085025E-4
+WORDS BETWEEN: <Contusion, T10>: at the	-9.99460792869301E-4
+NO WORDS BETWEEN: <Compression, Contusion> 	-9.99460792869301E-4
+NO WORDS BETWEEN: <T11, Laminectomy> 	-9.99460892815395E-4
+WORDS BETWEEN: <T10, T11>: -	-9.99460892815395E-4
+WORDS BETWEEN: <T8, T10>: –	-9.994626918467969E-4
+NO WORDS BETWEEN: <T8, CompleteTransection> 	-9.994637912564698E-4
+WORDS BETWEEN: <Anaesthetic, Isoflurane>: with	-9.994649906138557E-4
+WORDS BETWEEN: <VertebralArea, Laminectomy>: . A	-9.994676891732365E-4
+NO WORDS BETWEEN: <Injury, Injury> 	-9.994819816647764E-4
+WORDS BETWEEN: <T8, T9>: to	-9.994849801155115E-4
+NO WORDS BETWEEN: <Xylazine, Anaesthetic> 	-9.99487878626439E-4
+WORDS BETWEEN: <Compression, Forceps>: with jeweler’s	-9.994892779105853E-4
+WORDS BETWEEN: <NYUImpactor, MASCISImpactor>: with a dropping	-9.9950546976962E-4
+WORDS BETWEEN: <Anaesthetic, Anaesthetic>: /	-9.995151650206437E-4
+WORDS BETWEEN: <Balloon, T8>: rested at	-9.995169641497353E-4
+WORDS BETWEEN: <Anaesthetic, KetamineAsAnaesthetic>: and	-9.995177637637043E-4
+WORDS BETWEEN: <T9, T10>: -	-9.995210621780888E-4
+WORDS BETWEEN: <PartialTransection, CompleteTransection>: cervical	-9.995961290359021E-4
+WORDS BETWEEN: <T8, T10>: and	-9.995968287535057E-4
+WORDS BETWEEN: <Contusion, NYUImpactor>: using the NYU	-9.995996276288173E-4
+WORDS BETWEEN: <Anaesthetic, KetamineAsAnaesthetic>: by	-9.996010270694122E-4
+WORDS BETWEEN: <C4, VertebralArea>: -C8	-9.996078243801696E-4
+WORDS BETWEEN: <Contusion, MASCISImpactor>: injuries (10 g	-9.996089239494885E-4
+NO WORDS BETWEEN: <DorsalHemisection, T8> 	-9.996104233641451E-4
+WORDS BETWEEN: <T10, CompleteTransection>: level.	-9.996129223935712E-4
+NO WORDS BETWEEN: <KetamineAsAnaesthetic, Anaesthetic> 	-9.99615721313945E-4
+WORDS BETWEEN: <C4, ScoutenWireKnife>: dorsal column	-9.996260174099036E-4
+WORDS BETWEEN: <PhotochemicalInjury, T8>: was completely transected at	-9.996278167385298E-4
+WORDS BETWEEN: <T6, T10>: –	-9.996284165154584E-4
+WORDS BETWEEN: <Xylazine, KetamineAsAnaesthetic>: and	-9.996321151478024E-4
+NO WORDS BETWEEN: <SodiumPentobarbital, Isoflurane> 	-9.996445106640905E-4
+WORDS BETWEEN: <T9, NYUImpactor>: ) contusion by the	-9.996533075753485E-4
+WORDS BETWEEN: <Contusion, Contusion>: were	-9.996827977857758E-4
+WORDS BETWEEN: <Contusion, NYUImpactor>: were contused using an	-9.996827977857758E-4
+WORDS BETWEEN: <Contusion, Compression>: /	-9.99709889559329E-4
+WORDS BETWEEN: <Xylazine, T10>: mixture (90/	-9.99712888693789E-4
+WORDS BETWEEN: <LateralHemisection, PartialTransection>: , which aimed to	-9.997226859290596E-4
+WORDS BETWEEN: <LateralHemisection, Scissors>: was cut by	-9.99729184148271E-4
+WORDS BETWEEN: <DorsalHemisection, Scissors>: cut with	-9.997386816215593E-4
+WORDS BETWEEN: <Blade, DorsalHemisection>: . Possible remaining adhesions	-9.997386816215593E-4
+WORDS BETWEEN: <NYUImpactor, T10>: at	-9.997449799957073E-4
+WORDS BETWEEN: <Contusion, NYUImpactor>: model was established by	-9.997450799702201E-4
+WORDS BETWEEN: <NYUImpactor, T8>: by clamping the	-9.997586765970903E-4
+WORDS BETWEEN: <CompleteTransection, T8>: level 8 (	-9.997673745362607E-4
+WORDS BETWEEN: <Xylazine, Anaesthetic>: , and 0.09 mg	-9.997860703627928E-4
+WORDS BETWEEN: <KetamineAsAnaesthetic, Xylazine>: , 0.51 mg	-9.997861703414145E-4
+WORDS BETWEEN: <Anaesthetic, KetamineAsAnaesthetic>: (2.57 mg	-9.997863702986879E-4
+WORDS BETWEEN: <InjuryByAccident, T10>: levels	-9.997924690147428E-4
+WORDS BETWEEN: <T9, T10>: and	-9.99829861955973E-4
+WORDS BETWEEN: <CompleteTransection, Scissors>: using angled	-9.998323615339963E-4
+WORDS BETWEEN: <LateralHemisection, Scissors>: was transected using angled	-9.99832561500508E-4
+WORDS BETWEEN: <LateralHemisection, DorsalHemisection>: using an iridectome and	-9.998329614336516E-4
+WORDS BETWEEN: <Scissors, DorsalHemisection>: and	-9.998329614336516E-4
+NO WORDS BETWEEN: <NYUImpactor, AllenWeightDropDevice> 	-9.998477590724257E-4
+WORDS BETWEEN: <NYUImpactor, CompleteTransection>: weight-drop device versus	-9.998478590572163E-4
+NO WORDS BETWEEN: <C4, Laminectomy> 	-9.99854758031918E-4
+WORDS BETWEEN: <DorsalHemisection, C4>: transplanted into a rat	-9.998634568070004E-4
+WORDS BETWEEN: <T8, Blade>: using	-9.99889253619481E-4
+WORDS BETWEEN: <Scissors, CompleteTransection>: and cut out 1	-9.999354495746203E-4
+WORDS BETWEEN: <Anaesthetic, KetamineAsAnaesthetic>: with i.p.	-9.999480488418885E-4
+WORDS BETWEEN: <DorsalHemisection, KetamineAsAnaesthetic>: anaesthetised with	-9.999577483859508E-4
+WORDS BETWEEN: <DorsalHemisection, Blade>: was performed using	-9.99972447874326E-4
+NO WORDS BETWEEN: <Blade, Scissors> 	-9.99972447874326E-4
+WORDS BETWEEN: <Xylazine, Anaesthetic>: (	-9.9997374783948E-4
+WORDS BETWEEN: <T11, Scissors>: using a pair of	-9.999812476714444E-4
+WORDS BETWEEN: <Compression, Forceps>: using fine	-0.0010005001968266427
+WORDS BETWEEN: <Scissors, DorsalHemisection>: the	-0.0010007718217190736
+WORDS BETWEEN: <T7, AspirationLesion>: was gently removed via	-0.0019992139494276243
+WORDS BETWEEN: <LateralHemisection, Scissors>: with	-0.001999222867287253
+WORDS BETWEEN: <Anaesthetic, T10>: ), a	-0.0019992765574643836
+WORDS BETWEEN: <Xylazine, Xylazine>: cocktail (Ketamine	-0.001999357098285007
+NO WORDS BETWEEN: <Anaesthetic, Anaesthetic> 	-0.001999364633668269
+NO WORDS BETWEEN: <KetamineAsAnaesthetic, Xylazine> 	-0.0019994036855880666
+WORDS BETWEEN: <KetamineAsAnaesthetic, Xylazine>: plus	-0.001999432078575093
+WORDS BETWEEN: <Anaesthetic, Anaesthetic>: (fentanyl	-0.0019994384232143074
+WORDS BETWEEN: <C4, Vibraknife>: ,	-0.0019995024568439435
+WORDS BETWEEN: <Xylazine, KetamineAsAnaesthetic>: cocktail (	-0.0019995377879961957
+NO WORDS BETWEEN: <PartialTransection, VertebralArea> 	-0.001999578839304137
+NO WORDS BETWEEN: <T10, VertebralArea> 	-0.001999788606146909
+WORDS BETWEEN: <LateralHemisection, Blade>: at T8 using a	-0.0019998895980313895
+WORDS BETWEEN: <KetamineAsAnaesthetic, Xylazine>: - taminer	-0.001999894400277522
+WORDS BETWEEN: <Scissors, AspirationLesion>: and gentle	-0.0019999319961444204
+WORDS BETWEEN: <Laminectomy, VertebralArea>: was performed between	-0.001999987795030944
+WORDS BETWEEN: <KetamineAsAnaesthetic, Xylazine>: and	-0.0029979391277574173
+NO WORDS BETWEEN: <PartialTransection, LateralHemisection> 	-0.002998483725654948
+WORDS BETWEEN: <PartialTransection, PartialTransection>: gap of the	-0.002998483725654948
+WORDS BETWEEN: <PartialTransection, T8>: cord at	-0.002998483725654948
+WORDS BETWEEN: <Scissors, PartialTransection>: was used to bilaterally	-0.0029985547905682906
+NO WORDS BETWEEN: <T8, C4> 	-0.002998597070493035
+WORDS BETWEEN: <NYUImpactor, T10>: II at	-0.0029986030676937584
+WORDS BETWEEN: <LateralHemisection, Scissors>: with a fine	-0.0029986156618543192
+WORDS BETWEEN: <Scissors, C2>: , at the	-0.002998617760886222
+NO WORDS BETWEEN: <InfiniteHorizonImpactor, InfiniteHorizonImpactor> 	-0.0029986777338470143
+WORDS BETWEEN: <Anaesthetic, Anaesthetic>: (	-0.0029988681559475175
+WORDS BETWEEN: <Xylazine, Anaesthetic>: ,	-0.002998905642037409
+WORDS BETWEEN: <VertebralArea, Scissors>: using	-0.0029990459941193538
+NO WORDS BETWEEN: <Forceps, Compression> 	-0.0029991519701606487
+WORDS BETWEEN: <LateralHemisection, C5>: at	-0.002999370574667611
+WORDS BETWEEN: <PartialTransection, CompleteTransection>: gap of the spinal	-0.0029995099824684573
+WORDS BETWEEN: <CompleteTransection, T8>: vertebra	-0.002999524980057326
+WORDS BETWEEN: <Contusion, NYUImpactor>: was induced by the	-0.002999626579932697
+NO WORDS BETWEEN: <Isoflurane, Isoflurane> 	-0.002999902644062585
+WORDS BETWEEN: <Contusion, NYUImpactor>: with NYU-impactor	-0.0029999107438114484
+WORDS BETWEEN: <T9, WeightDrop>: level was performed.	-0.003998220785634154
+WORDS BETWEEN: <Compression, T10>: injury at the	-0.003999006684600447
+NO WORDS BETWEEN: <NYUImpactor, NYUImpactor> 	-0.003999510571360232
+WORDS BETWEEN: <KetamineAsAnaesthetic, KetamineAsAnaesthetic>: : xylazine cocktail (	-0.004998572685664819
+WORDS BETWEEN: <PhotochemicalInjury, LightSource>: with an	-0.004998608392481892
+WORDS BETWEEN: <Halothane, Halothane>: [1.5%	-0.005998303476670375

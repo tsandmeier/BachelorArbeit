@@ -1,0 +1,138 @@
+WBO <EntityType [entityTypeName=Age], EntityType [entityTypeName=Weight]> ) and weight (	0.008998962531239316
+WBO <EntityType [entityTypeName=Female], EntityType [entityTypeName=Age]> mice (mean age	0.008998248540222522
+WBO <EntityType [entityTypeName=Adult], EntityType [entityTypeName=MouseSpecies]> male and female	0.007998563954884567
+WBO <EntityType [entityTypeName=Adult], EntityType [entityTypeName=Weight]> female Wistar rats (	0.006999389604130966
+WBO <EntityType [entityTypeName=Female], EntityType [entityTypeName=Weight]> Wistar rats (	0.006999389604130966
+WBO <EntityType [entityTypeName=Male], EntityType [entityTypeName=MouseSpecies]> and female heterozygote	0.006998875531410648
+WBO <EntityType [entityTypeName=Adult], EntityType [entityTypeName=Weight]> female Sprague-Dawley rats weighing	0.006998351058582498
+WBO <EntityType [entityTypeName=Adult], EntityType [entityTypeName=Age]> Lister Hooded rats aged	0.006998304157224736
+WBO <EntityType [entityTypeName=Female], EntityType [entityTypeName=FischerRat]> (200 g)	0.0059996472999246896
+WBO <EntityType [entityTypeName=Adult], EntityType [entityTypeName=Age]> female Sprague–Dawley rats (	0.005999117070934484
+WBO <EntityType [entityTypeName=Male], EntityType [entityTypeName=Weight]> Sprague-Dawley rats weighing between	0.005999081591693214
+WBO <EntityType [entityTypeName=Female], EntityType [entityTypeName=MouseSpecies]> or male heterozygous	0.005999009495900455
+WBO <EntityType [entityTypeName=Adult], EntityType [entityTypeName=Age]> female Wistar rats (	0.0059988061362839
+WBO <EntityType [entityTypeName=Female], EntityType [entityTypeName=Age]> Wistar rats (	0.0059988061362839
+WBO <EntityType [entityTypeName=Young], EntityType [entityTypeName=Adult]> 7-day-old and	0.005998698139529651
+WBO <EntityType [entityTypeName=Adult], EntityType [entityTypeName=Age]> Sprague-Dawley female rats (	0.005998586870842654
+WBO <EntityType [entityTypeName=Female], EntityType [entityTypeName=Weight]> Sprague-Dawley rats weighing between	0.005998579968830571
+WBO <EntityType [entityTypeName=Female], EntityType [entityTypeName=Weight]> Sprague-Dawley rats weighing	0.004998833002858899
+WBO <EntityType [entityTypeName=Female], EntityType [entityTypeName=Age]> adult Sprague-Dawley rats (	0.0049987491116917256
+WBO <EntityType [entityTypeName=Female], EntityType [entityTypeName=Age]> Sprague–Dawley rats (	0.003999473636815541
+WBO <EntityType [entityTypeName=Age], EntityType [entityTypeName=Female]> C57BL/6	0.00399931145301973
+WBO <EntityType [entityTypeName=Female], EntityType [entityTypeName=Age]> YFP-positive mice (	0.003999190289718422
+WBO <EntityType [entityTypeName=Adult], EntityType [entityTypeName=Age]> Sprague-Dawley rats (	0.003998873256499785
+WBO <EntityType [entityTypeName=Age], EntityType [entityTypeName=MouseSpecies]> ) female heterozygous	0.0029994189154264475
+WBO <EntityType [entityTypeName=SpragueDawleyRat], EntityType [entityTypeName=Age]> female rats (	0.0029994189119687325
+WBO <EntityType [entityTypeName=Female], EntityType [entityTypeName=RatSpecies]> rats of a locally	0.002999298640716961
+WBO <EntityType [entityTypeName=Age], EntityType [entityTypeName=Male]> ) female or	0.0029992526437480575
+WBO <EntityType [entityTypeName=Adult], EntityType [entityTypeName=Female]> 9-week-old	0.001999581641161535
+WBO <EntityType [entityTypeName=Adult], EntityType [entityTypeName=SpragueDawleyRat]> 9-week-old	0.0019995469463556753
+WBO <EntityType [entityTypeName=Adult], EntityType [entityTypeName=SpragueDawleyRat]> 9-week-old female	9.99840360225663E-4
+WBO <EntityType [entityTypeName=Weight], EntityType [entityTypeName=WistarRat]> –250g)	-9.996673028209856E-4
+WBO <EntityType [entityTypeName=Female], EntityType [entityTypeName=Age]> Fischer rats (four	-9.996686023894506E-4
+WBO <EntityType [entityTypeName=Female], EntityType [entityTypeName=LongEvansRat]> , adult Long–	-9.99675000289603E-4
+WBO <EntityType [entityTypeName=WistarRat], EntityType [entityTypeName=Age]> (10–	-9.996757000624162E-4
+WBO <EntityType [entityTypeName=RatSpecies], EntityType [entityTypeName=Weight]> rats weighted 200-	-9.996814981988566E-4
+WBO <EntityType [entityTypeName=Female], EntityType [entityTypeName=Weight]> Fischer 344 rats (	-9.996833975956928E-4
+WBO <EntityType [entityTypeName=Female], EntityType [entityTypeName=Weight]> Sprague Dawley rats (	-9.996866965566698E-4
+WBO <EntityType [entityTypeName=Adult], EntityType [entityTypeName=Age]> Sprague–Dawley rats (250	-9.99702191822065E-4
+WBO <EntityType [entityTypeName=Female], EntityType [entityTypeName=Age]> Wistar rats (200	-9.99705490845063E-4
+WBO <EntityType [entityTypeName=Male], EntityType [entityTypeName=MouseSpecies]> and female heterozygote YFP-H	-9.997148881217607E-4
+WBO <EntityType [entityTypeName=Weight], EntityType [entityTypeName=DogSpecies]> 3-year-old male	-9.997289842024347E-4
+WBO <EntityType [entityTypeName=Weight], EntityType [entityTypeName=Male]> 3-year-old	-9.997289842024347E-4
+WBO <EntityType [entityTypeName=SpragueDawleyRat], EntityType [entityTypeName=Male]> 3-year-old	-9.997290841753479E-4
+WBO <EntityType [entityTypeName=SpragueDawleyRat], EntityType [entityTypeName=DogSpecies]> 3-year-old male	-9.997290841753479E-4
+WBO <EntityType [entityTypeName=C57_BL6_Mouse], EntityType [entityTypeName=Age]> /Bl6 mice (	-9.997333830200712E-4
+WBO <EntityType [entityTypeName=Age], EntityType [entityTypeName=Weight]> , 20–22	-9.997335829667873E-4
+WBO <EntityType [entityTypeName=Adult], EntityType [entityTypeName=ListerHoodedRat]> male Sprague Dawley	-9.99740581127044E-4
+WBO <EntityType [entityTypeName=Adult], EntityType [entityTypeName=Age]> Sprague-Dawley rats (250	-9.997489789840153E-4
+WBO <EntityType [entityTypeName=Male], EntityType [entityTypeName=WistarRat]> Sprague–Dawley (SD)	-9.997568770329166E-4
+WBO <EntityType [entityTypeName=Female], EntityType [entityTypeName=RatSpecies]> rats of locally inbred	-9.997589765247674E-4
+WBO <EntityType [entityTypeName=Adult], EntityType [entityTypeName=WistarRat]> male and female	-9.99760176236376E-4
+WBO <EntityType [entityTypeName=Female], EntityType [entityTypeName=Age]> Wistar rats (225	-9.997763724839996E-4
+WBO <EntityType [entityTypeName=Male], EntityType [entityTypeName=Age]> rats (8	-9.997798717077677E-4
+WBO <EntityType [entityTypeName=SpragueDawleyRat], EntityType [entityTypeName=Weight]> (300–	-9.997818712697058E-4
+WBO <EntityType [entityTypeName=Female], EntityType [entityTypeName=Weight]> Long-Evans rats,	-9.997822711825734E-4
+WBO <EntityType [entityTypeName=SpragueDawleyRat], EntityType [entityTypeName=Weight]> (225-	-9.997873700856557E-4
+WBO <EntityType [entityTypeName=SpragueDawleyRat], EntityType [entityTypeName=Weight]> (200-220	-9.99794068684129E-4
+WBO <EntityType [entityTypeName=SpragueDawleyRat], EntityType [entityTypeName=Weight]> (200–	-9.997961682540826E-4
+WBO <EntityType [entityTypeName=Female], EntityType [entityTypeName=SpragueDawleyRat]> Wistar rats (200	-9.998092656709515E-4
+WBO <EntityType [entityTypeName=Female], EntityType [entityTypeName=FischerRat]> Spraque±Dawley	-9.99809465632844E-4
+WBO <EntityType [entityTypeName=Adult], EntityType [entityTypeName=FischerRat]> female Spraque±Dawley	-9.99809465632844E-4
+WBO <EntityType [entityTypeName=Female], EntityType [entityTypeName=Weight]> Sprague Dawley rats weighing	-9.998101654997832E-4
+WBO <EntityType [entityTypeName=SpragueDawleyRat], EntityType [entityTypeName=Age]> (8-week	-9.99816964232687E-4
+WBO <EntityType [entityTypeName=Adult], EntityType [entityTypeName=Weight]> Sprague Dawley rats (	-9.998180640320598E-4
+WBO <EntityType [entityTypeName=Female], EntityType [entityTypeName=Weight]> Sprague-Dawley rats (250	-9.998279622808548E-4
+WBO <EntityType [entityTypeName=Female], EntityType [entityTypeName=MouseSpecies]> C57/Bl6	-9.99834261217473E-4
+WBO <EntityType [entityTypeName=Adult], EntityType [entityTypeName=MouseSpecies]> female C57/Bl6	-9.99834261217473E-4
+WBO <EntityType [entityTypeName=SpragueDawleyRat], EntityType [entityTypeName=RatSpecies]> of a locally	-9.998351610688008E-4
+WBO <EntityType [entityTypeName=SpragueDawleyRat], EntityType [entityTypeName=Female]> 240 gm)	-9.998352610523316E-4
+WBO <EntityType [entityTypeName=Female], EntityType [entityTypeName=Weight]> Sprague–Dawley rats (	-9.998364608554819E-4
+WBO <EntityType [entityTypeName=Weight], EntityType [entityTypeName=Age]> (9 female and	-9.998381605790755E-4
+WBO <EntityType [entityTypeName=Female], EntityType [entityTypeName=SpragueDawleyRat]> healthy Sprague-Dawley (	-9.998432597671948E-4
+WBO <EntityType [entityTypeName=Female], EntityType [entityTypeName=Age]> , spayed cats (	-9.99850658635414E-4
+WBO <EntityType [entityTypeName=Adult], EntityType [entityTypeName=SpragueDawleyRat]> male Sprague-	-9.998515585014996E-4
+WBO <EntityType [entityTypeName=FischerRat], EntityType [entityTypeName=Weight]> (160–	-9.998841541967935E-4
+WBO <EntityType [entityTypeName=Adult], EntityType [entityTypeName=RatSpecies]> female Spraque±Dawley	-9.99887753786579E-4
+WBO <EntityType [entityTypeName=Female], EntityType [entityTypeName=RatSpecies]> Spraque±Dawley	-9.99887753786579E-4
+WBO <EntityType [entityTypeName=Weight], EntityType [entityTypeName=SpragueDawleyRat]> -350 g)	-9.998951529840553E-4
+WBO <EntityType [entityTypeName=WistarRat], EntityType [entityTypeName=Weight]> weighing 180-	-9.999088516428225E-4
+WBO <EntityType [entityTypeName=Age], EntityType [entityTypeName=Female]> old),	-9.999337496856351E-4
+WBO <EntityType [entityTypeName=Adult], EntityType [entityTypeName=Age]> (8±10	-9.999337496856351E-4
+WBO <EntityType [entityTypeName=Age], EntityType [entityTypeName=Weight]> , 20-25	-9.999403492708051E-4
+WBO <EntityType [entityTypeName=ListerHoodedRat], EntityType [entityTypeName=Weight]> (150 -	-9.999469488995326E-4
+WBO <EntityType [entityTypeName=FischerRat], EntityType [entityTypeName=RatSpecies]> of a locally	-9.99956248450307E-4
+WBO <EntityType [entityTypeName=Male], EntityType [entityTypeName=Weight]> Sprague-Dawley rats (	-9.999592483238445E-4
+WBO <EntityType [entityTypeName=Adult], EntityType [entityTypeName=Weight]> male Sprague-Dawley rats (	-9.999592483238445E-4
+WBO <EntityType [entityTypeName=RatSpecies], EntityType [entityTypeName=Weight]> weighted 200-	-9.999772477540636E-4
+WBO <EntityType [entityTypeName=Female], EntityType [entityTypeName=LongEvansRat]> Spraque±Dawley	-9.99983547631183E-4
+WBO <EntityType [entityTypeName=Adult], EntityType [entityTypeName=LongEvansRat]> female Spraque±Dawley	-9.99983547631183E-4
+WBO <EntityType [entityTypeName=SpragueDawleyRat], EntityType [entityTypeName=Weight]> (225–	-9.99994147514001E-4
+WBO <EntityType [entityTypeName=Adult], EntityType [entityTypeName=Weight]> Sprague-Dawley rats (	-9.999958475056625E-4
+WBO <EntityType [entityTypeName=Female], EntityType [entityTypeName=Weight]> adult Sprague-Dawley rats (	-9.999958475056625E-4
+WBO <EntityType [entityTypeName=Age], EntityType [entityTypeName=Weight]> , 200–230	-9.99996147504491E-4
+WBO <EntityType [entityTypeName=Male], EntityType [entityTypeName=RatSpecies]> Sprague–Dawley (SD)	-9.999986474982284E-4
+WBO <EntityType [entityTypeName=Female], EntityType [entityTypeName=Weight]> Albino Wistar rats (	-9.999994474975443E-4
+WBO <EntityType [entityTypeName=Adult], EntityType [entityTypeName=Weight]> female Sprague-Dawley rats (	-0.0019993828901604467
+WBO <EntityType [entityTypeName=Female], EntityType [entityTypeName=Weight]> Sprague-Dawley rats (	-0.0019993828901604467
+WBO <EntityType [entityTypeName=Adult], EntityType [entityTypeName=Age]> Lister Hooded rats	-0.0019994414729430734
+WBO <EntityType [entityTypeName=Male], EntityType [entityTypeName=Age]> adult Lister Hooded rats	-0.0019994414729430734
+WBO <EntityType [entityTypeName=Adult], EntityType [entityTypeName=RatSpecies]> male and female	-0.001999520352472762
+WBO <EntityType [entityTypeName=WistarRat], EntityType [entityTypeName=Weight]> (225–	-0.001999540558483492
+WBO <EntityType [entityTypeName=FischerRat], EntityType [entityTypeName=Age]> (four months	-0.001999556044233079
+WBO <EntityType [entityTypeName=Female], EntityType [entityTypeName=Age]> Fischer 344 rats (	-0.001999559752706453
+WBO <EntityType [entityTypeName=Male], EntityType [entityTypeName=WistarRat]> Lewis rats (	-0.001999560045854008
+WBO <EntityType [entityTypeName=Adult], EntityType [entityTypeName=WistarRat]> male Lewis rats (	-0.001999560045854008
+WBO <EntityType [entityTypeName=Adult], EntityType [entityTypeName=FischerRat]> male Lewis rats (	-0.001999560245810042
+WBO <EntityType [entityTypeName=Male], EntityType [entityTypeName=FischerRat]> Lewis rats (	-0.001999560245810042
+WBO <EntityType [entityTypeName=Male], EntityType [entityTypeName=Weight]> Sprague-Dawley rats (300	-0.001999563242648497
+WBO <EntityType [entityTypeName=Female], EntityType [entityTypeName=Age]> Wistar Hannover rats (	-0.001999585837843004
+WBO <EntityType [entityTypeName=Female], EntityType [entityTypeName=SpragueDawleyRat]> adult Sprague‚	-0.0019995862461216203
+WBO <EntityType [entityTypeName=Female], EntityType [entityTypeName=SpragueDawleyRat]> adult Sprague±	-0.001999603151103916
+WBO <EntityType [entityTypeName=Adult], EntityType [entityTypeName=RatSpecies]> Sprague±Dawley	-0.0019996464491204794
+WBO <EntityType [entityTypeName=Female], EntityType [entityTypeName=RatSpecies]> adult Sprague±Dawley	-0.0019996464491204794
+WBO <EntityType [entityTypeName=ListerHoodedRat], EntityType [entityTypeName=Age]> Hooded rats aged	-0.001999647526023535
+WBO <EntityType [entityTypeName=Male], EntityType [entityTypeName=WistarRat]> and female Albino	-0.001999708416223824
+WBO <EntityType [entityTypeName=Adult], EntityType [entityTypeName=WistarRat]> male and female Albino	-0.001999708416223824
+WBO <EntityType [entityTypeName=Adult], EntityType [entityTypeName=Age]> male Sprague-Dawley rats (	-0.001999709317521511
+WBO <EntityType [entityTypeName=Male], EntityType [entityTypeName=Age]> Sprague-Dawley rats (	-0.001999709317521511
+WBO <EntityType [entityTypeName=Adult], EntityType [entityTypeName=SpragueDawleyRat]> male Sprague–Dawley (	-0.0019997225251379425
+WBO <EntityType [entityTypeName=Adult], EntityType [entityTypeName=Weight]> (180-	-0.0019997487119901387
+WBO <EntityType [entityTypeName=SpragueDawleyRat], EntityType [entityTypeName=Weight]> (150–	-0.0019997498118558494
+WBO <EntityType [entityTypeName=Adult], EntityType [entityTypeName=MouseSpecies]> male C57BL/6	-0.0019997635130889397
+WBO <EntityType [entityTypeName=Male], EntityType [entityTypeName=MouseSpecies]> C57BL/6	-0.0019997635130889397
+WBO <EntityType [entityTypeName=Adult], EntityType [entityTypeName=Weight]> (225-	-0.001999796406314903
+WBO <EntityType [entityTypeName=Adult], EntityType [entityTypeName=WistarRat]> male Australian inbred	-0.001999821702925421
+WBO <EntityType [entityTypeName=Adult], EntityType [entityTypeName=SpragueDawleyRat]> male Sprague Dawley (	-0.0019998231036077486
+WBO <EntityType [entityTypeName=Male], EntityType [entityTypeName=SpragueDawleyRat]> Sprague Dawley (	-0.0019998231036077486
+WBO <EntityType [entityTypeName=Adult], EntityType [entityTypeName=SpragueDawleyRat]> female Spraque±	-0.0019998713014273517
+WBO <EntityType [entityTypeName=Adult], EntityType [entityTypeName=RatSpecies]> Sprague‚ÄìDawley	-0.00199992369685919
+WBO <EntityType [entityTypeName=Female], EntityType [entityTypeName=RatSpecies]> adult Sprague‚ÄìDawley	-0.00199992369685919
+WBO <EntityType [entityTypeName=MouseSpecies], EntityType [entityTypeName=Age]> mice (12 weeks	-0.002999094279153262
+WBO <EntityType [entityTypeName=Age], EntityType [entityTypeName=MouseSpecies]> C57BL/6 female	-0.002999439897285101
+WBO <EntityType [entityTypeName=RatSpecies], EntityType [entityTypeName=RatSpecies]> of adult female	-0.0029995128056978055
+WBO <EntityType [entityTypeName=MouseSpecies], EntityType [entityTypeName=RatSpecies]> of adult female	-0.00299957787790213
+WBO <EntityType [entityTypeName=Male], EntityType [entityTypeName=RatSpecies]> Lewis rats (	-0.003998735389813504
+WBO <EntityType [entityTypeName=WistarRat], EntityType [entityTypeName=Age]> , 10–	-0.003999821794542187
+WBO <EntityType [entityTypeName=Female], EntityType [entityTypeName=Age]> rats (10–	-0.00599855688196348
+WBO <EntityType [entityTypeName=Female], EntityType [entityTypeName=Age]> , 8–	-0.005999499714697848

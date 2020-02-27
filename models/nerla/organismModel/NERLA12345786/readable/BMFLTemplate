@@ -1,0 +1,596 @@
+2  Words before <Weight>: rats	0.006999972332542909
+2  Words before <Age>: rats	0.004999977337543792
+Words before <Weight>: rats (	0.00399998129003361
+4  Words before <Male>: and	0.0029999876425217463
+4  Words before <Age>: female	0.0029999858425247255
+5  Words before <Adult>: .	0.002999983342538068
+5  Words before <Age>: adult	0.002999982742542101
+3  Words before <Age>: .	0.0019999975949964045
+3  Words before <Weight>: weeks	0.001999997094996878
+5  Words before <Age>: .	0.001999996794998049
+Words before <Weight>: rats weighing	0.0019999959950000733
+4  Words before <SpragueDawleyRat>: ,	0.0019999955949996148
+2  Words before <Weight>: mice	0.0019999954949995362
+4  Words before <Male>: .	0.00199999459500473
+Words before <Age>: rats,	0.00199999459500169
+3  Words before <C57_BL6_Mouse>: ,	0.001999994095003523
+5  Words before <Weight>: ,	0.0019999925950113
+5  Words before <Age>: and	0.0019999918950105344
+5  Words before <Weight>: (	0.00199999069501572
+2  Words before <Weight>: weighing	0.00199999059502029
+4  Words before <Weight>: female	0.0019999902950175023
+Words before <Age>: rats (	0.001999989995019063
+Words before <Age>: Wistar rats (	0.001999989995019063
+3  Words before <Age>: Wistar	0.001999989995019063
+Words before <Age>: female Wistar rats (	0.001999989995019063
+Words before <Age>: adult female Wistar rats (	0.001999989995019063
+5  Words before <Weight>: adult	0.001999989095024048
+3  Words before <Adult>: .	0.001999987795033344
+Words before <Adult>: . Female	0.0019999877950309638
+2  Words before <Adult>: .	0.0019999877950309638
+Words before <CatSpecies>: female,	0.0010000000474974513
+2  Words before <CatSpecies>: female	0.0010000000474974513
+Words before <CatSpecies>: adult female,	0.0010000000474974513
+3  Words before <CatSpecies>: adult	0.0010000000474974513
+Words before <CatSpecies>: two adult female,	0.0010000000474974513
+4  Words before <CatSpecies>: two	0.0010000000474974513
+Words before <CatSpecies>: Twenty two adult female,	0.0010000000474974513
+5  Words before <CatSpecies>: Twenty	0.0010000000474974513
+Words before <DogSpecies>: population of	9.999999474974417E-4
+2  Words before <DogSpecies>: population	9.999999474974417E-4
+Words before <DogSpecies>: The population of	9.999999474974417E-4
+3  Words before <DogSpecies>: The	9.999999474974417E-4
+Words before <DogSpecies>: . The population of	9.999999474974417E-4
+4  Words before <DogSpecies>: .	9.999999474974417E-4
+Words before <DogSpecies>: therapies. The population of	9.999999474974417E-4
+5  Words before <DogSpecies>: therapies	9.999999474974417E-4
+Words before <SpragueDawleyRat>: week-old female	9.999998474974421E-4
+2  Words before <SpragueDawleyRat>: week-old	9.999998474974421E-4
+Words before <SpragueDawleyRat>: -week-old female	9.999998474974421E-4
+3  Words before <SpragueDawleyRat>: -	9.999998474974421E-4
+Words before <SpragueDawleyRat>: 10-week-old female	9.999998474974421E-4
+4  Words before <SpragueDawleyRat>: 10	9.999998474974421E-4
+Words before <SpragueDawleyRat>: six 10-week-old female	9.999998474974421E-4
+5  Words before <SpragueDawleyRat>: six	9.999998474974421E-4
+Words before <LongEvansRat>: University.	9.999997474974527E-4
+2  Words before <LongEvansRat>: University	9.999997474974527E-4
+Words before <LongEvansRat>: Washington University.	9.999997474974527E-4
+3  Words before <LongEvansRat>: Washington	9.999997474974527E-4
+Words before <LongEvansRat>: at Washington University.	9.999997474974527E-4
+4  Words before <LongEvansRat>: at	9.999997474974527E-4
+Words before <LongEvansRat>: Medicine at Washington University.	9.999997474974527E-4
+5  Words before <LongEvansRat>: Medicine	9.999997474974527E-4
+Words before <CatSpecies>: . All	9.999996474974733E-4
+2  Words before <CatSpecies>: .	9.999996474974733E-4
+Words before <CatSpecies>: analyses. All	9.999996474974733E-4
+3  Words before <CatSpecies>: analyses	9.999996474974733E-4
+Words before <CatSpecies>: ) analyses. All	9.999996474974733E-4
+4  Words before <CatSpecies>: )	9.999996474974733E-4
+Words before <CatSpecies>: FACE) analyses. All	9.999996474974733E-4
+5  Words before <CatSpecies>: FACE	9.999996474974733E-4
+4  Words before <WistarRat>: spinal	9.999995474975038E-4
+Words before <WistarRat>: of 42	9.999995474975038E-4
+Words before <WistarRat>: cords of 42	9.999995474975038E-4
+3  Words before <WistarRat>: cords	9.999995474975038E-4
+Words before <WistarRat>: spinal cords of 42	9.999995474975038E-4
+Words before <WistarRat>: The spinal cords of 42	9.999995474975038E-4
+5  Words before <WistarRat>: The	9.999995474975038E-4
+2  Words before <WistarRat>: of	9.999995474975038E-4
+Words before <C57_BL6_Mouse>: .  Methods	9.999994474975443E-4
+2  Words before <C57_BL6_Mouse>: .	9.999994474975443E-4
+Words before <C57_BL6_Mouse>: benefit.  Methods	9.999994474975443E-4
+3  Words before <C57_BL6_Mouse>: benefit	9.999994474975443E-4
+Words before <C57_BL6_Mouse>: functional benefit.  Methods	9.999994474975443E-4
+4  Words before <C57_BL6_Mouse>: functional	9.999994474975443E-4
+Words before <C57_BL6_Mouse>: of functional benefit.  Methods	9.999994474975443E-4
+5  Words before <C57_BL6_Mouse>: of	9.999994474975443E-4
+Words before <Age>: ) approximately	9.999993474975948E-4
+Words before <Age>: .) approximately	9.999993474975948E-4
+Words before <Age>: A.) approximately	9.999993474975948E-4
+4  Words before <Age>: A	9.999993474975948E-4
+Words before <Age>: . A.) approximately	9.999993474975948E-4
+2  Words before <Age>: )	9.999993474975948E-4
+Words before <Weight>: male rats weighing	9.999992474976553E-4
+3  Words before <Weight>: male	9.999992474976553E-4
+Words before <Weight>: albino male rats weighing	9.999992474976553E-4
+4  Words before <Weight>: albino	9.999992474976553E-4
+Words before <Weight>: outbred albino male rats weighing	9.999992474976553E-4
+5  Words before <Weight>: outbred	9.999992474976553E-4
+Words before <Male>: outbred albino	9.999991474977257E-4
+2  Words before <Male>: outbred	9.999991474977257E-4
+Words before <Male>: 53 outbred albino	9.999991474977257E-4
+3  Words before <Male>: 53	9.999991474977257E-4
+Words before <Male>: on 53 outbred albino	9.999991474977257E-4
+4  Words before <Male>: on	9.999991474977257E-4
+Words before <Male>: out on 53 outbred albino	9.999991474977257E-4
+5  Words before <Male>: out	9.999991474977257E-4
+Words before <Male>: cord injury	9.999990474978061E-4
+2  Words before <Male>: cord	9.999990474978061E-4
+Words before <Male>: Spinal cord injury	9.999990474978061E-4
+3  Words before <Male>: Spinal	9.999990474978061E-4
+Words before <Male>: .  Spinal cord injury	9.999990474978061E-4
+Words before <Male>: guidelines.  Spinal cord injury	9.999990474978061E-4
+5  Words before <Male>: guidelines	9.999990474978061E-4
+Words before <Weight>: and weighing	9.999989474978968E-4
+2  Words before <Weight>: and	9.999989474978968E-4
+Words before <Weight>: weeks and weighing	9.999989474978968E-4
+Words before <Weight>: 14 weeks and weighing	9.999989474978968E-4
+4  Words before <Weight>: 14	9.999989474978968E-4
+Words before <Weight>: –14 weeks and weighing	9.999989474978968E-4
+5  Words before <Weight>: –	9.999989474978968E-4
+Words before <Male>: 37 naive	9.999988474979973E-4
+2  Words before <Male>: 37	9.999988474979973E-4
+Words before <Male>: on 37 naive	9.999988474979973E-4
+3  Words before <Male>: on	9.999988474979973E-4
+Words before <Male>: conducted on 37 naive	9.999988474979973E-4
+4  Words before <Male>: conducted	9.999988474979973E-4
+Words before <Male>: were conducted on 37 naive	9.999988474979973E-4
+5  Words before <Male>: were	9.999988474979973E-4
+Words before <DogSpecies>: specified that	9.999987474981079E-4
+2  Words before <DogSpecies>: specified	9.999987474981079E-4
+Words before <DogSpecies>: we specified that	9.999987474981079E-4
+3  Words before <DogSpecies>: we	9.999987474981079E-4
+Words before <DogSpecies>: , we specified that	9.999987474981079E-4
+4  Words before <DogSpecies>: ,	9.999987474981079E-4
+Words before <DogSpecies>: inclusion, we specified that	9.999987474981079E-4
+5  Words before <DogSpecies>: inclusion	9.999987474981079E-4
+Words before <FischerRat>: , adult	9.999986474982284E-4
+2  Words before <FischerRat>: ,	9.999986474982284E-4
+Words before <FischerRat>: groups, adult	9.999986474982284E-4
+3  Words before <FischerRat>: groups	9.999986474982284E-4
+Words before <FischerRat>: experimental groups, adult	9.999986474982284E-4
+4  Words before <FischerRat>: experimental	9.999986474982284E-4
+Words before <FischerRat>: For experimental groups, adult	9.999986474982284E-4
+5  Words before <FischerRat>: For	9.999986474982284E-4
+Words before <Male>: ) and	9.99998547498359E-4
+2  Words before <Male>: )	9.99998547498359E-4
+Words before <Male>: Laboratories) and	9.99998547498359E-4
+3  Words before <Male>: Laboratories	9.99998547498359E-4
+Words before <Male>: Breeding Laboratories) and	9.99998547498359E-4
+4  Words before <Male>: Breeding	9.99998547498359E-4
+Words before <Male>: River Breeding Laboratories) and	9.99998547498359E-4
+5  Words before <Male>: River	9.99998547498359E-4
+Words before <Male>: dorsolateral funiculus	9.999984474984994E-4
+2  Words before <Male>: dorsolateral	9.999984474984994E-4
+Words before <Male>: the dorsolateral funiculus	9.999984474984994E-4
+3  Words before <Male>: the	9.999984474984994E-4
+Words before <Male>: of the dorsolateral funiculus	9.999984474984994E-4
+4  Words before <Male>: of	9.999984474984994E-4
+Words before <Male>: injury of the dorsolateral funiculus	9.999984474984994E-4
+5  Words before <Male>: injury	9.999984474984994E-4
+Words before <SpragueDawleyRat>: culture media	9.999983474986499E-4
+2  Words before <SpragueDawleyRat>: culture	9.999983474986499E-4
+Words before <SpragueDawleyRat>: and culture media	9.999983474986499E-4
+3  Words before <SpragueDawleyRat>: and	9.999983474986499E-4
+Words before <SpragueDawleyRat>: , and culture media	9.999983474986499E-4
+Words before <SpragueDawleyRat>: reagents, and culture media	9.999983474986499E-4
+5  Words before <SpragueDawleyRat>: reagents	9.999983474986499E-4
+Words before <Age>: At the	9.999982474988103E-4
+2  Words before <Age>: At	9.999982474988103E-4
+Words before <Age>: . At the	9.999982474988103E-4
+Words before <Age>: hesitation. At the	9.999982474988103E-4
+4  Words before <Age>: hesitation	9.999982474988103E-4
+Words before <Age>: without hesitation. At the	9.999982474988103E-4
+5  Words before <Age>: without	9.999982474988103E-4
+Words before <Weight>: old,	9.999981474989807E-4
+2  Words before <Weight>: old	9.999981474989807E-4
+Words before <Weight>: 7 weeks old,	9.999981474989807E-4
+4  Words before <Weight>: 7	9.999981474989807E-4
+Words before <Weight>: , 7 weeks old,	9.999981474989807E-4
+Words before <Weight>: weeks old,	9.999981474989807E-4
+Words before <LewisRat>: . Male	9.999980474991613E-4
+2  Words before <LewisRat>: .	9.999980474991613E-4
+Words before <LewisRat>: suffering. Male	9.999980474991613E-4
+3  Words before <LewisRat>: suffering	9.999980474991613E-4
+Words before <LewisRat>: their suffering. Male	9.999980474991613E-4
+4  Words before <LewisRat>: their	9.999980474991613E-4
+Words before <LewisRat>: and their suffering. Male	9.999980474991613E-4
+5  Words before <LewisRat>: and	9.999980474991613E-4
+Words before <Male>: suffering.	9.999979474993518E-4
+2  Words before <Male>: suffering	9.999979474993518E-4
+Words before <Male>: their suffering.	9.999979474993518E-4
+3  Words before <Male>: their	9.999979474993518E-4
+Words before <Male>: and their suffering.	9.999979474993518E-4
+Words before <Male>: animals and their suffering.	9.999979474993518E-4
+5  Words before <Male>: animals	9.999979474993518E-4
+Words before <Weight>: mice weighing	9.999978474995524E-4
+Words before <Weight>: KO mice weighing	9.999978474995524E-4
+3  Words before <Weight>: KO	9.999978474995524E-4
+Words before <Weight>: tPA KO mice weighing	9.999978474995524E-4
+4  Words before <Weight>: tPA	9.999978474995524E-4
+Words before <Weight>: and tPA KO mice weighing	9.999978474995524E-4
+5  Words before <Weight>: and	9.999978474995524E-4
+Words before <C57_BL6_Mouse>: female,	9.99997747499763E-4
+2  Words before <C57_BL6_Mouse>: female	9.99997747499763E-4
+Words before <C57_BL6_Mouse>: , female,	9.99997747499763E-4
+Words before <C57_BL6_Mouse>: ), female,	9.99997747499763E-4
+4  Words before <C57_BL6_Mouse>: )	9.99997747499763E-4
+Words before <C57_BL6_Mouse>: old), female,	9.99997747499763E-4
+5  Words before <C57_BL6_Mouse>: old	9.99997747499763E-4
+Words before <Weight>: mice (	9.999976474999834E-4
+Words before <Weight>: 6 mice (	9.999976474999834E-4
+3  Words before <Weight>: 6	9.999976474999834E-4
+Words before <Weight>: /6 mice (	9.999976474999834E-4
+4  Words before <Weight>: /	9.999976474999834E-4
+Words before <Weight>: C57BL/6 mice (	9.999976474999834E-4
+5  Words before <Weight>: C57BL	9.999976474999834E-4
+Words before <Age>: age of	9.999975475002139E-4
+2  Words before <Age>: age	9.999975475002139E-4
+Words before <Age>: and age of	9.999975475002139E-4
+3  Words before <Age>: and	9.999975475002139E-4
+Words before <Age>: g and age of	9.999975475002139E-4
+4  Words before <Age>: g	9.999975475002139E-4
+Words before <Age>: 20 g and age of	9.999975475002139E-4
+5  Words before <Age>: 20	9.999975475002139E-4
+Words before <Age>: Sprague-Dawly rats,	9.999974475004543E-4
+3  Words before <Age>: Sprague-Dawly	9.999974475004543E-4
+Words before <Age>: Twenty Sprague-Dawly rats,	9.999974475004543E-4
+4  Words before <Age>: Twenty	9.999974475004543E-4
+Words before <Age>: . Twenty Sprague-Dawly rats,	9.999974475004543E-4
+4  Words before <Weight>: ,	9.999973475007047E-4
+Words before <Weight>: weighing approximately	9.999973475007047E-4
+Words before <Weight>: each weighing approximately	9.999973475007047E-4
+3  Words before <Weight>: each	9.999973475007047E-4
+Words before <Weight>: , each weighing approximately	9.999973475007047E-4
+Words before <Weight>: old, each weighing approximately	9.999973475007047E-4
+5  Words before <Weight>: old	9.999973475007047E-4
+Words before <SpragueDawleyRat>: . Twenty	9.999972475009653E-4
+2  Words before <SpragueDawleyRat>: .	9.999972475009653E-4
+Words before <SpragueDawleyRat>: USA. Twenty	9.999972475009653E-4
+3  Words before <SpragueDawleyRat>: USA	9.999972475009653E-4
+Words before <SpragueDawleyRat>: , USA. Twenty	9.999972475009653E-4
+Words before <SpragueDawleyRat>: 20205, USA. Twenty	9.999972475009653E-4
+5  Words before <SpragueDawleyRat>: 20205	9.999972475009653E-4
+Words before <Age>: Hannover rats,	9.99997147501236E-4
+3  Words before <Age>: Hannover	9.99997147501236E-4
+Words before <Age>: Wistar Hannover rats,	9.99997147501236E-4
+4  Words before <Age>: Wistar	9.99997147501236E-4
+Words before <Age>: female Wistar Hannover rats,	9.99997147501236E-4
+5  Words before <Age>: female	9.99997147501236E-4
+Words before <Female>: of 64	9.999970475015165E-4
+2  Words before <Female>: of	9.999970475015165E-4
+Words before <Female>: total of 64	9.999970475015165E-4
+3  Words before <Female>: total	9.999970475015165E-4
+Words before <Female>: A total of 64	9.999970475015165E-4
+4  Words before <Female>: A	9.999970475015165E-4
+Words before <Female>: Animals A total of 64	9.999970475015165E-4
+5  Words before <Female>: Animals	9.999970475015165E-4
+Words before <Adult>: tract tracing	9.99996947501807E-4
+2  Words before <Adult>: tract	9.99996947501807E-4
+Words before <Adult>: corticospinal tract tracing	9.99996947501807E-4
+3  Words before <Adult>: corticospinal	9.99996947501807E-4
+Words before <Adult>: and corticospinal tract tracing	9.99996947501807E-4
+Words before <Adult>: hemisection and corticospinal tract tracing	9.99996947501807E-4
+5  Words before <Adult>: hemisection	9.99996947501807E-4
+4  Words before <Adult>: and	9.99996947501807E-4
+Words before <FischerRat>: Adult female	9.999968475021075E-4
+2  Words before <FischerRat>: Adult	9.999968475021075E-4
+Words before <FischerRat>: . Adult female	9.999968475021075E-4
+3  Words before <FischerRat>: .	9.999968475021075E-4
+Words before <FischerRat>: Animals. Adult female	9.999968475021075E-4
+4  Words before <FischerRat>: Animals	9.999968475021075E-4
+Words before <FischerRat>: . Animals. Adult female	9.999968475021075E-4
+5  Words before <FischerRat>: .	9.999968475021075E-4
+Words before <Weight>: Adult rats weighing	9.99996747502418E-4
+3  Words before <Weight>: Adult	9.99996747502418E-4
+Words before <Weight>: surgeries Adult rats weighing	9.99996747502418E-4
+4  Words before <Weight>: surgeries	9.99996747502418E-4
+Words before <Weight>: lesion surgeries Adult rats weighing	9.99996747502418E-4
+5  Words before <Weight>: lesion	9.99996747502418E-4
+Words before <WistarRat>: surgeries Adult	9.999966475027385E-4
+2  Words before <WistarRat>: surgeries	9.999966475027385E-4
+Words before <WistarRat>: lesion surgeries Adult	9.999966475027385E-4
+3  Words before <WistarRat>: lesion	9.999966475027385E-4
+Words before <WistarRat>: Spinal lesion surgeries Adult	9.999966475027385E-4
+4  Words before <WistarRat>: Spinal	9.999966475027385E-4
+Words before <WistarRat>: . Spinal lesion surgeries Adult	9.999966475027385E-4
+5  Words before <WistarRat>: .	9.999966475027385E-4
+Words before <Weight>: Hooded rats (	9.999965475030689E-4
+3  Words before <Weight>: Hooded	9.999965475030689E-4
+Words before <Weight>: Lister Hooded rats (	9.999965475030689E-4
+4  Words before <Weight>: Lister	9.999965475030689E-4
+Words before <Weight>: delivery Lister Hooded rats (	9.999965475030689E-4
+5  Words before <Weight>: delivery	9.999965475030689E-4
+Words before <ListerHoodedRat>: drug delivery	9.999964475034093E-4
+2  Words before <ListerHoodedRat>: drug	9.999964475034093E-4
+Words before <ListerHoodedRat>: and drug delivery	9.999964475034093E-4
+3  Words before <ListerHoodedRat>: and	9.999964475034093E-4
+Words before <ListerHoodedRat>: injury and drug delivery	9.999964475034093E-4
+4  Words before <ListerHoodedRat>: injury	9.999964475034093E-4
+Words before <ListerHoodedRat>: cord injury and drug delivery	9.999964475034093E-4
+5  Words before <ListerHoodedRat>: cord	9.999964475034093E-4
+Words before <C57_BL6_Mouse>: adult female	9.999963475037599E-4
+2  Words before <C57_BL6_Mouse>: adult	9.999963475037599E-4
+Words before <C57_BL6_Mouse>: , adult female	9.999963475037599E-4
+Words before <C57_BL6_Mouse>: hemisections, adult female	9.999963475037599E-4
+4  Words before <C57_BL6_Mouse>: hemisections	9.999963475037599E-4
+Words before <C57_BL6_Mouse>: dorsal hemisections, adult female	9.999963475037599E-4
+5  Words before <C57_BL6_Mouse>: dorsal	9.999963475037599E-4
+Words before <Male>: groups Adult	9.999962475041205E-4
+2  Words before <Male>: groups	9.999962475041205E-4
+Words before <Male>: experimental groups Adult	9.999962475041205E-4
+3  Words before <Male>: experimental	9.999962475041205E-4
+Words before <Male>: and experimental groups Adult	9.999962475041205E-4
+Words before <Male>: Animals and experimental groups Adult	9.999962475041205E-4
+5  Words before <Male>: Animals	9.999962475041205E-4
+Words before <Age>: and adult	9.99996147504491E-4
+2  Words before <Age>: and	9.99996147504491E-4
+Words before <Age>: day-old and adult	9.99996147504491E-4
+3  Words before <Age>: day-old	9.99996147504491E-4
+Words before <Age>: -day-old and adult	9.99996147504491E-4
+4  Words before <Age>: -	9.99996147504491E-4
+Words before <Age>: 7-day-old and adult	9.99996147504491E-4
+5  Words before <Age>: 7	9.99996147504491E-4
+Words before <Age>: procedures Neonatal	9.999960475048715E-4
+2  Words before <Age>: procedures	9.999960475048715E-4
+Words before <Age>: Surgical procedures Neonatal	9.999960475048715E-4
+3  Words before <Age>: Surgical	9.999960475048715E-4
+Words before <Age>: methods Surgical procedures Neonatal	9.999960475048715E-4
+4  Words before <Age>: methods	9.999960475048715E-4
+Words before <Age>: and methods Surgical procedures Neonatal	9.999960475048715E-4
+Words before <Young>: Surgical procedures	9.99995947505262E-4
+2  Words before <Young>: Surgical	9.99995947505262E-4
+Words before <Young>: methods Surgical procedures	9.99995947505262E-4
+3  Words before <Young>: methods	9.99995947505262E-4
+Words before <Young>: and methods Surgical procedures	9.99995947505262E-4
+4  Words before <Young>: and	9.99995947505262E-4
+Words before <Young>: Materials and methods Surgical procedures	9.99995947505262E-4
+5  Words before <Young>: Materials	9.99995947505262E-4
+Words before <Age>: mice (	9.999958475056625E-4
+2  Words before <Age>: mice	9.999958475056625E-4
+Words before <Age>: YFP-positive mice (	9.999958475056625E-4
+3  Words before <Age>: YFP-positive	9.999958475056625E-4
+Words before <Age>: female YFP-positive mice (	9.999958475056625E-4
+Words before <Age>: and female YFP-positive mice (	9.999958475056625E-4
+Words before <Male>: Eighty-two adult	9.99995747506073E-4
+2  Words before <Male>: Eighty-two	9.99995747506073E-4
+Words before <Male>: groups Eighty-two adult	9.99995747506073E-4
+3  Words before <Male>: groups	9.99995747506073E-4
+Words before <Male>: experimental groups Eighty-two adult	9.99995747506073E-4
+4  Words before <Male>: experimental	9.99995747506073E-4
+Words before <Male>: and experimental groups Eighty-two adult	9.99995747506073E-4
+5  Words before <Male>: and	9.99995747506073E-4
+Words before <Weight>: ) rats (	9.999956475064934E-4
+3  Words before <Weight>: )	9.999956475064934E-4
+Words before <Weight>: SD) rats (	9.999956475064934E-4
+4  Words before <Weight>: SD	9.999956475064934E-4
+Words before <Weight>: (SD) rats (	9.999956475064934E-4
+Words before <Male>: injury Adult	9.999955475069237E-4
+2  Words before <Male>: injury	9.999955475069237E-4
+Words before <Male>: Contusion injury Adult	9.999955475069237E-4
+3  Words before <Male>: Contusion	9.999955475069237E-4
+Words before <Male>: . Contusion injury Adult	9.999955475069237E-4
+Words before <Male>: 2.2. Contusion injury Adult	9.999955475069237E-4
+5  Words before <Male>: 2.2	9.999955475069237E-4
+Words before <Adult>: Contusion injury	9.999954475073643E-4
+2  Words before <Adult>: Contusion	9.999954475073643E-4
+Words before <Adult>: . Contusion injury	9.999954475073643E-4
+Words before <Adult>: 2.2. Contusion injury	9.999954475073643E-4
+4  Words before <Adult>: 2.2	9.999954475073643E-4
+Words before <Adult>: . 2.2. Contusion injury	9.999954475073643E-4
+Words before <Weight>: Wistar rats (	9.999952475082754E-4
+3  Words before <Weight>: Wistar	9.999952475082754E-4
+Words before <Weight>: female Wistar rats (	9.999952475082754E-4
+Words before <Weight>: adult female Wistar rats (	9.999952475082754E-4
+Words before <Adult>: performed on	9.99995147508746E-4
+2  Words before <Adult>: performed	9.99995147508746E-4
+Words before <Adult>: was performed on	9.99995147508746E-4
+3  Words before <Adult>: was	9.99995147508746E-4
+Words before <Adult>: laminectomy was performed on	9.99995147508746E-4
+4  Words before <Adult>: laminectomy	9.99995147508746E-4
+Words before <Adult>: T11 laminectomy was performed on	9.99995147508746E-4
+5  Words before <Adult>: T11	9.99995147508746E-4
+Words before <Weight>: rats,	9.999950475092264E-4
+Words before <Weight>: Long-Evans rats,	9.999950475092264E-4
+3  Words before <Weight>: Long-Evans	9.999950475092264E-4
+Words before <Weight>: female Long-Evans rats,	9.999950475092264E-4
+Words before <Weight>: (female Long-Evans rats,	9.999950475092264E-4
+Words before <LongEvansRat>: (female	9.999949475097169E-4
+2  Words before <LongEvansRat>: (	9.999949475097169E-4
+Words before <LongEvansRat>: animals (female	9.999949475097169E-4
+3  Words before <LongEvansRat>: animals	9.999949475097169E-4
+Words before <LongEvansRat>: , animals (female	9.999949475097169E-4
+4  Words before <LongEvansRat>: ,	9.999949475097169E-4
+Words before <LongEvansRat>: surgery, animals (female	9.999949475097169E-4
+5  Words before <LongEvansRat>: surgery	9.999949475097169E-4
+Words before <Female>: animals (	9.999948475102173E-4
+2  Words before <Female>: animals	9.999948475102173E-4
+Words before <Female>: , animals (	9.999948475102173E-4
+3  Words before <Female>: ,	9.999948475102173E-4
+Words before <Female>: surgery, animals (	9.999948475102173E-4
+4  Words before <Female>: surgery	9.999948475102173E-4
+Words before <Female>: to surgery, animals (	9.999948475102173E-4
+5  Words before <Female>: to	9.999948475102173E-4
+Words before <Weight>: , weighing	9.999947475107277E-4
+2  Words before <Weight>: ,	9.999947475107277E-4
+Words before <Weight>: old, weighing	9.999947475107277E-4
+3  Words before <Weight>: old	9.999947475107277E-4
+Words before <Weight>: weeks old, weighing	9.999947475107277E-4
+4  Words before <Weight>: weeks	9.999947475107277E-4
+Words before <Weight>: 11 weeks old, weighing	9.999947475107277E-4
+5  Words before <Weight>: 11	9.999947475107277E-4
+Words before <Adult>: Procedure Fifty-six	9.99994547511779E-4
+2  Words before <Adult>: Procedure	9.99994547511779E-4
+Words before <Adult>: Surgical Procedure Fifty-six	9.99994547511779E-4
+3  Words before <Adult>: Surgical	9.99994547511779E-4
+Words before <Adult>: Methods Surgical Procedure Fifty-six	9.99994547511779E-4
+4  Words before <Adult>: Methods	9.99994547511779E-4
+Words before <Adult>: .  Methods Surgical Procedure Fifty-six	9.99994547511779E-4
+Words before <Weight>: average of	9.999944475123194E-4
+2  Words before <Weight>: average	9.999944475123194E-4
+Words before <Weight>: an average of	9.999944475123194E-4
+3  Words before <Weight>: an	9.999944475123194E-4
+Words before <Weight>: weighing an average of	9.999944475123194E-4
+4  Words before <Weight>: weighing	9.999944475123194E-4
+Words before <Weight>: , weighing an average of	9.999944475123194E-4
+Words before <Male>: and 7	9.9999434751287E-4
+2  Words before <Male>: and	9.9999434751287E-4
+Words before <Male>: female and 7	9.9999434751287E-4
+3  Words before <Male>: female	9.9999434751287E-4
+Words before <Male>: 9 female and 7	9.9999434751287E-4
+4  Words before <Male>: 9	9.9999434751287E-4
+Words before <Male>: (9 female and 7	9.9999434751287E-4
+5  Words before <Male>: (	9.9999434751287E-4
+Words before <Female>: (9	9.999942475134305E-4
+2  Words before <Female>: (	9.999942475134305E-4
+Words before <Female>: kg (9	9.999942475134305E-4
+3  Words before <Female>: kg	9.999942475134305E-4
+Words before <Female>: 1.24 kg (9	9.999942475134305E-4
+4  Words before <Female>: 1.24	9.999942475134305E-4
+Words before <Female>: ± 1.24 kg (9	9.999942475134305E-4
+5  Words before <Female>: ±	9.999942475134305E-4
+Words before <DogSpecies>: -year-old	9.99994147514001E-4
+2  Words before <DogSpecies>: -	9.99994147514001E-4
+Words before <DogSpecies>: 3-year-old	9.99994147514001E-4
+3  Words before <DogSpecies>: 3	9.99994147514001E-4
+Words before <DogSpecies>: to 3-year-old	9.99994147514001E-4
+4  Words before <DogSpecies>: to	9.99994147514001E-4
+Words before <DogSpecies>: - to 3-year-old	9.99994147514001E-4
+5  Words before <DogSpecies>: -	9.99994147514001E-4
+Words before <Adult>: guidelines. Female	9.999940475145814E-4
+3  Words before <Adult>: guidelines	9.999940475145814E-4
+Words before <Adult>: NIH guidelines. Female	9.999940475145814E-4
+4  Words before <Adult>: NIH	9.999940475145814E-4
+Words before <Adult>: recommended NIH guidelines. Female	9.999940475145814E-4
+5  Words before <Adult>: recommended	9.999940475145814E-4
+Words before <Female>: guidelines.	9.999939475151718E-4
+2  Words before <Female>: guidelines	9.999939475151718E-4
+Words before <Female>: NIH guidelines.	9.999939475151718E-4
+3  Words before <Female>: NIH	9.999939475151718E-4
+Words before <Female>: recommended NIH guidelines.	9.999939475151718E-4
+4  Words before <Female>: recommended	9.999939475151718E-4
+Words before <Female>: followed recommended NIH guidelines.	9.999939475151718E-4
+5  Words before <Female>: followed	9.999939475151718E-4
+Words before <Weight>: Dawley rats (	9.999938475157722E-4
+3  Words before <Weight>: Dawley	9.999938475157722E-4
+Words before <Weight>: Sprague Dawley rats (	9.999938475157722E-4
+4  Words before <Weight>: Sprague	9.999938475157722E-4
+Words before <Weight>: adult Sprague Dawley rats (	9.999938475157722E-4
+Words before <Adult>: University. Female	9.999937475163828E-4
+3  Words before <Adult>: University	9.999937475163828E-4
+Words before <Adult>: Reserve University. Female	9.999937475163828E-4
+4  Words before <Adult>: Reserve	9.999937475163828E-4
+Words before <Adult>: Western Reserve University. Female	9.999937475163828E-4
+5  Words before <Adult>: Western	9.999937475163828E-4
+Words before <Female>: University.	9.999936475170034E-4
+2  Words before <Female>: University	9.999936475170034E-4
+Words before <Female>: Reserve University.	9.999936475170034E-4
+3  Words before <Female>: Reserve	9.999936475170034E-4
+Words before <Female>: Western Reserve University.	9.999936475170034E-4
+4  Words before <Female>: Western	9.999936475170034E-4
+Words before <Female>: Case Western Reserve University.	9.999936475170034E-4
+5  Words before <Female>: Case	9.999936475170034E-4
+Words before <WistarRat>: Adult male	9.99993547517634E-4
+2  Words before <WistarRat>: Adult	9.99993547517634E-4
+Words before <WistarRat>: Animals  Adult male	9.99993547517634E-4
+3  Words before <WistarRat>: Animals	9.99993547517634E-4
+Words before <WistarRat>: Methods  Animals  Adult male	9.99993547517634E-4
+4  Words before <WistarRat>: Methods	9.99993547517634E-4
+Words before <WistarRat>: and Methods  Animals  Adult male	9.99993547517634E-4
+5  Words before <WistarRat>: and	9.99993547517634E-4
+Words before <Male>: Animals  Adult	9.999934475182744E-4
+2  Words before <Male>: Animals	9.999934475182744E-4
+Words before <Male>: Methods  Animals  Adult	9.999934475182744E-4
+3  Words before <Male>: Methods	9.999934475182744E-4
+Words before <Male>: and Methods  Animals  Adult	9.999934475182744E-4
+Words before <Male>: Materials and Methods  Animals  Adult	9.999934475182744E-4
+5  Words before <Male>: Materials	9.999934475182744E-4
+Words before <Adult>: Methods  Animals	9.99993347518925E-4
+2  Words before <Adult>: Methods	9.99993347518925E-4
+Words before <Adult>: and Methods  Animals	9.99993347518925E-4
+3  Words before <Adult>: and	9.99993347518925E-4
+Words before <Adult>: Materials and Methods  Animals	9.99993347518925E-4
+4  Words before <Adult>: Materials	9.99993347518925E-4
+Words before <Adult>: .    Materials and Methods  Animals	9.99993347518925E-4
+Words before <Weight>: weighing between	9.999932475195854E-4
+Words before <Weight>: rats weighing between	9.999932475195854E-4
+3  Words before <Weight>: rats	9.999932475195854E-4
+Words before <Weight>: Sprague-Dawley rats weighing between	9.999932475195854E-4
+4  Words before <Weight>: Sprague-Dawley	9.999932475195854E-4
+Words before <Weight>: female Sprague-Dawley rats weighing between	9.999932475195854E-4
+5  Words before <Weight>: female	9.999932475195854E-4
+Words before <SpragueDawleyRat>: Adult female	9.999931475202558E-4
+2  Words before <SpragueDawleyRat>: Adult	9.999931475202558E-4
+Words before <SpragueDawleyRat>: Injury Adult female	9.999931475202558E-4
+3  Words before <SpragueDawleyRat>: Injury	9.999931475202558E-4
+Words before <SpragueDawleyRat>: Cord Injury Adult female	9.999931475202558E-4
+4  Words before <SpragueDawleyRat>: Cord	9.999931475202558E-4
+Words before <SpragueDawleyRat>: Spinal Cord Injury Adult female	9.999931475202558E-4
+5  Words before <SpragueDawleyRat>: Spinal	9.999931475202558E-4
+Words before <Female>: Injury Adult	9.999930475209362E-4
+2  Words before <Female>: Injury	9.999930475209362E-4
+Words before <Female>: Cord Injury Adult	9.999930475209362E-4
+3  Words before <Female>: Cord	9.999930475209362E-4
+Words before <Female>: Spinal Cord Injury Adult	9.999930475209362E-4
+4  Words before <Female>: Spinal	9.999930475209362E-4
+Words before <Female>: /Spinal Cord Injury Adult	9.999930475209362E-4
+5  Words before <Female>: /	9.999930475209362E-4
+Words before <Adult>: Cord Injury	9.999929475216268E-4
+2  Words before <Adult>: Cord	9.999929475216268E-4
+Words before <Adult>: Spinal Cord Injury	9.999929475216268E-4
+3  Words before <Adult>: Spinal	9.999929475216268E-4
+Words before <Adult>: /Spinal Cord Injury	9.999929475216268E-4
+4  Words before <Adult>: /	9.999929475216268E-4
+Words before <Adult>: Methods/Spinal Cord Injury	9.999929475216268E-4
+5  Words before <Adult>: Methods	9.999929475216268E-4
+Words before <ListerHoodedRat>: Male adult	9.999928475223274E-4
+2  Words before <ListerHoodedRat>: Male	9.999928475223274E-4
+Words before <ListerHoodedRat>: surgery  Male adult	9.999928475223274E-4
+3  Words before <ListerHoodedRat>: surgery	9.999928475223274E-4
+Words before <ListerHoodedRat>: Animal surgery  Male adult	9.999928475223274E-4
+4  Words before <ListerHoodedRat>: Animal	9.999928475223274E-4
+Words before <ListerHoodedRat>: . Animal surgery  Male adult	9.999928475223274E-4
+5  Words before <ListerHoodedRat>: .	9.999928475223274E-4
+Words before <Age>: rats aged	9.99992747523038E-4
+Words before <Age>: Hooded rats aged	9.99992747523038E-4
+3  Words before <Age>: Hooded	9.99992747523038E-4
+Words before <Age>: Lister Hooded rats aged	9.99992747523038E-4
+4  Words before <Age>: Lister	9.99992747523038E-4
+Words before <Age>: adult Lister Hooded rats aged	9.99992747523038E-4
+Words before <Adult>: surgery  Male	9.999926475237585E-4
+2  Words before <Adult>: surgery	9.999926475237585E-4
+Words before <Adult>: Animal surgery  Male	9.999926475237585E-4
+3  Words before <Adult>: Animal	9.999926475237585E-4
+Words before <Adult>: . Animal surgery  Male	9.999926475237585E-4
+4  Words before <Adult>: .	9.999926475237585E-4
+Words before <Adult>: 2.4.1. Animal surgery  Male	9.999926475237585E-4
+5  Words before <Adult>: 2.4.1	9.999926475237585E-4
+Words before <Male>: Animal surgery	9.99992547524489E-4
+2  Words before <Male>: Animal	9.99992547524489E-4
+Words before <Male>: . Animal surgery	9.99992547524489E-4
+3  Words before <Male>: .	9.99992547524489E-4
+Words before <Male>: 2.4.1. Animal surgery	9.99992547524489E-4
+4  Words before <Male>: 2.4.1	9.99992547524489E-4
+Words before <Male>: immunohistochemistry  2.4.1. Animal surgery	9.99992547524489E-4
+5  Words before <Male>: immunohistochemistry	9.99992547524489E-4
+Words before <WistarRat>: procedures  Adult	9.999924475252294E-4
+2  Words before <WistarRat>: procedures	9.999924475252294E-4
+Words before <WistarRat>: Surgical procedures  Adult	9.999924475252294E-4
+3  Words before <WistarRat>: Surgical	9.999924475252294E-4
+Words before <WistarRat>: . Surgical procedures  Adult	9.999924475252294E-4
+4  Words before <WistarRat>: .	9.999924475252294E-4
+Words before <WistarRat>: 2.1. Surgical procedures  Adult	9.999924475252294E-4
+5  Words before <WistarRat>: 2.1	9.999924475252294E-4
+Words before <Adult>: Surgical procedures	9.9999234752598E-4
+2  Words before <Adult>: Surgical	9.9999234752598E-4
+Words before <Adult>: . Surgical procedures	9.9999234752598E-4
+Words before <Adult>: 2.1. Surgical procedures	9.9999234752598E-4
+4  Words before <Adult>: 2.1	9.9999234752598E-4
+Words before <Adult>: methods 2.1. Surgical procedures	9.9999234752598E-4
+5  Words before <Adult>: methods	9.9999234752598E-4
+Words before <LongEvansRat>: 128 female	9.999922475267403E-4
+2  Words before <LongEvansRat>: 128	9.999922475267403E-4
+Words before <LongEvansRat>: , 128 female	9.999922475267403E-4
+3  Words before <LongEvansRat>: ,	9.999922475267403E-4
+Words before <LongEvansRat>: injury, 128 female	9.999922475267403E-4
+4  Words before <LongEvansRat>: injury	9.999922475267403E-4
+Words before <LongEvansRat>: cord injury, 128 female	9.999922475267403E-4
+5  Words before <LongEvansRat>: cord	9.999922475267403E-4
+Words before <Female>: , 128	9.999921475275107E-4
+2  Words before <Female>: ,	9.999921475275107E-4
+Words before <Female>: injury, 128	9.999921475275107E-4
+3  Words before <Female>: injury	9.999921475275107E-4
+Words before <Female>: cord injury, 128	9.999921475275107E-4
+4  Words before <Female>: cord	9.999921475275107E-4
+Words before <Female>: spinal cord injury, 128	9.999921475275107E-4
+5  Words before <Female>: spinal	9.999921475275107E-4
