@@ -360,13 +360,13 @@ public class CollectExpGroupNames {
 //			predictedAnnotationsBaseline.forEach(g -> System.out.println(g.toPrettyString()));
 
 			List<Integer> randomBestAssignemnt = evaluator.getBestAssignment(goldAnnotations,
-					predictedAnnotationsBaseline);
+					predictedAnnotationsBaseline, Score.EScoreType.MACRO);
 			Score simpleRandomS = simpleEvaluate(false, simpleEval, randomBestAssignemnt, goldAnnotations,
 					predictedAnnotationsBaseline);
 			overallSimpleEvalRandomScore.add(simpleRandomS);
 			System.out.println("---");
 			List<Integer> heuristicBestAssignment = evaluator.getBestAssignment(goldAnnotations,
-					predictedAnnotationsHeuristics);
+					predictedAnnotationsHeuristics, Score.EScoreType.MACRO);
 			Score simpleHeuristicS = simpleEvaluate(true, simpleEval, heuristicBestAssignment, goldAnnotations,
 					predictedAnnotationsHeuristics);
 			overallSimpleEvalHeuristicsScore.add(simpleHeuristicS);
@@ -374,10 +374,10 @@ public class CollectExpGroupNames {
 			System.out.println("Simple Random: " + simpleRandomS);
 			System.out.println("Simple Heuristics: " + simpleHeuristicS);
 
-			Score fullRandomS = evaluator.scoreMultiValues(goldAnnotations, predictedAnnotationsBaseline);
+			Score fullRandomS = evaluator.scoreMultiValues(goldAnnotations, predictedAnnotationsBaseline, Score.EScoreType.MACRO);
 			overallFullRandomScore.add(fullRandomS);
 
-			Score fullHeuristicS = evaluator.scoreMultiValues(goldAnnotations, predictedAnnotationsHeuristics);
+			Score fullHeuristicS = evaluator.scoreMultiValues(goldAnnotations, predictedAnnotationsHeuristics, Score.EScoreType.MACRO);
 			overallFullHeuristicsScore.add(fullHeuristicS);
 
 			System.out.println("Full Random: " + fullRandomS);

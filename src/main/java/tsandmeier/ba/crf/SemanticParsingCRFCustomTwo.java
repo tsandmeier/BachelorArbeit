@@ -92,7 +92,7 @@ public class SemanticParsingCRFCustomTwo {
 
     private SemanticParsingCRFCustomTwo.CRFStatistics testStatistics;
 
-    private IObjectiveFunction coverageObjectiveFunction = new SlotFillingObjectiveFunction(
+    private IObjectiveFunction coverageObjectiveFunction = new SlotFillingObjectiveFunction( Score.EScoreType.MICRO,
             new CartesianEvaluator(EEvaluationDetail.ENTITY_TYPE));
 
     public SemanticParsingCRFCustomTwo(Model model, IExplorationStrategy explorer, AbstractSampler sampler,
@@ -365,6 +365,12 @@ public class SemanticParsingCRFCustomTwo {
                 .collect(Collectors.toMap(m -> m.getKey(), m -> merge(m, n)));
     }
 
+    public Map<Instance, State> predictHighRecallTwo(List<Instance> instancesToPredict, final int n,
+                                                  ISamplingStoppingCriterion... stoppingCriterion) {
+        return predictP(this.model, instancesToPredict, 2, stoppingCriterion).entrySet().stream()
+                .collect(Collectors.toMap(m -> m.getKey(), m -> m.getValue().get(0)));
+    }
+
     public Map<Instance, State> predictHighRecall(Model model, List<Instance> instancesToPredict, final int n,
                                                   ISamplingStoppingCriterion... stoppingCriterion) {
         return predictP(model, instancesToPredict, n, stoppingCriterion).entrySet().stream()
@@ -466,15 +472,16 @@ public class SemanticParsingCRFCustomTwo {
     private State merge(Entry<Instance, List<State>> m, final int n) {
         List<AbstractAnnotation> mergedAnnotations = new ArrayList<>();
 
-        outer: for (int i = 0; i < m.getValue().size(); i++) {
+        outer: for (int i = 0; i < n; i++) {
+            if(m.getValue().size() > i) {
+                for (AbstractAnnotation abstractAnnotation : m.getValue().get(i).getCurrentPredictions().getAnnotations()) {
 
-            for (AbstractAnnotation abstractAnnotation : m.getValue().get(i).getCurrentPredictions().getAnnotations()) {
-
-                if (mergedAnnotations.size() == n)
-                    break outer;
-                mergedAnnotations.add(abstractAnnotation);
+//                if (mergedAnnotations.size() == n)
+//                    break outer;
+                    if(!mergedAnnotations.contains(abstractAnnotation))
+                    mergedAnnotations.add(abstractAnnotation);
+                }
             }
-
         }
 
         State s = new State(m.getKey(), new Annotations(mergedAnnotations));
@@ -630,7 +637,7 @@ public class SemanticParsingCRFCustomTwo {
                 log.info(
                         finalState.getKey().getName().substring(0, Math.min(finalState.getKey().getName().length(), 10))
                                 + "... \t" + SCORE_FORMAT.format(finalState.getValue().getObjectiveScore()));
-            meanTrainOFScore.add(finalState.getValue().getScore());
+            meanTrainOFScore.add(finalState.getValue().getMicroScore());
         }
 
         return meanTrainOFScore;

@@ -1,6 +1,7 @@
 package tsandmeier.ba.evaluator;
 
 import de.hterhors.semanticmr.crf.of.IObjectiveFunction;
+import de.hterhors.semanticmr.crf.structure.IEvaluatable;
 import de.hterhors.semanticmr.crf.variables.State;
 import de.hterhors.semanticmr.eval.AbstractEvaluator;
 import de.hterhors.semanticmr.eval.EEvaluationDetail;
@@ -21,7 +22,7 @@ public class NerlaObjectiveFunctionPartialOverlap implements IObjectiveFunction 
 
     @Override
     public void score(State state) {
-        state.setObjectiveScore(state.score(evaluator).getF1());
+        state.setObjectiveScore(state.score(evaluator).getMicroScore().getF1());
     }
 
     @Override

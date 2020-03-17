@@ -14,7 +14,10 @@ import de.hterhors.semanticmr.crf.sampling.impl.EpochSwitchSampler;
 import de.hterhors.semanticmr.crf.sampling.stopcrit.ISamplingStoppingCriterion;
 import de.hterhors.semanticmr.crf.sampling.stopcrit.impl.ConverganceCrit;
 import de.hterhors.semanticmr.crf.sampling.stopcrit.impl.MaxChainLengthCrit;
+import de.hterhors.semanticmr.crf.structure.EntityType;
 import de.hterhors.semanticmr.crf.structure.IEvaluatable;
+import de.hterhors.semanticmr.crf.structure.annotations.AbstractAnnotation;
+import de.hterhors.semanticmr.crf.structure.annotations.DocumentLinkedAnnotation;
 import de.hterhors.semanticmr.crf.templates.AbstractFeatureTemplate;
 import de.hterhors.semanticmr.crf.variables.Annotations;
 import de.hterhors.semanticmr.crf.variables.IStateInitializer;
@@ -23,6 +26,8 @@ import de.hterhors.semanticmr.crf.variables.State;
 import de.hterhors.semanticmr.eval.EEvaluationDetail;
 import de.hterhors.semanticmr.init.reader.csv.CSVDataStructureReader;
 import de.hterhors.semanticmr.init.specifications.SystemScope;
+import de.hterhors.semanticmr.json.nerla.JsonNerlaIO;
+import de.hterhors.semanticmr.json.nerla.wrapper.JsonEntityAnnotationWrapper;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import tsandmeier.ba.candprov.CreateDictionaryClass;
@@ -35,12 +40,11 @@ import tsandmeier.ba.groupnameTemplates.WBLGroupNamesTemplate_FAST;
 import tsandmeier.ba.groupnameTemplates.WordsInBetweenGroupNamesTemplate_FAST;
 import tsandmeier.ba.templates.*;
 
+import javax.sound.midi.SysexMessage;
 import java.io.File;
 import java.io.IOException;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Map;
-import java.util.Random;
+import java.util.*;
+import java.util.stream.Collectors;
 
 /**
  * Example of how to perform named entity recognition and linking.
@@ -68,6 +72,8 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
     private static String SLOTS = "ner/group_name/data_structure/slots.csv";
     private static String STRUCTURES = "ner/group_name/data_structure/structures.csv";
 
+    int recallFactor;
+
     private String typeOfTopic;
     File instanceDirectory;
 
@@ -87,7 +93,15 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
         if (args.length == 4) {
             mode = Integer.valueOf(args[0]);
             alpha = Double.valueOf(args[1]);
-            new NamedEntityRecognitionAndLinkingGeneralTest(args[2],args[3]).startProcedure(mode, alpha);
+            new NamedEntityRecognitionAndLinkingGeneralTest(args[2], args[3], 1).startProcedure(mode, alpha);
+        } else if (args.length == 3) {
+            mode = Integer.valueOf(args[0]);
+            alpha = Double.valueOf(args[1]);
+            new NamedEntityRecognitionAndLinkingGeneralTest(args[2], "NERLA1234" + new Random().nextInt(10000), 1).startProcedure(mode, alpha);
+        } else if (args.length == 5) {
+            mode = Integer.valueOf(args[0]);
+            alpha = Double.valueOf(args[1]);
+            new NamedEntityRecognitionAndLinkingGeneralTest(args[2], args[3], Integer.valueOf(args[4])).startProcedure(mode, alpha);
         } else {
             log.info("Falsche Anzahl an Parametern!");
         }
@@ -110,7 +124,7 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
      * stored in its own json-file.
      */
 
-    public NamedEntityRecognitionAndLinkingGeneralTest(String typeOfTopic, String modelName) {
+    public NamedEntityRecognitionAndLinkingGeneralTest(String typeOfTopic, String modelName, int recallFactor) {
 
         /**
          * 1. STEP initialize the system.
@@ -123,7 +137,7 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
                 /**
                  * We add a scope reader that reads and interprets the 4 specification files.
                  */
-                .addScopeSpecification(new CSVDataStructureReader(new File("ner/"+typeOfTopic+"/data_structure/entities.csv"), new File("ner/"+typeOfTopic+"/data_structure/hierarchies.csv"), new File("ner/"+typeOfTopic+"/data_structure/slots.csv"), new File("ner/"+typeOfTopic+"/data_structure/structures.csv")))
+                .addScopeSpecification(new CSVDataStructureReader(new File("ner/" + typeOfTopic + "/data_structure/entities.csv"), new File("ner/" + typeOfTopic + "/data_structure/hierarchies.csv"), new File("ner/" + typeOfTopic + "/data_structure/slots.csv"), new File("ner/" + typeOfTopic + "/data_structure/structures.csv")))
                 /**
                  * We apply the scope(s).
                  */
@@ -147,6 +161,7 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
         this.typeOfTopic = typeOfTopic;
         this.instanceDirectory = new File("ner/" + typeOfTopic + "/instances/");
         this.modelName = modelName;
+        this.recallFactor = recallFactor;
     }
 
     public void startProcedure(int mode, double alpha) throws IOException {
@@ -369,7 +384,7 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
          * example we set the maximum chain length to 10. That means, only 10 changes
          * (annotations) can be added to each document.
          */
-        ISamplingStoppingCriterion maxStepCrit = new MaxChainLengthCrit(50);
+        ISamplingStoppingCriterion maxStepCrit = new MaxChainLengthCrit(100);
 
         /**
          * The next stopping criterion checks for no or only little (based on a
@@ -478,73 +493,150 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
          */
 
 
-        log.info("******************TRAINIERT MIT LITERAL - GETESTET MIT LITERAL*****************************");
+        log.info("******************TRAINIERT MIT LITERAL - PREDICTED UND EVALUIERT MIT " + evaluationDetail + "*****************************");
+        log.info("PREDICTHIGHRECALL: " + recallFactor);
 
         crf.changeObjectiveFunction(new NerlaObjectiveFunctionPartialOverlap(evaluationDetail));
 
-        Map<Instance, State> results = crf.predict(instanceProvider.getRedistributedTestInstances(), maxStepCrit,
+
+        Map<Instance, State> results = crf.predictHighRecall(instanceProvider.getRedistributedTestInstances(), recallFactor, maxStepCrit,
                 noModelChangeCrit);
 
         /*
           Finally, we evaluate the produced states and print some statistics.
          */
 
+        writeToJson(results, "jsonFiles/treatment_literal_for_filtering/");
 
-        mean = evaluate(log, results);
+        filterForSuperEntitiesTreatment(results);
 
-        log.info(crf.getTrainingStatistics());
-        log.info(crf.getTestStatistics());
-
-        log.info("genutztes Modell: " + modelBaseDir.toString() + "/" + modelName);
-
-        log.info("******************TRAINIERT MIT LITERAL - GETESTET MIT DOCUMENTLINKED*****************************");
-
-        crf.changeObjectiveFunction(new NerlaObjectiveFunctionPartialOverlap(EEvaluationDetail.DOCUMENT_LINKED));
-
-        results = crf.predict(instanceProvider.getRedistributedTestInstances(), maxStepCrit,
-                noModelChangeCrit);
-
-        /*
-          Finally, we evaluate the produced states and print some statistics.
-         */
-
-
-        mean = evaluate(log, results);
+//        mean = evaluate(log, results);
 
         log.info(crf.getTrainingStatistics());
         log.info(crf.getTestStatistics());
 
         log.info("genutztes Modell: " + modelBaseDir.toString() + "/" + modelName);
 
-        //jsonFiles
+//        log.info("******************TRAINIERT MIT LITERAL - GETESTET MIT DOCLINKED*****************************");
+//
+//        crf.changeObjectiveFunction(new NerlaObjectiveFunctionPartialOverlap(EEvaluationDetail.DOCUMENT_LINKED));
+//
+//        results = crf.predictHighRecall(instanceProvider.getRedistributedTestInstances(), recallFactor , maxStepCrit,
+//                noModelChangeCrit);
+//        mean = evaluate(log, results);
+//
+//        log.info(crf.getTrainingStatistics());
+//        log.info(crf.getTestStatistics());
+//
+//        log.info("genutztes Modell: " + modelBaseDir.toString() + "/" + modelName);
+    }
 
-//        Map<Instance, Set<DocumentLinkedAnnotation>> annotations = new HashMap<>();
-//
-//        for (Map.Entry<Instance, State> result : results.entrySet()) {
-//            for (AbstractAnnotation aa : result.getValue().getCurrentPredictions().getAnnotations()) {
-//
-//                annotations.putIfAbsent(result.getKey(), new HashSet<>());
-//                annotations.get(result.getKey()).add(aa.asInstanceOfDocumentLinkedAnnotation());
-//            }
-//        }
-//
-//        JsonNerlaIO io = new JsonNerlaIO(true);
-//
-//        for (Instance instance : results.keySet()) {
-//
-//            new File("jsonFiles/"+TYPE_OF_TOPIC).mkdirs();
-//            new File("jsonFiles/"+TYPE_OF_TOPIC+"/"+evaluationDetail.toString()).mkdirs();
-//
-//
-//	    if(annotations.get(instance) != null) {
-//            List<JsonEntityAnnotationWrapper> wrappedAnnotation = annotations.get(instance).stream()
-//                    .map(d -> new JsonEntityAnnotationWrapper(d))
-//                    .collect(Collectors.toList());
-//            io.writeNerlas(new File("jsonFiles/" + TYPE_OF_TOPIC+ "/" + evaluationDetail.toString()+"/"+ instance.getName() + ".nerla.json"), wrappedAnnotation);
-//	    }
-//        }
+    private void writeToJson(Map<Instance, State> results, String path) throws IOException {
+        Map<Instance, Set<DocumentLinkedAnnotation>> annotations = new HashMap<>();
+
+        for (Map.Entry<Instance, State> result : results.entrySet()) {
+            for (AbstractAnnotation aa : result.getValue().getCurrentPredictions().getAnnotations()) {
+
+                annotations.putIfAbsent(result.getKey(), new HashSet<>());
+                annotations.get(result.getKey()).add(aa.asInstanceOfDocumentLinkedAnnotation());
+            }
+        }
+
+        JsonNerlaIO io = new JsonNerlaIO(true);
+
+        for (Instance instance : results.keySet()) {
+            if (annotations.get(instance) != null) {
+                List<JsonEntityAnnotationWrapper> wrappedAnnotation = annotations.get(instance).stream()
+                        .map(d -> new JsonEntityAnnotationWrapper(d))
+                        .collect(Collectors.toList());
+                io.writeNerlas(new File(path + instance.getName() + ".json"), wrappedAnnotation);
+            }
+        }
+    }
+
+    private IEvaluatable.Score filterForSuperEntitiesInjury(Map<Instance, State> results) {
+        IEvaluatable.Score score = new IEvaluatable.Score();
+
+        int counter = 0;
+
+        for (Map.Entry<Instance, State> result : results.entrySet()) {
+            counter++;
+            log.info("**************************State Nummer "+counter+"***************************************");
 
 
+            List<AbstractAnnotation> goldAnnos = result.getValue().getGoldAnnotations().getAnnotations().stream().filter(a -> a.getEntityType().getTransitiveClosureSuperEntityTypes().contains(EntityType.get("Injury"))).collect(Collectors.toList());
+
+            log.info("GOLD["+goldAnnos.size()+"]:");
+            for(AbstractAnnotation goldAnno : goldAnnos){
+                log.info(goldAnno.toPrettyString());
+            }
+
+            log.info(System.lineSeparator());
+
+            List<AbstractAnnotation> predictedAnnos = result.getValue().getCurrentPredictions().getAnnotations().stream().filter(a -> a.getEntityType().getTransitiveClosureSuperEntityTypes().contains(EntityType.get("Injury"))).collect(Collectors.toList());
+
+
+            log.info("PREDICTED["+predictedAnnos.size()+"]:");
+
+            for(AbstractAnnotation predictedAnno : predictedAnnos){
+                log.info(predictedAnno.toPrettyString());
+            }
+
+
+            score.add(new NerlaObjectiveFunctionPartialOverlap(EEvaluationDetail.DOCUMENT_LINKED).getEvaluator().scoreMultiValues(goldAnnos, predictedAnnos, IEvaluatable.Score.EScoreType.MICRO));
+
+        }
+
+        log.info("SCORE: " + score);
+        return score;
+    }
+
+    private IEvaluatable.Score filterForSuperEntitiesTreatment(Map<Instance, State> results) {
+        IEvaluatable.Score score = new IEvaluatable.Score();
+
+        int counter = 0;
+
+        for (Map.Entry<Instance, State> result : results.entrySet()) {
+
+            counter++;
+            log.info("**************************State Nummer "+counter+"***************************************");
+
+
+            List<AbstractAnnotation> goldAnnos = result.getValue().getGoldAnnotations().getAnnotations().stream().filter(a -> a.getEntityType().getTransitiveClosureSuperEntityTypes().contains(EntityType.get("Treatment")) ||
+                    a.getEntityType().getTransitiveClosureSuperEntityTypes().contains(EntityType.get("Compound"))).collect(Collectors.toList());
+
+            log.info("GOLD["+goldAnnos.size()+"]:");
+            for(AbstractAnnotation goldAnno : goldAnnos){
+                log.info(goldAnno.toPrettyString());
+            }
+
+            log.info(System.lineSeparator());
+
+            List<AbstractAnnotation> predictedAnnos = result.getValue().getCurrentPredictions().getAnnotations().stream().filter(a -> a.getEntityType().getTransitiveClosureSuperEntityTypes().contains(EntityType.get("Treatment")) ||
+                    a.getEntityType().getTransitiveClosureSuperEntityTypes().contains(EntityType.get("Compound"))).collect(Collectors.toList());
+
+            log.info("PREDICTED["+predictedAnnos.size()+"]:");
+            for(AbstractAnnotation predictedAnno : predictedAnnos){
+                log.info(predictedAnno.toPrettyString());
+            }
+
+            score.add(new NerlaObjectiveFunctionPartialOverlap(EEvaluationDetail.DOCUMENT_LINKED).getEvaluator().scoreMultiValues(goldAnnos, predictedAnnos, IEvaluatable.Score.EScoreType.MICRO));
+
+        }
+
+        log.info(System.lineSeparator());
+        log.info("SCORE: " + score);
+        return score;
+    }
+
+    private Collection<Instance.GoldModificationRule> getGoldModifications() {
+        List<Instance.GoldModificationRule> goldMods = new ArrayList<>();
+
+        goldMods.add(a -> {
+            return a.getEntityType().getTransitiveClosureSuperEntityTypes().contains(EntityType.get("Treatment")) ? a : null;
+        });
+
+        return goldMods;
     }
 
     private void addNumberTemplates(List<AbstractFeatureTemplate> featureTemplates) {

@@ -29,7 +29,7 @@ public class BetaNerlaObjectiveFunction implements IObjectiveFunction {
 
 	@Override
 	public void score(State state) {
-		state.setObjectiveScore(state.score(evaluator).getFbeta(beta));
+		state.setObjectiveScore(state.getMicroScore().getFbeta(beta));
 	}
 
 	@Override

@@ -533,7 +533,7 @@ public class SemanticParsingCRFCustom {
         Score meanTrainOFScore = new Score();
 
         Entry finalState;
-        for(Iterator var18 = finalStates.entrySet().iterator(); var18.hasNext(); meanTrainOFScore.add(((State)finalState.getValue()).getScore())) {
+        for(Iterator var18 = finalStates.entrySet().iterator(); var18.hasNext(); meanTrainOFScore.add(((State)finalState.getValue()).getMicroScore())) {
             finalState = (Entry)var18.next();
             predictionOF.score((State)finalState.getValue());
             if (printDetailedLog) {
@@ -572,7 +572,7 @@ public class SemanticParsingCRFCustom {
 //						res.getValue().getCurrentPredictions().getAnnotations()));
 //			}
 
-            mean.add(res.getValue().getScore());
+            mean.add(res.getValue().getMicroScore());
 //            LogUtils.logState(log, "======Final Evaluation======", res.getKey(), res.getValue());
         }
         log.info("Mean Score: " + mean);

@@ -39,21 +39,43 @@ public class NerlaEvaluatorPartialOverlap extends AbstractEvaluator {
         int fp = 0;
         int fn = 0;
 
-//EntityType.get("Injury").getTransitiveClosureSubEntityTypes().contains()
+        //EntityType.get("Injury").getTransitiveClosureSubEntityTypes().contains()
 
 
         if(evaluationDetail.equals(EEvaluationDetail.LITERAL)) {
 
             //checks if the predicted annotation's text overlaps with any gold annotation's text
 
+            outer:
+            for (AbstractAnnotation oa : otherAnnotations) {
+                for (AbstractAnnotation a : annotations) {
 
-            //remove all annotations with a duplicate text
+                    DocumentLinkedAnnotation da = (DocumentLinkedAnnotation) a;
+                    List<DocumentToken> goldTokens = da.relatedTokens;
 
-//            removePredictionsWithSameText(otherAnnotations);
+                    DocumentLinkedAnnotation doa = (DocumentLinkedAnnotation) oa;
+                    List<DocumentToken> predictedTokens = doa.relatedTokens;
+
+                    for (DocumentToken goldToken : goldTokens) {
+                        if (predictedTokens.stream().anyMatch(p -> p.getText().equals(goldToken.getText()))) {
+                            tp++;
+                            continue outer;
+                        }
+                    }
+                }
+            }
+//
+            fp += otherAnnotations.size() - tp;
+
+//            fn += annotations.size() - tp;
 
 
+//
             outer:
             for (AbstractAnnotation a : annotations) {
+
+                boolean hasTruePositive = false;
+
                 for (AbstractAnnotation oa : otherAnnotations) {
 
                     DocumentLinkedAnnotation da = (DocumentLinkedAnnotation) a;
@@ -62,47 +84,35 @@ public class NerlaEvaluatorPartialOverlap extends AbstractEvaluator {
                     DocumentLinkedAnnotation doa = (DocumentLinkedAnnotation) oa;
                     List<DocumentToken> predictedTokens = doa.relatedTokens;
 
-
-                    //remove all duplicate Tokens from predictions
-
-
                     for (DocumentToken goldToken : goldTokens) {
                         if (predictedTokens.stream().anyMatch(p -> p.getText().equals(goldToken.getText()))) {
-                            tp++;
-
-//
-//                            StringBuilder sbPred = new StringBuilder();
-//                            predictedTokens.forEach(p -> sbPred.append(p.getText() + " "));
-//
-//                            StringBuilder sbGold = new StringBuilder();
-//                            goldTokens.forEach(p -> sbGold.append(p.getText() + " "));
-//
-//                            System.out.println("Predicted: " + sbPred.toString() + predictedTokens.get(0).getDocTokenIndex());
-//                            System.out.println("Gold: "+ sbGold.toString() + goldTokens.get(0).getDocTokenIndex());
-
-                            continue outer;
+                            hasTruePositive = true;
                         }
                     }
                 }
-                fn++;
+                if(!hasTruePositive)
+                    fn++;
             }
 
-            outer:
-            for (AbstractAnnotation a : otherAnnotations) {
-                for (AbstractAnnotation oa : annotations) {
-                    DocumentLinkedAnnotation da = (DocumentLinkedAnnotation) a;
-                    List<DocumentToken> predictedTokens = da.relatedTokens;
 
-                    DocumentLinkedAnnotation doa = (DocumentLinkedAnnotation) oa;
-                    List<DocumentToken> goldTokens = doa.relatedTokens;
-                    for (DocumentToken goldToken : goldTokens) {
-                        if (predictedTokens.stream().anyMatch(p -> p.getText().equals(goldToken.getText()))) {
-                            continue outer;
-                        }
-                    }
-                }
-                fp++;
-            }
+//            outer:
+//            for (AbstractAnnotation oa : otherAnnotations) {
+//                for (AbstractAnnotation a : annotations) {
+//                    DocumentLinkedAnnotation da = (DocumentLinkedAnnotation) a;
+//                    List<DocumentToken> predictedTokens = da.relatedTokens;
+//
+//                    DocumentLinkedAnnotation doa = (DocumentLinkedAnnotation) oa;
+//                    List<DocumentToken> goldTokens = doa.relatedTokens;
+//                    for (DocumentToken goldToken : goldTokens) {
+//                        if (predictedTokens.stream().anyMatch(p -> p.getText().equals(goldToken.getText()))) {
+//                            continue outer;
+//                        }
+//                    }
+//
+//                }
+//                fp++;
+//            }
+
         }
 
         //will check the predicted annotation is an actual part of the gold annotation, e.g. if it has an overlapping text and
@@ -124,14 +134,6 @@ public class NerlaEvaluatorPartialOverlap extends AbstractEvaluator {
                                 .anyMatch(p -> p.getText().equals(goldToken.getText()) && p.getDocTokenIndex() == goldToken.getDocTokenIndex())) {
                             tp++;
 
-                            StringBuilder sbPred = new StringBuilder();
-                            predictedTokens.forEach(p -> sbPred.append(p.getText() + " "));
-
-                            StringBuilder sbGold = new StringBuilder();
-                            goldTokens.forEach(p -> sbGold.append(p.getText() + " "));
-//
-//                            System.out.println("Predicted: " + sbPred.toString() + predictedTokens.get(0).getDocTokenIndex());
-//                            System.out.println("Gold: "+ sbGold.toString() + goldTokens.get(0).getDocTokenIndex());
                             continue outer;
                         }
                     }
@@ -139,24 +141,25 @@ public class NerlaEvaluatorPartialOverlap extends AbstractEvaluator {
                 fn++;
             }
 
-            outer:
-            for (AbstractAnnotation a : otherAnnotations) {
-                for (AbstractAnnotation oa : annotations) {
-                    DocumentLinkedAnnotation da = (DocumentLinkedAnnotation) a;
-                    List<DocumentToken> predictedTokens = da.relatedTokens;
+            fp += otherAnnotations.size() - tp;
 
-                    DocumentLinkedAnnotation doa = (DocumentLinkedAnnotation) oa;
-                    List<DocumentToken> goldTokens = doa.relatedTokens;
-                    for (DocumentToken goldToken : goldTokens) {
-                        if (predictedTokens.stream().anyMatch(p -> p.getText().equals(goldToken.getText())&& p.getDocTokenIndex() == goldToken.getDocTokenIndex())) {
-                            continue outer;
-                        }
-                    }
-                }
-                fp++;
-            }
+//            outer:
+//            for (AbstractAnnotation a : otherAnnotations) {
+//                for (AbstractAnnotation oa : annotations) {
+//                    DocumentLinkedAnnotation da = (DocumentLinkedAnnotation) a;
+//                    List<DocumentToken> predictedTokens = da.relatedTokens;
+//
+//                    DocumentLinkedAnnotation doa = (DocumentLinkedAnnotation) oa;
+//                    List<DocumentToken> goldTokens = doa.relatedTokens;
+//                    for (DocumentToken goldToken : goldTokens) {
+//                        if (predictedTokens.stream().anyMatch(p -> p.getText().equals(goldToken.getText())&& p.getDocTokenIndex() == goldToken.getDocTokenIndex())) {
+//                            continue outer;
+//                        }
+//                    }
+//                }
+//                fp++;
+//            }
         }
-
         return new Score(tp, fp, fn);
 
     }
@@ -191,8 +194,12 @@ public class NerlaEvaluatorPartialOverlap extends AbstractEvaluator {
 
     @Override
     protected Score scoreMax(Collection<? extends AbstractAnnotation> annotations,
-                             Collection<? extends AbstractAnnotation> otherAnnotations) {
-        return prf1(annotations, otherAnnotations);
+                             Collection<? extends AbstractAnnotation> otherAnnotations, Score.EScoreType scoretype) {
+        Score score = prf1(annotations, otherAnnotations);
+
+        if (scoretype == Score.EScoreType.MACRO)
+            score.toMacro();
+        return score;
     }
 
 }
