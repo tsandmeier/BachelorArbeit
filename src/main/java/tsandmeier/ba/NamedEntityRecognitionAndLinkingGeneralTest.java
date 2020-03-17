@@ -499,18 +499,18 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
         crf.changeObjectiveFunction(new NerlaObjectiveFunctionPartialOverlap(evaluationDetail));
 
 
-        Map<Instance, State> results = crf.predictHighRecall(instanceProvider.getRedistributedTestInstances(), recallFactor, maxStepCrit,
+        Map<Instance, State> results = crf.predictHighRecall(instanceProvider.getInstances(), recallFactor, maxStepCrit,
                 noModelChangeCrit);
 
         /*
           Finally, we evaluate the produced states and print some statistics.
          */
 
-        writeToJson(results, "jsonFiles/treatment_literal_for_filtering/");
+        writeToJson(results, "jsonFiles/group_name/high_recall_50/");
 
-        filterForSuperEntitiesTreatment(results);
+//        filterForSuperEntitiesTreatment(results);
 
-//        mean = evaluate(log, results);
+        mean = evaluate(log, results);
 
         log.info(crf.getTrainingStatistics());
         log.info(crf.getTestStatistics());
