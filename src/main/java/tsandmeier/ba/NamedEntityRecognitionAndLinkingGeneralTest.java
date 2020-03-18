@@ -38,6 +38,7 @@ import tsandmeier.ba.groupnameTemplates.GroupNamesInSameSentenceTemplate_FAST;
 import tsandmeier.ba.groupnameTemplates.WBFGroupNamesTemplate_FAST;
 import tsandmeier.ba.groupnameTemplates.WBLGroupNamesTemplate_FAST;
 import tsandmeier.ba.groupnameTemplates.WordsInBetweenGroupNamesTemplate_FAST;
+import tsandmeier.ba.helper.FilterForSuperEntities;
 import tsandmeier.ba.templates.*;
 
 import javax.sound.midi.SysexMessage;
@@ -506,14 +507,14 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
           Finally, we evaluate the produced states and print some statistics.
          */
 
-        writeToJson(results, "jsonFiles/group_name/high_recall_50/");
+//        writeToJson(results, "jsonFiles/group_name/high_recall_50/");
 
-//        filterForSuperEntitiesTreatment(results);
+        new FilterForSuperEntities(results).filterOrganismModel();
 
-        mean = evaluate(log, results);
-
-        log.info(crf.getTrainingStatistics());
-        log.info(crf.getTestStatistics());
+//        mean = evaluate(log, results);
+//
+//        log.info(crf.getTrainingStatistics());
+//        log.info(crf.getTestStatistics());
 
         log.info("genutztes Modell: " + modelBaseDir.toString() + "/" + modelName);
 
@@ -552,81 +553,6 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
                 io.writeNerlas(new File(path + instance.getName() + ".json"), wrappedAnnotation);
             }
         }
-    }
-
-    private IEvaluatable.Score filterForSuperEntitiesInjury(Map<Instance, State> results) {
-        IEvaluatable.Score score = new IEvaluatable.Score();
-
-        int counter = 0;
-
-        for (Map.Entry<Instance, State> result : results.entrySet()) {
-            counter++;
-            log.info("**************************State Nummer "+counter+"***************************************");
-
-
-            List<AbstractAnnotation> goldAnnos = result.getValue().getGoldAnnotations().getAnnotations().stream().filter(a -> a.getEntityType().getTransitiveClosureSuperEntityTypes().contains(EntityType.get("Injury"))).collect(Collectors.toList());
-
-            log.info("GOLD["+goldAnnos.size()+"]:");
-            for(AbstractAnnotation goldAnno : goldAnnos){
-                log.info(goldAnno.toPrettyString());
-            }
-
-            log.info(System.lineSeparator());
-
-            List<AbstractAnnotation> predictedAnnos = result.getValue().getCurrentPredictions().getAnnotations().stream().filter(a -> a.getEntityType().getTransitiveClosureSuperEntityTypes().contains(EntityType.get("Injury"))).collect(Collectors.toList());
-
-
-            log.info("PREDICTED["+predictedAnnos.size()+"]:");
-
-            for(AbstractAnnotation predictedAnno : predictedAnnos){
-                log.info(predictedAnno.toPrettyString());
-            }
-
-
-            score.add(new NerlaObjectiveFunctionPartialOverlap(EEvaluationDetail.DOCUMENT_LINKED).getEvaluator().scoreMultiValues(goldAnnos, predictedAnnos, IEvaluatable.Score.EScoreType.MICRO));
-
-        }
-
-        log.info("SCORE: " + score);
-        return score;
-    }
-
-    private IEvaluatable.Score filterForSuperEntitiesTreatment(Map<Instance, State> results) {
-        IEvaluatable.Score score = new IEvaluatable.Score();
-
-        int counter = 0;
-
-        for (Map.Entry<Instance, State> result : results.entrySet()) {
-
-            counter++;
-            log.info("**************************State Nummer "+counter+"***************************************");
-
-
-            List<AbstractAnnotation> goldAnnos = result.getValue().getGoldAnnotations().getAnnotations().stream().filter(a -> a.getEntityType().getTransitiveClosureSuperEntityTypes().contains(EntityType.get("Treatment")) ||
-                    a.getEntityType().getTransitiveClosureSuperEntityTypes().contains(EntityType.get("Compound"))).collect(Collectors.toList());
-
-            log.info("GOLD["+goldAnnos.size()+"]:");
-            for(AbstractAnnotation goldAnno : goldAnnos){
-                log.info(goldAnno.toPrettyString());
-            }
-
-            log.info(System.lineSeparator());
-
-            List<AbstractAnnotation> predictedAnnos = result.getValue().getCurrentPredictions().getAnnotations().stream().filter(a -> a.getEntityType().getTransitiveClosureSuperEntityTypes().contains(EntityType.get("Treatment")) ||
-                    a.getEntityType().getTransitiveClosureSuperEntityTypes().contains(EntityType.get("Compound"))).collect(Collectors.toList());
-
-            log.info("PREDICTED["+predictedAnnos.size()+"]:");
-            for(AbstractAnnotation predictedAnno : predictedAnnos){
-                log.info(predictedAnno.toPrettyString());
-            }
-
-            score.add(new NerlaObjectiveFunctionPartialOverlap(EEvaluationDetail.DOCUMENT_LINKED).getEvaluator().scoreMultiValues(goldAnnos, predictedAnnos, IEvaluatable.Score.EScoreType.MICRO));
-
-        }
-
-        log.info(System.lineSeparator());
-        log.info("SCORE: " + score);
-        return score;
     }
 
     private Collection<Instance.GoldModificationRule> getGoldModifications() {
