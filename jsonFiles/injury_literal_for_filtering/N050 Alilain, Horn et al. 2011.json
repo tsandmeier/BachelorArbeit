@@ -1,0 +1,452 @@
+[
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "DorsalHemisection",
+    "off": 1171,
+    "sff": "transection"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "DorsalHemisection",
+    "off": 39970,
+    "sff": "hemisection"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "DorsalHemisection",
+    "off": 29460,
+    "sff": "transection"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "C4",
+    "off": 24044,
+    "sff": "C4"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "DorsalHemisection",
+    "off": 35655,
+    "sff": "injury"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "Cervical",
+    "off": 510,
+    "sff": "cervical"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "Anaesthetic",
+    "off": 35942,
+    "sff": "sulfate"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "VertebralArea",
+    "off": 1909,
+    "sff": "4"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "InjuryDevice",
+    "off": 35334,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "Xylazine",
+    "off": 32267,
+    "sff": "xylazine"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "Blade",
+    "off": 25755,
+    "sff": "surgical"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "InjuryDevice",
+    "off": 2442,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "Forceps",
+    "off": 35706,
+    "sff": "¬"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "Injury",
+    "off": 101,
+    "sff": "injury"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "Xylazine",
+    "off": 28675,
+    "sff": "xylazine"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "C1",
+    "off": 2465,
+    "sff": "first"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "C1",
+    "off": 32289,
+    "sff": "first"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "Contusion",
+    "off": 96,
+    "sff": "cord"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "Blade",
+    "off": 30407,
+    "sff": "small"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "MASCISImpactor",
+    "off": 25678,
+    "sff": "weight"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "InjuryDevice",
+    "off": 27729,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "C1",
+    "off": 40174,
+    "sff": "cervical"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "T10",
+    "off": 38881,
+    "sff": "T"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "InjuryDevice",
+    "off": 29401,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "InjuryDevice",
+    "off": 35998,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "KetamineAsAnaesthetic",
+    "off": 25616,
+    "sff": "ketamine"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "C5",
+    "off": 27631,
+    "sff": "C5"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "InjuryDevice",
+    "off": 33086,
+    "sff": "mouse"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "VertebralArea",
+    "off": 2885,
+    "sff": "7"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "Cervical",
+    "off": 27949,
+    "sff": "cervical"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "C1",
+    "off": 39949,
+    "sff": "cervical"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "C3",
+    "off": 2339,
+    "sff": "C3"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "Compression",
+    "off": 24458,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "InjuryDevice",
+    "off": 2672,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "KetamineAsAnaesthetic",
+    "off": 28662,
+    "sff": "ketamine"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "C4",
+    "off": 27946,
+    "sff": "C4"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "Forceps",
+    "off": 31622,
+    "sff": "5"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "InjuryDevice",
+    "off": 35643,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "DorsalHemisection",
+    "off": 37094,
+    "sff": "hemisection"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "Cervical",
+    "off": 3903,
+    "sff": "cervical"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "InjuryDevice",
+    "off": 26818,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "InjuryDevice",
+    "off": 36290,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "C1",
+    "off": 29806,
+    "sff": "first"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "Injury",
+    "off": 2276,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "Forceps",
+    "off": 32036,
+    "sff": "’"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "C1",
+    "off": 35634,
+    "sff": "cervical"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "NYUImpactor",
+    "off": 29857,
+    "sff": "weight"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "NYUImpactor",
+    "off": 28510,
+    "sff": "University"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "DorsalHemisection",
+    "off": 40195,
+    "sff": "injury"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "VertebralArea",
+    "off": 2593,
+    "sff": "4"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "InjuryDevice",
+    "off": 26386,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "T10",
+    "off": 39181,
+    "sff": "T"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "InjuryDevice",
+    "off": 26198,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "Laminectomy",
+    "off": 26025,
+    "sff": "laminectomy"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "Forceps",
+    "off": 32037,
+    "sff": "s"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "C1",
+    "off": 36676,
+    "sff": "cervical"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "Cervical",
+    "off": 26071,
+    "sff": "cervical"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "C3",
+    "off": 27625,
+    "sff": "C3"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "C1",
+    "off": 37960,
+    "sff": "cervical"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "Xylazine",
+    "off": 25653,
+    "sff": "xylazine"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "Forceps",
+    "off": 28260,
+    "sff": "5"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "LateralHemisection",
+    "off": 39609,
+    "sff": "lesioned"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "Compression",
+    "off": 27028,
+    "sff": "technique"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "InjuryDevice",
+    "off": 32609,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "Compression",
+    "off": 389,
+    "sff": "injuries"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "Anaesthetic",
+    "off": 29831,
+    "sff": "urethane"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "Cervical",
+    "off": 232,
+    "sff": "cervical"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "InjuryDevice",
+    "off": 23851,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "Blade",
+    "off": 26140,
+    "sff": "microblade"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "Injury",
+    "off": 38465,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "Injury",
+    "off": 32576,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "InjuryDevice",
+    "off": 32363,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "MASCISImpactor",
+    "off": 25641,
+    "sff": "weight"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "InjuryDevice",
+    "off": 27634,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N050 Alilain, Horn et al. 2011",
+    "et": "Cervical",
+    "off": 2164,
+    "sff": "cervical"
+  }
+]

@@ -1,0 +1,560 @@
+[
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Cell",
+    "off": 6045,
+    "sff": "fibroblasts"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Substance",
+    "off": 10482,
+    "sff": "gentamicin"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "SchwannCell",
+    "off": 11022,
+    "sff": "SC"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Cell",
+    "off": 15962,
+    "sff": "ESMN"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "RehabilitativeTraining",
+    "off": 18433,
+    "sff": "range"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "DosageExtracorporal",
+    "off": 7683,
+    "sff": "DMEM"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "DosageExtracorporal",
+    "off": 7171,
+    "sff": "DMEM"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "DosageExtracorporal",
+    "off": 5418,
+    "sff": "ml"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "DosageExtracorporal",
+    "off": 5773,
+    "sff": "DMEM"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Cell",
+    "off": 4961,
+    "sff": "nasal"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "DosageExtracorporal",
+    "off": 4220,
+    "sff": "rats"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Cell",
+    "off": 19552,
+    "sff": "ESMN"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "DosageExtracorporal",
+    "off": 4395,
+    "sff": "injection"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Vehicle",
+    "off": 5487,
+    "sff": "F12"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "SchwannCell",
+    "off": 6692,
+    "sff": "cells"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Cell",
+    "off": 1148,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "DosageExtracorporal",
+    "off": 5416,
+    "sff": "U"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Cell",
+    "off": 4847,
+    "sff": "skin"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "SurgeryTreatment",
+    "off": 14466,
+    "sff": "2"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "InjectionDelivery",
+    "off": 11376,
+    "sff": "injected"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Cell",
+    "off": 8483,
+    "sff": "nerve"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Cell",
+    "off": 4462,
+    "sff": "ESMN"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Cell",
+    "off": 14957,
+    "sff": "ESMN"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Cell",
+    "off": 498,
+    "sff": "ESMN"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "SchwannCell",
+    "off": 19091,
+    "sff": "cells"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Cell",
+    "off": 11319,
+    "sff": "ESMN"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Cell",
+    "off": 4538,
+    "sff": "ESMN"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "SurgeryTreatment",
+    "off": 10196,
+    "sff": "removed"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Vehicle",
+    "off": 5778,
+    "sff": "F12"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "DosageExtracorporal",
+    "off": 4257,
+    "sff": "rats"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "DosageExtracorporal",
+    "off": 5482,
+    "sff": "DMEM"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Cell",
+    "off": 12737,
+    "sff": "ESMN"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Cell",
+    "off": 1220,
+    "sff": "ESMN"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Cell",
+    "off": 1347,
+    "sff": "ESMN"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Cell",
+    "off": 19651,
+    "sff": "ESMN"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "SurgeryTreatment",
+    "off": 15180,
+    "sff": "second surgery"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "DeliveryMethod",
+    "off": 12625,
+    "sff": "transplanted"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "DosageExtracorporal",
+    "off": 11366,
+    "sff": "5 μl"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Cell",
+    "off": 19913,
+    "sff": "ESMN"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "SchwannCell",
+    "off": 634,
+    "sff": "cells"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Cell",
+    "off": 846,
+    "sff": "ESMN"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "DeliveryMethod",
+    "off": 4438,
+    "sff": "transplantation"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Cell",
+    "off": 11215,
+    "sff": "ESMN"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Cell",
+    "off": 594,
+    "sff": "ESMN"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "SurgeryTreatment",
+    "off": 17813,
+    "sff": "injury"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "DosageExtracorporal",
+    "off": 11012,
+    "sff": "10 mg"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "DeliveryMethod",
+    "off": 10736,
+    "sff": "transplantation"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "SurgeryTreatment",
+    "off": 10887,
+    "sff": "cord"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "RehabilitativeTraining",
+    "off": 17475,
+    "sff": "hindlimb"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 441,
+    "sff": "OEC"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "SchwannCell",
+    "off": 558,
+    "sff": "nerve"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "SchwannCell",
+    "off": 8808,
+    "sff": "cells"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Cell",
+    "off": 1181,
+    "sff": "ESMN"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "SurgeryTreatment",
+    "off": 13319,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "RehabilitativeTraining",
+    "off": 18246,
+    "sff": "range"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "SurgeryTreatment",
+    "off": 9953,
+    "sff": "T10"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "SurgeryTreatment",
+    "off": 4990,
+    "sff": "removed"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "SurgeryTreatment",
+    "off": 17542,
+    "sff": "injury"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Cell",
+    "off": 4514,
+    "sff": "ESMN"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "SurgeryTreatment",
+    "off": 15430,
+    "sff": "4"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "RehabilitativeTraining",
+    "off": 1464,
+    "sff": "hindlimb"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Cell",
+    "off": 19368,
+    "sff": "ESMN"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "DosageExtracorporal",
+    "off": 9821,
+    "sff": "5 mg"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "DosageExtracorporal",
+    "off": 13829,
+    "sff": "OEC"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Cell",
+    "off": 1195,
+    "sff": "ESMN"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "RehabilitativeTraining",
+    "off": 18269,
+    "sff": "range"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Cell",
+    "off": 14768,
+    "sff": "ESMN"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "DeliveryMethod",
+    "off": 10858,
+    "sff": "transplanted"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Cell",
+    "off": 1583,
+    "sff": "ESMN"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "SchwannCell",
+    "off": 5276,
+    "sff": "nerve"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Cell",
+    "off": 6577,
+    "sff": "ESMN"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "DosageExtracorporal",
+    "off": 11344,
+    "sff": "5 μl"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Cell",
+    "off": 6061,
+    "sff": "fibroblast-like cells"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "RehabilitativeTraining",
+    "off": 18405,
+    "sff": "range"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "DeliveryMethod",
+    "off": 4495,
+    "sff": "transplantation"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "SchwannCell",
+    "off": 5013,
+    "sff": "nerve"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "DeliveryMethod",
+    "off": 5066,
+    "sff": "placed"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Cell",
+    "off": 1408,
+    "sff": "ESMN"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Vehicle",
+    "off": 11358,
+    "sff": "medium"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "DeliveryMethod",
+    "off": 9773,
+    "sff": "injections"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Cell",
+    "off": 12060,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "SurgeryTreatment",
+    "off": 15715,
+    "sff": "5"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "RehabilitativeTraining",
+    "off": 18292,
+    "sff": "range"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Cell",
+    "off": 11269,
+    "sff": "ESMN"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Cell",
+    "off": 7084,
+    "sff": "dissociated"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Cell",
+    "off": 18186,
+    "sff": "ESMN"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "DeliveryMethod",
+    "off": 19078,
+    "sff": "transplanted"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "SurgeryTreatment",
+    "off": 19067,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "RehabilitativeTraining",
+    "off": 18014,
+    "sff": "hindlimb"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "SurgeryTreatment",
+    "off": 18808,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Vehicle",
+    "off": 5823,
+    "sff": "serum"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "DeliveryMethod",
+    "off": 12103,
+    "sff": "transferred"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Cell",
+    "off": 1681,
+    "sff": "ESMN"
+  }
+]

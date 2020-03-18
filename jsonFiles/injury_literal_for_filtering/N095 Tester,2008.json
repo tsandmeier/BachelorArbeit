@@ -1,0 +1,512 @@
+[
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Anaesthetic",
+    "off": 15271,
+    "sff": "anesthetized"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Injury",
+    "off": 44020,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "C1",
+    "off": 13290,
+    "sff": "first"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "InjuryDevice",
+    "off": 32766,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "InfiniteHorizonImpactor",
+    "off": 11928,
+    "sff": "tip"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "InjuryDevice",
+    "off": 35260,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "InjuryDevice",
+    "off": 46196,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "VertebralArea",
+    "off": 32102,
+    "sff": "7"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Compression",
+    "off": 11169,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "InjuryDevice",
+    "off": 44171,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Injury",
+    "off": 45544,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Injury",
+    "off": 25022,
+    "sff": "heat"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "PartialTransection",
+    "off": 9671,
+    "sff": "hemisection"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Xylazine",
+    "off": 21650,
+    "sff": "HCl"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "InjuryDevice",
+    "off": 35224,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Anaesthetic",
+    "off": 392,
+    "sff": "sulfate"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Blade",
+    "off": 10229,
+    "sff": "surgical"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Scissors",
+    "off": 10665,
+    "sff": "iridectomy scissors"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "InjuryDevice",
+    "off": 44637,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Isoflurane",
+    "off": 10189,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "C1",
+    "off": 2060,
+    "sff": "first"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "InjuryDevice",
+    "off": 37906,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Laminectomy",
+    "off": 816,
+    "sff": "cords"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Anaesthetic",
+    "off": 9884,
+    "sff": "atropine sulfate"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "InjuryDevice",
+    "off": 46097,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Anaesthetic",
+    "off": 21243,
+    "sff": "sulfate"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "InjuryDevice",
+    "off": 34965,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "InjuryDevice",
+    "off": 33893,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "VertebralArea",
+    "off": 11966,
+    "sff": "level"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Injury",
+    "off": 11109,
+    "sff": "heat"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Injury",
+    "off": 35139,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "InjuryDevice",
+    "off": 45865,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "T10",
+    "off": 902,
+    "sff": "T10"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "C1",
+    "off": 22908,
+    "sff": "first"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Injury",
+    "off": 34631,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "InjuryDevice",
+    "off": 36384,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "InjuryDevice",
+    "off": 32420,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Injury",
+    "off": 44351,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "InjuryDevice",
+    "off": 46325,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Laminectomy",
+    "off": 10578,
+    "sff": "exposed"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "VertebralArea",
+    "off": 32490,
+    "sff": "8"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "NYUImpactor",
+    "off": 20963,
+    "sff": "York"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Compression",
+    "off": 24525,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "InjuryDevice",
+    "off": 28854,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Anaesthetic",
+    "off": 26505,
+    "sff": "hydrochloride"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "NYUImpactor",
+    "off": 20959,
+    "sff": "New"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "InfiniteHorizonImpactor",
+    "off": 11724,
+    "sff": "tip"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Anaesthetic",
+    "off": 498,
+    "sff": "sulfate"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Injury",
+    "off": 13698,
+    "sff": "heat"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "InjuryDevice",
+    "off": 34561,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "VertebralArea",
+    "off": 19169,
+    "sff": "fifth"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "InjuryDevice",
+    "off": 33155,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Compression",
+    "off": 13249,
+    "sff": "compression"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "C1",
+    "off": 19997,
+    "sff": "first"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Isoflurane",
+    "off": 10078,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Injury",
+    "off": 33308,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "VertebralArea",
+    "off": 26582,
+    "sff": "fifth"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "InjuryDevice",
+    "off": 33038,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Blade",
+    "off": 10144,
+    "sff": "surgical"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "VertebralArea",
+    "off": 28640,
+    "sff": "level"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "NYUImpactor",
+    "off": 35661,
+    "sff": "weight"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "VertebralArea",
+    "off": 29079,
+    "sff": "2"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "VertebralArea",
+    "off": 34665,
+    "sff": "segments"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "DorsalHemisection",
+    "off": 10879,
+    "sff": "hemisection"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "InjuryDevice",
+    "off": 35603,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Injury",
+    "off": 36108,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Thoracic",
+    "off": 8866,
+    "sff": "low thoracic"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "VertebralArea",
+    "off": 29962,
+    "sff": "4"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Anaesthetic",
+    "off": 9924,
+    "sff": "acetylpromazine"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Injury",
+    "off": 35983,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "InjuryDevice",
+    "off": 35817,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "InjuryDevice",
+    "off": 37996,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Clip",
+    "off": 25106,
+    "sff": "modified"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Anaesthetic",
+    "off": 22737,
+    "sff": "sulfate"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Injury",
+    "off": 44295,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "T10",
+    "off": 8901,
+    "sff": "T10"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "LateralHemisection",
+    "off": 43346,
+    "sff": "side"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "C4",
+    "off": 12358,
+    "sff": "vertebra"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "InjuryDevice",
+    "off": 31840,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "VertebralArea",
+    "off": 10696,
+    "sff": "T10"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Anaesthetic",
+    "off": 20256,
+    "sff": "anesthetized"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "C1",
+    "off": 45363,
+    "sff": "first"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Injury",
+    "off": 45439,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "PartialTransection",
+    "off": 7794,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Forceps",
+    "off": 32212,
+    "sff": "s"
+  }
+]

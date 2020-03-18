@@ -1,0 +1,314 @@
+[
+  {
+    "docID": "N204 Steward 2006",
+    "et": "Blade",
+    "off": 43127,
+    "sff": "small"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "T9",
+    "off": 18215,
+    "sff": "T9"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "CompleteTransection",
+    "off": 11217,
+    "sff": "complete transection"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "AllenWeightDropDevice",
+    "off": 16950,
+    "sff": "method"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "CompleteTransection",
+    "off": 23723,
+    "sff": "transected"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "Forceps",
+    "off": 30985,
+    "sff": "5"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "Clip",
+    "off": 12225,
+    "sff": "modified"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "Blade",
+    "off": 18292,
+    "sff": "surgical"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "T10",
+    "off": 9841,
+    "sff": "T10"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "Blade",
+    "off": 15024,
+    "sff": "blade"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "Forceps",
+    "off": 14173,
+    "sff": "forceps"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "Blade",
+    "off": 27331,
+    "sff": "11"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "LateralHemisection",
+    "off": 1324,
+    "sff": "through"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "AllenWeightDropDevice",
+    "off": 23976,
+    "sff": "method"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "Blade",
+    "off": 9993,
+    "sff": "microscalpel"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "T10",
+    "off": 9593,
+    "sff": "T10"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "Blade",
+    "off": 13945,
+    "sff": "razor"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "AneurysmClip",
+    "off": 23582,
+    "sff": "curved"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "Blade",
+    "off": 37983,
+    "sff": "11"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "NYUImpactor",
+    "off": 24030,
+    "sff": "University"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "InjuryDevice",
+    "off": 11169,
+    "sff": "needle"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "Xylazine",
+    "off": 9413,
+    "sff": "xylazine"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "Injury",
+    "off": 18580,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "PartialTransection",
+    "off": 2338,
+    "sff": "injury"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "Thoracic",
+    "off": 44077,
+    "sff": "low thoracic"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "NYUImpactor",
+    "off": 33049,
+    "sff": "developed"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "KetamineAsAnaesthetic",
+    "off": 18094,
+    "sff": "ketamine"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "Blade",
+    "off": 38898,
+    "sff": "11"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "Blade",
+    "off": 15016,
+    "sff": "scalpel"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "Anaesthetic",
+    "off": 9386,
+    "sff": "anesthetized"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "Clip",
+    "off": 10738,
+    "sff": "modified"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "KetamineAsAnaesthetic",
+    "off": 9404,
+    "sff": "ketamine"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "CuttingDevice",
+    "off": 10217,
+    "sff": "knife"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "Anaesthetic",
+    "off": 13563,
+    "sff": "anesthetized"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "NYUImpactor",
+    "off": 23987,
+    "sff": "developed"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "Clip",
+    "off": 37118,
+    "sff": "modified"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "Scissors",
+    "off": 11130,
+    "sff": "ophthalmic"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "Injury",
+    "off": 2478,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "Blade",
+    "off": 30025,
+    "sff": "small"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "Blade",
+    "off": 14215,
+    "sff": "scalpel"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "AneurysmClip",
+    "off": 10897,
+    "sff": "curved"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "Xylazine",
+    "off": 18103,
+    "sff": "xylazine"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "Contusion",
+    "off": 12657,
+    "sff": "injury"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "SodiumPentobarbital",
+    "off": 13581,
+    "sff": "sodium pentobarbital"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "LateralHemisection",
+    "off": 19741,
+    "sff": "left"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "CuttingDevice",
+    "off": 23742,
+    "sff": "micro-scalpel"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "T10",
+    "off": 8842,
+    "sff": "T10"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "Compression",
+    "off": 11382,
+    "sff": "injuries"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "T9",
+    "off": 18262,
+    "sff": "T9"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "Compression",
+    "off": 18041,
+    "sff": "injuries"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "Anaesthetic",
+    "off": 17255,
+    "sff": "ice"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "Anaesthetic",
+    "off": 20324,
+    "sff": "anesthetized"
+  }
+]

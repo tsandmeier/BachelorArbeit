@@ -1,0 +1,212 @@
+[
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "Blade",
+    "off": 5450,
+    "sff": "fine"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "AllenWeightDropDevice",
+    "off": 11379,
+    "sff": "method"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "Blade",
+    "off": 18352,
+    "sff": "11"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "PhotochemicalInjury",
+    "off": 9032,
+    "sff": "lesion was induced by illuminating"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "MASCISImpactor",
+    "off": 17918,
+    "sff": "weight"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "Thoracic",
+    "off": 8707,
+    "sff": "low thoracic"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "LightSource",
+    "off": 9182,
+    "sff": "optic fiber"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "LightSource",
+    "off": 14994,
+    "sff": "equipped"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "Injury",
+    "off": 11364,
+    "sff": "heat"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "LightSource",
+    "off": 11550,
+    "sff": "light"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "CompleteTransection",
+    "off": 14237,
+    "sff": "transverse"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "LightSource",
+    "off": 9129,
+    "sff": "optic fiber"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "MASCISImpactor",
+    "off": 18090,
+    "sff": "weight"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "PhotochemicalInjury",
+    "off": 9257,
+    "sff": "spinal cord was illuminated"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "SodiumPentobarbital",
+    "off": 8449,
+    "sff": "sodium pentobarbital"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "T10",
+    "off": 8720,
+    "sff": "vertebrae"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "T8",
+    "off": 8795,
+    "sff": "T8"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "PhotochemicalInjury",
+    "off": 14031,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "T8",
+    "off": 21275,
+    "sff": "T8"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "PhotochemicalInjury",
+    "off": 22470,
+    "sff": "photochemical injury"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "PhotochemicalInjury",
+    "off": 15236,
+    "sff": "Spinal"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "Forceps",
+    "off": 5455,
+    "sff": "forceps"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "PhotochemicalInjury",
+    "off": 22018,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "C4",
+    "off": 414,
+    "sff": "vertebra"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "LightSource",
+    "off": 535,
+    "sff": "optic fiber"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "PhotochemicalInjury",
+    "off": 17548,
+    "sff": "Spinal"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "Contusion",
+    "off": 1706,
+    "sff": "injury"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "LightSource",
+    "off": 9378,
+    "sff": "halogen"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "AllenWeightDropDevice",
+    "off": 11173,
+    "sff": "method"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "NYUImpactor",
+    "off": 9938,
+    "sff": "II"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "CompleteTransection",
+    "off": 15672,
+    "sff": "transverse"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "LightSource",
+    "off": 9364,
+    "sff": "source"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "SodiumPentobarbital",
+    "off": 12157,
+    "sff": "sodium pentobarbital"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "PhotochemicalInjury",
+    "off": 19950,
+    "sff": "photochemical injury"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "MASCISImpactor",
+    "off": 17994,
+    "sff": "weight"
+  }
+]

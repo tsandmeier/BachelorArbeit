@@ -1,0 +1,596 @@
+[
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "SurgeryTreatment",
+    "off": 20002,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "SchwannCell",
+    "off": 5005,
+    "sff": "cells"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "Vehicle",
+    "off": 14285,
+    "sff": "20"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "DosageExtracorporal",
+    "off": 18706,
+    "sff": "Each"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "RehabilitativeTraining",
+    "off": 7646,
+    "sff": "range"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "Cell",
+    "off": 28766,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "Cell",
+    "off": 6751,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "SurgeryTreatment",
+    "off": 21397,
+    "sff": "between"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "RehabilitativeTraining",
+    "off": 7655,
+    "sff": "motion"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "Vehicle",
+    "off": 14299,
+    "sff": "20"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "DosageExtracorporal",
+    "off": 21607,
+    "sff": "DMEM"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "Caudal",
+    "off": 37013,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "Cell",
+    "off": 6218,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "Rostral",
+    "off": 31761,
+    "sff": "rostrally"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "Cell",
+    "off": 9807,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "SurgeryTreatment",
+    "off": 29695,
+    "sff": "scar"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "Caudal",
+    "off": 34768,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "DeliveryMethod",
+    "off": 724,
+    "sff": "transplanted"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "RehabilitativeTraining",
+    "off": 7732,
+    "sff": "passive"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "Caudal",
+    "off": 31956,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "Direction",
+    "off": 20700,
+    "sff": "dorsal"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "Vehicle",
+    "off": 5041,
+    "sff": "medium"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "SurgeryTreatment",
+    "off": 19876,
+    "sff": "5"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "SurgeryTreatment",
+    "off": 19314,
+    "sff": "second"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "RehabilitativeTraining",
+    "off": 7631,
+    "sff": "motion"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "SurgeryTreatment",
+    "off": 19755,
+    "sff": "were"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "TreadmillTraining",
+    "off": 22156,
+    "sff": "hindlimb"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "Cell",
+    "off": 20082,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "Cell",
+    "off": 30067,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "RehabilitativeTraining",
+    "off": 7622,
+    "sff": "range"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "Rostral",
+    "off": 6327,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "SurgeryTreatment",
+    "off": 22598,
+    "sff": "surgery"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "SurgeryTreatment",
+    "off": 19784,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "Cell",
+    "off": 31396,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "DeliveryMethod",
+    "off": 5685,
+    "sff": "transplanted"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "InjectionDelivery",
+    "off": 31616,
+    "sff": "injected"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "SurgeryTreatment",
+    "off": 8769,
+    "sff": "surgery"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "Caudal",
+    "off": 20338,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "TreadmillTraining",
+    "off": 27697,
+    "sff": "hindlimb"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "SurgeryTreatment",
+    "off": 21464,
+    "sff": "injury"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "TreadmillTraining",
+    "off": 17709,
+    "sff": "hindlimb"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "RehabilitativeTraining",
+    "off": 7639,
+    "sff": "Active"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "TreadmillTraining",
+    "off": 21832,
+    "sff": "hindlimb"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "Cell",
+    "off": 1418,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "Cell",
+    "off": 19656,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "Caudal",
+    "off": 32148,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "SurgeryTreatment",
+    "off": 19954,
+    "sff": "glial"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "SurgeryTreatment",
+    "off": 19825,
+    "sff": "were"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "Cell",
+    "off": 6342,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "Cell",
+    "off": 29117,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "SchwannCell",
+    "off": 28976,
+    "sff": "cells"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "Cell",
+    "off": 19892,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 17313,
+    "sff": "OB-OEG"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "Cell",
+    "off": 28855,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "Direction",
+    "off": 9433,
+    "sff": "midline"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "Conduit",
+    "off": 16805,
+    "sff": "channel"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "Cell",
+    "off": 9954,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "DosageExtracorporal",
+    "off": 26482,
+    "sff": "6"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "DosageExtracorporal",
+    "off": 32947,
+    "sff": "7"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "Cell",
+    "off": 19686,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 5986,
+    "sff": "3"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "Cell",
+    "off": 6110,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "Direction",
+    "off": 6502,
+    "sff": "dorsal"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "Rostral",
+    "off": 20321,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "SurgeryTreatment",
+    "off": 29281,
+    "sff": "glial"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "Cell",
+    "off": 5381,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "Vehicle",
+    "off": 4490,
+    "sff": "10S"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "Cell",
+    "off": 17154,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "Caudal",
+    "off": 32338,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "Cell",
+    "off": 16896,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "SurgeryTreatment",
+    "off": 19435,
+    "sff": "4"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "RehabilitativeTraining",
+    "off": 7740,
+    "sff": "range"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "RehabilitativeTraining",
+    "off": 7749,
+    "sff": "motion"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "Cell",
+    "off": 30454,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "DeliveryMethod",
+    "off": 20065,
+    "sff": "transplanted"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "DosageExtracorporal",
+    "off": 29991,
+    "sff": "5"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "SurgeryTreatment",
+    "off": 28614,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "RehabilitativeTraining",
+    "off": 7614,
+    "sff": "passive"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "Rostral",
+    "off": 31666,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "Cell",
+    "off": 294,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "DosageExtracorporal",
+    "off": 32566,
+    "sff": "6"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "DosageExtracorporal",
+    "off": 28921,
+    "sff": "5"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "Cell",
+    "off": 16659,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "Cell",
+    "off": 7860,
+    "sff": "skin"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "Cell",
+    "off": 12298,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "DeliveryMethod",
+    "off": 19643,
+    "sff": "transplanted"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "Direction",
+    "off": 6463,
+    "sff": "midline"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "Cell",
+    "off": 28994,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 268,
+    "sff": "OB-OEG"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "DeliveryMethod",
+    "off": 17555,
+    "sff": "transplanted"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "Cell",
+    "off": 19527,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "Cell",
+    "off": 31804,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "Cell",
+    "off": 30271,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "DeliveryMethod",
+    "off": 30375,
+    "sff": "transplanted"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "SurgeryTreatment",
+    "off": 20178,
+    "sff": "scar"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "DosageExtracorporal",
+    "off": 29669,
+    "sff": "5"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "Caudal",
+    "off": 19715,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "Direction",
+    "off": 9307,
+    "sff": "midline"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "Cell",
+    "off": 17201,
+    "sff": "spinal"
+  }
+]

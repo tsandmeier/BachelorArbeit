@@ -1,0 +1,596 @@
+[
+  {
+    "docID": "N221 Takami 2002",
+    "et": "SurgeryTreatment",
+    "off": 16993,
+    "sff": "segment"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "SurgeryTreatment",
+    "off": 14634,
+    "sff": "2"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "DeliveryMethod",
+    "off": 11657,
+    "sff": "injections"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "SurgeryTreatment",
+    "off": 22269,
+    "sff": "injury"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "SurgeryTreatment",
+    "off": 16765,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "Cell",
+    "off": 1216,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "Cell",
+    "off": 963,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "SurgeryTreatment",
+    "off": 36611,
+    "sff": "injury"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "Cell",
+    "off": 9794,
+    "sff": "skin"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "Cell",
+    "off": 29129,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "Cell",
+    "off": 11842,
+    "sff": "skin"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "SchwannCell",
+    "off": 21412,
+    "sff": "SCs"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "SurgeryTreatment",
+    "off": 38263,
+    "sff": "were"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "Cell",
+    "off": 15828,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "DeliveryMethod",
+    "off": 16441,
+    "sff": "transplanted"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "Cell",
+    "off": 28990,
+    "sff": "peripheral"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "SchwannCell",
+    "off": 19627,
+    "sff": "SCs"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "Cell",
+    "off": 34972,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 585,
+    "sff": "OEG"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "InjectionDelivery",
+    "off": 10294,
+    "sff": "injected"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "Conduit",
+    "off": 30285,
+    "sff": "parallel"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "SurgeryTreatment",
+    "off": 32337,
+    "sff": "were"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "DosageExtracorporal",
+    "off": 37736,
+    "sff": "7"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "Cell",
+    "off": 22437,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "Cell",
+    "off": 33702,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "DeliveryMethod",
+    "off": 10536,
+    "sff": "transplanted"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "SurgeryTreatment",
+    "off": 38617,
+    "sff": "injury"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "Cell",
+    "off": 28845,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "Cell",
+    "off": 20141,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "Cell",
+    "off": 36268,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "Cell",
+    "off": 5586,
+    "sff": "nerve"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "DeliveryMethod",
+    "off": 32796,
+    "sff": "transplanted"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "Cell",
+    "off": 16306,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "Cell",
+    "off": 10486,
+    "sff": "skin"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "SchwannCell",
+    "off": 27519,
+    "sff": "SCs"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "InjectionDelivery",
+    "off": 22359,
+    "sff": "injected"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "SchwannCell",
+    "off": 20598,
+    "sff": "SCs"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "Cell",
+    "off": 16519,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "SurgeryTreatment",
+    "off": 6453,
+    "sff": "removed"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "Rostral",
+    "off": 37001,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "SurgeryTreatment",
+    "off": 19652,
+    "sff": "injury"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "SchwannCell",
+    "off": 5747,
+    "sff": "SCs"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "SurgeryTreatment",
+    "off": 37430,
+    "sff": "were"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "Cell",
+    "off": 657,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "DeliveryMethod",
+    "off": 10448,
+    "sff": "injections"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "DeliveryMethod",
+    "off": 26351,
+    "sff": "transplanted"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "SchwannCell",
+    "off": 5795,
+    "sff": "SCs"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "SurgeryTreatment",
+    "off": 29317,
+    "sff": "2"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "SchwannCell",
+    "off": 10134,
+    "sff": "SCs"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "Vehicle",
+    "off": 10187,
+    "sff": "medium"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "Cell",
+    "off": 20066,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "SurgeryTreatment",
+    "off": 1944,
+    "sff": "injury"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "Cell",
+    "off": 16758,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "Cell",
+    "off": 12400,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "Cell",
+    "off": 6236,
+    "sff": "nerve"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "Cell",
+    "off": 23102,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "Vehicle",
+    "off": 6794,
+    "sff": "12"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "SurgeryTreatment",
+    "off": 38256,
+    "sff": "injury"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "DeliveryMethod",
+    "off": 14558,
+    "sff": "placed"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "DeliveryMethod",
+    "off": 32969,
+    "sff": "transplanted"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "SchwannCell",
+    "off": 28343,
+    "sff": "SC"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "Vehicle",
+    "off": 6510,
+    "sff": "medium"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "Cell",
+    "off": 19522,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "SchwannCell",
+    "off": 549,
+    "sff": "SCs"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "Cell",
+    "off": 16428,
+    "sff": "cells"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "Cell",
+    "off": 33105,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "Vehicle",
+    "off": 6500,
+    "sff": "15"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "DosageExtracorporal",
+    "off": 605,
+    "sff": "transplanted"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "SchwannCell",
+    "off": 21324,
+    "sff": "SCs"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "Rostral",
+    "off": 37119,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "SchwannCell",
+    "off": 21587,
+    "sff": "SCs"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "InjectionDelivery",
+    "off": 10403,
+    "sff": "injected"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "SchwannCell",
+    "off": 19943,
+    "sff": "Schwann cells"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "Cell",
+    "off": 17751,
+    "sff": "nerve"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "Cell",
+    "off": 26416,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "SchwannCell",
+    "off": 23612,
+    "sff": "Schwann cells"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "Cell",
+    "off": 16477,
+    "sff": "cells"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "SurgeryTreatment",
+    "off": 37194,
+    "sff": "between"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "Cell",
+    "off": 21601,
+    "sff": "cells"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "Cell",
+    "off": 31748,
+    "sff": "peripheral"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "SurgeryTreatment",
+    "off": 38218,
+    "sff": "injury"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "SchwannCell",
+    "off": 38376,
+    "sff": "SCs"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "Cell",
+    "off": 26898,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "SchwannCell",
+    "off": 10147,
+    "sff": "SC"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "Cell",
+    "off": 16862,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "Cell",
+    "off": 20190,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "Cell",
+    "off": 16089,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "Rostral",
+    "off": 14639,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "Cell",
+    "off": 9447,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "SchwannCell",
+    "off": 534,
+    "sff": "Schwann cells"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "Cell",
+    "off": 6888,
+    "sff": "dissociated"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "Cell",
+    "off": 32521,
+    "sff": "nerve"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "Cell",
+    "off": 7179,
+    "sff": "nerve"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "SchwannCell",
+    "off": 19892,
+    "sff": "SC"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "Cell",
+    "off": 27884,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "SurgeryTreatment",
+    "off": 25645,
+    "sff": "injury"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "Vehicle",
+    "off": 10554,
+    "sff": "medium"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "SurgeryTreatment",
+    "off": 34494,
+    "sff": "5"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "Cell",
+    "off": 19443,
+    "sff": "spinal"
+  }
+]

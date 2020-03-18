@@ -1,0 +1,86 @@
+[
+  {
+    "docID": "N019 Xia 2008  18930033",
+    "et": "Clip",
+    "off": 958,
+    "sff": "modified"
+  },
+  {
+    "docID": "N019 Xia 2008  18930033",
+    "et": "VertebralArea",
+    "off": 4714,
+    "sff": "T10"
+  },
+  {
+    "docID": "N019 Xia 2008  18930033",
+    "et": "Contusion",
+    "off": 716,
+    "sff": "cords"
+  },
+  {
+    "docID": "N019 Xia 2008  18930033",
+    "et": "AspirationLesion",
+    "off": 4637,
+    "sff": "aspiration"
+  },
+  {
+    "docID": "N019 Xia 2008  18930033",
+    "et": "Blade",
+    "off": 4508,
+    "sff": "scalpel"
+  },
+  {
+    "docID": "N019 Xia 2008  18930033",
+    "et": "InjuryDevice",
+    "off": 5566,
+    "sff": "compression"
+  },
+  {
+    "docID": "N019 Xia 2008  18930033",
+    "et": "Thoracic",
+    "off": 11956,
+    "sff": "low"
+  },
+  {
+    "docID": "N019 Xia 2008  18930033",
+    "et": "SodiumPentobarbital",
+    "off": 4267,
+    "sff": "sodium pentobarbital"
+  },
+  {
+    "docID": "N019 Xia 2008  18930033",
+    "et": "T10",
+    "off": 4415,
+    "sff": "T10"
+  },
+  {
+    "docID": "N019 Xia 2008  18930033",
+    "et": "LateralHemisection",
+    "off": 4380,
+    "sff": "lateral hemisection"
+  },
+  {
+    "docID": "N019 Xia 2008  18930033",
+    "et": "T9",
+    "off": 4711,
+    "sff": "T9"
+  },
+  {
+    "docID": "N019 Xia 2008  18930033",
+    "et": "PhotochemicalInjury",
+    "off": 5645,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N019 Xia 2008  18930033",
+    "et": "NYUImpactor",
+    "off": 3736,
+    "sff": "York"
+  },
+  {
+    "docID": "N019 Xia 2008  18930033",
+    "et": "Thoracic",
+    "off": 11594,
+    "sff": "low"
+  }
+]

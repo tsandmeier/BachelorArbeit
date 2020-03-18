@@ -1,0 +1,86 @@
+[
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "InjuryByAccident",
+    "off": 647,
+    "sff": "severe"
+  },
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "LateralHemisection",
+    "off": 4888,
+    "sff": "right side"
+  },
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "Contusion",
+    "off": 1391,
+    "sff": "contusion"
+  },
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "NYUImpactor",
+    "off": 601,
+    "sff": "NYU impactor"
+  },
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "Contusion",
+    "off": 560,
+    "sff": "contusion"
+  },
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "Blade",
+    "off": 5688,
+    "sff": "scalpel"
+  },
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "NYUImpactor",
+    "off": 4058,
+    "sff": "NYU impactor"
+  },
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "T10",
+    "off": 1415,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "VertebralArea",
+    "off": 3983,
+    "sff": "T8"
+  },
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "T10",
+    "off": 10911,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "SodiumPentobarbital",
+    "off": 5357,
+    "sff": "pentobarbital"
+  },
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "LightSource",
+    "off": 5547,
+    "sff": "cold"
+  },
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "Blade",
+    "off": 5696,
+    "sff": "blade"
+  },
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "T9",
+    "off": 3989,
+    "sff": "T9"
+  }
+]

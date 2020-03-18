@@ -1,0 +1,596 @@
+[
+  {
+    "docID": "N182 Moon 2006",
+    "et": "Cell",
+    "off": 14843,
+    "sff": "nerve"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "SurgeryTreatment",
+    "off": 18574,
+    "sff": "were"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "Conduit",
+    "off": 6317,
+    "sff": "channels"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "Cell",
+    "off": 8035,
+    "sff": "skin"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "SurgeryTreatment",
+    "off": 33720,
+    "sff": "4"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "Cell",
+    "off": 14604,
+    "sff": "nerve"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "Rostral",
+    "off": 22392,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "SurgeryTreatment",
+    "off": 31917,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "DeliveryMethod",
+    "off": 1875,
+    "sff": "transplanted"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "SurgeryTreatment",
+    "off": 22311,
+    "sff": "5"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 878,
+    "sff": "OEG"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "SchwannCell",
+    "off": 7160,
+    "sff": "SCs"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "SchwannCell",
+    "off": 7203,
+    "sff": "nerve"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "Cell",
+    "off": 14297,
+    "sff": "nerve"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "Cell",
+    "off": 5450,
+    "sff": "dissociated"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "Cell",
+    "off": 15298,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "Cell",
+    "off": 14563,
+    "sff": "nerve"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "SchwannCell",
+    "off": 5877,
+    "sff": "SCs"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "DeliveryMethod",
+    "off": 28489,
+    "sff": "transplanted"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "Cell",
+    "off": 33466,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "Cell",
+    "off": 33435,
+    "sff": "cells"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "Caudal",
+    "off": 23043,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "SchwannCell",
+    "off": 1305,
+    "sff": "nerve"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "Vehicle",
+    "off": 5921,
+    "sff": "medium"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "Direction",
+    "off": 8830,
+    "sff": "midline"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "SchwannCell",
+    "off": 902,
+    "sff": "Schwann"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "SchwannCell",
+    "off": 19684,
+    "sff": "SCs"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "Cell",
+    "off": 9159,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "SurgeryTreatment",
+    "off": 30466,
+    "sff": "injury"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "Rostral",
+    "off": 23340,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "Cell",
+    "off": 33397,
+    "sff": "cells"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "Cell",
+    "off": 9626,
+    "sff": "skin"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "Vehicle",
+    "off": 5523,
+    "sff": "Medium"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "SurgeryTreatment",
+    "off": 33739,
+    "sff": "were"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "Cell",
+    "off": 23665,
+    "sff": "cells"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "Cell",
+    "off": 20770,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "SurgeryTreatment",
+    "off": 23450,
+    "sff": "transection"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "Conduit",
+    "off": 6777,
+    "sff": "channels"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "Cell",
+    "off": 8731,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "SchwannCell",
+    "off": 916,
+    "sff": "SC"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "SchwannCell",
+    "off": 1793,
+    "sff": "SCs"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "SchwannCell",
+    "off": 18082,
+    "sff": "SC"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "SurgeryTreatment",
+    "off": 30291,
+    "sff": "being"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "Caudal",
+    "off": 22731,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "SurgeryTreatment",
+    "off": 27899,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "SchwannCell",
+    "off": 1452,
+    "sff": "cells"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "SchwannCell",
+    "off": 5173,
+    "sff": "Schwann cells"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "SchwannCell",
+    "off": 21549,
+    "sff": "SCs"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "Cell",
+    "off": 6956,
+    "sff": "nerve"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "SchwannCell",
+    "off": 2238,
+    "sff": "SC"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "SurgeryTreatment",
+    "off": 33204,
+    "sff": "transection"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "DeliveryMethod",
+    "off": 1775,
+    "sff": "transplanted"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "Cell",
+    "off": 9012,
+    "sff": "cells"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "SurgeryTreatment",
+    "off": 13124,
+    "sff": "second"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "SurgeryTreatment",
+    "off": 26519,
+    "sff": "injury"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "SurgeryTreatment",
+    "off": 31822,
+    "sff": "previous"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "SchwannCell",
+    "off": 5307,
+    "sff": "nerve"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "SchwannCell",
+    "off": 10991,
+    "sff": "SC"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "Rostral",
+    "off": 2077,
+    "sff": "rostrally"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "Vehicle",
+    "off": 5585,
+    "sff": "serum"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "SchwannCell",
+    "off": 1482,
+    "sff": "nerve"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "InjectionDelivery",
+    "off": 14746,
+    "sff": "injected"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "Cell",
+    "off": 23825,
+    "sff": "cells"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "Cell",
+    "off": 7114,
+    "sff": "dissociated"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "SurgeryTreatment",
+    "off": 33581,
+    "sff": "previous"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "InjectionDelivery",
+    "off": 9380,
+    "sff": "injected"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "Rostral",
+    "off": 22846,
+    "sff": "rostrally"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "DeliveryMethod",
+    "off": 10064,
+    "sff": "injections"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "Direction",
+    "off": 8178,
+    "sff": "midline"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "SurgeryTreatment",
+    "off": 2688,
+    "sff": "injury"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "Cell",
+    "off": 31128,
+    "sff": "peripheral"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "Vehicle",
+    "off": 7381,
+    "sff": "medium"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "Rostral",
+    "off": 32940,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "Caudal",
+    "off": 8400,
+    "sff": "caudally"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "Cell",
+    "off": 17650,
+    "sff": "cells"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "SurgeryTreatment",
+    "off": 33051,
+    "sff": "transection"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "Cell",
+    "off": 32185,
+    "sff": "nerve"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "Cell",
+    "off": 32928,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "SchwannCell",
+    "off": 5162,
+    "sff": "SC"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "DeliveryMethod",
+    "off": 20826,
+    "sff": "implanted"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "Cell",
+    "off": 33277,
+    "sff": "cells"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "SurgeryTreatment",
+    "off": 15429,
+    "sff": "were"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "Rostral",
+    "off": 32676,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "Cell",
+    "off": 5750,
+    "sff": "Fibroblasts"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "Cell",
+    "off": 32664,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "Cell",
+    "off": 27821,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "DeliveryMethod",
+    "off": 21531,
+    "sff": "transplanted"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "DeliveryMethod",
+    "off": 29210,
+    "sff": "transplanted"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "SchwannCell",
+    "off": 8476,
+    "sff": "SC"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "SurgeryTreatment",
+    "off": 21742,
+    "sff": "4"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "SurgeryTreatment",
+    "off": 24237,
+    "sff": "being"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "Cell",
+    "off": 19625,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "InjectionDelivery",
+    "off": 20888,
+    "sff": "injected"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "SurgeryTreatment",
+    "off": 24482,
+    "sff": "2"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "Cell",
+    "off": 23201,
+    "sff": "nerve"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "Cell",
+    "off": 26512,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "Cell",
+    "off": 8940,
+    "sff": "cells"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "Caudal",
+    "off": 23380,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "Caudal",
+    "off": 32984,
+    "sff": "caudally"
+  }
+]

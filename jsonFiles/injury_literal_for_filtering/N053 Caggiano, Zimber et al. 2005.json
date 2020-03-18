@@ -1,0 +1,320 @@
+[
+  {
+    "docID": "N053 Caggiano, Zimber et al. 2005",
+    "et": "Anaesthetic",
+    "off": 11178,
+    "sff": "anesthetized"
+  },
+  {
+    "docID": "N053 Caggiano, Zimber et al. 2005",
+    "et": "InjuryDevice",
+    "off": 14810,
+    "sff": "compression"
+  },
+  {
+    "docID": "N053 Caggiano, Zimber et al. 2005",
+    "et": "Anaesthetic",
+    "off": 7985,
+    "sff": "sulfate"
+  },
+  {
+    "docID": "N053 Caggiano, Zimber et al. 2005",
+    "et": "NYUImpactor",
+    "off": 23736,
+    "sff": "weight"
+  },
+  {
+    "docID": "N053 Caggiano, Zimber et al. 2005",
+    "et": "Blade",
+    "off": 22463,
+    "sff": "11"
+  },
+  {
+    "docID": "N053 Caggiano, Zimber et al. 2005",
+    "et": "InjuryByAccident",
+    "off": 893,
+    "sff": "severe"
+  },
+  {
+    "docID": "N053 Caggiano, Zimber et al. 2005",
+    "et": "Forceps",
+    "off": 973,
+    "sff": "forceps"
+  },
+  {
+    "docID": "N053 Caggiano, Zimber et al. 2005",
+    "et": "Anaesthetic",
+    "off": 27172,
+    "sff": "sulfate"
+  },
+  {
+    "docID": "N053 Caggiano, Zimber et al. 2005",
+    "et": "T9",
+    "off": 21403,
+    "sff": "T9"
+  },
+  {
+    "docID": "N053 Caggiano, Zimber et al. 2005",
+    "et": "InfiniteHorizonImpactor",
+    "off": 15880,
+    "sff": "tip"
+  },
+  {
+    "docID": "N053 Caggiano, Zimber et al. 2005",
+    "et": "NYUImpactor",
+    "off": 10904,
+    "sff": "weight-drop"
+  },
+  {
+    "docID": "N053 Caggiano, Zimber et al. 2005",
+    "et": "Clip",
+    "off": 9490,
+    "sff": "modified"
+  },
+  {
+    "docID": "N053 Caggiano, Zimber et al. 2005",
+    "et": "Contusion",
+    "off": 919,
+    "sff": "contusion"
+  },
+  {
+    "docID": "N053 Caggiano, Zimber et al. 2005",
+    "et": "Compression",
+    "off": 9955,
+    "sff": "compress"
+  },
+  {
+    "docID": "N053 Caggiano, Zimber et al. 2005",
+    "et": "T10",
+    "off": 962,
+    "sff": "T10"
+  },
+  {
+    "docID": "N053 Caggiano, Zimber et al. 2005",
+    "et": "Blade",
+    "off": 25054,
+    "sff": "11"
+  },
+  {
+    "docID": "N053 Caggiano, Zimber et al. 2005",
+    "et": "Injury",
+    "off": 14203,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N053 Caggiano, Zimber et al. 2005",
+    "et": "C1",
+    "off": 19632,
+    "sff": "first"
+  },
+  {
+    "docID": "N053 Caggiano, Zimber et al. 2005",
+    "et": "KetamineAsAnaesthetic",
+    "off": 13865,
+    "sff": "Ketamine"
+  },
+  {
+    "docID": "N053 Caggiano, Zimber et al. 2005",
+    "et": "Blade",
+    "off": 9985,
+    "sff": "blade"
+  },
+  {
+    "docID": "N053 Caggiano, Zimber et al. 2005",
+    "et": "Anaesthetic",
+    "off": 323,
+    "sff": "sulfate"
+  },
+  {
+    "docID": "N053 Caggiano, Zimber et al. 2005",
+    "et": "Compression",
+    "off": 9690,
+    "sff": "compressing"
+  },
+  {
+    "docID": "N053 Caggiano, Zimber et al. 2005",
+    "et": "Injury",
+    "off": 20787,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N053 Caggiano, Zimber et al. 2005",
+    "et": "InjuryDevice",
+    "off": 20897,
+    "sff": "compression"
+  },
+  {
+    "docID": "N053 Caggiano, Zimber et al. 2005",
+    "et": "Blade",
+    "off": 8593,
+    "sff": "surgical"
+  },
+  {
+    "docID": "N053 Caggiano, Zimber et al. 2005",
+    "et": "VertebralArea",
+    "off": 21439,
+    "sff": "segments"
+  },
+  {
+    "docID": "N053 Caggiano, Zimber et al. 2005",
+    "et": "Laminectomy",
+    "off": 8933,
+    "sff": "laminectomy"
+  },
+  {
+    "docID": "N053 Caggiano, Zimber et al. 2005",
+    "et": "Blade",
+    "off": 10067,
+    "sff": "blade"
+  },
+  {
+    "docID": "N053 Caggiano, Zimber et al. 2005",
+    "et": "VertebralArea",
+    "off": 25083,
+    "sff": "8"
+  },
+  {
+    "docID": "N053 Caggiano, Zimber et al. 2005",
+    "et": "VertebralArea",
+    "off": 21406,
+    "sff": "T10"
+  },
+  {
+    "docID": "N053 Caggiano, Zimber et al. 2005",
+    "et": "FogartyBalloonCatheter",
+    "off": 11311,
+    "sff": "catheter"
+  },
+  {
+    "docID": "N053 Caggiano, Zimber et al. 2005",
+    "et": "InfiniteHorizonImpactor",
+    "off": 21835,
+    "sff": "tip"
+  },
+  {
+    "docID": "N053 Caggiano, Zimber et al. 2005",
+    "et": "InjuryByAccident",
+    "off": 1464,
+    "sff": "severe"
+  },
+  {
+    "docID": "N053 Caggiano, Zimber et al. 2005",
+    "et": "Xylazine",
+    "off": 13874,
+    "sff": "Xylazine"
+  },
+  {
+    "docID": "N053 Caggiano, Zimber et al. 2005",
+    "et": "T10",
+    "off": 9378,
+    "sff": "T10"
+  },
+  {
+    "docID": "N053 Caggiano, Zimber et al. 2005",
+    "et": "Blade",
+    "off": 9097,
+    "sff": "small"
+  },
+  {
+    "docID": "N053 Caggiano, Zimber et al. 2005",
+    "et": "L1",
+    "off": 9028,
+    "sff": "L1"
+  },
+  {
+    "docID": "N053 Caggiano, Zimber et al. 2005",
+    "et": "Anaesthetic",
+    "off": 13883,
+    "sff": "Acepromazine"
+  },
+  {
+    "docID": "N053 Caggiano, Zimber et al. 2005",
+    "et": "CompleteTransection",
+    "off": 14822,
+    "sff": "model"
+  },
+  {
+    "docID": "N053 Caggiano, Zimber et al. 2005",
+    "et": "VertebralArea",
+    "off": 8952,
+    "sff": "T9 and T10"
+  },
+  {
+    "docID": "N053 Caggiano, Zimber et al. 2005",
+    "et": "Isoflurane",
+    "off": 11196,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N053 Caggiano, Zimber et al. 2005",
+    "et": "NYUImpactor",
+    "off": 12746,
+    "sff": "developed"
+  },
+  {
+    "docID": "N053 Caggiano, Zimber et al. 2005",
+    "et": "InjuryDevice",
+    "off": 11066,
+    "sff": "compression"
+  },
+  {
+    "docID": "N053 Caggiano, Zimber et al. 2005",
+    "et": "Anaesthetic",
+    "off": 20163,
+    "sff": "anesthetized"
+  },
+  {
+    "docID": "N053 Caggiano, Zimber et al. 2005",
+    "et": "Compression",
+    "off": 21225,
+    "sff": "injuries"
+  },
+  {
+    "docID": "N053 Caggiano, Zimber et al. 2005",
+    "et": "Laminectomy",
+    "off": 9138,
+    "sff": "laminectomy"
+  },
+  {
+    "docID": "N053 Caggiano, Zimber et al. 2005",
+    "et": "Laminectomy",
+    "off": 9005,
+    "sff": "laminectomy"
+  },
+  {
+    "docID": "N053 Caggiano, Zimber et al. 2005",
+    "et": "VertebralArea",
+    "off": 9375,
+    "sff": "T9"
+  },
+  {
+    "docID": "N053 Caggiano, Zimber et al. 2005",
+    "et": "PartialTransection",
+    "off": 9574,
+    "sff": "canal"
+  },
+  {
+    "docID": "N053 Caggiano, Zimber et al. 2005",
+    "et": "InjuryDevice",
+    "off": 9190,
+    "sff": "needle"
+  },
+  {
+    "docID": "N053 Caggiano, Zimber et al. 2005",
+    "et": "L1",
+    "off": 9135,
+    "sff": "L1"
+  },
+  {
+    "docID": "N053 Caggiano, Zimber et al. 2005",
+    "et": "Isoflurane",
+    "off": 8623,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N053 Caggiano, Zimber et al. 2005",
+    "et": "C1",
+    "off": 11505,
+    "sff": "first"
+  }
+]

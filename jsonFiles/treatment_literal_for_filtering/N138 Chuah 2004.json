@@ -1,0 +1,596 @@
+[
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cell",
+    "off": 31421,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cell",
+    "off": 6036,
+    "sff": "cells"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cell",
+    "off": 25529,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cell",
+    "off": 20198,
+    "sff": "nerve"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cell",
+    "off": 27304,
+    "sff": "cells"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Caudal",
+    "off": 12529,
+    "sff": "posterior"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Rostral",
+    "off": 10992,
+    "sff": "anteroposteriorly"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Caudal",
+    "off": 28193,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cell",
+    "off": 6865,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Rostral",
+    "off": 23897,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cell",
+    "off": 9167,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "SchwannCell",
+    "off": 5128,
+    "sff": "nerve"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cell",
+    "off": 25245,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "DeliveryMethod",
+    "off": 20015,
+    "sff": "transplanted"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cell",
+    "off": 30362,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Rostral",
+    "off": 27503,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "SchwannCell",
+    "off": 7609,
+    "sff": "cells"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cell",
+    "off": 13997,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cell",
+    "off": 9383,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cell",
+    "off": 8735,
+    "sff": "skin"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Rostral",
+    "off": 10708,
+    "sff": "anteroposteriorly"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cell",
+    "off": 8076,
+    "sff": "cells"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Conduit",
+    "off": 11653,
+    "sff": "contains"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Caudal",
+    "off": 12563,
+    "sff": "posterior"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cell",
+    "off": 15791,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cell",
+    "off": 19611,
+    "sff": "nerve"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cell",
+    "off": 30588,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Caudal",
+    "off": 18759,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cell",
+    "off": 18821,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "SchwannCell",
+    "off": 23,
+    "sff": "cells"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Vehicle",
+    "off": 5678,
+    "sff": "culture medium"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Caudal",
+    "off": 26793,
+    "sff": "caudally"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cell",
+    "off": 19071,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Vehicle",
+    "off": 10833,
+    "sff": "CM"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cell",
+    "off": 21222,
+    "sff": "cells"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Rostral",
+    "off": 13981,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "SchwannCell",
+    "off": 4914,
+    "sff": "cells"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Rostral",
+    "off": 25759,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Caudal",
+    "off": 12601,
+    "sff": "posterior"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cell",
+    "off": 17044,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cell",
+    "off": 20367,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cell",
+    "off": 21136,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cell",
+    "off": 11221,
+    "sff": "skin"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cell",
+    "off": 7003,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cell",
+    "off": 19898,
+    "sff": "cells"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cell",
+    "off": 5359,
+    "sff": "nasal"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cell",
+    "off": 6933,
+    "sff": "cells"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Vehicle",
+    "off": 5786,
+    "sff": "serum"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cell",
+    "off": 27708,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "InjectionDelivery",
+    "off": 31124,
+    "sff": "injected"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cell",
+    "off": 11180,
+    "sff": "skin"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cell",
+    "off": 5150,
+    "sff": "mucosa"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 442,
+    "sff": "ECs"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cell",
+    "off": 15936,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cell",
+    "off": 20074,
+    "sff": "nerve"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cell",
+    "off": 14922,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cell",
+    "off": 6951,
+    "sff": "cells"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cell",
+    "off": 21031,
+    "sff": "cells"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Caudal",
+    "off": 27805,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Rostral",
+    "off": 10202,
+    "sff": "anterior"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "InjectionDelivery",
+    "off": 30388,
+    "sff": "injected"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cell",
+    "off": 8843,
+    "sff": "skin"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cell",
+    "off": 26657,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cell",
+    "off": 11820,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Conduit",
+    "off": 26311,
+    "sff": "parallel"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Caudal",
+    "off": 20855,
+    "sff": "caudally"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 5158,
+    "sff": "OM"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "DeliveryMethod",
+    "off": 30021,
+    "sff": "injections"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cell",
+    "off": 19966,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Conduit",
+    "off": 17278,
+    "sff": "contains"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Vehicle",
+    "off": 824,
+    "sff": "medium"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cell",
+    "off": 26400,
+    "sff": "nerve"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Vehicle",
+    "off": 9677,
+    "sff": "CM"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cell",
+    "off": 19497,
+    "sff": "nerve"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Caudal",
+    "off": 26155,
+    "sff": "caudally"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 999,
+    "sff": "3"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "SchwannCell",
+    "off": 7347,
+    "sff": "cells"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "SchwannCell",
+    "off": 435,
+    "sff": "cells"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cell",
+    "off": 26675,
+    "sff": "nerve"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cell",
+    "off": 28438,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cell",
+    "off": 14866,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cell",
+    "off": 13176,
+    "sff": "skin"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Caudal",
+    "off": 20699,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "SchwannCell",
+    "off": 28548,
+    "sff": "cells"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cell",
+    "off": 10971,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cell",
+    "off": 6193,
+    "sff": "fibroblasts"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Conduit",
+    "off": 25703,
+    "sff": "bundle"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cell",
+    "off": 11738,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Caudal",
+    "off": 20130,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cell",
+    "off": 21976,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cell",
+    "off": 25858,
+    "sff": "nerve"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Caudal",
+    "off": 26698,
+    "sff": "caudally"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cell",
+    "off": 11999,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cell",
+    "off": 20287,
+    "sff": "cells"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Rostral",
+    "off": 18746,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cell",
+    "off": 7236,
+    "sff": "cells"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cell",
+    "off": 19729,
+    "sff": "nerve"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cell",
+    "off": 7921,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cell",
+    "off": 17391,
+    "sff": "spinal"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "SodiumPentobarbital",
+    "off": 9876,
+    "sff": "pentobarbital"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "PhotochemicalInjury",
+    "off": 13207,
+    "sff": "injury"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "Forceps",
+    "off": 6376,
+    "sff": "∞"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "T9",
+    "off": 10048,
+    "sff": "T9"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "CompleteTransection",
+    "off": 21989,
+    "sff": "model"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "Compression",
+    "off": 5329,
+    "sff": "technique"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "LightSource",
+    "off": 17928,
+    "sff": "optic"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "T10",
+    "off": 11037,
+    "sff": "10"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "PhotochemicalInjury",
+    "off": 9952,
+    "sff": "Spinal"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "Thoracic",
+    "off": 10556,
+    "sff": "low"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "Thoracic",
+    "off": 10861,
+    "sff": "low"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "NYUImpactor",
+    "off": 358,
+    "sff": "New"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "NYUImpactor",
+    "off": 327,
+    "sff": "University"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "Clip",
+    "off": 17681,
+    "sff": "modified"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "Contusion",
+    "off": 21620,
+    "sff": "SCI"
+  }
+]

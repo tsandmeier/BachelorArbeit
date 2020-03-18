@@ -1,0 +1,332 @@
+[
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "CompleteTransection",
+    "off": 7765,
+    "sff": "transection"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "DorsalHemisection",
+    "off": 12529,
+    "sff": "transection"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "Blade",
+    "off": 12047,
+    "sff": "small"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "Balloon",
+    "off": 16755,
+    "sff": "balloon"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "C1",
+    "off": 21260,
+    "sff": "first"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "Forceps",
+    "off": 16151,
+    "sff": "5"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "Contusion",
+    "off": 2250,
+    "sff": "cord"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "Injury",
+    "off": 13466,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "Xylazine",
+    "off": 8593,
+    "sff": "hydrochloride"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "T10",
+    "off": 2293,
+    "sff": "thoracic"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "InjuryDevice",
+    "off": 12517,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "Balloon",
+    "off": 16384,
+    "sff": "balloon"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "Forceps",
+    "off": 31310,
+    "sff": "s"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "Xylazine",
+    "off": 12794,
+    "sff": "xylazine"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "Blade",
+    "off": 32453,
+    "sff": "11"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "Scissors",
+    "off": 13370,
+    "sff": "microscissors"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "Compression",
+    "off": 100,
+    "sff": "injury"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "Contusion",
+    "off": 95,
+    "sff": "cord"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "Vibraknife",
+    "off": 6687,
+    "sff": "device"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "Blade",
+    "off": 17971,
+    "sff": "11"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "NYUImpactor",
+    "off": 29811,
+    "sff": "developed"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "T9",
+    "off": 22827,
+    "sff": "9"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "KetamineAsAnaesthetic",
+    "off": 8305,
+    "sff": "ketamine hydrochloride"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "Balloon",
+    "off": 25749,
+    "sff": "Balloon"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "MASCISImpactor",
+    "off": 30305,
+    "sff": "drop"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "InjuryDevice",
+    "off": 13446,
+    "sff": "scalpel"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "NYUImpactor",
+    "off": 10045,
+    "sff": "New"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "CompleteTransection",
+    "off": 13343,
+    "sff": "completely transected"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "Balloon",
+    "off": 16600,
+    "sff": "balloon"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "Balloon",
+    "off": 25817,
+    "sff": "balloon"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "Anaesthetic",
+    "off": 18828,
+    "sff": "mouse"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "C4",
+    "off": 2275,
+    "sff": "cervical"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "Compression",
+    "off": 1836,
+    "sff": "injury"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "NYUImpactor",
+    "off": 16214,
+    "sff": "developed"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "T3",
+    "off": 21948,
+    "sff": "T3"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "Vibraknife",
+    "off": 8197,
+    "sff": "device"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "DorsalHemisection",
+    "off": 34090,
+    "sff": "transection"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "T9",
+    "off": 28045,
+    "sff": "9"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "Forceps",
+    "off": 15827,
+    "sff": "5"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "T9",
+    "off": 17911,
+    "sff": "9"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "T3",
+    "off": 13235,
+    "sff": "T3"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "KetamineAsAnaesthetic",
+    "off": 8345,
+    "sff": "Ketamine"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "Balloon",
+    "off": 25912,
+    "sff": "balloon"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "Contusion",
+    "off": 542,
+    "sff": "cord"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "Clip",
+    "off": 10915,
+    "sff": "modified"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "Clip",
+    "off": 11299,
+    "sff": "modified"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "AllenWeightDropDevice",
+    "off": 16047,
+    "sff": "method"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "Xylazine",
+    "off": 8407,
+    "sff": "xylazine"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "Forceps",
+    "off": 14772,
+    "sff": "5"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "Compression",
+    "off": 2255,
+    "sff": "injury"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "Blade",
+    "off": 22883,
+    "sff": "11"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "T10",
+    "off": 15956,
+    "sff": "10"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "NYUImpactor",
+    "off": 5699,
+    "sff": "University"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "Clip",
+    "off": 13849,
+    "sff": "modified"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "InjuryDevice",
+    "off": 11448,
+    "sff": "spinal"
+  }
+]

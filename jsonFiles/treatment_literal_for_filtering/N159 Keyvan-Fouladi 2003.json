@@ -1,0 +1,344 @@
+[
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "Direction",
+    "off": 431,
+    "sff": "dorsal"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "DosageExtracorporal",
+    "off": 14599,
+    "sff": "rats"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "DeliveryMethod",
+    "off": 14906,
+    "sff": "transplantation"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "Direction",
+    "off": 10480,
+    "sff": "distal"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "DosageExtracorporal",
+    "off": 15850,
+    "sff": "7"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "Vehicle",
+    "off": 14165,
+    "sff": "medium"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "Cell",
+    "off": 14386,
+    "sff": "fibroblasts"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "DosageExtracorporal",
+    "off": 13052,
+    "sff": "medium"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "Direction",
+    "off": 10728,
+    "sff": "distal"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "SurgeryTreatment",
+    "off": 873,
+    "sff": "site"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "SchwannCell",
+    "off": 838,
+    "sff": "cells"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "Cell",
+    "off": 14380,
+    "sff": "nerve"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "DeliveryMethod",
+    "off": 13855,
+    "sff": "transplanted"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "Direction",
+    "off": 11748,
+    "sff": "distal"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "SurgeryTreatment",
+    "off": 10849,
+    "sff": "were"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "Direction",
+    "off": 10915,
+    "sff": "proximal"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "Vehicle",
+    "off": 14864,
+    "sff": "culture"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "DeliveryMethod",
+    "off": 13482,
+    "sff": "transplanted"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "Direction",
+    "off": 1425,
+    "sff": "dorsal"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "Direction",
+    "off": 1161,
+    "sff": "distal"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "Cell",
+    "off": 15740,
+    "sff": "peripheral"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "RehabilitativeTraining",
+    "off": 353,
+    "sff": "trained"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "Cell",
+    "off": 15099,
+    "sff": "peripheral"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "DosageExtracorporal",
+    "off": 13328,
+    "sff": "4"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "DosageExtracorporal",
+    "off": 13005,
+    "sff": "received"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "SurgeryTreatment",
+    "off": 10336,
+    "sff": "leaving"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "DosageExtracorporal",
+    "off": 15184,
+    "sff": "transplanted"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "InjectionDelivery",
+    "off": 14136,
+    "sff": "injections"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "DosageExtracorporal",
+    "off": 12883,
+    "sff": "rats"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "Vehicle",
+    "off": 12967,
+    "sff": "12"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "Cell",
+    "off": 1242,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "SurgeryTreatment",
+    "off": 11536,
+    "sff": "were"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "SurgeryTreatment",
+    "off": 14477,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "SurgeryTreatment",
+    "off": 12180,
+    "sff": "were"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "DosageExtracorporal",
+    "off": 14224,
+    "sff": "injection"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "Direction",
+    "off": 14047,
+    "sff": "dorsal"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "DosageExtracorporal",
+    "off": 12391,
+    "sff": "≈"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "Direction",
+    "off": 14753,
+    "sff": "distal"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "SurgeryTreatment",
+    "off": 16259,
+    "sff": "injury"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "SurgeryTreatment",
+    "off": 10791,
+    "sff": "were"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "SurgeryTreatment",
+    "off": 10538,
+    "sff": "were"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "SurgeryTreatment",
+    "off": 13003,
+    "sff": "2"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "Direction",
+    "off": 15564,
+    "sff": "lateral"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "SurgeryTreatment",
+    "off": 9397,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "SurgeryTreatment",
+    "off": 12403,
+    "sff": "were"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "Direction",
+    "off": 10581,
+    "sff": "distal"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "RehabilitativeTraining",
+    "off": 11060,
+    "sff": "range"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "DosageExtracorporal",
+    "off": 15123,
+    "sff": "7"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "Cell",
+    "off": 14671,
+    "sff": "cells"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "DeliveryMethod",
+    "off": 15211,
+    "sff": "transplantation"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "SurgeryTreatment",
+    "off": 12150,
+    "sff": "second"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "DeliveryMethod",
+    "off": 14658,
+    "sff": "transplanted"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "DeliveryMethod",
+    "off": 13022,
+    "sff": "injections"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "SurgeryTreatment",
+    "off": 11140,
+    "sff": "were"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 10206,
+    "sff": "OE"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "DosageExtracorporal",
+    "off": 13844,
+    "sff": "Two"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "InjectionDelivery",
+    "off": 848,
+    "sff": "injected"
+  }
+]

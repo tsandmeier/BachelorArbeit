@@ -1,0 +1,188 @@
+[
+  {
+    "docID": "N049 Wang 2011 21299884",
+    "et": "Thoracic",
+    "off": 1054,
+    "sff": "thoracic"
+  },
+  {
+    "docID": "N049 Wang 2011 21299884",
+    "et": "Clip",
+    "off": 11727,
+    "sff": "modified"
+  },
+  {
+    "docID": "N049 Wang 2011 21299884",
+    "et": "MASCISImpactor",
+    "off": 7894,
+    "sff": "device"
+  },
+  {
+    "docID": "N049 Wang 2011 21299884",
+    "et": "PhotochemicalInjury",
+    "off": 28877,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N049 Wang 2011 21299884",
+    "et": "LightSource",
+    "off": 9002,
+    "sff": "cold"
+  },
+  {
+    "docID": "N049 Wang 2011 21299884",
+    "et": "CompleteTransection",
+    "off": 17341,
+    "sff": "sectioned"
+  },
+  {
+    "docID": "N049 Wang 2011 21299884",
+    "et": "AllenWeightDropDevice",
+    "off": 10466,
+    "sff": "method"
+  },
+  {
+    "docID": "N049 Wang 2011 21299884",
+    "et": "LightSource",
+    "off": 9115,
+    "sff": "cold"
+  },
+  {
+    "docID": "N049 Wang 2011 21299884",
+    "et": "NYUImpactor",
+    "off": 7901,
+    "sff": "developed"
+  },
+  {
+    "docID": "N049 Wang 2011 21299884",
+    "et": "PhotochemicalInjury",
+    "off": 17047,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N049 Wang 2011 21299884",
+    "et": "SodiumPentobarbital",
+    "off": 9862,
+    "sff": "2%"
+  },
+  {
+    "docID": "N049 Wang 2011 21299884",
+    "et": "SodiumPentobarbital",
+    "off": 16439,
+    "sff": "pentobarbital"
+  },
+  {
+    "docID": "N049 Wang 2011 21299884",
+    "et": "Injury",
+    "off": 14324,
+    "sff": "heat"
+  },
+  {
+    "docID": "N049 Wang 2011 21299884",
+    "et": "SodiumPentobarbital",
+    "off": 9975,
+    "sff": "2%"
+  },
+  {
+    "docID": "N049 Wang 2011 21299884",
+    "et": "PhotochemicalInjury",
+    "off": 24553,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N049 Wang 2011 21299884",
+    "et": "T10",
+    "off": 35438,
+    "sff": "T"
+  },
+  {
+    "docID": "N049 Wang 2011 21299884",
+    "et": "LightSource",
+    "off": 16972,
+    "sff": "cold"
+  },
+  {
+    "docID": "N049 Wang 2011 21299884",
+    "et": "LightSource",
+    "off": 8722,
+    "sff": "cold"
+  },
+  {
+    "docID": "N049 Wang 2011 21299884",
+    "et": "AllenWeightDropDevice",
+    "off": 19958,
+    "sff": "method"
+  },
+  {
+    "docID": "N049 Wang 2011 21299884",
+    "et": "Blade",
+    "off": 38159,
+    "sff": "fine"
+  },
+  {
+    "docID": "N049 Wang 2011 21299884",
+    "et": "Thoracic",
+    "off": 3526,
+    "sff": "low"
+  },
+  {
+    "docID": "N049 Wang 2011 21299884",
+    "et": "Forceps",
+    "off": 33296,
+    "sff": "5"
+  },
+  {
+    "docID": "N049 Wang 2011 21299884",
+    "et": "PhotochemicalInjury",
+    "off": 21806,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N049 Wang 2011 21299884",
+    "et": "NYUImpactor",
+    "off": 2813,
+    "sff": "University"
+  },
+  {
+    "docID": "N049 Wang 2011 21299884",
+    "et": "Compression",
+    "off": 15928,
+    "sff": "compressed"
+  },
+  {
+    "docID": "N049 Wang 2011 21299884",
+    "et": "C7",
+    "off": 26993,
+    "sff": "C"
+  },
+  {
+    "docID": "N049 Wang 2011 21299884",
+    "et": "Blade",
+    "off": 9485,
+    "sff": "11"
+  },
+  {
+    "docID": "N049 Wang 2011 21299884",
+    "et": "PhotochemicalInjury",
+    "off": 16533,
+    "sff": "Spinal"
+  },
+  {
+    "docID": "N049 Wang 2011 21299884",
+    "et": "Blade",
+    "off": 29064,
+    "sff": "fine"
+  },
+  {
+    "docID": "N049 Wang 2011 21299884",
+    "et": "LightSource",
+    "off": 3621,
+    "sff": "fiber"
+  },
+  {
+    "docID": "N049 Wang 2011 21299884",
+    "et": "Contusion",
+    "off": 32703,
+    "sff": "contused"
+  }
+]

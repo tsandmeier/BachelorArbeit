@@ -1,0 +1,272 @@
+[
+  {
+    "docID": "N237 dePaul",
+    "et": "ScoutenWireKnife",
+    "off": 42644,
+    "sff": "wire"
+  },
+  {
+    "docID": "N237 dePaul",
+    "et": "InfiniteHorizonImpactor",
+    "off": 39786,
+    "sff": "Infinite Horizon Impact"
+  },
+  {
+    "docID": "N237 dePaul",
+    "et": "T8",
+    "off": 15622,
+    "sff": "T8"
+  },
+  {
+    "docID": "N237 dePaul",
+    "et": "T7",
+    "off": 39721,
+    "sff": "T7"
+  },
+  {
+    "docID": "N237 dePaul",
+    "et": "Anaesthetic",
+    "off": 42432,
+    "sff": "urethane"
+  },
+  {
+    "docID": "N237 dePaul",
+    "et": "Compression",
+    "off": 15769,
+    "sff": "injury"
+  },
+  {
+    "docID": "N237 dePaul",
+    "et": "Vibraknife",
+    "off": 15529,
+    "sff": "device"
+  },
+  {
+    "docID": "N237 dePaul",
+    "et": "Compression",
+    "off": 155,
+    "sff": "injury"
+  },
+  {
+    "docID": "N237 dePaul",
+    "et": "KetamineAsAnaesthetic",
+    "off": 39532,
+    "sff": "ketamine"
+  },
+  {
+    "docID": "N237 dePaul",
+    "et": "Forceps",
+    "off": 47296,
+    "sff": "s"
+  },
+  {
+    "docID": "N237 dePaul",
+    "et": "InfiniteHorizonImpactor",
+    "off": 39899,
+    "sff": "tip"
+  },
+  {
+    "docID": "N237 dePaul",
+    "et": "LightSource",
+    "off": 43479,
+    "sff": "connected"
+  },
+  {
+    "docID": "N237 dePaul",
+    "et": "T9",
+    "off": 39728,
+    "sff": "T9"
+  },
+  {
+    "docID": "N237 dePaul",
+    "et": "T10",
+    "off": 15604,
+    "sff": "thoracic"
+  },
+  {
+    "docID": "N237 dePaul",
+    "et": "Compression",
+    "off": 26400,
+    "sff": "injury"
+  },
+  {
+    "docID": "N237 dePaul",
+    "et": "Xylazine",
+    "off": 39556,
+    "sff": "xylazine"
+  },
+  {
+    "docID": "N237 dePaul",
+    "et": "CompleteTransection",
+    "off": 4470,
+    "sff": "complete transection"
+  },
+  {
+    "docID": "N237 dePaul",
+    "et": "T7",
+    "off": 39606,
+    "sff": "T7"
+  },
+  {
+    "docID": "N237 dePaul",
+    "et": "NYUImpactor",
+    "off": 40933,
+    "sff": "II"
+  },
+  {
+    "docID": "N237 dePaul",
+    "et": "InfiniteHorizonImpactor",
+    "off": 15521,
+    "sff": "Horizon"
+  },
+  {
+    "docID": "N237 dePaul",
+    "et": "T9",
+    "off": 39609,
+    "sff": "T9"
+  },
+  {
+    "docID": "N237 dePaul",
+    "et": "Injury",
+    "off": 4156,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N237 dePaul",
+    "et": "PhotochemicalInjury",
+    "off": 41168,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N237 dePaul",
+    "et": "Forceps",
+    "off": 39753,
+    "sff": "forceps"
+  },
+  {
+    "docID": "N237 dePaul",
+    "et": "Blade",
+    "off": 19620,
+    "sff": "sharp"
+  },
+  {
+    "docID": "N237 dePaul",
+    "et": "InfiniteHorizonImpactor",
+    "off": 39810,
+    "sff": "Device"
+  },
+  {
+    "docID": "N237 dePaul",
+    "et": "Anaesthetic",
+    "off": 42384,
+    "sff": "anesthetized"
+  },
+  {
+    "docID": "N237 dePaul",
+    "et": "PartialTransection",
+    "off": 15904,
+    "sff": "2"
+  },
+  {
+    "docID": "N237 dePaul",
+    "et": "Blade",
+    "off": 24461,
+    "sff": "11"
+  },
+  {
+    "docID": "N237 dePaul",
+    "et": "Contusion",
+    "off": 21049,
+    "sff": "contusive"
+  },
+  {
+    "docID": "N237 dePaul",
+    "et": "NYUImpactor",
+    "off": 39264,
+    "sff": "University"
+  },
+  {
+    "docID": "N237 dePaul",
+    "et": "T8",
+    "off": 37936,
+    "sff": "T8"
+  },
+  {
+    "docID": "N237 dePaul",
+    "et": "LightSource",
+    "off": 42804,
+    "sff": "connected"
+  },
+  {
+    "docID": "N237 dePaul",
+    "et": "LightSource",
+    "off": 42869,
+    "sff": "connected"
+  },
+  {
+    "docID": "N237 dePaul",
+    "et": "InjuryDevice",
+    "off": 40775,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N237 dePaul",
+    "et": "Contusion",
+    "off": 4929,
+    "sff": "contusion"
+  },
+  {
+    "docID": "N237 dePaul",
+    "et": "NYUImpactor",
+    "off": 39890,
+    "sff": "impactor"
+  },
+  {
+    "docID": "N237 dePaul",
+    "et": "Blade",
+    "off": 38014,
+    "sff": "11"
+  },
+  {
+    "docID": "N237 dePaul",
+    "et": "Blade",
+    "off": 733,
+    "sff": "sharp"
+  },
+  {
+    "docID": "N237 dePaul",
+    "et": "Forceps",
+    "off": 47404,
+    "sff": "s"
+  },
+  {
+    "docID": "N237 dePaul",
+    "et": "Forceps",
+    "off": 47019,
+    "sff": "s"
+  },
+  {
+    "docID": "N237 dePaul",
+    "et": "InfiniteHorizonImpactor",
+    "off": 15512,
+    "sff": "Infinite"
+  },
+  {
+    "docID": "N237 dePaul",
+    "et": "Isoflurane",
+    "off": 40532,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N237 dePaul",
+    "et": "Anaesthetic",
+    "off": 2216,
+    "sff": "sulfate"
+  },
+  {
+    "docID": "N237 dePaul",
+    "et": "Thoracic",
+    "off": 40577,
+    "sff": "thoracic"
+  }
+]

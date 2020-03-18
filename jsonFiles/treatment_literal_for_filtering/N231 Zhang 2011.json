@@ -1,0 +1,428 @@
+[
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "DosageExtracorporal",
+    "off": 12504,
+    "sff": "8"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "SurgeryTreatment",
+    "off": 16629,
+    "sff": "5"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "SurgeryTreatment",
+    "off": 15106,
+    "sff": "scar"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "SurgeryTreatment",
+    "off": 14082,
+    "sff": "scar"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "Direction",
+    "off": 10332,
+    "sff": "dorsal"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "SurgeryTreatment",
+    "off": 9513,
+    "sff": "4"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "DosageExtracorporal",
+    "off": 29,
+    "sff": "LP"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "DeliveryMethod",
+    "off": 13899,
+    "sff": "transplanted"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "DeliveryMethod",
+    "off": 7508,
+    "sff": "transplantation"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "Cell",
+    "off": 1471,
+    "sff": "cells"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "DeliveryMethod",
+    "off": 9555,
+    "sff": "transplantation"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "DeliveryMethod",
+    "off": 973,
+    "sff": "transplantation"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "Cell",
+    "off": 302,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "DosageExtracorporal",
+    "off": 8963,
+    "sff": "3"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "Tissue",
+    "off": 677,
+    "sff": "LP"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "SurgeryTreatment",
+    "off": 7889,
+    "sff": "2"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "DeliveryMethod",
+    "off": 15545,
+    "sff": "transplanted"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "SurgeryTreatment",
+    "off": 13602,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "SurgeryTreatment",
+    "off": 17375,
+    "sff": "injury"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "DeliveryMethod",
+    "off": 9030,
+    "sff": "transplantation"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "SchwannCell",
+    "off": 18573,
+    "sff": "Schwann"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "Cell",
+    "off": 8342,
+    "sff": "cells"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "Cell",
+    "off": 12351,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "SurgeryTreatment",
+    "off": 16469,
+    "sff": "scar"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "DosageExtracorporal",
+    "off": 20908,
+    "sff": "8"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "Cell",
+    "off": 7388,
+    "sff": "nerve"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "SurgeryTreatment",
+    "off": 16523,
+    "sff": "5"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "SchwannCell",
+    "off": 18555,
+    "sff": "Schwann cells"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "Cell",
+    "off": 10932,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "DosageExtracorporal",
+    "off": 17267,
+    "sff": "7"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "Cell",
+    "off": 14775,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "DeliveryMethod",
+    "off": 8738,
+    "sff": "transplanted"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "DeliveryMethod",
+    "off": 1849,
+    "sff": "transplantation"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "DosageExtracorporal",
+    "off": 21882,
+    "sff": "3"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "DosageExtracorporal",
+    "off": 19447,
+    "sff": "7"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "Cell",
+    "off": 7284,
+    "sff": "mucosa"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 772,
+    "sff": "OEC"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "SurgeryTreatment",
+    "off": 18891,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "SurgeryTreatment",
+    "off": 16830,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "Cell",
+    "off": 1924,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "Cell",
+    "off": 133,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "DeliveryMethod",
+    "off": 8979,
+    "sff": "transplanted"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "Vehicle",
+    "off": 14762,
+    "sff": "rat"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "DosageExtracorporal",
+    "off": 14720,
+    "sff": "transplanted"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "InjectionDelivery",
+    "off": 13401,
+    "sff": "injected"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "Direction",
+    "off": 12208,
+    "sff": "dorsal"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "Conduit",
+    "off": 9329,
+    "sff": "parallel"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "Cell",
+    "off": 7611,
+    "sff": "nerve"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "DosageExtracorporal",
+    "off": 17295,
+    "sff": "8"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "DeliveryMethod",
+    "off": 14100,
+    "sff": "transplantation"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "SurgeryTreatment",
+    "off": 10404,
+    "sff": "5"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "Cell",
+    "off": 12827,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "SurgeryTreatment",
+    "off": 15268,
+    "sff": "5"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "Cell",
+    "off": 9370,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "Cell",
+    "off": 2029,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "Cell",
+    "off": 10220,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "Cell",
+    "off": 878,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "DosageExtracorporal",
+    "off": 19199,
+    "sff": "6"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "DeliveryMethod",
+    "off": 14852,
+    "sff": "transplantation"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "Cell",
+    "off": 8142,
+    "sff": "cells"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "Conduit",
+    "off": 7351,
+    "sff": "contains"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "SchwannCell",
+    "off": 19111,
+    "sff": "Schwann cells"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "Cell",
+    "off": 698,
+    "sff": "mucosa"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "InjectionDelivery",
+    "off": 8055,
+    "sff": "injected"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "Cell",
+    "off": 11395,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "SurgeryTreatment",
+    "off": 15136,
+    "sff": "scar"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "DosageExtracorporal",
+    "off": 14643,
+    "sff": "transplanted"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "SurgeryTreatment",
+    "off": 17216,
+    "sff": "5"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "DosageExtracorporal",
+    "off": 12916,
+    "sff": "6"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "DosageExtracorporal",
+    "off": 11060,
+    "sff": "7"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "DosageExtracorporal",
+    "off": 11639,
+    "sff": "6"
+  }
+]

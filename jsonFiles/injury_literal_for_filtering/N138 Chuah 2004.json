@@ -1,0 +1,278 @@
+[
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Anaesthetic",
+    "off": 5224,
+    "sff": "ice"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Blade",
+    "off": 8796,
+    "sff": "surgical"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "VertebralArea",
+    "off": 9047,
+    "sff": "T8 and T9"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Blade",
+    "off": 25841,
+    "sff": "small"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Dislocation",
+    "off": 29027,
+    "sff": "consequence"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cervical",
+    "off": 24001,
+    "sff": "cervical"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Blade",
+    "off": 7331,
+    "sff": "small"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "PartialTransection",
+    "off": 941,
+    "sff": "2"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Compression",
+    "off": 20842,
+    "sff": "funiculus"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "PartialTransection",
+    "off": 1786,
+    "sff": "injury"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Isoflurane",
+    "off": 8170,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cervical",
+    "off": 24059,
+    "sff": "cervical"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cervical",
+    "off": 24570,
+    "sff": "cervical"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "LateralHemisection",
+    "off": 10171,
+    "sff": "left"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "InjuryDevice",
+    "off": 25613,
+    "sff": "compression"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "T10",
+    "off": 8964,
+    "sff": "T10"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cervical",
+    "off": 18224,
+    "sff": "cervical"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Blade",
+    "off": 27349,
+    "sff": "small"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Injury",
+    "off": 13270,
+    "sff": "heat"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Blade",
+    "off": 9534,
+    "sff": "surgical"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cervical",
+    "off": 17133,
+    "sff": "cervical"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Scissors",
+    "off": 9286,
+    "sff": "microscissors"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "LateralHemisection",
+    "off": 944,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "T7",
+    "off": 8961,
+    "sff": "T7"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Laminectomy",
+    "off": 9090,
+    "sff": "laminectomy"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Blade",
+    "off": 26670,
+    "sff": "fine"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cervical",
+    "off": 23317,
+    "sff": "cervical"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Blade",
+    "off": 19434,
+    "sff": "fine"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "LateralHemisection",
+    "off": 1002,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Blade",
+    "off": 19492,
+    "sff": "fine"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "T8",
+    "off": 726,
+    "sff": "T8"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Blade",
+    "off": 20193,
+    "sff": "fine"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Scissors",
+    "off": 9206,
+    "sff": "microscissors"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "T11",
+    "off": 8903,
+    "sff": "T11"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cervical",
+    "off": 14535,
+    "sff": "cervical"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "C1",
+    "off": 9500,
+    "sff": "first"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cervical",
+    "off": 18064,
+    "sff": "cervical"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Cervical",
+    "off": 17681,
+    "sff": "cervical"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "InjuryDevice",
+    "off": 9864,
+    "sff": "needle"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Injury",
+    "off": 11316,
+    "sff": "heat"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "LateralHemisection",
+    "off": 17190,
+    "sff": "upper"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "LightSource",
+    "off": 13594,
+    "sff": "cold"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Blade",
+    "off": 8895,
+    "sff": "11"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Blade",
+    "off": 23294,
+    "sff": "11"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Blade",
+    "off": 28919,
+    "sff": "small"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Isoflurane",
+    "off": 8219,
+    "sff": "isoflurane"
+  }
+]

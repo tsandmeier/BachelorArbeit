@@ -1,0 +1,98 @@
+[
+  {
+    "docID": "N106 Xiong",
+    "et": "Scissors",
+    "off": 8173,
+    "sff": "microscissors"
+  },
+  {
+    "docID": "N106 Xiong",
+    "et": "T10",
+    "off": 8143,
+    "sff": "T10"
+  },
+  {
+    "docID": "N106 Xiong",
+    "et": "SodiumPentobarbital",
+    "off": 7766,
+    "sff": "2%"
+  },
+  {
+    "docID": "N106 Xiong",
+    "et": "LightSource",
+    "off": 14771,
+    "sff": "fiber"
+  },
+  {
+    "docID": "N106 Xiong",
+    "et": "LateralHemisection",
+    "off": 7886,
+    "sff": "incision"
+  },
+  {
+    "docID": "N106 Xiong",
+    "et": "SodiumPentobarbital",
+    "off": 9146,
+    "sff": "pentobarbital sodium"
+  },
+  {
+    "docID": "N106 Xiong",
+    "et": "SodiumPentobarbital",
+    "off": 7769,
+    "sff": "pentobarbital sodium"
+  },
+  {
+    "docID": "N106 Xiong",
+    "et": "NYUImpactor",
+    "off": 12440,
+    "sff": "York"
+  },
+  {
+    "docID": "N106 Xiong",
+    "et": "CompleteTransection",
+    "off": 8114,
+    "sff": "completely transected"
+  },
+  {
+    "docID": "N106 Xiong",
+    "et": "LightSource",
+    "off": 7563,
+    "sff": "light"
+  },
+  {
+    "docID": "N106 Xiong",
+    "et": "T10",
+    "off": 7803,
+    "sff": "T10"
+  },
+  {
+    "docID": "N106 Xiong",
+    "et": "Contusion",
+    "off": 408,
+    "sff": "injury"
+  },
+  {
+    "docID": "N106 Xiong",
+    "et": "PhotochemicalInjury",
+    "off": 14872,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N106 Xiong",
+    "et": "PhotochemicalInjury",
+    "off": 8248,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N106 Xiong",
+    "et": "PhotochemicalInjury",
+    "off": 14298,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N106 Xiong",
+    "et": "Blade",
+    "off": 8312,
+    "sff": "small"
+  }
+]

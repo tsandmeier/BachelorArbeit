@@ -1,0 +1,512 @@
+[
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "Cell",
+    "off": 204,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "DeliveryMethod",
+    "off": 21086,
+    "sff": "transplanted"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "Cell",
+    "off": 19658,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "DeliveryMethod",
+    "off": 1498,
+    "sff": "transplanted"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "Caudal",
+    "off": 24089,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "Cell",
+    "off": 469,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "SchwannCell",
+    "off": 617,
+    "sff": "cells"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "Cell",
+    "off": 2259,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "DeliveryMethod",
+    "off": 21367,
+    "sff": "transplantation"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "SurgeryTreatment",
+    "off": 25870,
+    "sff": "injury"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "Cell",
+    "off": 23885,
+    "sff": "fibroblasts"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "Cell",
+    "off": 21339,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "DosageExtracorporal",
+    "off": 20751,
+    "sff": "rat"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "CompoundTreatment",
+    "off": 20948,
+    "sff": "treatment"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "Rostral",
+    "off": 23016,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "CompoundTreatment",
+    "off": 24919,
+    "sff": "treatment"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "Cell",
+    "off": 97,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "Cell",
+    "off": 24160,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "SurgeryTreatment",
+    "off": 25721,
+    "sff": "between"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "SurgeryTreatment",
+    "off": 24469,
+    "sff": "injury"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "SchwannCell",
+    "off": 2042,
+    "sff": "cells"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "SurgeryTreatment",
+    "off": 24304,
+    "sff": "between"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "SurgeryTreatment",
+    "off": 24110,
+    "sff": "cord"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "Rostral",
+    "off": 24698,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "SurgeryTreatment",
+    "off": 24929,
+    "sff": "were"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "SurgeryTreatment",
+    "off": 24290,
+    "sff": "were"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "Caudal",
+    "off": 24443,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "Vehicle",
+    "off": 21953,
+    "sff": "F"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "SurgeryTreatment",
+    "off": 24172,
+    "sff": "injury"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "Caudal",
+    "off": 25856,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "CompoundTreatment",
+    "off": 21818,
+    "sff": "treatment"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "CompoundTreatment",
+    "off": 22081,
+    "sff": "treatment"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "SchwannCell",
+    "off": 332,
+    "sff": "cells"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "Cell",
+    "off": 22838,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "Cell",
+    "off": 22966,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "DeliveryMethod",
+    "off": 21034,
+    "sff": "transplanted"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "Rostral",
+    "off": 24454,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "SurgeryTreatment",
+    "off": 25945,
+    "sff": "between"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "DosageExtracorporal",
+    "off": 20902,
+    "sff": "rat"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "Cell",
+    "off": 37,
+    "sff": "fibroblasts"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "SurgeryTreatment",
+    "off": 25064,
+    "sff": "were"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "DeliveryMethod",
+    "off": 23860,
+    "sff": "transplanted"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "Cell",
+    "off": 19527,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "Rostral",
+    "off": 24077,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "Cell",
+    "off": 26143,
+    "sff": "fibroblasts"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "Cell",
+    "off": 401,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "SurgeryTreatment",
+    "off": 24132,
+    "sff": "were"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "Cell",
+    "off": 1678,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "Cell",
+    "off": 21398,
+    "sff": "fibroblasts"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "Caudal",
+    "off": 23005,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "SurgeryTreatment",
+    "off": 24898,
+    "sff": "between"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "SurgeryTreatment",
+    "off": 25406,
+    "sff": "were"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "DosageExtracorporal",
+    "off": 20441,
+    "sff": "3"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "SurgeryTreatment",
+    "off": 19539,
+    "sff": "injury"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "SurgeryTreatment",
+    "off": 1690,
+    "sff": "transection"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "SurgeryTreatment",
+    "off": 25298,
+    "sff": "injury"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "SchwannCell",
+    "off": 711,
+    "sff": "cells"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "DeliveryMethod",
+    "off": 21130,
+    "sff": "transplanted"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "Cell",
+    "off": 2334,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "SurgeryTreatment",
+    "off": 25685,
+    "sff": "injury"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "SchwannCell",
+    "off": 1725,
+    "sff": "cells"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "Cell",
+    "off": 24103,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "DosageExtracorporal",
+    "off": 24949,
+    "sff": "OEC"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "DeliveryMethod",
+    "off": 291,
+    "sff": "transplantation"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "Rostral",
+    "off": 25659,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "Vehicle",
+    "off": 22014,
+    "sff": "F"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "SchwannCell",
+    "off": 23,
+    "sff": "cells"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "DosageExtracorporal",
+    "off": 19197,
+    "sff": "8"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "DeliveryMethod",
+    "off": 19462,
+    "sff": "transplanted"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "Cell",
+    "off": 21104,
+    "sff": "fibroblasts"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "Caudal",
+    "off": 25284,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "Vehicle",
+    "off": 22152,
+    "sff": "F"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "SurgeryTreatment",
+    "off": 19619,
+    "sff": "2"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "DeliveryMethod",
+    "off": 1537,
+    "sff": "transplanted"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "Cell",
+    "off": 1516,
+    "sff": "fibroblasts"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "Caudal",
+    "off": 25671,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "SurgeryTreatment",
+    "off": 21180,
+    "sff": "transection"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "DosageExtracorporal",
+    "off": 20719,
+    "sff": "site"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "CompoundTreatment",
+    "off": 22265,
+    "sff": "treatment"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "SchwannCell",
+    "off": 1444,
+    "sff": "cells"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "SchwannCell",
+    "off": 922,
+    "sff": "cells"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "SurgeryTreatment",
+    "off": 24167,
+    "sff": "cord"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "SurgeryTreatment",
+    "off": 24115,
+    "sff": "transection"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "CompoundTreatment",
+    "off": 25966,
+    "sff": "treatment"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "SurgeryTreatment",
+    "off": 26001,
+    "sff": "4"
+  }
+]

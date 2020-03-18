@@ -1,0 +1,128 @@
+[
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "Forceps",
+    "off": 10514,
+    "sff": "s"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "Injury",
+    "off": 28091,
+    "sff": "segmental"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "T10",
+    "off": 8019,
+    "sff": "10"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "Anaesthetic",
+    "off": 9111,
+    "sff": "ice"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "KetamineAsAnaesthetic",
+    "off": 8921,
+    "sff": "ketamine"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "T9",
+    "off": 8132,
+    "sff": "T9"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "Blade",
+    "off": 30740,
+    "sff": "small"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "T12",
+    "off": 21481,
+    "sff": "T12"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "Compression",
+    "off": 13647,
+    "sff": "technique"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "LateralHemisection",
+    "off": 24189,
+    "sff": "upper"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "Isoflurane",
+    "off": 8069,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "Forceps",
+    "off": 9764,
+    "sff": "s"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "NYUImpactor",
+    "off": 11059,
+    "sff": "developed"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "Blade",
+    "off": 14411,
+    "sff": "small"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "Anaesthetic",
+    "off": 8896,
+    "sff": "anesthetized"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "CompleteTransection",
+    "off": 23127,
+    "sff": "completely transected"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "Injury",
+    "off": 18452,
+    "sff": "segmental"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "Compression",
+    "off": 12427,
+    "sff": "method"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "Anaesthetic",
+    "off": 8041,
+    "sff": "anesthetized"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "Blade",
+    "off": 16131,
+    "sff": "small"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "CompleteTransection",
+    "off": 8095,
+    "sff": "complete spinal cord transection"
+  }
+]

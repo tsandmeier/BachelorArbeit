@@ -1,0 +1,398 @@
+[
+  {
+    "docID": "N170 Liu 2010",
+    "et": "SurgeryTreatment",
+    "off": 663,
+    "sff": "surgery"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "DosageExtracorporal",
+    "off": 5489,
+    "sff": "DMEM"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "Cell",
+    "off": 6127,
+    "sff": "skin"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "DosageExtracorporal",
+    "off": 5569,
+    "sff": "OEG"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "SurgeryTreatment",
+    "off": 8474,
+    "sff": "surgery"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "DosageExtracorporal",
+    "off": 4647,
+    "sff": "Each"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "Cell",
+    "off": 369,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 351,
+    "sff": "OEG"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "Cell",
+    "off": 5998,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "Cell",
+    "off": 5229,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "RehabilitativeTraining",
+    "off": 8296,
+    "sff": "hindlimb"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "DosageExtracorporal",
+    "off": 5782,
+    "sff": "8"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "DeliveryMethod",
+    "off": 6963,
+    "sff": "placed"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "Substance",
+    "off": 6226,
+    "sff": "gentamicin"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "SchwannCell",
+    "off": 9774,
+    "sff": "cells"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "RehabilitativeTraining",
+    "off": 8165,
+    "sff": "hindlimb"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "RehabilitativeTraining",
+    "off": 10372,
+    "sff": "range"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "DosageExtracorporal",
+    "off": 8656,
+    "sff": "Two"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "RehabilitativeTraining",
+    "off": 8033,
+    "sff": "hindlimb"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "RehabilitativeTraining",
+    "off": 12382,
+    "sff": "hindlimb"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "SurgeryTreatment",
+    "off": 8494,
+    "sff": "surgery"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "SurgeryTreatment",
+    "off": 12468,
+    "sff": "surgery"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "Cell",
+    "off": 5087,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "SurgeryTreatment",
+    "off": 9427,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "DosageExtracorporal",
+    "off": 5898,
+    "sff": "used"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "Cell",
+    "off": 9365,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "CompoundTreatment",
+    "off": 6010,
+    "sff": "treatment"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "RehabilitativeTraining",
+    "off": 8139,
+    "sff": "range"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "DeliveryMethod",
+    "off": 6670,
+    "sff": "placed"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "Cell",
+    "off": 6701,
+    "sff": "nerve"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "DosageExtracorporal",
+    "off": 5915,
+    "sff": "total"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "CompoundTreatment",
+    "off": 6368,
+    "sff": "treatment"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "DeliveryMethod",
+    "off": 7321,
+    "sff": "placed"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "InjectionDelivery",
+    "off": 5617,
+    "sff": "injected"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "RehabilitativeTraining",
+    "off": 6870,
+    "sff": "range"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "RehabilitativeTraining",
+    "off": 8262,
+    "sff": "motion"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "DeliveryMethod",
+    "off": 6269,
+    "sff": "injections"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "Direction",
+    "off": 858,
+    "sff": "distal"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "SurgeryTreatment",
+    "off": 376,
+    "sff": "cord"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "Vehicle",
+    "off": 5498,
+    "sff": "medium"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "SchwannCell",
+    "off": 9830,
+    "sff": "cells"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "CompoundTreatment",
+    "off": 12246,
+    "sff": "treatment"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "DeliveryMethod",
+    "off": 9322,
+    "sff": "transplantation"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "RehabilitativeTraining",
+    "off": 7621,
+    "sff": "range"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "DosageExtracorporal",
+    "off": 5596,
+    "sff": "107"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "DosageExtracorporal",
+    "off": 5540,
+    "sff": "h"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "RehabilitativeTraining",
+    "off": 9251,
+    "sff": "hindlimb"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "Cell",
+    "off": 7746,
+    "sff": "nerve"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "RehabilitativeTraining",
+    "off": 8253,
+    "sff": "range"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "Direction",
+    "off": 5034,
+    "sff": "lateral"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "InjectionDelivery",
+    "off": 6204,
+    "sff": "injections"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "Direction",
+    "off": 1280,
+    "sff": "central"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "DosageExtracorporal",
+    "off": 5926,
+    "sff": "μl"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "SurgeryTreatment",
+    "off": 6143,
+    "sff": "surgery"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "DosageExtracorporal",
+    "off": 6081,
+    "sff": "used"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "Vehicle",
+    "off": 5787,
+    "sff": "culture medium"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "SurgeryTreatment",
+    "off": 516,
+    "sff": "surgery"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "Cell",
+    "off": 6096,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "Cell",
+    "off": 5833,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "CompoundTreatment",
+    "off": 1186,
+    "sff": "treatment"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "DosageExtracorporal",
+    "off": 10677,
+    "sff": "0.05"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "Cell",
+    "off": 9895,
+    "sff": "cells"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "SurgeryTreatment",
+    "off": 381,
+    "sff": "injury"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "DosageExtracorporal",
+    "off": 6283,
+    "sff": "10 mg"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "Vehicle",
+    "off": 5929,
+    "sff": "culture medium"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "SurgeryTreatment",
+    "off": 12563,
+    "sff": "surgery"
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "CompleteTransection",
+    "off": 487,
+    "sff": "SCI"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "Anaesthetic",
+    "off": 10374,
+    "sff": "mouse"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "Anaesthetic",
+    "off": 14811,
+    "sff": "atropine sulfate"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "SodiumPentobarbital",
+    "off": 7506,
+    "sff": "sodium pentobarbiturate"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "Contusion",
+    "off": 967,
+    "sff": "contusion"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "Clip",
+    "off": 5533,
+    "sff": "modified"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "Compression",
+    "off": 325,
+    "sff": "injury"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "C7",
+    "off": 24713,
+    "sff": "7"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "T10",
+    "off": 994,
+    "sff": "T10"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "PhotochemicalInjury",
+    "off": 17179,
+    "sff": "induced"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "Anaesthetic",
+    "off": 10455,
+    "sff": "mouse"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "LightSource",
+    "off": 23592,
+    "sff": "light"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "Anaesthetic",
+    "off": 10293,
+    "sff": "mouse"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "Blade",
+    "off": 5313,
+    "sff": "scalpel"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "Anaesthetic",
+    "off": 7446,
+    "sff": "anesthetized"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "Blade",
+    "off": 8364,
+    "sff": "surgical"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "PartialTransection",
+    "off": 8570,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "NYUImpactor",
+    "off": 7695,
+    "sff": "weight"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "T10",
+    "off": 7595,
+    "sff": "T10"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "Forceps",
+    "off": 5531,
+    "sff": "s"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "NYUImpactor",
+    "off": 7672,
+    "sff": "NYU-II impactor"
+  }
+]

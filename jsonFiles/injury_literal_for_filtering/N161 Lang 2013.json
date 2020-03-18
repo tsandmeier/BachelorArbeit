@@ -1,0 +1,68 @@
+[
+  {
+    "docID": "N161 Lang 2013",
+    "et": "Injury",
+    "off": 21665,
+    "sff": "heat"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "Anaesthetic",
+    "off": 23169,
+    "sff": "mouse"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "Laminectomy",
+    "off": 19564,
+    "sff": "laminectomy"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "PartialTransection",
+    "off": 118,
+    "sff": "hemisection"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "Blade",
+    "off": 1841,
+    "sff": "surgical"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "LateralHemisection",
+    "off": 22756,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "Anaesthetic",
+    "off": 23132,
+    "sff": "mouse"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "Scissors",
+    "off": 19679,
+    "sff": "microscissors"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "T10",
+    "off": 19583,
+    "sff": "T10"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "Scissors",
+    "off": 19630,
+    "sff": "microscissors"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "CompleteTransection",
+    "off": 19798,
+    "sff": "completely"
+  }
+]

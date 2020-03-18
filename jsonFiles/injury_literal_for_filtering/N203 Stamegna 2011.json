@@ -1,0 +1,212 @@
+[
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "LateralHemisection",
+    "off": 28645,
+    "sff": "right hemisection"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "InjuryDevice",
+    "off": 8031,
+    "sff": "compression"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Blade",
+    "off": 31395,
+    "sff": "small"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Blade",
+    "off": 8428,
+    "sff": "surgical"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Contusion",
+    "off": 107,
+    "sff": "contusion"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Cervical",
+    "off": 12143,
+    "sff": "cervical"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "SodiumPentobarbital",
+    "off": 6645,
+    "sff": "pentobarbital"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Cervical",
+    "off": 6897,
+    "sff": "cervical"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "InjuryDevice",
+    "off": 16849,
+    "sff": "compression"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Cervical",
+    "off": 21538,
+    "sff": "cervical"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Cervical",
+    "off": 28004,
+    "sff": "cervical"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "C1",
+    "off": 16969,
+    "sff": "cervical"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Scissors",
+    "off": 7288,
+    "sff": "microscissors"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "LateralHemisection",
+    "off": 18880,
+    "sff": "right side"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "T10",
+    "off": 11822,
+    "sff": "10"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Cervical",
+    "off": 26394,
+    "sff": "cervical"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "C1",
+    "off": 14598,
+    "sff": "cervical"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Anaesthetic",
+    "off": 10639,
+    "sff": "anesthetized"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Cervical",
+    "off": 86,
+    "sff": "cervical"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "NYUImpactor",
+    "off": 7786,
+    "sff": "impactor"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "VertebralArea",
+    "off": 7029,
+    "sff": "vertebra"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "PhotochemicalInjury",
+    "off": 19197,
+    "sff": "induced"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Cervical",
+    "off": 1237,
+    "sff": "cervical"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "CompleteTransection",
+    "off": 21590,
+    "sff": "verified"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "LateralHemisection",
+    "off": 28325,
+    "sff": "lateral"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "PartialTransection",
+    "off": 7191,
+    "sff": "root"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Dislocation",
+    "off": 25376,
+    "sff": "consequence"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Blade",
+    "off": 30329,
+    "sff": "small"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "WeightDrop",
+    "off": 7765,
+    "sff": "rod"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Cervical",
+    "off": 16904,
+    "sff": "cervical"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Anaesthetic",
+    "off": 14974,
+    "sff": "mouse"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "LightSource",
+    "off": 15456,
+    "sff": "equipped"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Laminectomy",
+    "off": 6940,
+    "sff": "laminectomy"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Injury",
+    "off": 7355,
+    "sff": "transversal"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "C1",
+    "off": 17376,
+    "sff": "cervical"
+  }
+]

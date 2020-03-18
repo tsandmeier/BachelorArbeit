@@ -1,0 +1,596 @@
+[
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "Cell",
+    "off": 756,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "InjectionDelivery",
+    "off": 11341,
+    "sff": "injected"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "SchwannCell",
+    "off": 18198,
+    "sff": "cells"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "Cell",
+    "off": 8914,
+    "sff": "cells"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "SchwannCell",
+    "off": 15896,
+    "sff": "cells"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "Vehicle",
+    "off": 8996,
+    "sff": "100"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "SurgeryTreatment",
+    "off": 16044,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "SchwannCell",
+    "off": 6930,
+    "sff": "cells"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "SurgeryTreatment",
+    "off": 20912,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "Cell",
+    "off": 5593,
+    "sff": "cells"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "SchwannCell",
+    "off": 17929,
+    "sff": "cells"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "Caudal",
+    "off": 1066,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "Cell",
+    "off": 12780,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "Cell",
+    "off": 1552,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "SurgeryTreatment",
+    "off": 20481,
+    "sff": "second"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "SchwannCell",
+    "off": 21041,
+    "sff": "cells"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "Rostral",
+    "off": 13662,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "SurgeryTreatment",
+    "off": 22019,
+    "sff": "4"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "Cell",
+    "off": 1253,
+    "sff": "cells"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "Cell",
+    "off": 18404,
+    "sff": "cells"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "SurgeryTreatment",
+    "off": 20971,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "Cell",
+    "off": 9269,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "SchwannCell",
+    "off": 11484,
+    "sff": "cells"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "DeliveryMethod",
+    "off": 715,
+    "sff": "transplanted"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "DeliveryMethod",
+    "off": 11597,
+    "sff": "transplantation"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "Cell",
+    "off": 10646,
+    "sff": "cells"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "SurgeryTreatment",
+    "off": 20707,
+    "sff": "5"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "Cell",
+    "off": 5472,
+    "sff": "nerve"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "Caudal",
+    "off": 10993,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "Cell",
+    "off": 16002,
+    "sff": "cells"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "Cell",
+    "off": 21122,
+    "sff": "cells"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "SurgeryTreatment",
+    "off": 19033,
+    "sff": "injury"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "Vehicle",
+    "off": 6377,
+    "sff": "rat"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "Cell",
+    "off": 17543,
+    "sff": "cells"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "Rostral",
+    "off": 1049,
+    "sff": "cranial"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "Cell",
+    "off": 5223,
+    "sff": "nerve"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "SurgeryTreatment",
+    "off": 14922,
+    "sff": "2"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "DosageExtracorporal",
+    "off": 16601,
+    "sff": "8"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "Cell",
+    "off": 18616,
+    "sff": "cells"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "SurgeryTreatment",
+    "off": 20987,
+    "sff": "were"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "DeliveryMethod",
+    "off": 8777,
+    "sff": "transplantation"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "SchwannCell",
+    "off": 14557,
+    "sff": "cells"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "Cell",
+    "off": 13385,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "SchwannCell",
+    "off": 568,
+    "sff": "peripheral"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "DeliveryMethod",
+    "off": 1169,
+    "sff": "transplantation"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "SchwannCell",
+    "off": 6812,
+    "sff": "cells"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "SurgeryTreatment",
+    "off": 15768,
+    "sff": "5"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "DeliveryMethod",
+    "off": 8336,
+    "sff": "transplantation"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "SurgeryTreatment",
+    "off": 15917,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "Cell",
+    "off": 12667,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "InjectionDelivery",
+    "off": 965,
+    "sff": "injected"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 704,
+    "sff": "OECs"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "SchwannCell",
+    "off": 649,
+    "sff": "cells"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "DeliveryMethod",
+    "off": 9696,
+    "sff": "inserted"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "DosageExtracorporal",
+    "off": 15855,
+    "sff": "6"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "Cell",
+    "off": 10555,
+    "sff": "cells"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "Direction",
+    "off": 6585,
+    "sff": "distal"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "SchwannCell",
+    "off": 6021,
+    "sff": "cells"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "SurgeryTreatment",
+    "off": 20073,
+    "sff": "4"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "Cell",
+    "off": 9825,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "Cell",
+    "off": 8512,
+    "sff": "cells"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "SchwannCell",
+    "off": 697,
+    "sff": "cells"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "Cell",
+    "off": 916,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "DeliveryMethod",
+    "off": 6004,
+    "sff": "transplantation"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "Rostral",
+    "off": 10976,
+    "sff": "cranial"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "DosageExtracorporal",
+    "off": 2019,
+    "sff": "1"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "SurgeryTreatment",
+    "off": 20346,
+    "sff": "4"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "Cell",
+    "off": 9991,
+    "sff": "skin"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "Cell",
+    "off": 11642,
+    "sff": "cells"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "Cell",
+    "off": 8798,
+    "sff": "cells"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "DeliveryMethod",
+    "off": 1526,
+    "sff": "transplanted"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "Cell",
+    "off": 15966,
+    "sff": "cells"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "Cell",
+    "off": 9349,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "DeliveryMethod",
+    "off": 6269,
+    "sff": "transplantation"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "Cell",
+    "off": 130,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "SchwannCell",
+    "off": 20903,
+    "sff": "cells"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "SurgeryTreatment",
+    "off": 19181,
+    "sff": "injury"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "SchwannCell",
+    "off": 8020,
+    "sff": "cells"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "DeliveryMethod",
+    "off": 10889,
+    "sff": "inserted"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "DosageExtracorporal",
+    "off": 5684,
+    "sff": "DMEM"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "Cell",
+    "off": 13733,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "SchwannCell",
+    "off": 76,
+    "sff": "cells"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "Caudal",
+    "off": 13674,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "Cell",
+    "off": 5893,
+    "sff": "cells"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "Cell",
+    "off": 1539,
+    "sff": "cells"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "Cell",
+    "off": 11541,
+    "sff": "skin"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "Cell",
+    "off": 17112,
+    "sff": "fibroblast-like cells"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "Cell",
+    "off": 19156,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "SurgeryTreatment",
+    "off": 21128,
+    "sff": "were"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "Vehicle",
+    "off": 7951,
+    "sff": "medium"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "DosageExtracorporal",
+    "off": 16151,
+    "sff": "7"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "SchwannCell",
+    "off": 114,
+    "sff": "cells"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "Cell",
+    "off": 13789,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "DosageExtracorporal",
+    "off": 15635,
+    "sff": "OEC"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "SchwannCell",
+    "off": 8299,
+    "sff": "cells"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "Cell",
+    "off": 5581,
+    "sff": "dissociated"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "Cell",
+    "off": 8736,
+    "sff": "cells"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "SurgeryTreatment",
+    "off": 15446,
+    "sff": "4"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "Cell",
+    "off": 1996,
+    "sff": "spinal"
+  }
+]

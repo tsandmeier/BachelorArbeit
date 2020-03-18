@@ -1,0 +1,596 @@
+[
+  {
+    "docID": "N134 Cao 2004",
+    "et": "SchwannCell",
+    "off": 2265,
+    "sff": "cells"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Cell",
+    "off": 28559,
+    "sff": "cells"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "InjectionDelivery",
+    "off": 25353,
+    "sff": "injected"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "DosageExtracorporal",
+    "off": 36534,
+    "sff": "10"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "DosageExtracorporal",
+    "off": 33471,
+    "sff": "4"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "SchwannCell",
+    "off": 10198,
+    "sff": "cells"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Cell",
+    "off": 33179,
+    "sff": "cells"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "SchwannCell",
+    "off": 16339,
+    "sff": "cells"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "InjectionDelivery",
+    "off": 16418,
+    "sff": "injected"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Cell",
+    "off": 24706,
+    "sff": "cells"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "DeliveryMethod",
+    "off": 25585,
+    "sff": "implanted"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "DosageExtracorporal",
+    "off": 33774,
+    "sff": "5"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Rostral",
+    "off": 30006,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Caudal",
+    "off": 30458,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "SchwannCell",
+    "off": 33277,
+    "sff": "cells"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Cell",
+    "off": 33756,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "DosageExtracorporal",
+    "off": 34393,
+    "sff": "6"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Direction",
+    "off": 20530,
+    "sff": "distal"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Direction",
+    "off": 15643,
+    "sff": "distal"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Cell",
+    "off": 15263,
+    "sff": "cells"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Rostral",
+    "off": 29712,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Cell",
+    "off": 13472,
+    "sff": "cells"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Cell",
+    "off": 37064,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Direction",
+    "off": 30886,
+    "sff": "proximal"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "InjectionDelivery",
+    "off": 20036,
+    "sff": "injected"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "SchwannCell",
+    "off": 9188,
+    "sff": "cells"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Cell",
+    "off": 34509,
+    "sff": "cells"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Direction",
+    "off": 31053,
+    "sff": "distal"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "InjectionDelivery",
+    "off": 17999,
+    "sff": "injected"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "SchwannCell",
+    "off": 23,
+    "sff": "cells"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Cell",
+    "off": 26068,
+    "sff": "cells"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Cell",
+    "off": 18300,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Direction",
+    "off": 37970,
+    "sff": "distal"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Cell",
+    "off": 10967,
+    "sff": "cells"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Cell",
+    "off": 9097,
+    "sff": "dissociated"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 627,
+    "sff": "OEC"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Cell",
+    "off": 29567,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Cell",
+    "off": 33918,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Cell",
+    "off": 24769,
+    "sff": "cells"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Cell",
+    "off": 14530,
+    "sff": "cells"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Cell",
+    "off": 37483,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "DosageExtracorporal",
+    "off": 33195,
+    "sff": "3"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Cell",
+    "off": 20848,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Conduit",
+    "off": 23293,
+    "sff": "contains"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Direction",
+    "off": 30280,
+    "sff": "distal"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "SchwannCell",
+    "off": 9785,
+    "sff": "cells"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Caudal",
+    "off": 29795,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Cell",
+    "off": 36858,
+    "sff": "cells"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Direction",
+    "off": 15792,
+    "sff": "midline"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Cell",
+    "off": 34695,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Cell",
+    "off": 18826,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "DeliveryMethod",
+    "off": 23482,
+    "sff": "transferred"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Cell",
+    "off": 24077,
+    "sff": "cells"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Direction",
+    "off": 30093,
+    "sff": "distal"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "SchwannCell",
+    "off": 16221,
+    "sff": "cells"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Cell",
+    "off": 34363,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Cell",
+    "off": 29760,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "SchwannCell",
+    "off": 11349,
+    "sff": "cells"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Rostral",
+    "off": 26547,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "SchwannCell",
+    "off": 14409,
+    "sff": "cells"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Direction",
+    "off": 18819,
+    "sff": "distal"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Direction",
+    "off": 15550,
+    "sff": "dorsal"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Rostral",
+    "off": 35254,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Vehicle",
+    "off": 13433,
+    "sff": "medium"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Cell",
+    "off": 31060,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Rostral",
+    "off": 29602,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Vehicle",
+    "off": 15248,
+    "sff": "medium"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Direction",
+    "off": 35759,
+    "sff": "dorsal"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Cell",
+    "off": 24886,
+    "sff": "cells"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Direction",
+    "off": 37788,
+    "sff": "distal"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Direction",
+    "off": 20517,
+    "sff": "proximal"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Cell",
+    "off": 16715,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "SchwannCell",
+    "off": 9824,
+    "sff": "cells"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Caudal",
+    "off": 26559,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Caudal",
+    "off": 35266,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Direction",
+    "off": 36362,
+    "sff": "lateral"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Cell",
+    "off": 24921,
+    "sff": "cells"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Direction",
+    "off": 27153,
+    "sff": "dorsal"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Cell",
+    "off": 33116,
+    "sff": "cells"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Cell",
+    "off": 33789,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Cell",
+    "off": 20193,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Cell",
+    "off": 33345,
+    "sff": "cells"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "DosageExtracorporal",
+    "off": 36917,
+    "sff": "OEC"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Direction",
+    "off": 31168,
+    "sff": "distal"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "SchwannCell",
+    "off": 32644,
+    "sff": "cells"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "SchwannCell",
+    "off": 28806,
+    "sff": "cells"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "DosageExtracorporal",
+    "off": 35946,
+    "sff": "8"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Cell",
+    "off": 21780,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Direction",
+    "off": 20694,
+    "sff": "proximal"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "SchwannCell",
+    "off": 9394,
+    "sff": "cells"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Direction",
+    "off": 35392,
+    "sff": "central"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Direction",
+    "off": 15857,
+    "sff": "dorsal"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Cell",
+    "off": 30724,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Cell",
+    "off": 26628,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Cell",
+    "off": 9027,
+    "sff": "nerve"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "SchwannCell",
+    "off": 15021,
+    "sff": "cells"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Caudal",
+    "off": 29904,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Direction",
+    "off": 20707,
+    "sff": "distal"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Cell",
+    "off": 26383,
+    "sff": "spinal"
+  }
+]

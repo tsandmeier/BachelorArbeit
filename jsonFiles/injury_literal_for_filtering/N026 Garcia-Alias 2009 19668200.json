@@ -1,0 +1,284 @@
+[
+  {
+    "docID": "N026 Garcia-Alias 2009 19668200",
+    "et": "InfiniteHorizonImpactor",
+    "off": 5187,
+    "sff": "tip"
+  },
+  {
+    "docID": "N026 Garcia-Alias 2009 19668200",
+    "et": "DorsalHemisection",
+    "off": 13558,
+    "sff": "lateral"
+  },
+  {
+    "docID": "N026 Garcia-Alias 2009 19668200",
+    "et": "C3",
+    "off": 9198,
+    "sff": "C3"
+  },
+  {
+    "docID": "N026 Garcia-Alias 2009 19668200",
+    "et": "C7",
+    "off": 20460,
+    "sff": "C7"
+  },
+  {
+    "docID": "N026 Garcia-Alias 2009 19668200",
+    "et": "C3",
+    "off": 11503,
+    "sff": "C3"
+  },
+  {
+    "docID": "N026 Garcia-Alias 2009 19668200",
+    "et": "C5",
+    "off": 9205,
+    "sff": "C5"
+  },
+  {
+    "docID": "N026 Garcia-Alias 2009 19668200",
+    "et": "Anaesthetic",
+    "off": 10120,
+    "sff": "sulfate"
+  },
+  {
+    "docID": "N026 Garcia-Alias 2009 19668200",
+    "et": "VertebralArea",
+    "off": 15577,
+    "sff": "C5"
+  },
+  {
+    "docID": "N026 Garcia-Alias 2009 19668200",
+    "et": "Anaesthetic",
+    "off": 10335,
+    "sff": "mouse"
+  },
+  {
+    "docID": "N026 Garcia-Alias 2009 19668200",
+    "et": "C3",
+    "off": 9202,
+    "sff": "C3"
+  },
+  {
+    "docID": "N026 Garcia-Alias 2009 19668200",
+    "et": "Vibraknife",
+    "off": 24552,
+    "sff": "lesioning"
+  },
+  {
+    "docID": "N026 Garcia-Alias 2009 19668200",
+    "et": "Clip",
+    "off": 1730,
+    "sff": "modified"
+  },
+  {
+    "docID": "N026 Garcia-Alias 2009 19668200",
+    "et": "Compression",
+    "off": 10398,
+    "sff": "method"
+  },
+  {
+    "docID": "N026 Garcia-Alias 2009 19668200",
+    "et": "DorsalHemisection",
+    "off": 31122,
+    "sff": "lesioned"
+  },
+  {
+    "docID": "N026 Garcia-Alias 2009 19668200",
+    "et": "C3",
+    "off": 20442,
+    "sff": "C3"
+  },
+  {
+    "docID": "N026 Garcia-Alias 2009 19668200",
+    "et": "VertebralArea",
+    "off": 15211,
+    "sff": "cervical"
+  },
+  {
+    "docID": "N026 Garcia-Alias 2009 19668200",
+    "et": "Forceps",
+    "off": 4661,
+    "sff": "sharpened forceps"
+  },
+  {
+    "docID": "N026 Garcia-Alias 2009 19668200",
+    "et": "C4",
+    "off": 20421,
+    "sff": "C4"
+  },
+  {
+    "docID": "N026 Garcia-Alias 2009 19668200",
+    "et": "DorsalHemisection",
+    "off": 12440,
+    "sff": "lateral"
+  },
+  {
+    "docID": "N026 Garcia-Alias 2009 19668200",
+    "et": "DorsalHemisection",
+    "off": 29848,
+    "sff": "lateral"
+  },
+  {
+    "docID": "N026 Garcia-Alias 2009 19668200",
+    "et": "Forceps",
+    "off": 171,
+    "sff": "¬"
+  },
+  {
+    "docID": "N026 Garcia-Alias 2009 19668200",
+    "et": "Forceps",
+    "off": 104,
+    "sff": "¬"
+  },
+  {
+    "docID": "N026 Garcia-Alias 2009 19668200",
+    "et": "C3",
+    "off": 10601,
+    "sff": "C3"
+  },
+  {
+    "docID": "N026 Garcia-Alias 2009 19668200",
+    "et": "Vibraknife",
+    "off": 13740,
+    "sff": "device"
+  },
+  {
+    "docID": "N026 Garcia-Alias 2009 19668200",
+    "et": "InjuryDevice",
+    "off": 11378,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N026 Garcia-Alias 2009 19668200",
+    "et": "Vertebrae",
+    "off": 10012,
+    "sff": "C8"
+  },
+  {
+    "docID": "N026 Garcia-Alias 2009 19668200",
+    "et": "Vibraknife",
+    "off": 21373,
+    "sff": "lesioning"
+  },
+  {
+    "docID": "N026 Garcia-Alias 2009 19668200",
+    "et": "C4",
+    "off": 496,
+    "sff": "C4"
+  },
+  {
+    "docID": "N026 Garcia-Alias 2009 19668200",
+    "et": "Cervical",
+    "off": 449,
+    "sff": "cervical"
+  },
+  {
+    "docID": "N026 Garcia-Alias 2009 19668200",
+    "et": "NitrousOxide",
+    "off": 4587,
+    "sff": "nitrous oxide"
+  },
+  {
+    "docID": "N026 Garcia-Alias 2009 19668200",
+    "et": "C3",
+    "off": 11983,
+    "sff": "C3"
+  },
+  {
+    "docID": "N026 Garcia-Alias 2009 19668200",
+    "et": "DorsalHemisection",
+    "off": 31689,
+    "sff": "lateral"
+  },
+  {
+    "docID": "N026 Garcia-Alias 2009 19668200",
+    "et": "VertebralArea",
+    "off": 24443,
+    "sff": "C4"
+  },
+  {
+    "docID": "N026 Garcia-Alias 2009 19668200",
+    "et": "C3",
+    "off": 11987,
+    "sff": "C3"
+  },
+  {
+    "docID": "N026 Garcia-Alias 2009 19668200",
+    "et": "C3",
+    "off": 12179,
+    "sff": "C3"
+  },
+  {
+    "docID": "N026 Garcia-Alias 2009 19668200",
+    "et": "C3",
+    "off": 12183,
+    "sff": "C3"
+  },
+  {
+    "docID": "N026 Garcia-Alias 2009 19668200",
+    "et": "Anaesthetic",
+    "off": 10242,
+    "sff": "mouse"
+  },
+  {
+    "docID": "N026 Garcia-Alias 2009 19668200",
+    "et": "Halothane",
+    "off": 4577,
+    "sff": "halothane"
+  },
+  {
+    "docID": "N026 Garcia-Alias 2009 19668200",
+    "et": "Compression",
+    "off": 9700,
+    "sff": "method"
+  },
+  {
+    "docID": "N026 Garcia-Alias 2009 19668200",
+    "et": "Vibraknife",
+    "off": 7128,
+    "sff": "device"
+  },
+  {
+    "docID": "N026 Garcia-Alias 2009 19668200",
+    "et": "InjuryDevice",
+    "off": 22807,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N026 Garcia-Alias 2009 19668200",
+    "et": "DorsalHemisection",
+    "off": 31697,
+    "sff": "CST"
+  },
+  {
+    "docID": "N026 Garcia-Alias 2009 19668200",
+    "et": "DorsalHemisection",
+    "off": 12625,
+    "sff": "CST"
+  },
+  {
+    "docID": "N026 Garcia-Alias 2009 19668200",
+    "et": "VertebralArea",
+    "off": 21100,
+    "sff": "C4"
+  },
+  {
+    "docID": "N026 Garcia-Alias 2009 19668200",
+    "et": "Blade",
+    "off": 24005,
+    "sff": "small"
+  },
+  {
+    "docID": "N026 Garcia-Alias 2009 19668200",
+    "et": "C5",
+    "off": 20424,
+    "sff": "C5"
+  },
+  {
+    "docID": "N026 Garcia-Alias 2009 19668200",
+    "et": "Blade",
+    "off": 31166,
+    "sff": "fine"
+  }
+]

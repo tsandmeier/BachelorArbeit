@@ -1,0 +1,488 @@
+[
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "InjuryDevice",
+    "off": 36152,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "Injury",
+    "off": 30383,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "InjuryDevice",
+    "off": 7833,
+    "sff": "compression"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "NYUImpactor",
+    "off": 295,
+    "sff": "University"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "Forceps",
+    "off": 7513,
+    "sff": "surgical"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "Anaesthetic",
+    "off": 57841,
+    "sff": "sulfate"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "T10",
+    "off": 10302,
+    "sff": "cord"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "AneurysmClip",
+    "off": 7220,
+    "sff": "aneurysm clip"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "Anaesthetic",
+    "off": 57468,
+    "sff": "mouse"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "InjuryDevice",
+    "off": 26117,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "VertebralArea",
+    "off": 19720,
+    "sff": "4"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "Compression",
+    "off": 6649,
+    "sff": "injury"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "Compression",
+    "off": 7234,
+    "sff": "compression"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "InjuryDevice",
+    "off": 29064,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "Anaesthetic",
+    "off": 12150,
+    "sff": "mouse"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "VertebralArea",
+    "off": 23616,
+    "sff": "7"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "Blade",
+    "off": 9904,
+    "sff": "fine"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "InjuryDevice",
+    "off": 58108,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "InjuryDevice",
+    "off": 18811,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "Anaesthetic",
+    "off": 13439,
+    "sff": "mouse"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "Injury",
+    "off": 25734,
+    "sff": "injury"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "PartialTransection",
+    "off": 8675,
+    "sff": "cord"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "Anaesthetic",
+    "off": 12427,
+    "sff": "mouse"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "PartialTransection",
+    "off": 11298,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "Blade",
+    "off": 7545,
+    "sff": "surgical"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "C1",
+    "off": 15747,
+    "sff": "first"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "Anaesthetic",
+    "off": 57102,
+    "sff": "sulfate"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "InjuryDevice",
+    "off": 27428,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "Anaesthetic",
+    "off": 9687,
+    "sff": "anesthetized"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "Injury",
+    "off": 25406,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "Compression",
+    "off": 739,
+    "sff": "injury"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "Anaesthetic",
+    "off": 12189,
+    "sff": "mouse"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "Injury",
+    "off": 19638,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "Injury",
+    "off": 24885,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "InjuryDevice",
+    "off": 57694,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "Injury",
+    "off": 26216,
+    "sff": "injury"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "Anaesthetic",
+    "off": 13483,
+    "sff": "mouse"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "Isoflurane",
+    "off": 7458,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "Anaesthetic",
+    "off": 11171,
+    "sff": "ice"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "Compression",
+    "off": 2633,
+    "sff": "injury"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "Anaesthetic",
+    "off": 27812,
+    "sff": "sulfate"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "InjuryDevice",
+    "off": 23865,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "InjuryDevice",
+    "off": 36407,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "InjuryDevice",
+    "off": 30902,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "Anaesthetic",
+    "off": 17966,
+    "sff": "sulfate"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "T8",
+    "off": 7747,
+    "sff": "T8"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "Blade",
+    "off": 7905,
+    "sff": "surgical"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "AneurysmClip",
+    "off": 25586,
+    "sff": "aneurysm clip"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "PartialTransection",
+    "off": 15922,
+    "sff": "dorsal"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "T10",
+    "off": 11929,
+    "sff": "10"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "Injury",
+    "off": 28641,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "VertebralArea",
+    "off": 23579,
+    "sff": "level"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "Anaesthetic",
+    "off": 10669,
+    "sff": "anesthetized"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "VertebralArea",
+    "off": 14672,
+    "sff": "2"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "AneurysmClip",
+    "off": 7788,
+    "sff": "clip"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "LateralHemisection",
+    "off": 24945,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "VertebralArea",
+    "off": 16851,
+    "sff": "2"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "InjuryDevice",
+    "off": 29120,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "InjuryDevice",
+    "off": 35449,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "CuttingDevice",
+    "off": 9827,
+    "sff": "microsurgical"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "InjuryDevice",
+    "off": 28946,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "Xylazine",
+    "off": 15007,
+    "sff": "HCl"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "Compression",
+    "off": 6893,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "InjuryDevice",
+    "off": 25600,
+    "sff": "compression"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "NYUImpactor",
+    "off": 32012,
+    "sff": "developed"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "C1",
+    "off": 36287,
+    "sff": "first"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "VertebralArea",
+    "off": 24795,
+    "sff": "8"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "Blade",
+    "off": 34241,
+    "sff": "small"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "Injury",
+    "off": 35718,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "T7",
+    "off": 7878,
+    "sff": "T7"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "VertebralArea",
+    "off": 17502,
+    "sff": "2"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "InjuryDevice",
+    "off": 25252,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "Anaesthetic",
+    "off": 12213,
+    "sff": "sulfate"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "NYUImpactor",
+    "off": 57814,
+    "sff": "weight"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "Anaesthetic",
+    "off": 13399,
+    "sff": "mouse"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "Forceps",
+    "off": 9234,
+    "sff": "5"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "Injury",
+    "off": 28158,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "DorsalHemisection",
+    "off": 7246,
+    "sff": "model"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "PartialTransection",
+    "off": 8213,
+    "sff": "injury"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "Isoflurane",
+    "off": 9706,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "T9",
+    "off": 7670,
+    "sff": "T9"
+  }
+]

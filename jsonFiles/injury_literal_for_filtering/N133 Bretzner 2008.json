@@ -1,0 +1,452 @@
+[
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "DorsalHemisection",
+    "off": 14991,
+    "sff": "lateral"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Anaesthetic",
+    "off": 14442,
+    "sff": "anesthetized"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "WeightDrop",
+    "off": 13602,
+    "sff": "metal"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Blade",
+    "off": 9681,
+    "sff": "fine"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "T10",
+    "off": 36155,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Anaesthetic",
+    "off": 16379,
+    "sff": "mouse"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Injury",
+    "off": 490,
+    "sff": "injury"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "C4",
+    "off": 21235,
+    "sff": "C4"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Compression",
+    "off": 751,
+    "sff": "dorsolateral"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Compression",
+    "off": 654,
+    "sff": "injury"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Compression",
+    "off": 764,
+    "sff": "funiculus"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Xylazine",
+    "off": 9076,
+    "sff": "xylazine hydrochloride"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "C4",
+    "off": 831,
+    "sff": "cervical"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "PartialTransection",
+    "off": 8382,
+    "sff": "injury"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Forceps",
+    "off": 9415,
+    "sff": "surgical"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "InjuryDevice",
+    "off": 34571,
+    "sff": "cylinder"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Xylazine",
+    "off": 14554,
+    "sff": "xylazine hydrochloride"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "PartialTransection",
+    "off": 9300,
+    "sff": "cord"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "NYUImpactor",
+    "off": 331,
+    "sff": "University"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "DorsalHemisection",
+    "off": 15671,
+    "sff": "cut"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "DorsalHemisection",
+    "off": 15471,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Blade",
+    "off": 7247,
+    "sff": "small"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "C4",
+    "off": 742,
+    "sff": "cervical"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "InjuryDevice",
+    "off": 37047,
+    "sff": "cylinder"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "InjuryDevice",
+    "off": 27833,
+    "sff": "cylinder"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "KetamineAsAnaesthetic",
+    "off": 8995,
+    "sff": "ketamine hydrochloride"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "T10",
+    "off": 35088,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "C1",
+    "off": 18430,
+    "sff": "cervical"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "C1",
+    "off": 22273,
+    "sff": "cervical"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Anaesthetic",
+    "off": 16323,
+    "sff": "mouse"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Anaesthetic",
+    "off": 15227,
+    "sff": "anesthetized"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Cervical",
+    "off": 9224,
+    "sff": "cervical"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Blade",
+    "off": 9410,
+    "sff": "fine"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Blade",
+    "off": 8131,
+    "sff": "11"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Forceps",
+    "off": 29095,
+    "sff": "’"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Anaesthetic",
+    "off": 8964,
+    "sff": "anesthetized"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Blade",
+    "off": 25925,
+    "sff": "small"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Anaesthetic",
+    "off": 21327,
+    "sff": "mouse"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "InjuryDevice",
+    "off": 34719,
+    "sff": "cylinder"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "InjuryDevice",
+    "off": 26783,
+    "sff": "cylinder"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Scissors",
+    "off": 9265,
+    "sff": "microscissors"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "KetamineAsAnaesthetic",
+    "off": 14473,
+    "sff": "ketamine"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "NYUImpactor",
+    "off": 8564,
+    "sff": "University"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "InjuryDevice",
+    "off": 27220,
+    "sff": "cylinder"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "InjuryDevice",
+    "off": 28932,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "DorsalHemisection",
+    "off": 15846,
+    "sff": "cut"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Anaesthetic",
+    "off": 15648,
+    "sff": "ice"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Injury",
+    "off": 28157,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Compression",
+    "off": 8703,
+    "sff": "crush"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "C1",
+    "off": 24223,
+    "sff": "cervical"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Anaesthetic",
+    "off": 10908,
+    "sff": "anesthetized"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Compression",
+    "off": 774,
+    "sff": "crush"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Forceps",
+    "off": 16021,
+    "sff": "5"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Injury",
+    "off": 64,
+    "sff": "injury"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "C3",
+    "off": 15832,
+    "sff": "C3"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "LateralHemisection",
+    "off": 25284,
+    "sff": "column"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "InjuryDevice",
+    "off": 11845,
+    "sff": "cylinder"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "C1",
+    "off": 24232,
+    "sff": "segment"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Contusion",
+    "off": 59,
+    "sff": "cord"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Blade",
+    "off": 25232,
+    "sff": "small"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "InjuryDevice",
+    "off": 11767,
+    "sff": "cylinder"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Anaesthetic",
+    "off": 16278,
+    "sff": "mouse"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Cervical",
+    "off": 1501,
+    "sff": "cervical"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "C1",
+    "off": 36309,
+    "sff": "first"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Forceps",
+    "off": 34803,
+    "sff": "’"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Forceps",
+    "off": 9424,
+    "sff": "forceps"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Xylazine",
+    "off": 14482,
+    "sff": "hydrochloride"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "C5",
+    "off": 21238,
+    "sff": "C5"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Cervical",
+    "off": 15462,
+    "sff": "cervical"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "ScoutenWireKnife",
+    "off": 13547,
+    "sff": "wire"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Injury",
+    "off": 1700,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "DorsalHemisection",
+    "off": 15763,
+    "sff": "cut"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "InfiniteHorizonImpactor",
+    "off": 9686,
+    "sff": "tip"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "T10",
+    "off": 14699,
+    "sff": "10"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "C1",
+    "off": 35550,
+    "sff": "first"
+  }
+]

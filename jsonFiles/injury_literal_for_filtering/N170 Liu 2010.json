@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N170 Liu 2010",
+    "et": "Blade",
+    "off": 5276,
+    "sff": "scalpel"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "T12",
+    "off": 5075,
+    "sff": "T12"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "Contusion",
+    "off": 376,
+    "sff": "cord"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "Thoracic",
+    "off": 1343,
+    "sff": "low"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "DorsalHemisection",
+    "off": 9582,
+    "sff": "cut"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "T10",
+    "off": 6898,
+    "sff": "10"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "LateralHemisection",
+    "off": 5212,
+    "sff": "left side of the spinal cord was cut"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "T11",
+    "off": 5071,
+    "sff": "T11"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "NYUImpactor",
+    "off": 7982,
+    "sff": "developed"
+  }
+]

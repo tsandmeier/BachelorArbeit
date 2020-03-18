@@ -1,0 +1,560 @@
+[
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "T10",
+    "off": 36247,
+    "sff": "segment"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Vertebrae",
+    "off": 7163,
+    "sff": "C8"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "VertebralArea",
+    "off": 13618,
+    "sff": "T1"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "VertebralArea",
+    "off": 16053,
+    "sff": "C6"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "L1",
+    "off": 55780,
+    "sff": "L1"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Anaesthetic",
+    "off": 19301,
+    "sff": "sulfate"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "InjuryDevice",
+    "off": 54082,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Blade",
+    "off": 45694,
+    "sff": "11"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "InjuryDevice",
+    "off": 18203,
+    "sff": "cylinder"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Injury",
+    "off": 58176,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "C1",
+    "off": 47882,
+    "sff": "segment"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Blade",
+    "off": 12697,
+    "sff": "small"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Anaesthetic",
+    "off": 1272,
+    "sff": "sulfate"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "NYUImpactor",
+    "off": 40294,
+    "sff": "II"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Blade",
+    "off": 47477,
+    "sff": "sharp"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "C1",
+    "off": 36361,
+    "sff": "segment"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Vertebrae",
+    "off": 31244,
+    "sff": "C8"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "InjuryDevice",
+    "off": 18097,
+    "sff": "cylinder"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "PartialTransection",
+    "off": 7279,
+    "sff": "unilateral"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Anaesthetic",
+    "off": 44670,
+    "sff": "sulfate"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Dislocation",
+    "off": 58157,
+    "sff": "consequence"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Cervical",
+    "off": 43742,
+    "sff": "cervical"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "T10",
+    "off": 7220,
+    "sff": "10"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "PartialTransection",
+    "off": 37092,
+    "sff": "dorsal"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Blade",
+    "off": 30051,
+    "sff": "sharp"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "C1",
+    "off": 32332,
+    "sff": "first"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Compression",
+    "off": 7196,
+    "sff": "crushed"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "VertebralArea",
+    "off": 16789,
+    "sff": "T1"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Compression",
+    "off": 21923,
+    "sff": "crushed"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "C5",
+    "off": 7132,
+    "sff": "C5"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Compression",
+    "off": 21797,
+    "sff": "crushed"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Injury",
+    "off": 57221,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "C4",
+    "off": 26009,
+    "sff": "C4"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Anaesthetic",
+    "off": 7610,
+    "sff": "anesthetized"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "InjuryDevice",
+    "off": 23148,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "InjuryDevice",
+    "off": 28525,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Anaesthetic",
+    "off": 8537,
+    "sff": "sulfate"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "NYUImpactor",
+    "off": 53707,
+    "sff": "II"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Injury",
+    "off": 57991,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Forceps",
+    "off": 24176,
+    "sff": "s"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "NYUImpactor",
+    "off": 55622,
+    "sff": "II"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "InjuryDevice",
+    "off": 27504,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Dislocation",
+    "off": 50449,
+    "sff": "consequence"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "C1",
+    "off": 53365,
+    "sff": "segment"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "C4",
+    "off": 45964,
+    "sff": "C4"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Vertebrae",
+    "off": 1125,
+    "sff": "C8"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Blade",
+    "off": 59117,
+    "sff": "small"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Anaesthetic",
+    "off": 44636,
+    "sff": "sulfate"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Injury",
+    "off": 25776,
+    "sff": "segmental"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Vertebrae",
+    "off": 16057,
+    "sff": "C8"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Cervical",
+    "off": 1075,
+    "sff": "cervical"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Vertebrae",
+    "off": 20794,
+    "sff": "C8"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "C4",
+    "off": 45988,
+    "sff": "C4"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "C1",
+    "off": 32238,
+    "sff": "first"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Isoflurane",
+    "off": 7072,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "C4",
+    "off": 45979,
+    "sff": "C4"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Compression",
+    "off": 43938,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "C1",
+    "off": 40894,
+    "sff": "segment"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Blade",
+    "off": 46313,
+    "sff": "surgical"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Anaesthetic",
+    "off": 16315,
+    "sff": "sulfate"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "VertebralArea",
+    "off": 17959,
+    "sff": "2"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "InjuryDevice",
+    "off": 24719,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "InjuryDevice",
+    "off": 50915,
+    "sff": "cylinder"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "InjuryDevice",
+    "off": 35728,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "VertebralArea",
+    "off": 16049,
+    "sff": "C5"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "LateralHemisection",
+    "off": 12330,
+    "sff": "right"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Injury",
+    "off": 57837,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Compression",
+    "off": 41772,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Anaesthetic",
+    "off": 7950,
+    "sff": "anesthetized"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Injury",
+    "off": 18389,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Vertebrae",
+    "off": 29849,
+    "sff": "C8"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Vertebrae",
+    "off": 20762,
+    "sff": "C8"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "InjuryDevice",
+    "off": 18591,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Anaesthetic",
+    "off": 11933,
+    "sff": "urethane"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "InjuryDevice",
+    "off": 36000,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Anaesthetic",
+    "off": 11905,
+    "sff": "anesthetized"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "InjuryDevice",
+    "off": 49279,
+    "sff": "cylinder"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Vertebrae",
+    "off": 21907,
+    "sff": "C8"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Forceps",
+    "off": 30590,
+    "sff": "N"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "T3",
+    "off": 12426,
+    "sff": "T3"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "VertebralArea",
+    "off": 17334,
+    "sff": "segments"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Anaesthetic",
+    "off": 10253,
+    "sff": "sulfate"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "InfiniteHorizonImpactor",
+    "off": 31117,
+    "sff": "tip"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Injury",
+    "off": 59076,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "C1",
+    "off": 51534,
+    "sff": "cervical"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "InjuryDevice",
+    "off": 27825,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Isoflurane",
+    "off": 7631,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Vertebrae",
+    "off": 17183,
+    "sff": "C8"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Forceps",
+    "off": 24108,
+    "sff": "s"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Injury",
+    "off": 49742,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "C1",
+    "off": 51421,
+    "sff": "cervical"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Anaesthetic",
+    "off": 59807,
+    "sff": "sulfate"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "C5",
+    "off": 13612,
+    "sff": "C5"
+  }
+]

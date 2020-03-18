@@ -1,0 +1,116 @@
+[
+  {
+    "docID": "N227 Yamamoto 2009",
+    "et": "Cell",
+    "off": 353,
+    "sff": "fibroblasts"
+  },
+  {
+    "docID": "N227 Yamamoto 2009",
+    "et": "DeliveryMethod",
+    "off": 273,
+    "sff": "transplantation"
+  },
+  {
+    "docID": "N227 Yamamoto 2009",
+    "et": "DosageExtracorporal",
+    "off": 1031,
+    "sff": "OEC"
+  },
+  {
+    "docID": "N227 Yamamoto 2009",
+    "et": "Vehicle",
+    "off": 210,
+    "sff": "S"
+  },
+  {
+    "docID": "N227 Yamamoto 2009",
+    "et": "Cell",
+    "off": 1383,
+    "sff": "cells"
+  },
+  {
+    "docID": "N227 Yamamoto 2009",
+    "et": "Cell",
+    "off": 679,
+    "sff": "cells"
+  },
+  {
+    "docID": "N227 Yamamoto 2009",
+    "et": "SchwannCell",
+    "off": 32,
+    "sff": "cells"
+  },
+  {
+    "docID": "N227 Yamamoto 2009",
+    "et": "Cell",
+    "off": 1686,
+    "sff": "cells"
+  },
+  {
+    "docID": "N227 Yamamoto 2009",
+    "et": "Cell",
+    "off": 1485,
+    "sff": "fibroblasts"
+  },
+  {
+    "docID": "N227 Yamamoto 2009",
+    "et": "SurgeryTreatment",
+    "off": 1353,
+    "sff": "previous"
+  },
+  {
+    "docID": "N227 Yamamoto 2009",
+    "et": "Vehicle",
+    "off": 454,
+    "sff": "rat"
+  },
+  {
+    "docID": "N227 Yamamoto 2009",
+    "et": "SurgeryTreatment",
+    "off": 1207,
+    "sff": "site"
+  },
+  {
+    "docID": "N227 Yamamoto 2009",
+    "et": "DosageExtracorporal",
+    "off": 1693,
+    "sff": "OECs"
+  },
+  {
+    "docID": "N227 Yamamoto 2009",
+    "et": "DosageExtracorporal",
+    "off": 921,
+    "sff": "OEC"
+  },
+  {
+    "docID": "N227 Yamamoto 2009",
+    "et": "DosageExtracorporal",
+    "off": 856,
+    "sff": "used"
+  },
+  {
+    "docID": "N227 Yamamoto 2009",
+    "et": "Cell",
+    "off": 1061,
+    "sff": "cells"
+  },
+  {
+    "docID": "N227 Yamamoto 2009",
+    "et": "DosageExtracorporal",
+    "off": 1612,
+    "sff": "1"
+  },
+  {
+    "docID": "N227 Yamamoto 2009",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 343,
+    "sff": "OECs"
+  },
+  {
+    "docID": "N227 Yamamoto 2009",
+    "et": "DosageExtracorporal",
+    "off": 1416,
+    "sff": "contained"
+  }
+]

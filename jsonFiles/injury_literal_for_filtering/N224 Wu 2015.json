@@ -1,0 +1,296 @@
+[
+  {
+    "docID": "N224 Wu 2015",
+    "et": "Compression",
+    "off": 26124,
+    "sff": "injury"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "Forceps",
+    "off": 27713,
+    "sff": "5"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "Contusion",
+    "off": 18601,
+    "sff": "SCI"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "T11",
+    "off": 8435,
+    "sff": "T11"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "Anaesthetic",
+    "off": 15936,
+    "sff": "citrate"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "MASCISImpactor",
+    "off": 25539,
+    "sff": "weight"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "MASCISImpactor",
+    "off": 24897,
+    "sff": "weight"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "Forceps",
+    "off": 27951,
+    "sff": "5"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "KetamineAsAnaesthetic",
+    "off": 15292,
+    "sff": "ketamine"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "Blade",
+    "off": 14632,
+    "sff": "razor"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "Forceps",
+    "off": 27942,
+    "sff": "5"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "Forceps",
+    "off": 16422,
+    "sff": "5"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "Blade",
+    "off": 9646,
+    "sff": "small"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "MASCISImpactor",
+    "off": 20243,
+    "sff": "weight"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "Xylazine",
+    "off": 11487,
+    "sff": "HCl"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "Anaesthetic",
+    "off": 14537,
+    "sff": "anesthetized"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "AllenWeightDropDevice",
+    "off": 16390,
+    "sff": "method"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "Blade",
+    "off": 14638,
+    "sff": "blade"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "Compression",
+    "off": 10696,
+    "sff": "method"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "KetamineAsAnaesthetic",
+    "off": 14555,
+    "sff": "ketamine"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "Anaesthetic",
+    "off": 13529,
+    "sff": "anesthetized"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "Blade",
+    "off": 13713,
+    "sff": "small"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "Contusion",
+    "off": 8046,
+    "sff": "contusion"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "NYUImpactor",
+    "off": 8082,
+    "sff": "York"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "MASCISImpactor",
+    "off": 628,
+    "sff": "weight"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "MASCISImpactor",
+    "off": 25204,
+    "sff": "weight"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "SodiumPentobarbital",
+    "off": 9341,
+    "sff": "pentobarbital"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "WeightDrop",
+    "off": 8484,
+    "sff": "rod"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "Blade",
+    "off": 23916,
+    "sff": "small"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "Anaesthetic",
+    "off": 15274,
+    "sff": "anesthetized"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "NYUImpactor",
+    "off": 8099,
+    "sff": "NYU"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "Xylazine",
+    "off": 14565,
+    "sff": "xylazine"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "MASCISImpactor",
+    "off": 8111,
+    "sff": "drop"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "InjuryDevice",
+    "off": 13703,
+    "sff": "needle"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "T10",
+    "off": 14160,
+    "sff": "cord"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "Blade",
+    "off": 22984,
+    "sff": "small"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "T10",
+    "off": 17322,
+    "sff": "T10"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "MASCISImpactor",
+    "off": 25418,
+    "sff": "weight"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "WeightDrop",
+    "off": 8495,
+    "sff": "impactor"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "Scissors",
+    "off": 9672,
+    "sff": "ophthalmic"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "MASCISImpactor",
+    "off": 25059,
+    "sff": "weight"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "LightSource",
+    "off": 6947,
+    "sff": "light"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "WeightDrop",
+    "off": 8104,
+    "sff": "weight drop device"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "DorsalHemisection",
+    "off": 23892,
+    "sff": "model"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "T9",
+    "off": 8432,
+    "sff": "T9"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "AllenWeightDropDevice",
+    "off": 27190,
+    "sff": "method"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "MASCISImpactor",
+    "off": 24793,
+    "sff": "weight"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "DorsalHemisection",
+    "off": 23371,
+    "sff": "model"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "Xylazine",
+    "off": 15301,
+    "sff": "xylazine"
+  }
+]

@@ -1,0 +1,596 @@
+[
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 695,
+    "sff": "OECs"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Rostral",
+    "off": 15369,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Rostral",
+    "off": 38931,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Caudal",
+    "off": 24253,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Cell",
+    "off": 17489,
+    "sff": "cells"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Rostral",
+    "off": 22040,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Caudal",
+    "off": 16572,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Cell",
+    "off": 43916,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Cell",
+    "off": 54622,
+    "sff": "cells"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "SchwannCell",
+    "off": 42552,
+    "sff": "Schwann cells"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Rostral",
+    "off": 39147,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Cell",
+    "off": 12697,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Cell",
+    "off": 10383,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Caudal",
+    "off": 37596,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Cell",
+    "off": 15759,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Cell",
+    "off": 15493,
+    "sff": "cells"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "SchwannCell",
+    "off": 1976,
+    "sff": "cells"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Conduit",
+    "off": 35130,
+    "sff": "channels"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Caudal",
+    "off": 20976,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "SchwannCell",
+    "off": 1365,
+    "sff": "Schwann cells"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "SchwannCell",
+    "off": 2622,
+    "sff": "peripheral"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Caudal",
+    "off": 12266,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Conduit",
+    "off": 19774,
+    "sff": "channels"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Cell",
+    "off": 8318,
+    "sff": "cells"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Cell",
+    "off": 47263,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Tissue",
+    "off": 890,
+    "sff": "LP"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Cell",
+    "off": 8135,
+    "sff": "fibroblasts"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Rostral",
+    "off": 25806,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "DeliveryMethod",
+    "off": 31697,
+    "sff": "transplanted"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Cell",
+    "off": 48437,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Cell",
+    "off": 52877,
+    "sff": "cells"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Conduit",
+    "off": 32800,
+    "sff": "channels"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Caudal",
+    "off": 15381,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Cell",
+    "off": 15261,
+    "sff": "cells"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Cell",
+    "off": 53549,
+    "sff": "peripheral"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "SchwannCell",
+    "off": 47770,
+    "sff": "Schwann cells"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Rostral",
+    "off": 16560,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Cell",
+    "off": 56241,
+    "sff": "cells"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Cell",
+    "off": 47989,
+    "sff": "nerve"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Conduit",
+    "off": 22898,
+    "sff": "scaffold"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Cell",
+    "off": 33710,
+    "sff": "cells"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Cell",
+    "off": 8389,
+    "sff": "cells"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "SchwannCell",
+    "off": 47755,
+    "sff": "Schwann cells"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Cell",
+    "off": 11710,
+    "sff": "skin"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Rostral",
+    "off": 39074,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "SchwannCell",
+    "off": 49556,
+    "sff": "Schwann cells"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Cell",
+    "off": 44993,
+    "sff": "cells"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Vehicle",
+    "off": 9646,
+    "sff": "medium"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Conduit",
+    "off": 34811,
+    "sff": "channels"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Conduit",
+    "off": 44539,
+    "sff": "channels"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Caudal",
+    "off": 22572,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 3384,
+    "sff": "OECs"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Rostral",
+    "off": 39305,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "SchwannCell",
+    "off": 48829,
+    "sff": "Schwann cells"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Conduit",
+    "off": 19305,
+    "sff": "parallel"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Conduit",
+    "off": 51412,
+    "sff": "channels"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Cell",
+    "off": 51161,
+    "sff": "cells"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Cell",
+    "off": 54474,
+    "sff": "cells"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Cell",
+    "off": 51464,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Conduit",
+    "off": 49381,
+    "sff": "channels"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Caudal",
+    "off": 16656,
+    "sff": "caudally"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "SchwannCell",
+    "off": 47030,
+    "sff": "Schwann cells"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Cell",
+    "off": 35295,
+    "sff": "cells"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Vehicle",
+    "off": 11084,
+    "sff": "medium"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "InjectionDelivery",
+    "off": 11282,
+    "sff": "stereotaxically microinjected"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "SchwannCell",
+    "off": 56248,
+    "sff": "Schwann cells"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "SchwannCell",
+    "off": 40667,
+    "sff": "Schwann cells"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Cell",
+    "off": 53360,
+    "sff": "fibroblasts"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Cell",
+    "off": 51951,
+    "sff": "mucosa"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Cell",
+    "off": 30187,
+    "sff": "cells"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Cell",
+    "off": 53560,
+    "sff": "nerve"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Cell",
+    "off": 48172,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Cell",
+    "off": 47397,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Cell",
+    "off": 56099,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "InjectionDelivery",
+    "off": 12183,
+    "sff": "injected"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Cell",
+    "off": 49591,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Cell",
+    "off": 911,
+    "sff": "mucosa"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Cell",
+    "off": 49073,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "SurgeryTreatment",
+    "off": 53866,
+    "sff": "scar"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "SchwannCell",
+    "off": 47340,
+    "sff": "Schwann cells"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Cell",
+    "off": 43561,
+    "sff": "cells"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Cell",
+    "off": 8742,
+    "sff": "cells"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Cell",
+    "off": 55077,
+    "sff": "cells"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Rostral",
+    "off": 21569,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Conduit",
+    "off": 1474,
+    "sff": "scaffold"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Cell",
+    "off": 15807,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Cell",
+    "off": 8478,
+    "sff": "cells"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Cell",
+    "off": 30695,
+    "sff": "nerve"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Conduit",
+    "off": 35187,
+    "sff": "channels"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Cell",
+    "off": 47574,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Cell",
+    "off": 44752,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Conduit",
+    "off": 29568,
+    "sff": "channels"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Conduit",
+    "off": 40063,
+    "sff": "channels"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Cell",
+    "off": 15677,
+    "sff": "cells"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Cell",
+    "off": 9220,
+    "sff": "nerve"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Cell",
+    "off": 33795,
+    "sff": "nerve"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Caudal",
+    "off": 39852,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "SchwannCell",
+    "off": 46105,
+    "sff": "Schwann cells"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Conduit",
+    "off": 47229,
+    "sff": "channels"
+  }
+]

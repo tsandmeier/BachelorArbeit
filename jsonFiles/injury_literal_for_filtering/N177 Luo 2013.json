@@ -1,0 +1,56 @@
+[
+  {
+    "docID": "N177 Luo 2013",
+    "et": "AllenWeightDropDevice",
+    "off": 1209,
+    "sff": "method"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "Blade",
+    "off": 6629,
+    "sff": "sharp"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "Scissors",
+    "off": 6651,
+    "sff": "scissors"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "LightSource",
+    "off": 9912,
+    "sff": "light"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "SodiumPentobarbital",
+    "off": 6428,
+    "sff": "pento-barbital"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "Contusion",
+    "off": 2261,
+    "sff": "SCI"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "NYUImpactor",
+    "off": 817,
+    "sff": "University"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "CompleteTransection",
+    "off": 6602,
+    "sff": "completely transectedusing"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "Thoracic",
+    "off": 1292,
+    "sff": "low"
+  }
+]

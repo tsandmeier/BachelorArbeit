@@ -1,0 +1,512 @@
+[
+  {
+    "docID": "N240 Pakulska",
+    "et": "Isoflurane",
+    "off": 9737,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "VertebralArea",
+    "off": 18777,
+    "sff": "7"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "Injury",
+    "off": 23825,
+    "sff": "injury"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "Injury",
+    "off": 25361,
+    "sff": "injury"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "InjuryDevice",
+    "off": 22816,
+    "sff": "cord"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "InjuryDevice",
+    "off": 22809,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "NYUImpactor",
+    "off": 16467,
+    "sff": "University"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "VertebralArea",
+    "off": 9047,
+    "sff": "7"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "InjuryDevice",
+    "off": 23510,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "DorsalHemisection",
+    "off": 1682,
+    "sff": "model"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "Injury",
+    "off": 25609,
+    "sff": "injury"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "Clip",
+    "off": 22398,
+    "sff": "modified"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "VertebralArea",
+    "off": 19086,
+    "sff": "2"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "Injury",
+    "off": 10666,
+    "sff": "heat"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "VertebralArea",
+    "off": 8974,
+    "sff": "4"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "VertebralArea",
+    "off": 20744,
+    "sff": "4"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "VertebralArea",
+    "off": 8313,
+    "sff": "10"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "InjuryDevice",
+    "off": 22571,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "InjuryDevice",
+    "off": 21291,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "Blade",
+    "off": 19157,
+    "sff": "fine"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "Compression",
+    "off": 9821,
+    "sff": "impact-compression injury"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "Compression",
+    "off": 28220,
+    "sff": "injury"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "InjuryDevice",
+    "off": 27149,
+    "sff": "cord"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "Injury",
+    "off": 26749,
+    "sff": "injury"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "VertebralArea",
+    "off": 10243,
+    "sff": "second"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "InjuryDevice",
+    "off": 14635,
+    "sff": "mouse"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "Injury",
+    "off": 8668,
+    "sff": "heat"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "PartialTransection",
+    "off": 138,
+    "sff": "cord"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "InjuryDevice",
+    "off": 26629,
+    "sff": "cord"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "NYUImpactor",
+    "off": 7789,
+    "sff": "University"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "Blade",
+    "off": 12274,
+    "sff": "11"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "Laminectomy",
+    "off": 9755,
+    "sff": "laminectomy"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "Forceps",
+    "off": 13450,
+    "sff": "s"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "InjuryDevice",
+    "off": 22084,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "Clip",
+    "off": 8096,
+    "sff": "modified"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "InjuryDevice",
+    "off": 20420,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "Injury",
+    "off": 24556,
+    "sff": "injury"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "InjuryDevice",
+    "off": 20041,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "Anaesthetic",
+    "off": 7172,
+    "sff": "mouse"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "InjuryDevice",
+    "off": 20814,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "VertebralArea",
+    "off": 8022,
+    "sff": "vertebral"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "Isoflurane",
+    "off": 7966,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "Laminectomy",
+    "off": 7984,
+    "sff": "laminectomy"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "VertebralArea",
+    "off": 17963,
+    "sff": "level"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "C1",
+    "off": 21986,
+    "sff": "first"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "Anaesthetic",
+    "off": 14669,
+    "sff": "sulfate"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "InjuryDevice",
+    "off": 18904,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "Anaesthetic",
+    "off": 12999,
+    "sff": "ice"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "Anaesthetic",
+    "off": 25032,
+    "sff": "sulfate"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "InjuryDevice",
+    "off": 26077,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "InjuryDevice",
+    "off": 26084,
+    "sff": "cord"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "Blade",
+    "off": 12114,
+    "sff": "11"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "Anaesthetic",
+    "off": 14811,
+    "sff": "mouse"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "InjuryDevice",
+    "off": 9989,
+    "sff": "needle"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "Anaesthetic",
+    "off": 1345,
+    "sff": "sulfate"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "DorsalHemisection",
+    "off": 457,
+    "sff": "model"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "VertebralArea",
+    "off": 18771,
+    "sff": "2"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "VertebralArea",
+    "off": 9044,
+    "sff": "2"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "VertebralArea",
+    "off": 8020,
+    "sff": "2"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "Blade",
+    "off": 11619,
+    "sff": "11"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "InjuryDevice",
+    "off": 20048,
+    "sff": "cord"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "Injury",
+    "off": 25920,
+    "sff": "injury"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "InjuryDevice",
+    "off": 10110,
+    "sff": "needle"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "InjuryDevice",
+    "off": 20821,
+    "sff": "cord"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "C1",
+    "off": 19192,
+    "sff": "first"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "VertebralArea",
+    "off": 9803,
+    "sff": "level"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "T10",
+    "off": 8260,
+    "sff": "10"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "InjuryDevice",
+    "off": 10486,
+    "sff": "needle"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "Anaesthetic",
+    "off": 9702,
+    "sff": "anesthetized"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "VertebralArea",
+    "off": 1366,
+    "sff": "levels"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "InjuryDevice",
+    "off": 22091,
+    "sff": "cord"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "InjuryDevice",
+    "off": 20427,
+    "sff": "cord"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "Injury",
+    "off": 23857,
+    "sff": "injury"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "InjuryDevice",
+    "off": 26622,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "InjuryByAccident",
+    "off": 9793,
+    "sff": "vertebral"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "InjuryDevice",
+    "off": 28215,
+    "sff": "cord"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "Blade",
+    "off": 19640,
+    "sff": "11"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "AneurysmClip",
+    "off": 8105,
+    "sff": "aneurysm clip"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "Injury",
+    "off": 25643,
+    "sff": "injury"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "Anaesthetic",
+    "off": 7931,
+    "sff": "anesthetized"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "VertebralArea",
+    "off": 8937,
+    "sff": "2"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "VertebralArea",
+    "off": 8032,
+    "sff": "level"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "InjuryDevice",
+    "off": 22578,
+    "sff": "cord"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "InjuryDevice",
+    "off": 21298,
+    "sff": "cord"
+  },
+  {
+    "docID": "N240 Pakulska",
+    "et": "Injury",
+    "off": 26010,
+    "sff": "injury"
+  }
+]

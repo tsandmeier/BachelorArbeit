@@ -1,0 +1,524 @@
+[
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "Isoflurane",
+    "off": 6417,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "VertebralArea",
+    "off": 16670,
+    "sff": "second"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "VertebralArea",
+    "off": 23458,
+    "sff": "8"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "C1",
+    "off": 17366,
+    "sff": "first"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "InjuryDevice",
+    "off": 29097,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "C1",
+    "off": 26500,
+    "sff": "cervical"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "VertebralArea",
+    "off": 23084,
+    "sff": "8"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "VertebralArea",
+    "off": 21585,
+    "sff": "7"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "VertebralArea",
+    "off": 19723,
+    "sff": "level"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "Blade",
+    "off": 20710,
+    "sff": "small"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "Laminectomy",
+    "off": 11409,
+    "sff": "exposed"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "T10",
+    "off": 974,
+    "sff": "segment"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "Isoflurane",
+    "off": 6524,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "PartialTransection",
+    "off": 19774,
+    "sff": "dorsal quadrant lesion"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "Blade",
+    "off": 25451,
+    "sff": "small"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "InjuryDevice",
+    "off": 25146,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "Injury",
+    "off": 23936,
+    "sff": "injury"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "VertebralArea",
+    "off": 19714,
+    "sff": "thoracic"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "C1",
+    "off": 7826,
+    "sff": "cervical"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "VertebralArea",
+    "off": 25605,
+    "sff": "4"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "Laminectomy",
+    "off": 9581,
+    "sff": "laminectomy"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "C1",
+    "off": 8004,
+    "sff": "segment"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "Cervical",
+    "off": 899,
+    "sff": "cervical"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "InjuryDevice",
+    "off": 29440,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "InjuryDevice",
+    "off": 24448,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "DorsalHemisection",
+    "off": 731,
+    "sff": "cord"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "InjuryDevice",
+    "off": 24705,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "C1",
+    "off": 8896,
+    "sff": "segment"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "Laminectomy",
+    "off": 12321,
+    "sff": "exposed"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "InjuryDevice",
+    "off": 22525,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "InjuryDevice",
+    "off": 24253,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "Blade",
+    "off": 8396,
+    "sff": "fine"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "Compression",
+    "off": 23547,
+    "sff": "funiculus"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "Blade",
+    "off": 23603,
+    "sff": "small"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "Blade",
+    "off": 19636,
+    "sff": "small"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "Anaesthetic",
+    "off": 6371,
+    "sff": "atropine sulfate"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "Anaesthetic",
+    "off": 8069,
+    "sff": "ice"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "Laminectomy",
+    "off": 14490,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "Anaesthetic",
+    "off": 7087,
+    "sff": "fentanyl"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "InjuryDevice",
+    "off": 26509,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "Anaesthetic",
+    "off": 9916,
+    "sff": "sulfate"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "C1",
+    "off": 7884,
+    "sff": "segment"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "Injury",
+    "off": 24936,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "InjuryDevice",
+    "off": 29104,
+    "sff": "cord"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "VertebralArea",
+    "off": 8175,
+    "sff": "level"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "InjuryDevice",
+    "off": 28692,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "InjuryDevice",
+    "off": 25108,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "Blade",
+    "off": 26077,
+    "sff": "11"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "InjuryDevice",
+    "off": 26534,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "C1",
+    "off": 19528,
+    "sff": "cervical"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "NYUImpactor",
+    "off": 23761,
+    "sff": "weight"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "Forceps",
+    "off": 8041,
+    "sff": "s"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "Injury",
+    "off": 28196,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "Blade",
+    "off": 20764,
+    "sff": "small"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "VertebralArea",
+    "off": 19037,
+    "sff": "2"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "C1",
+    "off": 19007,
+    "sff": "cervical"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "InjuryDevice",
+    "off": 27317,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "VertebralArea",
+    "off": 27380,
+    "sff": "4"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "Blade",
+    "off": 24487,
+    "sff": "small"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "DorsalHemisection",
+    "off": 7835,
+    "sff": "hemisection"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "Laminectomy",
+    "off": 8129,
+    "sff": "laminectomy"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "C1",
+    "off": 27003,
+    "sff": "first"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "InjuryDevice",
+    "off": 24826,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "C1",
+    "off": 7403,
+    "sff": "segment"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "Injury",
+    "off": 23490,
+    "sff": "injury"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "InjuryDevice",
+    "off": 28588,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "C1",
+    "off": 8685,
+    "sff": "segment"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "InjuryDevice",
+    "off": 21698,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "VertebralArea",
+    "off": 19905,
+    "sff": "4"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "InjuryDevice",
+    "off": 24896,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "InjuryDevice",
+    "off": 29447,
+    "sff": "cord"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "Injury",
+    "off": 9397,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "NYUImpactor",
+    "off": 23853,
+    "sff": "weight"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "Injury",
+    "off": 23794,
+    "sff": "injury"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "KetamineAsAnaesthetic",
+    "off": 6327,
+    "sff": "ketamine"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "Scissors",
+    "off": 8289,
+    "sff": "microscissors"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "Blade",
+    "off": 12887,
+    "sff": "sharp"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "Laminectomy",
+    "off": 13173,
+    "sff": "exposed"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "InjuryDevice",
+    "off": 29562,
+    "sff": "cord"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "InjuryDevice",
+    "off": 23504,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "InjuryDevice",
+    "off": 27089,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "InjuryDevice",
+    "off": 22865,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "VertebralArea",
+    "off": 21424,
+    "sff": "levels"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "VertebralArea",
+    "off": 9614,
+    "sff": "T1"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "VertebralArea",
+    "off": 16192,
+    "sff": "first"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "Laminectomy",
+    "off": 14930,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "VertebralArea",
+    "off": 17448,
+    "sff": "second"
+  }
+]

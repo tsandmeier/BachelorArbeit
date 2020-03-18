@@ -1,0 +1,302 @@
+[
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "InjuryDevice",
+    "off": 8369,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "VertebralArea",
+    "off": 54442,
+    "sff": "T8"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "CompleteTransection",
+    "off": 13327,
+    "sff": "completely transected"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "T8",
+    "off": 9895,
+    "sff": "T8"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "Blade",
+    "off": 33208,
+    "sff": "11"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "LightSource",
+    "off": 15293,
+    "sff": "light"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "Isoflurane",
+    "off": 7699,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "AllenWeightDropDevice",
+    "off": 21141,
+    "sff": "method"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "ScoutenWireKnife",
+    "off": 8850,
+    "sff": "wire"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "NYUImpactor",
+    "off": 46836,
+    "sff": "developed"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "NYUImpactor",
+    "off": 32970,
+    "sff": "developed"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "LightSource",
+    "off": 20747,
+    "sff": "fiber"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "T9",
+    "off": 21944,
+    "sff": "T9"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "Blade",
+    "off": 52611,
+    "sff": "11"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "SodiumPentobarbital",
+    "off": 11753,
+    "sff": "2%"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "PhotochemicalInjury",
+    "off": 32396,
+    "sff": "Spinal"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "Thoracic",
+    "off": 1189,
+    "sff": "thoracic"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "Injury",
+    "off": 10045,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "CompleteTransection",
+    "off": 54445,
+    "sff": "complete transection"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "Cervical",
+    "off": 51684,
+    "sff": "cervical"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "LightSource",
+    "off": 20648,
+    "sff": "fiber"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "PhotochemicalInjury",
+    "off": 9501,
+    "sff": "cord"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "LightSource",
+    "off": 17364,
+    "sff": "light"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "T9",
+    "off": 46427,
+    "sff": "9"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "Injury",
+    "off": 9383,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "InjuryDevice",
+    "off": 12708,
+    "sff": "needle"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "Compression",
+    "off": 1222,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "Forceps",
+    "off": 45427,
+    "sff": "s"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "Cervical",
+    "off": 51431,
+    "sff": "cervical"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "Anaesthetic",
+    "off": 11735,
+    "sff": "anesthetized"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "Blade",
+    "off": 8201,
+    "sff": "surgical"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "Compression",
+    "off": 1076,
+    "sff": "technique"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "T8",
+    "off": 6532,
+    "sff": "T8"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "Blade",
+    "off": 8835,
+    "sff": "surgical"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "Blade",
+    "off": 7584,
+    "sff": "surgical"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "LateralHemisection",
+    "off": 29976,
+    "sff": "side"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "Contusion",
+    "off": 23105,
+    "sff": "SCI"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "Isoflurane",
+    "off": 13254,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "PhotochemicalInjury",
+    "off": 15426,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "Anaesthetic",
+    "off": 7680,
+    "sff": "anesthetized"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "LightSource",
+    "off": 14013,
+    "sff": "connected"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "Clip",
+    "off": 1031,
+    "sff": "modified"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "InjuryByAccident",
+    "off": 1579,
+    "sff": "severe"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "T9",
+    "off": 31436,
+    "sff": "9"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "T10",
+    "off": 9144,
+    "sff": "T10"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "InfiniteHorizonImpactor",
+    "off": 12329,
+    "sff": "tip"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "T7",
+    "off": 9137,
+    "sff": "T7"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "Isoflurane",
+    "off": 11756,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "LateralHemisection",
+    "off": 29996,
+    "sff": "right side"
+  },
+  {
+    "docID": "N009 Lee 2013 23804083",
+    "et": "Blade",
+    "off": 39506,
+    "sff": "11"
+  }
+]

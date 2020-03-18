@@ -1,0 +1,416 @@
+[
+  {
+    "docID": "N165 Li 2010",
+    "et": "Rostral",
+    "off": 751,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "Vehicle",
+    "off": 5899,
+    "sff": "solution"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "SurgeryTreatment",
+    "off": 4370,
+    "sff": "removed"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "DosageExtracorporal",
+    "off": 4460,
+    "sff": "containing"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "RingersSolution",
+    "off": 4741,
+    "sff": "solution"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "Cell",
+    "off": 1111,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "DeliveryMethod",
+    "off": 7804,
+    "sff": "placed"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "Cell",
+    "off": 3803,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "SurgeryTreatment",
+    "off": 11826,
+    "sff": "between"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "Cell",
+    "off": 10357,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "Rostral",
+    "off": 7031,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "SchwannCell",
+    "off": 12671,
+    "sff": "cells"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "SchwannCell",
+    "off": 6653,
+    "sff": "cells"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "DeliveryMethod",
+    "off": 5001,
+    "sff": "placed"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "DosageExtracorporal",
+    "off": 5097,
+    "sff": "10"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "SurgeryTreatment",
+    "off": 11891,
+    "sff": "5"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "Rostral",
+    "off": 7760,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "Cell",
+    "off": 8062,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "SurgeryTreatment",
+    "off": 8069,
+    "sff": "cord"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "Cell",
+    "off": 6789,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "RingersSolution",
+    "off": 7909,
+    "sff": "solution"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "SchwannCell",
+    "off": 46,
+    "sff": "cells"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "SchwannCell",
+    "off": 8237,
+    "sff": "cells"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "SurgeryTreatment",
+    "off": 10151,
+    "sff": "4"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "SurgeryTreatment",
+    "off": 10364,
+    "sff": "cord"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "Rostral",
+    "off": 10463,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "Caudal",
+    "off": 7772,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "SchwannCell",
+    "off": 6683,
+    "sff": "cells"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "SurgeryTreatment",
+    "off": 1227,
+    "sff": "injury"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "DosageExtracorporal",
+    "off": 3689,
+    "sff": "mg"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "SchwannCell",
+    "off": 287,
+    "sff": "cells"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "Vehicle",
+    "off": 4450,
+    "sff": "solution"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "Vehicle",
+    "off": 5215,
+    "sff": "medium"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "DosageExtracorporal",
+    "off": 11319,
+    "sff": "Two"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "Cell",
+    "off": 7051,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "Caudal",
+    "off": 10475,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "Cell",
+    "off": 672,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "Caudal",
+    "off": 7020,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "Cell",
+    "off": 12574,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "SurgeryTreatment",
+    "off": 1118,
+    "sff": "cord"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "SurgeryTreatment",
+    "off": 10958,
+    "sff": "were"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "Saline",
+    "off": 7581,
+    "sff": "saline"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "DosageExtracorporal",
+    "off": 4894,
+    "sff": "DMEM"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "Caudal",
+    "off": 740,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "RingersSolution",
+    "off": 6076,
+    "sff": "solution"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "DosageExtracorporal",
+    "off": 300,
+    "sff": "transplanted"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "RingersSolution",
+    "off": 4177,
+    "sff": "solution"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "Cell",
+    "off": 436,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "Caudal",
+    "off": 4352,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "DosageExtracorporal",
+    "off": 3651,
+    "sff": "injection"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "Cell",
+    "off": 6825,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "SurgeryTreatment",
+    "off": 9593,
+    "sff": "2"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "SchwannCell",
+    "off": 8385,
+    "sff": "cells"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "DeliveryMethod",
+    "off": 5862,
+    "sff": "placed"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "DosageExtracorporal",
+    "off": 9579,
+    "sff": "×"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "RingersSolution",
+    "off": 6310,
+    "sff": "solution"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "Cell",
+    "off": 9667,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "DosageExtracorporal",
+    "off": 788,
+    "sff": "30000"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "Cell",
+    "off": 7992,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "InjectionDelivery",
+    "off": 6950,
+    "sff": "injected"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "DosageExtracorporal",
+    "off": 6936,
+    "sff": "30000"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "DeliveryMethod",
+    "off": 7747,
+    "sff": "transplanted"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "Cell",
+    "off": 10580,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "Vehicle",
+    "off": 12319,
+    "sff": "control"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 294,
+    "sff": "OECs"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "Cell",
+    "off": 329,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "Cell",
+    "off": 77,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "Cell",
+    "off": 8743,
+    "sff": "cells"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "SurgeryTreatment",
+    "off": 4667,
+    "sff": "removed"
+  }
+]

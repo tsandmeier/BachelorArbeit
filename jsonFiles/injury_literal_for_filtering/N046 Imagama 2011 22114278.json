@@ -1,0 +1,512 @@
+[
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "InjuryDevice",
+    "off": 30837,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "Injury",
+    "off": 44111,
+    "sff": "heat"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "VertebralArea",
+    "off": 20647,
+    "sff": "8"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "InjuryDevice",
+    "off": 35892,
+    "sff": "cord"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "KetamineAsAnaesthetic",
+    "off": 7923,
+    "sff": "ketamine"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "Forceps",
+    "off": 39528,
+    "sff": "5"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "DorsalHemisection",
+    "off": 42441,
+    "sff": "CST"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "InjuryDevice",
+    "off": 31172,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "InjuryDevice",
+    "off": 31428,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "InjuryByAccident",
+    "off": 10389,
+    "sff": "severe"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "VertebralArea",
+    "off": 25768,
+    "sff": "2"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "VertebralArea",
+    "off": 30627,
+    "sff": "4"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "InjuryDevice",
+    "off": 41739,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "InjuryDevice",
+    "off": 40650,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "Blade",
+    "off": 29382,
+    "sff": "11"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "InfiniteHorizonImpactor",
+    "off": 8108,
+    "sff": "Infinite Horizon Impactor"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "Anaesthetic",
+    "off": 15174,
+    "sff": "mouse"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "VertebralArea",
+    "off": 27859,
+    "sff": "2"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "VertebralArea",
+    "off": 38737,
+    "sff": "4"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "Anaesthetic",
+    "off": 7873,
+    "sff": "anesthetized"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "VertebralArea",
+    "off": 39250,
+    "sff": "4"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "Anaesthetic",
+    "off": 26112,
+    "sff": "sulfate"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "Compression",
+    "off": 11970,
+    "sff": "method"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "Contusion",
+    "off": 36361,
+    "sff": "contusion"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "InjuryDevice",
+    "off": 30932,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "VertebralArea",
+    "off": 34194,
+    "sff": "7"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "Injury",
+    "off": 35841,
+    "sff": "injury"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "InjuryDevice",
+    "off": 35740,
+    "sff": "cord"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "Blade",
+    "off": 22060,
+    "sff": "fine"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "Forceps",
+    "off": 40804,
+    "sff": "5"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "InjuryDevice",
+    "off": 35604,
+    "sff": "cord"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "InjuryDevice",
+    "off": 32350,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "NYUImpactor",
+    "off": 10769,
+    "sff": "University"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "InjuryDevice",
+    "off": 40966,
+    "sff": "cord"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "VertebralArea",
+    "off": 35641,
+    "sff": "level"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "Forceps",
+    "off": 40782,
+    "sff": "5"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "InjuryDevice",
+    "off": 37480,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "Injury",
+    "off": 36094,
+    "sff": "injury"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "Anaesthetic",
+    "off": 1288,
+    "sff": "sulfate"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "Injury",
+    "off": 40059,
+    "sff": "injury"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "Anaesthetic",
+    "off": 35209,
+    "sff": "sulfate"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "Vibraknife",
+    "off": 8100,
+    "sff": "device"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "KetamineAsAnaesthetic",
+    "off": 18530,
+    "sff": "ketamine"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "InjuryDevice",
+    "off": 39044,
+    "sff": "cord"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "T10",
+    "off": 39874,
+    "sff": "10"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "DorsalHemisection",
+    "off": 31435,
+    "sff": "cord"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "Blade",
+    "off": 10019,
+    "sff": "small"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "Compression",
+    "off": 9497,
+    "sff": "compressed"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "LateralHemisection",
+    "off": 31617,
+    "sff": "side"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "Xylazine",
+    "off": 7948,
+    "sff": "xylazine"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "InjuryDevice",
+    "off": 37487,
+    "sff": "cord"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "Vibraknife",
+    "off": 21204,
+    "sff": "device"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "C1",
+    "off": 20010,
+    "sff": "first"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "InjuryDevice",
+    "off": 39037,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "Forceps",
+    "off": 41286,
+    "sff": "5"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "Injury",
+    "off": 36181,
+    "sff": "injury"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "InjuryDevice",
+    "off": 40959,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "InjuryDevice",
+    "off": 35780,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "NYUImpactor",
+    "off": 3476,
+    "sff": "University"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "Xylazine",
+    "off": 24839,
+    "sff": "hydrochloride"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "DorsalHemisection",
+    "off": 10164,
+    "sff": "injury"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "VertebralArea",
+    "off": 40024,
+    "sff": "level"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "Injury",
+    "off": 39890,
+    "sff": "injury"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "NYUImpactor",
+    "off": 25798,
+    "sff": "II"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "T9",
+    "off": 8502,
+    "sff": "Th9"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "Anaesthetic",
+    "off": 1143,
+    "sff": "sulfate"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "Injury",
+    "off": 35919,
+    "sff": "injury"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "Blade",
+    "off": 30591,
+    "sff": "11"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "Compression",
+    "off": 38328,
+    "sff": "technique"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "VertebralArea",
+    "off": 21785,
+    "sff": "9"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "Compression",
+    "off": 1226,
+    "sff": "injuries"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "InjuryDevice",
+    "off": 35597,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "Anaesthetic",
+    "off": 21698,
+    "sff": "sulfate"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "Forceps",
+    "off": 23582,
+    "sff": "5"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "InjuryDevice",
+    "off": 35733,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "Injury",
+    "off": 42519,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "InjuryDevice",
+    "off": 40657,
+    "sff": "cord"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "Vibraknife",
+    "off": 20726,
+    "sff": "device"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "Anaesthetic",
+    "off": 25917,
+    "sff": "sulfate"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "Forceps",
+    "off": 22065,
+    "sff": "forceps"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "VertebralArea",
+    "off": 37511,
+    "sff": "2"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "InfiniteHorizonImpactor",
+    "off": 8491,
+    "sff": "tip"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "Blade",
+    "off": 8520,
+    "sff": "surgical"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "C1",
+    "off": 19130,
+    "sff": "first"
+  },
+  {
+    "docID": "N046 Imagama 2011 22114278",
+    "et": "InjuryDevice",
+    "off": 35885,
+    "sff": "spinal"
+  }
+]

@@ -1,0 +1,572 @@
+[
+  {
+    "docID": "N187 Nash 2002",
+    "et": "InjectionDelivery",
+    "off": 9462,
+    "sff": "injected"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "SurgeryTreatment",
+    "off": 6981,
+    "sff": "removed"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Direction",
+    "off": 27056,
+    "sff": "dorsal"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "InjectionDelivery",
+    "off": 10874,
+    "sff": "injected"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Rostral",
+    "off": 28206,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "SurgeryTreatment",
+    "off": 31679,
+    "sff": "5"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Vehicle",
+    "off": 20665,
+    "sff": "vehicle"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "DeliveryMethod",
+    "off": 9067,
+    "sff": "injections"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "SurgeryTreatment",
+    "off": 32574,
+    "sff": "5"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "SurgeryTreatment",
+    "off": 33017,
+    "sff": "4"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Vehicle",
+    "off": 9329,
+    "sff": "DMEM"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Rostral",
+    "off": 9015,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "SurgeryTreatment",
+    "off": 33240,
+    "sff": "were"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Cell",
+    "off": 17322,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Cell",
+    "off": 27562,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Cell",
+    "off": 427,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "SurgeryTreatment",
+    "off": 27126,
+    "sff": "2"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "DosageExtracorporal",
+    "off": 9776,
+    "sff": "Each"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "DosageExtracorporal",
+    "off": 29400,
+    "sff": "3"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Caudal",
+    "off": 29169,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Direction",
+    "off": 8761,
+    "sff": "dorsal"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "SurgeryTreatment",
+    "off": 30451,
+    "sff": "4"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Cell",
+    "off": 9122,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 539,
+    "sff": "ECs"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Cell",
+    "off": 7000,
+    "sff": "nerve"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "DeliveryMethod",
+    "off": 11587,
+    "sff": "injections"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Direction",
+    "off": 22161,
+    "sff": "distal"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Vehicle",
+    "off": 7965,
+    "sff": "vehicle"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Caudal",
+    "off": 29318,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "SurgeryTreatment",
+    "off": 31847,
+    "sff": "4"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Direction",
+    "off": 8719,
+    "sff": "dorsal"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "TreadmillTraining",
+    "off": 13776,
+    "sff": "training"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "SurgeryTreatment",
+    "off": 15134,
+    "sff": "surgery"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "SchwannCell",
+    "off": 2152,
+    "sff": "cells"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Cell",
+    "off": 28723,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "RehabilitativeTraining",
+    "off": 14243,
+    "sff": "trained"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Cell",
+    "off": 17460,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "SurgeryTreatment",
+    "off": 33004,
+    "sff": "injury"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Direction",
+    "off": 9217,
+    "sff": "dorsal"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "SurgeryTreatment",
+    "off": 33338,
+    "sff": "between"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "SurgeryTreatment",
+    "off": 32730,
+    "sff": "4"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "SurgeryTreatment",
+    "off": 33467,
+    "sff": "between"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Cell",
+    "off": 8395,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Direction",
+    "off": 27167,
+    "sff": "dorsal"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Direction",
+    "off": 32032,
+    "sff": "distal"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "SurgeryTreatment",
+    "off": 32860,
+    "sff": "were"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "DosageExtracorporal",
+    "off": 23743,
+    "sff": "ECs"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Direction",
+    "off": 9231,
+    "sff": "central"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Cell",
+    "off": 21193,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Caudal",
+    "off": 28937,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Direction",
+    "off": 8593,
+    "sff": "dorsal"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "DosageExtracorporal",
+    "off": 23864,
+    "sff": "ECs"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "SurgeryTreatment",
+    "off": 18632,
+    "sff": "4"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "SchwannCell",
+    "off": 7255,
+    "sff": "cells"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Cell",
+    "off": 6952,
+    "sff": "nasal"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Cell",
+    "off": 1882,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Cell",
+    "off": 2266,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "DeliveryMethod",
+    "off": 11939,
+    "sff": "injections"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "SurgeryTreatment",
+    "off": 2065,
+    "sff": "injury"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Direction",
+    "off": 8430,
+    "sff": "dorsal"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Cell",
+    "off": 9685,
+    "sff": "skin"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "SchwannCell",
+    "off": 7171,
+    "sff": "cells"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "DeliveryMethod",
+    "off": 11301,
+    "sff": "injections"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Cell",
+    "off": 9949,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Cell",
+    "off": 17629,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Cell",
+    "off": 18262,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Vehicle",
+    "off": 22650,
+    "sff": "vehicle"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "SchwannCell",
+    "off": 2328,
+    "sff": "peripheral"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Caudal",
+    "off": 29087,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Caudal",
+    "off": 29979,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Direction",
+    "off": 18752,
+    "sff": "distal"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "DeliveryMethod",
+    "off": 11415,
+    "sff": "injections"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "DeliveryMethod",
+    "off": 9366,
+    "sff": "injections"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Direction",
+    "off": 8815,
+    "sff": "central"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Direction",
+    "off": 18299,
+    "sff": "dorsal"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "SurgeryTreatment",
+    "off": 33202,
+    "sff": "between"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "DosageExtracorporal",
+    "off": 8997,
+    "sff": "injections"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "DeliveryMethod",
+    "off": 9722,
+    "sff": "placed"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Cell",
+    "off": 10975,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "RehabilitativeTraining",
+    "off": 15088,
+    "sff": "trained"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Cell",
+    "off": 8566,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Direction",
+    "off": 9166,
+    "sff": "lateral"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Direction",
+    "off": 28280,
+    "sff": "proximal"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Cell",
+    "off": 8306,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Cell",
+    "off": 28658,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "DeliveryMethod",
+    "off": 8239,
+    "sff": "placed"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Cell",
+    "off": 18161,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "SurgeryTreatment",
+    "off": 33050,
+    "sff": "4"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Direction",
+    "off": 30561,
+    "sff": "distal"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Direction",
+    "off": 28382,
+    "sff": "dorsal"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Vehicle",
+    "off": 22255,
+    "sff": "vehicle"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Direction",
+    "off": 8794,
+    "sff": "dorsal"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Cell",
+    "off": 28159,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "SchwannCell",
+    "off": 532,
+    "sff": "cells"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "RehabilitativeTraining",
+    "off": 14670,
+    "sff": "trained"
+  }
+]

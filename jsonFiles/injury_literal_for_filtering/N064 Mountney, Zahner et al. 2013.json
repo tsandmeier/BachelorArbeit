@@ -1,0 +1,440 @@
+[
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "InjuryDevice",
+    "off": 22097,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "Forceps",
+    "off": 16220,
+    "sff": "s"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "VertebralArea",
+    "off": 16851,
+    "sff": "2"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "Injury",
+    "off": 25035,
+    "sff": "injury"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "InjuryDevice",
+    "off": 22432,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "KetamineAsAnaesthetic",
+    "off": 5915,
+    "sff": "ketamine"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "VertebralArea",
+    "off": 10033,
+    "sff": "levels"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "Injury",
+    "off": 23129,
+    "sff": "injury"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "Injury",
+    "off": 25592,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "InjuryDevice",
+    "off": 24169,
+    "sff": "cord"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "KetamineAsAnaesthetic",
+    "off": 7309,
+    "sff": "ketamine"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "Contusion",
+    "off": 2078,
+    "sff": "contusion"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "InjuryDevice",
+    "off": 21977,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "Anaesthetic",
+    "off": 9053,
+    "sff": "anesthetized"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "T10",
+    "off": 6279,
+    "sff": "T10"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "Injury",
+    "off": 10982,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "InjuryDevice",
+    "off": 21232,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "Injury",
+    "off": 23408,
+    "sff": "injury"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "InjuryDevice",
+    "off": 26859,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "Contusion",
+    "off": 1914,
+    "sff": "contusion"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "Anaesthetic",
+    "off": 7278,
+    "sff": "anesthetized"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "InjuryDevice",
+    "off": 31419,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "Anaesthetic",
+    "off": 4753,
+    "sff": "sulfate"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "Forceps",
+    "off": 15906,
+    "sff": "s"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "InfiniteHorizonImpactor",
+    "off": 6428,
+    "sff": "Infinite Horizons Impactor"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "T10",
+    "off": 14996,
+    "sff": "10"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "Thoracic",
+    "off": 1083,
+    "sff": "thoracic"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "Anaesthetic",
+    "off": 5867,
+    "sff": "anesthetized"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "InjuryDevice",
+    "off": 26618,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "Blade",
+    "off": 8288,
+    "sff": "fine"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "NYUImpactor",
+    "off": 7015,
+    "sff": "New"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "Xylazine",
+    "off": 6962,
+    "sff": "hydrochloride"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "Forceps",
+    "off": 10395,
+    "sff": "s"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "InjuryDevice",
+    "off": 23571,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "InjuryDevice",
+    "off": 23578,
+    "sff": "cord"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "NYUImpactor",
+    "off": 4155,
+    "sff": "University"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "NYUImpactor",
+    "off": 7019,
+    "sff": "York"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "VertebralArea",
+    "off": 18709,
+    "sff": "4"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "InjuryDevice",
+    "off": 32774,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "Compression",
+    "off": 21989,
+    "sff": "injuries"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "C1",
+    "off": 19246,
+    "sff": "first"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "Laminectomy",
+    "off": 6121,
+    "sff": "laminectomy"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "InjuryDevice",
+    "off": 30111,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "Isoflurane",
+    "off": 9071,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "InjuryDevice",
+    "off": 30757,
+    "sff": "cord"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "InjuryDevice",
+    "off": 27043,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "Forceps",
+    "off": 16140,
+    "sff": "s"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "InjuryDevice",
+    "off": 31832,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "VertebralArea",
+    "off": 21859,
+    "sff": "7"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "Anaesthetic",
+    "off": 26232,
+    "sff": "sulfate"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "Blade",
+    "off": 28544,
+    "sff": "fine"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "InjuryDevice",
+    "off": 21933,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "Injury",
+    "off": 13354,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "Compression",
+    "off": 15773,
+    "sff": "method"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "NYUImpactor",
+    "off": 6035,
+    "sff": "York"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "InjuryDevice",
+    "off": 25139,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "InjuryDevice",
+    "off": 30442,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "NYUImpactor",
+    "off": 6031,
+    "sff": "New"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "Injury",
+    "off": 22173,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "Anaesthetic",
+    "off": 5977,
+    "sff": "medetomidine"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "Compression",
+    "off": 10322,
+    "sff": "injury"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "DorsalHemisection",
+    "off": 721,
+    "sff": "model"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "Injury",
+    "off": 22964,
+    "sff": "injury"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "VertebralArea",
+    "off": 20479,
+    "sff": "4"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "Injury",
+    "off": 21945,
+    "sff": "injury"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "InjuryDevice",
+    "off": 31171,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "T9",
+    "off": 6154,
+    "sff": "T9"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "Anaesthetic",
+    "off": 17874,
+    "sff": "sulfate"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "VertebralArea",
+    "off": 9885,
+    "sff": "levels"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "Blade",
+    "off": 9175,
+    "sff": "surgical"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "VertebralArea",
+    "off": 7815,
+    "sff": "4"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "T9",
+    "off": 6415,
+    "sff": "T9"
+  },
+  {
+    "docID": "N064 Mountney, Zahner et al. 2013",
+    "et": "InjuryDevice",
+    "off": 32082,
+    "sff": "cord"
+  }
+]

@@ -1,0 +1,500 @@
+[
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "VertebralArea",
+    "off": 13832,
+    "sff": "C2"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "InjuryDevice",
+    "off": 22151,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Forceps",
+    "off": 18194,
+    "sff": "5"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "VertebralArea",
+    "off": 16724,
+    "sff": "C1"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Injury",
+    "off": 22516,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "C1",
+    "off": 24170,
+    "sff": "first"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "VertebralArea",
+    "off": 17999,
+    "sff": "4"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "VertebralArea",
+    "off": 17146,
+    "sff": "C2"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Scissors",
+    "off": 8613,
+    "sff": "ophthalmic"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "InjuryDevice",
+    "off": 33138,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "InjuryDevice",
+    "off": 37175,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "VertebralArea",
+    "off": 14775,
+    "sff": "4"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "C4",
+    "off": 13895,
+    "sff": "C4"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "PartialTransection",
+    "off": 34571,
+    "sff": "transect"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Injury",
+    "off": 21344,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Compression",
+    "off": 34591,
+    "sff": "funiculus"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "InjuryDevice",
+    "off": 29670,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "InjuryDevice",
+    "off": 22759,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "InjuryDevice",
+    "off": 25574,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "VertebralArea",
+    "off": 18019,
+    "sff": "4"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "InjuryDevice",
+    "off": 36261,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "VertebralArea",
+    "off": 17190,
+    "sff": "7"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Blade",
+    "off": 19936,
+    "sff": "11"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "InjuryDevice",
+    "off": 36709,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Forceps",
+    "off": 23141,
+    "sff": "5"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "KetamineAsAnaesthetic",
+    "off": 8345,
+    "sff": "ketamine"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "VertebralArea",
+    "off": 13939,
+    "sff": "C2"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "VertebralArea",
+    "off": 18029,
+    "sff": "8"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Compression",
+    "off": 31010,
+    "sff": "compression"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "InjuryDevice",
+    "off": 22235,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "InjuryDevice",
+    "off": 19549,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "C3",
+    "off": 13954,
+    "sff": "C3"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "InjuryDevice",
+    "off": 30998,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "InjuryDevice",
+    "off": 31005,
+    "sff": "cord"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "VertebralArea",
+    "off": 13975,
+    "sff": "C5"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Blade",
+    "off": 5522,
+    "sff": "scalpel"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Anaesthetic",
+    "off": 8327,
+    "sff": "anesthetized"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Laminectomy",
+    "off": 8413,
+    "sff": "laminectomy"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "VertebralArea",
+    "off": 18009,
+    "sff": "8"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "InjuryDevice",
+    "off": 19147,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "InjuryDevice",
+    "off": 19021,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "C5",
+    "off": 19668,
+    "sff": "C5"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "VertebralArea",
+    "off": 18032,
+    "sff": "10"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "AllenWeightDropDevice",
+    "off": 8397,
+    "sff": "technique"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "DorsalHemisection",
+    "off": 9151,
+    "sff": "funiculus"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Xylazine",
+    "off": 8354,
+    "sff": "xylazine"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "C3",
+    "off": 13836,
+    "sff": "C3"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Forceps",
+    "off": 35922,
+    "sff": "5"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "DorsalHemisection",
+    "off": 8997,
+    "sff": "transection"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "C5",
+    "off": 13899,
+    "sff": "C5"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "InjuryDevice",
+    "off": 19386,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Injury",
+    "off": 21684,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Anaesthetic",
+    "off": 7296,
+    "sff": "mouse"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "InjuryDevice",
+    "off": 30006,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "InjuryDevice",
+    "off": 36214,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Forceps",
+    "off": 18292,
+    "sff": "’"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "VertebralArea",
+    "off": 16637,
+    "sff": "C1"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Compression",
+    "off": 36273,
+    "sff": "injury"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "InjuryDevice",
+    "off": 18807,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "C4",
+    "off": 13962,
+    "sff": "C4"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "T10",
+    "off": 6734,
+    "sff": "10"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "InjuryDevice",
+    "off": 27627,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "C5",
+    "off": 13919,
+    "sff": "C5"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "DorsalHemisection",
+    "off": 12125,
+    "sff": "column"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "InjuryDevice",
+    "off": 18854,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "InjuryDevice",
+    "off": 24358,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Forceps",
+    "off": 18293,
+    "sff": "s"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Anaesthetic",
+    "off": 7192,
+    "sff": "mouse"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Injury",
+    "off": 19741,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "VertebralArea",
+    "off": 17133,
+    "sff": "C1"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "InjuryDevice",
+    "off": 22435,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Injury",
+    "off": 26013,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "VertebralArea",
+    "off": 16687,
+    "sff": "C2"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "InjuryDevice",
+    "off": 30569,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "VertebralArea",
+    "off": 13994,
+    "sff": "2"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "InjuryDevice",
+    "off": 24602,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "C1",
+    "off": 6113,
+    "sff": "first"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Compression",
+    "off": 9260,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "VertebralArea",
+    "off": 18022,
+    "sff": "10"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Injury",
+    "off": 20905,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Injury",
+    "off": 14500,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Forceps",
+    "off": 21691,
+    "sff": "5"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Injury",
+    "off": 21543,
+    "sff": "lesion"
+  }
+]

@@ -1,0 +1,524 @@
+[
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "SchwannCell",
+    "off": 8997,
+    "sff": "cells"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "InjectionDelivery",
+    "off": 7456,
+    "sff": "injection"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "InjectionDelivery",
+    "off": 9317,
+    "sff": "injected"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "Cell",
+    "off": 1016,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "Cell",
+    "off": 18003,
+    "sff": "cells"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "Direction",
+    "off": 8841,
+    "sff": "dorsal"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "DeliveryMethod",
+    "off": 27423,
+    "sff": "transplanted"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "Direction",
+    "off": 30028,
+    "sff": "distal"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "SurgeryTreatment",
+    "off": 8654,
+    "sff": "cord"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "Direction",
+    "off": 28863,
+    "sff": "distal"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "InjectionDelivery",
+    "off": 8380,
+    "sff": "intraperitoneal"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "Cell",
+    "off": 20965,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "DosageExtracorporal",
+    "off": 20846,
+    "sff": "6"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "DeliveryMethod",
+    "off": 16624,
+    "sff": "transplanted"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "DosageExtracorporal",
+    "off": 20142,
+    "sff": "5"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "DosageExtracorporal",
+    "off": 30694,
+    "sff": "8"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "Cell",
+    "off": 13977,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "Vehicle",
+    "off": 5579,
+    "sff": "Medium"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "SurgeryTreatment",
+    "off": 12446,
+    "sff": "were"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "CyclosporineA",
+    "off": 7936,
+    "sff": "cyclosporine"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "Cell",
+    "off": 17428,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "DosageExtracorporal",
+    "off": 24144,
+    "sff": "10"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "DosageExtracorporal",
+    "off": 16568,
+    "sff": "1"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "DosageExtracorporal",
+    "off": 21807,
+    "sff": "7"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "Direction",
+    "off": 1000,
+    "sff": "distal"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "Direction",
+    "off": 1493,
+    "sff": "central"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "Cell",
+    "off": 27023,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "SurgeryTreatment",
+    "off": 9498,
+    "sff": "second"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "SurgeryTreatment",
+    "off": 6476,
+    "sff": "surgery"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "Cell",
+    "off": 8458,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "SurgeryTreatment",
+    "off": 8104,
+    "sff": "were"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "Cell",
+    "off": 25862,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "Cell",
+    "off": 18949,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "Cell",
+    "off": 16004,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "SchwannCell",
+    "off": 25625,
+    "sff": "cells"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "Direction",
+    "off": 11862,
+    "sff": "dorsal"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "Cell",
+    "off": 1411,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "SurgeryTreatment",
+    "off": 8942,
+    "sff": "removed"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "DeliveryMethod",
+    "off": 11111,
+    "sff": "placed"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "Direction",
+    "off": 30015,
+    "sff": "proximal"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "Cell",
+    "off": 17308,
+    "sff": "cells"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "SurgeryTreatment",
+    "off": 1023,
+    "sff": "cord"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "Cell",
+    "off": 25022,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "Cell",
+    "off": 27709,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "Direction",
+    "off": 8784,
+    "sff": "dorsal"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "Cell",
+    "off": 11835,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "DosageExtracorporal",
+    "off": 27607,
+    "sff": "4"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "Vehicle",
+    "off": 6812,
+    "sff": "alone"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "Cell",
+    "off": 33461,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "Direction",
+    "off": 25286,
+    "sff": "lateral"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "DeliveryMethod",
+    "off": 16720,
+    "sff": "transplantation"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "SurgeryTreatment",
+    "off": 17597,
+    "sff": "2"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "Cell",
+    "off": 9410,
+    "sff": "skin"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "SurgeryTreatment",
+    "off": 10097,
+    "sff": "5"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "SurgeryTreatment",
+    "off": 10893,
+    "sff": "were"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "DosageExtracorporal",
+    "off": 22627,
+    "sff": "8"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "SurgeryTreatment",
+    "off": 12031,
+    "sff": "cord"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "SchwannCell",
+    "off": 6008,
+    "sff": "cells"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "SurgeryTreatment",
+    "off": 18860,
+    "sff": "4"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "InjectionDelivery",
+    "off": 1212,
+    "sff": "injection"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "DeliveryMethod",
+    "off": 33064,
+    "sff": "injections"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "SurgeryTreatment",
+    "off": 31685,
+    "sff": "second"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "Cell",
+    "off": 17629,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "Direction",
+    "off": 8622,
+    "sff": "lateral"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "Cell",
+    "off": 16604,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 352,
+    "sff": "NSFCs"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "SchwannCell",
+    "off": 5312,
+    "sff": "cells"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "SchwannCell",
+    "off": 5325,
+    "sff": "cells"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "Caudal",
+    "off": 799,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "Direction",
+    "off": 8741,
+    "sff": "lateral"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "Direction",
+    "off": 8485,
+    "sff": "dorsal"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "SchwannCell",
+    "off": 5961,
+    "sff": "cells"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "DeliveryMethod",
+    "off": 17742,
+    "sff": "transplantation"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "Cell",
+    "off": 26578,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "Direction",
+    "off": 19617,
+    "sff": "lateral"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "Cell",
+    "off": 28879,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "DosageExtracorporal",
+    "off": 28286,
+    "sff": "5"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "SurgeryTreatment",
+    "off": 7135,
+    "sff": "were"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "DeliveryMethod",
+    "off": 5430,
+    "sff": "transplantation"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "Vehicle",
+    "off": 5610,
+    "sff": "serum"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "DosageExtracorporal",
+    "off": 18428,
+    "sff": "3"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "Cell",
+    "off": 13767,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "Cell",
+    "off": 8647,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "Direction",
+    "off": 16149,
+    "sff": "lateral"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "DosageExtracorporal",
+    "off": 29703,
+    "sff": "1"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "DosageExtracorporal",
+    "off": 27395,
+    "sff": "3"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "SchwannCell",
+    "off": 345,
+    "sff": "cells"
+  }
+]

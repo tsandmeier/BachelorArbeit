@@ -1,0 +1,416 @@
+[
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "NYUImpactor",
+    "off": 3483,
+    "sff": "University"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "Compression",
+    "off": 883,
+    "sff": "injury"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "Anaesthetic",
+    "off": 7261,
+    "sff": "anesthetized"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "Anaesthetic",
+    "off": 206,
+    "sff": "sulfate"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "Anaesthetic",
+    "off": 12104,
+    "sff": "sulfate"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "InjuryDevice",
+    "off": 22633,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "NYUImpactor",
+    "off": 8860,
+    "sff": "University"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "C3",
+    "off": 12514,
+    "sff": "C3"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "Forceps",
+    "off": 22213,
+    "sff": "N"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "Compression",
+    "off": 6868,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "C4",
+    "off": 7363,
+    "sff": "C4"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "C3",
+    "off": 6884,
+    "sff": "C3"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "C3",
+    "off": 7908,
+    "sff": "C3"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "Injury",
+    "off": 13506,
+    "sff": "injury"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "Forceps",
+    "off": 22093,
+    "sff": "N"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "T10",
+    "off": 22191,
+    "sff": "T"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "Injury",
+    "off": 13202,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "InjuryDevice",
+    "off": 22863,
+    "sff": "cord"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "Forceps",
+    "off": 22515,
+    "sff": "N"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "VertebralArea",
+    "off": 15688,
+    "sff": "2"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "Injury",
+    "off": 22392,
+    "sff": "injury"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "Anaesthetic",
+    "off": 1776,
+    "sff": "sulfate"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "InjuryDevice",
+    "off": 10049,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "InjuryDevice",
+    "off": 7180,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "VertebralArea",
+    "off": 11840,
+    "sff": "C2"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "VertebralArea",
+    "off": 12093,
+    "sff": "2"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "InjuryDevice",
+    "off": 10625,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "Compression",
+    "off": 22868,
+    "sff": "injury"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "Anaesthetic",
+    "off": 2153,
+    "sff": "sulfate"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "InjuryDevice",
+    "off": 22856,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "Injury",
+    "off": 22645,
+    "sff": "injury"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "InjuryDevice",
+    "off": 13316,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "Blade",
+    "off": 9344,
+    "sff": "11"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "Blade",
+    "off": 7925,
+    "sff": "surgical"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "Forceps",
+    "off": 16573,
+    "sff": "5"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "InfiniteHorizonImpactor",
+    "off": 7897,
+    "sff": "tip"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "C7",
+    "off": 6964,
+    "sff": "C"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "Anaesthetic",
+    "off": 1415,
+    "sff": "sulfate"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "Injury",
+    "off": 7083,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "C4",
+    "off": 7459,
+    "sff": "C4"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "Blade",
+    "off": 7549,
+    "sff": "fine"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "InjuryDevice",
+    "off": 22640,
+    "sff": "cord"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "InjuryDevice",
+    "off": 8026,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "InjuryDevice",
+    "off": 11879,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "Injury",
+    "off": 13278,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "Blade",
+    "off": 1303,
+    "sff": "11"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "PartialTransection",
+    "off": 7576,
+    "sff": "2"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "InjuryDevice",
+    "off": 16821,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "Xylazine",
+    "off": 7336,
+    "sff": "xylazine"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "InjuryDevice",
+    "off": 7599,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "Blade",
+    "off": 9187,
+    "sff": "small"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "VertebralArea",
+    "off": 6275,
+    "sff": "4"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "VertebralArea",
+    "off": 2436,
+    "sff": "4"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "Compression",
+    "off": 6855,
+    "sff": "dorsolateral"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "Blade",
+    "off": 7555,
+    "sff": "micro-blade"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "C3",
+    "off": 7452,
+    "sff": "C3"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "C3",
+    "off": 2433,
+    "sff": "C3"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "DorsalHemisection",
+    "off": 7509,
+    "sff": "cut"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "InjuryDevice",
+    "off": 16828,
+    "sff": "cord"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "Forceps",
+    "off": 7539,
+    "sff": "sharpened"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "C3",
+    "off": 6272,
+    "sff": "C3"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "DorsalHemisection",
+    "off": 7687,
+    "sff": "dorsal columns"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "VertebralArea",
+    "off": 13172,
+    "sff": "C2"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "InjuryDevice",
+    "off": 10589,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "VertebralArea",
+    "off": 16494,
+    "sff": "4"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "Injury",
+    "off": 16629,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "VertebralArea",
+    "off": 13288,
+    "sff": "C6"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "VertebralArea",
+    "off": 6887,
+    "sff": "4"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "KetamineAsAnaesthetic",
+    "off": 7311,
+    "sff": "ketamine"
+  }
+]

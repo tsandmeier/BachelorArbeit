@@ -1,0 +1,596 @@
+[
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Caudal",
+    "off": 16066,
+    "sff": "posterior"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "SurgeryTreatment",
+    "off": 20814,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "SchwannCell",
+    "off": 20426,
+    "sff": "cells"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Cell",
+    "off": 28273,
+    "sff": "cells"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Cell",
+    "off": 5734,
+    "sff": "cells"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Cell",
+    "off": 6578,
+    "sff": "nerve"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Cell",
+    "off": 16477,
+    "sff": "cells"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Cell",
+    "off": 14165,
+    "sff": "cells"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Cell",
+    "off": 16253,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "SchwannCell",
+    "off": 19424,
+    "sff": "cells"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "SurgeryTreatment",
+    "off": 15471,
+    "sff": "scar"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Cell",
+    "off": 12876,
+    "sff": "cells"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "SurgeryTreatment",
+    "off": 28719,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "SchwannCell",
+    "off": 7144,
+    "sff": "cells"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Cell",
+    "off": 26951,
+    "sff": "cells"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "SurgeryTreatment",
+    "off": 17027,
+    "sff": "were"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Cell",
+    "off": 23656,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "SurgeryTreatment",
+    "off": 14915,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Cell",
+    "off": 26184,
+    "sff": "cells"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "SchwannCell",
+    "off": 20221,
+    "sff": "cells"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Cell",
+    "off": 21308,
+    "sff": "cells"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Cell",
+    "off": 9288,
+    "sff": "skin"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Cell",
+    "off": 20919,
+    "sff": "cells"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Caudal",
+    "off": 15618,
+    "sff": "posterior"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "SchwannCell",
+    "off": 8323,
+    "sff": "cells"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "SchwannCell",
+    "off": 19840,
+    "sff": "cells"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "DeliveryMethod",
+    "off": 13938,
+    "sff": "transplanted"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Cell",
+    "off": 15700,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Caudal",
+    "off": 13306,
+    "sff": "posterior"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "SchwannCell",
+    "off": 20107,
+    "sff": "cells"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Vehicle",
+    "off": 5855,
+    "sff": "DMEM-F12"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "SchwannCell",
+    "off": 6289,
+    "sff": "cells"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Cell",
+    "off": 26025,
+    "sff": "cells"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "DeliveryMethod",
+    "off": 1285,
+    "sff": "transplantation"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Cell",
+    "off": 26269,
+    "sff": "cells"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Cell",
+    "off": 19266,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "SchwannCell",
+    "off": 1956,
+    "sff": "cells"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "SurgeryTreatment",
+    "off": 15847,
+    "sff": "5"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Caudal",
+    "off": 9220,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Cell",
+    "off": 28047,
+    "sff": "cells"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Cell",
+    "off": 6740,
+    "sff": "nerve"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Cell",
+    "off": 18231,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Cell",
+    "off": 27789,
+    "sff": "cells"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Cell",
+    "off": 17296,
+    "sff": "cells"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Cell",
+    "off": 15919,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Cell",
+    "off": 11566,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Caudal",
+    "off": 19468,
+    "sff": "posterior"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "DeliveryMethod",
+    "off": 9109,
+    "sff": "delivered"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Rostral",
+    "off": 9203,
+    "sff": "cranial"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Cell",
+    "off": 28287,
+    "sff": "cells"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "SurgeryTreatment",
+    "off": 23966,
+    "sff": "previous"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Cell",
+    "off": 25213,
+    "sff": "cells"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "SurgeryTreatment",
+    "off": 23452,
+    "sff": "previous"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "SurgeryTreatment",
+    "off": 15707,
+    "sff": "cord"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Cell",
+    "off": 22294,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Cell",
+    "off": 27886,
+    "sff": "cells"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Rostral",
+    "off": 19694,
+    "sff": "anterior"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "SchwannCell",
+    "off": 23636,
+    "sff": "cells"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Cell",
+    "off": 28133,
+    "sff": "cells"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Rostral",
+    "off": 19671,
+    "sff": "anterior"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "SchwannCell",
+    "off": 593,
+    "sff": "cells"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Caudal",
+    "off": 19500,
+    "sff": "posterior"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Cell",
+    "off": 7474,
+    "sff": "nerve"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Cell",
+    "off": 8424,
+    "sff": "cells"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "SchwannCell",
+    "off": 92,
+    "sff": "cells"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Cell",
+    "off": 27613,
+    "sff": "cells"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Cell",
+    "off": 21475,
+    "sff": "cells"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "DeliveryMethod",
+    "off": 6880,
+    "sff": "placed"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "SchwannCell",
+    "off": 23547,
+    "sff": "Schwann cells"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "InjectionDelivery",
+    "off": 1137,
+    "sff": "injected"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Caudal",
+    "off": 21347,
+    "sff": "posterior"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Cell",
+    "off": 25853,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Cell",
+    "off": 20943,
+    "sff": "cells"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "SurgeryTreatment",
+    "off": 15926,
+    "sff": "cord"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "SchwannCell",
+    "off": 15981,
+    "sff": "cells"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "SchwannCell",
+    "off": 7027,
+    "sff": "cells"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 639,
+    "sff": "OEC"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "SchwannCell",
+    "off": 7281,
+    "sff": "cells"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Cell",
+    "off": 23485,
+    "sff": "cells"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "SchwannCell",
+    "off": 632,
+    "sff": "cells"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Cell",
+    "off": 19394,
+    "sff": "cells"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "SurgeryTreatment",
+    "off": 18967,
+    "sff": "injury"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Cell",
+    "off": 25654,
+    "sff": "cells"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Cell",
+    "off": 27961,
+    "sff": "cells"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "SchwannCell",
+    "off": 15871,
+    "sff": "cells"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "SchwannCell",
+    "off": 17407,
+    "sff": "cells"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "SchwannCell",
+    "off": 20754,
+    "sff": "cells"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "SchwannCell",
+    "off": 1818,
+    "sff": "cells"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Vehicle",
+    "off": 5920,
+    "sff": "serum"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "SurgeryTreatment",
+    "off": 23252,
+    "sff": "being"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Caudal",
+    "off": 16034,
+    "sff": "posterior"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "SurgeryTreatment",
+    "off": 19964,
+    "sff": "cord"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "SchwannCell",
+    "off": 2349,
+    "sff": "cells"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "SchwannCell",
+    "off": 23495,
+    "sff": "Schwann cells"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Cell",
+    "off": 9136,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "SchwannCell",
+    "off": 53,
+    "sff": "cells"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Cell",
+    "off": 2314,
+    "sff": "cells"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "SchwannCell",
+    "off": 20270,
+    "sff": "cells"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "DeliveryMethod",
+    "off": 13835,
+    "sff": "transplanted"
+  }
+]

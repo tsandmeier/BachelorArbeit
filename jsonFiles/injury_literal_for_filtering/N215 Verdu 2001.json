@@ -1,0 +1,326 @@
+[
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "LightSource",
+    "off": 4825,
+    "sff": "source"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "T12",
+    "off": 4379,
+    "sff": "T12"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "L1",
+    "off": 6954,
+    "sff": "L1"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "Clip",
+    "off": 3986,
+    "sff": "modified"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "VertebralArea",
+    "off": 797,
+    "sff": "levels"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "L1",
+    "off": 440,
+    "sff": "L1"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "InjuryDevice",
+    "off": 8289,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "Forceps",
+    "off": 10389,
+    "sff": "5"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "Blade",
+    "off": 11870,
+    "sff": "small"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "VertebralArea",
+    "off": 778,
+    "sff": "T10"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "LightSource",
+    "off": 4726,
+    "sff": "optic"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "InjuryDevice",
+    "off": 13138,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "T12",
+    "off": 11255,
+    "sff": "T12"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "Compression",
+    "off": 10347,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "T12",
+    "off": 9595,
+    "sff": "T12"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "InjuryDevice",
+    "off": 13600,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "L1",
+    "off": 11854,
+    "sff": "L1"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "PartialTransection",
+    "off": 4982,
+    "sff": "bilateral"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "T10",
+    "off": 955,
+    "sff": "T10"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "Clip",
+    "off": 6005,
+    "sff": "modified"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "L1",
+    "off": 13527,
+    "sff": "L1"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "T12",
+    "off": 12393,
+    "sff": "T12"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "VertebralArea",
+    "off": 6945,
+    "sff": "T10"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "Compression",
+    "off": 742,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "L1",
+    "off": 5088,
+    "sff": "L1"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "L1",
+    "off": 10078,
+    "sff": "L1"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "Blade",
+    "off": 5440,
+    "sff": "small"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "L1",
+    "off": 869,
+    "sff": "L1"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "L1",
+    "off": 739,
+    "sff": "L1"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "SodiumPentobarbital",
+    "off": 4185,
+    "sff": "sodium pentobarbital"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "InjuryByAccident",
+    "off": 455,
+    "sff": "severe"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "T12",
+    "off": 5081,
+    "sff": "T12"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "T12",
+    "off": 10074,
+    "sff": "T12"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "L1",
+    "off": 12397,
+    "sff": "L1"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "T12",
+    "off": 865,
+    "sff": "T12"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "T12",
+    "off": 11850,
+    "sff": "T12"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "Compression",
+    "off": 10217,
+    "sff": "funiculus"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "L1",
+    "off": 11259,
+    "sff": "L1"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "NYUImpactor",
+    "off": 5230,
+    "sff": "II"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "L1",
+    "off": 9600,
+    "sff": "L1"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "T12",
+    "off": 436,
+    "sff": "T12"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "Anaesthetic",
+    "off": 7433,
+    "sff": "mouse"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "VertebralArea",
+    "off": 10064,
+    "sff": "T10"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "Injury",
+    "off": 8203,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "PhotochemicalInjury",
+    "off": 4909,
+    "sff": "illuminated"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "Anaesthetic",
+    "off": 4167,
+    "sff": "anesthetized"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "InjuryDevice",
+    "off": 6475,
+    "sff": "needle"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "Compression",
+    "off": 1507,
+    "sff": "injury"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "Compression",
+    "off": 416,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "T12",
+    "off": 6950,
+    "sff": "T12"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "PhotochemicalInjury",
+    "off": 9461,
+    "sff": "Spinal"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "Anaesthetic",
+    "off": 6714,
+    "sff": "anesthetized"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "InjuryByAccident",
+    "off": 8746,
+    "sff": "five"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "L1",
+    "off": 4383,
+    "sff": "L1"
+  }
+]

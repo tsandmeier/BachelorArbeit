@@ -1,0 +1,596 @@
+[
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Cell",
+    "off": 12669,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Cell",
+    "off": 15112,
+    "sff": "fibroblasts"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Cell",
+    "off": 18047,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "SchwannCell",
+    "off": 17821,
+    "sff": "cells"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "SchwannCell",
+    "off": 15761,
+    "sff": "cells"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Cell",
+    "off": 6000,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "SurgeryTreatment",
+    "off": 18967,
+    "sff": "were"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Cell",
+    "off": 14197,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Cell",
+    "off": 15964,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "SchwannCell",
+    "off": 644,
+    "sff": "cells"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Cell",
+    "off": 7007,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Cell",
+    "off": 2187,
+    "sff": "nerve"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Cell",
+    "off": 9552,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "SchwannCell",
+    "off": 702,
+    "sff": "nerve"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Rostral",
+    "off": 18468,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "DeliveryMethod",
+    "off": 17735,
+    "sff": "transplanted"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Cell",
+    "off": 17496,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Cell",
+    "off": 21334,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Cell",
+    "off": 18834,
+    "sff": "cells"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Vehicle",
+    "off": 5120,
+    "sff": "12"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "SchwannCell",
+    "off": 15591,
+    "sff": "cells"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Cell",
+    "off": 20036,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "DeliveryMethod",
+    "off": 5860,
+    "sff": "transplantation"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Cell",
+    "off": 1579,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "SurgeryTreatment",
+    "off": 11833,
+    "sff": "2"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Rostral",
+    "off": 6965,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "SchwannCell",
+    "off": 11479,
+    "sff": "cells"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "DeliveryMethod",
+    "off": 7410,
+    "sff": "transplantation"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "SchwannCell",
+    "off": 5069,
+    "sff": "cells"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "SurgeryTreatment",
+    "off": 21341,
+    "sff": "cord"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Cell",
+    "off": 14365,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Cell",
+    "off": 1306,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Cell",
+    "off": 4923,
+    "sff": "nerve"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Rostral",
+    "off": 13418,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Cell",
+    "off": 12832,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Cell",
+    "off": 2080,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "SchwannCell",
+    "off": 17594,
+    "sff": "cells"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Cell",
+    "off": 20589,
+    "sff": "cells"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Cell",
+    "off": 20005,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "SchwannCell",
+    "off": 5816,
+    "sff": "cells"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "InjectionDelivery",
+    "off": 9583,
+    "sff": "injection"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "SchwannCell",
+    "off": 16822,
+    "sff": "cells"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "SurgeryTreatment",
+    "off": 19142,
+    "sff": "were"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Caudal",
+    "off": 6365,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Cell",
+    "off": 19068,
+    "sff": "cells"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Cell",
+    "off": 15891,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Cell",
+    "off": 15226,
+    "sff": "cells"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Cell",
+    "off": 12311,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Cell",
+    "off": 8698,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Cell",
+    "off": 21243,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "DeliveryMethod",
+    "off": 5404,
+    "sff": "transplantation"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "SurgeryTreatment",
+    "off": 20627,
+    "sff": "gap"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Cell",
+    "off": 19208,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "SurgeryTreatment",
+    "off": 18866,
+    "sff": "were"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Cell",
+    "off": 8201,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Caudal",
+    "off": 13140,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "SurgeryTreatment",
+    "off": 20292,
+    "sff": "between"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Caudal",
+    "off": 6976,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Cell",
+    "off": 13048,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 651,
+    "sff": "OEC"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "SchwannCell",
+    "off": 1280,
+    "sff": "cells"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 2136,
+    "sff": "OEC"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "SchwannCell",
+    "off": 15610,
+    "sff": "cells"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Caudal",
+    "off": 18479,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "SchwannCell",
+    "off": 7932,
+    "sff": "cells"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Caudal",
+    "off": 13846,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Cell",
+    "off": 1232,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Cell",
+    "off": 7869,
+    "sff": "cells"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Cell",
+    "off": 20668,
+    "sff": "cells"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Cell",
+    "off": 15034,
+    "sff": "cells"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "SurgeryTreatment",
+    "off": 19074,
+    "sff": "were"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Cell",
+    "off": 1753,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Cell",
+    "off": 9431,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Conduit",
+    "off": 20396,
+    "sff": "parallel"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Cell",
+    "off": 1469,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "SchwannCell",
+    "off": 17254,
+    "sff": "cells"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Cell",
+    "off": 18961,
+    "sff": "cells"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Caudal",
+    "off": 14322,
+    "sff": "caudally"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Cell",
+    "off": 18117,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "SchwannCell",
+    "off": 15705,
+    "sff": "cells"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "InjectionDelivery",
+    "off": 18088,
+    "sff": "injected"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Rostral",
+    "off": 6330,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "SchwannCell",
+    "off": 2129,
+    "sff": "cells"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Cell",
+    "off": 12459,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "DeliveryMethod",
+    "off": 6683,
+    "sff": "delivered"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Cell",
+    "off": 2215,
+    "sff": "peripheral"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "SchwannCell",
+    "off": 17748,
+    "sff": "cells"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Cell",
+    "off": 5057,
+    "sff": "dissociated"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Cell",
+    "off": 6067,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "DosageExtracorporal",
+    "off": 12808,
+    "sff": "OEC"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "SurgeryTreatment",
+    "off": 17675,
+    "sff": "4"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Rostral",
+    "off": 13808,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Cell",
+    "off": 13478,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Cell",
+    "off": 18436,
+    "sff": "cells"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "SchwannCell",
+    "off": 17205,
+    "sff": "cells"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Rostral",
+    "off": 12259,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Cell",
+    "off": 13973,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "SchwannCell",
+    "off": 17454,
+    "sff": "cells"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Cell",
+    "off": 11929,
+    "sff": "spinal"
+  }
+]
