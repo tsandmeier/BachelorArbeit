@@ -432,9 +432,9 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
          *
          * NOTE: Make sure that the base model directory exists!
          */
-        final File modelBaseDir = new File("models/nerla/");
+        final File modelBaseDir = new File("models/nerla/trained_literal");
 //        final String modelName = "NERLA1234" + new Random().nextInt(10000);
-//        final String modelName = "NERLA12341332";
+        final String modelName = typeOfTopic;
 
         Model model;
 
@@ -500,18 +500,27 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
         crf.changeObjectiveFunction(new NerlaObjectiveFunctionPartialOverlap(evaluationDetail));
 
 
-        Map<Instance, State> results = crf.predictHighRecall(instanceProvider.getInstances(), recallFactor, maxStepCrit,
+        Map<Instance, State> results = crf.predictHighRecall(instanceProvider.getInstances(), 50, maxStepCrit,
                 noModelChangeCrit);
 
         /*
           Finally, we evaluate the produced states and print some statistics.
          */
 
-//        writeToJson(results, "jsonFiles/group_name/high_recall_50/");
+        writeToJson(results, "jsonFiles/group_name/predict_high_recall_50/");
 
-        new FilterForSuperEntities(results).filterOrganismModel();
+        results = crf.predict(instanceProvider.getInstances(), maxStepCrit,
+                noModelChangeCrit);
 
-//        mean = evaluate(log, results);
+        /*
+          Finally, we evaluate the produced states and print some statistics.
+         */
+
+        writeToJson(results, "jsonFiles/group_name/predictions_normal/");
+
+//        new FilterForSuperEntities(results).filterOrganismModel();
+
+        mean = evaluate(log, results);
 //
 //        log.info(crf.getTrainingStatistics());
 //        log.info(crf.getTestStatistics());
