@@ -1,0 +1,5 @@
+#Entity	Slot	SlotSuperEntityType
+Significance	hasAlphaSignificanceNiveau	AlphaSignificanceNiveau
+Significance	hasPValue	PValue
+Trend	hasDifference	ObservedDifference
+Trend	hasSignificance	Significance

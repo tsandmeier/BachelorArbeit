@@ -1,0 +1,17 @@
+#superClass	subClass
+Significance	ZeroSignificance
+ObservedDifference	Lower
+ObservedDifference	Slower
+ObservedDifference	Faster
+ObservedDifference	UnspecifiedDifference
+ObservedDifference	SlowerDecrease
+ObservedDifference	SlowerIncrease
+Trend	SingleMeasureTrend
+ObservedDifference	FasterDecrease
+Significance	PositiveSignificance
+ObservedDifference	None
+ObservedDifference	NotPresent
+Trend	RepeatedMeasureTrend
+ObservedDifference	Present
+ObservedDifference	Higher
+ObservedDifference	FasterIncrease

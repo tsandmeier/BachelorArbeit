@@ -1,0 +1,7 @@
+#Entity	Slot	SlotSuperEntityType
+AnatomicalLocation	hasDepth	Depth
+AnatomicalLocation	hasDistance	Distance
+DeliveryMethod	hasDuration	Duration
+DeliveryMethod	hasLocations	Location
+VertebralArea	hasLowerVertebrae	Vertebrae
+VertebralArea	hasUpperVertebrae	Vertebrae

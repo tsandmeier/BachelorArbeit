@@ -1,0 +1,3 @@
+#Entity	Slot	SlotSuperEntityType
+VertebralArea	hasLowerVertebrae	Vertebrae
+VertebralArea	hasUpperVertebrae	Vertebrae
