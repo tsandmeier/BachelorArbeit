@@ -1,0 +1,32 @@
+[
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "GroupName",
+    "off": 43306,
+    "sff": "lesion only animals"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "GroupName",
+    "off": 34326,
+    "sff": "engrafted animals"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "GroupName",
+    "off": 9136,
+    "sff": "control group"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "GroupName",
+    "off": 1243,
+    "sff": "lesion controls"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "GroupName",
+    "off": 34467,
+    "sff": "lesion only animals"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "docID": "N220 Ruitenberg 2003",
+    "et": "GroupName",
+    "off": 56696,
+    "sff": "controls"
+  },
+  {
+    "docID": "N220 Ruitenberg 2003",
+    "et": "GroupName",
+    "off": 18330,
+    "sff": "AdV-BDNF"
+  },
+  {
+    "docID": "N220 Ruitenberg 2003",
+    "et": "GroupName",
+    "off": 18037,
+    "sff": "uninfected OEG"
+  },
+  {
+    "docID": "N220 Ruitenberg 2003",
+    "et": "GroupName",
+    "off": 18064,
+    "sff": "AdV-LacZ-transduced OEG"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "docID": "N207 Takeoka 2010",
+    "et": "GroupName",
+    "off": 8211,
+    "sff": "media-untrained"
+  },
+  {
+    "docID": "N207 Takeoka 2010",
+    "et": "GroupName",
+    "off": 28466,
+    "sff": "media-untrained"
+  },
+  {
+    "docID": "N207 Takeoka 2010",
+    "et": "GroupName",
+    "off": 8243,
+    "sff": "OEG-untrained"
+  },
+  {
+    "docID": "N207 Takeoka 2010",
+    "et": "GroupName",
+    "off": 8262,
+    "sff": "OEG-trained"
+  },
+  {
+    "docID": "N207 Takeoka 2010",
+    "et": "GroupName",
+    "off": 8228,
+    "sff": "media-trained"
+  }
+]

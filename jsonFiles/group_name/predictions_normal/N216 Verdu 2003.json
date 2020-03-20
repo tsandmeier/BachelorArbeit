@@ -1,0 +1,32 @@
+[
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "GroupName",
+    "off": 1448,
+    "sff": "DMEM-injected rats"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "GroupName",
+    "off": 22217,
+    "sff": "OECs-transplanted rats"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "GroupName",
+    "off": 9812,
+    "sff": "group DMEM"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "GroupName",
+    "off": 18526,
+    "sff": "OEC rats"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "GroupName",
+    "off": 21844,
+    "sff": "OEC groups"
+  }
+]

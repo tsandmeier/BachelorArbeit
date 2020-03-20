@@ -1,0 +1,26 @@
+[
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "GroupName",
+    "off": 7193,
+    "sff": "control group"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "GroupName",
+    "off": 12579,
+    "sff": "test group"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "GroupName",
+    "off": 12642,
+    "sff": "control rats"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "GroupName",
+    "off": 7222,
+    "sff": "test group"
+  }
+]

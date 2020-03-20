@@ -1,0 +1,32 @@
+[
+  {
+    "docID": "N166 Li 2011",
+    "et": "GroupName",
+    "off": 15186,
+    "sff": "OEC group"
+  },
+  {
+    "docID": "N166 Li 2011",
+    "et": "GroupName",
+    "off": 1809,
+    "sff": "DMEM-injected animals"
+  },
+  {
+    "docID": "N166 Li 2011",
+    "et": "GroupName",
+    "off": 16900,
+    "sff": "DMEM group"
+  },
+  {
+    "docID": "N166 Li 2011",
+    "et": "GroupName",
+    "off": 23030,
+    "sff": "OEC group"
+  },
+  {
+    "docID": "N166 Li 2011",
+    "et": "GroupName",
+    "off": 1924,
+    "sff": "DMEM-rats"
+  }
+]

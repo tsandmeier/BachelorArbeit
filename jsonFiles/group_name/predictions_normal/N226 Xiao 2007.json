@@ -1,0 +1,26 @@
+[
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "GroupName",
+    "off": 22120,
+    "sff": "NSFCs-engrafted animal"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "GroupName",
+    "off": 22079,
+    "sff": "lesion-matrix-only"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "GroupName",
+    "off": 24772,
+    "sff": "animals"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "GroupName",
+    "off": 654,
+    "sff": "control rats"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "GroupName",
+    "off": 17716,
+    "sff": "Schwann cell transplantation"
+  },
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "GroupName",
+    "off": 24294,
+    "sff": "transected spinal cords injected with control media"
+  },
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "GroupName",
+    "off": 26390,
+    "sff": "Schwann cells"
+  },
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "GroupName",
+    "off": 19799,
+    "sff": "control"
+  }
+]

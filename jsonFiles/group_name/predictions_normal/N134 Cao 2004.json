@@ -1,0 +1,32 @@
+[
+  {
+    "docID": "N134 Cao 2004",
+    "et": "GroupName",
+    "off": 28679,
+    "sff": "DMEM group"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "GroupName",
+    "off": 35696,
+    "sff": "GDNF OEC group"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "GroupName",
+    "off": 39349,
+    "sff": "OEC group"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "GroupName",
+    "off": 39223,
+    "sff": "control group"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "GroupName",
+    "off": 28077,
+    "sff": "those receiving normal OECs"
+  }
+]

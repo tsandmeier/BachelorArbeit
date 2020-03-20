@@ -1,0 +1,26 @@
+[
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "GroupName",
+    "off": 9448,
+    "sff": "mock-transplanted rats"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "GroupName",
+    "off": 23181,
+    "sff": "unlesioned control animals"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "GroupName",
+    "off": 21444,
+    "sff": "mock-transplanted animals"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "GroupName",
+    "off": 7031,
+    "sff": "10"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "GroupName",
+    "off": 1433,
+    "sff": "control groups"
+  },
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "GroupName",
+    "off": 15970,
+    "sff": "OECs-injected group"
+  },
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "GroupName",
+    "off": 1393,
+    "sff": "coinjected group"
+  },
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "GroupName",
+    "off": 17931,
+    "sff": "co-transplanted group"
+  },
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "GroupName",
+    "off": 8201,
+    "sff": "mixed EPI-NCSCs-OECs"
+  }
+]

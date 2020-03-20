@@ -1,0 +1,320 @@
+[
+  {
+    "docID": "N167 Li 2012",
+    "et": "GroupName",
+    "off": 21421,
+    "sff": "DMEM group"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "GroupName",
+    "off": 17572,
+    "sff": "injection"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "GroupName",
+    "off": 10849,
+    "sff": "PBS"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "GroupName",
+    "off": 10477,
+    "sff": "PBS"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "GroupName",
+    "off": 21644,
+    "sff": "group"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "GroupName",
+    "off": 16291,
+    "sff": "control"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "GroupName",
+    "off": 20239,
+    "sff": "group"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "GroupName",
+    "off": 14496,
+    "sff": "SCs"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "GroupName",
+    "off": 8426,
+    "sff": "control animals"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "GroupName",
+    "off": 11626,
+    "sff": "animal"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "GroupName",
+    "off": 8195,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "GroupName",
+    "off": 21639,
+    "sff": "DMEM group"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "GroupName",
+    "off": 15556,
+    "sff": "d"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "GroupName",
+    "off": 17222,
+    "sff": "d"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "GroupName",
+    "off": 19309,
+    "sff": "week"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "GroupName",
+    "off": 19476,
+    "sff": "injection"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "GroupName",
+    "off": 11912,
+    "sff": "treatment groups"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "GroupName",
+    "off": 287,
+    "sff": "Schwann cells"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "GroupName",
+    "off": 16502,
+    "sff": "level"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "GroupName",
+    "off": 20978,
+    "sff": "controls"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "GroupName",
+    "off": 21523,
+    "sff": "OECs group"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "GroupName",
+    "off": 7981,
+    "sff": "surgery"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "GroupName",
+    "off": 14003,
+    "sff": "d"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "GroupName",
+    "off": 15113,
+    "sff": "SCs"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "GroupName",
+    "off": 14336,
+    "sff": "OECs"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "GroupName",
+    "off": 19385,
+    "sff": "d"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "GroupName",
+    "off": 21474,
+    "sff": "group"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "GroupName",
+    "off": 21581,
+    "sff": "SCs"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "GroupName",
+    "off": 8805,
+    "sff": "saline"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "GroupName",
+    "off": 14032,
+    "sff": "cell"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "GroupName",
+    "off": 21668,
+    "sff": "d"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "GroupName",
+    "off": 19927,
+    "sff": "SCs"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "GroupName",
+    "off": 18929,
+    "sff": "SCs group"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "GroupName",
+    "off": 8411,
+    "sff": "injection"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "GroupName",
+    "off": 16306,
+    "sff": "group"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "GroupName",
+    "off": 20546,
+    "sff": "transplantation"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "GroupName",
+    "off": 21470,
+    "sff": "SCs"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "GroupName",
+    "off": 15496,
+    "sff": "SCs group"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "GroupName",
+    "off": 14177,
+    "sff": "SCs"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "GroupName",
+    "off": 15121,
+    "sff": "d"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "GroupName",
+    "off": 16611,
+    "sff": "SCs"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "GroupName",
+    "off": 15473,
+    "sff": "OECs group"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "GroupName",
+    "off": 16246,
+    "sff": "DMEM group"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "GroupName",
+    "off": 18588,
+    "sff": "cord"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "GroupName",
+    "off": 17370,
+    "sff": "OECs"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "GroupName",
+    "off": 19927,
+    "sff": "SCs group"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "GroupName",
+    "off": 19500,
+    "sff": "OECs"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "GroupName",
+    "off": 16261,
+    "sff": "d"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "GroupName",
+    "off": 15706,
+    "sff": "OECs group"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "GroupName",
+    "off": 18666,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "GroupName",
+    "off": 2022,
+    "sff": "SCI"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "GroupName",
+    "off": 19033,
+    "sff": "OECs group"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "GroupName",
+    "off": 21470,
+    "sff": "SCs group"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "GroupName",
+    "off": 11719,
+    "sff": "media-untrained"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "GroupName",
+    "off": 28401,
+    "sff": "media-trained"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "GroupName",
+    "off": 28453,
+    "sff": "OEG-trained"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "GroupName",
+    "off": 26766,
+    "sff": "OEG-trained rats"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "GroupName",
+    "off": 28425,
+    "sff": "OEG-untrained"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "GroupName",
+    "off": 28376,
+    "sff": "media-untrained"
+  }
+]

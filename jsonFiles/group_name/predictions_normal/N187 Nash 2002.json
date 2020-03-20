@@ -1,0 +1,32 @@
+[
+  {
+    "docID": "N187 Nash 2002",
+    "et": "GroupName",
+    "off": 31571,
+    "sff": "EC group"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "GroupName",
+    "off": 25641,
+    "sff": "sham group"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "GroupName",
+    "off": 8042,
+    "sff": "EC"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "GroupName",
+    "off": 7931,
+    "sff": "sham"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "GroupName",
+    "off": 8515,
+    "sff": "sham group"
+  }
+]

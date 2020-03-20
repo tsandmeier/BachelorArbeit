@@ -1,0 +1,32 @@
+[
+  {
+    "docID": "N131 Boyd 2004",
+    "et": "GroupName",
+    "off": 9394,
+    "sff": "vehicle control solution"
+  },
+  {
+    "docID": "N131 Boyd 2004",
+    "et": "GroupName",
+    "off": 9469,
+    "sff": "LacZ-expressing OECs"
+  },
+  {
+    "docID": "N131 Boyd 2004",
+    "et": "GroupName",
+    "off": 9434,
+    "sff": "uninfected OECs"
+  },
+  {
+    "docID": "N131 Boyd 2004",
+    "et": "GroupName",
+    "off": 9582,
+    "sff": "animals that received vehicle injection alone"
+  },
+  {
+    "docID": "N131 Boyd 2004",
+    "et": "GroupName",
+    "off": 9790,
+    "sff": "controls"
+  }
+]

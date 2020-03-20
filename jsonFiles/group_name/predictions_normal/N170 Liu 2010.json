@@ -1,0 +1,32 @@
+[
+  {
+    "docID": "N170 Liu 2010",
+    "et": "GroupName",
+    "off": 600,
+    "sff": "controls"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "GroupName",
+    "off": 12749,
+    "sff": "OTG"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "GroupName",
+    "off": 12952,
+    "sff": "DCG"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "GroupName",
+    "off": 12117,
+    "sff": "TCG"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "GroupName",
+    "off": 11612,
+    "sff": "OTG transplantation group"
+  }
+]

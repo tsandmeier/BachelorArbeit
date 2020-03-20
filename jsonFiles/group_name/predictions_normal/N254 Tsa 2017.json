@@ -1,0 +1,26 @@
+[
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "GroupName",
+    "off": 980,
+    "sff": "AdPGIS-OEC"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "GroupName",
+    "off": 30356,
+    "sff": "vehicle-treated SCI rats"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "GroupName",
+    "off": 1294,
+    "sff": "nontreated SCI rats"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "GroupName",
+    "off": 29876,
+    "sff": "OEC graft only"
+  }
+]

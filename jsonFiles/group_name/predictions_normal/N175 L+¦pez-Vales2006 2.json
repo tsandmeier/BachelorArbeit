@@ -1,0 +1,32 @@
+[
+  {
+    "docID": "N175 L+¦pez-Vales2006 2",
+    "et": "GroupName",
+    "off": 13960,
+    "sff": "group DM-SS"
+  },
+  {
+    "docID": "N175 L+¦pez-Vales2006 2",
+    "et": "GroupName",
+    "off": 12560,
+    "sff": "DM-AG groups"
+  },
+  {
+    "docID": "N175 L+¦pez-Vales2006 2",
+    "et": "GroupName",
+    "off": 13043,
+    "sff": "OEC-AG groups"
+  },
+  {
+    "docID": "N175 L+¦pez-Vales2006 2",
+    "et": "GroupName",
+    "off": 14451,
+    "sff": "group OEC-SS"
+  },
+  {
+    "docID": "N175 L+¦pez-Vales2006 2",
+    "et": "GroupName",
+    "off": 4527,
+    "sff": "group DMEM"
+  }
+]

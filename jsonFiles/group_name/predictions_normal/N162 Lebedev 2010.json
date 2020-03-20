@@ -1,0 +1,26 @@
+[
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "GroupName",
+    "off": 12895,
+    "sff": "experimental group"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "GroupName",
+    "off": 11176,
+    "sff": "control"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "GroupName",
+    "off": 13268,
+    "sff": "control group"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "GroupName",
+    "off": 11597,
+    "sff": "experimental group"
+  }
+]

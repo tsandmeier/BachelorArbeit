@@ -1,0 +1,326 @@
+[
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "GroupName",
+    "off": 17300,
+    "sff": "transplant"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "GroupName",
+    "off": 33946,
+    "sff": "SCs"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "GroupName",
+    "off": 17296,
+    "sff": "OEC transplant"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "GroupName",
+    "off": 26384,
+    "sff": "OEC transplant"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "GroupName",
+    "off": 25684,
+    "sff": "7"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "GroupName",
+    "off": 14090,
+    "sff": "B"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "GroupName",
+    "off": 12469,
+    "sff": "injection"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "GroupName",
+    "off": 7014,
+    "sff": "d"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "GroupName",
+    "off": 18137,
+    "sff": "sham injection"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "GroupName",
+    "off": 9114,
+    "sff": "DMEM"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "GroupName",
+    "off": 26830,
+    "sff": "sham injection"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "GroupName",
+    "off": 18983,
+    "sff": "transection"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "GroupName",
+    "off": 12760,
+    "sff": "OEC transplanted group"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "GroupName",
+    "off": 17286,
+    "sff": "control"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "GroupName",
+    "off": 10265,
+    "sff": "PBS"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "GroupName",
+    "off": 12484,
+    "sff": "transplantation groups"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "GroupName",
+    "off": 18115,
+    "sff": "transplant"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "GroupName",
+    "off": 17937,
+    "sff": "control"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "GroupName",
+    "off": 35601,
+    "sff": "SCs"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "GroupName",
+    "off": 18625,
+    "sff": "OEC groups"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "GroupName",
+    "off": 9386,
+    "sff": "injections"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "GroupName",
+    "off": 12464,
+    "sff": "sham injection"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "GroupName",
+    "off": 32542,
+    "sff": "expression"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "GroupName",
+    "off": 13395,
+    "sff": "B"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "GroupName",
+    "off": 9292,
+    "sff": "mm"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "GroupName",
+    "off": 25767,
+    "sff": "5"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "GroupName",
+    "off": 25649,
+    "sff": "sham injection"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "GroupName",
+    "off": 1319,
+    "sff": "OEC transplantation group"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "GroupName",
+    "off": 25862,
+    "sff": "animals"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "GroupName",
+    "off": 25735,
+    "sff": "OEC transplant group"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "GroupName",
+    "off": 1319,
+    "sff": "OEC transplantation"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "GroupName",
+    "off": 35227,
+    "sff": "OEC transplantation group"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "GroupName",
+    "off": 36579,
+    "sff": "transplanted OECs"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "GroupName",
+    "off": 6616,
+    "sff": "DMEM"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "GroupName",
+    "off": 12800,
+    "sff": "DMEM-injected group"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "GroupName",
+    "off": 18111,
+    "sff": "OEC transplant"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "GroupName",
+    "off": 33822,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "GroupName",
+    "off": 18142,
+    "sff": "injection"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "GroupName",
+    "off": 26384,
+    "sff": "OEC transplant group"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "GroupName",
+    "off": 18022,
+    "sff": "10"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "GroupName",
+    "off": 36500,
+    "sff": "OEC transplantation"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "GroupName",
+    "off": 26875,
+    "sff": "OEC transplant"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "GroupName",
+    "off": 18032,
+    "sff": "10"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "GroupName",
+    "off": 11068,
+    "sff": "zone"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "GroupName",
+    "off": 12456,
+    "sff": "intact"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "GroupName",
+    "off": 9697,
+    "sff": "PBS"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "GroupName",
+    "off": 31952,
+    "sff": "were"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "GroupName",
+    "off": 26875,
+    "sff": "OEC transplant group"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "GroupName",
+    "off": 17722,
+    "sff": "OEC transplants"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "GroupName",
+    "off": 13478,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "GroupName",
+    "off": 18537,
+    "sff": "experimental groups"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "GroupName",
+    "off": 10738,
+    "sff": "PBS"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "GroupName",
+    "off": 6884,
+    "sff": "media"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "GroupName",
+    "off": 23141,
+    "sff": "5"
+  }
+]

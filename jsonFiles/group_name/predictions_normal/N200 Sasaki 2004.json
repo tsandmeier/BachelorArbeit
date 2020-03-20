@@ -1,0 +1,32 @@
+[
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "GroupName",
+    "off": 35227,
+    "sff": "OEC transplantation group"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "GroupName",
+    "off": 12760,
+    "sff": "OEC transplanted group"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "GroupName",
+    "off": 1319,
+    "sff": "OEC transplantation group"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "GroupName",
+    "off": 12800,
+    "sff": "DMEM-injected group"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "GroupName",
+    "off": 25735,
+    "sff": "OEC transplant group"
+  }
+]

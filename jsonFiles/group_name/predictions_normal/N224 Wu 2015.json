@@ -1,0 +1,32 @@
+[
+  {
+    "docID": "N224 Wu 2015",
+    "et": "GroupName",
+    "off": 28421,
+    "sff": "shamgroups"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "GroupName",
+    "off": 28001,
+    "sff": "OECs treated"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "GroupName",
+    "off": 26986,
+    "sff": "cotransplant treated group"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "GroupName",
+    "off": 28615,
+    "sff": "control group"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "GroupName",
+    "off": 24919,
+    "sff": "sham group"
+  }
+]

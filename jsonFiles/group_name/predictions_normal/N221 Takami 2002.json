@@ -1,0 +1,32 @@
+[
+  {
+    "docID": "N221 Takami 2002",
+    "et": "GroupName",
+    "off": 33043,
+    "sff": "control animals"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "GroupName",
+    "off": 1795,
+    "sff": "controls"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "GroupName",
+    "off": 10571,
+    "sff": "SCs"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "GroupName",
+    "off": 35574,
+    "sff": "controls"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "GroupName",
+    "off": 22924,
+    "sff": "OEG-only grafts"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "GroupName",
+    "off": 8710,
+    "sff": "media-trained"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "GroupName",
+    "off": 8744,
+    "sff": "OEG-trained"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "GroupName",
+    "off": 8725,
+    "sff": "OEG-untrained"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "GroupName",
+    "off": 23383,
+    "sff": "OEG-injected rats"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "GroupName",
+    "off": 8693,
+    "sff": "media-untrained"
+  }
+]

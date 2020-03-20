@@ -1,0 +1,32 @@
+[
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "GroupName",
+    "off": 27604,
+    "sff": "media-untrained"
+  },
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "GroupName",
+    "off": 42641,
+    "sff": "OEG-injected rats"
+  },
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "GroupName",
+    "off": 27652,
+    "sff": "OEG-untrained"
+  },
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "GroupName",
+    "off": 27679,
+    "sff": "OEG-trained"
+  },
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "GroupName",
+    "off": 27629,
+    "sff": "media-trained"
+  }
+]

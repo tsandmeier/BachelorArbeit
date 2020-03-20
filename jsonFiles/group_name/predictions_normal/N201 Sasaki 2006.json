@@ -1,0 +1,26 @@
+[
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "GroupName",
+    "off": 15398,
+    "sff": "controls"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "GroupName",
+    "off": 9249,
+    "sff": "SCI1FG1DMEM group"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "GroupName",
+    "off": 20006,
+    "sff": "SCI1FG1DMEM group"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "GroupName",
+    "off": 9223,
+    "sff": "OEC group"
+  }
+]

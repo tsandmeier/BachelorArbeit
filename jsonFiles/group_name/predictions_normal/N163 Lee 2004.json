@@ -1,0 +1,32 @@
+[
+  {
+    "docID": "N163 Lee 2004",
+    "et": "GroupName",
+    "off": 6933,
+    "sff": "unlabeled OEC"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "GroupName",
+    "off": 7000,
+    "sff": "normal spinal cords with labeled live"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "GroupName",
+    "off": 7073,
+    "sff": "unlabeled live OEC transplant"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "GroupName",
+    "off": 7047,
+    "sff": "labeled dead"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "GroupName",
+    "off": 6902,
+    "sff": "medium injection"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "GroupName",
+    "off": 43313,
+    "sff": "OEG-LacZ group"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "GroupName",
+    "off": 44801,
+    "sff": "vehicle-injected group"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "GroupName",
+    "off": 43568,
+    "sff": "vehicle-injected control animals"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "GroupName",
+    "off": 45402,
+    "sff": "control rats"
+  }
+]

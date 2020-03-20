@@ -1,0 +1,32 @@
+[
+  {
+    "docID": "N167 Li 2012",
+    "et": "GroupName",
+    "off": 21421,
+    "sff": "DMEM group"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "GroupName",
+    "off": 20978,
+    "sff": "controls"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "GroupName",
+    "off": 15496,
+    "sff": "SCs group"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "GroupName",
+    "off": 15706,
+    "sff": "OECs group"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "GroupName",
+    "off": 21470,
+    "sff": "SCs group"
+  }
+]

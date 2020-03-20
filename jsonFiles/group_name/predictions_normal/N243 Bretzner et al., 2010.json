@@ -1,0 +1,32 @@
+[
+  {
+    "docID": "N243 Bretzner et al., 2010",
+    "et": "GroupName",
+    "off": 31192,
+    "sff": "veh-DMEM"
+  },
+  {
+    "docID": "N243 Bretzner et al., 2010",
+    "et": "GroupName",
+    "off": 38393,
+    "sff": "veh-DMEM"
+  },
+  {
+    "docID": "N243 Bretzner et al., 2010",
+    "et": "GroupName",
+    "off": 33454,
+    "sff": "rolipram-OEC"
+  },
+  {
+    "docID": "N243 Bretzner et al., 2010",
+    "et": "GroupName",
+    "off": 1022,
+    "sff": "OEC transplants"
+  },
+  {
+    "docID": "N243 Bretzner et al., 2010",
+    "et": "GroupName",
+    "off": 33440,
+    "sff": "cAMP-OEC"
+  }
+]

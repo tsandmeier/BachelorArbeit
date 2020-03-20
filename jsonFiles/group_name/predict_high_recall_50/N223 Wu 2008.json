@@ -1,0 +1,308 @@
+[
+  {
+    "docID": "N223 Wu 2008",
+    "et": "GroupName",
+    "off": 2438,
+    "sff": "cell"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "GroupName",
+    "off": 466,
+    "sff": "injury"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "GroupName",
+    "off": 1621,
+    "sff": "injury"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "GroupName",
+    "off": 2127,
+    "sff": "normal"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "GroupName",
+    "off": 311,
+    "sff": "OEG"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "GroupName",
+    "off": 581,
+    "sff": "NT3"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "GroupName",
+    "off": 1223,
+    "sff": "cords"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "GroupName",
+    "off": 809,
+    "sff": "NT3"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "GroupName",
+    "off": 2476,
+    "sff": "OEG"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "GroupName",
+    "off": 4067,
+    "sff": "pcDNA3.1"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "GroupName",
+    "off": 182,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "GroupName",
+    "off": 4190,
+    "sff": "pcDNA3.1"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "GroupName",
+    "off": 3896,
+    "sff": "injury"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "GroupName",
+    "off": 1066,
+    "sff": "OEGs"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "GroupName",
+    "off": 4224,
+    "sff": "vector"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "GroupName",
+    "off": 909,
+    "sff": "group"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "GroupName",
+    "off": 3000,
+    "sff": "NT"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "GroupName",
+    "off": 474,
+    "sff": "SCI"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "GroupName",
+    "off": 2997,
+    "sff": "3"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "GroupName",
+    "off": 4573,
+    "sff": "dose"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "GroupName",
+    "off": 1731,
+    "sff": "SCI"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "GroupName",
+    "off": 1465,
+    "sff": "3"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "GroupName",
+    "off": 3003,
+    "sff": "3"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "GroupName",
+    "off": 919,
+    "sff": "untreated group"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "GroupName",
+    "off": 731,
+    "sff": "animals"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "GroupName",
+    "off": 670,
+    "sff": "cord"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "GroupName",
+    "off": 1107,
+    "sff": "NT"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "GroupName",
+    "off": 505,
+    "sff": "transfected"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "GroupName",
+    "off": 569,
+    "sff": "pcDNA3.1"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "GroupName",
+    "off": 4515,
+    "sff": "rats"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "GroupName",
+    "off": 1629,
+    "sff": "SCI"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "GroupName",
+    "off": 816,
+    "sff": "pcDNA3.1"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "GroupName",
+    "off": 4116,
+    "sff": "3"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "GroupName",
+    "off": 496,
+    "sff": "OEG"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "GroupName",
+    "off": 3485,
+    "sff": "OEG"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "GroupName",
+    "off": 797,
+    "sff": "pcDNA3.1"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "GroupName",
+    "off": 4168,
+    "sff": "cells"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "GroupName",
+    "off": 3265,
+    "sff": "site"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "GroupName",
+    "off": 956,
+    "sff": "implanted"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "GroupName",
+    "off": 1719,
+    "sff": "ones"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "GroupName",
+    "off": 382,
+    "sff": "NT"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "GroupName",
+    "off": 1124,
+    "sff": "OEGs"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "GroupName",
+    "off": 1536,
+    "sff": "rats"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "GroupName",
+    "off": 780,
+    "sff": "transfected"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "GroupName",
+    "off": 2046,
+    "sff": "SCI"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "GroupName",
+    "off": 3444,
+    "sff": "3"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "GroupName",
+    "off": 1038,
+    "sff": "pcDNA3.1"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "GroupName",
+    "off": 379,
+    "sff": "3"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "GroupName",
+    "off": 385,
+    "sff": "3"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "GroupName",
+    "off": 3009,
+    "sff": "one"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "GroupName",
+    "off": 754,
+    "sff": "groups"
+  }
+]
