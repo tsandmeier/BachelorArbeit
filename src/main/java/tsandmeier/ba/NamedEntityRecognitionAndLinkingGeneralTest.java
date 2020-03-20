@@ -25,6 +25,7 @@ import de.hterhors.semanticmr.crf.variables.Instance;
 import de.hterhors.semanticmr.crf.variables.State;
 import de.hterhors.semanticmr.eval.EEvaluationDetail;
 import de.hterhors.semanticmr.init.reader.csv.CSVDataStructureReader;
+import de.hterhors.semanticmr.init.specifications.Specifications;
 import de.hterhors.semanticmr.init.specifications.SystemScope;
 import de.hterhors.semanticmr.json.nerla.JsonNerlaIO;
 import de.hterhors.semanticmr.json.nerla.wrapper.JsonEntityAnnotationWrapper;
@@ -38,10 +39,9 @@ import tsandmeier.ba.groupnameTemplates.GroupNamesInSameSentenceTemplate_FAST;
 import tsandmeier.ba.groupnameTemplates.WBFGroupNamesTemplate_FAST;
 import tsandmeier.ba.groupnameTemplates.WBLGroupNamesTemplate_FAST;
 import tsandmeier.ba.groupnameTemplates.WordsInBetweenGroupNamesTemplate_FAST;
-import tsandmeier.ba.helper.FilterForSuperEntities;
+import tsandmeier.ba.helper.FilterHelper;
 import tsandmeier.ba.templates.*;
 
-import javax.sound.midi.SysexMessage;
 import java.io.File;
 import java.io.IOException;
 import java.util.*;
@@ -77,6 +77,8 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
 
     private String typeOfTopic;
     File instanceDirectory;
+
+    CSVDataStructureReader CSVreader;
 
     String modelName;
 
@@ -463,7 +465,6 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
 //
 //         System.exit(1);
 
-
         /**
          * If the model was loaded from the file system, we do not need to train it.
          */
@@ -494,33 +495,48 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
          */
 
 
-        log.info("******************TRAINIERT MIT LITERAL - PREDICTED UND EVALUIERT MIT " + evaluationDetail + "*****************************");
-        log.info("PREDICTHIGHRECALL: " + recallFactor);
+//        log.info("******************TRAINIERT MIT LITERAL - PREDICTED UND EVALUIERT MIT " + evaluationDetail + "*****************************");
+//        log.info("PREDICTHIGHRECALL: " + recallFactor);
 
         crf.changeObjectiveFunction(new NerlaObjectiveFunctionPartialOverlap(evaluationDetail));
 
 
-        Map<Instance, State> results = crf.predictHighRecall(instanceProvider.getInstances(), 50, maxStepCrit,
+        Map<Instance, State> results = crf.predictHighRecall(instanceProvider.getInstances(), 1, maxStepCrit,
                 noModelChangeCrit);
+
+        FilterHelper filterHelper = new FilterHelper(results);
+
+        CSVDataStructureReader reader = new CSVDataStructureReader(new File("ner/" + typeOfTopic + "/data_structure/entities.csv"), new File("ner/" + typeOfTopic + "/data_structure/hierarchies.csv"), new File("ner/" + typeOfTopic + "/data_structure/slots.csv"), new File("ner/" + typeOfTopic + "/data_structure/structures.csv"));
+
+        Set<String> slotTypeNames = reader.read().getSlotTypeNames();
+
+        for(String slotName : slotTypeNames) {
+            IEvaluatable.Score score = filterHelper.filterForSlot(slotName);
+
+            log.info("Predictions für Slot <"+slotName+">:");
+            log.info("Mean Score: "+ score);
+            log.info(System.lineSeparator());
+
+        }
 
         /*
           Finally, we evaluate the produced states and print some statistics.
          */
 
-        writeToJson(results, "jsonFiles/group_name/predict_high_recall_50/");
+//        writeToJson(results, "jsonFiles/group_name/predict_high_recall_50/");
 
-        results = crf.predict(instanceProvider.getInstances(), maxStepCrit,
-                noModelChangeCrit);
+//        results = crf.predict(instanceProvider.getInstances(), maxStepCrit,
+//                noModelChangeCrit);
 
         /*
           Finally, we evaluate the produced states and print some statistics.
          */
 
-        writeToJson(results, "jsonFiles/group_name/predictions_normal/");
+//        writeToJson(results, "jsonFiles/group_name/predictions_normal/");
 
-//        new FilterForSuperEntities(results).filterOrganismModel();
+//        new FilterHelper(results).filterOrganismModel();
 
-        mean = evaluate(log, results);
+//        mean = evaluate(log, results);
 //
 //        log.info(crf.getTrainingStatistics());
 //        log.info(crf.getTestStatistics());
