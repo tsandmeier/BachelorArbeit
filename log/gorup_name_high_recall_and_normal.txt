@@ -1,0 +1,2911 @@
+Initialize systems scope...
+No normalization function for literal entity type "GroupName" was specified. Set default to "IdentityNormalization"
+Systems scope successfully initialized!
+Trainiert mit Objective Function, getestet mit ObjectiveFunctionPartialOverlap
+Evaluation Detail: LITERAL
+MaxStepCrit: 50
+Total number of instances loaded: 96
+Instances remain after cardinality filter: 96
+Redistribute instances based on: Shuffle...
+Number of trainings instances: 77
+Number of develop instances: 0
+Number of test instances: 19
+Total number of distributed instances: 96
+******************TRAINIERT MIT LITERAL - PREDICTED UND EVALUIERT MIT LITERAL*****************************
+PREDICTHIGHRECALL: 1
+***********************************************************
+|[1/96]======Final Evaluation======_____________N223 Wu 2008_____________|
+Final State  Model[1,28383] Objective[0,50000] {
+GOLD [15]:
+GroupName	"untransfected OEG group"	132	20908
+GroupName	"pcDNA3.1(+)+OEG"	130	20701
+GroupName	"untreated"	63	9892
+GroupName	"pcDNA3.1(+)-transfected"	123	19390
+GroupName	"pcDNA3.1(+)-transfected OEG group"	132	20866
+GroupName	"pcDNA3.1(+)-transfected OEG"	63	10006
+GroupName	"pcDNA3.1(+)-NT3-transfected OEG"	63	10104
+GroupName	"untreated groups"	130	20722
+GroupName	"NT-3-transfected OEGs"	4	1107
+GroupName	"untreated group"	2	919
+GroupName	"pcDNA3.1(+)-NT3 transfected OEGs"	3	1038
+GroupName	"pcDNA3.1(+)-NT3-tansfected OEG group"	123	19345
+GroupName	"untransfected OEG"	63	9976
+GroupName	"pcDNA3.1(+)-NT3+OEG"	130	20676
+GroupName	"untransfected OEG groups"	123	19418
+}
+PREDICT [3]:
+GroupName	"untreated group"	2	919
+GroupName	"OEG"	12	2476
+GroupName	"SCI"	10	2046
+}
+Score [getF1()=0,500, getPrecision()=0,667, getRecall()=0,400, tp=2, fp=1, fn=3, tn=0]
+Score [macroF1=0,500, macroPrecision=0,667, macroRecall=0,400]
+***********************************************************
+
+
+***********************************************************
+|[2/96]======Final Evaluation======_____________N221 Takami 2002_____________|
+Final State  Model[1,83431] Objective[0,55556] {
+GOLD [27]:
+GroupName	"SC-only grafts"	11	1810
+GroupName	"SCtransplanted group"	300	38165
+GroupName	"OEG-only grafted animals"	284	35503
+GroupName	"control medium-injected animals"	223	26997
+GroupName	"OEG grafts"	7	1289
+GroupName	"SCs"	79	10571
+GroupName	"medium-injected rats"	5	935
+GroupName	"medium-injected animals"	225	27466
+GroupName	"OEG"	79	10585
+GroupName	"OEG graft"	12	2113
+GroupName	"control"	287	35988
+GroupName	"SC-containing"	282	35045
+GroupName	"OEG-injected animals"	239	29717
+GroupName	"SC-only grafted animals"	299	38065
+GroupName	"SC/OEG grafts"	9	1634
+GroupName	"SC-containing grafts"	270	33387
+GroupName	"SC/OEG"	79	10602
+GroupName	"medium"	79	10554
+GroupName	"control group"	300	38310
+GroupName	"OEG-only grafts"	8	1455
+GroupName	"control animals"	293	37066
+GroupName	"controls"	9	1691
+GroupName	"SC-injected animals"	238	29543
+GroupName	"SC graft"	12	2027
+GroupName	"combination of SCs and OEG"	226	27504
+GroupName	"SC grafts"	7	1231
+GroupName	"SC/OEG transplanted animals"	284	35463
+}
+PREDICT [5]:
+GroupName	"controls"	284	35574
+GroupName	"controls"	10	1795
+GroupName	"control animals"	267	33043
+GroupName	"OEG-only grafts"	181	22924
+GroupName	"SCs"	79	10571
+}
+Score [getF1()=0,556, getPrecision()=1,000, getRecall()=0,385, tp=5, fp=0, fn=8, tn=0]
+Score [macroF1=0,556, macroPrecision=1,000, macroRecall=0,385]
+***********************************************************
+
+
+***********************************************************
+|[3/96]======Final Evaluation======_____________N254 Tsa 2017_____________|
+Final State  Model[1,59324] Objective[0,72727] {
+GOLD [14]:
+GroupName	"AdPGIS-OEC transplanted SCI rats"	8	1247
+GroupName	"AdPGIS-OEC grafted SCI rats"	207	30431
+GroupName	"OEC graft only"	202	29876
+GroupName	"AdPGIS-OEC-grafted"	194	28726
+GroupName	"OEC"	201	29628
+GroupName	"AdGFP-OEC-grafted"	191	28246
+GroupName	"AdPGIS-OEC"	197	29156
+GroupName	"vehicle-treated SCI rats"	206	30356
+GroupName	"AdPGIS-OEC-grafted groups"	191	28268
+GroupName	"OEC grafted SCI rats"	207	30501
+GroupName	"nontreated SCI rats"	8	1294
+GroupName	"SCI rats with vehicle treatment"	197	29192
+GroupName	"OEC transplanted SCI rats"	9	1425
+GroupName	"SCI rats receiving OEC"	197	29129
+}
+PREDICT [4]:
+GroupName	"AdPGIS-OEC"	6	980
+GroupName	"vehicle-treated SCI rats"	206	30356
+GroupName	"nontreated SCI rats"	8	1294
+GroupName	"OEC graft only"	202	29876
+}
+Score [getF1()=0,727, getPrecision()=1,000, getRecall()=0,571, tp=4, fp=0, fn=3, tn=0]
+Score [macroF1=0,727, macroPrecision=1,000, macroRecall=0,571]
+***********************************************************
+
+
+***********************************************************
+|[4/96]======Final Evaluation======_____________N163 Lee 2004_____________|
+Final State  Model[1,71372] Objective[0,83333] {
+GOLD [10]:
+GroupName	"control transected cords, medium injection"	142	21047
+GroupName	"unlabeled OEC"	37	6933
+GroupName	"normal spinal cords with labeled live"	37	7000
+GroupName	"unlabeled live OEC transplant"	37	7073
+GroupName	"medium-injected"	39	7240
+GroupName	"labeled dead"	37	7047
+GroupName	"medium injection"	37	6902
+GroupName	"caudal stump grafting"	37	6976
+GroupName	"rostral stump injection"	33	6330
+GroupName	"caudal stump injection"	33	6365
+}
+PREDICT [5]:
+GroupName	"unlabeled live OEC transplant"	37	7073
+GroupName	"labeled dead"	37	7047
+GroupName	"unlabeled OEC"	37	6933
+GroupName	"normal spinal cords with labeled live"	37	7000
+GroupName	"medium injection"	37	6902
+}
+Score [getF1()=0,833, getPrecision()=1,000, getRecall()=0,714, tp=5, fp=0, fn=2, tn=0]
+Score [macroF1=0,833, macroPrecision=1,000, macroRecall=0,714]
+***********************************************************
+
+
+***********************************************************
+|[5/96]======Final Evaluation======_____________N183 Moreno-Flores 2006_____________|
+Final State  Model[1,61888] Objective[0,42857] {
+GOLD [17]:
+GroupName	"mock-transplanted group"	162	23319
+GroupName	"animals mock-transplanted with the vehicle alone"	134	18800
+GroupName	"unoperated controls"	168	24472
+GroupName	"vehicle only"	215	33171
+GroupName	"TEG3-transplanted group"	168	24610
+GroupName	"unlesioned control animals"	161	23181
+GroupName	"mocktransplanted rats"	160	22946
+GroupName	"transplanted with the TEG3"	215	33069
+GroupName	"sham"	214	32857
+GroupName	"unlesioned controls"	167	24262
+GroupName	"TEG3-transplanted"	153	21885
+GroupName	"TEG3 transplantation"	168	24292
+GroupName	"mock-transplanted rats"	166	24043
+GroupName	"Unlesioned control rats"	160	22864
+GroupName	"control animals"	106	14686
+GroupName	"mock-transplanted animals"	152	21444
+GroupName	"TEG3-transplanted animals,"	9	1422
+}
+PREDICT [4]:
+GroupName	"unlesioned control animals"	161	23181
+GroupName	"mock-transplanted animals"	152	21444
+GroupName	"mock-transplanted rats"	68	9448
+GroupName	"10"	45	7031
+}
+Score [getF1()=0,429, getPrecision()=0,750, getRecall()=0,300, tp=3, fp=1, fn=7, tn=0]
+Score [macroF1=0,429, macroPrecision=0,750, macroRecall=0,300]
+***********************************************************
+
+
+***********************************************************
+|[6/96]======Final Evaluation======_____________N170 Liu 2010_____________|
+Final State  Model[1,84896] Objective[0,83333] {
+GOLD [13]:
+GroupName	"untreated controls"	1	590
+GroupName	"transplantation"	2	781
+GroupName	"OEG-treated rats"	1	543
+GroupName	"OTG group"	76	12869
+GroupName	"DCG"	20	4493
+GroupName	"TCG"	20	4408
+GroupName	"OEG transplantation group"	20	4552
+GroupName	"OEG-treated groups"	2	746
+GroupName	"controls"	3	1014
+GroupName	"transplantation control group"	20	4377
+GroupName	"OTG transplantation group"	68	11612
+GroupName	"damage control group"	20	4471
+GroupName	"OTG"	20	4579
+}
+PREDICT [5]:
+GroupName	"OTG transplantation group"	68	11612
+GroupName	"OTG"	75	12749
+GroupName	"controls"	1	600
+GroupName	"DCG"	77	12952
+GroupName	"TCG"	70	12117
+}
+Score [getF1()=0,833, getPrecision()=1,000, getRecall()=0,714, tp=5, fp=0, fn=2, tn=0]
+Score [macroF1=0,833, macroPrecision=1,000, macroRecall=0,714]
+***********************************************************
+
+
+***********************************************************
+|[7/96]======Final Evaluation======_____________N160 Kubasak 2008_____________|
+Final State  Model[2,26510] Objective[0,47619] {
+GOLD [28]:
+GroupName	"sham controls"	9	1487
+GroupName	"media-injected animals"	231	38811
+GroupName	"OEGinjected animals"	238	40269
+GroupName	"sham rats"	221	36421
+GroupName	"OEG-untrained"	174	27652
+GroupName	"media-untrained animals"	193	30748
+GroupName	"OEG transplantation alone"	10	1502
+GroupName	"study.OEG transplantation combined with training"	10	1784
+GroupName	"while training alone"	10	1620
+GroupName	"media-trained"	174	27629
+GroupName	"mediainjected rats"	235	39774
+GroupName	"Media-trained rats"	193	30695
+GroupName	"mediauntrained animals"	218	35755
+GroupName	"media-untrained rats"	200	32127
+GroupName	"media-untrained"	174	27604
+GroupName	"sham surgery and four were step-trained"	175	27733
+GroupName	"OEG-injected rats"	231	38752
+GroupName	"OEG-trained groups"	220	36158
+GroupName	"media-trained animals"	219	36069
+GroupName	"OEG-trained"	174	27679
+GroupName	"OEG-untrained rats"	211	34449
+GroupName	"OEGuntrained rats"	200	32093
+GroupName	"OEG-untrained animals"	219	36027
+GroupName	"mediauntrained rats"	210	34162
+GroupName	"media"	238	40258
+GroupName	"sham"	175	27733
+GroupName	"OEG"	235	39761
+GroupName	"OEG-trained rats"	210	34097
+}
+PREDICT [5]:
+GroupName	"OEG-untrained"	174	27652
+GroupName	"media-untrained"	174	27604
+GroupName	"media-trained"	174	27629
+GroupName	"OEG-trained"	174	27679
+GroupName	"OEG-injected rats"	249	42641
+}
+Score [getF1()=0,476, getPrecision()=1,000, getRecall()=0,312, tp=5, fp=0, fn=11, tn=0]
+Score [macroF1=0,476, macroPrecision=1,000, macroRecall=0,312]
+***********************************************************
+
+
+***********************************************************
+|[8/96]======Final Evaluation======_____________N134 Cao 2004_____________|
+Final State  Model[1,89390] Objective[0,90909] {
+GOLD [16]:
+GroupName	"graft of normal OECs"	95	16133
+GroupName	"OEC group"	291	39349
+GroupName	"graft of GDNF OECs"	95	16252
+GroupName	"transection with no grafted OECs"	95	16044
+GroupName	"normal OEC group"	289	38884
+GroupName	"transplantation of the OECs"	287	38389
+GroupName	"GDNF OEC"	97	16632
+GroupName	"rats injected with normal OECs"	252	33933
+GroupName	"OEC"	97	16625
+GroupName	"GDNF OEC groups"	283	38079
+GroupName	"GDNF OEC group"	105	17829
+GroupName	"OEC transplantation"	275	36917
+GroupName	"controls"	105	17784
+GroupName	"control group"	291	39223
+GroupName	"those receiving normal OECs"	267	36143
+GroupName	"DMEM group"	275	37093
+}
+PREDICT [5]:
+GroupName	"OEC group"	291	39349
+GroupName	"control group"	291	39223
+GroupName	"those receiving normal OECs"	197	28077
+GroupName	"DMEM group"	207	28679
+GroupName	"GDNF OEC group"	264	35696
+}
+Score [getF1()=0,909, getPrecision()=1,000, getRecall()=0,833, tp=5, fp=0, fn=1, tn=0]
+Score [macroF1=0,909, macroPrecision=1,000, macroRecall=0,833]
+***********************************************************
+
+
+***********************************************************
+|[9/96]======Final Evaluation======_____________N220 Ruitenberg 2003_____________|
+Final State  Model[1,62535] Objective[0,40000] {
+GOLD [23]:
+GroupName	"animals implanted with AdV-BDNF-transduced OEG"	411	61359
+GroupName	"AdVBDNF/ NT-3-transduced OEG"	412	61581
+GroupName	"OEG implants transduced with AdV vectors encoding BDNF"	385	56926
+GroupName	"AdV-BDNF"	125	18330
+GroupName	"Experimental group 1"	120	17677
+GroupName	"no treatment"	377	55342
+GroupName	"lesion only"	402	60132
+GroupName	"controls"	383	56610
+GroupName	"AdV-NT-3OEG"	412	61557
+GroupName	"unimplanted control animals"	398	59381
+GroupName	"AdV vector-mediated expression of BDNF"	10	1833
+GroupName	"AdVLacZ- transducedOEGimplanted rats"	411	61291
+GroupName	"unimplanted lesioned control rats"	408	60903
+GroupName	"NT-3 from transduced OEG"	378	55513
+GroupName	"mixture of both vectors"	385	57025
+GroupName	"unimplanted controls"	384	56684
+GroupName	"BDNF- and NT-3-encoding AdV vector"	126	18463
+GroupName	"unimplanted lesioned controls"	11	2080
+GroupName	"NT-3"	385	56998
+GroupName	"control OEG implant"	402	60147
+GroupName	"uninfected OEG"	122	18037
+GroupName	"AdV-NT-3-transduced"	125	18351
+GroupName	"AdV-LacZ-transduced OEG"	122	18064
+}
+PREDICT [4]:
+GroupName	"AdV-LacZ-transduced OEG"	122	18064
+GroupName	"uninfected OEG"	122	18037
+GroupName	"controls"	384	56696
+GroupName	"AdV-BDNF"	125	18330
+}
+Score [getF1()=0,400, getPrecision()=1,000, getRecall()=0,250, tp=4, fp=0, fn=12, tn=0]
+Score [macroF1=0,400, macroPrecision=1,000, macroRecall=0,250]
+***********************************************************
+
+
+***********************************************************
+|[10/96]======Final Evaluation======_____________N231 Zhang 2011_____________|
+Final State  Model[1,68324] Objective[1,00000] {
+GOLD [14]:
+GroupName	"SCI 6w"	112	19647
+GroupName	"injury alone control rats"	112	19453
+GroupName	"injury only control"	152	27955
+GroupName	"SCI Control"	175	32342
+GroupName	"SCI+LP"	176	32482
+GroupName	"SCI+SA"	177	32627
+GroupName	"SCI control animals"	113	19935
+GroupName	"SCI-22w"	99	17003
+GroupName	"SCI+SA+LP+OEC"	177	32706
+GroupName	"SCI+SA+LP"	177	32674
+GroupName	"injury only control group"	99	16976
+GroupName	"SCI 22w"	112	19576
+GroupName	"SCI+LP+OEC"	176	32512
+GroupName	"control animals"	6	1601
+}
+PREDICT [5]:
+GroupName	"control animals"	115	20307
+GroupName	"SCI control animals"	113	19935
+GroupName	"injury alone control rats"	114	20102
+GroupName	"injury only control group"	99	16976
+GroupName	"control animals"	6	1601
+}
+Score [getF1()=1,000, getPrecision()=1,000, getRecall()=1,000, tp=5, fp=0, fn=0, tn=0]
+Score [macroF1=1,000, macroPrecision=1,000, macroRecall=1,000]
+***********************************************************
+
+
+***********************************************************
+|[11/96]======Final Evaluation======_____________N166 Li 2011_____________|
+Final State  Model[1,85264] Objective[0,71429] {
+GOLD [14]:
+GroupName	"controls"	139	22521
+GroupName	"animals receiving OECs"	129	20491
+GroupName	"OECs-transplanted rats"	10	2286
+GroupName	"DMEM injections"	138	22431
+GroupName	"DMEM animals"	143	23248
+GroupName	"DMEM-injected animals"	8	1809
+GroupName	"OECs-rats"	8	1897
+GroupName	"OEC group"	124	19556
+GroupName	"OECs-group"	9	2053
+GroupName	"animals receiving DMEM"	128	20280
+GroupName	"DMEM group"	124	19666
+GroupName	"DMEM-rats"	8	1924
+GroupName	"OECs-injected animals"	180	29828
+GroupName	"control group"	132	21611
+}
+PREDICT [5]:
+GroupName	"OEC group"	89	15186
+GroupName	"OEC group"	141	23030
+GroupName	"DMEM group"	103	16900
+GroupName	"DMEM-injected animals"	8	1809
+GroupName	"DMEM-rats"	8	1924
+}
+Score [getF1()=0,714, getPrecision()=1,000, getRecall()=0,556, tp=5, fp=0, fn=4, tn=0]
+Score [macroF1=0,714, macroPrecision=1,000, macroRecall=0,556]
+***********************************************************
+
+
+***********************************************************
+|[12/96]======Final Evaluation======_____________N197 Rochkind 2006_____________|
+Final State  Model[1,50642] Objective[0,33333] {
+GOLD [8]:
+GroupName	"human embryonic spinal cord group"	139	21372
+GroupName	"sham treated control group"	71	10907
+GroupName	"NOM"	140	21574
+GroupName	"containing NOM cells"	73	11053
+GroupName	"NOM implanted group"	8	1392
+GroupName	"control groups"	139	21466
+GroupName	"human NOM"	139	21452
+GroupName	"human embryonal spinal cord-derived cells"	73	11106
+}
+PREDICT [4]:
+GroupName	"control rats"	149	23175
+GroupName	"controls"	147	22796
+GroupName	"controls"	145	22513
+GroupName	"control animals"	183	29168
+}
+Score [getF1()=0,333, getPrecision()=0,500, getRecall()=0,250, tp=2, fp=2, fn=6, tn=0]
+Score [macroF1=0,333, macroPrecision=0,500, macroRecall=0,250]
+***********************************************************
+
+
+***********************************************************
+|[13/96]======Final Evaluation======_____________N207 Takeoka 2010_____________|
+Final State  Model[2,38342] Objective[0,43478] {
+GOLD [19]:
+GroupName	"OEG-injected spinal rats"	10	1972
+GroupName	"OEGinjected rats"	126	21094
+GroupName	"OEG- and media-untrained"	131	21818
+GroupName	"mediainjected spinal rats"	4	824
+GroupName	"media-untrained"	38	8211
+GroupName	"OEG-trained"	38	8262
+GroupName	"OEG-injected spinal rats"	6	1094
+GroupName	"sham rats"	39	8385
+GroupName	"OEG-"	4	814
+GroupName	"OEG-trained group"	128	21565
+GroupName	"media"	126	21083
+GroupName	"thanmediainjected rats"	171	28908
+GroupName	"media-"	6	1083
+GroupName	"OEG- and mediatrained"	130	21792
+GroupName	"OEG-untrained"	38	8243
+GroupName	"media-injected spinal rats"	165	27895
+GroupName	"media-trained"	38	8228
+GroupName	"OEG"	9	1710
+GroupName	"media-injected rats"	9	1720
+}
+PREDICT [5]:
+GroupName	"media-trained"	38	8228
+GroupName	"OEG-trained"	38	8262
+GroupName	"media-untrained"	38	8211
+GroupName	"OEG-untrained"	38	8243
+GroupName	"media-untrained"	168	28466
+}
+Score [getF1()=0,435, getPrecision()=1,000, getRecall()=0,278, tp=5, fp=0, fn=13, tn=0]
+Score [macroF1=0,435, macroPrecision=1,000, macroRecall=0,278]
+***********************************************************
+
+
+***********************************************************
+|[14/96]======Final Evaluation======_____________N175 L+¦pez-Vales2006 2_____________|
+Final State  Model[1,60113] Objective[0,62500] {
+GOLD [22]:
+GroupName	"transplanted rats injected with saline"	80	12042
+GroupName	"group DM-SS"	91	13960
+GroupName	"DM-NS"	11	1052
+GroupName	"OEC-AG"	32	5613
+GroupName	"OEC-SS rats"	84	12619
+GroupName	"group OEC-AG"	81	12183
+GroupName	"OEC-SS"	32	5625
+GroupName	"OEC-AG groups"	86	13043
+GroupName	"group OEC-NS"	81	12154
+GroupName	"DM-AG groups"	83	12560
+GroupName	"DM-AG"	11	1084
+GroupName	"DM-SS"	31	5533
+GroupName	"DM-SS-injected animals"	84	12700
+GroupName	"OEC-NS"	11	1059
+GroupName	"groups OEC-NS"	32	5598
+GroupName	"group OEC-SS"	81	12245
+GroupName	"group DM-AG"	31	5458
+GroupName	"group DM-NS"	31	5353
+GroupName	"DM-SS animals"	79	11889
+GroupName	"saline-treated animals"	78	11745
+GroupName	"DMNS"	89	13674
+GroupName	"OEC-AG rats"	92	14292
+}
+PREDICT [5]:
+GroupName	"group DMEM"	26	4527
+GroupName	"DM-AG groups"	83	12560
+GroupName	"OEC-AG groups"	86	13043
+GroupName	"group DM-SS"	91	13960
+GroupName	"group OEC-SS"	93	14451
+}
+Score [getF1()=0,625, getPrecision()=1,000, getRecall()=0,455, tp=5, fp=0, fn=6, tn=0]
+Score [macroF1=0,625, macroPrecision=1,000, macroRecall=0,455]
+***********************************************************
+
+
+***********************************************************
+|[15/96]======Final Evaluation======_____________N148 Gorrie 2010_____________|
+Final State  Model[1,52922] Objective[0,44444] {
+GOLD [11]:
+GroupName	"the hOEC transplanted animals"	81	13205
+GroupName	"control groups"	254	44478
+GroupName	"controls"	81	13352
+GroupName	"hOEC groups"	95	15318
+GroupName	"hOEC-treated group"	86	13916
+GroupName	"in the OEC group"	80	13137
+GroupName	"hOEC transplanted spinal cords"	92	14844
+GroupName	"hOEC transplanted"	254	44456
+GroupName	"hOEC transplant group"	79	13003
+GroupName	"animals receiving the hOEC-derived transplants"	5	1259
+GroupName	"Control animals"	203	37072
+}
+PREDICT [4]:
+GroupName	"controls"	42	8063
+GroupName	"controls"	95	15358
+GroupName	"controls"	81	13352
+GroupName	"controls"	92	14903
+}
+Score [getF1()=0,444, getPrecision()=1,000, getRecall()=0,286, tp=4, fp=0, fn=10, tn=0]
+Score [macroF1=0,444, macroPrecision=1,000, macroRecall=0,286]
+***********************************************************
+
+
+***********************************************************
+|[16/96]======Final Evaluation======_____________N227 Yamamoto 2009_____________|
+Final State  Model[1,13306] Objective[0,00000] {
+GOLD [3]:
+GroupName	"transplants"	39	6248
+GroupName	"injection of culture medium"	39	6306
+GroupName	"no further intervention"	39	6272
+}
+PREDICT [2]:
+GroupName	"site"	4	1207
+GroupName	"lesion"	0	595
+}
+Score [getF1()=0,000, getPrecision()=0,000, getRecall()=0,000, tp=0, fp=2, fn=3, tn=0]
+Score [macroF1=0,000, macroPrecision=0,000, macroRecall=0,000]
+***********************************************************
+
+
+***********************************************************
+|[17/96]======Final Evaluation======_____________N234 Zhang 2016_____________|
+Final State  Model[1,86940] Objective[0,76923] {
+GOLD [13]:
+GroupName	"co-transplantation group"	5	1051
+GroupName	"co-transplantation"	165	27848
+GroupName	"DMEM group"	143	23669
+GroupName	"DMEM control group"	127	20536
+GroupName	"Control animals"	56	8806
+GroupName	"SC"	5	1029
+GroupName	"SC+OEC group"	127	20627
+GroupName	"SC group"	127	20728
+GroupName	"OEC"	135	22263
+GroupName	"co-transplanted group"	149	24511
+GroupName	"co-transplantation of OECs and SCs"	131	21425
+GroupName	"OEC group"	127	20676
+GroupName	"DMEM"	5	1023
+}
+PREDICT [5]:
+GroupName	"SC group"	127	20728
+GroupName	"OEC group"	127	20676
+GroupName	"DMEM group"	147	24132
+GroupName	"DMEM group"	143	23669
+GroupName	"DMEM group"	151	25056
+}
+Score [getF1()=0,769, getPrecision()=1,000, getRecall()=0,625, tp=5, fp=0, fn=3, tn=0]
+Score [macroF1=0,769, macroPrecision=1,000, macroRecall=0,625]
+***********************************************************
+
+
+***********************************************************
+|[18/96]======Final Evaluation======_____________N179 Masgutova 2010_____________|
+Final State  Model[1,46344] Objective[0,57143] {
+GOLD [6]:
+GroupName	"Control animals"	35	4602
+GroupName	"controls"	15	1434
+GroupName	"control group"	17	1758
+GroupName	"control"	16	1614
+GroupName	"experimental animals"	36	4708
+GroupName	"experimental group animals"	34	4436
+}
+PREDICT [3]:
+GroupName	"Control animals"	35	4602
+GroupName	"experimental group animals"	34	4436
+GroupName	"Schwann cells"	82	11798
+}
+Score [getF1()=0,571, getPrecision()=0,667, getRecall()=0,500, tp=2, fp=1, fn=2, tn=0]
+Score [macroF1=0,571, macroPrecision=0,667, macroRecall=0,500]
+***********************************************************
+
+
+***********************************************************
+|[19/96]======Final Evaluation======_____________N180 Mayeur 2013_____________|
+Final State  Model[1,32553] Objective[0,61538] {
+GOLD [17]:
+GroupName	"Md"	100	14044
+GroupName	"Primary OM treated group"	245	29503
+GroupName	"Primary OM"	104	14290
+GroupName	"Md treated group"	235	27878
+GroupName	"Medium group"	100	14030
+GroupName	"OB-treated group"	102	14130
+GroupName	"Purified OM treated groups"	243	28861
+GroupName	"Md treated animals"	115	15526
+GroupName	"Primary OB"	102	14148
+GroupName	"Purified OM"	108	14612
+GroupName	"OM-treated group"	104	14272
+GroupName	"OB OECs-treated group"	106	14416
+GroupName	"Purified OB"	106	14439
+GroupName	"Purified OM treated animals"	244	29160
+GroupName	"Md group"	226	26737
+GroupName	"OM OECs-treated group"	108	14589
+GroupName	"Primary OM treated animals"	245	29372
+}
+PREDICT [4]:
+GroupName	"groups"	100	13978
+GroupName	"Purified OM treated animals"	244	29160
+GroupName	"Primary OB"	214	25664
+GroupName	"Primary OM"	34	6401
+}
+Score [getF1()=0,615, getPrecision()=1,000, getRecall()=0,444, tp=4, fp=0, fn=5, tn=0]
+Score [macroF1=0,615, macroPrecision=1,000, macroRecall=0,444]
+***********************************************************
+
+
+***********************************************************
+|[20/96]======Final Evaluation======_____________N172 L+¦pez-Vales 2004_____________|
+Final State  Model[1,88449] Objective[1,00000] {
+GOLD [11]:
+GroupName	"OEC-transplanted rats"	6	1256
+GroupName	"OEC groups"	147	21230
+GroupName	"group OEC"	60	9649
+GroupName	"DMEM"	147	21221
+GroupName	"DMEM animals"	151	21714
+GroupName	"groups DMEM"	196	27869
+GroupName	"OEC group"	148	21270
+GroupName	"OEC"	151	21702
+GroupName	"group DMEM"	64	10051
+GroupName	"DMEM-injected animals"	4	912
+GroupName	"DMEM-injected rats"	5	1176
+}
+PREDICT [5]:
+GroupName	"DMEM animals"	151	21714
+GroupName	"group DMEM"	64	10051
+GroupName	"OEC groups"	147	21230
+GroupName	"DMEM-injected rats"	4	1038
+GroupName	"group OEC"	60	9649
+}
+Score [getF1()=1,000, getPrecision()=1,000, getRecall()=1,000, tp=5, fp=0, fn=0, tn=0]
+Score [macroF1=1,000, macroPrecision=1,000, macroRecall=1,000]
+***********************************************************
+
+
+***********************************************************
+|[21/96]======Final Evaluation======_____________N232 Zhang 2012_____________|
+Final State  Model[1,47663] Objective[1,00000] {
+GOLD [8]:
+GroupName	"control group"	123	21355
+GroupName	"rats without basic treatments but with TANES"	100	16448
+GroupName	"full treatments"	100	16654
+GroupName	"SCI Control"	175	31194
+GroupName	"SCI+BT+TANES"	178	31620
+GroupName	"SCI+TANES"	176	31323
+GroupName	"SCI control rats"	100	16567
+GroupName	"SCI+BT"	177	31430
+}
+PREDICT [4]:
+GroupName	"control group"	61	11494
+GroupName	"SCI control rats"	100	16567
+GroupName	"SCI 22w"	121	21008
+GroupName	"full treatments"	39	8538
+}
+Score [getF1()=1,000, getPrecision()=1,000, getRecall()=1,000, tp=4, fp=0, fn=0, tn=0]
+Score [macroF1=1,000, macroPrecision=1,000, macroRecall=1,000]
+***********************************************************
+
+
+***********************************************************
+|[22/96]======Final Evaluation======_____________N143 Deumens 2006_____________|
+Final State  Model[1,60435] Objective[0,88889] {
+GOLD [8]:
+GroupName	"control animals"	13	1640
+GroupName	"control group"	92	14467
+GroupName	"other group"	43	7820
+GroupName	"OEC/ONF-transplanted animals"	239	34978
+GroupName	"experimental group"	90	14086
+GroupName	"untreated control animals"	16	2195
+GroupName	"transplanted"	182	26570
+GroupName	"transplanted animals"	14	1890
+}
+PREDICT [4]:
+GroupName	"control animals"	181	26329
+GroupName	"control animals"	283	42332
+GroupName	"other group"	43	7820
+GroupName	"control animals"	285	42695
+}
+Score [getF1()=0,889, getPrecision()=1,000, getRecall()=0,800, tp=4, fp=0, fn=1, tn=0]
+Score [macroF1=0,889, macroPrecision=1,000, macroRecall=0,800]
+***********************************************************
+
+
+***********************************************************
+|[23/96]======Final Evaluation======_____________N224 Wu 2015_____________|
+Final State  Model[1,78537] Objective[0,90909] {
+GOLD [13]:
+GroupName	"control group rats"	184	27555
+GroupName	"shamgroups"	188	28421
+GroupName	"sham injured control group"	199	31090
+GroupName	"OECs treated"	184	27607
+GroupName	"BMSCs treated"	184	27621
+GroupName	"BMSCs treated group"	40	7536
+GroupName	"cotransplant groups"	178	26515
+GroupName	"OECs treated group"	40	7449
+GroupName	"control group"	40	7249
+GroupName	"cotransplant treated group"	40	7625
+GroupName	"sham group"	185	27770
+GroupName	"sham group"	40	7353
+GroupName	"BMSCs groups"	178	26472
+}
+PREDICT [5]:
+GroupName	"sham group"	170	24919
+GroupName	"OECs treated"	186	28001
+GroupName	"shamgroups"	188	28421
+GroupName	"control group"	188	28615
+GroupName	"cotransplant treated group"	181	26986
+}
+Score [getF1()=0,909, getPrecision()=1,000, getRecall()=0,833, tp=5, fp=0, fn=1, tn=0]
+Score [macroF1=0,909, macroPrecision=1,000, macroRecall=0,833]
+***********************************************************
+
+
+***********************************************************
+|[24/96]======Final Evaluation======_____________N137 Centenaro 2013_____________|
+Final State  Model[1,76594] Objective[0,66667] {
+GOLD [19]:
+GroupName	"AC group"	48	10254
+GroupName	"AT"	56	11526
+GroupName	"2WDC"	49	10392
+GroupName	"2WDT"	49	10401
+GroupName	"4WDC group"	117	22965
+GroupName	"2-week delayed control group (2WDC)"	28	6524
+GroupName	"2WDT group"	120	23499
+GroupName	"AC"	56	11519
+GroupName	"4WDC"	49	10450
+GroupName	"Acute control group (AC)"	28	6286
+GroupName	"2WDC group"	120	23526
+GroupName	"4WDT"	49	10459
+GroupName	"AT group"	48	10272
+GroupName	"the2WDTgroup"	112	21659
+GroupName	"the2WDCgroup"	112	21750
+GroupName	"Acute treated group (AT)"	28	6405
+GroupName	"4-week delayed treated group (4WDT)"	28	6896
+GroupName	"4-week delayed control group (4WDC)"	28	6770
+GroupName	"2-week delayed treated (2WDT)"	28	6650
+}
+PREDICT [5]:
+GroupName	"4WDT"	95	18970
+GroupName	"the2WDTgroup"	112	21659
+GroupName	"4WDT"	114	22284
+GroupName	"4WDC"	95	18934
+GroupName	"AC group"	109	21181
+}
+Score [getF1()=0,667, getPrecision()=1,000, getRecall()=0,500, tp=5, fp=0, fn=5, tn=0]
+Score [macroF1=0,667, macroPrecision=1,000, macroRecall=0,500]
+***********************************************************
+
+
+***********************************************************
+|[25/96]======Final Evaluation======_____________N142 Deumens 2006 2_____________|
+Final State  Model[1,53530] Objective[0,80000] {
+GOLD [7]:
+GroupName	"animals that were subjected to the multifactorial transplantation"	194	26206
+GroupName	"transplanted group"	175	23155
+GroupName	"control group"	86	12694
+GroupName	"OEC/ONF-transplanted"	206	28266
+GroupName	"transplanted"	185	24804
+GroupName	"experimental group"	84	12318
+GroupName	"control animals"	185	24826
+}
+PREDICT [4]:
+GroupName	"control animals"	191	25949
+GroupName	"control group"	43	6895
+GroupName	"control animals"	208	28696
+GroupName	"other group"	43	6861
+}
+Score [getF1()=0,800, getPrecision()=1,000, getRecall()=0,667, tp=4, fp=0, fn=2, tn=0]
+Score [macroF1=0,800, macroPrecision=1,000, macroRecall=0,667]
+***********************************************************
+
+
+***********************************************************
+|[26/96]======Final Evaluation======_____________N168 Li 2016_____________|
+Final State  Model[1,30974] Objective[0,57143] {
+GOLD [4]:
+GroupName	"Group 2"	24	3824
+GroupName	"Group 5"	29	4431
+GroupName	"Group 4"	28	4294
+GroupName	"Group 3"	25	3924
+}
+PREDICT [3]:
+GroupName	"2"	22	3718
+GroupName	"3"	22	3729
+GroupName	"days"	22	3693
+}
+Score [getF1()=0,571, getPrecision()=0,667, getRecall()=0,500, tp=2, fp=1, fn=2, tn=0]
+Score [macroF1=0,571, macroPrecision=0,667, macroRecall=0,500]
+***********************************************************
+
+
+***********************************************************
+|[27/96]======Final Evaluation======_____________N161 Lang 2013_____________|
+Final State  Model[1,31763] Objective[0,40000] {
+GOLD [9]:
+GroupName	"Group C"	107	15964
+GroupName	"Group B"	107	15902
+GroupName	"OEC administration"	73	10587
+GroupName	"OEC treatment group"	53	7741
+GroupName	"Group A"	107	15803
+GroupName	"OECs transplantation group"	60	8798
+GroupName	"hSCI group"	61	9025
+GroupName	"sham group"	60	8688
+GroupName	"OECs transplantation rats"	68	10041
+}
+PREDICT [3]:
+GroupName	"sham group"	107	15989
+GroupName	"BDNF"	4	937
+GroupName	"treatment"	138	20147
+}
+Score [getF1()=0,400, getPrecision()=0,667, getRecall()=0,286, tp=2, fp=1, fn=5, tn=0]
+Score [macroF1=0,400, macroPrecision=0,667, macroRecall=0,286]
+***********************************************************
+
+
+***********************************************************
+|[28/96]======Final Evaluation======_____________N233 Zhang 2015_____________|
+Final State  Model[1,87889] Objective[0,55556] {
+GOLD [16]:
+GroupName	"control groups"	5	1433
+GroupName	"co-transplanted group"	117	17931
+GroupName	"co-transplantation"	4	1246
+GroupName	"EPI-NCSCs"	46	8180
+GroupName	"controls"	122	18684
+GroupName	"EPI-NCSCs-injected animals"	121	18590
+GroupName	"blank control without transplantation"	44	8041
+GroupName	"coinjected group"	5	1393
+GroupName	"OECs"	46	8191
+GroupName	"mixed EPI-NCSCs-OECs"	46	8201
+GroupName	"co-injected animals"	6	1526
+GroupName	"DMEM/F12"	45	8109
+GroupName	"EPI-NCSCs-"	5	1340
+GroupName	"OECs-injected group"	5	1355
+GroupName	"control animals"	51	8794
+GroupName	"control group"	117	18044
+}
+PREDICT [5]:
+GroupName	"coinjected group"	5	1393
+GroupName	"control groups"	5	1433
+GroupName	"mixed EPI-NCSCs-OECs"	46	8201
+GroupName	"OECs-injected group"	108	15970
+GroupName	"co-transplanted group"	117	17931
+}
+Score [getF1()=0,556, getPrecision()=1,000, getRecall()=0,385, tp=5, fp=0, fn=8, tn=0]
+Score [macroF1=0,556, macroPrecision=1,000, macroRecall=0,385]
+***********************************************************
+
+
+***********************************************************
+|[29/96]======Final Evaluation======_____________N204 Steward 2006_____________|
+Final State  Model[1,58050] Objective[1,00000] {
+GOLD [7]:
+GroupName	"group with OLP transplant"	254	33898
+GroupName	"group with RLP transplants"	254	33953
+GroupName	"OLP"	257	34371
+GroupName	"OLP"	6	1667
+GroupName	"OLP group"	283	38471
+GroupName	"RLP group"	283	38544
+GroupName	"RLP transplant groups"	7	1675
+}
+PREDICT [4]:
+GroupName	"OLP group"	282	38386
+GroupName	"RLP group"	247	32877
+GroupName	"RLP transplant groups"	7	1675
+GroupName	"OLP"	283	38668
+}
+Score [getF1()=1,000, getPrecision()=1,000, getRecall()=1,000, tp=4, fp=0, fn=0, tn=0]
+Score [macroF1=1,000, macroPrecision=1,000, macroRecall=1,000]
+***********************************************************
+
+
+***********************************************************
+|[30/96]======Final Evaluation======_____________N146 Fouad 2009_____________|
+Final State  Model[1,94179] Objective[0,66667] {
+GOLD [14]:
+GroupName	"untreated SCI group"	98	16778
+GroupName	"treated SCI rats"	98	16905
+GroupName	"treated group"	94	15962
+GroupName	"untreated rats"	8	1520
+GroupName	"treated animals"	93	15663
+GroupName	"treated"	83	14036
+GroupName	"animals that received the combined treatment"	85	14302
+GroupName	"injured-treated"	26	6455
+GroupName	"control"	102	17773
+GroupName	"the combined treatment"	11	1822
+GroupName	"treated rats"	25	5898
+GroupName	"combinatory therapy"	12	2047
+GroupName	"Controls"	4	1205
+GroupName	"untreated group"	24	5787
+}
+PREDICT [5]:
+GroupName	"treated rats"	25	5898
+GroupName	"untreated group"	83	14067
+GroupName	"treated group"	89	15264
+GroupName	"Controls"	4	1205
+GroupName	"untreated group"	94	15933
+}
+Score [getF1()=0,667, getPrecision()=1,000, getRecall()=0,500, tp=5, fp=0, fn=5, tn=0]
+Score [macroF1=0,667, macroPrecision=1,000, macroRecall=0,500]
+***********************************************************
+
+
+***********************************************************
+|[31/96]======Final Evaluation======_____________N195 Resnick 2003_____________|
+Final State  Model[1,52614] Objective[0,60000] {
+GOLD [9]:
+GroupName	"control animals"	90	10421
+GroupName	"control"	78	9284
+GroupName	"transplanted animals"	92	10577
+GroupName	"transplanted"	11	1316
+GroupName	"control groups"	11	1333
+GroupName	"OEC group"	88	10116
+GroupName	"experimental animals"	90	10389
+GroupName	"OEC transplant animal"	78	9250
+GroupName	"controls"	88	10250
+}
+PREDICT [4]:
+GroupName	"controls"	88	10250
+GroupName	"control"	78	9284
+GroupName	"medium alone"	7	758
+GroupName	"OEC group"	88	10116
+}
+Score [getF1()=0,600, getPrecision()=0,750, getRecall()=0,500, tp=3, fp=1, fn=3, tn=0]
+Score [macroF1=0,600, macroPrecision=0,750, macroRecall=0,500]
+***********************************************************
+
+
+***********************************************************
+|[32/96]======Final Evaluation======_____________N149 Granger 2012_____________|
+Final State  Model[1,37826] Objective[0,85714] {
+GOLD [6]:
+GroupName	"olfactory mucosal cell transplantation"	142	30453
+GroupName	"olfactory mucosal cell transplant recipients"	139	29601
+GroupName	"treatment groups"	10	2227
+GroupName	"no cell group"	135	28731
+GroupName	"olfactory mucosal cell"	78	18234
+GroupName	"cell transport medium alone"	78	18305
+}
+PREDICT [3]:
+GroupName	"olfactory mucosal cell transplant recipients"	139	29601
+GroupName	"cell transport medium alone"	116	25883
+GroupName	"cell transport medium alone"	78	18305
+}
+Score [getF1()=0,857, getPrecision()=1,000, getRecall()=0,750, tp=3, fp=0, fn=1, tn=0]
+Score [macroF1=0,857, macroPrecision=1,000, macroRecall=0,750]
+***********************************************************
+
+
+***********************************************************
+|[33/96]======Final Evaluation======_____________N216 Verdu 2003_____________|
+Final State  Model[1,87884] Objective[0,90909] {
+GOLD [14]:
+GroupName	"DMEM rats"	144	20162
+GroupName	"OEC rats"	134	18657
+GroupName	"OEC groups"	146	20559
+GroupName	"OEC experimental group"	145	20425
+GroupName	"groups OEC"	141	19698
+GroupName	"group DMEM"	60	9812
+GroupName	"group OEC"	58	9665
+GroupName	"rats injected with DMEM alone"	129	17932
+GroupName	"rats transplanted with OECs"	129	17868
+GroupName	"OECs-transplanted rats"	6	1291
+GroupName	"DMEM"	141	19713
+GroupName	"DMEM animals"	134	18682
+GroupName	"OEC"	137	19187
+GroupName	"DMEMinjected animals"	6	1322
+}
+PREDICT [5]:
+GroupName	"OECs-transplanted rats"	157	22217
+GroupName	"OEC rats"	133	18526
+GroupName	"OEC groups"	154	21844
+GroupName	"group DMEM"	60	9812
+GroupName	"DMEM-injected rats"	6	1448
+}
+Score [getF1()=0,909, getPrecision()=1,000, getRecall()=0,833, tp=5, fp=0, fn=1, tn=0]
+Score [macroF1=0,909, macroPrecision=1,000, macroRecall=0,833]
+***********************************************************
+
+
+***********************************************************
+|[34/96]======Final Evaluation======_____________N230 Zhang 2011 2_____________|
+Final State  Model[1,41167] Objective[0,44444] {
+GOLD [4]:
+GroupName	"scar ablation and LP transplantation"	129	16624
+GroupName	"combination treatments"	10	1450
+GroupName	"control rats"	127	16180
+GroupName	"transplanted ALP"	159	19304
+}
+PREDICT [4]:
+GroupName	"scar ablation and LP transplantation"	10	1483
+GroupName	"scar ablation and LP transplantation"	129	16624
+GroupName	"Schwann cells"	95	13757
+GroupName	"Schwann cells"	165	20504
+}
+Score [getF1()=0,444, getPrecision()=0,500, getRecall()=0,400, tp=2, fp=2, fn=3, tn=0]
+Score [macroF1=0,444, macroPrecision=0,500, macroRecall=0,400]
+***********************************************************
+
+
+***********************************************************
+|[35/96]======Final Evaluation======_____________N203 Stamegna 2011_____________|
+Final State  Model[1,63995] Objective[0,66667] {
+GOLD [15]:
+GroupName	"theOEC groups"	169	24149
+GroupName	"MEDIUM group"	169	24088
+GroupName	"OEC rat"	63	9743
+GroupName	"contused control rats"	41	6786
+GroupName	"OEC-transplanted rats"	162	22975
+GroupName	"hemi-diaphragmofMEDIUMgroup.However"	169	24277
+GroupName	"toMEDIUMgroup"	170	24461
+GroupName	"transplanted animals"	52	8658
+GroupName	"OEC groups"	161	22845
+GroupName	"MEDIUM rats"	176	25515
+GroupName	"MEDIUM"	41	6815
+GroupName	"OEC rats"	178	25692
+GroupName	"OEC rat groups"	41	6826
+GroupName	"MEDIUM animals"	52	8603
+GroupName	"OEC"	157	22187
+}
+PREDICT [5]:
+GroupName	"OEC group"	191	28256
+GroupName	"OEC group"	177	25627
+GroupName	"MEDIUM group"	178	25744
+GroupName	"MEDIUM group"	202	30168
+GroupName	"OEC rat groups"	41	6826
+}
+Score [getF1()=0,667, getPrecision()=1,000, getRecall()=0,500, tp=5, fp=0, fn=5, tn=0]
+Score [macroF1=0,667, macroPrecision=1,000, macroRecall=0,500]
+***********************************************************
+
+
+***********************************************************
+|[36/96]======Final Evaluation======_____________N136 Centenaro 2011_____________|
+Final State  Model[1,36861] Objective[0,37500] {
+GOLD [19]:
+GroupName	"4WDC—rats"	172	30195
+GroupName	"AT"	94	14301
+GroupName	"AC"	94	14257
+GroupName	"4WDC"	94	14457
+GroupName	"4WDT"	94	14504
+GroupName	"2WDT group"	96	15110
+GroupName	"2WDT—rats"	172	30099
+GroupName	"the2WDC group"	96	15079
+GroupName	"2WDC—rats"	172	30003
+GroupName	"2WDT"	94	14410
+GroupName	"AT—rats"	172	29907
+GroupName	"4WDC group"	96	15138
+GroupName	"AC group"	96	15032
+GroupName	"AC—rats"	172	29811
+GroupName	"2WDC"	94	14354
+GroupName	"4WDT group"	96	15169
+GroupName	"4WDT—rats"	172	30292
+GroupName	"theAT group"	96	15054
+GroupName	"AT group"	203	34820
+}
+PREDICT [4]:
+GroupName	"rostral"	118	19707
+GroupName	"2WDT group"	109	17787
+GroupName	"4WDC"	94	14457
+GroupName	"4WDT"	94	14504
+}
+Score [getF1()=0,375, getPrecision()=0,750, getRecall()=0,250, tp=3, fp=1, fn=9, tn=0]
+Score [macroF1=0,375, macroPrecision=0,750, macroRecall=0,250]
+***********************************************************
+
+
+***********************************************************
+|[37/96]======Final Evaluation======_____________N157 Kalincik 2010_____________|
+Final State  Model[1,76591] Objective[0,72727] {
+GOLD [11]:
+GroupName	"OEC-treated animals"	36	7023
+GroupName	"control groups"	98	16599
+GroupName	"control animals"	37	7307
+GroupName	"control"	4	1277
+GroupName	"control rats"	99	16827
+GroupName	"OEC-treated groups"	152	24242
+GroupName	"OEC-treated"	137	21777
+GroupName	"OEC transplantation"	138	22005
+GroupName	"theOEC-treated groups"	156	25033
+GroupName	"OEC-transplanted animals"	4	1289
+GroupName	"treatment with OECs"	203	34190
+}
+PREDICT [4]:
+GroupName	"control animals"	37	7307
+GroupName	"OEC-treated animals"	36	7023
+GroupName	"control animals"	155	24864
+GroupName	"control animals"	136	21602
+}
+Score [getF1()=0,727, getPrecision()=1,000, getRecall()=0,571, tp=4, fp=0, fn=3, tn=0]
+Score [macroF1=0,727, macroPrecision=1,000, macroRecall=0,571]
+***********************************************************
+
+
+***********************************************************
+|[38/96]======Final Evaluation======_____________N218 Plant 2003_____________|
+Final State  Model[1,51704] Objective[0,47059] {
+GOLD [24]:
+GroupName	"0 d/OEG-medium injected group"	237	30311
+GroupName	"7 d/OEG-fibrin groups"	195	24705
+GroupName	"7 d/OEG-medium"	70	11443
+GroupName	"7d/medium only animals"	6	932
+GroupName	"0 d/contusion only"	70	11281
+GroupName	"Control rats"	65	10598
+GroupName	"0 d/OEG-medium group"	235	30025
+GroupName	"0 d/OEGfibrin"	218	27843
+GroupName	"7 d/OEGmedium"	256	32830
+GroupName	"0 d/OEG-fibrin graft"	8	1440
+GroupName	"contusion/7 d/medium only controls"	231	29548
+GroupName	"7 d/OEG-fibrin group"	241	30899
+GroupName	"7 d/OEG-medium group"	9	1549
+GroupName	"7 d/medium only controls"	9	1663
+GroupName	"contusion/ 7 d/medium only"	70	11347
+GroupName	"0 d/OEG-fibrin groups"	194	24510
+GroupName	"medium-injected control group"	196	24861
+GroupName	"contusion/7 d/medium only control group"	193	24365
+GroupName	"contusion only animals"	248	31774
+GroupName	"0 d/OEGfibrin grafted animals"	252	32276
+GroupName	"0 d/OEG-fibrin"	70	11415
+GroupName	"0 d/OEG-medium"	70	11387
+GroupName	"0 d/OEG-medium grafted animals"	251	32138
+GroupName	"0 d/laminectomy only"	70	11313
+}
+PREDICT [4]:
+GroupName	"contusion only animals"	248	31774
+GroupName	"controls"	8	1526
+GroupName	"controls"	219	27997
+GroupName	"OEG-medium"	70	11447
+}
+Score [getF1()=0,471, getPrecision()=1,000, getRecall()=0,308, tp=4, fp=0, fn=9, tn=0]
+Score [macroF1=0,471, macroPrecision=1,000, macroRecall=0,308]
+***********************************************************
+
+
+***********************************************************
+|[39/96]======Final Evaluation======_____________N200 Sasaki 2004_____________|
+Final State  Model[1,72920] Objective[0,83333] {
+GOLD [8]:
+GroupName	"OEC transplantation group"	241	35227
+GroupName	"transplantation groups"	76	12484
+GroupName	"OEC transplanted group"	80	12760
+GroupName	"DMEM-injected group"	80	12800
+GroupName	"OEC transplantation"	202	27464
+GroupName	"sham injection"	76	12464
+GroupName	"OEC transplant group"	191	25735
+GroupName	"degeneration.OECtransplants"	197	26529
+}
+PREDICT [5]:
+GroupName	"OEC transplantation group"	241	35227
+GroupName	"OEC transplant group"	191	25735
+GroupName	"OEC transplanted group"	80	12760
+GroupName	"DMEM-injected group"	80	12800
+GroupName	"OEC transplantation group"	7	1319
+}
+Score [getF1()=0,833, getPrecision()=1,000, getRecall()=0,714, tp=5, fp=0, fn=2, tn=0]
+Score [macroF1=0,833, macroPrecision=1,000, macroRecall=0,714]
+***********************************************************
+
+
+***********************************************************
+|[40/96]======Final Evaluation======_____________N251 Nategh_____________|
+Final State  Model[1,33217] Objective[0,30769] {
+GOLD [11]:
+GroupName	"OEC"	25	3902
+GroupName	"Schwann"	25	3914
+GroupName	"DMEM groups"	94	12110
+GroupName	"Control"	25	3854
+GroupName	"fibroblast group"	89	11253
+GroupName	"mixed groups"	94	12069
+GroupName	"DMEM"	25	3890
+GroupName	"sham-operated"	25	3869
+GroupName	"fibroblast"	25	3960
+GroupName	"Mixed"	25	3930
+GroupName	"Schwann cell group"	89	11391
+}
+PREDICT [4]:
+GroupName	"mixed groups"	94	12069
+GroupName	"control"	6	1100
+GroupName	"Schwann cells"	41	6091
+GroupName	"injury"	85	10703
+}
+Score [getF1()=0,308, getPrecision()=0,500, getRecall()=0,222, tp=2, fp=2, fn=7, tn=0]
+Score [macroF1=0,308, macroPrecision=0,500, macroRecall=0,222]
+***********************************************************
+
+
+***********************************************************
+|[41/96]======Final Evaluation======_____________N201 Sasaki 2006_____________|
+Final State  Model[1,55695] Objective[0,53333] {
+GOLD [15]:
+GroupName	"SCI1 FG1OEC transplant group"	136	20342
+GroupName	"SCI1FG1OEC transplant groups"	148	22165
+GroupName	"DMEM"	31	5507
+GroupName	"SCI1FG1DMEM group"	134	20006
+GroupName	"SCI1FG1DMEM"	135	20056
+GroupName	"SCI1FG1DMEM groups"	75	11685
+GroupName	"OECs"	31	5490
+GroupName	"OEC transplantation"	142	21158
+GroupName	"transplant group"	143	21415
+GroupName	"experimental groups"	53	8974
+GroupName	"SCI1FG1OEC"	75	11666
+GroupName	"OEC transplant group"	134	19967
+GroupName	"SCI1 FG1OEC"	141	21091
+GroupName	"SCI1 FG1OEC groups"	135	20072
+GroupName	"sham controls"	135	20131
+}
+PREDICT [4]:
+GroupName	"OEC group"	55	9223
+GroupName	"SCI1FG1DMEM group"	55	9249
+GroupName	"SCI1FG1DMEM group"	134	20006
+GroupName	"controls"	107	15398
+}
+Score [getF1()=0,533, getPrecision()=1,000, getRecall()=0,364, tp=4, fp=0, fn=7, tn=0]
+Score [macroF1=0,533, macroPrecision=1,000, macroRecall=0,364]
+***********************************************************
+
+
+***********************************************************
+|[42/96]======Final Evaluation======_____________N147 Garc%2B¡a-Al%2B¡as 2004_____________|
+Final State  Model[1,94761] Objective[0,71429] {
+GOLD [18]:
+GroupName	"group DM rats"	151	23146
+GroupName	"control group"	3	935
+GroupName	"OEC"	132	20591
+GroupName	"DM group"	7	1657
+GroupName	"OEC-transplanted animals"	10	1877
+GroupName	"control DM group"	156	23819
+GroupName	"group SC"	41	7966
+GroupName	"animals with OEC transplantation"	177	27093
+GroupName	"glia-transplanted groups"	142	21802
+GroupName	"group DM"	43	8169
+GroupName	"DM-injected animals"	177	27187
+GroupName	"group OEC"	41	7898
+GroupName	"SC"	177	27179
+GroupName	"DM"	132	20604
+GroupName	"control injured rats"	9	1855
+GroupName	"DM animals"	131	20315
+GroupName	"OEC group"	8	1684
+GroupName	"transplanted"	9	1834
+}
+PREDICT [5]:
+GroupName	"SC"	41	7972
+GroupName	"OEC"	41	7904
+GroupName	"DM"	43	8175
+GroupName	"control DM group"	156	23819
+GroupName	"OEC"	129	20007
+}
+Score [getF1()=0,714, getPrecision()=1,000, getRecall()=0,556, tp=5, fp=0, fn=4, tn=0]
+Score [macroF1=0,714, macroPrecision=1,000, macroRecall=0,556]
+***********************************************************
+
+
+***********************************************************
+|[43/96]======Final Evaluation======_____________N243 Bretzner et al., 2010_____________|
+Final State  Model[1,76069] Objective[0,47619] {
+GOLD [18]:
+GroupName	"veh-DMEM controls"	271	40466
+GroupName	"dbcAMP-OEC"	282	41790
+GroupName	"OEC"	227	34366
+GroupName	"OEC transplants"	273	40697
+GroupName	"veh- DMEM"	253	38220
+GroupName	"rolipram-DMEM treatment group"	267	40041
+GroupName	"cAMP-OEC"	227	34343
+GroupName	"rolipram-OEC"	223	33454
+GroupName	"cAMP-DMEM-treated rat"	170	27550
+GroupName	"veh-OEC"	227	34321
+GroupName	"vehicle-OECs-treated rat"	170	27577
+GroupName	"vehicle-DMEM-treated rat"	170	27432
+GroupName	"veh-DMEM"	256	38393
+GroupName	"cAMP-OECs-treated rat"	170	27611
+GroupName	"rolip-OEC groups"	227	34384
+GroupName	"veh-DMEM control group"	227	34241
+GroupName	"control group (vehicle-DMEM)"	281	41630
+GroupName	"OEC-rolipram group"	267	39978
+}
+PREDICT [5]:
+GroupName	"veh-DMEM"	209	31192
+GroupName	"rolipram-OEC"	223	33454
+GroupName	"cAMP-OEC"	223	33440
+GroupName	"OEC transplants"	4	1022
+GroupName	"veh-DMEM"	256	38393
+}
+Score [getF1()=0,476, getPrecision()=1,000, getRecall()=0,312, tp=5, fp=0, fn=11, tn=0]
+Score [macroF1=0,476, macroPrecision=1,000, macroRecall=0,312]
+***********************************************************
+
+
+***********************************************************
+|[44/96]======Final Evaluation======_____________N145 Fouad 2005_____________|
+Final State  Model[1,89009] Objective[0,71429] {
+GOLD [24]:
+GroupName	"graft-only group"	44	8954
+GroupName	"grafts only"	6	1498
+GroupName	"cABC"	206	31231
+GroupName	"untreated animals"	244	36736
+GroupName	"controls"	189	28873
+GroupName	"animals with grafts"	187	28265
+GroupName	"cABC group"	44	9120
+GroupName	"rats with Matrigel only"	208	31512
+GroupName	"group with grafts"	251	37732
+GroupName	"cABC-treated rats"	189	28890
+GroupName	"grafts/cABC"	256	38644
+GroupName	"group with grafts only"	219	32675
+GroupName	"untreated group"	6	1517
+GroupName	"rats with grafts only"	238	35829
+GroupName	"group with the transplants"	205	31066
+GroupName	"control group"	44	8753
+GroupName	"untreated"	221	32853
+GroupName	"grafted groups"	221	32871
+GroupName	"untreated rats"	218	32541
+GroupName	"grafts and cABC"	238	35876
+GroupName	"groups with no treatment"	256	38601
+GroupName	"group with grafts and cABC"	220	32750
+GroupName	"group of animals subjected to cell grafts and cABC treatment"	259	39010
+GroupName	"group with transplants"	203	30875
+}
+PREDICT [5]:
+GroupName	"control group"	203	30829
+GroupName	"rats with grafts only"	243	36581
+GroupName	"group with grafts"	251	37732
+GroupName	"cABC-treated rats"	189	28890
+GroupName	"group with grafts and cABC"	220	32750
+}
+Score [getF1()=0,714, getPrecision()=1,000, getRecall()=0,556, tp=5, fp=0, fn=4, tn=0]
+Score [macroF1=0,714, macroPrecision=1,000, macroRecall=0,556]
+***********************************************************
+
+
+***********************************************************
+|[45/96]======Final Evaluation======_____________N228 Yazdani 2012_____________|
+Final State  Model[1,58049] Objective[0,61538] {
+GOLD [12]:
+GroupName	"OEC group"	157	19963
+GroupName	"control group"	157	20025
+GroupName	"OEC treated group"	152	19390
+GroupName	"OEC treated"	169	21834
+GroupName	"control ones"	152	19433
+GroupName	"NIMSC treated group"	167	21473
+GroupName	"OECs"	74	11323
+GroupName	"rats receiving NIMSC"	8	1788
+GroupName	"NIMSC treated groups"	169	21801
+GroupName	"control"	75	11451
+GroupName	"NIMSCs"	74	11283
+GroupName	"NIMSC group"	156	19875
+}
+PREDICT [4]:
+GroupName	"control ones"	152	19433
+GroupName	"control group"	170	21982
+GroupName	"control group"	166	21407
+GroupName	"control group"	160	20441
+}
+Score [getF1()=0,615, getPrecision()=1,000, getRecall()=0,444, tp=4, fp=0, fn=5, tn=0]
+Score [macroF1=0,615, macroPrecision=1,000, macroRecall=0,444]
+***********************************************************
+
+
+***********************************************************
+|[46/96]======Final Evaluation======_____________N150 Guest 2008_____________|
+Final State  Model[1,55389] Objective[0,53333] {
+GOLD [15]:
+GroupName	"OEGtransplanted"	102	16603
+GroupName	"controls"	11	1214
+GroupName	"Transplanted"	307	38679
+GroupName	"medium injected animals"	339	43609
+GroupName	"transplanted POEG"	154	24734
+GroupName	"animals transplanted with lentivirally-transfected cells"	290	36300
+GroupName	"transplanted with non-transfected cells"	290	36388
+GroupName	"transplanted animals"	103	16665
+GroupName	"transplant"	261	32502
+GroupName	"transplantswas"	301	37788
+GroupName	"control animals"	81	14119
+GroupName	"POEG-transplanted animals"	17	1885
+GroupName	"transplanted rats"	91	15458
+GroupName	"POEG transplant"	81	14096
+GroupName	"control media-injected"	102	16623
+}
+PREDICT [4]:
+GroupName	"control animals"	344	44121
+GroupName	"controls"	11	1214
+GroupName	"OEGtransplanted"	102	16603
+GroupName	"control animals"	337	43197
+}
+Score [getF1()=0,533, getPrecision()=1,000, getRecall()=0,364, tp=4, fp=0, fn=7, tn=0]
+Score [macroF1=0,533, macroPrecision=1,000, macroRecall=0,364]
+***********************************************************
+
+
+***********************************************************
+|[47/96]======Final Evaluation======_____________N187 Nash 2002_____________|
+Final State  Model[1,86945] Objective[0,55556] {
+GOLD [19]:
+GroupName	"sham control group"	224	32134
+GroupName	"vehicle groups"	187	25985
+GroupName	"MP groups"	189	26376
+GroupName	"MP group"	188	26174
+GroupName	"MP/EC group"	190	26448
+GroupName	"Rats receiving the vehicle for ECs"	59	9422
+GroupName	"theMP/EC group"	224	32066
+GroupName	"sham group"	53	8515
+GroupName	"MP-treated rats"	11	1382
+GroupName	"Rats receiving vehicle for MP"	65	10238
+GroupName	"the group that received ECs alone"	191	26721
+GroupName	"MP/EC"	49	8058
+GroupName	"group that received the combination treatment of ECs and MP"	191	26597
+GroupName	"EC group"	189	26293
+GroupName	"sham"	48	7931
+GroupName	"EC"	49	8042
+GroupName	"vehicle"	48	7965
+GroupName	"MP"	49	8029
+GroupName	"lesion"	48	7945
+}
+PREDICT [5]:
+GroupName	"EC"	49	8042
+GroupName	"EC group"	221	31571
+GroupName	"sham group"	184	25641
+GroupName	"sham group"	53	8515
+GroupName	"sham"	48	7931
+}
+Score [getF1()=0,556, getPrecision()=1,000, getRecall()=0,385, tp=5, fp=0, fn=8, tn=0]
+Score [macroF1=0,556, macroPrecision=1,000, macroRecall=0,385]
+***********************************************************
+
+
+***********************************************************
+|[48/96]======Final Evaluation======_____________N191 Pearse 2007_____________|
+Final State  Model[1,45464] Objective[0,38095] {
+GOLD [26]:
+GroupName	"injury-only controls"	289	47237
+GroupName	"implantation of EGFP-OEG alone within the lesion site"	289	47122
+GroupName	"SCs and OEG injected into the injury"	12	1721
+GroupName	"OEG-only grafts"	10	1348
+GroupName	"injured, male/EGFP SC transplantation"	65	12120
+GroupName	"SCs alone"	371	64639
+GroupName	"injured, male/EGFP fibroblast (FB) transplantation"	65	12032
+GroupName	"injured, no transplantation"	65	11989
+GroupName	"combination of SC and OEG implantation into the injury site"	383	67617
+GroupName	"EGFPþ OEG implants"	328	56213
+GroupName	"Grafts containing EGFPþ SCs"	328	56099
+GroupName	"fibroblast transplants"	360	63294
+GroupName	"Injured only controls"	363	63637
+GroupName	"injured, male/EGFP OEG transplantation"	65	12194
+GroupName	"The SC and OEG combination group"	360	63074
+GroupName	"injured, female SC transplantation into the injury site with male/EGFP OEG transplantation 4 mm on either side in the host cord"	65	12367
+GroupName	"injury only group"	358	62791
+GroupName	"injury only controls"	365	64023
+GroupName	"SCI control"	332	57074
+GroupName	"The other control group, which received fibroblast grafts"	358	62682
+GroupName	"injury controls"	360	63336
+GroupName	"SCs and OEG into the injury site"	371	64657
+GroupName	"the injury only controls"	375	65459
+GroupName	"injured, female SC and male/EGFP OEG (1:1) transplantation"	65	12268
+GroupName	"injured-only controls"	334	57438
+GroupName	"Animals treated with the combination of SCs and OEG into the injury site"	365	63877
+}
+PREDICT [4]:
+GroupName	"injury only controls"	365	64023
+GroupName	"controls"	262	42517
+GroupName	"controls"	270	43319
+GroupName	"transplants"	354	61922
+}
+Score [getF1()=0,381, getPrecision()=1,000, getRecall()=0,235, tp=4, fp=0, fn=13, tn=0]
+Score [macroF1=0,381, macroPrecision=1,000, macroRecall=0,235]
+***********************************************************
+
+
+***********************************************************
+|[49/96]======Final Evaluation======_____________N139 Collazos-Castro 2005_____________|
+Final State  Model[1,54617] Objective[0,57143] {
+GOLD [12]:
+GroupName	"C-7–injured/OEC-transplanted animals"	72	12329
+GroupName	"OEC transplants"	141	20245
+GroupName	"five cell injections as before plus two additional injections at the location of the DCST"	57	9161
+GroupName	"transplant paradigm 1"	68	11292
+GroupName	"contused/transplanted"	153	22648
+GroupName	"controls"	9	855
+GroupName	"C-7– injured"	72	12311
+GroupName	"C-7 contusion and OEC transplantation"	68	11242
+GroupName	"five cell injections, 0.5 mm apart, across the contusion zone"	57	9079
+GroupName	"C-7 contusion"	68	11214
+GroupName	"Control rats"	59	9461
+GroupName	"contusion/ OEC transplantion–treated"	153	22524
+}
+PREDICT [4]:
+GroupName	"transplant paradigm 1"	68	11292
+GroupName	"Control rats"	59	9461
+GroupName	"controls"	9	855
+GroupName	"OEC transplants"	16	1802
+}
+Score [getF1()=0,571, getPrecision()=1,000, getRecall()=0,400, tp=4, fp=0, fn=6, tn=0]
+Score [macroF1=0,571, macroPrecision=1,000, macroRecall=0,400]
+***********************************************************
+
+
+***********************************************************
+|[50/96]======Final Evaluation======_____________N141 Deng 2008_____________|
+Final State  Model[1,65325] Objective[0,72727] {
+GOLD [13]:
+GroupName	"OEC group"	166	22118
+GroupName	"co-graft group"	9	1584
+GroupName	"control group"	164	21777
+GroupName	"co-grafted animals"	11	1873
+GroupName	"group two"	54	8907
+GroupName	"co-graft rats"	148	19310
+GroupName	"BMSC group"	166	22062
+GroupName	"cograft animals"	10	1731
+GroupName	"control"	54	9006
+GroupName	"co-graft"	8	1422
+GroupName	"group 3"	54	8941
+GroupName	"group 4"	54	8973
+GroupName	"group 1"	54	8848
+}
+PREDICT [4]:
+GroupName	"group two"	54	8907
+GroupName	"group 3"	54	8941
+GroupName	"group 4"	54	8973
+GroupName	"co-graft group"	9	1584
+}
+Score [getF1()=0,727, getPrecision()=1,000, getRecall()=0,571, tp=4, fp=0, fn=3, tn=0]
+Score [macroF1=0,727, macroPrecision=1,000, macroRecall=0,571]
+***********************************************************
+
+
+***********************************************************
+|[51/96]======Final Evaluation======_____________N244 Cloutier 2016_____________|
+Final State  Model[1,80897] Objective[0,75000] {
+GOLD [14]:
+GroupName	"OEC-treated animals"	146	24538
+GroupName	"OEC-transplanted group"	102	18353
+GroupName	"OEC-transplanted animals"	153	25729
+GroupName	"GFP-OEC-transplanted group"	131	21847
+GroupName	"OECstransplanted animals"	153	25831
+GroupName	"fibroblast-transplanted group"	131	21882
+GroupName	"fibroblasttransplanted animals"	153	25758
+GroupName	"fibroblast-treated animals"	146	24574
+GroupName	"Control animals"	48	9597
+GroupName	"control groups"	161	27490
+GroupName	"injections of GFP-OECs"	46	9311
+GroupName	"OECtreated animals"	148	24826
+GroupName	"fibroblast-transplanted groupwas"	102	18380
+GroupName	"control group"	6	1484
+}
+PREDICT [3]:
+GroupName	"fibroblast-transplanted group"	134	22613
+GroupName	"OECtreated animals"	148	24826
+GroupName	"fibroblast-treated animals"	146	24574
+}
+Score [getF1()=0,750, getPrecision()=1,000, getRecall()=0,600, tp=3, fp=0, fn=2, tn=0]
+Score [macroF1=0,750, macroPrecision=1,000, macroRecall=0,600]
+***********************************************************
+
+
+***********************************************************
+|[52/96]======Final Evaluation======_____________N248 Imaizumi_____________|
+Final State  Model[1,23104] Objective[0,40000] {
+GOLD [8]:
+GroupName	"OEC"	72	10610
+GroupName	"Schwann cells transplanted groups"	72	10618
+GroupName	"Non-transplanted lesion-controlled rats"	1	424
+GroupName	"Schwann cells"	100	15856
+GroupName	"control lesions"	100	16046
+GroupName	"controls"	78	11574
+GroupName	"transplanted with pig OECs"	100	15826
+GroupName	"Schwann cells transplant groups"	78	11408
+}
+PREDICT [3]:
+GroupName	"Schwann cells"	11	2097
+GroupName	"transection"	152	25855
+GroupName	"Schwann cells"	15	2884
+}
+Score [getF1()=0,400, getPrecision()=0,667, getRecall()=0,286, tp=2, fp=1, fn=5, tn=0]
+Score [macroF1=0,400, macroPrecision=0,667, macroRecall=0,286]
+***********************************************************
+
+
+***********************************************************
+|[53/96]======Final Evaluation======_____________N185 Munoz-Quiles 2009_____________|
+Final State  Model[1,74660] Objective[0,66667] {
+GOLD [19]:
+GroupName	"sham animals"	245	33652
+GroupName	"SA group"	177	23343
+GroupName	"sham-operated group"	38	5887
+GroupName	"SA rats"	36	5664
+GroupName	"Non-T animals"	249	34034
+GroupName	"Non-T"	35	5632
+GroupName	"Chr group"	240	32743
+GroupName	"chronic"	35	5593
+GroupName	"Chr rats"	36	5730
+GroupName	"SA"	35	5585
+GroupName	"sham controls"	44	6699
+GroupName	"nontransplanted"	35	5615
+GroupName	"Non-T group"	177	23394
+GroupName	"Chr groups"	247	33874
+GroupName	"sham rats"	239	32642
+GroupName	"subacute"	35	5575
+GroupName	"Nontransplanted animals"	44	6628
+GroupName	"Non-T rats"	178	23574
+GroupName	"Chr"	35	5602
+}
+PREDICT [5]:
+GroupName	"Non-T animals"	37	5770
+GroupName	"Non-T group"	177	23394
+GroupName	"sham-operated group"	38	5887
+GroupName	"Chr group"	240	32743
+GroupName	"Chr rats"	36	5730
+}
+Score [getF1()=0,667, getPrecision()=1,000, getRecall()=0,500, tp=5, fp=0, fn=5, tn=0]
+Score [macroF1=0,667, macroPrecision=1,000, macroRecall=0,500]
+***********************************************************
+
+
+***********************************************************
+|[54/96]======Final Evaluation======_____________N184 Moriwaki 2014_____________|
+Final State  Model[1,67480] Objective[0,90909] {
+GOLD [12]:
+GroupName	"phosphate-buffered saline (PBS) groups"	38	6652
+GroupName	"respiratory mucosa (RM)"	38	6619
+GroupName	"OM group"	51	8637
+GroupName	"RM group"	51	8699
+GroupName	"respiratory mucosa groups"	12	1675
+GroupName	"PBS rats"	39	6861
+GroupName	"OM tissue rats"	152	21958
+GroupName	"PBS transplanted groups"	94	14599
+GroupName	"OM"	38	6644
+GroupName	"PBS group"	51	8733
+GroupName	"RM"	39	6853
+GroupName	"PBS"	93	14463
+}
+PREDICT [5]:
+GroupName	"PBS"	93	14463
+GroupName	"PBS"	96	15044
+GroupName	"OM"	93	14446
+GroupName	"OM"	96	15027
+GroupName	"RM"	93	14434
+}
+Score [getF1()=0,909, getPrecision()=1,000, getRecall()=0,833, tp=5, fp=0, fn=1, tn=0]
+Score [macroF1=0,909, macroPrecision=1,000, macroRecall=0,833]
+***********************************************************
+
+
+***********************************************************
+|[55/96]======Final Evaluation======_____________N225 Xiao 2005_____________|
+Final State  Model[1,89202] Objective[0,58824] {
+GOLD [27]:
+GroupName	"lesion only animals"	288	41751
+GroupName	"IIIA"	59	10735
+GroupName	"NSFCs engrafted"	63	11398
+GroupName	"MatrigelR matrix alone"	53	9736
+GroupName	"IIB"	56	10305
+GroupName	"lesion plus NSFC-engrafted group"	290	42282
+GroupName	"cell-engrafted group"	325	48759
+GroupName	"lesion plus cell-engrafted animals"	291	42466
+GroupName	"cell-engrafted animals"	327	49093
+GroupName	"experimental group III"	58	10566
+GroupName	"lesion plus engrafted group"	289	42069
+GroupName	"experimental group II"	55	9987
+GroupName	"lesion plus cellengrafted"	295	43268
+GroupName	"lesion only group"	290	42232
+GroupName	"lesion plus NSFC-engrafted"	329	49378
+GroupName	"engrafted animals"	300	44386
+GroupName	"lesion only"	286	41427
+GroupName	"MatrigelR matrix only"	63	11425
+GroupName	"lesion plus engraftment group"	296	43542
+GroupName	"IIA"	56	10279
+GroupName	"NSFC-engrafted group"	326	48939
+GroupName	"IIIB"	61	10939
+GroupName	"control group"	50	9136
+GroupName	"lesion controls"	7	1243
+GroupName	"Matrix alone"	10	1652
+GroupName	"NSFCs suspended in MatrigelR matrix"	53	9697
+GroupName	"lesion plus NSFC-engrafted animals"	288	41879
+}
+PREDICT [5]:
+GroupName	"lesion controls"	7	1243
+GroupName	"engrafted animals"	237	34326
+GroupName	"lesion only animals"	237	34467
+GroupName	"lesion only animals"	295	43306
+GroupName	"control group"	50	9136
+}
+Score [getF1()=0,588, getPrecision()=1,000, getRecall()=0,417, tp=5, fp=0, fn=7, tn=0]
+Score [macroF1=0,588, macroPrecision=1,000, macroRecall=0,417]
+***********************************************************
+
+
+***********************************************************
+|[56/96]======Final Evaluation======_____________N131 Boyd 2004_____________|
+Final State  Model[1,91484] Objective[1,00000] {
+GOLD [6]:
+GroupName	"vehicle control solution"	84	9394
+GroupName	"LacZ-expressing OECs"	84	9469
+GroupName	"noninfected fetal rat OECs"	87	9853
+GroupName	"uninfected OECs"	84	9434
+GroupName	"animals that received vehicle injection alone"	86	9582
+GroupName	"controls"	87	9790
+}
+PREDICT [5]:
+GroupName	"controls"	87	9790
+GroupName	"animals that received vehicle injection alone"	86	9582
+GroupName	"uninfected OECs"	84	9434
+GroupName	"vehicle control solution"	84	9394
+GroupName	"LacZ-expressing OECs"	84	9469
+}
+Score [getF1()=1,000, getPrecision()=1,000, getRecall()=1,000, tp=5, fp=0, fn=0, tn=0]
+Score [macroF1=1,000, macroPrecision=1,000, macroRecall=1,000]
+***********************************************************
+
+
+***********************************************************
+|[57/96]======Final Evaluation======_____________N130 Barbour 2013_____________|
+Final State  Model[1,56153] Objective[0,33333] {
+GOLD [38]:
+GroupName	"medium injected controls"	252	38845
+GroupName	"SCs-transplanted group"	214	32269
+GroupName	"SCstransplanted group"	217	32876
+GroupName	"OEG"	37	7296
+GroupName	"transplanted groups"	216	32623
+GroupName	"control scores"	296	46411
+GroupName	"treatment"	6	1422
+GroupName	"injury alone"	37	7545
+GroupName	"medium-injected group"	214	32173
+GroupName	"OEG group"	252	38775
+GroupName	"controls"	282	43838
+GroupName	"OEG injected rats"	298	46690
+GroupName	"OEGtransplanted group"	217	32826
+GroupName	"control injury only"	5	1282
+GroupName	"SCs transplanted rats"	283	43904
+GroupName	"control groups"	6	1436
+GroupName	"medium injected control group"	256	39345
+GroupName	"SCs transplanted group"	247	37999
+GroupName	"OEG-transplanted group"	214	32219
+GroupName	"OEG transplanted rats"	9	1823
+GroupName	"SCs treated groups"	11	2202
+GroupName	"controls"	216	32686
+GroupName	"control injury only rats"	286	44458
+GroupName	"SCs grafted groups"	284	44058
+GroupName	"SCs"	37	7357
+GroupName	"injury only"	298	46762
+GroupName	"medium treated spinal cords"	244	37557
+GroupName	"medium injected group"	292	45825
+GroupName	"SCs group"	251	38673
+GroupName	"SCs transplanted animals"	9	1862
+GroupName	"medium injected control sections"	251	38567
+GroupName	"control injury only group"	280	43554
+GroupName	"SCs grafted animals"	286	44562
+GroupName	"medium injected"	292	45664
+GroupName	"control group"	126	21853
+GroupName	"OEG treated rats"	286	44529
+GroupName	"controls received an injection of cell culture medium"	37	7435
+GroupName	"OEG spinal cords"	244	37473
+}
+PREDICT [5]:
+GroupName	"OEG-transplanted group"	218	33108
+GroupName	"SCs"	37	7357
+GroupName	"medium-injected group"	214	32173
+GroupName	"medium-injected group"	215	32438
+GroupName	"medium-injected group"	217	32779
+}
+Score [getF1()=0,333, getPrecision()=1,000, getRecall()=0,200, tp=5, fp=0, fn=20, tn=0]
+Score [macroF1=0,333, macroPrecision=1,000, macroRecall=0,200]
+***********************************************************
+
+
+***********************************************************
+|[58/96]======Final Evaluation======_____________N212 Torres-Esp¡n 2014_____________|
+Final State  Model[1,51097] Objective[0,47059] {
+GOLD [22]:
+GroupName	"OEC–7 dpo"	63	11654
+GroupName	"groups OEC"	256	33776
+GroupName	"MSC–0 dpo"	62	11464
+GroupName	"control"	287	38376
+GroupName	"vehicle-injected group"	285	37962
+GroupName	"OEC grafted group"	286	38153
+GroupName	"delayed VE group"	282	37350
+GroupName	"OEC transplant group at 7 days"	248	32981
+GroupName	"vehicle group"	299	40360
+GroupName	"acute MSC transplant"	248	32904
+GroupName	"VE–7 dpo"	63	11595
+GroupName	"VE acute groups"	257	34006
+GroupName	"VE–0 dpo"	62	11431
+GroupName	"VE"	256	33791
+GroupName	"MSC–7 dpo"	63	11623
+GroupName	"MSC"	299	40310
+GroupName	"vehicle groups"	248	32933
+GroupName	"OEC"	257	33998
+GroupName	"OEC– 0 dpo"	62	11500
+GroupName	"acute MSC transplanted rats"	320	43568
+GroupName	"OEC treated groups"	299	40318
+GroupName	"MSC group"	256	33708
+}
+PREDICT [4]:
+GroupName	"vehicle-injected group"	285	37962
+GroupName	"control"	287	38376
+GroupName	"dpo"	64	11853
+GroupName	"dpo"	64	11903
+}
+Score [getF1()=0,471, getPrecision()=1,000, getRecall()=0,308, tp=4, fp=0, fn=9, tn=0]
+Score [macroF1=0,471, macroPrecision=1,000, macroRecall=0,308]
+***********************************************************
+
+
+***********************************************************
+|[59/96]======Final Evaluation======_____________N159 Keyvan-Fouladi 2003_____________|
+Final State  Model[1,26473] Objective[0,57143] {
+GOLD [9]:
+GroupName	"lesioned rats (without transplants)"	36	5619
+GroupName	"OEC-conditioned medium"	42	6515
+GroupName	"injections of OECconditioned medium"	88	14136
+GroupName	"injections of OEC-conditioned medium"	34	5475
+GroupName	"transplanted OECs"	91	15184
+GroupName	"transplants of OECs"	34	5428
+GroupName	"untransplanted rats"	85	13776
+GroupName	"OECs"	42	6498
+GroupName	"control injections of OEC-conditioned medium"	81	13014
+}
+PREDICT [3]:
+GroupName	"transplanted OECs"	84	13482
+GroupName	"OEC-conditioned medium"	81	13036
+GroupName	"4"	78	12619
+}
+Score [getF1()=0,571, getPrecision()=0,667, getRecall()=0,500, tp=2, fp=1, fn=2, tn=0]
+Score [macroF1=0,571, macroPrecision=0,667, macroRecall=0,500]
+***********************************************************
+
+
+***********************************************************
+|[60/96]======Final Evaluation======_____________N165 Li 2010_____________|
+Final State  Model[1,33218] Objective[1,00000] {
+GOLD [2]:
+GroupName	"experimental group"	48	8158
+GroupName	"control group"	48	8186
+}
+PREDICT [3]:
+GroupName	"control group"	68	10210
+GroupName	"control group"	68	10251
+GroupName	"control group"	35	6442
+}
+Score [getF1()=1,000, getPrecision()=1,000, getRecall()=1,000, tp=3, fp=0, fn=0, tn=0]
+Score [macroF1=1,000, macroPrecision=1,000, macroRecall=1,000]
+***********************************************************
+
+
+***********************************************************
+|[61/96]======Final Evaluation======_____________N189 Novikova 2011_____________|
+Final State  Model[1,43159] Objective[0,66667] {
+GOLD [8]:
+GroupName	"a-OEC ST"	79	15376
+GroupName	"Short-term cultured a-OEC"	9	1462
+GroupName	"control animals"	188	31535
+GroupName	"SCI"	79	15297
+GroupName	"b-OEC ST"	79	15547
+GroupName	"a-OEC LT"	79	15460
+GroupName	"long-term cultured OEC"	12	1935
+GroupName	"Shortterm cultured b-OEC"	10	1621
+}
+PREDICT [3]:
+GroupName	"b-OEC ST"	79	15547
+GroupName	"a-OEC ST"	79	15376
+GroupName	"a-OEC LT"	79	15460
+}
+Score [getF1()=0,667, getPrecision()=1,000, getRecall()=0,500, tp=3, fp=0, fn=3, tn=0]
+Score [macroF1=0,667, macroPrecision=1,000, macroRecall=0,500]
+***********************************************************
+
+
+***********************************************************
+|[62/96]======Final Evaluation======_____________N154 Iwatsuki 2008_____________|
+Final State  Model[1,60124] Objective[0,85714] {
+GOLD [9]:
+GroupName	"respiratory mucosa-transplanted rats"	1	1028
+GroupName	"respiratory mucosa"	23	4264
+GroupName	"respiratory mucosatransplanted groups"	27	4713
+GroupName	"control rats"	54	8610
+GroupName	"olfactory mucosa transplantation"	1	1206
+GroupName	"olfactory mucosa"	23	4193
+GroupName	"respiratory mucosa-transplanted groups"	39	6270
+GroupName	"olfactory mucosa- transplanted rats"	1	1070
+GroupName	"olfactory"	27	4699
+}
+PREDICT [3]:
+GroupName	"control rats"	54	8610
+GroupName	"respiratory mucosa-transplanted rats"	1	1028
+GroupName	"respiratory mucosa"	23	4264
+}
+Score [getF1()=0,857, getPrecision()=1,000, getRecall()=0,750, tp=3, fp=0, fn=1, tn=0]
+Score [macroF1=0,857, macroPrecision=1,000, macroRecall=0,750]
+***********************************************************
+
+
+***********************************************************
+|[63/96]======Final Evaluation======_____________N193 Ramer 2004_____________|
+Final State  Model[1,54762] Objective[0,88889] {
+GOLD [10]:
+GroupName	"mice that had received GFP-positive LPOEC"	176	42378
+GroupName	"animals that received OEC"	117	28701
+GroupName	"rats that received LP-OEC"	160	38853
+GroupName	"rats that had received LP-OEC"	118	28897
+GroupName	"treated animals"	178	42751
+GroupName	"control animals"	161	39106
+GroupName	"animals that received OECs"	118	29016
+GroupName	"control rats"	118	28973
+GroupName	"control group"	178	42870
+GroupName	"rats that received OEC"	140	34501
+}
+PREDICT [4]:
+GroupName	"control rats"	159	38564
+GroupName	"control animals"	148	36424
+GroupName	"control rats"	139	34317
+GroupName	"control group"	178	42870
+}
+Score [getF1()=0,889, getPrecision()=1,000, getRecall()=0,800, tp=4, fp=0, fn=1, tn=0]
+Score [macroF1=0,889, macroPrecision=1,000, macroRecall=0,800]
+***********************************************************
+
+
+***********************************************************
+|[64/96]======Final Evaluation======_____________N158 Kang 2015_____________|
+Final State  Model[1,64333] Objective[0,36364] {
+GOLD [11]:
+GroupName	"NSCs + MBL group"	83	11129
+GroupName	"MBL with NSC transplantation group"	8	775
+GroupName	"MBL with NSC and OEC transplantation group"	8	859
+GroupName	"MBL with OEC transplantation group"	8	815
+GroupName	"NSCs only group"	83	11075
+GroupName	"OECs + MBL group"	83	11157
+GroupName	"NSCs + OECs + MBL group"	83	11189
+GroupName	"OEC transplantation group"	8	744
+GroupName	"OECs only group"	83	11102
+GroupName	"blank control group"	83	11044
+GroupName	"NSC transplantation group"	8	713
+}
+PREDICT [4]:
+GroupName	"MBL"	193	18073
+GroupName	"media"	81	10771
+GroupName	"MBL"	200	19287
+GroupName	"Group B"	197	18634
+}
+Score [getF1()=0,364, getPrecision()=0,500, getRecall()=0,286, tp=2, fp=2, fn=5, tn=0]
+Score [macroF1=0,364, macroPrecision=0,500, macroRecall=0,286]
+***********************************************************
+
+
+***********************************************************
+|[65/96]======Final Evaluation======_____________N167 Li 2012_____________|
+Final State  Model[1,73270] Objective[0,83333] {
+GOLD [14]:
+GroupName	"SCs receiving animals"	118	20057
+GroupName	"DMEM group"	124	21421
+GroupName	"SCs group"	118	19927
+GroupName	"OECs group"	118	19904
+GroupName	"SCs rats"	122	20713
+GroupName	"OECs transplanted rats"	121	20586
+GroupName	"controls"	123	20978
+GroupName	"OECs receiving animals"	118	20110
+GroupName	"DMEM injected rats"	121	20681
+GroupName	"OECsinjected rats"	123	20861
+GroupName	"SCs-"	123	20852
+GroupName	"control animals"	48	8426
+GroupName	"OECs rats"	122	20744
+GroupName	"DMEM rats"	122	20803
+}
+PREDICT [5]:
+GroupName	"DMEM group"	124	21421
+GroupName	"SCs group"	94	15496
+GroupName	"OECs group"	96	15706
+GroupName	"controls"	123	20978
+GroupName	"SCs group"	124	21470
+}
+Score [getF1()=0,833, getPrecision()=1,000, getRecall()=0,714, tp=5, fp=0, fn=2, tn=0]
+Score [macroF1=0,833, macroPrecision=1,000, macroRecall=0,714]
+***********************************************************
+
+
+***********************************************************
+|[66/96]======Final Evaluation======_____________N208 Takeoka 2011_____________|
+Final State  Model[2,47572] Objective[0,48000] {
+GOLD [25]:
+GroupName	"OEG-untrained rats"	212	29303
+GroupName	"mediauntrained rats"	212	29370
+GroupName	"OEGuntrained"	276	40109
+GroupName	"OEG"	324	50305
+GroupName	"-untrained group"	277	40268
+GroupName	"OEG-trained"	67	11787
+GroupName	"media-injected"	323	50047
+GroupName	"OEG-untrained group"	216	29776
+GroupName	"media groups"	325	50659
+GroupName	"-trained groups"	215	29724
+GroupName	"media-trained"	67	11743
+GroupName	"OEG-untrained"	67	11765
+GroupName	"media"	324	50251
+GroupName	"media-untrained"	67	11719
+GroupName	"media-"	333	52636
+GroupName	"OEG-injected"	323	50019
+GroupName	"OEG-"	294	44340
+GroupName	"OEGuntrained rats"	220	30414
+GroupName	"OEG transplantation alone"	223	30840
+GroupName	"trained groups"	219	30322
+GroupName	"OEG-trained rats"	220	30457
+GroupName	"OEG-trained group"	216	29857
+GroupName	"OEG-injected rats"	333	52516
+GroupName	"media-injected rats"	294	44350
+GroupName	"OEG groups"	291	43720
+}
+PREDICT [6]:
+GroupName	"OEG-trained rats"	198	26766
+GroupName	"OEG-untrained"	207	28425
+GroupName	"OEG-trained"	207	28453
+GroupName	"media-trained"	207	28401
+GroupName	"media-untrained"	207	28376
+GroupName	"media-untrained"	67	11719
+}
+Score [getF1()=0,480, getPrecision()=1,000, getRecall()=0,316, tp=6, fp=0, fn=13, tn=0]
+Score [macroF1=0,480, macroPrecision=1,000, macroRecall=0,316]
+***********************************************************
+
+
+***********************************************************
+|[67/96]======Final Evaluation======_____________N253 Salehi 2009_____________|
+Final State  Model[1,60274] Objective[0,80000] {
+GOLD [11]:
+GroupName	"ESMN group"	33	4462
+GroupName	"control group"	33	4278
+GroupName	"mediuminjected groups"	6	756
+GroupName	"ESMN"	173	19338
+GroupName	"co-transplanted group"	11	1355
+GroupName	"medium-injected group"	33	4344
+GroupName	"Control"	6	744
+GroupName	"OEC group"	33	4406
+GroupName	"OEC"	173	19317
+GroupName	"OEC + ESMN"	173	19362
+GroupName	"OEC + ESMN group"	33	4532
+}
+PREDICT [4]:
+GroupName	"OEC group"	33	4406
+GroupName	"ESMN group"	129	15011
+GroupName	"control group"	131	15100
+GroupName	"ESMN group"	33	4462
+}
+Score [getF1()=0,800, getPrecision()=1,000, getRecall()=0,667, tp=4, fp=0, fn=2, tn=0]
+Score [macroF1=0,800, macroPrecision=1,000, macroRecall=0,667]
+***********************************************************
+
+
+***********************************************************
+|[68/96]======Final Evaluation======_____________N246 Gu 2017_____________|
+Final State  Model[1,83245] Objective[1,00000] {
+GOLD [10]:
+GroupName	"low-dose OEC-M group"	229	33118
+GroupName	"high-dose OEC-M group"	229	33143
+GroupName	"higher dose of OEC-M"	9	1271
+GroupName	"low dose group"	98	12234
+GroupName	"Con-M group"	228	32971
+GroupName	"high dose OEC-M"	2	541
+GroupName	"high dose"	97	12048
+GroupName	"low dose OEC-M"	2	515
+GroupName	"Con-M"	132	17183
+GroupName	"high dose OECM group"	133	17369
+}
+PREDICT [5]:
+GroupName	"low dose OEC-M"	2	515
+GroupName	"low-dose OEC-M group"	226	32774
+GroupName	"high-dose OEC-M group"	226	32807
+GroupName	"Con-M group"	8	1164
+GroupName	"Con-M group"	127	16388
+}
+Score [getF1()=1,000, getPrecision()=1,000, getRecall()=1,000, tp=5, fp=0, fn=0, tn=0]
+Score [macroF1=1,000, macroPrecision=1,000, macroRecall=1,000]
+***********************************************************
+
+
+***********************************************************
+|[69/96]======Final Evaluation======_____________N215 Verdu 2001_____________|
+Final State  Model[1,88259] Objective[1,00000] {
+GOLD [7]:
+GroupName	"transplanted groups"	57	9209
+GroupName	"group RB5+EC"	31	5092
+GroupName	"control group"	33	5271
+GroupName	"control"	57	9197
+GroupName	"group RB5"	33	5286
+GroupName	"non-transplanted rats"	3	688
+GroupName	"transplanted rats"	4	906
+}
+PREDICT [5]:
+GroupName	"non-transplanted rats"	3	688
+GroupName	"group RB5"	84	12138
+GroupName	"transplanted rats"	88	12791
+GroupName	"control group"	33	5271
+GroupName	"transplanted rats"	76	11054
+}
+Score [getF1()=1,000, getPrecision()=1,000, getRecall()=1,000, tp=5, fp=0, fn=0, tn=0]
+Score [macroF1=1,000, macroPrecision=1,000, macroRecall=1,000]
+***********************************************************
+
+
+***********************************************************
+|[70/96]======Final Evaluation======_____________N151 Huang 2010_____________|
+Final State  Model[1,26219] Objective[0,00000] {
+GOLD [5]:
+GroupName	"treated rats"	8	2262
+GroupName	"BrdU+ cells"	72	10661
+GroupName	"sham control rats"	88	13510
+GroupName	"injured"	89	13589
+GroupName	"repaired rats"	88	13433
+}
+PREDICT [3]:
+GroupName	"rostral"	20	3503
+GroupName	"d"	0	158
+GroupName	"d"	0	211
+}
+Score [getF1()=0,000, getPrecision()=0,000, getRecall()=0,000, tp=0, fp=3, fn=5, tn=0]
+Score [macroF1=0,000, macroPrecision=0,000, macroRecall=0,000]
+***********************************************************
+
+
+***********************************************************
+|[71/96]======Final Evaluation======_____________N171 L+¦pez Vales 2007_____________|
+Final State  Model[1,36182] Objective[0,66667] {
+GOLD [5]:
+GroupName	"Control animals"	41	7748
+GroupName	"OEC transplant"	121	18215
+GroupName	"DM-injected animals"	120	18076
+GroupName	"OEC group"	40	7728
+GroupName	"DM group"	41	7855
+}
+PREDICT [3]:
+GroupName	"DM-injected animals"	127	19042
+GroupName	"group DM"	144	22454
+GroupName	"transplantation"	38	7245
+}
+Score [getF1()=0,667, getPrecision()=0,667, getRecall()=0,667, tp=2, fp=1, fn=1, tn=0]
+Score [macroF1=0,667, macroPrecision=0,667, macroRecall=0,667]
+***********************************************************
+
+
+***********************************************************
+|[72/96]======Final Evaluation======_____________N196 Richter 2005_____________|
+Final State  Model[1,54766] Objective[1,00000] {
+GOLD [15]:
+GroupName	"directly transplanted OB rats"	243	42331
+GroupName	"control rats"	244	42516
+GroupName	"direct LP OEC"	78	14075
+GroupName	"R/C control"	78	14182
+GroupName	"R/C OB OEC"	78	14136
+GroupName	"directOBOEC transplants"	186	30456
+GroupName	"OB-transplanted rats"	253	44420
+GroupName	"direct control"	78	14155
+GroupName	"LP OEC"	253	44570
+GroupName	"R/C LP OEC"	78	14095
+GroupName	"direct OB OEC"	78	14114
+GroupName	"rostrocaudally transplanted LP rats"	244	42476
+GroupName	"control"	243	42312
+GroupName	"control animals"	257	45528
+GroupName	"Rostrocaudally transplanted OB OEC rats"	244	42403
+}
+PREDICT [4]:
+GroupName	"control animals"	234	40303
+GroupName	"OEC transplants"	222	38061
+GroupName	"control rats"	244	42516
+GroupName	"control animals"	158	25624
+}
+Score [getF1()=1,000, getPrecision()=1,000, getRecall()=1,000, tp=4, fp=0, fn=0, tn=0]
+Score [macroF1=1,000, macroPrecision=1,000, macroRecall=1,000]
+***********************************************************
+
+
+***********************************************************
+|[73/96]======Final Evaluation======_____________N211 Toft 2012_____________|
+Final State  Model[1,50948] Objective[0,53333] {
+GOLD [10]:
+GroupName	"SF"	5	1344
+GroupName	"OBFB-like cells"	6	1450
+GroupName	"mixed cell populations"	6	1491
+GroupName	"OM"	5	1225
+GroupName	"OBFB-L"	5	1133
+GroupName	"OEC/OBFB-L"	5	1181
+GroupName	"SCs"	5	1275
+GroupName	"peripheral nerve fibroblasts"	5	1286
+GroupName	"PNFB"	165	26331
+GroupName	"OECs"	5	1074
+}
+PREDICT [4]:
+GroupName	"SF"	146	24371
+GroupName	"SF"	5	1344
+GroupName	"OM"	5	1225
+GroupName	"SCs"	5	1275
+}
+Score [getF1()=0,533, getPrecision()=1,000, getRecall()=0,364, tp=4, fp=0, fn=7, tn=0]
+Score [macroF1=0,533, macroPrecision=1,000, macroRecall=0,364]
+***********************************************************
+
+
+***********************************************************
+|[74/96]======Final Evaluation======_____________N226 Xiao 2007_____________|
+Final State  Model[1,57575] Objective[0,66667] {
+GOLD [6]:
+GroupName	"NSFCs-engrafted animal"	141	22120
+GroupName	"NSFCs-engrafted subgroups"	6	1078
+GroupName	"Matrigel® matrix alone"	31	6795
+GroupName	"lesion-matrix-only"	141	22079
+GroupName	"NSFCs suspended in Matrigel® matrix"	31	6749
+GroupName	"control rats"	3	654
+}
+PREDICT [4]:
+GroupName	"control rats"	3	654
+GroupName	"NSFCs-engrafted animal"	141	22120
+GroupName	"lesion-matrix-only"	141	22079
+GroupName	"animals"	163	24772
+}
+Score [getF1()=0,667, getPrecision()=0,750, getRecall()=0,600, tp=3, fp=1, fn=2, tn=0]
+Score [macroF1=0,667, macroPrecision=0,750, macroRecall=0,600]
+***********************************************************
+
+
+***********************************************************
+|[75/96]======Final Evaluation======_____________N209 Tharion 2011_____________|
+Final State  Model[1,76595] Objective[1,00000] {
+GOLD [9]:
+GroupName	"cell-treated group"	105	15032
+GroupName	"control group"	51	7193
+GroupName	"transplanted test group"	107	15418
+GroupName	"test group"	51	7222
+GroupName	"test"	78	10915
+GroupName	"control untreated group"	105	15096
+GroupName	"control"	8	1003
+GroupName	"control rats"	78	10928
+GroupName	"control animals"	107	15486
+}
+PREDICT [4]:
+GroupName	"test group"	51	7222
+GroupName	"control rats"	90	12642
+GroupName	"control group"	51	7193
+GroupName	"test group"	90	12579
+}
+Score [getF1()=1,000, getPrecision()=1,000, getRecall()=1,000, tp=4, fp=0, fn=0, tn=0]
+Score [macroF1=1,000, macroPrecision=1,000, macroRecall=1,000]
+***********************************************************
+
+
+***********************************************************
+|[76/96]======Final Evaluation======_____________N144 Ferrero-Gutierrez 2013_____________|
+Final State  Model[1,57740] Objective[0,66667] {
+GOLD [13]:
+GroupName	"G2"	97	16022
+GroupName	"G3"	98	16118
+GroupName	"G1"	96	15960
+GroupName	"scaffold plus cells"	212	28629
+GroupName	"scaffold alone"	212	28560
+GroupName	"SCI with cell seeded scaffold"	98	16123
+GroupName	"SCI with cell seeded scaffold rats"	197	25750
+GroupName	"control group"	210	28380
+GroupName	"SCIonly rats"	210	28227
+GroupName	"SCI + scaffold"	97	16027
+GroupName	"control injured, untreated animals"	10	1556
+GroupName	"rats in group SCI with cell seeded scaffold"	210	28044
+GroupName	"SCI-only"	96	15965
+}
+PREDICT [4]:
+GroupName	"G3"	98	16118
+GroupName	"scaffold alone"	142	21308
+GroupName	"G2"	97	16022
+GroupName	"G1"	96	15960
+}
+Score [getF1()=0,667, getPrecision()=1,000, getRecall()=0,500, tp=4, fp=0, fn=4, tn=0]
+Score [macroF1=0,667, macroPrecision=1,000, macroRecall=0,500]
+***********************************************************
+
+
+***********************************************************
+|[77/96]======Final Evaluation======_____________N182 Moon 2006_____________|
+Final State  Model[1,51098] Objective[1,00000] {
+GOLD [13]:
+GroupName	"OEG groups"	143	19503
+GroupName	"SC/OEG groups"	143	19571
+GroupName	"OEG/MEH"	233	29621
+GroupName	"MEH rats"	232	29386
+GroupName	"MEH groups"	84	10910
+GroupName	"BH"	84	10903
+GroupName	"OEG/BH"	233	29649
+GroupName	"OEG-transplanted rats"	190	23936
+GroupName	"SC/OEGtransplanted rats"	191	24013
+GroupName	"rats housed in BH"	242	30729
+GroupName	"SC/OEG/BH"	227	28721
+GroupName	"rats housed in MEH"	242	30646
+GroupName	"SC/OEG/MEH"	227	28689
+}
+PREDICT [4]:
+GroupName	"OEG groups"	143	19503
+GroupName	"OEG-transplanted rats"	190	23936
+GroupName	"MEH rats"	178	23108
+GroupName	"BH"	193	24303
+}
+Score [getF1()=1,000, getPrecision()=1,000, getRecall()=1,000, tp=4, fp=0, fn=0, tn=0]
+Score [macroF1=1,000, macroPrecision=1,000, macroRecall=1,000]
+***********************************************************
+
+
+***********************************************************
+|[78/96]======Final Evaluation======_____________N214 Vavrek 2007_____________|
+Final State  Model[1,61081] Objective[0,88889] {
+GOLD [5]:
+GroupName	"Treated rats"	8	1288
+GroupName	"control group"	37	5721
+GroupName	"control"	6	1070
+GroupName	"treated group"	30	4722
+GroupName	"combined treatment"	46	6836
+}
+PREDICT [4]:
+GroupName	"treated group"	30	4722
+GroupName	"treated group"	71	10377
+GroupName	"control group"	46	6871
+GroupName	"treated rats"	80	12370
+}
+Score [getF1()=0,889, getPrecision()=1,000, getRecall()=0,800, tp=4, fp=0, fn=1, tn=0]
+Score [macroF1=0,889, macroPrecision=1,000, macroRecall=0,800]
+***********************************************************
+
+
+***********************************************************
+|[79/96]======Final Evaluation======_____________N153 Imaizumi 2000_____________|
+Final State  Model[1,55386] Objective[0,61538] {
+GOLD [13]:
+GroupName	"transected spinal cords injected with control media"	158	24294
+GroupName	"intact controls"	129	20060
+GroupName	"Schwann cells"	165	26390
+GroupName	"intact control spinal cords"	118	18233
+GroupName	"controls"	166	26527
+GroupName	"Schwann cell transplants"	124	19158
+GroupName	"intact control"	129	19913
+GroupName	"OECs"	165	26381
+GroupName	"OEC transplantation"	118	18108
+GroupName	"unlesioned"	162	25433
+GroupName	"unlesioned controls"	164	26010
+GroupName	"control"	162	25205
+GroupName	"Schwann cell transplantation"	118	18161
+}
+PREDICT [4]:
+GroupName	"Schwann cell transplantation"	116	17716
+GroupName	"Schwann cells"	165	26390
+GroupName	"transected spinal cords injected with control media"	158	24294
+GroupName	"control"	128	19799
+}
+Score [getF1()=0,615, getPrecision()=1,000, getRecall()=0,444, tp=4, fp=0, fn=5, tn=0]
+Score [macroF1=0,615, macroPrecision=1,000, macroRecall=0,444]
+***********************************************************
+
+
+***********************************************************
+|[80/96]======Final Evaluation======_____________N177 Luo 2013_____________|
+Final State  Model[1,72583] Objective[0,90909] {
+GOLD [19]:
+GroupName	"OECs transplanta-tion group"	100	14062
+GroupName	"SCT"	97	13290
+GroupName	"co-transplantation rats.The"	6	2060
+GroupName	"OECs"	98	13356
+GroupName	"co-transplantation of NSCs with OECs"	98	13445
+GroupName	"co-transplantation group"	101	14354
+GroupName	"OECs transplantationgroup"	98	13539
+GroupName	"transplantation of NSCs with OECs"	113	15860
+GroupName	"SCT rats"	99	13911
+GroupName	"NSCs grafts"	100	14099
+GroupName	"sham group"	99	13658
+GroupName	"sham group.The"	101	14383
+GroupName	"inco-transplantation rats"	108	15208
+GroupName	"NSCs"	108	15144
+GroupName	"NSCs group"	110	15469
+GroupName	"sham one"	97	13335
+GroupName	"co-transplantation NSCs withOECs"	100	13987
+GroupName	"orOECs transplantation rats"	108	15149
+GroupName	"SCT one"	98	13416
+}
+PREDICT [5]:
+GroupName	"sham one"	97	13335
+GroupName	"OECs transplantationgroup"	98	13539
+GroupName	"SCT rats"	99	13911
+GroupName	"SCT one"	98	13416
+GroupName	"NSCs group"	110	15469
+}
+Score [getF1()=0,909, getPrecision()=1,000, getRecall()=0,833, tp=5, fp=0, fn=1, tn=0]
+Score [macroF1=0,909, macroPrecision=1,000, macroRecall=0,833]
+***********************************************************
+
+
+***********************************************************
+|[81/96]======Final Evaluation======_____________N188 Negredo 2008_____________|
+Final State  Model[1,89968] Objective[0,55556] {
+GOLD [21]:
+GroupName	"non-transplanted SCT rats"	4	1389
+GroupName	"Transplantation of OEG"	207	40293
+GroupName	"OEG transplantation"	212	41224
+GroupName	"SCT"	65	13707
+GroupName	"non-transplanted"	5	1612
+GroupName	"OEG-transplanted rats"	4	1318
+GroupName	"non-transplanted animals"	65	13681
+GroupName	"sham-operated (without SCT) controls (C)"	4	1419
+GroupName	"non-transplanted SCT-animals"	187	36322
+GroupName	"controls"	187	36281
+GroupName	"SCT animals"	210	41040
+GroupName	"control un-injured group"	66	13840
+GroupName	"SCT+CT animals"	63	13314
+GroupName	"sham operated"	66	13822
+GroupName	"control animals"	200	38888
+GroupName	"control"	194	37761
+GroupName	"OEG-transplanted animals"	187	36208
+GroupName	"control level"	211	41188
+GroupName	"transplanted animals"	186	36103
+GroupName	"sham-operated controls"	5	1633
+GroupName	"fromcontrols"	201	39071
+}
+PREDICT [5]:
+GroupName	"sham-operated controls"	186	36132
+GroupName	"SCT"	65	13707
+GroupName	"non-transplanted animals"	191	37105
+GroupName	"controls"	205	39953
+GroupName	"non-transplanted animals"	194	37674
+}
+Score [getF1()=0,556, getPrecision()=1,000, getRecall()=0,385, tp=5, fp=0, fn=8, tn=0]
+Score [macroF1=0,556, macroPrecision=1,000, macroRecall=0,385]
+***********************************************************
+
+
+***********************************************************
+|[82/96]======Final Evaluation======_____________N174 L+¦pez-Vales 2006 3_____________|
+Final State  Model[1,43588] Objective[0,35294] {
+GOLD [17]:
+GroupName	"acute OEC graft"	142	22909
+GroupName	"acute OEC transplant"	195	32403
+GroupName	"DMdl group"	40	8478
+GroupName	"group OECac"	143	23098
+GroupName	"delayed OEC transplants"	4	1476
+GroupName	"1 week delayed transplant"	195	32443
+GroupName	"Delayed OEC grafts"	185	30554
+GroupName	"DMac"	148	23975
+GroupName	"OECdl group"	39	8325
+GroupName	"OECac"	139	22516
+GroupName	"DMdl"	148	23981
+GroupName	"OECac group"	39	8285
+GroupName	"rats receiving acute"	4	1450
+GroupName	"delayed transplant"	142	23003
+GroupName	"group OECdl"	143	23140
+GroupName	"DMac group"	40	8437
+GroupName	"delayed OEC transplantation"	190	31388
+}
+PREDICT [4]:
+GroupName	"OECdl"	133	21590
+GroupName	"DM-injected animals"	128	20947
+GroupName	"group OECac"	143	23098
+GroupName	"group OECdl"	143	23140
+}
+Score [getF1()=0,353, getPrecision()=0,750, getRecall()=0,231, tp=3, fp=1, fn=10, tn=0]
+Score [macroF1=0,353, macroPrecision=0,750, macroRecall=0,231]
+***********************************************************
+
+
+***********************************************************
+|[83/96]======Final Evaluation======_____________N164 Li 2003_____________|
+Final State  Model[1,44745] Objective[0,85714] {
+GOLD [6]:
+GroupName	"transplanted group"	119	18738
+GroupName	"lesion plus transplant animals"	106	16257
+GroupName	"lesion-alone"	106	16240
+GroupName	"lesion-alone group"	125	19857
+GroupName	"with lesions alone"	119	18800
+GroupName	"lesion plus transplant group animals"	124	19579
+}
+PREDICT [3]:
+GroupName	"lesion plus transplant animals"	106	16257
+GroupName	"lesion-alone group"	100	15125
+GroupName	"transplanted group"	119	18738
+}
+Score [getF1()=0,857, getPrecision()=1,000, getRecall()=0,750, tp=3, fp=0, fn=1, tn=0]
+Score [macroF1=0,857, macroPrecision=1,000, macroRecall=0,750]
+***********************************************************
+
+
+***********************************************************
+|[84/96]======Final Evaluation======_____________N156 Kalincik 2010 2_____________|
+Final State  Model[2,01696] Objective[0,76923] {
+GOLD [10]:
+GroupName	"OEC-treated animals"	37	6948
+GroupName	"control group"	186	29051
+GroupName	"OEC treatment"	196	30587
+GroupName	"Experimental animals"	80	13594
+GroupName	"controls"	11	1856
+GroupName	"OEC-treated group"	186	29020
+GroupName	"control animals"	37	7112
+GroupName	"OECtreated"	189	29653
+GroupName	"OEC transplants"	230	35767
+GroupName	"control values"	186	29219
+}
+PREDICT [5]:
+GroupName	"controls"	198	31063
+GroupName	"control group"	170	27219
+GroupName	"OEC-treated animals"	37	6948
+GroupName	"control animals"	37	7112
+GroupName	"control animals"	83	14039
+}
+Score [getF1()=0,769, getPrecision()=1,000, getRecall()=0,625, tp=5, fp=0, fn=3, tn=0]
+Score [macroF1=0,769, macroPrecision=1,000, macroRecall=0,625]
+***********************************************************
+
+
+***********************************************************
+|[85/96]======Final Evaluation======_____________N206 Takeoka 2009_____________|
+Final State  Model[2,61043] Objective[0,52632] {
+GOLD [22]:
+GroupName	"media-trained"	44	8710
+GroupName	"OEG-trained group"	119	22268
+GroupName	"OEGthan"	140	26467
+GroupName	"OEG-untrained"	44	8725
+GroupName	"mediainjected rats"	116	21554
+GroupName	"OEG- and mediatrained"	121	22589
+GroupName	"mediatrained"	123	22713
+GroupName	"media-untrained"	44	8693
+GroupName	"OEG-injected rats"	5	925
+GroupName	"media-injected rats"	4	817
+GroupName	"OEG-injected groups"	138	26091
+GroupName	"untrained groups"	145	27509
+GroupName	"OEG- and media-untrained"	122	22615
+GroupName	"OEG-injected trained"	145	27484
+GroupName	"OEG-trained"	44	8744
+GroupName	"OEG-injected spinal rats"	12	1997
+GroupName	"OEG-"	4	807
+GroupName	"media-"	42	8366
+GroupName	"media-"	5	1004
+GroupName	"media"	161	30667
+GroupName	"OEG-injected groups"	42	8377
+GroupName	"OEG"	162	30677
+}
+PREDICT [5]:
+GroupName	"OEG-injected rats"	125	23383
+GroupName	"media-trained"	44	8710
+GroupName	"OEG-trained"	44	8744
+GroupName	"media-untrained"	44	8693
+GroupName	"OEG-untrained"	44	8725
+}
+Score [getF1()=0,526, getPrecision()=1,000, getRecall()=0,357, tp=5, fp=0, fn=9, tn=0]
+Score [macroF1=0,526, macroPrecision=1,000, macroRecall=0,357]
+***********************************************************
+
+
+***********************************************************
+|[86/96]======Final Evaluation======_____________N219 Ramón-Cueto 1998_____________|
+Final State  Model[1,52311] Objective[1,00000] {
+GOLD [8]:
+GroupName	"Control animals"	100	15347
+GroupName	"EG-transplanted cords"	273	36838
+GroupName	"control rats"	79	13336
+GroupName	"experimental rats"	101	15577
+GroupName	"EG-transplanted animals"	4	1147
+GroupName	"experimental ones"	100	15417
+GroupName	"experimental cords"	292	39277
+GroupName	"experimental"	79	13313
+}
+PREDICT [4]:
+GroupName	"EG-transplanted animals"	4	1147
+GroupName	"experimental cords"	292	39277
+GroupName	"control animals"	273	36650
+GroupName	"experimental rats"	101	15577
+}
+Score [getF1()=1,000, getPrecision()=1,000, getRecall()=1,000, tp=4, fp=0, fn=0, tn=0]
+Score [macroF1=1,000, macroPrecision=1,000, macroRecall=1,000]
+***********************************************************
+
+
+***********************************************************
+|[87/96]======Final Evaluation======_____________N133 Bretzner 2008_____________|
+Final State  Model[1,64659] Objective[0,34783] {
+GOLD [21]:
+GroupName	"control group"	185	29932
+GroupName	"BDNF-treated"	226	37477
+GroupName	"rats treated with the combinatorial treatment of BDNF and OECs"	214	35279
+GroupName	"BDNF–OEC"	183	29276
+GroupName	"control rats"	222	36828
+GroupName	"combination of OECs with BDNF"	206	33989
+GroupName	"Animals treated with vehicle"	55	11413
+GroupName	"BDNF combined with DMEM"	186	29972
+GroupName	"OEC-treated"	222	36909
+GroupName	"transplant with Vehicle–OEC treatment"	206	33946
+GroupName	"OECs alone"	184	29478
+GroupName	"combinatorial therapy"	8	2023
+GroupName	"combinatorial treatment group"	9	2104
+GroupName	"Vehicle–OEC,"	183	29252
+GroupName	"BDNF–OEC-treated rats"	221	36462
+GroupName	"control group (Vehicle–DMEM"	183	29333
+GroupName	"controls"	203	33441
+GroupName	"BDNF–DMEM"	183	29265
+GroupName	"Vehicle–DMEM-treated control group"	197	32265
+GroupName	"Control animals"	48	10268
+GroupName	"OECtreated"	222	36813
+}
+PREDICT [4]:
+GroupName	"controls"	203	33441
+GroupName	"control group"	186	30169
+GroupName	"control group"	185	29932
+GroupName	"control group"	197	32151
+}
+Score [getF1()=0,348, getPrecision()=1,000, getRecall()=0,211, tp=4, fp=0, fn=15, tn=0]
+Score [macroF1=0,348, macroPrecision=1,000, macroRecall=0,211]
+***********************************************************
+
+
+***********************************************************
+|[88/96]======Final Evaluation======_____________N199 Ruitenberg 2005_____________|
+Final State  Model[1,50196] Objective[0,47059] {
+GOLD [19]:
+GroupName	"vehicle-injected control animals"	276	43568
+GroupName	"OEG-NT-3- transplanted rats"	10	1332
+GroupName	"non-modified OEG"	76	13120
+GroupName	"OEG-NT-3-transplanted animals"	278	43858
+GroupName	"medium-injected"	234	36616
+GroupName	"OEG-LacZ transplants"	280	44251
+GroupName	"medium alone"	84	14401
+GroupName	"OEG"	280	44244
+GroupName	"groups that received vehicle injections"	280	44203
+GroupName	"control (medium-injected) rats"	9	1126
+GroupName	"OEG-LacZ group"	274	43313
+GroupName	"vehicle-injected group"	283	44801
+GroupName	"vehicle"	76	13172
+GroupName	"OEG-LacZ"	76	13095
+GroupName	"OEG-NT-3"	76	13024
+GroupName	"OEG-"	284	44977
+GroupName	"OEG-NT-3-implanted animal group"	273	42901
+GroupName	"OEGNT- 3 group"	274	43191
+GroupName	"non-transduced OEG"	84	14379
+}
+PREDICT [4]:
+GroupName	"vehicle-injected group"	283	44801
+GroupName	"OEG-LacZ group"	274	43313
+GroupName	"vehicle-injected control animals"	276	43568
+GroupName	"control rats"	287	45402
+}
+Score [getF1()=0,471, getPrecision()=1,000, getRecall()=0,308, tp=4, fp=0, fn=9, tn=0]
+Score [macroF1=0,471, macroPrecision=1,000, macroRecall=0,308]
+***********************************************************
+
+
+***********************************************************
+|[89/96]======Final Evaluation======_____________N138 Chuah 2004_____________|
+Final State  Model[1,43872] Objective[0,53333] {
+GOLD [16]:
+GroupName	"lesion with transplantation of CM-filled capsules and injections of CM"	10	1002
+GroupName	"CM"	74	10873
+GroupName	"control animals"	230	30517
+GroupName	"EC-encapsulated groups"	232	30820
+GroupName	"rats that received encapsulated ECs"	13	1310
+GroupName	"ECs"	66	9662
+GroupName	"no injections of ECs"	74	10849
+GroupName	"Rats that received EC injections"	14	1419
+GroupName	"encapsulated ECs"	231	30610
+GroupName	"control group that received CM-containing capsules together with CM injections"	194	24341
+GroupName	"CM-injected group"	14	1617
+GroupName	"received CM containing capsules"	231	30673
+GroupName	"lesion with transplantation of CM-filled capsules"	10	944
+GroupName	"EC-injected"	232	30804
+GroupName	"CM"	66	9677
+GroupName	"control"	235	31236
+}
+PREDICT [4]:
+GroupName	"CM"	74	10833
+GroupName	"ECs"	66	9662
+GroupName	"CM"	66	9677
+GroupName	"ECs"	74	10818
+}
+Score [getF1()=0,533, getPrecision()=1,000, getRecall()=0,364, tp=4, fp=0, fn=7, tn=0]
+Score [macroF1=0,533, macroPrecision=1,000, macroRecall=0,364]
+***********************************************************
+
+
+***********************************************************
+|[90/96]======Final Evaluation======_____________N075 Amemori 2010_____________|
+Final State  Model[1,84158] Objective[0,44444] {
+GOLD [14]:
+GroupName	"animals transplanted with OEG"	142	19796
+GroupName	"control group"	69	10257
+GroupName	"control rats"	12	1670
+GroupName	"co-transplantation of both types of cells"	3	781
+GroupName	"Animals with OEG and MSC co-grafts"	144	19985
+GroupName	"OEG and MSC"	37	5666
+GroupName	"MSC"	38	5760
+GroupName	"control animals"	140	19413
+GroupName	"control"	39	5835
+GroupName	"MSC-transplanted rats"	145	20254
+GroupName	"OEG-transplanted rats"	197	27984
+GroupName	"OEG/MSC"	149	21110
+GroupName	"MSC transplants"	196	27650
+GroupName	"OEG"	38	5744
+}
+PREDICT [5]:
+GroupName	"control animals"	201	28748
+GroupName	"control animals"	195	27523
+GroupName	"transplanted groups"	194	27060
+GroupName	"control group"	132	18534
+GroupName	"controls"	133	18669
+}
+Score [getF1()=0,444, getPrecision()=0,800, getRecall()=0,308, tp=4, fp=1, fn=9, tn=0]
+Score [macroF1=0,444, macroPrecision=0,800, macroRecall=0,308]
+***********************************************************
+
+
+***********************************************************
+|[91/96]======Final Evaluation======_____________N249 Khankan_____________|
+Final State  Model[1,78198] Objective[0,30769] {
+GOLD [34]:
+GroupName	"FB + CSA-treated rats"	360	54875
+GroupName	"FB + CSA"	356	54111
+GroupName	"OECCSA-treated rats"	349	52690
+GroupName	"OEC groups"	348	52451
+GroupName	"FB-treated rats"	272	39750
+GroupName	"OEC groups"	271	39586
+GroupName	"FB  CSA"	343	51590
+GroupName	"OEC-treated rats"	280	41095
+GroupName	"andOECgroups"	319	47613
+GroupName	"FBtreated cords"	279	40835
+GroupName	"FBtreated rats"	273	39875
+GroupName	"OEC + CSA"	358	54537
+GroupName	"CSA"	364	55725
+GroupName	"OECcompared"	263	37747
+GroupName	"OEC-"	375	57384
+GroupName	"OEC-treatment alone"	357	54288
+GroupName	"OEC-treated rats"	341	51292
+GroupName	"OEC ¬± CSA"	360	54932
+GroupName	"no CSA"	364	55741
+GroupName	"FB + CSA groups"	368	56397
+GroupName	"OEC  CSA"	343	51612
+GroupName	"inOEC-than"	272	39739
+GroupName	"FB + CSAcompared"	367	56238
+GroupName	"OEC"	273	39865
+GroupName	"OEC-transplanted rats"	315	46861
+GroupName	"FB"	341	51283
+GroupName	"FB-treated spinal cords"	263	37764
+GroupName	"FBversus"	290	42677
+GroupName	"FBs"	76	12917
+GroupName	"OEC + CSA groups"	365	55919
+GroupName	"OECs"	76	12934
+GroupName	"FB-treated rats"	361	55027
+GroupName	"OEC-treated spinal cords"	307	45549
+GroupName	"FB-transplanted rats"	262	37463
+}
+PREDICT [4]:
+GroupName	"FBs"	284	41704
+GroupName	"FB-treated rats"	324	48239
+GroupName	"FBs"	298	44326
+GroupName	"FB"	199	28604
+}
+Score [getF1()=0,308, getPrecision()=1,000, getRecall()=0,182, tp=4, fp=0, fn=18, tn=0]
+Score [macroF1=0,308, macroPrecision=1,000, macroRecall=0,182]
+***********************************************************
+
+
+***********************************************************
+|[92/96]======Final Evaluation======_____________N078 Aoki 2010_____________|
+Final State  Model[1,80694] Objective[0,76923] {
+GOLD [11]:
+GroupName	"delayed OM transplantation"	202	28878
+GroupName	"RM group"	53	8032
+GroupName	"OM"	136	18166
+GroupName	"RM"	132	17652
+GroupName	"respiratory mucosa–transplanted rats"	10	1532
+GroupName	"OM group"	53	7974
+GroupName	"sham"	54	8149
+GroupName	"NC group"	53	8080
+GroupName	"controls"	6	1240
+GroupName	"OM transplantation rats"	10	1442
+GroupName	"NC groups"	132	17659
+}
+PREDICT [5]:
+GroupName	"controls"	6	1240
+GroupName	"RM group"	68	11140
+GroupName	"OM group"	68	11121
+GroupName	"OM group"	145	19129
+GroupName	"OM group"	112	15340
+}
+Score [getF1()=0,769, getPrecision()=1,000, getRecall()=0,625, tp=5, fp=0, fn=3, tn=0]
+Score [macroF1=0,769, macroPrecision=1,000, macroRecall=0,625]
+***********************************************************
+
+
+***********************************************************
+|[93/96]======Final Evaluation======_____________N190 Pearse 2004_____________|
+Final State  Model[1,54303] Objective[0,18182] {
+GOLD [44]:
+GroupName	"injured-only con- trols"	261	38719
+GroupName	"administration of MP/IL-10"	203	29192
+GroupName	"SC"	4	1008
+GroupName	"animals that received MP/IL-10"	212	30550
+GroupName	"MP/IL-10 administration alone"	243	35741
+GroupName	"SC grafted"	67	11441
+GroupName	"SC/OEG transplantation"	4	1014
+GroupName	"SCI control spinal cords"	201	28751
+GroupName	"acute administration of MP/IL-10 by itself"	265	39164
+GroupName	"SC/OEG grafted animals"	230	33320
+GroupName	"SC-only animals"	266	39442
+GroupName	"MP/IL-10"	238	34767
+GroupName	"injury only controls"	250	36838
+GroupName	"combination of MP/IL- 10 with SC transplantation"	261	38549
+GroupName	"grafting of SCs"	244	35785
+GroupName	"combination of MP/IL- 10 with SC/OEG transplants"	8	1750
+GroupName	"Grafting of SCs or SCs/OEG subsequent to MP/IL10 administration"	224	32375
+GroupName	"Controls"	66	11193
+GroupName	"the group that received no treatment after contusion"	249	36577
+GroupName	"MP/IL-10 at 1 week before SC transplantation"	213	30747
+GroupName	"MP/IL-10 given prior to SC-only transplants"	9	1890
+GroupName	"MP/IL-10 with grafting"	215	31013
+GroupName	"combination of MP/IL-10 with later SC/OEG grafting"	239	34996
+GroupName	"SC only grafts"	229	33236
+GroupName	"control, contused animals"	210	30163
+GroupName	"SC/OEG grafting"	214	30845
+GroupName	"Transplantation of SC"	223	32257
+GroupName	"SC/OEG 1 MP/IL-10 groups"	255	37825
+GroupName	"MP/IL-10"	67	11422
+GroupName	"injured-only control"	67	11391
+GroupName	"Control rats"	73	12435
+GroupName	"combination of SC/OEG grafting and acute MP/IL-10"	250	36941
+GroupName	"SC/OEG grafts"	223	32282
+GroupName	"spinal cord injured controls"	236	34403
+GroupName	"MP/IL-10 alone"	224	32521
+GroupName	"injured control animals"	241	35335
+GroupName	"SC transplants"	212	30584
+GroupName	"MP/IL-10 1 SC/OEG grafted"	67	11519
+GroupName	"MP/IL-10 1 SC grafted"	67	11462
+GroupName	"SC/OEG grafted"	67	11494
+GroupName	"SCs/OEG subsequent to MP/IL10 administration"	224	32394
+GroupName	"SC/OEG-only"	255	37809
+GroupName	"Injuredonly controls"	253	37372
+GroupName	"injury-only controls"	6	1358
+}
+PREDICT [4]:
+GroupName	"controls"	214	30929
+GroupName	"control"	210	30163
+GroupName	"control"	221	31915
+GroupName	"controls"	250	36850
+}
+Score [getF1()=0,182, getPrecision()=1,000, getRecall()=0,100, tp=4, fp=0, fn=36, tn=0]
+Score [macroF1=0,182, macroPrecision=1,000, macroRecall=0,100]
+***********************************************************
+
+
+***********************************************************
+|[94/96]======Final Evaluation======_____________N229 Yui 2014_____________|
+Final State  Model[1,89384] Objective[1,00000] {
+GOLD [3]:
+GroupName	"media"	113	18213
+GroupName	"media group"	80	12866
+GroupName	"OEC group"	80	12774
+}
+PREDICT [5]:
+GroupName	"OEC group"	165	21664
+GroupName	"OEC group"	170	22643
+GroupName	"OEC group"	170	22570
+GroupName	"media group"	80	12866
+GroupName	"media"	143	19636
+}
+Score [getF1()=1,000, getPrecision()=1,000, getRecall()=1,000, tp=5, fp=0, fn=0, tn=0]
+Score [macroF1=1,000, macroPrecision=1,000, macroRecall=1,000]
+***********************************************************
+
+
+***********************************************************
+|[95/96]======Final Evaluation======_____________N162 Lebedev 2010_____________|
+Final State  Model[1,61078] Objective[0,66667] {
+GOLD [7]:
+GroupName	"Controls"	55	6786
+GroupName	"rats receiving cell transplantation"	18	773
+GroupName	"experimental rats"	99	13643
+GroupName	"experimental group"	54	6744
+GroupName	"control groups"	20	1133
+GroupName	"Transplantation of NSC"	91	11790
+GroupName	"NSC transplantation"	104	14350
+}
+PREDICT [4]:
+GroupName	"experimental group"	90	11597
+GroupName	"experimental group"	97	12895
+GroupName	"control"	88	11176
+GroupName	"control group"	98	13268
+}
+Score [getF1()=0,667, getPrecision()=1,000, getRecall()=0,500, tp=4, fp=0, fn=4, tn=0]
+Score [macroF1=0,667, macroPrecision=1,000, macroRecall=0,500]
+***********************************************************
+
+
+***********************************************************
+|[96/96]======Final Evaluation======_____________N192 Polentes 2004_____________|
+Final State  Model[1,84346] Objective[1,00000] {
+GOLD [7]:
+GroupName	"spinal group"	43	9141
+GroupName	"spinal rats"	44	9290
+GroupName	"transplanted animals"	57	11482
+GroupName	"transplanted group"	44	9236
+GroupName	"Shamtransplanted rats"	5	741
+GroupName	"spinal"	57	11425
+GroupName	"transplanted rats"	6	911
+}
+PREDICT [5]:
+GroupName	"transplanted rats"	201	34358
+GroupName	"transplanted group"	199	33878
+GroupName	"spinal rats"	259	43871
+GroupName	"transplanted rats"	287	49715
+GroupName	"transplanted rats"	289	50325
+}
+Score [getF1()=1,000, getPrecision()=1,000, getRecall()=1,000, tp=5, fp=0, fn=0, tn=0]
+Score [macroF1=1,000, macroPrecision=1,000, macroRecall=1,000]
+***********************************************************
+
+
+Mean Score: Score [getF1()=0,603, getPrecision()=0,936, getRecall()=0,445, tp=382, fp=26, fn=477, tn=0]
+genutztes Modell: models/nerla/trained_literal/group_name
