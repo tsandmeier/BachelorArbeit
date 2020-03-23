@@ -58,7 +58,7 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
     private int mode;
     List<AbstractFeatureTemplate<?>> featureTemplates;
 
-    private final EEvaluationDetail evaluationDetail = EEvaluationDetail.LITERAL;
+    private final EEvaluationDetail evaluationDetail = EEvaluationDetail.ENTITY_TYPE;
 
     private double alpha;
 
@@ -434,7 +434,7 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
          *
          * NOTE: Make sure that the base model directory exists!
          */
-        final File modelBaseDir = new File("models/nerla/trained_literal");
+        final File modelBaseDir = new File("models/nerla/trained_entity_type");
 //        final String modelName = "NERLA1234" + new Random().nextInt(10000);
         final String modelName = typeOfTopic;
 

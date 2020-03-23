@@ -5,10 +5,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>tsandmeier.ba</groupId>
-    <artifactId>General_Test_Group_Name</artifactId>
+    <artifactId>General_Test_Entity_Type</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    <name>General_Test_Group_Name</name>
+    <name>General_Test_Entity_Type</name>
     <packaging>jar</packaging>
 
     <dependencies>
