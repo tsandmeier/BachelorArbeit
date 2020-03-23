@@ -472,7 +472,6 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
             /**
              * Train the CRF.
              */
-//            crf.train(learner, instanceProvider.getRedistributedTrainingInstances(), numberOfEpochs, sampleStoppingCrits);
             crf.train(learner, instanceProvider.getRedistributedTrainingInstances(), numberOfEpochs, sampleStoppingCrits);
 
             /**
@@ -496,28 +495,28 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
 
 
 //        log.info("******************TRAINIERT MIT LITERAL - PREDICTED UND EVALUIERT MIT " + evaluationDetail + "*****************************");
-//        log.info("PREDICTHIGHRECALL: " + recallFactor);
+        log.info("PREDICTHIGHRECALL: " + recallFactor);
 
-        crf.changeObjectiveFunction(new NerlaObjectiveFunctionPartialOverlap(evaluationDetail));
+        crf.changeObjectiveFunction(new NerlaObjectiveFunctionPartialOverlap(EEvaluationDetail.ENTITY_TYPE));
 
 
-        Map<Instance, State> results = crf.predictHighRecall(instanceProvider.getInstances(), 1, maxStepCrit,
+        Map<Instance, State> results = crf.predictHighRecall(instanceProvider.getInstances(), recallFactor, maxStepCrit,
                 noModelChangeCrit);
 
-        FilterHelper filterHelper = new FilterHelper(results);
-
-        CSVDataStructureReader reader = new CSVDataStructureReader(new File("ner/" + typeOfTopic + "/data_structure/entities.csv"), new File("ner/" + typeOfTopic + "/data_structure/hierarchies.csv"), new File("ner/" + typeOfTopic + "/data_structure/slots.csv"), new File("ner/" + typeOfTopic + "/data_structure/structures.csv"));
-
-        Set<String> slotTypeNames = reader.read().getSlotTypeNames();
-
-        for(String slotName : slotTypeNames) {
-            IEvaluatable.Score score = filterHelper.filterForSlot(slotName);
-
-            log.info("Predictions für Slot <"+slotName+">:");
-            log.info("Mean Score: "+ score);
-            log.info(System.lineSeparator());
-
-        }
+//        FilterHelper filterHelper = new FilterHelper(results);
+//
+//        CSVDataStructureReader reader = new CSVDataStructureReader(new File("ner/" + typeOfTopic + "/data_structure/entities.csv"), new File("ner/" + typeOfTopic + "/data_structure/hierarchies.csv"), new File("ner/" + typeOfTopic + "/data_structure/slots.csv"), new File("ner/" + typeOfTopic + "/data_structure/structures.csv"));
+//
+//        Set<String> slotTypeNames = reader.read().getSlotTypeNames();
+//
+//        for(String slotName : slotTypeNames) {
+//            IEvaluatable.Score score = filterHelper.filterForSlot(slotName);
+//
+//            log.info("Predictions für Slot <"+slotName+">:");
+//            log.info("Mean Score: "+ score);
+//            log.info(System.lineSeparator());
+//
+//        }
 
         /*
           Finally, we evaluate the produced states and print some statistics.
@@ -536,10 +535,10 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
 
 //        new FilterHelper(results).filterOrganismModel();
 
-//        mean = evaluate(log, results);
-//
-//        log.info(crf.getTrainingStatistics());
-//        log.info(crf.getTestStatistics());
+        mean = evaluate(log, results);
+
+        log.info(crf.getTrainingStatistics());
+        log.info(crf.getTestStatistics());
 
         log.info("genutztes Modell: " + modelBaseDir.toString() + "/" + modelName);
 
