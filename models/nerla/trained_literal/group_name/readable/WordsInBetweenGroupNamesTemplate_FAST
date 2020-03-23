@@ -1,0 +1,126 @@
+WORDS BETWEEN: <"media-untrained", "media-trained">: media-untrained, media-trained	0.01599356457095646
+WORDS BETWEEN: <"media-trained", "OEG-untrained">: media-trained, OEG-untrained	0.013994056828423721
+WORDS BETWEEN: <"media-untrained", "OEG-untrained">: media-untrained, media-trained, OEG-untrained	0.01099530929363622
+WORDS BETWEEN: <"media-trained", "OEG-trained">: media-trained, OEG-untrained, and OEG-trained	0.008996437695249446
+WORDS BETWEEN: <"media-untrained", "OEG-trained">: media-untrained, media-trained, OEG-untrained, and OEG-trained	0.008996330111233651
+WORDS BETWEEN: <"OEG-untrained", "OEG-trained">: OEG-untrained, and OEG-trained	0.007996764292618721
+WORDS BETWEEN: <"coinjected group", "control groups">: group, it was higher than in control	0.00699817394345091
+WORDS BETWEEN: <"cAMP-OEC", "rolipram-OEC">: cAMP-OEC, and rolipram-OEC	0.00699812168524559
+WORDS BETWEEN: <"media-untrained", "media-trained">: media-untrained, n = 5; media-trained	0.006997017462668511
+WORDS BETWEEN: <"media-untrained", "media-trained">: media-untrained (n = 9), media-trained	0.004999631868185381
+WORDS BETWEEN: <"G1", "SCI-only">: G1), SCI-only	0.004998594099975706
+WORDS BETWEEN: <"control", "test">: control and test	0.004998572706487615
+WORDS BETWEEN: <"SCs rats", "OECs rats">: rats scored 13.53±1.16 and OECs	0.004998563309418109
+WORDS BETWEEN: <"NSCs", "OECs">: NSCs with OECs	0.0049985544121416495
+WORDS BETWEEN: <"EPI-NCSCs", "OECs">: EPI-NCSCs and OECs	0.004998545714917483
+WORDS BETWEEN: <"media", "OEG-injected spinal rats">: media- and OEG-injected	0.0049985402165947145
+WORDS BETWEEN: <"SC", "co-transplantation group">: SC, or OEC group, the co-transplantation	0.004998523821824753
+WORDS BETWEEN: <"OEC", "co-transplantation group">: OEC group, the co-transplantation	0.004998523821824753
+WORDS BETWEEN: <"DMEM", "OEC">: DMEM, SC, or OEC	0.004998523321972347
+WORDS BETWEEN: <"SC", "OEC">: SC, or OEC	0.004998523321972347
+WORDS BETWEEN: <"OECs-transplanted rats", "DMEMinjected animals">: rats than in DMEMinjected	0.004998516724112225
+WORDS BETWEEN: <"grafts only", "untreated">: only or the untreated	0.0049985062273747724
+WORDS BETWEEN: <"untreated rats", "treated">: rats and two treated	0.0049984923318278016
+WORDS BETWEEN: <"NIMSC group", "control">: group over OEC and control	0.004998478936406177
+WORDS BETWEEN: <"control", "experimental animals">: control and experimental	0.004998466540640835
+WORDS BETWEEN: <"SCT", "OEG-transplanted rats">: SCT), OEG-transplanted	0.004998464541267387
+WORDS BETWEEN: <"GFP-OEC-transplanted group", "fibroblast-transplanted group">: group and the fibroblast-transplanted	0.004998459342967423
+WORDS BETWEEN: <"MEDIUM", "OEC rat">: MEDIUM and OEC	0.004998456143953313
+WORDS BETWEEN: <"medium", "controls">: medium or culture medium only (controls	0.004998445447554662
+WORDS BETWEEN: <"MSC", "OEC">: MSC and OEC	0.004998437650124694
+WORDS BETWEEN: <"Control", "mediuminjected groups">: Control and mediuminjected	0.004998394964624544
+WORDS BETWEEN: <"OEC", "DMEM-injected animals">: OEC- than in DMEM-injected	0.004998379670183514
+WORDS BETWEEN: <"OEG-treated rats", "controls">: rats was significantly superior to untreated controls	0.0049983770710852965
+WORDS BETWEEN: <"AdGFP-OEC-grafted", "AdPGIS-OEC-grafted">: AdGFP-OEC-grafted and AdPGIS-OEC-grafted	0.004998361276799205
+WORDS BETWEEN: <"experimental", "control rats">: experimental and seven control	0.004998354979034102
+WORDS BETWEEN: <"media-trained", "OEG-untrained">: media-trained, n = 7; OEG-untrained	0.004998332273181331
+WORDS BETWEEN: <"OEG-untrained", "OEG-trained">: OEG-untrained, n = 5; OEG-trained	0.0049983321731858765
+WORDS BETWEEN: <"Con-M", "low dose OEC-M">: Con-M, n=18), low	0.004998133403901821
+WORDS BETWEEN: <"OEC-transplanted animals", "fibroblasttransplanted animals">: animals and fibroblasttransplanted	0.003999011043697588
+WORDS BETWEEN: <"DM group", "OEC group">: group. Furthermore, the OEC	0.003998854114871023
+WORDS BETWEEN: <"OECs group", "SCs group">: group (b) than in SCs	0.003998629560030098
+WORDS BETWEEN: <"transplanted", "control animals">: transplanted vs. control	0.003998615689203983
+WORDS BETWEEN: <"4WDC", "4WDT">: 4WDC) and OLP transplanted animals (4WDT	0.003998607460317522
+WORDS BETWEEN: <"rostral stump injection", "caudal stump injection">: injection; n = 8 for caudal	0.003998577978747559
+WORDS BETWEEN: <"OEC group", "Control animals">: group; n ≠ 10). Control	0.003998564983569225
+WORDS BETWEEN: <"control", "treated group">: control and a treated	0.003998503007376067
+WORDS BETWEEN: <"sham injection", "transplantation groups">: injection, and transplantation	0.003998463623086507
+WORDS BETWEEN: <"control", "treated">: control (n=4), treated	0.002999728258245291
+WORDS BETWEEN: <"OEG-untrained", "OEG-trained">: OEG-untrained (n = 10) and OEG-trained	0.0029996553731576
+WORDS BETWEEN: <"nontransplanted", "Non-T">: nontransplanted (Non-T	0.0029992149037459544
+WORDS BETWEEN: <"SA", "Chr">: SA), 2) chronic (Chr	0.0029992145038779455
+WORDS BETWEEN: <"OECs", "FBs">: OECs survive longer than FBs	0.002999083296197337
+WORDS BETWEEN: <"uninfected OEG", "AdV-LacZ-transduced OEG">: OEG (n = 10) or AdV-LacZ-transduced	0.002998926193134885
+WORDS BETWEEN: <"media-trained", "OEG-trained">: media-trained, OEG-untrained and OEG-trained	0.0029989150628804144
+WORDS BETWEEN: <"media-untrained", "OEG-trained">: media-untrained, media-trained, OEG-untrained and OEG-trained	0.0029989150628804144
+WORDS BETWEEN: <"OM group", "RM group">: group, 6 in the RM	0.002998875867847779
+WORDS BETWEEN: <"OEC-treated animals", "fibroblast-treated animals">: animals compared to the fibroblast-treated	0.0029988426995379634
+WORDS BETWEEN: <"SCs", "OEG">: SCs) or olfactory ensheathing glia (OEG	0.0029988327035108146
+WORDS BETWEEN: <"OECs-injected group", "coinjected group">: group was lower than in coinjected	0.00299878840232074
+WORDS BETWEEN: <"DMEM", "SC">: DMEM, SC	0.002998772409009315
+WORDS BETWEEN: <"Chr", "nontransplanted">: Chr), and 3) nontransplanted	0.0029987710096074354
+WORDS BETWEEN: <"combination treatments", "scar ablation and LP transplantation">: treatments including scar	0.00299872622866633
+WORDS BETWEEN: <"OBFB-like cells", "mixed cell populations">: cells were least efficient and mixed	0.0019997459136920867
+WORDS BETWEEN: <"transplanted", "OEC-transplanted animals">: transplanted than in control injured rats. OEC-transplanted	0.001999379105149902
+WORDS BETWEEN: <"transplant", "control animals">: transplant and 19 control	0.0019992702608107545
+WORDS BETWEEN: <"OECs", "OEC-conditioned medium">: OECs and 2 received control injections of OEC-conditioned	0.001999093404372532
+WORDS BETWEEN: <"Group C", "sham group">: C rats were as the sham	0.001999090705616793
+WORDS BETWEEN: <"2WDC", "2WDT">: 2WDC) and OLP transplanted animals (2WDT	0.0019990889064357923
+WORDS BETWEEN: <"respiratory mucosa-transplanted rats", "olfactory mucosa">: rats, the olfactory	0.0019990435277931437
+WORDS BETWEEN: <"OEC", "SC">: OEC) or Schwann cells (group SC	0.001999013242632783
+WORDS BETWEEN: <"veh-OEC", "veh-DMEM">: veh-OEC or OEC compared with veh-DMEM	0.001999008644920177
+WORDS BETWEEN: <"MP", "EC">: MP (n = 10), EC	9.999960475048715E-4
+WORDS BETWEEN: <"co-transplantation group", "sham group.The">: group and sham	9.999315498335913E-4
+WORDS BETWEEN: <"unlesioned controls", "TEG3 transplantation">: controls. However, TEG3	9.99803966695369E-4
+WORDS BETWEEN: <"media-trained", "OEG-untrained">: media-trained (n = 9), OEG-untrained	9.997793718178884E-4
+WORDS BETWEEN: <"group OEC", "SC">: OEC, decreased slightly in group SC	9.99636513539214E-4
+WORDS BETWEEN: <"controls", "cABC-treated rats">: controls and the cABC-treated	9.995899315585102E-4
+WORDS BETWEEN: <"OEC", "SC">: OEC, SC	9.99531957076724E-4
+WORDS BETWEEN: <"OECs-transplanted rats", "DMEM-injected animals">: rats than that in the DMEM-injected	9.99472986366543E-4
+WORDS BETWEEN: <"OECs-rats", "DMEM-rats">: OECs-rats than that in the DMEM-rats	9.994725865773895E-4
+WORDS BETWEEN: <"non-transduced OEG", "medium alone">: OEG or medium	9.99443702234202E-4
+WORDS BETWEEN: <"OEG-treated groups", "transplantation">: groups, but not in the transplantation	9.99429910004934E-4
+WORDS BETWEEN: <"control group", "DM">: group (group DM	9.991539850092545E-4
+WORDS BETWEEN: <"media-trained", "OEG-untrained">: media-trained (n = 10), OEG-untrained	2.093753965571999E-7
+WORDS BETWEEN: <"DCG", "OTG">: DCG, and 10.95 in the OTG	3.999151101080941E-10
+WORDS BETWEEN: <"OTG", "TCG">: OTG, TCG	3.9987169935701194E-10
+WORDS BETWEEN: <"OEC", "DM">: OEC, SC, and DM	2.9988985014272773E-10
+WORDS BETWEEN: <"SC", "DM">: SC, and DM	1.9991475753059165E-10
+WORDS BETWEEN: <"veh-DMEM", "veh-DMEM">: veh-DMEM, #dbcAMP compared with veh-DMEM	9.999597965550436E-11
+WORDS BETWEEN: <"TCG", "DCG">: TCG, and DCG	9.99948497072083E-11
+WORDS BETWEEN: <"sham group", "OECs treated group">: group, OECs	9.996620528348411E-11
+WORDS BETWEEN: <"OEC", "SC">: OEC, decreased slightly in group SC	9.995127144654426E-11
+WORDS BETWEEN: <"days", "1">: days (n = 5), 1	-1.0878102285881949E-7
+WORDS BETWEEN: <"OEG-untrained", "OEG-trained">: OEG-untrained and OEG-trained	-3.089842324989E-7
+WORDS BETWEEN: <"TCG", "DCG">: TCG, 7.00 in the DCG	-6.842108457760114E-7
+WORDS BETWEEN: <"SC", "groups">: SC, and DM groups	-9.995127661868925E-4
+WORDS BETWEEN: <"1", "2">: 1, n = 3 and Experiment 2	-9.996168208919504E-4
+WORDS BETWEEN: <"shamgroups", "treated group">: shamgroups, theOECs treated	-9.9966230449648E-4
+WORDS BETWEEN: <"intact", "media group">: intact (A), media	-9.997324832603436E-4
+WORDS BETWEEN: <"cell", "OEG">: cell, the olfactory ensheathing glia (OEG	-9.997345827009677E-4
+WORDS BETWEEN: <"TCG", "OTG">: TCG, P<0.01; OTG	-9.997394814129025E-4
+WORDS BETWEEN: <"TCG", "OTG transplantation group">: TCG. In the OTG	-9.998474591190224E-4
+WORDS BETWEEN: <"control rats", "group DMEM">: rats. In group	-9.998500587251402E-4
+WORDS BETWEEN: <"groups OEC", "DM">: OEC, SC, and DM	-9.999627481876796E-4
+WORDS BETWEEN: <"sham group", "treated group">: group, OECs treated	-0.00199907340961329
+WORDS BETWEEN: <"OEC", "groups">: OEC, SC, and DM groups	-0.001999265644199909
+WORDS BETWEEN: <"1", "2">: 1 (n = 5), 2	-0.001999302930771587
+WORDS BETWEEN: <"control group", "OECs treated group">: group, the OECs	-0.0019997662087053772
+WORDS BETWEEN: <"lesion", "controls">: lesion, and 10 were used as controls	-0.003997940120359108
+WORDS BETWEEN: <"OLP", "RLP">: OLP (n = 6) and RLP	-0.003997959710315603
+WORDS BETWEEN: <"2", "4">: 2 (n = 4), 4	-0.003998988517799774
+WORDS BETWEEN: <"treated", "untreated">: treated (n=8) and untreated	-0.0039993833531855715
+WORDS BETWEEN: <"FB", "OEC">: FB) and OEC	-0.004998444048037647
+WORDS BETWEEN: <"medium", "controls">: medium only (controls	-0.004998447946778254
+WORDS BETWEEN: <"medium", "medium">: medium or culture medium	-0.004998447946778254
+WORDS BETWEEN: <"non-transplanted", "SCT">: non-transplanted SCT	-0.004998465441002406
+WORDS BETWEEN: <"OEG", "media-injected rats">: OEG- than media-injected	-0.004998584802817919
+WORDS BETWEEN: <"cell transport medium alone", "olfactory mucosal cell">: alone. Recipients of olfactory	-0.005997495743935946
+WORDS BETWEEN: <"OEG", "OEG">: OEG) cultures. AdV vector-transduced OEG	-0.005997877353643798
+WORDS BETWEEN: <"OEG", "mediainjected spinal rats">: OEG- than mediainjected	-0.005998471465958961
+WORDS BETWEEN: <"spinal", "spinal">: spinal group) had a spinal	-0.006997525263574503
+WORDS BETWEEN: <"DMEM", "DMEM">: DMEM, and another eight rats received DMEM	-0.0069978071773083225
+WORDS BETWEEN: <"DMEM", "DMEM">: DMEM or DMEM	-0.007997061118978424
+WORDS BETWEEN: <"control", "transplanted groups">: control and transplanted	-0.007997070715098656
+WORDS BETWEEN: <"media", "media">: media were collected as OEC-conditioned media	-0.011995826365540212
+WORDS BETWEEN: <"SCI", "SCI">: SCI) without treatment (SCI	-0.011996213827154599
