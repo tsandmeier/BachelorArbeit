@@ -46,6 +46,8 @@ public class NerlaEvaluatorPartialOverlap extends AbstractEvaluator {
 
             //checks if the predicted annotation's text overlaps with any gold annotation's text
 
+            //TODO: Auch prüfen ob Entity_Name übereinstimmt! Klappt halt meistens auch ohne
+
             outer:
             for (AbstractAnnotation oa : otherAnnotations) {
                 for (AbstractAnnotation a : annotations) {
@@ -142,24 +144,40 @@ public class NerlaEvaluatorPartialOverlap extends AbstractEvaluator {
             }
 
             fp += otherAnnotations.size() - tp;
-
-//            outer:
-//            for (AbstractAnnotation a : otherAnnotations) {
-//                for (AbstractAnnotation oa : annotations) {
-//                    DocumentLinkedAnnotation da = (DocumentLinkedAnnotation) a;
-//                    List<DocumentToken> predictedTokens = da.relatedTokens;
-//
-//                    DocumentLinkedAnnotation doa = (DocumentLinkedAnnotation) oa;
-//                    List<DocumentToken> goldTokens = doa.relatedTokens;
-//                    for (DocumentToken goldToken : goldTokens) {
-//                        if (predictedTokens.stream().anyMatch(p -> p.getText().equals(goldToken.getText())&& p.getDocTokenIndex() == goldToken.getDocTokenIndex())) {
-//                            continue outer;
-//                        }
-//                    }
-//                }
-//                fp++;
-//            }
         }
+
+        else if(evaluationDetail.equals(EEvaluationDetail.ENTITY_TYPE)) {
+            outer:
+            for (AbstractAnnotation oa : otherAnnotations) {
+                for (AbstractAnnotation a : annotations) {
+
+                    if(a.getEntityType().equals(oa.getEntityType())){
+                        tp++;
+                        continue outer;
+                    }
+                }
+            }
+
+            fp += otherAnnotations.size() - tp;
+
+            outer:
+            for (AbstractAnnotation a : annotations) {
+
+                boolean hasTruePositive = false;
+
+                for (AbstractAnnotation oa : otherAnnotations) {
+
+                    if(a.getEntityType().equals(oa.getEntityType())){
+                        hasTruePositive = true;
+                    }
+                }
+                if(!hasTruePositive)
+                    fn++;
+            }
+
+        }
+
+
         return new Score(tp, fp, fn);
 
     }
