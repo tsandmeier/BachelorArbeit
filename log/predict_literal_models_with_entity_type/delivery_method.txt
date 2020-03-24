@@ -1,0 +1,256 @@
+Initialize systems scope...
+No normalization function for literal entity type "Depth" was specified. Set default to "IdentityNormalization"
+No normalization function for literal entity type "Distance" was specified. Set default to "IdentityNormalization"
+No normalization function for literal entity type "Duration" was specified. Set default to "IdentityNormalization"
+Systems scope successfully initialized!
+Trainiert mit Objective Function, getestet mit ObjectiveFunctionPartialOverlap
+Evaluation Detail: LITERAL
+MaxStepCrit: 50
+Total number of instances loaded: 96
+Instances remain after cardinality filter: 95
+Redistribute instances based on: Shuffle...
+Number of trainings instances: 76
+Number of develop instances: 0
+Number of test instances: 19
+Total number of distributed instances: 95
+PREDICTHIGHRECALL: 1
+***********************************************************
+|[1/19]======Final Evaluation======_____________N232 Zhang 2012_____________|
+Final State  Model[1,00000] Objective[0,00000] {
+GOLD [3]:
+InjectionDelivery	"injected"	210	36602
+InjectionDelivery	"i.p."	195	34235
+DeliveryMethod	"delivered"	212	36951
+}
+PREDICT [0]:
+}
+Score [getF1()=0,000, getPrecision()=0,000, getRecall()=0,000, tp=0, fp=0, fn=3, tn=0]
+Score [macroF1=0,000, macroPrecision=0,000, macroRecall=0,000]
+***********************************************************
+
+
+***********************************************************
+|[2/19]======Final Evaluation======_____________N150 Guest 2008_____________|
+Final State  Model[1,00000] Objective[1,00000] {
+GOLD [4]:
+InjectionDelivery	"IM"	75	13090
+InjectionDelivery	"injected"	83	14326
+InjectionDelivery	"intramuscular"	74	12846
+InjectionDelivery	"injected"	86	14738
+}
+PREDICT [3]:
+InjectionDelivery	"injected"	84	14531
+InjectionDelivery	"injected"	83	14326
+InjectionDelivery	"injected"	95	15809
+}
+Score [getF1()=1,000, getPrecision()=1,000, getRecall()=1,000, tp=3, fp=0, fn=0, tn=0]
+Score [macroF1=1,000, macroPrecision=1,000, macroRecall=1,000]
+***********************************************************
+
+
+***********************************************************
+|[3/19]======Final Evaluation======_____________N191 Pearse 2007_____________|
+Final State  Model[1,00000] Objective[0,90909] {
+GOLD [4]:
+InjectionDelivery	"injected"	73	13683
+InjectionDelivery	"injected"	72	13490
+InjectionDelivery	"injected"	73	13591
+DeliveryMethod	"injection"	54	10732
+}
+PREDICT [5]:
+InjectionDelivery	"injected"	78	14625
+InjectionDelivery	"injected"	78	14788
+InjectionDelivery	"injection"	73	13705
+InjectionDelivery	"injections"	76	14196
+InjectionDelivery	"injected"	292	48060
+}
+Score [getF1()=0,909, getPrecision()=1,000, getRecall()=0,833, tp=5, fp=0, fn=1, tn=0]
+Score [macroF1=0,909, macroPrecision=1,000, macroRecall=0,833]
+***********************************************************
+
+
+***********************************************************
+|[4/19]======Final Evaluation======_____________N209 Tharion 2011_____________|
+Final State  Model[1,00000] Objective[1,00000] {
+GOLD [2]:
+InjectionDelivery	"intraperitoneally"	46	6692
+InjectionDelivery	"injected"	60	8461
+}
+PREDICT [3]:
+InjectionDelivery	"injection"	30	4657
+InjectionDelivery	"injected"	60	8461
+InjectionDelivery	"intraperitoneally"	46	6692
+}
+Score [getF1()=1,000, getPrecision()=1,000, getRecall()=1,000, tp=3, fp=0, fn=0, tn=0]
+Score [macroF1=1,000, macroPrecision=1,000, macroRecall=1,000]
+***********************************************************
+
+
+***********************************************************
+|[5/19]======Final Evaluation======_____________N168 Li 2016_____________|
+Final State  Model[1,00000] Objective[1,00000] {
+GOLD [2]:
+InjectionDelivery	"intraperitoneally"	50	7655
+InjectionDelivery	"injected"	49	7333
+}
+PREDICT [2]:
+InjectionDelivery	"injected"	49	7333
+InjectionDelivery	"intraperitoneally"	50	7655
+}
+Score [getF1()=1,000, getPrecision()=1,000, getRecall()=1,000, tp=2, fp=0, fn=0, tn=0]
+Score [macroF1=1,000, macroPrecision=1,000, macroRecall=1,000]
+***********************************************************
+
+
+***********************************************************
+|[6/19]======Final Evaluation======_____________N170 Liu 2010_____________|
+Final State  Model[1,00000] Objective[0,85714] {
+GOLD [4]:
+InjectionDelivery	"injections"	34	6269
+InjectionDelivery	"inject"	31	5906
+InjectionDelivery	"injected"	28	5617
+DeliveryMethod	"implanted"	30	5806
+}
+PREDICT [3]:
+InjectionDelivery	"injections"	34	6204
+InjectionDelivery	"injections"	34	6269
+InjectionDelivery	"inject"	49	9032
+}
+Score [getF1()=0,857, getPrecision()=1,000, getRecall()=0,750, tp=3, fp=0, fn=1, tn=0]
+Score [macroF1=0,857, macroPrecision=1,000, macroRecall=0,750]
+***********************************************************
+
+
+***********************************************************
+|[7/19]======Final Evaluation======_____________N233 Zhang 2015_____________|
+Final State  Model[1,00000] Objective[1,00000] {
+GOLD [4]:
+InjectionDelivery	"injected"	45	8092
+InjectionDelivery	"injected"	49	8473
+InjectionDelivery	"injection"	38	7388
+InjectionDelivery	"i.m."	53	8979
+}
+PREDICT [5]:
+InjectionDelivery	"injection"	38	7388
+InjectionDelivery	"injected"	49	8473
+InjectionDelivery	"injected"	45	8092
+InjectionDelivery	"injected"	51	8815
+InjectionDelivery	"injection"	52	8886
+}
+Score [getF1()=1,000, getPrecision()=1,000, getRecall()=1,000, tp=5, fp=0, fn=0, tn=0]
+Score [macroF1=1,000, macroPrecision=1,000, macroRecall=1,000]
+***********************************************************
+
+
+***********************************************************
+|[8/19]======Final Evaluation======_____________N153 Imaizumi 2000_____________|
+Final State  Model[1,00000] Objective[1,00000] {
+GOLD [2]:
+InjectionDelivery	"i.p."	26	4896
+InjectionDelivery	"injected"	29	5600
+}
+PREDICT [2]:
+InjectionDelivery	"injected"	29	5600
+InjectionDelivery	"injected"	60	10529
+}
+Score [getF1()=1,000, getPrecision()=1,000, getRecall()=1,000, tp=2, fp=0, fn=0, tn=0]
+Score [macroF1=1,000, macroPrecision=1,000, macroRecall=1,000]
+***********************************************************
+
+
+***********************************************************
+|[9/19]======Final Evaluation======_____________N225 Xiao 2005_____________|
+Final State  Model[1,00000] Objective[1,00000] {
+GOLD [3]:
+InjectionDelivery	"injection"	68	12338
+InjectionDelivery	"injected"	79	14030
+InjectionDelivery	"injections"	64	11587
+}
+PREDICT [5]:
+InjectionDelivery	"injected"	79	14030
+InjectionDelivery	"injection"	68	12338
+InjectionDelivery	"injection"	61	10967
+InjectionDelivery	"injection"	74	13240
+InjectionDelivery	"injected"	82	14581
+}
+Score [getF1()=1,000, getPrecision()=1,000, getRecall()=1,000, tp=5, fp=0, fn=0, tn=0]
+Score [macroF1=1,000, macroPrecision=1,000, macroRecall=1,000]
+***********************************************************
+
+
+***********************************************************
+|[10/19]======Final Evaluation======_____________N231 Zhang 2011_____________|
+Final State  Model[1,00000] Objective[0,80000] {
+GOLD [3]:
+DeliveryMethod	"delivered"	226	40509
+InjectionDelivery	"ip"	208	37459
+InjectionDelivery	"injected"	227	40617
+}
+PREDICT [2]:
+InjectionDelivery	"injected"	41	8055
+InjectionDelivery	"injected"	81	13401
+}
+Score [getF1()=0,800, getPrecision()=1,000, getRecall()=0,667, tp=2, fp=0, fn=1, tn=0]
+Score [macroF1=0,800, macroPrecision=1,000, macroRecall=0,667]
+***********************************************************
+
+
+***********************************************************
+|[11/19]======Final Evaluation======_____________N133 Bretzner 2008_____________|
+Final State  Model[1,00000] Objective[1,00000] {
+GOLD [5]:
+InjectionDelivery	"i.p."	41	9111
+InjectionDelivery	"i.p"	41	9031
+InfusionDelivery	"infused"	51	10684
+InjectionDelivery	"stereotaxically microinjected"	46	10029
+InjectionDelivery	"i.p"	40	8826
+}
+PREDICT [6]:
+InjectionDelivery	"injected"	79	14803
+InjectionDelivery	"injected"	47	10198
+InfusionDelivery	"infused"	51	10684
+InjectionDelivery	"microinjected"	46	10045
+InjectionDelivery	"injected"	48	10323
+InjectionDelivery	"injected"	121	21426
+}
+Score [getF1()=1,000, getPrecision()=1,000, getRecall()=1,000, tp=6, fp=0, fn=0, tn=0]
+Score [macroF1=1,000, macroPrecision=1,000, macroRecall=1,000]
+***********************************************************
+
+
+***********************************************************
+|[12/19]======Final Evaluation======_____________N203 Stamegna 2011_____________|
+Final State  Model[1,00000] Objective[1,00000] {
+GOLD [2]:
+InjectionDelivery	"intraperitoneally"	40	6622
+InjectionDelivery	"injection"	52	8627
+}
+PREDICT [3]:
+InjectionDelivery	"intraperitoneally"	40	6622
+InjectionDelivery	"injected"	53	8734
+InjectionDelivery	"injection"	52	8627
+}
+Score [getF1()=1,000, getPrecision()=1,000, getRecall()=1,000, tp=3, fp=0, fn=0, tn=0]
+Score [macroF1=1,000, macroPrecision=1,000, macroRecall=1,000]
+***********************************************************
+
+
+***********************************************************
+|[13/19]======Final Evaluation======_____________N138 Chuah 2004_____________|
+Final State  Model[1,00000] Objective[1,00000] {
+GOLD [2]:
+InjectionDelivery	"injected"	56	8289
+InjectionDelivery	"injections"	66	9648
+}
+PREDICT [5]:
+InjectionDelivery	"injected"	11	1115
+InjectionDelivery	"injections"	10	1056
+InjectionDelivery	"injection"	7	400
+InjectionDelivery	"injected"	9	861
+InjectionDelivery	"injected"	71	10444
+}
+Score [getF1()=1,000, getPrecision()=1,000, getRecall()=1,000, tp=5, fp=0, fn=0, tn=0]
+Score [macroF1=1,000, macroPrecision=1,000, macroRecall=1,000]
+***********************************************************
+
+

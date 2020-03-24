@@ -1,0 +1,2875 @@
+Initialize systems scope...
+No normalization function for literal entity type "Thickness" was specified. Set default to "IdentityNormalization"
+No normalization function for literal entity type "Volume" was specified. Set default to "IdentityNormalization"
+No normalization function for literal entity type "Length" was specified. Set default to "IdentityNormalization"
+No normalization function for literal entity type "Weight" was specified. Set default to "IdentityNormalization"
+No normalization function for literal entity type "LightIntensity" was specified. Set default to "IdentityNormalization"
+No normalization function for literal entity type "Dosage" was specified. Set default to "IdentityNormalization"
+No normalization function for literal entity type "Duration" was specified. Set default to "IdentityNormalization"
+No normalization function for literal entity type "Force" was specified. Set default to "IdentityNormalization"
+No normalization function for literal entity type "Depth" was specified. Set default to "IdentityNormalization"
+No normalization function for literal entity type "Distance" was specified. Set default to "IdentityNormalization"
+No normalization function for literal entity type "Pressure" was specified. Set default to "IdentityNormalization"
+Systems scope successfully initialized!
+Trainiert mit Objective Function, getestet mit ObjectiveFunctionPartialOverlap
+Evaluation Detail: LITERAL
+MaxStepCrit: 50
+Total number of instances loaded: 200
+Instances remain after cardinality filter: 200
+Redistribute instances based on: Shuffle...
+Number of trainings instances: 160
+Number of develop instances: 0
+Number of test instances: 40
+Total number of distributed instances: 200
+PREDICTHIGHRECALL: 1
+***********************************************************
+|[1/40]======Final Evaluation======_____________N051 Bai, Peng et al. 2010_____________|
+Final State  Model[1,00000] Objective[0,51613] {
+GOLD [4]:
+CompleteTransection	"complete transection"	36	6877
+T10	"T10"	35	6567
+SodiumPentobarbital	"sodium pentobarbital"	34	6356
+Scissors	"microscissors"	35	6576
+}
+PREDICT [23]:
+SodiumPentobarbital	"sodium pentobarbital"	34	6356
+T10	"T10"	112	19677
+Scissors	"microscissors"	69	12364
+CompleteTransection	"complete transection"	3	761
+Contusion	"contusion"	51	9324
+SodiumPentobarbital	"sodium pentobarbital"	72	12684
+Scissors	"microscissors"	35	6576
+T10	"T10"	34	6480
+SodiumPentobarbital	"sodium pentobarbital"	56	9927
+PartialTransection	"gap"	35	6667
+Anaesthetic	"anesthetized"	56	9913
+Blade	"scalpel"	36	6730
+T11	"T11"	57	10179
+Anaesthetic	"anesthetized"	72	12670
+PartialTransection	"canal"	36	6861
+Blade	"small"	49	8983
+Blade	"small"	35	6661
+NYUImpactor	"York"	33	6268
+LateralHemisection	"lateral"	117	20910
+LateralHemisection	"cut"	84	14703
+C4	"vertebra"	34	6484
+NYUImpactor	"University"	53	9567
+DorsalHemisection	"transection"	91	16037
+}
+Score [getF1()=0,516, getPrecision()=0,348, getRecall()=1,000, tp=8, fp=15, fn=0, tn=0]
+Score [macroF1=0,516, macroPrecision=0,348, macroRecall=1,000]
+***********************************************************
+
+
+***********************************************************
+|[2/40]======Final Evaluation======_____________N183 Moreno-Flores 2006_____________|
+Final State  Model[1,00000] Objective[0,57143] {
+GOLD [3]:
+C3	"C3"	214	33000
+Compression	"crushing"	30	5046
+Forceps	"watchmaker’s forceps"	214	33009
+}
+PREDICT [4]:
+VertebralArea	"second"	234	36967
+Forceps	"forceps"	214	33022
+Compression	"crush"	6	1077
+C7	"C7"	221	34578
+}
+Score [getF1()=0,571, getPrecision()=0,500, getRecall()=0,667, tp=2, fp=2, fn=1, tn=0]
+Score [macroF1=0,571, macroPrecision=0,500, macroRecall=0,667]
+***********************************************************
+
+
+***********************************************************
+|[3/40]======Final Evaluation======_____________N021 Yang 2009 19761692_____________|
+Final State  Model[1,00000] Objective[0,00000] {
+GOLD [3]:
+Contusion	"contusion"	19	5972
+AllenWeightDropDevice	"Allen's method"	19	6056
+T9	"T9"	18	5849
+}
+PREDICT [0]:
+}
+Score [getF1()=0,000, getPrecision()=0,000, getRecall()=0,000, tp=0, fp=0, fn=3, tn=0]
+Score [macroF1=0,000, macroPrecision=0,000, macroRecall=0,000]
+***********************************************************
+
+
+***********************************************************
+|[4/40]======Final Evaluation======_____________N170 Liu 2010_____________|
+Final State  Model[1,00000] Objective[0,28571] {
+GOLD [3]:
+Blade	"scalpel"	25	5276
+LateralHemisection	"left side of the spinal cord was cut"	25	5212
+VertebralArea	"T11–T12"	24	5071
+}
+PREDICT [4]:
+T12	"T12"	24	5075
+LateralHemisection	"left side of the spinal cord was cut"	25	5212
+T11	"T11"	24	5071
+DorsalHemisection	"cut"	54	9582
+}
+Score [getF1()=0,286, getPrecision()=0,250, getRecall()=0,333, tp=1, fp=3, fn=2, tn=0]
+Score [macroF1=0,286, macroPrecision=0,250, macroRecall=0,333]
+***********************************************************
+
+
+***********************************************************
+|[5/40]======Final Evaluation======_____________N019 Xia 2008  18930033_____________|
+Final State  Model[1,00000] Objective[0,44444] {
+GOLD [4]:
+LateralHemisection	"lateral hemisection"	33	4380
+InjuryDevice	"scalpel"	33	4508
+SodiumPentobarbital	"sodium pentobarbital"	32	4267
+VertebralArea	"T9–T10"	33	4412
+}
+PREDICT [13]:
+SodiumPentobarbital	"sodium pentobarbital"	32	4267
+T10	"T10"	33	4415
+LateralHemisection	"lateral hemisection"	33	4380
+Blade	"scalpel"	33	4508
+T10	"T10"	34	4714
+Contusion	"SCI"	91	10489
+AspirationLesion	"aspiration"	33	4637
+NYUImpactor	"York"	26	3736
+LateralHemisection	"lateral hemisection"	84	9824
+Clip	"modified"	7	958
+InjuryDevice	"compression"	42	5566
+Injury	"injury"	0	113
+T9	"T9"	33	4412
+}
+Score [getF1()=0,444, getPrecision()=0,308, getRecall()=0,800, tp=4, fp=9, fn=1, tn=0]
+Score [macroF1=0,444, macroPrecision=0,308, macroRecall=0,800]
+***********************************************************
+
+
+***********************************************************
+|[6/40]======Final Evaluation======_____________N094 Mondello, S.E.a  c  d, Jefferson, S.C.a  c  d et al. 2015_____________|
+Final State  Model[1,00000] Objective[0,22222] {
+GOLD [6]:
+LateralHemisection	"spinal hemisection"	54	10271
+Anaesthetic	"atropine sulfate"	50	9762
+Isoflurane	"Isoflurane"	51	9870
+T10	"T10"	54	10267
+Anaesthetic	"acepromazine"	50	9824
+Scissors	"iridectomy scissors"	54	10301
+}
+PREDICT [3]:
+LateralHemisection	"lateral hemisection"	4	1223
+Thoracic	"low thoracic"	187	27672
+PartialTransection	"quadrant"	276	44379
+}
+Score [getF1()=0,222, getPrecision()=0,333, getRecall()=0,167, tp=1, fp=2, fn=5, tn=0]
+Score [macroF1=0,222, macroPrecision=0,333, macroRecall=0,167]
+***********************************************************
+
+
+***********************************************************
+|[7/40]======Final Evaluation======_____________N237 dePaul_____________|
+Final State  Model[1,00000] Objective[0,19512] {
+GOLD [5]:
+Xylazine	"xylazine"	291	39556
+T8	"T8"	292	39638
+KetamineAsAnaesthetic	"ketamine"	291	39532
+InfiniteHorizonImpactor	"impactor tip"	294	39890
+Contusion	"contusion"	277	37913
+}
+PREDICT [74]:
+Isoflurane	"isoflurane"	299	40532
+T8	"T8"	147	15622
+KetamineAsAnaesthetic	"ketamine"	291	39532
+Xylazine	"xylazine"	291	39556
+Contusion	"contusion"	23	4929
+Compression	"injury"	0	155
+Forceps	"forceps"	293	39753
+T7	"T7"	292	39606
+T7	"T7"	293	39721
+T9	"T9"	293	39728
+NYUImpactor	"II"	302	40933
+Contusion	"contused"	25	5213
+Forceps	"’"	347	46853
+DorsalHemisection	"column"	293	39683
+InjuryDevice	"lesion"	303	41168
+Vibraknife	"device"	147	15529
+Anaesthetic	"urethane"	319	42432
+T10	"thoracic"	147	15604
+Compression	"injury"	149	15769
+Forceps	"’"	348	47018
+MASCISImpactor	"weight"	139	15106
+InjuryDevice	"spinal"	300	40586
+Injury	"injury"	0	108
+Injury	"lesion"	9	2074
+InjuryDevice	"lesion"	19	4156
+Injury	"injury"	7	1617
+Injury	"injury"	17	3871
+Injury	"lesion"	25	5397
+Injury	"lesion"	302	40775
+VertebralArea	"7"	11	2554
+Injury	"lesion"	302	40822
+InjuryDevice	"spinal"	300	40628
+Injury	"lesion"	154	16381
+Injury	"injury"	21	4522
+InjuryDevice	"cord"	300	40593
+Injury	"injury"	146	15410
+Injury	"injury"	147	15484
+Injury	"injury"	148	15710
+Injury	"injury"	150	15971
+InjuryDevice	"cord"	300	40635
+Injury	"injury"	178	21059
+VertebralArea	"4"	171	19798
+Injury	"injury"	180	21310
+Injury	"injury"	181	21494
+Injury	"injury"	183	21837
+VertebralArea	"4"	172	19968
+Injury	"injury"	193	23734
+Injury	"injury"	193	23958
+VertebralArea	"4"	173	20107
+Injury	"injury"	194	24099
+InjuryDevice	"cord"	302	40913
+Injury	"injury"	211	26400
+VertebralArea	"4"	174	20286
+InjuryDevice	"cord"	348	46994
+InjuryDevice	"spinal"	176	20528
+InjuryDevice	"spinal"	176	20701
+InjuryDevice	"spinal"	188	22888
+InjuryDevice	"spinal"	285	38767
+InjuryDevice	"spinal"	287	38875
+InjuryDevice	"cord"	176	20535
+InjuryDevice	"cord"	188	22895
+InjuryDevice	"cord"	190	23172
+Forceps	"’"	350	47295
+InjuryDevice	"cord"	191	23343
+InjuryDevice	"cord"	287	38882
+Forceps	"’"	351	47403
+T10	"thoracic"	193	23725
+Blade	"sharp"	170	19620
+T8	"T8"	292	39638
+InfiniteHorizonImpactor	"Impact"	293	39803
+Blade	"sharp"	3	733
+InfiniteHorizonImpactor	"Horizon"	293	39795
+WeightDrop	"impactor"	294	39890
+NYUImpactor	"University"	289	39264
+}
+Score [getF1()=0,195, getPrecision()=0,108, getRecall()=1,000, tp=8, fp=66, fn=0, tn=0]
+Score [macroF1=0,195, macroPrecision=0,108, macroRecall=1,000]
+***********************************************************
+
+
+***********************************************************
+|[8/40]======Final Evaluation======_____________N197 Rochkind 2006_____________|
+Final State  Model[1,00000] Objective[0,59091] {
+GOLD [5]:
+Anaesthetic	"Xylosine"	63	9917
+CompleteTransection	"completely transected"	69	10565
+Scissors	"micro-scissors"	69	10593
+KetamineAsAnaesthetic	"Ketamine"	63	9874
+VertebralArea	"T7–T8"	69	10522
+}
+PREDICT [30]:
+Anaesthetic	"Xylosine"	63	9917
+Scissors	"micro-scissors"	69	10593
+T8	"T8"	69	10525
+KetamineAsAnaesthetic	"Ketamine"	65	10145
+Anaesthetic	"Xylosine"	65	10168
+Anaesthetic	"Xylosine"	64	10066
+PartialTransection	"mm"	37	6216
+Blade	"small"	106	15348
+KetamineAsAnaesthetic	"Ketamine"	63	9874
+Clip	"modified"	52	8470
+Anaesthetic	"anesthetized"	64	9995
+Compression	"injuries"	152	23727
+Forceps	"’"	113	16262
+Anaesthetic	"anesthetized"	62	9786
+PartialTransection	"injury"	4	813
+Anaesthetic	"anesthetized"	67	10315
+Compression	"injuries"	12	1992
+Forceps	"’"	113	16290
+T7	"T7"	69	10522
+CompleteTransection	"complete transection"	12	2022
+MASCISImpactor	"weight"	92	13552
+Forceps	"’"	85	12783
+Blade	"11"	154	24170
+Anaesthetic	"anesthetized"	92	13490
+CompleteTransection	"were"	59	9366
+CompleteTransection	"completely transected"	69	10565
+NYUImpactor	"developed"	176	27811
+Blade	"small"	146	22618
+LateralHemisection	"partial"	10	1823
+Contusion	"spinal"	97	14145
+}
+Score [getF1()=0,591, getPrecision()=0,433, getRecall()=0,929, tp=13, fp=17, fn=1, tn=0]
+Score [macroF1=0,591, macroPrecision=0,433, macroRecall=0,929]
+***********************************************************
+
+
+***********************************************************
+|[9/40]======Final Evaluation======_____________N106 Xiong_____________|
+Final State  Model[1,00000] Objective[0,59259] {
+GOLD [4]:
+Scissors	"microscissors"	41	8173
+T10	"T10"	41	8143
+CompleteTransection	"completely transected"	41	8114
+SodiumPentobarbital	"2% pentobarbital sodium"	38	7766
+}
+PREDICT [19]:
+CompleteTransection	"completely transected"	41	8114
+Scissors	"microscissors"	41	8173
+T10	"T10"	41	8143
+SodiumPentobarbital	"pentobarbital sodium"	38	7769
+SodiumPentobarbital	"pentobarbital"	48	9146
+T10	"T10"	39	7803
+SodiumPentobarbital	"2%"	48	9143
+NYUImpactor	"II"	24	5562
+SodiumPentobarbital	"2%"	38	7766
+LightSource	"fiber"	93	14771
+Blade	"small"	42	8312
+LateralHemisection	"incision"	40	7886
+LightSource	"light"	36	7563
+PhotochemicalInjury	"spinal"	88	14298
+NYUImpactor	"New"	67	12436
+Contusion	"cord"	0	403
+Contusion	"injury"	0	408
+MASCISImpactor	"device"	48	9204
+DorsalHemisection	"transection"	0	443
+}
+Score [getF1()=0,593, getPrecision()=0,421, getRecall()=1,000, tp=8, fp=11, fn=0, tn=0]
+Score [macroF1=0,593, macroPrecision=0,421, macroRecall=1,000]
+***********************************************************
+
+
+***********************************************************
+|[10/40]======Final Evaluation======_____________N234 Zhang 2016_____________|
+Final State  Model[1,00000] Objective[0,64000] {
+GOLD [4]:
+Contusion	"was contused"	47	7650
+SodiumPentobarbital	"sodium pentobarbiturate"	45	7506
+T10	"T10"	46	7595
+NYUImpactor	"NYU-II impactor"	47	7672
+}
+PREDICT [17]:
+SodiumPentobarbital	"sodium pentobarbiturate"	45	7506
+NYUImpactor	"NYU-II impactor"	47	7672
+T10	"T10"	46	7595
+Contusion	"contused"	152	25234
+T10	"T10"	4	994
+Anaesthetic	"atropine sulfate"	93	14811
+Contusion	"contused"	47	7654
+SodiumPentobarbital	"sodium pentobarbiturate"	93	14745
+DorsalHemisection	"lateral"	95	15229
+Blade	"surgical"	53	8364
+Clip	"modified"	31	5533
+LateralHemisection	"through"	95	15091
+LightSource	"light"	143	23592
+NYUImpactor	"weight"	47	7695
+AllenWeightDropDevice	"method"	28	5185
+PhotochemicalInjury	"induced"	107	17179
+AllenWeightDropDevice	"method"	51	8191
+}
+Score [getF1()=0,640, getPrecision()=0,471, getRecall()=1,000, tp=8, fp=9, fn=0, tn=0]
+Score [macroF1=0,640, macroPrecision=0,471, macroRecall=1,000]
+***********************************************************
+
+
+***********************************************************
+|[11/40]======Final Evaluation======_____________N053 Caggiano, Zimber et al. 2005_____________|
+Final State  Model[1,00000] Objective[0,21622] {
+GOLD [5]:
+Compression	"compressing"	62	9690
+VertebralArea	"T9/T10"	59	9375
+Forceps	"forceps"	61	9509
+Isoflurane	"isoflurane"	52	8623
+Forceps	"forceps"	62	9744
+}
+PREDICT [99]:
+Isoflurane	"isoflurane"	52	8623
+Compression	"compressing"	62	9690
+VertebralArea	"T9 and T10"	55	8952
+Forceps	"forceps"	8	973
+T10	"T10"	59	9378
+Contusion	"contusion"	8	919
+Xylazine	"Xylazine"	93	13874
+Isoflurane	"isoflurane"	74	11196
+Compression	"compress"	63	9955
+CompleteTransection	"transverse"	101	14754
+L1	"L1"	56	9028
+L1	"L1"	57	9135
+T9	"T9"	173	21403
+NYUImpactor	"developed"	86	12746
+InjuryDevice	"compression"	101	14810
+Blade	"blade"	63	9985
+InjuryDevice	"compression"	73	11066
+Injury	"lesion"	96	14203
+Injury	"lesion"	168	20787
+InjuryDevice	"compression"	169	20897
+DorsalHemisection	"model"	8	819
+Injury	"injury"	63	9825
+VertebralArea	"2"	0	42
+Injury	"injury"	65	10159
+Injury	"injury"	66	10217
+Injury	"injury"	70	10683
+InjuryDevice	"needle"	57	9190
+Injury	"injury"	73	11078
+Injury	"injury"	76	11478
+Injury	"injury"	80	12088
+Injury	"injury"	83	12383
+Injury	"injury"	87	12934
+Injury	"injury"	91	13494
+Injury	"injury"	94	14016
+Injury	"injury"	105	15049
+InjuryDevice	"spinal"	13	1951
+Injury	"injury"	112	15533
+Injury	"injury"	127	16689
+Injury	"injury"	131	16914
+Injury	"injury"	143	17702
+VertebralArea	"10"	108	15150
+Injury	"injury"	149	18255
+Injury	"injury"	152	18563
+Injury	"injury"	153	18696
+InjuryDevice	"cord"	115	15746
+Injury	"injury"	154	18891
+Injury	"injury"	156	19412
+Injury	"injury"	159	19680
+Injury	"injury"	160	19718
+Injury	"injury"	161	19903
+InjuryDevice	"spinal"	13	2016
+Injury	"injury"	165	20436
+Injury	"injury"	165	20549
+Injury	"injury"	167	20740
+Injury	"injury"	169	20909
+InjuryDevice	"spinal"	55	8963
+Injury	"injury"	170	21037
+Injury	"injury"	171	21158
+VertebralArea	"8"	203	25083
+Injury	"injury"	173	21306
+Injury	"injury"	173	21388
+Injury	"injury"	174	21462
+Injury	"injury"	174	21538
+InjuryDevice	"cord"	112	15431
+Injury	"injury"	179	22060
+Injury	"injury"	180	22083
+Injury	"injury"	187	23094
+Injury	"injury"	188	23118
+InjuryDevice	"spinal"	173	21432
+Injury	"injury"	195	24149
+Injury	"injury"	196	24178
+VertebralArea	"T10"	173	21406
+Injury	"injury"	197	24393
+Injury	"injury"	201	24894
+Injury	"injury"	202	24910
+Injury	"injury"	203	24958
+InjuryDevice	"cord"	166	20680
+Injury	"injury"	203	25021
+VertebralArea	"T10"	8	962
+Injury	"injury"	205	25397
+Injury	"injury"	205	25469
+Injury	"injury"	207	25779
+Injury	"injury"	207	25836
+InjuryDevice	"spinal"	8	828
+Injury	"injury"	213	26729
+Injury	"injury"	214	26877
+Injury	"injury"	217	27255
+InjuryDevice	"cord"	61	9622
+Injury	"injury"	5	404
+InjuryDevice	"cord"	62	9713
+Injury	"injury"	6	526
+Injury	"injury"	8	840
+Injury	"injury"	8	929
+VertebralArea	"segments"	173	21439
+Injury	"injury"	8	1143
+Injury	"injury"	11	1587
+InjuryDevice	"spinal"	5	382
+Injury	"injury"	12	1617
+Injury	"injury"	12	1714
+}
+Score [getF1()=0,216, getPrecision()=0,121, getRecall()=1,000, tp=12, fp=87, fn=0, tn=0]
+Score [macroF1=0,216, macroPrecision=0,121, macroRecall=1,000]
+***********************************************************
+
+
+***********************************************************
+|[12/40]======Final Evaluation======_____________N215 Verdu 2001_____________|
+Final State  Model[1,00000] Objective[0,54795] {
+GOLD [4]:
+LightSource	"150W halogen bulb"	29	4848
+PhotochemicalInjury	"photochemical injury"	19	3574
+SodiumPentobarbital	"sodium pentobarbital"	23	4185
+VertebralArea	"T12±L1"	24	4379
+}
+PREDICT [52]:
+SodiumPentobarbital	"sodium pentobarbital"	23	4185
+T10	"T10"	4	955
+NYUImpactor	"II"	32	5230
+T12	"T12"	2	436
+T9	"T9"	3	775
+Clip	"modified"	21	3986
+T12	"T12"	4	865
+T9	"T9"	62	9633
+LightSource	"optic"	28	4726
+T12	"T12"	24	4379
+Compression	"lesion"	2	416
+T12	"T12"	78	11255
+T12	"T12"	85	12393
+L1	"L1"	2	440
+L1	"L1"	3	739
+L1	"L1"	4	869
+L1	"L1"	24	4383
+L1	"L1"	31	5088
+Compression	"lesion"	3	742
+L1	"L1"	42	6954
+L1	"L1"	62	9600
+L1	"L1"	68	10078
+L1	"L1"	78	11259
+L1	"L1"	82	11854
+L1	"L1"	85	12397
+L1	"L1"	92	13527
+T12	"T12"	31	5081
+T12	"T12"	42	6950
+Compression	"funiculus"	69	10217
+T12	"T12"	62	9595
+T12	"T12"	68	10074
+LightSource	"source"	29	4825
+LightSource	"equipped"	48	7874
+LightSource	"light"	29	4819
+LightSource	"light"	39	6453
+LightSource	"150W"	29	4848
+LightSource	"equipped"	29	4832
+PhotochemicalInjury	"photochemical"	2	402
+LightSource	"halogen"	29	4853
+PhotochemicalInjury	"illuminated"	30	4909
+LightSource	"cold"	29	4814
+PhotochemicalInjury	"Spinal"	62	9461
+LightSource	"bulb"	29	4861
+CompleteTransection	"sectioned"	44	7122
+PhotochemicalInjury	"spinal"	53	8775
+PhotochemicalInjury	"Spinal"	44	7098
+LightSource	"connected"	29	4799
+Blade	"small"	83	11870
+PhotochemicalInjury	"spinal"	60	9438
+PhotochemicalInjury	"Spinal"	30	4893
+PhotochemicalInjury	"lesion"	71	10347
+Contusion	"cords"	65	9968
+}
+Score [getF1()=0,548, getPrecision()=0,385, getRecall()=0,952, tp=20, fp=32, fn=1, tn=0]
+Score [macroF1=0,548, macroPrecision=0,385, macroRecall=0,952]
+***********************************************************
+
+
+***********************************************************
+|[13/40]======Final Evaluation======_____________N238 Janzedeh_____________|
+Final State  Model[1,00000] Objective[0,35088] {
+GOLD [5]:
+KetamineAsAnaesthetic	"ketamine"	36	6469
+Compression	"compressed"	37	6613
+Clip	"micro-vascular clip"	37	6629
+VertebralArea	"T13-L1"	36	6543
+Xylazine	"xylasine"	36	6493
+}
+PREDICT [93]:
+KetamineAsAnaesthetic	"ketamine"	36	6469
+Xylazine	"xylasine"	36	6493
+Xylazine	"xylasine"	46	7762
+Contusion	"injury"	0	82
+Compression	"compression"	38	6727
+Forceps	"s"	44	7549
+Laminectomy	"exposed"	77	12332
+InjuryDevice	"compression"	35	6349
+VertebralArea	"T13"	36	6543
+InjuryDevice	"needle"	47	8231
+T10	"10"	69	11052
+AneurysmClip	"clip"	37	6644
+AneurysmClip	"clip"	38	6744
+InjuryDevice	"compression"	2	564
+InjuryDevice	"mouse"	68	10850
+Laminectomy	"laminectomy"	36	6514
+VertebralArea	"fourth"	48	8426
+Injury	"injury"	0	149
+VertebralArea	"4"	76	12137
+InjuryDevice	"cord"	72	11398
+Injury	"injury"	55	9103
+VertebralArea	"10"	54	8989
+Injury	"injury"	56	9164
+Injury	"injury"	64	10292
+Injury	"injury"	85	13201
+Injury	"injury"	94	14341
+Injury	"injury"	98	15024
+InjuryDevice	"spinal"	72	11391
+Injury	"injury"	100	15107
+Injury	"injury"	102	15296
+Injury	"injury"	109	15856
+Injury	"injury"	118	16551
+InjuryDevice	"spinal"	85	13189
+Injury	"injury"	125	17007
+Injury	"injury"	129	17475
+Injury	"injury"	132	17623
+Injury	"injury"	142	18263
+InjuryDevice	"spinal"	98	15012
+Injury	"injury"	170	21690
+VertebralArea	"4"	158	20203
+InjuryDevice	"cord"	173	22264
+Injury	"injury"	1	474
+Injury	"injury"	2	539
+Injury	"injury"	2	576
+InjuryDevice	"cord"	170	21685
+Injury	"injury"	10	1595
+Injury	"injury"	35	6332
+VertebralArea	"10"	43	7391
+Injury	"injury"	43	7458
+Injury	"injury"	46	7782
+Injury	"injury"	46	8084
+InjuryDevice	"spinal"	100	15095
+VertebralArea	"4"	50	8615
+VertebralArea	"L1"	72	11408
+InjuryDevice	"spinal"	118	16539
+InjuryDevice	"spinal"	125	16995
+VertebralArea	"4"	75	11890
+InjuryDevice	"spinal"	129	17463
+KetamineAsAnaesthetic	"ketamine"	46	7738
+InjuryDevice	"spinal"	132	17611
+InjuryDevice	"spinal"	142	18251
+VertebralArea	"level"	89	13778
+InjuryDevice	"spinal"	157	19828
+VertebralArea	"level"	89	13859
+InjuryDevice	"cord"	157	19835
+InjuryByAccident	"five"	56	9144
+VertebralArea	"level"	95	14636
+InjuryDevice	"cord"	142	18258
+InjuryDevice	"cord"	132	17618
+InjuryByAccident	"cord"	0	77
+VertebralArea	"level"	95	14709
+InjuryByAccident	"cord"	0	144
+InjuryDevice	"cord"	129	17470
+InjuryByAccident	"spinal"	1	456
+InjuryByAccident	"spinal"	2	527
+InjuryByAccident	"spinal"	35	6320
+InjuryByAccident	"spinal"	37	6597
+VertebralArea	"level"	89	13695
+InjuryByAccident	"cord"	1	463
+InjuryByAccident	"cord"	2	534
+InjuryByAccident	"cord"	10	1590
+InjuryByAccident	"cord"	35	6327
+InjuryByAccident	"cord"	37	6604
+VertebralArea	"level"	95	14564
+InjuryByAccident	"cord"	85	13196
+InjuryByAccident	"cord"	98	15019
+InjuryByAccident	"cord"	100	15102
+InjuryByAccident	"cord"	102	15291
+InjuryByAccident	"cord"	109	15851
+NYUImpactor	"developed"	77	12280
+InjuryByAccident	"cord"	118	16546
+InjuryByAccident	"cord"	125	17002
+InjuryByAccident	"spinal"	173	22257
+}
+Score [getF1()=0,351, getPrecision()=0,215, getRecall()=0,952, tp=20, fp=73, fn=1, tn=0]
+Score [macroF1=0,351, macroPrecision=0,215, macroRecall=0,952]
+***********************************************************
+
+
+***********************************************************
+|[14/40]======Final Evaluation======_____________N049 Wang 2011 21299884_____________|
+Final State  Model[1,00000] Objective[0,33333] {
+GOLD [3]:
+NYUImpactor	"device developed at  the New York University"	40	7894
+Contusion	"contusive injury"	3	1030
+T10	"thoracic spinal cord at segment 10"	3	1054
+}
+PREDICT [45]:
+SodiumPentobarbital	"pentobarbital"	85	16439
+NYUImpactor	"developed"	40	7901
+SodiumPentobarbital	"2%"	52	9862
+LightSource	"cold"	46	8722
+LightSource	"cold"	48	9002
+SodiumPentobarbital	"2%"	52	9975
+AllenWeightDropDevice	"method"	56	10466
+PhotochemicalInjury	"Spinal"	86	16533
+LightSource	"cold"	49	9115
+SodiumPentobarbital	"sodium"	42	8117
+LightSource	"cold"	90	16972
+PhotochemicalInjury	"lesion"	128	21806
+SodiumPentobarbital	"sodium"	46	8788
+LightSource	"equipped"	96	18015
+PhotochemicalInjury	"spinal"	91	17047
+SodiumPentobarbital	"sodium"	76	15033
+NYUImpactor	"New"	40	7919
+LightSource	"fiber"	19	3621
+PhotochemicalInjury	"spinal"	197	28877
+LightSource	"fiber"	250	37968
+PhotochemicalInjury	"spinal"	152	24553
+LightSource	"fiber"	251	38412
+PhotochemicalInjury	"lesion"	157	25011
+Blade	"fine"	199	29064
+PhotochemicalInjury	"cord"	177	27250
+MASCISImpactor	"device"	40	7894
+Blade	"fine"	250	38159
+LateralHemisection	"portion"	87	16719
+T10	"spinal"	243	36974
+Contusion	"contusive injury"	3	1030
+NYUImpactor	"York"	40	7923
+MASCISImpactor	"weight"	203	29662
+Blade	"11"	51	9485
+AllenWeightDropDevice	"method"	112	19958
+Thoracic	"thoracic"	3	1054
+LateralHemisection	"right"	13	2580
+T10	"spinal"	228	34173
+CompleteTransection	"SCI"	2	645
+Injury	"heat"	74	14324
+Injury	"heat"	209	30785
+Contusion	"SCI"	12	2519
+Contusion	"contused"	220	32703
+Thoracic	"low"	18	3526
+Clip	"modified"	62	11727
+NYUImpactor	"University"	15	2813
+}
+Score [getF1()=0,333, getPrecision()=0,200, getRecall()=1,000, tp=9, fp=36, fn=0, tn=0]
+Score [macroF1=0,333, macroPrecision=0,200, macroRecall=1,000]
+***********************************************************
+
+
+***********************************************************
+|[15/40]======Final Evaluation======_____________N224 Wu 2015_____________|
+Final State  Model[1,00000] Objective[0,22727] {
+GOLD [5]:
+Contusion	"contusion"	44	8046
+Laminectomy	"laminectomy"	40	7309
+T10	"T10"	48	8531
+NYUImpactor	"New York University (NYU) weight drop device"	44	8078
+VertebralArea	"T9–T11"	47	8432
+}
+PREDICT [37]:
+KetamineAsAnaesthetic	"ketamine"	96	15292
+Xylazine	"xylazine"	96	15301
+Contusion	"contusion"	44	8046
+Xylazine	"xylazine"	92	14565
+Scissors	"ophthalmic scissors"	58	9672
+T10	"T10"	109	17322
+MASCISImpactor	"drop"	44	8111
+Compression	"method"	65	10696
+Xylazine	"HCl"	71	11487
+MASCISImpactor	"weight"	2	628
+MASCISImpactor	"weight"	44	8104
+DorsalHemisection	"model"	156	23371
+Vibraknife	"device"	44	8116
+MASCISImpactor	"weight"	129	20243
+Contusion	"SCI"	4	951
+MASCISImpactor	"weight"	170	24793
+MASCISImpactor	"weight"	170	24897
+MASCISImpactor	"weight"	170	25059
+Blade	"small"	161	23916
+MASCISImpactor	"weight"	171	25204
+MASCISImpactor	"weight"	172	25418
+Contusion	"SCI"	48	8599
+MASCISImpactor	"weight"	173	25539
+T11	"T11"	47	8435
+Blade	"razor"	93	14632
+InjuryDevice	"needle"	86	13672
+InfiniteHorizonImpactor	"impactor"	48	8495
+AllenWeightDropDevice	"method"	103	16390
+AllenWeightDropDevice	"method"	183	27190
+InjuryDevice	"needle"	87	13788
+NYUImpactor	"New"	44	8078
+InjuryDevice	"needle"	88	13980
+Forceps	"5"	185	27942
+Anaesthetic	"citrate"	98	15936
+DorsalHemisection	"model"	161	23892
+LateralHemisection	"incision"	46	8340
+Forceps	"5"	185	27951
+}
+Score [getF1()=0,227, getPrecision()=0,135, getRecall()=0,714, tp=5, fp=32, fn=2, tn=0]
+Score [macroF1=0,227, macroPrecision=0,135, macroRecall=0,714]
+***********************************************************
+
+
+***********************************************************
+|[16/40]======Final Evaluation======_____________N013 CaffertyCafferty_____________|
+Final State  Model[1,00000] Objective[0,19780] {
+GOLD [3]:
+VertebralArea	"C5, C6, C8, and T1"	37	7155
+Compression	"crushed"	37	7196
+Isoflurane	"isoflurane"	36	7072
+}
+PREDICT [81]:
+Isoflurane	"isoflurane"	36	7072
+Anaesthetic	"urethane"	73	11933
+L1	"L1"	325	55780
+C4	"C4"	165	26009
+Anaesthetic	"sulfate"	57	10253
+Anaesthetic	"sulfate"	47	8537
+Forceps	"N"	188	30590
+C5	"C5"	36	7132
+PartialTransection	"transverse"	110	16833
+C5	"C5"	86	13612
+InfiniteHorizonImpactor	"tip"	190	31117
+C5	"C5"	9	1117
+C4	"C4"	267	45964
+Forceps	"s"	156	24108
+Vertebrae	"C8"	190	31244
+Blade	"small"	81	12697
+Anaesthetic	"sulfate"	10	1272
+Isoflurane	"isoflurane"	40	7631
+Blade	"sharp"	278	47477
+Anaesthetic	"anesthetized"	73	11905
+C5	"C5"	37	7155
+Vertebrae	"C8"	9	1125
+Dislocation	"consequence"	337	58157
+Vertebrae	"C8"	37	7163
+Dislocation	"consequence"	296	50449
+C5	"C5"	52	9378
+Contusion	"cords"	43	8112
+Vertebrae	"C8"	106	16057
+Forceps	"s"	156	24176
+Anaesthetic	"sulfate"	261	44670
+C4	"C4"	267	45979
+Anaesthetic	"sulfate"	261	44636
+Anaesthetic	"anesthetized"	42	7950
+Compression	"crushed"	144	21923
+Forceps	"N"	132	20060
+Anaesthetic	"sulfate"	129	19301
+Anaesthetic	"sulfate"	108	16315
+PartialTransection	"dorsal"	223	37092
+C5	"C5"	303	51693
+Anaesthetic	"anesthetized"	40	7610
+C4	"C4"	267	45988
+DorsalHemisection	"lesioned"	150	23022
+Compression	"lesion"	314	53743
+Compression	"crushed"	144	21797
+Compression	"crushed"	37	7196
+Anaesthetic	"sulfate"	351	59807
+Forceps	"¬"	178	28239
+C5	"C5"	317	54246
+InjuryDevice	"cylinder"	299	50915
+Injury	"segmental"	165	25776
+Blade	"sharp"	187	30051
+CompleteTransection	"transverse"	113	17127
+Blade	"small"	347	59117
+LateralHemisection	"left"	130	19560
+LateralHemisection	"right"	77	12330
+Cervical	"cervical"	9	1075
+Vertebrae	"C8"	113	17183
+InjuryDevice	"cylinder"	62	10630
+InjuryDevice	"cylinder"	122	18097
+C5	"C5"	102	15706
+CompleteTransection	"lesion"	291	49635
+Vertebrae	"C8"	136	20762
+Compression	"lesion"	241	40318
+Compression	"lesion"	257	43938
+Compression	"lesion"	256	43780
+Cervical	"cervical"	256	43742
+Injury	"lesion"	336	57991
+InjuryDevice	"cylinder"	63	10693
+Forceps	"¬"	178	28256
+T3	"T3"	78	12426
+DorsalHemisection	"dorsal columns"	202	33508
+Injury	"lesion"	151	23148
+Injury	"lesion"	152	23373
+InjuryDevice	"cylinder"	65	10984
+Injury	"lesion"	159	24719
+Injury	"lesion"	169	26815
+Injury	"lesion"	170	26965
+Injury	"lesion"	171	27138
+Injury	"lesion"	173	27504
+InjuryDevice	"cylinder"	122	18203
+Injury	"lesion"	174	27825
+}
+Score [getF1()=0,198, getPrecision()=0,111, getRecall()=0,900, tp=9, fp=72, fn=1, tn=0]
+Score [macroF1=0,198, macroPrecision=0,111, macroRecall=0,900]
+***********************************************************
+
+
+***********************************************************
+|[17/40]======Final Evaluation======_____________N046 Imagama 2011 22114278_____________|
+Final State  Model[1,00000] Objective[0,13592] {
+GOLD [5]:
+InfiniteHorizonImpactor	"Infinite Horizon Impactor"	54	8108
+Xylazine	"xylazine"	53	7948
+T9	"Th9"	54	7976
+Contusion	"contusion"	54	8223
+KetamineAsAnaesthetic	"ketamine"	53	7923
+}
+PREDICT [95]:
+KetamineAsAnaesthetic	"ketamine"	53	7923
+Xylazine	"xylazine"	53	7948
+InfiniteHorizonImpactor	"Infinite Horizon Impactor"	54	8108
+Contusion	"contusion"	322	35540
+Xylazine	"hydrochloride"	187	24839
+T10	"10"	348	39874
+DorsalHemisection	"model"	377	44843
+Forceps	"forceps"	163	22065
+Compression	"injuries"	0	1226
+Vibraknife	"device"	54	8100
+Vibraknife	"device"	153	20726
+KetamineAsAnaesthetic	"ketamine"	136	18530
+Forceps	"’"	191	25403
+Vibraknife	"device"	156	21204
+InjuryDevice	"cord"	324	35892
+Anaesthetic	"sulfate"	0	1143
+Forceps	"’"	192	25591
+Compression	"injuries"	328	36371
+Anaesthetic	"sulfate"	1	1288
+InfiniteHorizonImpactor	"tip"	56	8491
+Forceps	"5"	346	39528
+InjuryDevice	"cord"	335	37487
+VertebralArea	"8"	152	20647
+Injury	"heat"	372	44111
+InjuryDevice	"cord"	353	40966
+VertebralArea	"9"	159	21785
+InjuryDevice	"spinal"	201	26392
+Injury	"lesion"	258	30837
+Injury	"lesion"	324	35780
+Injury	"lesion"	357	41739
+Injury	"lesion"	363	42519
+InjuryDevice	"spinal"	209	26888
+Injury	"injury"	209	26901
+InjuryDevice	"spinal"	210	26939
+Injury	"injury"	212	27243
+Injury	"injury"	216	27490
+Injury	"injury"	234	28974
+Injury	"injury"	324	35750
+InjuryDevice	"spinal"	212	27231
+Injury	"injury"	324	35841
+Injury	"injury"	325	35919
+Injury	"injury"	326	36094
+Injury	"injury"	327	36181
+InjuryDevice	"spinal"	216	27421
+Injury	"injury"	330	36638
+Injury	"injury"	335	37443
+VertebralArea	"4"	342	38737
+Injury	"injury"	348	39890
+Injury	"injury"	348	40059
+VertebralArea	"4"	345	39250
+InjuryDevice	"cord"	352	40657
+InjuryDevice	"cord"	344	39044
+Injury	"lesion"	132	17965
+VertebralArea	"2"	335	37511
+Injury	"lesion"	132	18227
+Injury	"injury"	67	10164
+InjuryDevice	"spinal"	234	28962
+Injury	"injury"	4	1600
+Injury	"injury"	6	1771
+Injury	"injury"	54	8031
+InjuryDevice	"spinal"	259	30932
+Injury	"injury"	54	8233
+Injury	"injury"	67	10046
+Injury	"injury"	69	10396
+VertebralArea	"2"	339	38075
+Injury	"injury"	70	10517
+InjuryDevice	"spinal"	352	40650
+Injury	"injury"	123	16527
+InjuryDevice	"spinal"	261	31172
+InjuryDevice	"spinal"	264	31428
+VertebralArea	"level"	348	40024
+InjuryDevice	"spinal"	353	40959
+InjuryDevice	"spinal"	322	35597
+Forceps	"5"	355	41331
+VertebralArea	"4"	273	32116
+InjuryDevice	"spinal"	335	37480
+InjuryDevice	"cord"	201	26399
+T10	"thoracic"	322	35622
+InjuryDevice	"cord"	205	26604
+Forceps	"5"	352	40782
+InjuryDevice	"cord"	210	26946
+VertebralArea	"first"	139	19130
+InjuryByAccident	"five"	136	18569
+InjuryByAccident	"severe"	69	10389
+InjuryByAccident	"severe"	324	35764
+Blade	"small"	67	10019
+InjuryDevice	"cord"	216	27472
+LateralHemisection	"side"	214	27321
+Anaesthetic	"mouse"	114	15174
+InjuryByAccident	"vertebral"	322	35631
+NYUImpactor	"University"	15	3476
+MASCISImpactor	"weight"	78	11410
+Blade	"fine"	163	22060
+LateralHemisection	"side"	266	31617
+Anaesthetic	"anesthetized"	53	7873
+}
+Score [getF1()=0,136, getPrecision()=0,074, getRecall()=0,875, tp=7, fp=88, fn=1, tn=0]
+Score [macroF1=0,136, macroPrecision=0,074, macroRecall=0,875]
+***********************************************************
+
+
+***********************************************************
+|[18/40]======Final Evaluation======_____________N240 Pakulska_____________|
+Final State  Model[1,00000] Objective[0,31034] {
+GOLD [4]:
+VertebralArea	"T1-2 vertebral level"	45	8017
+Isoflurane	"isoflurane"	45	7966
+Clip	"modified aneurysm clip"	46	8096
+Compression	"impact-compression injury"	46	8050
+}
+PREDICT [97]:
+Isoflurane	"isoflurane"	45	7966
+Isoflurane	"isoflurane"	57	9737
+Compression	"impact-compression"	58	9821
+AneurysmClip	"aneurysm clip"	46	8105
+Injury	"heat"	63	10666
+Injury	"heat"	49	8668
+VertebralArea	"7"	52	9047
+InjuryDevice	"needle"	59	9989
+InjuryDevice	"needle"	59	10110
+VertebralArea	"2"	52	9044
+Injury	"lesion"	164	23510
+InjuryDevice	"needle"	62	10486
+Injury	"injury"	52	9067
+Injury	"injury"	53	9152
+Injury	"injury"	58	9840
+Injury	"injury"	59	9899
+Injury	"injury"	59	9933
+Injury	"injury"	61	10287
+Injury	"injury"	61	10469
+InjuryDevice	"mouse"	93	14635
+Injury	"injury"	66	11052
+Injury	"injury"	66	11106
+Injury	"injury"	69	11356
+Injury	"injury"	104	16663
+VertebralArea	"levels"	7	1366
+InjuryDevice	"mouse"	93	14811
+Injury	"injury"	111	17307
+Injury	"injury"	111	17402
+Injury	"injury"	124	18801
+Injury	"injury"	130	19209
+VertebralArea	"7"	124	18777
+Injury	"injury"	140	20226
+Injury	"injury"	144	20528
+InjuryDevice	"cord"	161	22816
+Injury	"injury"	144	20542
+VertebralArea	"2"	124	18771
+Injury	"injury"	149	20947
+Injury	"injury"	149	20980
+Injury	"injury"	151	21115
+Injury	"injury"	152	21367
+Injury	"injury"	159	22522
+Injury	"injury"	166	23825
+Injury	"injury"	166	23857
+InjuryDevice	"spinal"	125	18904
+Injury	"injury"	171	24556
+Injury	"injury"	175	25361
+Injury	"injury"	177	25609
+Injury	"injury"	178	25643
+InjuryDevice	"spinal"	139	20041
+Injury	"injury"	179	25920
+Injury	"injury"	180	26010
+Injury	"injury"	184	26515
+Injury	"injury"	186	26749
+InjuryDevice	"spinal"	144	20420
+Injury	"injury"	186	26811
+Injury	"injury"	198	28220
+VertebralArea	"vertebral"	45	8022
+InjuryDevice	"spinal"	152	21291
+InjuryDevice	"spinal"	181	26077
+VertebralArea	"10"	47	8260
+Injury	"injury"	0	183
+InjuryDevice	"cord"	125	18911
+InjuryDevice	"cord"	139	20048
+Injury	"injury"	5	1141
+Injury	"injury"	10	1788
+VertebralArea	"10"	47	8313
+Injury	"injury"	46	8069
+Injury	"injury"	47	8162
+InjuryDevice	"cord"	144	20427
+Injury	"injury"	47	8196
+VertebralArea	"level"	45	8032
+InjuryDevice	"cord"	148	20821
+InjuryDevice	"cord"	152	21298
+VertebralArea	"2"	45	8020
+InjuryDevice	"cord"	157	22091
+InjuryDevice	"cord"	160	22578
+InjuryDevice	"cord"	181	26084
+VertebralArea	"4"	52	8974
+InjuryDevice	"cord"	186	26629
+T10	"10"	86	13447
+InjuryDevice	"cord"	189	27149
+DorsalHemisection	"model"	9	1682
+InjuryDevice	"cord"	198	28215
+VertebralArea	"T1"	45	8017
+Laminectomy	"laminectomy"	45	7984
+VertebralArea	"10"	47	8366
+InjuryDevice	"needle"	47	8433
+VertebralArea	"2"	52	8937
+InjuryDevice	"spinal"	53	9106
+InjuryDevice	"cord"	54	9282
+DorsalHemisection	"model"	2	457
+InjuryDevice	"cord"	55	9365
+InjuryByAccident	"vertebral"	57	9793
+InjuryDevice	"cord"	53	9113
+VertebralArea	"second"	61	10243
+InjuryDevice	"cord"	123	18648
+InjuryByAccident	"cord"	0	138
+}
+Score [getF1()=0,310, getPrecision()=0,186, getRecall()=0,947, tp=18, fp=79, fn=1, tn=0]
+Score [macroF1=0,310, macroPrecision=0,186, macroRecall=0,947]
+***********************************************************
+
+
+***********************************************************
+|[19/40]======Final Evaluation======_____________N161 Lang 2013_____________|
+Final State  Model[1,00000] Objective[0,42857] {
+GOLD [4]:
+Laminectomy	"laminectomies"	141	20482
+Scissors	"microscissors"	135	19679
+LateralHemisection	"left side of the cord was completely divided"	135	19772
+T10	"T10"	133	19583
+}
+PREDICT [9]:
+T10	"T10"	133	19583
+Scissors	"microscissors"	135	19679
+CompleteTransection	"completely"	135	19798
+Anaesthetic	"mouse"	159	23132
+Anaesthetic	"mouse"	159	23169
+Scissors	"microscissors"	134	19630
+PartialTransection	"hemisection"	0	118
+Injury	"heat"	150	21665
+Compression	"method"	177	25627
+}
+Score [getF1()=0,429, getPrecision()=0,333, getRecall()=0,600, tp=3, fp=6, fn=2, tn=0]
+Score [macroF1=0,429, macroPrecision=0,333, macroRecall=0,600]
+***********************************************************
+
+
+***********************************************************
+|[20/40]======Final Evaluation======_____________N177 Luo 2013_____________|
+Final State  Model[1,00000] Objective[0,50000] {
+GOLD [4]:
+VertebralArea	"7–9th"	34	6484
+Scissors	"scissors"	35	6651
+SodiumPentobarbital	"pento-barbital"	33	6428
+CompleteTransection	"completely transectedusing"	35	6602
+}
+PREDICT [8]:
+CompleteTransection	"completely transectedusing"	35	6602
+Scissors	"scissors"	35	6651
+SodiumPentobarbital	"pento-barbital"	33	6428
+NYUImpactor	"University"	0	302
+Contusion	"SCI"	6	2261
+LightSource	"light"	45	7851
+Thoracic	"low"	2	1292
+Blade	"sharp"	35	6629
+}
+Score [getF1()=0,500, getPrecision()=0,375, getRecall()=0,750, tp=3, fp=5, fn=1, tn=0]
+Score [macroF1=0,500, macroPrecision=0,375, macroRecall=0,750]
+***********************************************************
+
+
+***********************************************************
+|[21/40]======Final Evaluation======_____________N204 Steward 2006_____________|
+Final State  Model[1,00000] Objective[0,16981] {
+GOLD [7]:
+KetamineAsAnaesthetic	"ketamine"	44	9404
+Blade	"ophthalmic scalpel"	57	11130
+CompleteTransection	"complete transection"	57	11217
+CompleteTransection	"completely transect"	39	8803
+T10	"T10"	39	8842
+Xylazine	"xylazine"	44	9413
+Blade	"microscalpel"	49	9993
+}
+PREDICT [95]:
+KetamineAsAnaesthetic	"ketamine"	107	18094
+Xylazine	"xylazine"	44	9413
+Xylazine	"xylazine"	107	18103
+T10	"T10"	48	9841
+Scissors	"ophthalmic"	57	11130
+Contusion	"spinal"	129	21295
+InjuryDevice	"scalpel"	81	14215
+SodiumPentobarbital	"pentobarbital"	75	13588
+CuttingDevice	"micro-scalpel"	148	23742
+DorsalHemisection	"transected"	148	23723
+AneurysmClip	"curved"	147	23582
+Blade	"microscalpel"	49	9993
+KetamineAsAnaesthetic	"ketamine"	44	9404
+AneurysmClip	"curved"	56	10897
+NYUImpactor	"developed"	76	13748
+Forceps	"forceps"	80	14173
+CuttingDevice	"knife"	50	10217
+PartialTransection	"small"	308	43127
+T11	"T11"	107	18218
+Blade	"small"	227	30025
+Contusion	"spinal"	148	23702
+T12	"T12"	123	20401
+T10	"T10"	46	9593
+NYUImpactor	"developed"	152	23987
+Clip	"modified"	54	10738
+Clip	"modified"	65	12225
+AllenWeightDropDevice	"method"	99	16950
+Thoracic	"low thoracic"	314	44077
+C4	"vertebra"	123	20405
+Blade	"blade"	88	15024
+LateralHemisection	"left"	118	19741
+LateralHemisection	"cord"	39	8834
+T11	"T11"	47	9824
+AllenWeightDropDevice	"method"	152	23976
+InjuryDevice	"scalpel"	88	15016
+Injury	"lesion"	11	2478
+Injury	"lesion"	43	9289
+Injury	"injury"	9	1964
+Injury	"injury"	11	2338
+Injury	"injury"	40	8942
+Injury	"injury"	68	12657
+InjuryDevice	"needle"	147	23596
+Injury	"injury"	42	9236
+InjuryDevice	"needle"	56	10911
+Injury	"lesion"	110	18580
+VertebralArea	"2"	37	8620
+Injury	"lesion"	132	21745
+Injury	"lesion"	138	22489
+Injury	"lesion"	139	22773
+Injury	"lesion"	170	25495
+InjuryDevice	"needle"	57	11169
+VertebralArea	"2"	54	10708
+Injury	"lesion"	171	25527
+Injury	"lesion"	186	26685
+Injury	"lesion"	190	27086
+Injury	"lesion"	200	27705
+VertebralArea	"2"	58	11253
+Injury	"lesion"	228	30125
+Injury	"lesion"	229	30330
+Injury	"lesion"	258	34499
+Injury	"lesion"	259	34819
+VertebralArea	"2"	72	13142
+Injury	"lesion"	264	35434
+Injury	"lesion"	287	39173
+Injury	"lesion"	288	39439
+Injury	"lesion"	289	39530
+InjuryDevice	"cord"	138	22614
+Injury	"lesion"	296	40973
+VertebralArea	"2"	104	17423
+Injury	"lesion"	303	42091
+Injury	"lesion"	303	42182
+Injury	"lesion"	308	42999
+Injury	"lesion"	309	43206
+Injury	"lesion"	309	43306
+Injury	"lesion"	110	18654
+InjuryDevice	"spinal"	108	18395
+Injury	"injury"	130	21428
+InjuryDevice	"spinal"	117	19608
+Injury	"injury"	131	21643
+Injury	"injury"	277	37855
+Injury	"injury"	296	40860
+Injury	"injury"	302	41960
+InjuryDevice	"spinal"	124	20597
+Injury	"injury"	306	42743
+InjuryDevice	"spinal"	138	22607
+InjuryDevice	"cord"	301	41864
+InjuryDevice	"spinal"	146	23524
+InjuryDevice	"spinal"	220	29329
+InjuryDevice	"spinal"	258	34541
+VertebralArea	"2"	275	37401
+InjuryDevice	"spinal"	287	39216
+VertebralArea	"2"	283	38517
+InjuryDevice	"spinal"	302	41948
+InjuryDevice	"cord"	298	41301
+VertebralArea	"2"	283	38590
+}
+Score [getF1()=0,170, getPrecision()=0,095, getRecall()=0,818, tp=9, fp=86, fn=2, tn=0]
+Score [macroF1=0,170, macroPrecision=0,095, macroRecall=0,818]
+***********************************************************
+
+
+***********************************************************
+|[22/40]======Final Evaluation======_____________N156 Kalincik 2010 2_____________|
+Final State  Model[1,00000] Objective[0,12000] {
+GOLD [5]:
+T4	"T4"	78	13400
+Xylazine	"xylazine"	73	12794
+CompleteTransection	"completely transected"	78	13343
+Scissors	"microscissors"	78	13370
+KetamineAsAnaesthetic	"ketamine"	73	12781
+}
+PREDICT [93]:
+KetamineAsAnaesthetic	"ketamine hydrochloride"	44	8305
+Xylazine	"xylazine"	45	8407
+Scissors	"microscissors"	78	13370
+Xylazine	"xylazine"	73	12794
+T3	"T3"	77	13235
+Balloon	"balloon"	153	25817
+Contusion	"cord"	0	95
+Balloon	"balloon"	101	16755
+Xylazine	"hydrochloride"	47	8593
+Balloon	"balloon"	100	16600
+InjuryDevice	"scalpel"	78	13446
+DorsalHemisection	"transection"	73	12529
+Compression	"injury"	11	1836
+Forceps	"s"	200	31310
+Balloon	"balloon"	99	16384
+AllenWeightDropDevice	"method"	97	16047
+Balloon	"balloon"	154	25912
+C4	"cervical"	14	2275
+Vibraknife	"device"	34	6687
+DorsalHemisection	"transection"	220	34090
+Vibraknife	"device"	43	8197
+MASCISImpactor	"drop"	194	30305
+InjuryDevice	"mouse"	110	18828
+Forceps	"’"	164	26762
+InjuryDevice	"cord"	119	20442
+Balloon	"Balloon"	152	25749
+Laminectomy	"exposed"	49	8788
+DorsalHemisection	"transection"	36	6900
+InjuryDevice	"spinal"	67	11448
+Injury	"injury"	0	100
+InjuryDevice	"spinal"	73	12517
+VertebralArea	"7"	42	7894
+Injury	"lesion"	78	13466
+InjuryDevice	"spinal"	119	20435
+Injury	"lesion"	158	26319
+VertebralArea	"11"	42	7897
+Injury	"lesion"	176	27817
+Injury	"lesion"	215	33280
+InjuryDevice	"spinal"	78	13327
+Injury	"injury"	83	14015
+Injury	"injury"	129	21999
+VertebralArea	"7"	105	17968
+Injury	"injury"	132	22432
+Injury	"injury"	144	24129
+VertebralArea	"11"	105	17971
+Injury	"injury"	145	24283
+InjuryDevice	"cord"	172	27340
+Injury	"injury"	182	28396
+VertebralArea	"4"	95	15824
+Injury	"injury"	188	29525
+Injury	"injury"	206	32193
+VertebralArea	"4"	98	16148
+Injury	"injury"	213	32826
+Injury	"injury"	221	34291
+Injury	"injury"	223	34551
+Injury	"injury"	224	34692
+InjuryDevice	"spinal"	119	20494
+Injury	"injury"	225	34871
+Injury	"injury"	215	33235
+VertebralArea	"7"	135	22880
+InjuryDevice	"spinal"	157	26117
+InjuryDevice	"spinal"	172	27333
+VertebralArea	"11"	135	22883
+InjuryDevice	"spinal"	175	27551
+InjuryDevice	"spinal"	207	32257
+InjuryDevice	"spinal"	211	32700
+InjuryDevice	"spinal"	212	32752
+Injury	"injury"	2	547
+Injury	"injury"	5	993
+InjuryDevice	"spinal"	213	32951
+Injury	"injury"	6	1167
+Injury	"injury"	10	1702
+Injury	"injury"	11	1763
+Injury	"injury"	14	2255
+InjuryDevice	"cord"	157	26124
+InjuryDevice	"cord"	175	27558
+InjuryDevice	"cord"	204	31844
+InjuryDevice	"cord"	213	32958
+InjuryDevice	"cord"	220	34085
+VertebralArea	"11"	209	32453
+Forceps	"s"	199	31181
+T10	"10"	102	16917
+InjuryDevice	"spinal"	123	20968
+InjuryDevice	"spinal"	128	21707
+Forceps	"s"	199	31218
+InjuryDevice	"cord"	106	18234
+InjuryDevice	"cord"	119	20501
+T10	"10"	102	17007
+Forceps	"s"	200	31345
+InjuryDevice	"cord"	123	20975
+InjuryByAccident	"resulting"	62	10407
+CompleteTransection	"completely transected"	78	13343
+NYUImpactor	"developed"	98	16214
+}
+Score [getF1()=0,120, getPrecision()=0,065, getRecall()=0,857, tp=6, fp=87, fn=1, tn=0]
+Score [macroF1=0,120, macroPrecision=0,065, macroRecall=0,857]
+***********************************************************
+
+
+***********************************************************
+|[23/40]======Final Evaluation======_____________N195 Resnick 2003_____________|
+Final State  Model[1,00000] Objective[0,29630] {
+GOLD [3]:
+VertebralArea	"T8 or T9"	27	3983
+Contusion	"contusion injury"	5	560
+NYUImpactor	"NYU impactor"	27	4058
+}
+PREDICT [22]:
+NYUImpactor	"NYU impactor"	27	4058
+T8	"T8"	27	3983
+SodiumPentobarbital	"pentobarbital"	38	5357
+T9	"T9"	27	3989
+NYUImpactor	"NYU impactor"	6	601
+T10	"10"	7	776
+Blade	"blade"	41	5696
+LightSource	"cold"	40	5547
+LightSource	"cold"	41	5647
+PhotochemicalInjury	"cord"	5	591
+LightSource	"cold"	42	5752
+LightSource	"bulb"	42	5714
+PhotochemicalInjury	"injury"	3	284
+LightSource	"bulb"	39	5472
+PhotochemicalInjury	"injury"	4	420
+CompleteTransection	"mm"	72	8797
+Contusion	"contusion"	5	560
+Contusion	"contusion"	12	1391
+PhotochemicalInjury	"injury"	9	1118
+MASCISImpactor	"weight"	83	9565
+MASCISImpactor	"weight"	93	10705
+PhotochemicalInjury	"injury"	7	837
+}
+Score [getF1()=0,296, getPrecision()=0,182, getRecall()=0,800, tp=4, fp=18, fn=1, tn=0]
+Score [macroF1=0,296, macroPrecision=0,182, macroRecall=0,800]
+***********************************************************
+
+
+***********************************************************
+|[24/40]======Final Evaluation======_____________N206 Takeoka 2009_____________|
+Final State  Model[1,00000] Objective[0,34783] {
+GOLD [3]:
+Isoflurane	"isoflurane"	40	8069
+T9	"T9"	40	8132
+CompleteTransection	"complete spinal cord transection"	40	8095
+}
+PREDICT [19]:
+Isoflurane	"isoflurane"	40	8069
+CompleteTransection	"complete spinal cord transection"	40	8095
+T9	"T9"	40	8132
+Compression	"technique"	74	13647
+T12	"T12"	116	21481
+Blade	"small"	163	30740
+Anaesthetic	"ice"	46	9111
+KetamineAsAnaesthetic	"ketamine"	45	8921
+Forceps	"’"	51	9763
+PartialTransection	"canal"	81	15086
+Compression	"method"	67	12427
+Forceps	"’"	56	10513
+Injury	"segmental"	97	18452
+Injury	"segmental"	149	28091
+InjuryDevice	"cord"	97	18535
+NYUImpactor	"developed"	60	11059
+Blade	"small"	77	14411
+LateralHemisection	"half"	134	25239
+CompleteTransection	"completely transected"	124	23127
+}
+Score [getF1()=0,348, getPrecision()=0,211, getRecall()=1,000, tp=4, fp=15, fn=0, tn=0]
+Score [macroF1=0,348, macroPrecision=0,211, macroRecall=1,000]
+***********************************************************
+
+
+***********************************************************
+|[25/40]======Final Evaluation======_____________N230 Zhang 2011 2_____________|
+Final State  Model[1,00000] Objective[0,30476] {
+GOLD [4]:
+NYUImpactor	"NYU (New York University) impactor device"	33	6094
+SodiumPentobarbital	"sodium pentobarbital"	33	6193
+T10	"T10"	33	6068
+Contusion	"contusion injury"	33	5994
+}
+PREDICT [89]:
+SodiumPentobarbital	"sodium pentobarbital"	33	6193
+T10	"T10"	33	6068
+SodiumPentobarbital	"pentobarbital"	38	6810
+NYUImpactor	"II"	42	7401
+Blade	"sharp"	50	8999
+T10	"T10"	4	794
+SodiumPentobarbital	"sodium pentobarbital"	46	7984
+Blade	"small"	144	18543
+NYUImpactor	"New"	33	6099
+LightSource	"source"	49	8587
+LightSource	"light"	49	8611
+PhotochemicalInjury	"illuminating"	49	8747
+SodiumPentobarbital	"2%"	47	8100
+LightSource	"light"	48	8475
+LightSource	"halogen"	49	8603
+PhotochemicalInjury	"injury"	34	6329
+LightSource	"halogen"	48	8486
+SodiumPentobarbital	"2%"	58	10161
+LightSource	"bulb"	48	8494
+PhotochemicalInjury	"photochemical"	50	8813
+LightSource	"connected"	47	8201
+PhotochemicalInjury	"illuminated"	48	8430
+NYUImpactor	"impactor"	33	6120
+MASCISImpactor	"device"	4	761
+Contusion	"contusion"	33	5994
+Contusion	"contusion"	0	64
+T10	"spinal"	106	14456
+Blade	"small"	172	21577
+MASCISImpactor	"device"	33	6129
+NYUImpactor	"developed"	201	26179
+Blade	"blade"	50	9014
+PhotochemicalInjury	"cord"	0	39
+Contusion	"contusion injury"	4	730
+Blade	"small"	166	20693
+LateralHemisection	"divided"	5	954
+LateralHemisection	"through"	47	8177
+LateralHemisection	"divided"	71	11909
+Injury	"injury"	0	74
+T10	"thoracic"	33	6049
+Injury	"lesion"	187	23995
+Injury	"lesion"	196	25541
+Injury	"lesion"	115	15457
+Injury	"lesion"	127	16310
+Injury	"lesion"	129	16813
+Injury	"lesion"	158	19185
+Injury	"lesion"	173	21788
+Injury	"lesion"	187	23930
+Injury	"lesion"	189	24431
+Injury	"lesion"	189	24522
+Injury	"lesion"	190	24696
+Injury	"lesion"	201	26133
+Injury	"lesion"	189	24344
+Injury	"lesion"	50	8911
+VertebralArea	"2"	168	20943
+Injury	"injury"	178	22203
+InjuryDevice	"cord"	169	21171
+Injury	"injury"	182	22966
+VertebralArea	"2"	172	21684
+Injury	"injury"	183	23412
+Injury	"injury"	184	23509
+Injury	"injury"	189	24597
+Injury	"injury"	190	24717
+VertebralArea	"2"	179	22357
+Injury	"injury"	196	25427
+Injury	"injury"	201	26246
+Injury	"injury"	201	26331
+InjuryDevice	"spinal"	183	23361
+Injury	"injury"	202	26565
+InjuryDevice	"spinal"	189	24571
+InjuryDevice	"cord"	183	23368
+Injury	"lesion"	69	11770
+Injury	"lesion"	82	12775
+Injury	"lesion"	86	13036
+InjuryDevice	"cord"	183	23397
+Injury	"lesion"	47	8163
+Injury	"lesion"	10	1620
+InjuryDevice	"cord"	189	24578
+Injury	"injury"	2	487
+Injury	"injury"	3	560
+Injury	"injury"	4	690
+Injury	"injury"	13	2155
+Injury	"injury"	33	6004
+Injury	"injury"	38	6676
+InjuryDevice	"spinal"	174	21841
+Injury	"injury"	45	7860
+Injury	"injury"	46	8037
+Injury	"injury"	48	8414
+Injury	"injury"	50	8966
+InjuryDevice	"spinal"	179	22313
+}
+Score [getF1()=0,305, getPrecision()=0,180, getRecall()=1,000, tp=16, fp=73, fn=0, tn=0]
+Score [macroF1=0,305, macroPrecision=0,180, macroRecall=1,000]
+***********************************************************
+
+
+***********************************************************
+|[26/40]======Final Evaluation======_____________N009 Lee 2013 23804083_____________|
+Final State  Model[1,00000] Objective[0,15584] {
+GOLD [3]:
+Isoflurane	"isoflurane"	44	7699
+CompleteTransection	"complete  transverse cuts"	48	8111
+T8	"T8"	48	8163
+}
+PREDICT [71]:
+T8	"T8"	36	6532
+Isoflurane	"isoflurane"	44	7699
+Isoflurane	"isoflurane"	73	11756
+T9	"T9"	141	21944
+T8	"T8"	306	42303
+T9	"9"	227	31436
+Compression	"technique"	3	1076
+T7	"T7"	55	9137
+Isoflurane	"isoflurane"	84	13254
+PartialTransection	"down"	344	50446
+InjuryDevice	"needle"	80	12708
+T9	"9"	327	46427
+CompleteTransection	"completely transected"	84	13327
+Blade	"11"	292	39506
+NYUImpactor	"University"	1	557
+MASCISImpactor	"weight"	330	47180
+Blade	"surgical"	52	8835
+MASCISImpactor	"weight"	161	24689
+Blade	"surgical"	43	7584
+MASCISImpactor	"weight"	80	12655
+Contusion	"cord"	57	9501
+Contusion	"SCI"	143	22056
+MASCISImpactor	"weight"	94	15009
+Cervical	"cervical"	349	51431
+Blade	"11"	247	33208
+Injury	"lesion"	3	1222
+InjuryDevice	"spinal"	50	8369
+Injury	"injury"	1	651
+Injury	"injury"	4	1388
+Injury	"injury"	5	1598
+Injury	"lesion"	56	9383
+Injury	"lesion"	327	46443
+Injury	"lesion"	332	48028
+Injury	"lesion"	333	48178
+T10	"T10"	55	9144
+Injury	"lesion"	61	10045
+Injury	"lesion"	86	13727
+Injury	"lesion"	128	20345
+VertebralArea	"level"	48	8166
+Injury	"lesion"	130	20773
+Injury	"lesion"	131	20923
+Injury	"lesion"	131	20961
+Injury	"lesion"	131	21011
+InjuryDevice	"cord"	171	25609
+Injury	"lesion"	210	29211
+Injury	"lesion"	211	29391
+VertebralArea	"level"	110	17480
+Injury	"lesion"	225	30994
+Injury	"lesion"	228	31542
+Injury	"lesion"	171	25663
+InjuryDevice	"cord"	181	26469
+Injury	"lesion"	181	26524
+Injury	"injury"	286	38015
+InjuryDevice	"cord"	215	29965
+InjuryDevice	"spinal"	113	18039
+InjuryDevice	"spinal"	114	18119
+InjuryDevice	"spinal"	140	21859
+InjuryDevice	"spinal"	167	25295
+InjuryDevice	"cord"	217	30201
+LateralHemisection	"side"	215	29976
+Forceps	"s"	321	45427
+InjuryDevice	"spinal"	172	25690
+VertebralArea	"T8"	36	6583
+InjuryDevice	"spinal"	177	26160
+Anaesthetic	"anesthetized"	44	7680
+Clip	"modified"	3	1031
+Blade	"surgical"	49	8201
+LateralHemisection	"right side"	215	29996
+Cervical	"cervical"	350	51684
+InfiniteHorizonImpactor	"tip"	78	12329
+ScoutenWireKnife	"wire"	52	8850
+}
+Score [getF1()=0,156, getPrecision()=0,085, getRecall()=1,000, tp=6, fp=65, fn=0, tn=0]
+Score [macroF1=0,156, macroPrecision=0,085, macroRecall=1,000]
+***********************************************************
+
+
+***********************************************************
+|[27/40]======Final Evaluation======_____________N216 Verdu 2003_____________|
+Final State  Model[1,00000] Objective[0,78125] {
+GOLD [4]:
+SodiumPentobarbital	"sodium pentobarbital"	48	8449
+T8	"T8"	50	8795
+PhotochemicalInjury	"lesion was induced by illuminating"	54	9032
+LightSource	"optic fiber"	54	9129
+}
+PREDICT [39]:
+SodiumPentobarbital	"sodium pentobarbital"	48	8449
+LightSource	"optic fiber"	54	9129
+SodiumPentobarbital	"sodium pentobarbital"	81	12157
+PhotochemicalInjury	"lesion was induced by illuminating"	54	9032
+LightSource	"optic fiber"	55	9182
+T8	"T8"	151	21275
+LightSource	"optic fiber"	1	535
+LightSource	"source"	57	9364
+PhotochemicalInjury	"photochemical injury"	8	1692
+LightSource	"light"	76	11550
+LightSource	"halogen"	57	9378
+LightSource	"equipped"	97	14994
+PhotochemicalInjury	"cord"	54	9172
+LightSource	"halogen"	55	9213
+PhotochemicalInjury	"photochemical"	0	335
+PhotochemicalInjury	"photochemical"	158	22470
+LightSource	"light"	1	514
+LightSource	"halogen"	1	562
+PhotochemicalInjury	"illuminated"	1	489
+CompleteTransection	"transverse"	100	15589
+LightSource	"connected"	55	9198
+PhotochemicalInjury	"injury"	0	361
+LightSource	"connected"	1	547
+PhotochemicalInjury	"cord"	0	356
+Blade	"11"	132	18352
+NYUImpactor	"weight"	130	18090
+Contusion	"cord"	54	9108
+MASCISImpactor	"weight"	129	17918
+NYUImpactor	"II"	61	9938
+PhotochemicalInjury	"Spinal"	99	15236
+PhotochemicalInjury	"spinal cord was illuminated"	56	9257
+MASCISImpactor	"weight"	129	17994
+Blade	"fine"	27	5450
+LateralHemisection	"right"	113	16666
+T10	"segment"	151	21290
+Injury	"heat"	74	11364
+CompleteTransection	"transverse"	151	21219
+Thoracic	"low thoracic"	49	8707
+Injury	"heat"	6	1400
+}
+Score [getF1()=0,781, getPrecision()=0,641, getRecall()=1,000, tp=25, fp=14, fn=0, tn=0]
+Score [macroF1=0,781, macroPrecision=0,641, macroRecall=1,000]
+***********************************************************
+
+
+***********************************************************
+|[28/40]======Final Evaluation======_____________N111 Colello, Chow et al. 2016_____________|
+Final State  Model[1,00000] Objective[0,16667] {
+GOLD [3]:
+Isoflurane	"isoﬂuorane"	194	26613
+VertebralArea	"thoracic level 9/10."	192	26100
+CompleteTransection	"transectional injury model"	193	26142
+}
+PREDICT [32]:
+T10	"T10"	261	36527
+T8	"T8"	265	37047
+Isoflurane	"isoﬂuorane"	194	26613
+Blade	"small"	311	42674
+T9	"T9"	199	27034
+T9	"T9"	261	36524
+SodiumPentobarbital	"2%"	101	14948
+NYUImpactor	"University"	7	642
+CompleteTransection	"completely"	201	27175
+SodiumPentobarbital	"2%"	194	26644
+LightSource	"connected"	66	10565
+Blade	"small"	128	18786
+CompleteTransection	"complete transection"	261	36477
+MASCISImpactor	"weight"	206	27933
+LightSource	"light"	288	39793
+PhotochemicalInjury	"cord"	12	1702
+SodiumPentobarbital	"sodium"	98	14401
+NYUImpactor	"University"	7	758
+Contusion	"injury"	260	36359
+Contusion	"injury"	16	2297
+T10	"T10"	198	26959
+Blade	"surgical"	60	9937
+AllenWeightDropDevice	"method"	87	13120
+AllenWeightDropDevice	"method"	87	13145
+LateralHemisection	"right"	274	38250
+LateralHemisection	"left"	300	41324
+AllenWeightDropDevice	"method"	88	13191
+Blade	"surgical"	193	26439
+Thoracic	"low"	231	30923
+Injury	"lesion"	7	862
+WeightDrop	"metal"	101	15067
+InfiniteHorizonImpactor	"IH"	211	28586
+}
+Score [getF1()=0,167, getPrecision()=0,094, getRecall()=0,750, tp=3, fp=29, fn=1, tn=0]
+Score [macroF1=0,167, macroPrecision=0,094, macroRecall=0,750]
+***********************************************************
+
+
+***********************************************************
+|[29/40]======Final Evaluation======_____________N064 Mountney, Zahner et al. 2013_____________|
+Final State  Model[1,00000] Objective[0,16162] {
+GOLD [5]:
+KetamineAsAnaesthetic	"ketamine"	42	5915
+T9	"T9"	46	6415
+InfiniteHorizonImpactor	"Infinite Horizons Impactor"	46	6428
+Contusion	"contusion"	46	6369
+Anaesthetic	"medetomidine"	43	5977
+}
+PREDICT [91]:
+KetamineAsAnaesthetic	"ketamine"	52	7309
+Anaesthetic	"medetomidine"	43	5977
+Isoflurane	"isoflurane"	63	9071
+Contusion	"contusion"	18	2078
+InfiniteHorizonImpactor	"Infinite Horizons Impactor"	46	6428
+T9	"T9"	44	6154
+T10	"T10"	44	6279
+KetamineAsAnaesthetic	"ketamine"	42	5915
+Forceps	"’"	184	26246
+Contusion	"contusion"	17	1914
+NYUImpactor	"York"	48	7019
+T9	"T9"	46	6415
+NYUImpactor	"New"	48	7015
+Compression	"method"	101	15773
+Forceps	"’"	184	26247
+Xylazine	"hydrochloride"	48	6962
+InjuryDevice	"spinal"	168	23571
+Blade	"surgical"	63	9175
+Forceps	"’"	71	10394
+Compression	"injuries"	157	21989
+InjuryDevice	"cord"	210	30757
+Injury	"lesion"	75	10982
+VertebralArea	"levels"	68	9885
+Injury	"lesion"	87	13354
+Injury	"lesion"	159	22173
+Injury	"lesion"	162	22432
+VertebralArea	"4"	56	7815
+InjuryDevice	"lesion"	208	30442
+Injury	"injury"	71	10322
+Injury	"injury"	74	10939
+Injury	"injury"	77	11444
+Injury	"injury"	92	13985
+Injury	"injury"	131	18799
+InjuryDevice	"spinal"	179	25139
+Injury	"injury"	133	19095
+Injury	"injury"	134	19167
+Injury	"injury"	137	19620
+Injury	"injury"	139	19883
+InjuryDevice	"spinal"	186	26618
+Injury	"injury"	142	20291
+Injury	"injury"	144	20547
+Injury	"injury"	146	20963
+Injury	"injury"	150	21244
+InjuryDevice	"spinal"	187	26859
+Injury	"injury"	156	21945
+Injury	"injury"	165	22964
+Injury	"injury"	166	23129
+Injury	"injury"	167	23408
+InjuryDevice	"spinal"	188	27043
+Injury	"lesion"	181	25592
+Injury	"lesion"	213	31419
+Injury	"lesion"	216	31832
+InjuryDevice	"spinal"	205	30111
+Injury	"injury"	79	11819
+Injury	"injury"	168	23593
+InjuryDevice	"cord"	217	32082
+Injury	"injury"	172	24184
+Injury	"injury"	178	25035
+Injury	"injury"	188	27121
+Injury	"injury"	188	27251
+InjuryDevice	"spinal"	73	10609
+Injury	"injury"	203	29787
+Injury	"injury"	211	30984
+Injury	"injury"	56	8146
+InjuryDevice	"spinal"	83	12349
+Injury	"injury"	8	588
+InjuryDevice	"spinal"	91	13881
+Injury	"injury"	10	752
+Injury	"injury"	11	1114
+Injury	"injury"	16	1791
+Injury	"injury"	17	1924
+InjuryDevice	"spinal"	92	14046
+Injury	"injury"	18	2088
+Injury	"injury"	19	2196
+Injury	"injury"	46	6379
+Injury	"injury"	47	6529
+InjuryDevice	"spinal"	113	16876
+Injury	"injury"	52	7260
+VertebralArea	"levels"	69	10033
+InjuryDevice	"spinal"	115	17148
+InjuryDevice	"spinal"	120	17615
+VertebralArea	"4"	83	12824
+InjuryDevice	"spinal"	120	17646
+T10	"10"	132	18900
+InjuryDevice	"spinal"	122	17843
+VertebralArea	"4"	93	14403
+VertebralArea	"4"	93	14544
+InjuryDevice	"spinal"	124	18123
+InjuryDevice	"spinal"	129	18540
+VertebralArea	"4"	94	14724
+VertebralArea	"4"	97	15184
+}
+Score [getF1()=0,162, getPrecision()=0,088, getRecall()=1,000, tp=8, fp=83, fn=0, tn=0]
+Score [macroF1=0,162, macroPrecision=0,088, macroRecall=1,000]
+***********************************************************
+
+
+***********************************************************
+|[30/40]======Final Evaluation======_____________N203 Stamegna 2011_____________|
+Final State  Model[1,00000] Objective[0,05063] {
+GOLD [4]:
+SodiumPentobarbital	"pentobarbital"	40	6645
+WeightDrop	"impactor"	47	7994
+C2	"C2"	45	7678
+Contusion	"contusion"	41	6710
+}
+PREDICT [75]:
+SodiumPentobarbital	"pentobarbital"	40	6645
+Contusion	"contusion"	0	107
+InjuryDevice	"compression"	48	8031
+Laminectomy	"laminectomy"	42	6940
+VertebralArea	"vertebra"	42	7029
+InjuryDevice	"compression"	107	16849
+Injury	"transversal"	43	7355
+T10	"10"	97	15472
+Injury	"lesion"	53	8781
+Injury	"lesion"	54	8911
+Injury	"lesion"	71	10789
+Injury	"lesion"	75	11477
+VertebralArea	"4"	68	10352
+Injury	"lesion"	90	13972
+Injury	"lesion"	98	15733
+Injury	"lesion"	102	16303
+Injury	"lesion"	110	17209
+Injury	"lesion"	144	20356
+InjuryDevice	"needle"	51	8560
+Injury	"lesion"	151	21183
+Injury	"lesion"	210	31376
+Injury	"lesion"	199	29681
+InjuryDevice	"mouse"	95	14974
+Injury	"injury"	83	12908
+Injury	"injury"	108	16999
+Injury	"injury"	109	17054
+InjuryDevice	"cord"	183	26569
+Injury	"injury"	150	21003
+Injury	"injury"	155	21690
+Injury	"injury"	156	22067
+VertebralArea	"C2"	46	7939
+Injury	"injury"	157	22094
+Injury	"injury"	211	31694
+VertebralArea	"level"	199	29736
+InjuryDevice	"spinal"	211	31682
+Injury	"injury"	139	19872
+Injury	"injury"	50	8222
+Injury	"injury"	45	7636
+InjuryDevice	"cord"	211	31689
+Injury	"injury"	10	1874
+Injury	"injury"	14	2344
+VertebralArea	"C1"	183	26550
+InjuryDevice	"spinal"	76	11654
+InjuryDevice	"spinal"	76	11753
+T10	"10"	98	15653
+VertebralArea	"C1"	185	26806
+InjuryDevice	"spinal"	77	11958
+InjuryDevice	"spinal"	93	14607
+VertebralArea	"C1"	188	27433
+InjuryDevice	"spinal"	107	16882
+DorsalHemisection	"half"	7	1114
+InjuryDevice	"spinal"	108	16978
+InjuryDevice	"spinal"	111	17385
+DorsalHemisection	"model"	0	77
+Scissors	"microscissors"	43	7288
+InjuryDevice	"spinal"	139	19840
+InjuryDevice	"spinal"	181	26088
+InjuryByAccident	"five"	87	13513
+InjuryByAccident	"five"	90	13980
+Blade	"small"	210	31395
+Cervical	"cervical"	182	26394
+LateralHemisection	"right hemisection"	193	28645
+Cervical	"cervical"	189	28004
+Blade	"small"	203	30329
+Cervical	"cervical"	107	16904
+Cervical	"cervical"	153	21538
+LateralHemisection	"right hemisection"	196	29158
+Cervical	"cervical"	78	12143
+Blade	"surgical"	51	8428
+LateralHemisection	"half"	196	29206
+NYUImpactor	"impactor"	47	7994
+NYUImpactor	"impactor"	49	8116
+Dislocation	"consequence"	175	25376
+InjuryDevice	"spinal"	181	26218
+InjuryDevice	"spinal"	182	26360
+}
+Score [getF1()=0,051, getPrecision()=0,027, getRecall()=0,500, tp=2, fp=73, fn=2, tn=0]
+Score [macroF1=0,051, macroPrecision=0,027, macroRecall=0,500]
+***********************************************************
+
+
+***********************************************************
+|[31/40]======Final Evaluation======_____________N017 Karimi-Abdolrezaee 2012  22629425_____________|
+Final State  Model[1,00000] Objective[0,13462] {
+GOLD [4]:
+Isoflurane	"isoflurane"	37	7458
+Compression	"compression"	36	7234
+AneurysmClip	"aneurysm clip"	36	7220
+T7	"T7"	40	7878
+}
+PREDICT [97]:
+Isoflurane	"isoflurane"	37	7458
+T7	"T7"	40	7878
+AneurysmClip	"aneurysm clip"	36	7220
+AneurysmClip	"aneurysm clip"	168	25586
+Isoflurane	"isoflurane"	50	9706
+VertebralArea	"2"	88	15423
+Compression	"compression"	36	7234
+InjuryDevice	"compression"	168	25600
+T8	"T8"	40	7747
+T9	"T9"	39	7670
+Contusion	"contused"	398	58095
+CuttingDevice	"microsurgical"	50	9827
+InjuryDevice	"compression"	40	7833
+AneurysmClip	"clip"	40	7788
+DorsalHemisection	"model"	36	7246
+Blade	"fine"	51	9904
+Injury	"lesion"	60	11298
+Injury	"lesion"	108	17722
+Injury	"lesion"	123	19638
+Injury	"lesion"	163	24885
+InjuryDevice	"lesion"	217	35449
+Injury	"lesion"	164	24945
+Injury	"lesion"	166	25406
+Injury	"lesion"	178	27428
+Injury	"lesion"	181	28158
+InjuryDevice	"mouse"	66	12150
+Injury	"lesion"	183	28641
+Injury	"lesion"	192	30383
+Injury	"lesion"	218	35718
+Injury	"lesion"	221	36152
+InjuryDevice	"mouse"	66	12189
+Injury	"injury"	40	7845
+InjuryDevice	"mouse"	67	12427
+Injury	"injury"	43	8213
+Injury	"injury"	57	10873
+Injury	"injury"	58	11076
+Injury	"injury"	61	11560
+InjuryDevice	"mouse"	73	13399
+Injury	"injury"	71	12954
+Injury	"injury"	88	15456
+Injury	"injury"	103	17090
+VertebralArea	"T6"	40	7744
+Injury	"injury"	104	17266
+Injury	"injury"	118	18890
+InjuryDevice	"mouse"	73	13439
+Injury	"injury"	122	19487
+Injury	"injury"	134	21038
+Injury	"injury"	140	21845
+Injury	"injury"	141	21980
+VertebralArea	"8"	162	24795
+InjuryDevice	"mouse"	73	13483
+Injury	"injury"	151	23486
+Injury	"injury"	157	24029
+Injury	"injury"	161	24682
+Injury	"injury"	169	25734
+Injury	"injury"	171	26216
+VertebralArea	"4"	125	19720
+Injury	"injury"	174	26636
+Injury	"injury"	175	26834
+InjuryDevice	"cord"	194	30909
+Injury	"injury"	176	26984
+Injury	"injury"	179	27599
+Injury	"injury"	188	29532
+Injury	"injury"	191	30267
+VertebralArea	"7"	51	10044
+InjuryDevice	"cord"	172	26349
+Injury	"injury"	198	31617
+Injury	"injury"	201	32122
+Injury	"injury"	203	32513
+Injury	"injury"	208	33463
+Injury	"injury"	213	34453
+InjuryDevice	"cord"	215	34969
+Injury	"injury"	394	57706
+Injury	"lesion"	33	6893
+VertebralArea	"first"	90	15747
+InjuryDevice	"spinal"	44	8668
+Injury	"injury"	2	739
+Injury	"injury"	7	1655
+Injury	"injury"	13	2633
+VertebralArea	"level"	152	23579
+Injury	"injury"	31	6649
+InjuryDevice	"spinal"	50	9784
+InjuryDevice	"spinal"	54	10295
+VertebralArea	"7"	154	23616
+InjuryDevice	"spinal"	70	12707
+InjuryDevice	"spinal"	90	15830
+VertebralArea	"level"	113	18368
+VertebralArea	"level"	152	23531
+InjuryDevice	"spinal"	92	16120
+T10	"thoracic"	39	7652
+InjuryDevice	"spinal"	103	17016
+VertebralArea	"level"	193	30593
+InjuryDevice	"spinal"	107	17552
+InjuryDevice	"spinal"	108	17640
+VertebralArea	"7"	204	32700
+InjuryDevice	"spinal"	109	17850
+InjuryDevice	"spinal"	117	18811
+}
+Score [getF1()=0,135, getPrecision()=0,072, getRecall()=1,000, tp=7, fp=90, fn=0, tn=0]
+Score [macroF1=0,135, macroPrecision=0,072, macroRecall=1,000]
+***********************************************************
+
+
+***********************************************************
+|[32/40]======Final Evaluation======_____________N095 Tester,2008_____________|
+Final State  Model[1,00000] Objective[0,28829] {
+GOLD [7]:
+Scissors	"iridectomy scissors"	59	10665
+Isoflurane	"isoflurane"	56	10189
+T10	"T10"	59	10696
+Isoflurane	"isoflurane"	55	10078
+Anaesthetic	"atropine sulfate"	54	9884
+LateralHemisection	"lateral hemisection"	59	10624
+Anaesthetic	"acetylpromazine"	54	9924
+}
+PREDICT [95]:
+Isoflurane	"isoflurane"	56	10189
+Anaesthetic	"acetylpromazine"	54	9924
+Scissors	"iridectomy scissors"	59	10665
+Anaesthetic	"atropine sulfate"	54	9884
+LateralHemisection	"lateral hemisection"	59	10624
+Isoflurane	"isoflurane"	55	10078
+T10	"T10"	49	8901
+Anaesthetic	"hydrochloride"	160	26505
+LateralHemisection	"side"	288	43346
+Anaesthetic	"sulfate"	2	392
+Anaesthetic	"sulfate"	3	498
+C4	"vertebra"	71	12358
+Compression	"lesion"	147	24525
+Forceps	"’"	164	27149
+Anaesthetic	"anesthetized"	89	15271
+Clip	"modified"	150	25106
+LateralHemisection	"side"	147	24500
+Anaesthetic	"anesthetized"	122	20256
+Anaesthetic	"sulfate"	129	21243
+PartialTransection	"hemisection"	53	9671
+Anaesthetic	"sulfate"	136	22737
+InfiniteHorizonImpactor	"tip"	66	11724
+Compression	"lesion"	14	2468
+Forceps	"5"	157	26022
+InfiniteHorizonImpactor	"tip"	68	11928
+Blade	"surgical"	56	10144
+CompleteTransection	"injury"	13	2164
+CompleteTransection	"verified"	81	13910
+Injury	"heat"	61	11109
+Injury	"heat"	80	13698
+Injury	"heat"	149	25022
+PartialTransection	"lesion"	41	7794
+Forceps	"’"	164	27175
+Compression	"lesion"	36	7156
+Compression	"compression"	77	13249
+Thoracic	"low thoracic"	49	8866
+Injury	"lesion"	95	16314
+Injury	"lesion"	127	20990
+InjuryDevice	"cord"	147	24519
+Injury	"lesion"	134	22375
+Injury	"lesion"	145	24335
+Injury	"lesion"	146	24415
+Injury	"lesion"	172	28504
+Injury	"lesion"	175	28653
+InjuryDevice	"lesion"	293	44171
+Injury	"lesion"	177	28783
+Injury	"lesion"	177	28854
+Injury	"lesion"	196	30149
+Injury	"lesion"	211	31840
+Injury	"lesion"	218	32420
+InjuryDevice	"spinal"	59	10562
+Injury	"lesion"	223	32766
+Injury	"lesion"	226	33308
+VertebralArea	"fifth"	161	26582
+Injury	"lesion"	237	34631
+Injury	"lesion"	239	34965
+Injury	"lesion"	240	35139
+Injury	"lesion"	241	35224
+InjuryDevice	"lesion"	247	35983
+Injury	"lesion"	246	35756
+Injury	"lesion"	246	35817
+Injury	"lesion"	247	36108
+Injury	"lesion"	248	36384
+InjuryDevice	"lesion"	257	37906
+Injury	"lesion"	257	37996
+Injury	"lesion"	293	44020
+Injury	"lesion"	294	44295
+Injury	"lesion"	295	44351
+InjuryDevice	"spinal"	163	26979
+Injury	"lesion"	302	45439
+Injury	"lesion"	303	45544
+Injury	"lesion"	306	45865
+Injury	"lesion"	307	46097
+InjuryDevice	"spinal"	175	28619
+Injury	"lesion"	307	46196
+Injury	"lesion"	176	28736
+InjuryDevice	"spinal"	192	29821
+Injury	"injury"	239	35040
+Injury	"injury"	244	35615
+Injury	"injury"	250	36600
+InjuryDevice	"spinal"	225	33038
+Injury	"injury"	282	42314
+Injury	"injury"	286	43038
+Injury	"injury"	287	43270
+Injury	"injury"	308	46337
+InjuryDevice	"spinal"	232	33893
+Injury	"lesion"	66	11746
+Injury	"lesion"	68	11979
+Injury	"lesion"	61	11169
+InjuryDevice	"spinal"	237	34561
+Injury	"injury"	78	13315
+InjuryDevice	"spinal"	241	35260
+Injury	"injury"	86	14976
+Injury	"injury"	90	15505
+Injury	"injury"	91	15753
+}
+Score [getF1()=0,288, getPrecision()=0,168, getRecall()=1,000, tp=16, fp=79, fn=0, tn=0]
+Score [macroF1=0,288, macroPrecision=0,168, macroRecall=1,000]
+***********************************************************
+
+
+***********************************************************
+|[33/40]======Final Evaluation======_____________N133 Bretzner 2008_____________|
+Final State  Model[1,00000] Objective[0,26316] {
+GOLD [5]:
+Compression	"crushed"	42	9372
+Forceps	"Dumont forceps"	43	9560
+KetamineAsAnaesthetic	"ketamine hydrochloride"	41	8995
+VertebralArea	"fourth and fifth cervical segments."	41	9207
+Xylazine	"xylazine hydrochloride"	41	9076
+}
+PREDICT [99]:
+KetamineAsAnaesthetic	"ketamine hydrochloride"	41	8995
+Xylazine	"xylazine hydrochloride"	41	9076
+Xylazine	"xylazine hydrochloride"	78	14554
+Forceps	"forceps"	42	9424
+Scissors	"microscissors"	42	9265
+Contusion	"cord"	0	59
+T10	"spinal"	213	35088
+Xylazine	"hydrochloride"	78	14482
+DorsalHemisection	"lesion"	181	28932
+T10	"spinal"	219	36155
+Compression	"crush"	40	8703
+C4	"C4"	119	21235
+DorsalHemisection	"lateral"	80	14991
+InjuryDevice	"cylinder"	208	34571
+InjuryDevice	"cylinder"	209	34719
+LateralHemisection	"right"	80	15000
+InjuryDevice	"cylinder"	169	26783
+Forceps	"forceps"	43	9567
+InjuryDevice	"cylinder"	173	27220
+InfiniteHorizonImpactor	"tip"	43	9686
+InjuryDevice	"cylinder"	176	27833
+DorsalHemisection	"spinal"	83	15471
+Laminectomy	"laminectomy"	41	9150
+Injury	"injury"	0	64
+Injury	"injury"	1	490
+Injury	"lesion"	179	28382
+InjuryDevice	"cylinder"	223	37047
+Injury	"lesion"	181	28800
+Injury	"lesion"	182	29084
+VertebralArea	"4"	187	30275
+Injury	"lesion"	188	30407
+Injury	"lesion"	189	30708
+Injury	"lesion"	192	31294
+Injury	"lesion"	196	31952
+Injury	"lesion"	199	32441
+Injury	"lesion"	200	32774
+InjuryDevice	"lesion"	202	33140
+Injury	"lesion"	203	33369
+Injury	"lesion"	204	33545
+Injury	"lesion"	205	33801
+Injury	"lesion"	206	34107
+InjuryDevice	"spinal"	203	33391
+Injury	"injury"	225	37446
+VertebralArea	"8"	218	36097
+Injury	"injury"	226	37918
+Injury	"injury"	229	38446
+Injury	"injury"	219	36167
+InjuryDevice	"spinal"	225	37434
+Injury	"injury"	221	36523
+InjuryDevice	"spinal"	226	37906
+Injury	"injury"	212	34999
+Injury	"injury"	213	35100
+Injury	"injury"	215	35570
+InjuryDevice	"spinal"	229	38434
+Injury	"injury"	218	35992
+VertebralArea	"C5"	119	21238
+Injury	"lesion"	183	29311
+Injury	"lesion"	184	29693
+Injury	"lesion"	178	28157
+Injury	"lesion"	179	28452
+InjuryDevice	"cord"	229	38441
+Injury	"lesion"	6	1700
+Injury	"lesion"	9	2225
+VertebralArea	"segments"	41	9233
+Injury	"lesion"	46	10090
+Injury	"lesion"	97	18082
+Injury	"lesion"	100	18540
+InjuryDevice	"cylinder"	58	11845
+Injury	"lesion"	101	18842
+Injury	"lesion"	109	20140
+Injury	"lesion"	112	20707
+Injury	"lesion"	120	21399
+InjuryDevice	"cord"	226	37913
+Injury	"lesion"	127	22141
+Injury	"lesion"	133	22814
+VertebralArea	"C2"	95	17721
+Injury	"lesion"	135	22930
+Injury	"lesion"	136	22995
+Injury	"lesion"	137	23082
+InjuryDevice	"mouse"	88	16278
+Injury	"lesion"	138	23114
+Injury	"lesion"	139	23189
+VertebralArea	"C2"	85	15748
+Injury	"lesion"	143	23555
+Injury	"lesion"	147	24056
+InjuryDevice	"mouse"	88	16323
+Injury	"lesion"	148	24128
+Injury	"lesion"	149	24258
+VertebralArea	"C2"	99	18459
+Injury	"lesion"	151	24547
+Injury	"lesion"	159	25557
+Injury	"lesion"	160	25787
+InjuryDevice	"mouse"	88	16379
+Injury	"lesion"	162	26116
+InjuryDevice	"mouse"	120	21327
+Injury	"injury"	169	26826
+Injury	"injury"	1	654
+VertebralArea	"fourth"	41	9207
+Injury	"injury"	64	12686
+}
+Score [getF1()=0,263, getPrecision()=0,152, getRecall()=1,000, tp=15, fp=84, fn=0, tn=0]
+Score [macroF1=0,263, macroPrecision=0,152, macroRecall=1,000]
+***********************************************************
+
+
+***********************************************************
+|[34/40]======Final Evaluation======_____________N050 Alilain, Horn et al. 2011_____________|
+Final State  Model[1,00000] Objective[0,28235] {
+GOLD [5]:
+Blade	"microblade"	128	26140
+Xylazine	"xylazine"	123	25653
+KetamineAsAnaesthetic	"ketamine"	123	25616
+C2	"C2"	128	26225
+LateralHemisection	"hemisection"	128	26154
+}
+PREDICT [72]:
+Xylazine	"xylazine"	123	25653
+KetamineAsAnaesthetic	"ketamine"	123	25616
+Xylazine	"xylazine"	171	32267
+Xylazine	"xylazine"	146	28675
+Contusion	"cord"	0	96
+Compression	"injuries"	4	389
+C4	"C4"	114	24044
+Compression	"technique"	134	27028
+InjuryDevice	"lesion"	150	29401
+Anaesthetic	"urethane"	153	29831
+MASCISImpactor	"weight"	153	29857
+C4	"C4"	140	27946
+DorsalHemisection	"hemisection"	330	39970
+Compression	"lesion"	117	24458
+InjuryDevice	"mouse"	178	33086
+MASCISImpactor	"weight"	123	25641
+Blade	"microblade"	128	26140
+Cervical	"cervical"	13	2164
+Cervical	"cervical"	3	232
+Blade	"surgical"	124	25755
+MASCISImpactor	"weight"	123	25678
+C5	"C5"	138	27631
+Blade	"small"	157	30407
+Cervical	"cervical"	5	510
+InjuryDevice	"lesion"	139	27729
+KetamineAsAnaesthetic	"ketamine"	146	28662
+Forceps	"5"	143	28260
+InjuryDevice	"spinal"	128	26198
+NYUImpactor	"II"	135	27199
+Cervical	"cervical"	24	3903
+Injury	"lesion"	275	38465
+InjuryDevice	"spinal"	132	26818
+Forceps	"¬"	207	35706
+LateralHemisection	"lesioned"	317	39609
+Cervical	"cervical"	140	27949
+Cervical	"cervical"	126	26071
+Forceps	"’"	168	32036
+Injury	"injury"	0	101
+InjuryDevice	"spinal"	138	27634
+Injury	"lesion"	173	32576
+Injury	"lesion"	13	2276
+InjuryDevice	"spinal"	14	2442
+DorsalHemisection	"transection"	8	1171
+Injury	"injury"	5	531
+Injury	"lesion"	15	2672
+Injury	"lesion"	25	4168
+InjuryDevice	"cord"	132	26723
+Injury	"lesion"	113	23851
+Injury	"lesion"	129	26386
+InjuryDevice	"cord"	132	26825
+Injury	"injury"	195	35346
+T10	"T"	294	38881
+Injury	"injury"	204	35655
+Injury	"injury"	221	36302
+Injury	"injury"	226	36451
+Injury	"injury"	232	36697
+Injury	"injury"	237	36865
+Injury	"injury"	255	37425
+InjuryDevice	"cord"	135	27292
+Injury	"injury"	295	38984
+Injury	"injury"	339	40195
+Injury	"injury"	349	40464
+Injury	"injury"	14	2454
+InjuryDevice	"cord"	140	27909
+InjuryDevice	"cord"	128	26205
+InjuryDevice	"cord"	135	27362
+Forceps	"s"	168	32037
+InjuryDevice	"cord"	213	36005
+LateralHemisection	"lateral hemisection"	13	2130
+T10	"T"	301	39181
+LateralHemisection	"cut"	152	29686
+LateralHemisection	"through"	160	30949
+}
+Score [getF1()=0,282, getPrecision()=0,167, getRecall()=0,923, tp=12, fp=60, fn=1, tn=0]
+Score [macroF1=0,282, macroPrecision=0,167, macroRecall=0,923]
+***********************************************************
+
+
+***********************************************************
+|[35/40]======Final Evaluation======_____________N092 Cote, Hanna et al. 2010_____________|
+Final State  Model[1,00000] Objective[0,13725] {
+GOLD [6]:
+C7	"C7"	42	8162
+Isoflurane	"isoflurane"	31	6417
+Anaesthetic	"atropine sulfate"	31	6371
+LateralHemisection	"partial hemisection"	4	865
+KetamineAsAnaesthetic	"ketamine"	31	6327
+Scissors	"microscissors"	43	8289
+}
+PREDICT [93]:
+Isoflurane	"isoflurane"	32	6524
+Anaesthetic	"atropine sulfate"	31	6371
+Scissors	"microscissors"	43	8289
+KetamineAsAnaesthetic	"ketamine"	31	6327
+Isoflurane	"isoflurane"	31	6417
+Laminectomy	"laminectomy"	52	9581
+DorsalHemisection	"dorsal"	167	24237
+Laminectomy	"laminectomy"	42	8129
+VertebralArea	"T1"	53	9785
+InjuryDevice	"needle"	77	13335
+Forceps	"’"	40	8040
+VertebralArea	"8"	160	23084
+Anaesthetic	"fentanyl"	36	7087
+Compression	"funiculus"	163	23547
+Anaesthetic	"ice"	40	8069
+InjuryDevice	"lesion"	51	9397
+Injury	"lesion"	49	9292
+Forceps	"s"	40	8041
+Injury	"lesion"	44	8533
+Injury	"lesion"	40	7911
+Injury	"lesion"	46	8733
+InjuryDevice	"cord"	52	9654
+Injury	"lesion"	171	24936
+Injury	"lesion"	182	26534
+Injury	"lesion"	187	27317
+Injury	"lesion"	194	28196
+VertebralArea	"11"	179	26077
+InjuryDevice	"cord"	200	29104
+Injury	"lesion"	167	24253
+Injury	"lesion"	62	11177
+Injury	"injury"	43	8262
+Injury	"lesion"	55	10129
+InjuryDevice	"spinal"	182	26509
+Injury	"lesion"	55	10221
+Injury	"lesion"	60	11004
+VertebralArea	"second"	99	16670
+InjuryDevice	"spinal"	186	27089
+Injury	"injury"	163	23490
+Injury	"injury"	164	23794
+Injury	"injury"	165	23936
+Injury	"injury"	55	9995
+InjuryDevice	"spinal"	198	28692
+Injury	"lesion"	2	620
+Injury	"lesion"	4	885
+Injury	"lesion"	4	989
+InjuryDevice	"spinal"	200	29097
+Injury	"lesion"	5	1038
+Injury	"lesion"	5	1078
+Injury	"lesion"	7	1477
+VertebralArea	"second"	104	17448
+Injury	"lesion"	9	1745
+InjuryDevice	"cord"	202	29447
+Injury	"injury"	2	574
+Injury	"injury"	5	1242
+InjuryDevice	"spinal"	202	29440
+Injury	"injury"	10	2040
+InjuryDevice	"cord"	180	26200
+InjuryDevice	"lesion"	198	28588
+VertebralArea	"4"	176	25605
+VertebralArea	"first"	95	16192
+VertebralArea	"8"	162	23458
+InjuryDevice	"cord"	198	28699
+VertebralArea	"4"	165	23922
+Injury	"lesion"	124	19790
+InjuryDevice	"cord"	203	29562
+InjuryDevice	"cord"	186	27096
+DorsalHemisection	"hemisection"	40	7835
+InjuryDevice	"cord"	188	27372
+InjuryDevice	"cord"	193	28058
+VertebralArea	"levels"	144	21424
+InjuryDevice	"cord"	198	28571
+InjuryByAccident	"resulting"	170	24797
+InjuryDevice	"cord"	201	29248
+DorsalHemisection	"cord"	3	731
+InjuryDevice	"cord"	182	26516
+InjuryByAccident	"vertebral"	57	10472
+VertebralArea	"level"	166	23981
+InjuryDevice	"spinal"	53	9788
+InjuryByAccident	"vertebral"	48	8954
+InjuryByAccident	"vertebral"	42	8165
+InjuryByAccident	"vertebral"	52	9617
+VertebralArea	"first"	186	27003
+VertebralArea	"4"	125	19905
+InjuryDevice	"spinal"	168	24448
+InjuryByAccident	"spinal"	170	24705
+InjuryByAccident	"spinal"	170	24826
+InjuryByAccident	"spinal"	171	24896
+InjuryByAccident	"spinal"	173	25108
+VertebralArea	"4"	188	27380
+InjuryByAccident	"spinal"	173	25146
+InjuryByAccident	"spinal"	177	25795
+InjuryByAccident	"spinal"	180	26193
+InjuryByAccident	"spinal"	188	27365
+}
+Score [getF1()=0,137, getPrecision()=0,075, getRecall()=0,778, tp=7, fp=86, fn=2, tn=0]
+Score [macroF1=0,137, macroPrecision=0,075, macroRecall=0,778]
+***********************************************************
+
+
+***********************************************************
+|[36/40]======Final Evaluation======_____________N138 Chuah 2004_____________|
+Final State  Model[1,00000] Objective[0,29907] {
+GOLD [5]:
+DorsalHemisection	"dorsal columns"	63	9225
+VertebralArea	"T8–9"	9	726
+Scissors	"microscissors"	63	9286
+Isoflurane	"isoflurane"	55	8170
+Isoflurane	"isoflurane"	55	8219
+}
+PREDICT [91]:
+Isoflurane	"isoflurane"	55	8219
+Scissors	"microscissors"	63	9286
+T7	"T7"	60	8961
+VertebralArea	"T8 and T9"	61	9047
+Injury	"heat"	77	11316
+Isoflurane	"isoflurane"	55	8170
+Injury	"heat"	90	13270
+Compression	"compression"	200	25613
+T8	"T8"	9	726
+Anaesthetic	"ice"	33	5224
+InjuryDevice	"needle"	67	9864
+Injury	"heat"	43	6636
+C4	"cervical"	193	24059
+DorsalHemisection	"dorsal columns"	9	685
+InjuryDevice	"needle"	88	13038
+InjuryDevice	"needle"	87	12989
+Forceps	"fine"	147	19434
+VertebralArea	"10"	12	1277
+Injury	"lesion"	55	8096
+Injury	"lesion"	66	9758
+Injury	"lesion"	74	10893
+Injury	"lesion"	76	11044
+Injury	"lesion"	80	11827
+InjuryDevice	"needle"	72	10539
+Injury	"lesion"	120	17291
+Injury	"lesion"	128	17844
+Injury	"lesion"	141	18852
+Injury	"lesion"	155	19986
+Injury	"lesion"	160	20393
+Injury	"lesion"	163	20713
+Injury	"lesion"	184	22640
+VertebralArea	"cervical"	98	14535
+Injury	"lesion"	199	25215
+Injury	"lesion"	212	27518
+Injury	"lesion"	214	27819
+InjuryDevice	"cord"	180	21983
+Injury	"lesion"	216	28207
+VertebralArea	"cervical"	127	17681
+Injury	"lesion"	227	29917
+Injury	"lesion"	227	29967
+Injury	"lesion"	230	30422
+Injury	"lesion"	235	31158
+InjuryDevice	"spinal"	141	18821
+Injury	"injury"	192	23912
+InjuryDevice	"spinal"	155	19966
+Injury	"injury"	196	24715
+VertebralArea	"levels"	188	23353
+Injury	"injury"	198	25136
+Injury	"injury"	229	30321
+InjuryDevice	"cord"	213	27715
+VertebralArea	"level"	193	24092
+InjuryDevice	"cord"	236	31428
+InjuryDevice	"spinal"	230	30362
+Injury	"injury"	73	10733
+Injury	"injury"	75	11017
+InjuryDevice	"spinal"	236	31421
+VertebralArea	"cervical"	188	23317
+Injury	"injury"	15	1786
+InjuryDevice	"cord"	199	25252
+Injury	"injury"	68	10232
+Injury	"injury"	71	10472
+Injury	"lesion"	10	944
+InjuryDevice	"cord"	200	25536
+Injury	"lesion"	10	1002
+VertebralArea	"cervical"	192	24001
+InjuryDevice	"cord"	207	26664
+Injury	"injury"	9	877
+InjuryDevice	"cord"	218	28445
+VertebralArea	"10"	203	25992
+InjuryDevice	"spinal"	207	26657
+T10	"T10"	60	8964
+InjuryDevice	"spinal"	213	27708
+Injury	"injury"	11	1092
+DorsalHemisection	"transection"	65	9581
+InjuryDevice	"spinal"	218	28438
+InjuryDevice	"spinal"	199	25245
+Forceps	"5"	218	28554
+InjuryDevice	"spinal"	200	25529
+InjuryDevice	"spinal"	160	20367
+InjuryDevice	"spinal"	170	21136
+InjuryByAccident	"five"	72	10518
+Scissors	"microscissors"	62	9206
+InjuryByAccident	"vertebral"	95	13906
+DorsalHemisection	"cord"	117	16991
+InjuryDevice	"cord"	135	18452
+InjuryDevice	"cord"	141	18828
+InjuryByAccident	"vertebral"	94	13720
+PartialTransection	"small"	49	7331
+InjuryDevice	"cord"	143	19078
+InjuryByAccident	"cord"	0	97
+InjuryDevice	"cord"	155	19973
+}
+Score [getF1()=0,299, getPrecision()=0,176, getRecall()=1,000, tp=16, fp=75, fn=0, tn=0]
+Score [macroF1=0,299, macroPrecision=0,176, macroRecall=1,000]
+***********************************************************
+
+
+***********************************************************
+|[37/40]======Final Evaluation======_____________N200 Sasaki 2004_____________|
+Final State  Model[1,00000] Objective[0,07619] {
+GOLD [5]:
+Blade	"scalpel"	45	8624
+Xylazine	"xylazine"	43	8354
+DorsalHemisection	"dorsal funiculus was transected"	45	8546
+KetamineAsAnaesthetic	"ketamine"	43	8345
+T9	"T9"	44	8410
+}
+PREDICT [99]:
+Xylazine	"xylazine"	43	8354
+KetamineAsAnaesthetic	"ketamine"	43	8345
+C4	"C4"	88	13895
+Compression	"compression"	217	31010
+Forceps	"5"	173	23141
+Scissors	"ophthalmic"	45	8613
+C4	"C4"	89	13962
+DorsalHemisection	"funiculus"	49	9151
+Forceps	"’"	141	18292
+InjuryDevice	"spinal"	217	30998
+VertebralArea	"C5"	89	13975
+C5	"C5"	88	13899
+PartialTransection	"transect"	236	34571
+C5	"C5"	149	19668
+DorsalHemisection	"column"	74	12125
+InjuryDevice	"scalpel"	45	8624
+C5	"C5"	89	13919
+Contusion	"cords"	64	10811
+Laminectomy	"laminectomy"	44	8413
+Forceps	"s"	141	18293
+AllenWeightDropDevice	"method"	181	24538
+Anaesthetic	"mouse"	37	7296
+Compression	"method"	181	24456
+Anaesthetic	"mouse"	37	7192
+InjuryDevice	"lesion"	148	19386
+Injury	"lesion"	149	19549
+VertebralArea	"C1"	126	16637
+Injury	"lesion"	150	19741
+Injury	"lesion"	157	20905
+Injury	"lesion"	161	21344
+VertebralArea	"C1"	132	17133
+Injury	"lesion"	162	21543
+Injury	"lesion"	163	21684
+VertebralArea	"C2"	127	16687
+Injury	"lesion"	166	22151
+Injury	"lesion"	167	22235
+VertebralArea	"C2"	88	13832
+Injury	"lesion"	168	22435
+InjuryDevice	"lesion"	227	33138
+Injury	"lesion"	169	22516
+VertebralArea	"C2"	132	17146
+Injury	"lesion"	171	22759
+Injury	"lesion"	172	22959
+VertebralArea	"4"	139	17999
+Injury	"lesion"	180	24358
+Injury	"lesion"	182	24602
+VertebralArea	"C3"	89	13954
+Injury	"lesion"	191	25574
+Injury	"lesion"	193	26013
+Injury	"lesion"	194	26130
+VertebralArea	"8"	139	18009
+Injury	"lesion"	195	26232
+InjuryDevice	"lesion"	249	36709
+Injury	"lesion"	196	26370
+VertebralArea	"8"	139	18029
+Injury	"lesion"	197	26623
+Injury	"lesion"	198	26756
+VertebralArea	"4"	139	18019
+Injury	"lesion"	207	28774
+Injury	"lesion"	207	28836
+VertebralArea	"C2"	89	13939
+Injury	"lesion"	209	29178
+Injury	"lesion"	211	29608
+InjuryDevice	"spinal"	246	36214
+VertebralArea	"10"	139	18022
+Injury	"lesion"	211	29670
+Injury	"lesion"	213	30006
+VertebralArea	"10"	139	18032
+Injury	"lesion"	145	18854
+Injury	"lesion"	146	19021
+Injury	"lesion"	147	19147
+InjuryDevice	"spinal"	247	36261
+Injury	"injury"	202	27453
+Injury	"injury"	203	27639
+InjuryDevice	"spinal"	251	37175
+Injury	"lesion"	219	31361
+Injury	"lesion"	237	34706
+InjuryDevice	"spinal"	252	37351
+Injury	"injury"	217	31022
+Injury	"injury"	246	36226
+Injury	"injury"	247	36273
+Injury	"injury"	251	37187
+InjuryDevice	"spinal"	145	18807
+Injury	"injury"	252	37363
+InjuryDevice	"spinal"	203	27627
+InjuryDevice	"spinal"	216	30569
+VertebralArea	"C1"	178	24034
+InjuryDevice	"cord"	217	31005
+InjuryDevice	"cord"	252	37358
+Injury	"lesion"	134	17263
+InjuryDevice	"cord"	216	30576
+Injury	"lesion"	136	17529
+Injury	"lesion"	137	17674
+Injury	"lesion"	138	17797
+Injury	"lesion"	138	17900
+InjuryDevice	"cord"	251	37182
+InjuryDevice	"cord"	247	36268
+InjuryDevice	"cord"	145	18814
+InjuryDevice	"cord"	246	36221
+}
+Score [getF1()=0,076, getPrecision()=0,040, getRecall()=0,667, tp=4, fp=95, fn=2, tn=0]
+Score [macroF1=0,076, macroPrecision=0,040, macroRecall=0,667]
+***********************************************************
+
+
+***********************************************************
+|[38/40]======Final Evaluation======_____________N007 Ishikawa 2015_____________|
+Final State  Model[1,00000] Objective[0,30108] {
+GOLD [5]:
+Blade	"fine  micro-blade"	63	7549
+LateralHemisection	"dorsolateral cut injury"	62	7420
+Xylazine	"xylazine"	61	7336
+VertebralArea	"C3 and C4"	62	7452
+KetamineAsAnaesthetic	"ketamine"	61	7311
+}
+PREDICT [79]:
+KetamineAsAnaesthetic	"ketamine"	61	7311
+Xylazine	"xylazine"	61	7336
+C4	"C4"	62	7363
+Contusion	"injury"	0	883
+DorsalHemisection	"cut"	63	7509
+Forceps	"sharpened"	63	7539
+Compression	"dorsolateral"	52	6855
+InjuryDevice	"spinal"	143	16821
+VertebralArea	"C4"	62	7459
+Anaesthetic	"sulfate"	8	2153
+Forceps	"N"	284	22093
+Compression	"lesion"	52	6868
+Forceps	"N"	295	22213
+InjuryDevice	"lesion"	111	13316
+Injury	"injury"	0	297
+Injury	"lesion"	139	16629
+InjuryDevice	"spinal"	313	22633
+Injury	"lesion"	10	2398
+Injury	"lesion"	58	7083
+Injury	"lesion"	59	7136
+VertebralArea	"4"	45	6275
+Injury	"lesion"	59	7180
+InjuryDevice	"spinal"	320	22856
+Injury	"lesion"	85	10589
+VertebralArea	"4"	52	6887
+Injury	"lesion"	85	10625
+Injury	"lesion"	90	11879
+Injury	"lesion"	111	13202
+Injury	"lesion"	111	13278
+InjuryDevice	"spinal"	82	10049
+VertebralArea	"C2"	90	11840
+Injury	"injury"	112	13506
+Injury	"injury"	108	12863
+Injury	"injury"	108	12902
+InjuryDevice	"cord"	143	16828
+Injury	"injury"	109	12960
+Injury	"injury"	110	13045
+InjuryDevice	"cord"	320	22863
+VertebralArea	"C2"	111	13172
+Injury	"injury"	302	22392
+Injury	"injury"	313	22645
+Injury	"injury"	320	22868
+VertebralArea	"C6"	111	13288
+InjuryDevice	"cord"	313	22640
+Injury	"injury"	62	7437
+Injury	"injury"	64	7617
+Injury	"injury"	65	7743
+InjuryDevice	"spinal"	63	7599
+Injury	"injury"	4	1194
+Injury	"injury"	5	1399
+VertebralArea	"2"	130	15688
+Injury	"injury"	7	2101
+Injury	"injury"	9	2321
+Injury	"injury"	10	2423
+InjuryDevice	"spinal"	66	8026
+Injury	"injury"	11	2571
+Injury	"injury"	11	2613
+Injury	"injury"	16	3327
+InjuryDevice	"cord"	66	8033
+InjuryDevice	"spinal"	51	6804
+InjuryDevice	"cord"	63	7606
+Forceps	"N"	311	22515
+InjuryDevice	"spinal"	7	2089
+InjuryDevice	"spinal"	9	2309
+Forceps	"5"	139	16573
+VertebralArea	"C3"	62	7452
+T10	"T"	306	22452
+Anaesthetic	"sulfate"	6	1776
+InjuryDevice	"spinal"	10	2411
+Blade	"fine"	63	7549
+Blade	"micro-blade"	63	7555
+NYUImpactor	"University"	0	451
+InjuryDevice	"spinal"	16	3315
+T10	"T"	293	22191
+InjuryByAccident	"cord"	0	292
+InjuryByAccident	"cord"	0	878
+Blade	"11"	75	9344
+LateralHemisection	"partial"	65	7768
+InfiniteHorizonImpactor	"tip"	65	7897
+}
+Score [getF1()=0,301, getPrecision()=0,177, getRecall()=1,000, tp=14, fp=65, fn=0, tn=0]
+Score [macroF1=0,301, macroPrecision=0,177, macroRecall=1,000]
+***********************************************************
+
+
+***********************************************************
+|[39/40]======Final Evaluation======_____________N201 Sasaki 2006_____________|
+Final State  Model[1,00000] Objective[0,46154] {
+GOLD [2]:
+T9	"T9"	30	5223
+DorsalHemisection	"dorsal transection"	30	5226
+}
+PREDICT [10]:
+SodiumPentobarbital	"pentobarbital"	60	9876
+T9	"T9"	62	10048
+T10	"segment"	146	21825
+Contusion	"SCI"	144	21620
+NYUImpactor	"New"	4	358
+LightSource	"optic"	121	17928
+Clip	"modified"	120	17681
+T9	"T9"	119	17282
+DorsalHemisection	"funiculus"	31	5551
+CompleteTransection	"1.5"	150	22487
+}
+Score [getF1()=0,462, getPrecision()=0,300, getRecall()=1,000, tp=3, fp=7, fn=0, tn=0]
+Score [macroF1=0,462, macroPrecision=0,300, macroRecall=1,000]
+***********************************************************
+
+
+***********************************************************
+|[40/40]======Final Evaluation======_____________N026 Garcia-Alias 2009 19668200_____________|
+Final State  Model[1,00000] Objective[0,33333] {
+GOLD [5]:
+Halothane	"halothane"	30	4577
+NitrousOxide	"nitrous oxide"	30	4587
+C4	"C4"	42	6286
+Forceps	"sharpened forceps"	31	4661
+DorsalHemisection	"dorsal funiculi cut"	42	6259
+}
+PREDICT [30]:
+Halothane	"halothane"	30	4577
+C4	"C4"	4	496
+NitrousOxide	"nitrous oxide"	30	4587
+CompleteTransection	"complete transection"	157	21598
+Anaesthetic	"mouse"	69	10335
+C5	"C5"	150	20424
+Compression	"method"	66	9700
+Forceps	"sharpened forceps"	31	4661
+Vibraknife	"lesioning"	157	21373
+Vibraknife	"lesioning"	175	24552
+C5	"C5"	64	9205
+Vertebrae	"C8"	68	10012
+Blade	"small"	172	24005
+InfiniteHorizonImpactor	"tip"	33	5187
+C5	"C5"	64	9209
+Clip	"modified"	13	1730
+Cervical	"cervical"	110	15211
+Blade	"fine"	210	31166
+Cervical	"cervical"	3	449
+Anaesthetic	"mouse"	69	10242
+Compression	"method"	69	10398
+C4	"C4"	156	21100
+Vibraknife	"device"	93	13740
+Vibraknife	"device"	46	7128
+DorsalHemisection	"lateral"	213	31689
+Blade	"small"	169	23505
+LateralHemisection	"right"	57	8388
+LateralHemisection	"right"	94	13810
+C5	"C5"	70	10604
+C3	"C3"	64	9202
+}
+Score [getF1()=0,333, getPrecision()=0,200, getRecall()=1,000, tp=6, fp=24, fn=0, tn=0]
+Score [macroF1=0,333, macroPrecision=0,200, macroRecall=1,000]
+***********************************************************
+
+
+Mean Score: Score [getF1()=0,266, getPrecision()=0,156, getRecall()=0,907, tp=342, fp=1852, fn=35, tn=0]
+null
+CRFStatistics [context=Test, getTotalDuration()=4346933]
+genutztes Modell: models/nerla/trained_literal/injury

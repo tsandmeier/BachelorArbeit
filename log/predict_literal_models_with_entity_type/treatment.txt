@@ -1,0 +1,2019 @@
+Initialize systems scope...
+No normalization function for literal entity type "Frequency" was specified. Set default to "IdentityNormalization"
+No normalization function for literal entity type "Dosage" was specified. Set default to "IdentityNormalization"
+No normalization function for literal entity type "Duration" was specified. Set default to "IdentityNormalization"
+No normalization function for literal entity type "Interval" was specified. Set default to "IdentityNormalization"
+No normalization function for literal entity type "Current" was specified. Set default to "IdentityNormalization"
+No normalization function for literal entity type "ElectricFieldStrength" was specified. Set default to "IdentityNormalization"
+No normalization function for literal entity type "Depth" was specified. Set default to "IdentityNormalization"
+No normalization function for literal entity type "Distance" was specified. Set default to "IdentityNormalization"
+No normalization function for literal entity type "Voltage" was specified. Set default to "IdentityNormalization"
+No normalization function for literal entity type "Temperature" was specified. Set default to "IdentityNormalization"
+Systems scope successfully initialized!
+Trainiert mit Objective Function, getestet mit ObjectiveFunctionPartialOverlap
+Evaluation Detail: LITERAL
+MaxStepCrit: 50
+Total number of instances loaded: 96
+Instances remain after cardinality filter: 96
+Redistribute instances based on: Shuffle...
+Number of trainings instances: 77
+Number of develop instances: 0
+Number of test instances: 19
+Total number of distributed instances: 96
+PREDICTHIGHRECALL: 1
+***********************************************************
+|[1/19]======Final Evaluation======_____________N196 Richter 2005_____________|
+Final State  Model[1,00000] Objective[0,59722] {
+GOLD [11]:
+DosageExtracorporal	"each rat received a total of 75,000 –90,000 cells"	74	13611
+InjectionDelivery	"microinjected"	73	13122
+DosageExtracorporal	"10 mg * kg-1"	65	12047
+OlfactoryEnsheathingGliaCell	"OB OECs"	35	7036
+OlfactoryEnsheathingGliaCell	"GFP+ LP OECs"	27	5537
+InjectionDelivery	"i.p."	65	12067
+CyclosporineA	"cyclosporine A"	65	12031
+InjectionDelivery	"injected"	75	13716
+Caudal	"caudal"	73	13324
+Rostral	"rostral"	73	13312
+Vehicle	"DMEM/F-12"	75	13706
+}
+PREDICT [99]:
+Caudal	"caudal"	249	43667
+Rostral	"rostral"	249	43655
+InjectionDelivery	"injected"	74	13569
+OlfactoryEnsheathingGliaCell	"OECs"	3	646
+InjectionDelivery	"injection"	196	32672
+Caudal	"caudal"	73	13324
+Rostral	"rostral"	197	32898
+Caudal	"caudal"	197	32910
+Rostral	"rostral"	73	13312
+InjectionDelivery	"microinjected"	73	13122
+OlfactoryEnsheathingGliaCell	"OEC"	3	472
+Cell	"peripheral"	3	602
+Caudal	"caudal"	156	25101
+Rostral	"rostral"	93	17441
+InjectionDelivery	"injection"	73	13181
+Caudal	"caudal"	94	17719
+InjectionDelivery	"injection"	77	13924
+Rostral	"rostral"	110	19709
+Rostral	"rostral"	157	25371
+InjectionDelivery	"injection"	76	13818
+Caudal	"caudal"	250	43906
+Cell	"cells"	108	19539
+Caudal	"1mmcaudal"	110	19800
+Rostral	"rostral"	253	44468
+Caudal	"caudal"	169	27079
+Rostral	"rostral"	173	28125
+InjectionDelivery	"injection"	175	28434
+Rostral	"rostral"	158	25567
+Caudal	"caudal"	110	19717
+RehabilitativeTraining	"range"	167	26660
+Rostral	"rostral"	260	46234
+InjectionDelivery	"injection"	204	34538
+Cell	"nerve"	35	7258
+Cell	"dissociated"	36	7330
+CyclosporineA	"cyclosporine"	65	12031
+Cell	"nerve"	39	8144
+Cell	"male"	65	11923
+Caudal	"caudal"	158	25676
+DeliveryMethod	"transplantation"	81	14374
+Cell	"mucosa"	27	5584
+Rostral	"rostral"	172	27776
+Caudal	"caudal"	93	17471
+Vehicle	"12"	39	7917
+DeliveryMethod	"transplantation"	239	41290
+Cell	"spinal"	7	1599
+DeliveryMethod	"transplantation"	250	43776
+Cell	"spinal"	9	2016
+Conduit	"channels"	95	17777
+Cell	"spinal"	67	12424
+DeliveryMethod	"transplanted"	5	1103
+Cell	"spinal"	3	537
+DeliveryMethod	"inserted"	67	12496
+Rostral	"rostral"	5	1153
+Caudal	"caudal"	251	44156
+SchwannCell	"SCs"	201	33820
+Conduit	"contains"	191	31845
+Rostral	"rostral"	256	45406
+Caudal	"caudal"	259	46112
+Rostral	"rostral"	261	46374
+Caudal	"caudal"	173	28147
+DeliveryMethod	"transplanted"	218	37307
+PhysicalImplantTreatment	"cm"	32	6841
+PhysicalImplantTreatment	"cm"	41	8600
+PhysicalImplantTreatment	"diameter"	72	13056
+PhysicalImplantTreatment	"bar"	143	23668
+SurgeryTreatment	"mm"	67	12613
+DeliveryMethod	"transplantation"	6	1301
+Direction	"dorsal"	247	43267
+Rostral	"rostral"	250	43894
+Caudal	"caudal"	174	28203
+Direction	"dorsal"	246	43080
+DeliveryMethod	"transplantation"	8	1829
+CompoundTreatment	"treatment"	70	12829
+CompoundTreatment	"treatment"	90	16738
+DeliveryMethod	"transplantation"	9	2150
+Matrix	"albumin"	29	6226
+DeliveryMethod	"transplantation"	32	6866
+DeliveryMethod	"transplantation"	33	6911
+Cell	"cells"	32	6835
+DeliveryMethod	"transplantation"	41	8625
+DeliveryMethod	"transplantation"	42	8670
+CompoundTreatment	"treatment"	192	32182
+CompoundTreatment	"treatment"	197	32801
+DeliveryMethod	"transplantation"	43	8730
+CompoundTreatment	"treatment"	214	36524
+CompoundTreatment	"treatment"	220	37582
+CompoundTreatment	"treatment"	224	38338
+DeliveryMethod	"transplantation"	44	8754
+CompoundTreatment	"treatment"	252	44328
+Cell	"cells"	38	7801
+DeliveryMethod	"transplantation"	48	9240
+DeliveryMethod	"transplantation"	62	11667
+Caudal	"caudal"	5	1165
+DeliveryMethod	"transplantation"	4	889
+DeliveryMethod	"transplantation"	4	959
+DeliveryMethod	"transplantation"	70	12900
+Cell	"dissociated"	28	6031
+DeliveryMethod	"transplantation"	71	12953
+DeliveryMethod	"placed"	144	23880
+}
+Score [getF1()=0,597, getPrecision()=0,434, getRecall()=0,956, tp=43, fp=56, fn=2, tn=0]
+Score [macroF1=0,597, macroPrecision=0,434, macroRecall=0,956]
+***********************************************************
+
+
+***********************************************************
+|[2/19]======Final Evaluation======_____________N184 Moriwaki 2014_____________|
+Final State  Model[1,00000] Objective[0,47727] {
+GOLD [9]:
+DosageExtracorporal	"six 0.5-mm square fragments"	49	8368
+CyclosporineA	"cyclosporine"	53	8877
+DosageExtracorporal	"10 mg"	53	8949
+PBS	"PBS"	49	8445
+DosageExtracorporal	"5 mg"	53	8869
+InjectionDelivery	"subcutaneously"	53	8845
+Tissue	"RM"	49	8405
+DeliveryMethod	"inserted"	49	8453
+Tissue	"OM"	49	8399
+}
+PREDICT [63]:
+InjectionDelivery	"injected"	10	1219
+OlfactoryEnsheathingGliaCell	"OM"	1	472
+Rostral	"rostral"	106	16222
+InjectionDelivery	"injected"	9	1142
+Saline	"saline"	15	1892
+Saline	"saline"	96	14857
+Saline	"saline"	99	15443
+Cell	"EGFP"	101	15621
+Rostral	"rostral"	134	19394
+Rostral	"rostral"	120	17189
+Saline	"saline"	8	1059
+Saline	"saline"	15	2101
+Conduit	"scaffold"	20	2575
+Conduit	"scaffold"	95	14707
+SurgeryTreatment	"tissue"	150	21744
+RehabilitativeTraining	"hind"	156	22681
+SurgeryTreatment	"4"	99	15458
+Cell	"EGFP"	143	20830
+Cell	"EGFP"	107	16266
+Cell	"EGFP"	111	16448
+Cell	"EGFP"	114	16753
+Conduit	"scaffold"	1	497
+Caudal	"caudal"	120	17200
+PhysicalImplantTreatment	"bar"	100	15552
+PhysicalImplantTreatment	"bar"	102	15819
+PhysicalImplantTreatment	"bar"	103	16038
+PhysicalImplantTreatment	"bar"	109	16344
+SurgeryTreatment	"injury"	22	2927
+PhysicalImplantTreatment	"bar"	88	13867
+PhysicalImplantTreatment	"bar"	93	14254
+PhysicalImplantTreatment	"vertebral"	7	920
+PhysicalImplantTreatment	"T7"	7	939
+SurgeryTreatment	"injury"	20	2635
+Cell	"cells"	16	2171
+Vehicle	"rat"	1	511
+Substance	"10"	120	17351
+Substance	"10"	132	19063
+Cell	"mucosa"	8	1028
+Vehicle	"PBS"	130	18647
+DosageExtracorporal	"each"	103	16014
+Caudal	"caudal"	21	2812
+Caudal	"posterior"	10	1243
+Caudal	"caudal"	134	19384
+Matrix	"matrix"	24	3137
+Cell	"EGFP"	144	21048
+DeliveryMethod	"transplantation"	132	19078
+DeliveryMethod	"transplantation"	141	20493
+DeliveryMethod	"transplanted"	94	14603
+DeliveryMethod	"transplanted"	142	20672
+DeliveryMethod	"transplanted"	144	21007
+DeliveryMethod	"transplantation"	156	22430
+DeliveryMethod	"transplantation"	98	15235
+DeliveryMethod	"transplantation"	97	15128
+DeliveryMethod	"transplantation"	100	15488
+DeliveryMethod	"transplantation"	16	2214
+DeliveryMethod	"transplantation"	19	2345
+DeliveryMethod	"transplantation"	23	3027
+DeliveryMethod	"transplantation"	81	13286
+DeliveryMethod	"transplantation"	95	14640
+DeliveryMethod	"transplanted"	143	20798
+DeliveryMethod	"transplantation"	112	16547
+DeliveryMethod	"transplantation"	120	17366
+DeliveryMethod	"transplantation"	131	18727
+}
+Score [getF1()=0,477, getPrecision()=0,333, getRecall()=0,840, tp=21, fp=42, fn=4, tn=0]
+Score [macroF1=0,477, macroPrecision=0,333, macroRecall=0,840]
+***********************************************************
+
+
+***********************************************************
+|[3/19]======Final Evaluation======_____________N174 L+¦pez-Vales 2006 3_____________|
+Final State  Model[1,00000] Objective[0,56738] {
+GOLD [6]:
+DosageExtracorporal	"Each transplanted rat received a total of 1,500,000 cells"	38	8163
+OlfactoryEnsheathingGliaCell	"OECs"	36	7776
+Rostral	"cranial"	37	7985
+InjectionDelivery	"injected"	36	7801
+Caudal	"caudal"	37	8006
+Vehicle	"DMEM/ F12"	40	8380
+}
+PREDICT [99]:
+InjectionDelivery	"injected"	36	7801
+Rostral	"cranial"	37	7985
+OlfactoryEnsheathingGliaCell	"OECs"	0	601
+Caudal	"caudal"	37	8006
+Caudal	"caudal"	72	14260
+Rostral	"cranial"	72	14243
+InjectionDelivery	"injections"	37	7916
+Caudal	"caudal"	160	25961
+Rostral	"cranial"	189	31184
+Caudal	"caudal"	178	29183
+Rostral	"rostral"	160	25949
+InjectionDelivery	"injection"	64	12349
+Caudal	"caudal"	163	26460
+Rostral	"cranial"	184	30517
+Caudal	"caudal"	189	31196
+InjectionDelivery	"injections"	37	7969
+Rostral	"cranial"	100	17838
+Caudal	"caudal"	103	18130
+InjectionDelivery	"subcutaneously"	53	10132
+Caudal	"caudal"	116	19727
+Rostral	"rostral"	35	7656
+Caudal	"caudal"	108	18762
+Rostral	"cranial"	109	18915
+Caudal	"caudal"	113	19261
+RehabilitativeTraining	"trained"	48	9376
+RehabilitativeTraining	"hindlimb"	1	938
+RehabilitativeTraining	"hindlimb"	1	1007
+RehabilitativeTraining	"hindlimb"	45	8968
+RehabilitativeTraining	"hindlimb"	47	9301
+TreadmillTraining	"hindlimb"	150	24295
+TreadmillTraining	"hindlimb"	151	24405
+TreadmillTraining	"hindlimb"	152	24595
+TreadmillTraining	"hindlimb"	153	24756
+Rostral	"rostral"	172	28185
+InjectionDelivery	"injection"	62	11857
+Saline	"saline"	67	12832
+Rostral	"cranial"	103	18103
+Caudal	"caudal"	184	30529
+InjectionDelivery	"injection"	62	12117
+Cell	"nerve"	93	17029
+Rostral	"cranial"	116	19700
+Cell	"spinal"	0	777
+Caudal	"caudal"	62	11967
+Rostral	"cranial"	113	19237
+Saline	"solution"	62	11903
+PhysicalImplantTreatment	"cm"	44	8895
+PhysicalImplantTreatment	"diameter"	44	8898
+PhysicalImplantTreatment	"cm"	44	8912
+PhysicalImplantTreatment	"0.1"	53	10040
+PhysicalImplantTreatment	"0.1"	56	10716
+PhysicalImplantTreatment	"0.1"	64	12422
+PhysicalImplantTreatment	"T13"	65	12491
+SurgeryTreatment	"injury"	6	1784
+PhysicalImplantTreatment	"0.1"	67	12845
+PhysicalImplantTreatment	"attached"	73	14353
+PhysicalImplantTreatment	"bar"	104	18218
+PhysicalImplantTreatment	"bar"	111	19065
+PhysicalImplantTreatment	"bar"	118	19942
+SurgeryTreatment	"cord"	0	784
+PhysicalImplantTreatment	"bar"	124	20496
+PhysicalImplantTreatment	"processes"	128	20896
+PhysicalImplantTreatment	"bar"	130	21130
+PhysicalImplantTreatment	"processes"	186	30744
+PhysicalImplantTreatment	"processes"	187	30790
+SurgeryTreatment	"cord"	5	1644
+PhysicalImplantTreatment	"processes"	188	31007
+PhysicalImplantTreatment	"attached"	28	6712
+SurgeryTreatment	"transection"	35	7726
+InjectionDelivery	"stereotaxically"	36	7785
+Cell	"spinal"	5	1637
+DeliveryMethod	"transferred"	29	6910
+Cell	"spinal"	0	125
+Cell	"cells"	0	60
+DeliveryMethod	"inserted"	53	10123
+DeliveryMethod	"inserted"	56	10792
+Cell	"cells"	37	7944
+DeliveryMethod	"delivered"	56	10761
+DeliveryMethod	"placed"	61	11729
+Rostral	"cranial"	108	18738
+DeliveryMethod	"transplanted"	38	8168
+CompoundTreatment	"treatment"	80	15535
+Cell	"spinal"	34	7568
+DeliveryMethod	"transplanted"	3	1274
+Cell	"nerve"	56	10662
+DeliveryMethod	"transplanted"	0	704
+Caudal	"caudal"	35	7668
+Rostral	"cranial"	166	27202
+DeliveryMethod	"transplanted"	31	7163
+DeliveryMethod	"transplantation"	30	6980
+DeliveryMethod	"transplantation"	5	1538
+DeliveryMethod	"transplantation"	0	19
+DeliveryMethod	"transplantation"	131	21279
+Rostral	"cranial"	167	27323
+Caudal	"caudal"	173	28292
+Rostral	"cranial"	169	27676
+Caudal	"caudal"	2	1176
+DeliveryMethod	"transplantation"	190	31400
+DeliveryMethod	"transplantation"	36	7743
+Cell	"spinal"	52	9905
+}
+Score [getF1()=0,567, getPrecision()=0,404, getRecall()=0,952, tp=40, fp=59, fn=2, tn=0]
+Score [macroF1=0,567, macroPrecision=0,404, macroRecall=0,952]
+***********************************************************
+
+
+***********************************************************
+|[4/19]======Final Evaluation======_____________N195 Resnick 2003_____________|
+Final State  Model[1,00000] Objective[0,48837] {
+GOLD [4]:
+OlfactoryEnsheathingGliaCell	"OECs"	28	4216
+InjectionDelivery	"injected"	28	4163
+Vehicle	"culture medium"	28	4282
+DosageExtracorporal	"50,000 cells/µL"	28	4258
+}
+PREDICT [65]:
+InjectionDelivery	"injected"	7	785
+OlfactoryEnsheathingGliaCell	"OEC"	4	341
+InjectionDelivery	"injected"	28	4163
+Vehicle	"medium"	52	6950
+SurgeryTreatment	"cord"	5	591
+DosageExtracorporal	"DMEM"	44	5970
+Cell	"nerve"	10	1235
+SurgeryTreatment	"injury"	4	420
+DosageExtracorporal	"x10"	70	8518
+Cell	"male"	26	3892
+Cell	"spinal"	74	8928
+DeliveryMethod	"placed"	40	5515
+Cell	"nerve"	37	5153
+DosageExtracorporal	"x10"	75	9035
+Vehicle	"culture medium"	28	4238
+DosageExtracorporal	"Hanks"	40	5558
+RehabilitativeTraining	"manual"	30	4438
+Cell	"spinal"	9	1072
+Cell	"spinal"	12	1415
+DosageExtracorporal	"OEC"	77	9136
+Cell	"spinal"	14	1703
+Cell	"spinal"	15	1820
+DosageExtracorporal	"OEC"	74	8889
+Cell	"spinal"	27	4029
+Vehicle	"solution"	40	5578
+Cell	"spinal"	33	4696
+Cell	"nerve"	4	317
+Vehicle	"Sigma"	48	6629
+PhysicalImplantTreatment	"cm"	27	4026
+Cell	"spinal"	5	584
+Cell	"spinal"	6	654
+SurgeryTreatment	"injury"	3	284
+Vehicle	"12"	45	6188
+DosageExtracorporal	"50,000"	28	4258
+SurgeryTreatment	"injury"	7	837
+Cell	"spinal"	3	272
+DeliveryMethod	"transferred"	52	7038
+Cell	"nerve"	51	6855
+SurgeryTreatment	"injury"	9	1118
+CompoundTreatment	"treatment"	3	259
+DeliveryMethod	"transplanted"	85	9783
+Cell	"cells"	9	1055
+SurgeryTreatment	"injury"	12	1470
+DeliveryMethod	"transplanted"	88	10145
+DosageExtracorporal	"weight"	83	9565
+DeliveryMethod	"transplantation"	68	8415
+DosageExtracorporal	"OECs"	28	4216
+DeliveryMethod	"transplantation"	55	7461
+Cell	"cells"	10	1206
+DeliveryMethod	"transplanted"	92	10577
+DeliveryMethod	"transplanted"	9	986
+Cell	"cells"	13	1484
+SurgeryTreatment	"injury"	13	1571
+DeliveryMethod	"transplantation"	14	1683
+DeliveryMethod	"transplantation"	4	346
+DeliveryMethod	"transplanted"	11	1316
+DeliveryMethod	"transplanted"	12	1354
+DeliveryMethod	"transplantation"	3	205
+DeliveryMethod	"transplantation"	5	462
+Cell	"cells"	28	4265
+Vehicle	"culture medium"	50	6710
+SurgeryTreatment	"injury"	14	1715
+DosageExtracorporal	"1"	44	6014
+DosageExtracorporal	"medium"	54	7287
+DosageExtracorporal	"injection"	72	8805
+}
+Score [getF1()=0,488, getPrecision()=0,323, getRecall()=1,000, tp=21, fp=44, fn=0, tn=0]
+Score [macroF1=0,488, macroPrecision=0,323, macroRecall=1,000]
+***********************************************************
+
+
+***********************************************************
+|[5/19]======Final Evaluation======_____________N130 Barbour 2013_____________|
+Final State  Model[1,00000] Objective[0,24779] {
+GOLD [6]:
+InjectionDelivery	"injected"	65	11704
+InjectionDelivery	"injection"	37	7247
+OlfactoryEnsheathingGliaCell	"OEG"	37	7296
+Vehicle	"DMEM/F-12 Sigma"	65	11683
+DosageExtracorporal	"5 × 105"	65	11623
+SchwannCell	"SCs"	37	7357
+}
+PREDICT [99]:
+OlfactoryEnsheathingGliaCell	"OEG"	0	304
+InjectionDelivery	"injected"	142	24012
+SchwannCell	"SCs"	0	327
+InjectionDelivery	"injected"	80	13715
+Caudal	"caudal"	192	28934
+Vehicle	"DMEM"	46	8579
+Rostral	"rostral"	123	21405
+InjectionDelivery	"injected"	59	10872
+Caudal	"caudal"	115	19859
+Rostral	"rostral"	197	29729
+Cell	"cells"	79	13505
+Caudal	"caudal"	180	27585
+Rostral	"rostral"	180	27574
+InjectionDelivery	"injected"	81	13989
+Caudal	"caudal"	291	45426
+Rostral	"rostral"	290	45261
+Caudal	"caudal"	291	45410
+DosageExtracorporal	"5 × 105"	65	11623
+Rostral	"rostral"	115	19839
+Caudal	"caudal"	197	29807
+Rostral	"rostral"	231	35183
+RehabilitativeTraining	"trained"	74	12944
+RehabilitativeTraining	"trained"	98	16361
+RehabilitativeTraining	"hind"	77	13282
+RehabilitativeTraining	"hind"	78	13298
+RehabilitativeTraining	"step"	78	13308
+Saline	"saline"	59	11000
+PhysicalImplantTreatment	"length"	73	12806
+SurgeryTreatment	"cord"	15	2866
+Saline	"saline"	84	14539
+InjectionDelivery	"injection"	233	35578
+Cell	"cells"	224	34159
+Rostral	"rostral"	238	36388
+Caudal	"caudal"	80	13784
+Saline	"saline"	61	11217
+DosageExtracorporal	"transplanted"	145	24298
+Matrix	"matrix"	113	19531
+Cell	"nerve"	50	9226
+SurgeryTreatment	"site"	66	11934
+PhysicalImplantTreatment	"bar"	144	24219
+PhysicalImplantTreatment	"bar"	148	24446
+PhysicalImplantTreatment	"bar"	152	24783
+PhysicalImplantTreatment	"bar"	175	27069
+PhysicalImplantTreatment	"bar"	176	27114
+PhysicalImplantTreatment	"bar"	186	28012
+PhysicalImplantTreatment	"bar"	186	28047
+PhysicalImplantTreatment	"bar"	191	28790
+SurgeryTreatment	"tissue"	104	17597
+PhysicalImplantTreatment	"cm"	124	21461
+PhysicalImplantTreatment	"length"	124	21467
+PhysicalImplantTreatment	"0.1"	86	14853
+PhysicalImplantTreatment	"vertebral"	55	10129
+DosageExtracorporal	"transplanted"	149	24485
+Caudal	"caudal"	232	35369
+PhysicalImplantTreatment	"cm"	73	12906
+PhysicalImplantTreatment	"cm"	77	13217
+PhysicalImplantTreatment	"length"	77	13223
+InjectionDelivery	"injection"	234	35761
+Cell	"nerve"	44	8245
+Cell	"dissociated"	45	8292
+DeliveryMethod	"transferred"	51	9451
+Cell	"fibroblast"	51	9368
+DeliveryMethod	"injections"	246	37736
+Direction	"distal"	3	784
+Direction	"distal"	7	1582
+SurgeryTreatment	"site"	80	13815
+PhysicalImplantTreatment	"0.1"	59	10973
+Saline	"solution"	84	14676
+Saline	"solution"	88	15191
+Saline	"solution"	99	16555
+Saline	"solution"	111	19237
+DeliveryMethod	"transplanted"	291	45520
+PhysicalImplantTreatment	"processes"	56	10472
+Direction	"dorsal"	56	10465
+Direction	"dorsal"	122	21165
+Direction	"central"	171	26625
+Direction	"central"	77	13169
+SurgeryTreatment	"injury"	298	46762
+SurgeryTreatment	"injury"	299	46954
+Direction	"distal"	127	22043
+Matrix	"matrix"	253	38885
+SurgeryTreatment	"4"	274	42412
+Direction	"distal"	161	25508
+SurgeryTreatment	"4"	241	36934
+Vehicle	"F"	161	25411
+SurgeryTreatment	"were"	235	35906
+Direction	"central"	169	26405
+DosageExtracorporal	"2"	166	26202
+Cell	"spinal"	0	390
+DeliveryMethod	"transplanted"	291	45561
+DeliveryMethod	"transplanted"	292	45688
+DeliveryMethod	"transplanted"	293	45931
+Cell	"cells"	147	24393
+DeliveryMethod	"transplanted"	302	47504
+Cell	"cells"	154	24944
+DeliveryMethod	"transplantation"	294	46088
+DeliveryMethod	"transplantation"	295	46271
+Cell	"cells"	116	20141
+DeliveryMethod	"transplanted"	233	35499
+}
+Score [getF1()=0,248, getPrecision()=0,141, getRecall()=1,000, tp=14, fp=85, fn=0, tn=0]
+Score [macroF1=0,248, macroPrecision=0,141, macroRecall=1,000]
+***********************************************************
+
+
+***********************************************************
+|[6/19]======Final Evaluation======_____________N138 Chuah 2004_____________|
+Final State  Model[1,00000] Objective[0,48120] {
+GOLD [13]:
+Right	"right"	68	10161
+OlfactoryEnsheathingGliaCell	"ECs"	54	7967
+Vehicle	"CM"	68	10057
+Rostral	"anterior"	68	10202
+Caudal	"posterior"	68	10215
+DosageExtracorporal	"105"	43	6709
+InjectionDelivery	"injections"	66	9648
+OlfactoryEnsheathingGliaCell	"ECs"	43	6713
+Left	"left"	68	10171
+Rostral	"anteroposteriorly"	73	10708
+Caudal	"anteroposteriorly"	73	10708
+Vehicle	"CM-containing"	66	9715
+DosageExtracorporal	"104 cells/µl"	54	8072
+}
+PREDICT [99]:
+InjectionDelivery	"injected"	79	11541
+OlfactoryEnsheathingGliaCell	"ECs"	7	442
+Caudal	"caudal"	216	28193
+InjectionDelivery	"injected"	81	11938
+Rostral	"anterior"	68	10202
+Caudal	"caudally"	204	26155
+InjectionDelivery	"injected"	68	10064
+Caudal	"caudal"	214	27805
+OlfactoryEnsheathingGliaCell	"OM"	33	5158
+InjectionDelivery	"injected"	155	19993
+Direction	"dorsal"	63	9225
+Direction	"distal"	208	26844
+Direction	"dorsal"	131	18187
+Direction	"lateral"	70	10387
+Direction	"dorsal"	9	685
+Direction	"lateral"	86	12619
+Direction	"midline"	68	10183
+Direction	"dorsal"	122	17460
+Direction	"dorsal"	127	17646
+Direction	"dorsal"	130	17956
+Direction	"dorsal"	143	19130
+Direction	"dorsal"	161	20619
+Direction	"lateral"	86	12547
+Direction	"lateral"	86	12581
+Direction	"dorsal"	61	9160
+Direction	"dorsal"	63	9361
+Vehicle	"CM"	180	21948
+Direction	"midline"	64	9466
+Direction	"dorsal"	69	10284
+Direction	"dorsal"	73	10659
+Direction	"dorsal"	75	10943
+SurgeryTreatment	"tissue"	210	27137
+Direction	"midline"	71	10491
+Direction	"dorsal"	135	18557
+InjectionDelivery	"injected"	9	861
+Direction	"dorsal"	146	19326
+Direction	"dorsal"	165	20897
+Direction	"dorsal"	199	25413
+Direction	"dorsal"	191	23869
+Direction	"lateral"	191	23831
+Direction	"dorsal"	214	27842
+Direction	"dorsal"	216	28177
+SurgeryTreatment	"spinal"	117	16984
+InjectionDelivery	"injected"	71	10444
+Vehicle	"control"	194	24341
+Conduit	"contains"	79	11653
+SurgeryTreatment	"tissue"	34	5419
+DosageExtracorporal	"ECs"	214	27777
+Conduit	"contains"	120	17278
+SurgeryTreatment	"cord"	8	675
+DosageExtracorporal	"ECs"	236	31354
+Saline	"saline"	57	8642
+SurgeryTreatment	"cord"	61	9174
+SurgeryTreatment	"surgery"	66	9765
+DosageExtracorporal	"6"	220	28824
+Saline	"saline"	93	13618
+Conduit	"bundle"	201	25703
+Conduit	"parallel"	205	26311
+SurgeryTreatment	"2"	68	10195
+InjectionDelivery	"injected"	87	12864
+OlfactoryEnsheathingGliaCell	"3"	10	999
+Vehicle	"CM"	67	9791
+SurgeryTreatment	"surgery"	55	8270
+SurgeryTreatment	"cord"	53	7928
+DosageExtracorporal	"5"	167	21002
+RehabilitativeTraining	"hindlimb"	187	23086
+Vehicle	"CM"	229	30291
+DosageExtracorporal	"6"	177	21615
+RehabilitativeTraining	"hindlimb"	86	12693
+SurgeryTreatment	"surgery"	74	10900
+RehabilitativeTraining	"hindlimb"	79	11606
+SurgeryTreatment	"cord"	69	10313
+DosageExtracorporal	"3"	201	25793
+RehabilitativeTraining	"hindlimb"	11	1133
+Saline	"saline"	57	8627
+Saline	"saline"	81	11981
+Saline	"solution"	87	12785
+DosageExtracorporal	"4"	137	18727
+Vehicle	"CM"	227	30035
+SurgeryTreatment	"site"	9	884
+DosageExtracorporal	"3"	200	25574
+Rostral	"rostral"	212	27503
+Saline	"solution"	36	5649
+Saline	"solution"	50	7572
+Saline	"solution"	53	7867
+Saline	"solution"	96	14037
+SurgeryTreatment	"site"	68	10239
+PhysicalImplantTreatment	"vertebral"	94	13720
+PhysicalImplantTreatment	"vertebral"	95	13906
+DosageExtracorporal	"ECs"	219	28600
+InjectionDelivery	"subcutaneously"	91	13350
+Cell	"nasal"	34	5359
+SurgeryTreatment	"site"	75	11024
+Rostral	"rostral"	192	23897
+Cell	"skin"	59	8843
+SurgeryTreatment	"site"	73	10740
+DosageExtracorporal	"4"	140	18793
+Cell	"nerve"	33	5128
+Cell	"spinal"	45	6865
+}
+Score [getF1()=0,481, getPrecision()=0,323, getRecall()=0,941, tp=32, fp=67, fn=2, tn=0]
+Score [macroF1=0,481, macroPrecision=0,323, macroRecall=0,941]
+***********************************************************
+
+
+***********************************************************
+|[7/19]======Final Evaluation======_____________N136 Centenaro 2011_____________|
+Final State  Model[1,00000] Objective[0,42254] {
+GOLD [7]:
+Tissue	"RLP"	203	34797
+Tissue	"RLP"	204	34864
+DeliveryMethod	"transplanted"	203	34737
+SurgeryTreatment	"The segment between these incisions was removed, leaving a gap"	179	31154
+Tissue	"OLP"	204	34872
+Tissue	"OLP"	203	34815
+SurgeryTreatment	"Scar tissue was removed"	206	35104
+}
+PREDICT [56]:
+Tissue	"RLP"	2	1396
+OlfactoryEnsheathingGliaCell	"OECs"	3	1648
+Caudal	"caudal"	108	17435
+Rostral	"rostral"	64	11208
+Caudal	"caudal"	72	11750
+Rostral	"cranial"	6	2093
+Caudal	"caudal"	111	18039
+Rostral	"rostral"	43	9208
+Caudal	"caudal"	114	18845
+Rostral	"rostral"	111	18047
+Caudal	"caudal"	118	19727
+RehabilitativeTraining	"hindlimb"	119	19879
+Rostral	"rostral"	53	10235
+Caudal	"caudal"	64	11220
+Rostral	"rostral"	108	17446
+Caudal	"caudal"	77	12461
+OlfactoryEnsheathingGliaCell	"OEC"	1	1237
+PhysicalImplantTreatment	"bar"	40	8858
+PhysicalImplantTreatment	"bar"	48	9711
+PhysicalImplantTreatment	"bar"	59	10540
+PhysicalImplantTreatment	"bar"	70	11387
+PhysicalImplantTreatment	"bridge"	77	12417
+PhysicalImplantTreatment	"bar"	84	13049
+PhysicalImplantTreatment	"0.1"	89	13559
+PhysicalImplantTreatment	"bar"	90	13621
+PhysicalImplantTreatment	"0.1"	102	16482
+PhysicalImplantTreatment	"0.1"	102	16508
+PhysicalImplantTreatment	"0.1"	102	16523
+SurgeryTreatment	"transection"	42	9116
+PhysicalImplantTreatment	"0.1"	102	16537
+PhysicalImplantTreatment	"0.1"	116	19299
+DeliveryMethod	"transplanted"	37	8534
+Rostral	"rostral"	117	19464
+Caudal	"caudal"	54	10375
+Rostral	"rostral"	111	18177
+Caudal	"caudal"	6	2160
+CompoundTreatment	"treatment"	9	2661
+DeliveryMethod	"transplantation"	3	1601
+Rostral	"rostral"	118	19707
+Caudal	"caudal"	113	18646
+SurgeryTreatment	"site"	39	8729
+Tissue	"OLP"	1	1271
+DeliveryMethod	"transplantation"	5	1857
+DeliveryMethod	"transplanted"	73	11880
+DeliveryMethod	"transplantation"	7	2285
+DeliveryMethod	"transplantation"	28	6913
+DeliveryMethod	"transplantation"	29	7214
+DeliveryMethod	"transplantation"	30	7504
+DeliveryMethod	"transplantation"	33	7958
+DeliveryMethod	"transplantation"	35	8401
+Direction	"central"	10	2743
+Direction	"lateral"	108	17401
+DeliveryMethod	"transplantation"	8	2384
+Rostral	"rostral"	114	18825
+Caudal	"caudal"	115	19050
+RehabilitativeTraining	"hindlimb"	4	1746
+}
+Score [getF1()=0,423, getPrecision()=0,268, getRecall()=1,000, tp=15, fp=41, fn=0, tn=0]
+Score [macroF1=0,423, macroPrecision=0,268, macroRecall=1,000]
+***********************************************************
+
+
+***********************************************************
+|[8/19]======Final Evaluation======_____________N157 Kalincik 2010_____________|
+Final State  Model[1,00000] Objective[0,05769] {
+GOLD [3]:
+OlfactoryEnsheathingGliaCell	"OECs"	37	7269
+Vehicle	"culture medium"	37	7356
+DosageExtracorporal	"500,000 cells/μl"	37	7275
+}
+PREDICT [99]:
+Rostral	"rostral"	133	21192
+Caudal	"caudal"	142	22561
+OlfactoryEnsheathingGliaCell	"OECs"	2	678
+InjectionDelivery	"injections"	41	7809
+Rostral	"rostral"	169	27234
+Caudal	"caudal"	5	1620
+InjectionDelivery	"subcutaneously"	33	6774
+Caudal	"caudal"	120	19303
+Rostral	"rostral"	69	11972
+Caudal	"caudal"	133	21204
+Rostral	"rostral"	130	20804
+Rostral	"rostral"	142	22549
+Caudal	"caudal"	169	27246
+InjectionDelivery	"subcutaneously"	40	7757
+OlfactoryEnsheathingGliaCell	"GFP"	24	5141
+Caudal	"caudal"	131	20886
+Rostral	"rostral"	120	19291
+Caudal	"caudal"	135	21477
+Rostral	"rostral"	129	20598
+InjectionDelivery	"injection"	28	6212
+Caudal	"caudal"	161	25833
+Rostral	"rostral"	73	12771
+Caudal	"caudal"	148	23421
+Rostral	"rostral"	113	18698
+Caudal	"caudal"	159	25553
+Caudal	"caudal"	129	20610
+Rostral	"rostrally"	143	22658
+Caudal	"caudal"	164	26563
+Rostral	"rostral"	135	21465
+PhysicalImplantTreatment	"processes"	80	14191
+Rostral	"rostral"	99	16844
+Caudal	"caudal"	76	13565
+Rostral	"rostral"	7	2082
+Caudal	"caudally"	145	22881
+Rostral	"rostral"	159	25541
+Caudal	"caudal"	73	12783
+Rostral	"rostral"	74	13145
+Caudal	"caudally"	108	18181
+PhysicalImplantTreatment	"length"	159	25470
+Rostral	"rostral"	98	16626
+Saline	"saline"	62	10793
+PhysicalImplantTreatment	"T7"	165	26719
+PhysicalImplantTreatment	"length"	160	25669
+Caudal	"caudal"	150	23753
+Rostral	"rostral"	71	12327
+Saline	"saline"	53	9505
+Saline	"saline"	64	11090
+PhysicalImplantTreatment	"0.1"	33	6826
+PhysicalImplantTreatment	"T7"	47	8634
+PhysicalImplantTreatment	"T7"	51	9129
+PhysicalImplantTreatment	"length"	80	14169
+PhysicalImplantTreatment	"T7"	82	14510
+PhysicalImplantTreatment	"T7"	93	16090
+Caudal	"caudal"	152	24072
+PhysicalImplantTreatment	"T7"	126	20073
+PhysicalImplantTreatment	"3.2"	140	22342
+PhysicalImplantTreatment	"length"	144	22749
+PhysicalImplantTreatment	"length"	148	23324
+PhysicalImplantTreatment	"length"	152	24208
+PhysicalImplantTreatment	"length"	155	24895
+PhysicalImplantTreatment	"length"	161	25896
+PhysicalImplantTreatment	"T7"	162	26153
+Rostral	"rostral"	71	12392
+PhysicalImplantTreatment	"cm"	23	4991
+InjectionDelivery	"i.p"	31	6582
+Saline	"solution"	53	9543
+Saline	"solution"	63	10932
+CompoundTreatment	"treatment"	94	16205
+Caudal	"caudal"	108	18119
+Rostral	"rostral"	108	18107
+Rostral	"rostral"	131	20874
+Caudal	"caudal"	166	26882
+Conduit	"parallel"	108	18138
+Conduit	"parallel"	71	12475
+Conduit	"parallel"	109	18262
+InjectionDelivery	"i.p"	32	6668
+Rostral	"rostral"	134	21320
+Caudal	"caudal"	130	20816
+OlfactoryEnsheathingGliaCell	"3"	85	14894
+Rostral	"rostrally"	145	22866
+Caudal	"caudal"	74	13156
+Rostral	"rostral"	147	23238
+Cell	"spinal"	112	18517
+DeliveryMethod	"placed"	38	7412
+Cell	"dissociated"	25	5319
+Cell	"male"	25	5288
+DeliveryMethod	"transplantation"	30	6366
+Rostral	"rostral"	166	26871
+Caudal	"caudal"	69	11984
+MethylprednisoloneMP	"sodium"	40	7640
+MethylprednisoloneMP	"sodium"	40	7715
+MethylprednisoloneMP	"sodium"	45	8443
+Cell	"skin"	44	8100
+DeliveryMethod	"transplanted"	8	2252
+DeliveryMethod	"transplantation"	0	96
+Cell	"spinal"	129	20639
+Direction	"dorsal"	70	12262
+SurgeryTreatment	"4"	162	26212
+Direction	"dorsal"	117	19061
+}
+Score [getF1()=0,058, getPrecision()=0,030, getRecall()=0,600, tp=3, fp=96, fn=2, tn=0]
+Score [macroF1=0,058, macroPrecision=0,030, macroRecall=0,600]
+***********************************************************
+
+
+***********************************************************
+|[9/19]======Final Evaluation======_____________N193 Ramer 2004_____________|
+Final State  Model[1,00000] Objective[0,36975] {
+GOLD [8]:
+Vehicle	"DMEM"	54	11589
+InjectionDelivery	"injected"	54	11594
+CyclosporineA	"cyclosporin A"	45	9869
+DosageExtracorporal	"75,000–150,000 OECs (1.5 µl of cell slurry for rats, 1 µl of cell slurry for mice, divided over three injection sites)"	52	11158
+InjectionDelivery	"i.p."	45	9945
+OlfactoryEnsheathingGliaCell	"OECs"	32	7230
+InjectionDelivery	"microinjected"	52	11298
+DosageExtracorporal	"10 mg/kg"	45	9927
+}
+PREDICT [97]:
+InjectionDelivery	"injected"	57	12183
+OlfactoryEnsheathingGliaCell	"OECs"	4	695
+Caudal	"caudal"	80	16572
+Rostral	"rostral"	80	16560
+InjectionDelivery	"injected"	120	29295
+Caudal	"caudally"	80	16656
+Rostral	"rostrally"	80	16642
+Saline	"saline"	51	11024
+InjectionDelivery	"injected"	122	29831
+Cell	"cells"	74	15261
+CyclosporineA	"cyclosporin"	186	45023
+OlfactoryEnsheathingGliaCell	"OECs"	16	3384
+Caudal	"caudal"	75	15381
+InjectionDelivery	"injection"	55	11647
+Caudal	"caudal"	58	12266
+Rostral	"rostrally"	93	22205
+Cell	"nerve"	43	9220
+Direction	"proximal"	163	39480
+SurgeryTreatment	"scar"	191	46290
+Direction	"midline"	58	12302
+Direction	"central"	146	35951
+Direction	"central"	152	37090
+SurgeryTreatment	"scar"	226	53866
+Direction	"central"	217	52104
+Direction	"distal"	9	1830
+Direction	"lateral"	58	12291
+Direction	"central"	12	2570
+Direction	"central"	7	1388
+Direction	"dorsal"	74	15307
+Direction	"central"	12	2481
+SurgeryTreatment	"were"	168	40611
+Direction	"dorsal"	71	14932
+Direction	"distal"	90	20612
+SurgeryTreatment	"scar"	157	38100
+OlfactoryEnsheathingGliaCell	"LP"	5	890
+Direction	"distal"	157	37917
+Direction	"lateral"	83	17678
+Direction	"lateral"	89	20328
+InjectionDelivery	"injected"	54	11594
+Direction	"dorsal"	152	37152
+Direction	"lateral"	148	36532
+SurgeryTreatment	"were"	148	36499
+Direction	"distal"	206	49618
+Conduit	"scaffold"	7	1474
+SurgeryTreatment	"scar"	138	34202
+Conduit	"channels"	86	19774
+SurgeryTreatment	"were"	131	32278
+Direction	"distal"	223	53070
+Conduit	"parallel"	86	19305
+Conduit	"channels"	121	29568
+Conduit	"channels"	141	34811
+Conduit	"channels"	133	32800
+Conduit	"scaffold"	98	22898
+Vehicle	"control"	193	46655
+Conduit	"channels"	142	35187
+Conduit	"channels"	142	35130
+SurgeryTreatment	"were"	70	14674
+Conduit	"channels"	167	40063
+OlfactoryEnsheathingGliaCell	"GFP"	6	1106
+Vehicle	"rat"	172	41486
+SurgeryTreatment	"glial"	43	9291
+Conduit	"channels"	184	44539
+SurgeryTreatment	"were"	45	10011
+Conduit	"channels"	205	49381
+SurgeryTreatment	"scar"	102	25058
+Conduit	"channels"	196	47229
+SurgeryTreatment	"transection"	202	48641
+Vehicle	"control"	161	39106
+SurgeryTreatment	"glial"	86	19118
+Conduit	"channels"	214	51412
+SurgeryTreatment	"spinal"	204	49073
+SurgeryTreatment	"spinal"	173	41902
+DosageExtracorporal	"5"	233	55714
+SurgeryTreatment	"injury"	223	53218
+DosageExtracorporal	"7"	230	54927
+RehabilitativeTraining	"step"	194	46885
+SurgeryTreatment	"2"	192	46619
+SurgeryTreatment	"4"	157	38244
+DosageExtracorporal	"6"	226	54048
+SurgeryTreatment	"scar"	209	50237
+SurgeryTreatment	"5"	158	38557
+Vehicle	"control"	162	39258
+SurgeryTreatment	"glial"	146	36089
+DosageExtracorporal	"4"	224	53458
+SurgeryTreatment	"4"	99	23936
+DosageExtracorporal	"1"	157	38242
+SurgeryTreatment	"4"	146	36303
+Cell	"cells"	124	30187
+DosageExtracorporal	"25"	183	44424
+SurgeryTreatment	"glial"	132	32557
+SurgeryTreatment	"injury"	159	38663
+Cell	"peripheral"	13	2622
+Vehicle	"cell"	86	19031
+SurgeryTreatment	"glial"	128	31724
+DosageExtracorporal	"OECs"	236	56306
+SurgeryTreatment	"2"	141	34900
+Rostral	"rostral"	161	39147
+}
+Score [getF1()=0,370, getPrecision()=0,227, getRecall()=1,000, tp=22, fp=75, fn=0, tn=0]
+Score [macroF1=0,370, macroPrecision=0,227, macroRecall=1,000]
+***********************************************************
+
+
+***********************************************************
+|[10/19]======Final Evaluation======_____________N158 Kang 2015_____________|
+Final State  Model[1,00000] Objective[0,41322] {
+GOLD [5]:
+OlfactoryEnsheathingGliaCell	"OECs"	83	11102
+InjectionDelivery	"injected"	88	11773
+StemCell	"NSCs"	83	11075
+DosageExtracorporal	"1.0 x 106/mL"	88	11782
+Saline	"saline"	88	11743
+}
+PREDICT [95]:
+OlfactoryEnsheathingGliaCell	"OECs"	5	453
+InjectionDelivery	"injected"	67	9062
+InjectionDelivery	"injected"	88	11773
+Vehicle	"medium"	46	6513
+SurgeryTreatment	"2"	212	21373
+SurgeryTreatment	"surgery"	10	1267
+Saline	"saline"	58	8069
+InjectionDelivery	"injected"	90	12090
+OlfactoryEnsheathingGliaCell	"OECs"	17	2084
+Cell	"nerve"	207	20756
+Direction	"dorsal"	85	11400
+SurgeryTreatment	"were"	100	13330
+Vehicle	"media"	31	4659
+DosageExtracorporal	"OECs"	195	18244
+SurgeryTreatment	"were"	100	13422
+Conduit	"channels"	188	17456
+SurgeryTreatment	"were"	101	13529
+Cell	"fibroblast"	25	3552
+SurgeryTreatment	"were"	101	13600
+RehabilitativeTraining	"step"	48	6736
+RehabilitativeTraining	"hind"	92	12533
+RehabilitativeTraining	"legs"	92	12538
+RehabilitativeTraining	"range"	188	17382
+DosageExtracorporal	"rats"	209	21117
+Cell	"fibroblast"	49	6912
+Saline	"saline"	88	11743
+Cell	"nerve"	198	18871
+SurgeryTreatment	"spinal"	207	20733
+Saline	"saline"	29	4544
+Saline	"saline"	68	9231
+DeliveryMethod	"transplantation"	83	10958
+Cell	"nerve"	13	1537
+Cell	"nerve"	15	1720
+Vehicle	"serum"	25	3856
+DosageExtracorporal	"which"	180	16528
+DosageExtracorporal	"which"	188	17437
+Cell	"nerve"	15	1765
+DeliveryMethod	"transplanted"	188	17499
+DeliveryMethod	"transplanted"	200	19190
+Cell	"cells"	0	91
+DeliveryMethod	"transplanted"	201	19504
+DeliveryMethod	"transplanted"	202	19768
+Cell	"cells"	13	1543
+DeliveryMethod	"placed"	33	4972
+DeliveryMethod	"placed"	89	11997
+DeliveryMethod	"placed"	29	4515
+DeliveryMethod	"placed"	58	7997
+Saline	"saline"	7	702
+Rostral	"cranial"	199	19107
+DeliveryMethod	"placed"	58	8041
+Saline	"solution"	45	6380
+Saline	"solution"	58	7860
+Saline	"solution"	96	12909
+DeliveryMethod	"transplantation"	192	17895
+PhysicalImplantTreatment	"diameter"	35	5239
+PhysicalImplantTreatment	"attached"	40	5717
+PhysicalImplantTreatment	"attached"	51	7111
+PhysicalImplantTreatment	"cm"	56	7695
+PhysicalImplantTreatment	"vertebral"	86	11454
+PhysicalImplantTreatment	"diameter"	180	16501
+PhysicalImplantTreatment	"diameter"	188	17359
+DeliveryMethod	"transplantation"	209	21060
+Vehicle	"culture"	81	10734
+DeliveryMethod	"placed"	57	7725
+Cell	"cells"	200	19203
+DeliveryMethod	"placed"	58	7935
+DeliveryMethod	"transplantation"	92	12416
+DeliveryMethod	"transplantation"	92	12472
+InjectionDelivery	"injection"	55	7541
+DosageExtracorporal	"1"	210	21195
+Cell	"nerve"	201	19388
+DeliveryMethod	"placed"	65	8647
+Vehicle	"F"	169	15930
+DosageExtracorporal	"OECs"	193	18037
+Cell	"nerve"	202	19720
+DeliveryMethod	"transplanted"	9	1057
+DeliveryMethod	"transplantation"	8	717
+DeliveryMethod	"transplantation"	8	748
+Substance	"penicillin"	90	12099
+Vehicle	"Sigma"	25	3863
+DosageExtracorporal	"200"	118	14614
+DosageExtracorporal	"4"	145	15322
+DosageExtracorporal	"4"	147	15394
+DeliveryMethod	"transplantation"	8	788
+DeliveryMethod	"transplantation"	8	828
+Cell	"spinal"	6	539
+DeliveryMethod	"transplantation"	8	880
+DeliveryMethod	"transplantation"	12	1497
+Vehicle	"culture medium"	64	8556
+DosageExtracorporal	"4"	149	15466
+DosageExtracorporal	"4"	151	15566
+MethylprednisoloneMP	"sodium"	85	11360
+MethylprednisoloneMP	"sodium"	55	7575
+MethylprednisoloneMP	"sodium"	58	7948
+Cell	"spinal"	7	640
+}
+Score [getF1()=0,413, getPrecision()=0,263, getRecall()=0,962, tp=25, fp=70, fn=1, tn=0]
+Score [macroF1=0,413, macroPrecision=0,263, macroRecall=0,962]
+***********************************************************
+
+
+***********************************************************
+|[11/19]======Final Evaluation======_____________N251 Nategh_____________|
+Final State  Model[1,00000] Objective[0,68000] {
+GOLD [7]:
+OlfactoryEnsheathingGliaCell	"OEC"	50	7024
+InjectionDelivery	"injected"	52	7250
+Cell	"Fibroblasts"	51	7165
+SchwannCell	"Schwann cells"	50	7031
+Vehicle	"DMEM"	25	3890
+Caudal	"caudal"	53	7468
+DosageExtracorporal	"5×104 cells of each in 5 μL of DMEM, and for the mixed suspension, a half concentration of each was prepared"	50	7055
+}
+PREDICT [64]:
+InjectionDelivery	"injected"	52	7250
+OlfactoryEnsheathingGliaCell	"OEC"	9	1572
+InjectionDelivery	"injected"	34	4987
+Vehicle	"DMEM"	50	7086
+SurgeryTreatment	"cord"	32	4856
+DosageExtracorporal	"DMEM"	39	5908
+Direction	"dorsal"	32	4833
+DosageExtracorporal	"1"	59	8530
+Cell	"skin"	30	4555
+DosageExtracorporal	"1"	61	8710
+Cell	"nerve"	37	5520
+Cell	"nerve"	39	5786
+Saline	"saline"	34	4967
+Cell	"spinal"	9	1625
+RehabilitativeTraining	"hindlimb"	55	7713
+RehabilitativeTraining	"intensive"	86	10934
+Saline	"solution"	60	8621
+Cell	"spinal"	0	186
+DosageExtracorporal	"3"	58	8356
+Cell	"fibroblast"	40	5942
+Saline	"solution"	34	4974
+Cell	"fibroblast"	43	6221
+Vehicle	"culture"	39	5893
+DosageExtracorporal	"100"	35	5114
+Saline	"solution"	59	8485
+Saline	"solution"	63	8926
+Cell	"cells"	0	218
+DosageExtracorporal	"150"	36	5263
+Cell	"spinal"	2	446
+PhysicalImplantTreatment	"diameter"	56	8029
+Cell	"spinal"	3	671
+DeliveryMethod	"transplantation"	48	6799
+DeliveryMethod	"transplantation"	48	6885
+Vehicle	"100"	29	4432
+DosageExtracorporal	"5"	34	5015
+DosageExtracorporal	"5"	36	5290
+Cell	"spinal"	4	727
+DeliveryMethod	"transplantation"	7	1131
+DeliveryMethod	"inserted"	53	7432
+DeliveryMethod	"transferred"	47	6690
+Cell	"spinal"	4	862
+DeliveryMethod	"transferred"	46	6600
+PhysicalImplantTreatment	"bar"	83	10579
+Cell	"spinal"	7	1279
+DeliveryMethod	"transferred"	34	5042
+DosageExtracorporal	"10"	29	4461
+DeliveryMethod	"placed"	39	5843
+Cell	"cells"	1	300
+DeliveryMethod	"placed"	56	7986
+DeliveryMethod	"placed"	59	8436
+Cell	"cells"	1	318
+DosageExtracorporal	"1"	9	1645
+Cell	"cells"	2	428
+DeliveryMethod	"transplantation"	43	6328
+Cell	"cells"	2	473
+SurgeryTreatment	"site"	4	881
+DeliveryMethod	"transplanted"	3	601
+DeliveryMethod	"transplanted"	7	1326
+DeliveryMethod	"transplantation"	95	12175
+CompoundTreatment	"treatment"	5	933
+CompoundTreatment	"treatment"	55	7936
+CompoundTreatment	"treatment"	88	11168
+Cell	"cells"	3	527
+DeliveryMethod	"transplantation"	1	350
+}
+Score [getF1()=0,680, getPrecision()=0,531, getRecall()=0,944, tp=34, fp=30, fn=2, tn=0]
+Score [macroF1=0,680, macroPrecision=0,531, macroRecall=0,944]
+***********************************************************
+
+
+***********************************************************
+|[12/19]======Final Evaluation======_____________N201 Sasaki 2006_____________|
+Final State  Model[1,00000] Objective[0,41237] {
+GOLD [6]:
+InjectionDelivery	"injected"	31	5526
+DosageExtracorporal	"a total of 1.5 x 10^5 cells transplanted per rat"	32	5886
+Vehicle	"DMEM"	31	5507
+Caudal	"caudal"	32	5692
+OlfactoryEnsheathingGliaCell	"OECs"	31	5490
+Rostral	"rostral"	32	5666
+}
+PREDICT [77]:
+InjectionDelivery	"injected"	31	5526
+OlfactoryEnsheathingGliaCell	"OECs"	4	515
+InjectionDelivery	"injection"	119	17269
+Direction	"lateral"	120	17544
+Direction	"dorsal"	30	5226
+Direction	"dorsal"	6	832
+Direction	"dorsal"	31	5544
+Saline	"saline"	34	6242
+Direction	"dorsal"	31	5453
+SurgeryTreatment	"4"	138	20525
+SurgeryTreatment	"4"	142	21289
+Direction	"midline"	120	17559
+Direction	"dorsal"	119	17228
+Conduit	"channels"	51	8711
+SurgeryTreatment	"4"	103	14748
+SurgeryTreatment	"4"	103	14862
+Vehicle	"DMEM"	27	4685
+SurgeryTreatment	"4"	112	16309
+SurgeryTreatment	"5"	110	15864
+InjectionDelivery	"injections"	32	5621
+SurgeryTreatment	"4"	40	6967
+Saline	"saline"	33	6034
+RehabilitativeTraining	"hind"	57	9545
+RehabilitativeTraining	"hindlimb"	109	15715
+SurgeryTreatment	"spinal"	34	6323
+DosageExtracorporal	"OEC"	136	20188
+Matrix	"albumin"	42	7423
+Cell	"cells"	133	19596
+Vehicle	"DMEM"	31	5507
+DosageExtracorporal	"OEC"	142	21158
+Cell	"nerve"	25	4428
+SurgeryTreatment	"tissue"	127	18754
+DosageExtracorporal	"OEC"	149	22263
+Cell	"dissociated"	25	4514
+DeliveryMethod	"transplantation"	148	21999
+Cell	"cells"	126	18611
+PhysicalImplantTreatment	"bar"	92	13667
+Cell	"cells"	50	8478
+Cell	"spinal"	145	21720
+Cell	"cells"	128	18775
+DeliveryMethod	"transplanted"	78	11877
+DeliveryMethod	"transplanted"	79	11957
+DeliveryMethod	"transplanted"	81	12280
+Vehicle	"Sigma"	35	6518
+DosageExtracorporal	"1"	42	7361
+Cell	"cells"	131	19358
+DeliveryMethod	"transplanted"	84	12680
+Cell	"spinal"	146	21818
+DeliveryMethod	"transplanted"	112	16184
+DeliveryMethod	"transplanted"	117	16965
+DeliveryMethod	"injections"	27	4743
+Vehicle	"100"	28	4909
+DosageExtracorporal	"OEC"	145	21758
+DosageExtracorporal	"which"	122	18009
+Cell	"cells"	142	21273
+DeliveryMethod	"transplantation"	77	11778
+DeliveryMethod	"transplantation"	79	11936
+Caudal	"caudal"	32	5692
+MethylprednisoloneMP	"sodium"	63	10316
+Vehicle	"control"	42	7311
+DosageExtracorporal	"which"	119	17405
+DeliveryMethod	"transplantation"	79	12027
+Rostral	"rostral"	121	17833
+DeliveryMethod	"transplantation"	98	14267
+Rostral	"anterior"	121	17855
+Rostral	"rostral"	32	5666
+Cell	"spinal"	151	22618
+DeliveryMethod	"transplantation"	105	15172
+DeliveryMethod	"transplantation"	149	22267
+DeliveryMethod	"transplantation"	106	15306
+DeliveryMethod	"transplantation"	126	18663
+DeliveryMethod	"transplantation"	142	21162
+DeliveryMethod	"transplantation"	145	21762
+DeliveryMethod	"transplantation"	146	21844
+DeliveryMethod	"transplanted"	62	10021
+DeliveryMethod	"injections"	32	5831
+Substance	"10"	49	8406
+}
+Score [getF1()=0,412, getPrecision()=0,260, getRecall()=1,000, tp=20, fp=57, fn=0, tn=0]
+Score [macroF1=0,412, macroPrecision=0,260, macroRecall=1,000]
+***********************************************************
+
+
+***********************************************************
+|[13/19]======Final Evaluation======_____________N075 Amemori 2010_____________|
+Final State  Model[1,00000] Objective[0,43750] {
+GOLD [15]:
+Direction	"proximal"	69	10339
+Direction	"distal"	69	10361
+Saline	"saline"	69	10300
+InjectionDelivery	"injections"	69	10286
+InjectionDelivery	"injected"	67	9691
+Direction	"proximal"	67	9773
+Direction	"central"	69	10349
+DosageExtracorporal	"10 mg/kg"	70	10417
+Direction	"distal"	67	9795
+DosageExtracorporal	"A total of 3 × 105"	67	9653
+OlfactoryEnsheathingGliaCell	"OEG"	67	9672
+Direction	"central"	67	9783
+InjectionDelivery	"intraperitoneally"	70	10476
+CyclosporineA	"Cyclosporine"	70	10403
+MesenchymalStemCell	"MSC"	67	9683
+}
+PREDICT [99]:
+OlfactoryEnsheathingGliaCell	"OEG"	1	547
+InjectionDelivery	"injected"	39	5809
+Rostral	"cranial"	134	18785
+Caudal	"caudal"	200	28483
+CyclosporineA	"Cyclosporine"	70	10403
+InjectionDelivery	"injected"	67	9691
+Rostral	"cranial"	200	28466
+Caudal	"caudal"	134	18797
+InjectionDelivery	"injections"	69	10286
+DosageExtracorporal	"3 × 105"	67	10040
+Cell	"nasal"	48	7037
+Rostral	"cranial"	192	26654
+Caudal	"caudal"	197	27835
+Caudal	"caudal"	198	28255
+InjectionDelivery	"injection"	6	1069
+Rostral	"cranial"	100	15313
+Cell	"nerve"	53	7844
+Cell	"dissociated"	58	8402
+RehabilitativeTraining	"hindlimb"	111	16542
+RehabilitativeTraining	"hindlimb"	75	11429
+RehabilitativeTraining	"legs"	140	19596
+DosageExtracorporal	"105"	67	9668
+RehabilitativeTraining	"hindlimb"	139	19267
+RehabilitativeTraining	"hind"	140	19591
+Rostral	"cranial"	199	28326
+Cell	"mucosa"	48	6995
+DeliveryMethod	"inserted"	43	6288
+Saline	"saline"	69	10300
+Cell	"spinal"	1	643
+DeliveryMethod	"placed"	82	12179
+Vehicle	"F12"	51	7318
+PhysicalImplantTreatment	"processes"	123	17706
+DeliveryMethod	"implanted"	195	27340
+Caudal	"caudal"	192	26671
+Rostral	"anterior"	65	9470
+Saline	"saline"	157	22126
+Saline	"saline"	39	5823
+Saline	"saline"	43	6348
+Saline	"saline"	116	17184
+PhysicalImplantTreatment	"processes"	184	25782
+Caudal	"caudal"	198	28095
+Rostral	"cranial"	198	28243
+InjectionDelivery	"intraperitoneally"	70	10476
+Cell	"spinal"	18	2272
+DeliveryMethod	"injections"	67	10028
+DeliveryMethod	"injections"	67	10090
+Caudal	"caudal"	197	27960
+Conduit	"channel"	94	14496
+OlfactoryEnsheathingGliaCell	"cell suspension"	67	9861
+Direction	"distal"	69	10361
+Saline	"solution"	92	14323
+Saline	"solution"	93	14412
+Saline	"solution"	94	14532
+Direction	"central"	69	10349
+Direction	"distal"	67	9795
+Direction	"proximal"	67	9773
+Direction	"central"	67	9783
+Direction	"proximal"	69	10339
+SurgeryTreatment	"2"	200	28478
+Direction	"dorsal"	67	9908
+SurgeryTreatment	"between"	166	23313
+DosageExtracorporal	"transplanted"	191	26500
+Rostral	"cranial"	197	27818
+InjectionDelivery	"injection"	200	28612
+Cell	"spinal"	0	120
+Cell	"spinal"	65	9450
+SurgeryTreatment	"T8"	66	9649
+PhysicalImplantTreatment	"0.1"	84	12581
+PhysicalImplantTreatment	"cm"	95	14581
+PhysicalImplantTreatment	"cm"	100	15251
+PhysicalImplantTreatment	"cm"	100	15310
+PhysicalImplantTreatment	"cm"	100	15327
+PhysicalImplantTreatment	"processes"	121	17564
+PhysicalImplantTreatment	"stabilized"	164	23030
+SurgeryTreatment	"cord"	69	10397
+PhysicalImplantTreatment	"processes"	186	26089
+PhysicalImplantTreatment	"cm"	192	26651
+PhysicalImplantTreatment	"cm"	192	26668
+Cell	"spinal"	65	9506
+DeliveryMethod	"placed"	74	11341
+DeliveryMethod	"injections"	144	20051
+PhysicalImplantTreatment	"0.1"	58	8519
+DeliveryMethod	"implanted"	6	1044
+Cell	"spinal"	65	9566
+DeliveryMethod	"transplanted"	38	5721
+DeliveryMethod	"transplanted"	63	9186
+DeliveryMethod	"transplanted"	71	10690
+Matrix	"albumin"	89	13485
+Cell	"cells"	0	74
+DeliveryMethod	"transplanted"	62	8820
+DeliveryMethod	"placed"	139	19376
+DeliveryMethod	"transplanted"	85	12776
+DeliveryMethod	"transplanted"	85	12854
+DeliveryMethod	"transplanted"	88	13257
+Cell	"spinal"	67	9824
+DeliveryMethod	"transplanted"	88	13372
+DosageExtracorporal	"30"	204	29173
+Cell	"spinal"	85	12930
+DeliveryMethod	"transplanted"	110	16442
+}
+Score [getF1()=0,438, getPrecision()=0,283, getRecall()=0,966, tp=28, fp=71, fn=1, tn=0]
+Score [macroF1=0,438, macroPrecision=0,283, macroRecall=0,966]
+***********************************************************
+
+
+***********************************************************
+|[14/19]======Final Evaluation======_____________N190 Pearse 2004_____________|
+Final State  Model[1,00000] Objective[0,21053] {
+GOLD [14]:
+Substance	"IL- 10"	65	11002
+InjectionDelivery	"i.p."	66	11310
+DosageExtracorporal	"2 x 10^6"	72	12144
+SchwannCell	"SCs"	72	12153
+InjectionDelivery	"injected"	72	12249
+OlfactoryEnsheathingGliaCell	"OEG"	72	12189
+DosageExtracorporal	"30 mg/kg body weight"	63	10803
+DosageExtracorporal	"1 x10^6"	72	12165
+RingersSolution	"lactated RingerÕs solution"	66	11225
+InjectionDelivery	"i.v."	66	11257
+DosageExtracorporal	"30 mg/kg"	65	11010
+MethylprednisoloneMP	"MP"	63	10799
+DosageExtracorporal	"1 x10^6"	72	12181
+InjectionDelivery	"intraperitoneally"	65	11143
+}
+PREDICT [99]:
+InjectionDelivery	"injected"	72	12249
+SchwannCell	"SC"	2	688
+Rostral	"rostral"	104	17723
+Caudal	"caudal"	240	35228
+OlfactoryEnsheathingGliaCell	"OEG"	2	734
+InjectionDelivery	"injected"	69	11870
+Caudal	"caudal"	241	35394
+Rostral	"rostrally"	202	29044
+Caudal	"caudally"	202	29058
+InjectionDelivery	"injected"	73	12453
+Rostral	"rostral"	127	20762
+Caudal	"caudal"	188	26896
+Caudal	"caudal"	246	36186
+Rostral	"rostral"	118	19583
+Caudal	"caudal"	230	33543
+Rostral	"rostral"	240	35216
+InjectionDelivery	"injection"	82	13961
+Caudal	"caudally"	244	35893
+Rostral	"rostral"	241	35382
+Caudal	"caudal"	127	20774
+InjectionDelivery	"injections"	75	12665
+Rostral	"rostral"	108	18352
+Caudal	"caudal"	243	35656
+TreadmillTraining	"hindlimb"	263	38958
+TreadmillTraining	"hindlimb"	248	36435
+Rostral	"rostral"	188	26884
+TreadmillTraining	"hindlimb"	264	39013
+DosageExtracorporal	"6"	72	12187
+RehabilitativeTraining	"hind"	197	28180
+RehabilitativeTraining	"hind"	198	28243
+RehabilitativeTraining	"hindlimb"	200	28319
+RehabilitativeTraining	"step"	140	22041
+RehabilitativeTraining	"training"	135	21555
+RehabilitativeTraining	"hind"	139	21885
+RehabilitativeTraining	"hind"	142	22329
+RehabilitativeTraining	"hindlimb"	77	12998
+RehabilitativeTraining	"range"	54	9857
+PhysicalImplantTreatment	"length"	139	21975
+RehabilitativeTraining	"hind"	260	38485
+PhysicalImplantTreatment	"length"	141	22200
+Rostral	"rostral"	172	25105
+InjectionDelivery	"intraperitoneally"	65	11143
+Cell	"cells"	205	29604
+Rostral	"rostral"	232	33847
+SurgeryTreatment	"injury"	57	10120
+Saline	"saline"	61	10511
+SurgeryTreatment	"removed"	34	7715
+Rostral	"rostral"	176	25551
+InjectionDelivery	"SC"	230	33320
+Cell	"nerve"	112	18991
+SurgeryTreatment	"injury"	2	805
+Rostral	"rostral"	123	20168
+Caudal	"caudal"	234	34126
+PhysicalImplantTreatment	"diameter"	80	13684
+PhysicalImplantTreatment	"attached"	80	13701
+PhysicalImplantTreatment	"0.1"	83	14237
+PhysicalImplantTreatment	"0.1"	86	14716
+SurgeryTreatment	"injury"	47	9066
+PhysicalImplantTreatment	"length"	108	18370
+PhysicalImplantTreatment	"cm"	133	21381
+PhysicalImplantTreatment	"cm"	139	21988
+PhysicalImplantTreatment	"length"	144	22538
+SurgeryTreatment	"mm"	52	9648
+PhysicalImplantTreatment	"length"	199	28269
+PhysicalImplantTreatment	"cm"	261	38687
+PhysicalImplantTreatment	"cm"	261	38704
+PhysicalImplantTreatment	"length"	262	38762
+SurgeryTreatment	"injury"	58	10172
+PhysicalImplantTreatment	"diameter"	72	12397
+PhysicalImplantTreatment	"stabilized"	61	10561
+SurgeryTreatment	"mm"	54	9876
+InjectionDelivery	"injected"	80	13535
+SurgeryTreatment	"injury"	65	11185
+Rostral	"rostral"	177	25721
+Caudal	"caudal"	108	18363
+PhysicalImplantTreatment	"processes"	11	2630
+Rostral	"rostrally"	244	35852
+Caudal	"caudal"	80	13575
+Saline	"solution"	84	14430
+InjectionDelivery	"SC"	183	26284
+Cell	"nerve"	3	933
+Rostral	"rostral"	227	33002
+Caudal	"caudal"	176	25585
+SurgeryTreatment	"injury"	66	11335
+Cell	"dissociated"	29	6942
+Saline	"solution"	66	11243
+Cell	"cells"	96	16282
+Cell	"nerve"	33	7454
+DeliveryMethod	"injections"	81	13792
+Cell	"dissociated"	35	7733
+DeliveryMethod	"injections"	74	12496
+Conduit	"parallel"	143	22496
+Conduit	"contains"	165	24128
+Rostral	"rostral"	246	36174
+Caudal	"caudal"	234	34264
+Rostral	"rostral"	243	35722
+DeliveryMethod	"placed"	104	17658
+Cell	"skin"	55	9937
+DeliveryMethod	"placed"	118	19506
+}
+Score [getF1()=0,211, getPrecision()=0,121, getRecall()=0,800, tp=12, fp=87, fn=3, tn=0]
+Score [macroF1=0,211, macroPrecision=0,121, macroRecall=0,800]
+***********************************************************
+
+
+***********************************************************
+|[15/19]======Final Evaluation======_____________N175 L+¦pez-Vales2006 2_____________|
+Final State  Model[1,00000] Objective[0,53846] {
+GOLD [14]:
+InjectionDelivery	"injections"	27	4568
+Rostral	"rostral"	30	4961
+DosageExtracorporal	"5 mg/kg"	31	5327
+DosageExtracorporal	"a total of 180,000 cells"	27	4619
+Caudal	"1mmcaudal"	30	4985
+Substance	"aminoguanidine hemisulfate"	31	5395
+Vehicle	"DMEM"	26	4492
+InjectionDelivery	"intraperitoneal"	31	5441
+Saline	"saline solution"	31	5516
+Substance	"givenNS398"	31	5254
+DosageExtracorporal	"100 mg/kg"	31	5430
+InjectionDelivery	"injections"	26	4466
+InjectionDelivery	"intraperitoneal"	31	5336
+OlfactoryEnsheathingGliaCell	"OECs"	27	4598
+}
+PREDICT [93]:
+InjectionDelivery	"injected"	80	12060
+Rostral	"rostral"	30	4961
+OlfactoryEnsheathingGliaCell	"OEC"	27	4610
+InjectionDelivery	"injected"	28	4681
+Saline	"saline"	44	7345
+Saline	"saline"	80	12074
+Saline	"saline"	11	1103
+Direction	"lateral"	30	5042
+Saline	"saline"	31	5516
+OlfactoryEnsheathingGliaCell	"OEC"	2	469
+InjectionDelivery	"injections"	30	4932
+Direction	"lateral"	88	13483
+Direction	"lateral"	92	14214
+Direction	"dorsal"	92	14197
+Direction	"midline"	30	5062
+Direction	"dorsal"	29	4881
+Direction	"dorsal"	24	3897
+Direction	"dorsal"	26	4169
+Direction	"dorsal"	90	13778
+SurgeryTreatment	"5"	50	8502
+Direction	"dorsal"	87	13147
+Direction	"dorsal"	87	13172
+Direction	"central"	87	13201
+SurgeryTreatment	"5"	50	8536
+Vehicle	"PBS"	42	7111
+SurgeryTreatment	"were"	56	9499
+Saline	"solution"	31	5523
+Saline	"solution"	25	4023
+SurgeryTreatment	"segment"	9	911
+Vehicle	"control"	94	14650
+SurgeryTreatment	"injury"	6	710
+RehabilitativeTraining	"hindlimb"	34	5929
+Saline	"saline"	25	4041
+Saline	"saline"	25	4112
+SurgeryTreatment	"2"	66	10397
+RehabilitativeTraining	"hindlimb"	77	11505
+RehabilitativeTraining	"hindlimb"	79	11852
+DosageExtracorporal	"180,000"	27	4630
+InjectionDelivery	"injection"	30	5025
+SurgeryTreatment	"cord"	29	4922
+Vehicle	"DMEM"	63	10055
+DosageExtracorporal	"Each"	43	7208
+Cell	"skin"	38	6616
+DosageExtracorporal	"1"	45	7793
+Cell	"spinal"	29	4915
+Rostral	"rostral"	42	7151
+Saline	"solution"	23	3703
+Cell	"spinal"	2	487
+SurgeryTreatment	"5"	31	5209
+Cell	"spinal"	4	580
+DosageExtracorporal	"150"	36	6381
+Cell	"spinal"	6	698
+Cell	"spinal"	7	761
+DeliveryMethod	"inserted"	29	4863
+Cell	"cells"	27	4638
+DeliveryMethod	"injections"	26	4466
+DeliveryMethod	"injections"	27	4568
+Vehicle	"15"	78	11688
+DosageExtracorporal	"1.5%"	25	4033
+Cell	"spinal"	9	899
+DeliveryMethod	"transplanted"	80	12042
+PhysicalImplantTreatment	"0.1"	41	6886
+PhysicalImplantTreatment	"0.1"	44	7358
+DeliveryMethod	"placed"	36	6279
+Cell	"spinal"	24	3951
+DeliveryMethod	"transplantation"	31	5192
+SurgeryTreatment	"5"	31	5327
+DosageExtracorporal	"40"	24	3801
+Cell	"spinal"	25	3983
+DeliveryMethod	"transplanted"	24	3728
+Cell	"spinal"	26	4514
+SurgeryTreatment	"previous"	33	5691
+DosageExtracorporal	"3"	26	4478
+Cell	"spinal"	33	5756
+Rostral	"rostral"	50	8524
+SurgeryTreatment	"segment"	42	6991
+SurgeryTreatment	"T8"	42	7000
+Cell	"spinal"	41	6809
+SurgeryTreatment	"removed"	42	7008
+MethylprednisoloneMP	"sodium"	41	6856
+Vehicle	"vehicle"	10	970
+SurgeryTreatment	"photochemical"	24	3937
+DosageExtracorporal	"100"	31	5430
+SurgeryTreatment	"5"	26	4262
+DosageExtracorporal	"7"	33	5828
+Caudal	"caudal"	50	8538
+Cell	"spinal"	47	8005
+Caudal	"1mmcaudal"	30	4985
+SurgeryTreatment	"between"	60	9800
+Cell	"spinal"	48	8183
+SurgeryTreatment	"4"	31	5285
+DosageExtracorporal	"DMEM"	10	979
+Cell	"spinal"	67	10436
+}
+Score [getF1()=0,538, getPrecision()=0,376, getRecall()=0,946, tp=35, fp=58, fn=2, tn=0]
+Score [macroF1=0,538, macroPrecision=0,376, macroRecall=0,946]
+***********************************************************
+
+
+***********************************************************
+|[16/19]======Final Evaluation======_____________N148 Gorrie 2010_____________|
+Final State  Model[1,00000] Objective[0,46316] {
+GOLD [6]:
+Caudal	"caudal"	202	37028
+InjectionDelivery	"injected"	202	36980
+OlfactoryEnsheathingGliaCell	"hOECs"	202	36843
+Rostral	"rostral"	202	36994
+Vehicle	"culture media,"	203	37116
+DosageExtracorporal	"1×106"	202	36837
+}
+PREDICT [73]:
+OlfactoryEnsheathingGliaCell	"OECs"	1	556
+InjectionDelivery	"injection"	32	7038
+InjectionDelivery	"injection"	79	12883
+SurgeryTreatment	"surgery"	70	11464
+Direction	"dorsal"	43	8107
+Direction	"dorsal"	93	14955
+OlfactoryEnsheathingGliaCell	"hOECs"	1	703
+Direction	"dorsal"	40	7766
+Direction	"dorsal"	41	7846
+Vehicle	"control"	101	16726
+SurgeryTreatment	"were"	90	14598
+Direction	"lateral"	97	16183
+Direction	"central"	97	15896
+Direction	"central"	96	15585
+SurgeryTreatment	"injury"	28	6680
+RehabilitativeTraining	"hindlimb"	83	13619
+SurgeryTreatment	"injury"	1	741
+SurgeryTreatment	"injury"	2	848
+SurgeryTreatment	"injury"	80	13170
+PhysicalImplantTreatment	"processes"	104	17304
+Vehicle	"15"	86	14049
+SurgeryTreatment	"surgery"	72	11674
+PhysicalImplantTreatment	"bar"	29	6719
+PhysicalImplantTreatment	"bar"	29	6783
+SurgeryTreatment	"cord"	8	2080
+Cell	"peripheral"	90	14629
+DosageExtracorporal	"cellular"	88	14251
+Cell	"mucosa"	111	18589
+Cell	"peripheral"	36	7339
+SurgeryTreatment	"debris"	34	7231
+Cell	"EGFP"	3	1025
+DeliveryMethod	"transplanted"	41	7869
+Cell	"mucosa"	3	922
+Cell	"spinal"	33	7132
+Vehicle	"control"	56	9499
+DosageExtracorporal	"transplanted"	99	16562
+Cell	"cells"	109	18314
+Cell	"spinal"	37	7475
+DeliveryMethod	"transplanted"	101	16866
+DeliveryMethod	"transplanted"	42	8026
+Vehicle	"rat"	109	18162
+DosageExtracorporal	"transplanted"	7	1619
+DeliveryMethod	"transplanted"	43	8209
+DeliveryMethod	"transplanted"	49	8650
+Rostral	"rostral"	97	16224
+Cell	"spinal"	40	7745
+DeliveryMethod	"transplanted"	54	9308
+DeliveryMethod	"transplanted"	57	9590
+Vehicle	"control"	108	18099
+DosageExtracorporal	"used"	63	10525
+DeliveryMethod	"transplanted"	61	10116
+DosageExtracorporal	"transplanted"	100	16703
+Caudal	"caudal"	106	17621
+DeliveryMethod	"transplanted"	65	10845
+DeliveryMethod	"transplanted"	67	11046
+Vehicle	"control"	110	18487
+Rostral	"rostral"	106	17632
+DosageExtracorporal	"fragments"	105	17420
+Caudal	"caudal"	97	16236
+Cell	"peripheral"	59	9776
+DeliveryMethod	"transplanted"	81	13214
+DeliveryMethod	"transplanted"	38	7571
+DeliveryMethod	"transplantation"	111	18662
+DeliveryMethod	"transplanted"	108	18067
+DeliveryMethod	"transplantation"	47	8422
+DeliveryMethod	"transplanted"	110	18470
+CompoundTreatment	"treatment"	1	715
+DeliveryMethod	"transplanted"	92	14849
+DeliveryMethod	"transplanted"	93	15054
+DeliveryMethod	"transplanted"	94	15158
+DeliveryMethod	"transplanted"	96	15557
+Vehicle	"Sigma"	73	11956
+DosageExtracorporal	"rats"	100	16716
+}
+Score [getF1()=0,463, getPrecision()=0,301, getRecall()=1,000, tp=22, fp=51, fn=0, tn=0]
+Score [macroF1=0,463, macroPrecision=0,301, macroRecall=1,000]
+***********************************************************
+
+
+***********************************************************
+|[17/19]======Final Evaluation======_____________N162 Lebedev 2010_____________|
+Final State  Model[1,00000] Objective[0,58015] {
+GOLD [6]:
+Vehicle	"Hanks medium"	54	6688
+DeliveryMethod	"transplanted"	53	6418
+Rostral	"rostrally"	102	13946
+Caudal	"caudally"	102	13960
+OlfactoryEnsheathingGliaCell	"NSC"	53	6409
+DosageExtracorporal	"750,000 cells in 10 µl Hanks medium"	54	6665
+}
+PREDICT [93]:
+Caudal	"caudally"	102	13960
+InjectionDelivery	"injected"	57	6965
+Rostral	"rostrally"	68	8390
+OlfactoryEnsheathingGliaCell	"cultures"	33	4074
+InjectionDelivery	"injected"	54	6656
+Rostral	"rostrally"	102	13946
+Caudal	"caudally"	81	10319
+Caudal	"caudally"	68	8404
+InjectionDelivery	"injection"	57	7054
+Saline	"saline"	31	3634
+Saline	"solution"	38	4625
+Saline	"saline"	78	10036
+Saline	"saline"	38	4618
+InjectionDelivery	"intraperitoneally"	49	5868
+Cell	"mucosa"	78	9850
+Saline	"saline"	45	5430
+Saline	"saline"	45	5597
+Cell	"spinal"	64	7854
+Caudal	"caudally"	64	7928
+Rostral	"cranial"	53	6487
+RehabilitativeTraining	"hind"	96	12864
+Saline	"saline"	73	9379
+Saline	"saline"	30	3352
+Saline	"saline"	32	3786
+Cell	"dissociated"	40	4823
+DeliveryMethod	"transplantation"	81	10226
+Cell	"spinal"	53	6640
+Rostral	"anterior"	102	14063
+Caudal	"caudally"	64	7915
+Saline	"solution"	55	6820
+Conduit	"channel"	53	6625
+Conduit	"channel"	70	8987
+SurgeryTreatment	"2"	97	13082
+Direction	"lateral"	70	8896
+Direction	"central"	52	6309
+Direction	"central"	53	6581
+SurgeryTreatment	"4"	67	8217
+Direction	"central"	53	6617
+SurgeryTreatment	"5"	66	8111
+PhysicalImplantTreatment	"spine"	50	5990
+Rostral	"anterior"	70	8794
+PhysicalImplantTreatment	"cm"	39	4734
+PhysicalImplantTreatment	"attached"	40	4765
+PhysicalImplantTreatment	"attached"	41	4985
+PhysicalImplantTreatment	"processes"	50	6046
+PhysicalImplantTreatment	"diameter"	51	6156
+PhysicalImplantTreatment	"steel"	56	6880
+PhysicalImplantTreatment	"cm"	64	7888
+PhysicalImplantTreatment	"length"	64	7900
+PhysicalImplantTreatment	"cm"	64	7912
+SurgeryTreatment	"mm"	51	6258
+PhysicalImplantTreatment	"cm"	65	8031
+PhysicalImplantTreatment	"cm"	69	8622
+PhysicalImplantTreatment	"cm"	96	12763
+PhysicalImplantTreatment	"cm"	97	12950
+PhysicalImplantTreatment	"cm"	107	14945
+SurgeryTreatment	"cord"	53	6647
+Cell	"cells"	54	6673
+DeliveryMethod	"transplantation"	111	15832
+DeliveryMethod	"transplantation"	58	7126
+Caudal	"caudal"	65	8079
+DeliveryMethod	"transplantation"	103	14275
+Vehicle	"DMEM"	73	9417
+InjectionDelivery	"intraperitoneally"	64	7726
+Cell	"spinal"	51	6106
+DeliveryMethod	"transplanted"	71	9075
+DeliveryMethod	"transplantation"	89	11283
+DosageExtracorporal	"60"	77	9740
+Cell	"spinal"	52	6329
+DeliveryMethod	"transplantation"	87	10970
+DeliveryMethod	"transplantation"	96	12845
+Cell	"spinal"	74	9462
+DeliveryMethod	"transplantation"	72	9276
+DeliveryMethod	"transplantation"	78	10066
+CompoundTreatment	"treatment"	40	4845
+Cell	"cells"	71	9088
+DeliveryMethod	"transplantation"	98	13124
+DeliveryMethod	"transplantation"	95	12602
+DosageExtracorporal	"weight"	99	13699
+DeliveryMethod	"transferred"	30	3293
+Cell	"fibroblasts"	41	4941
+DeliveryMethod	"transplantation"	78	9806
+DeliveryMethod	"transferred"	39	4715
+Cell	"cells"	41	4979
+DeliveryMethod	"transplanted"	71	9167
+DeliveryMethod	"delivered"	46	5672
+DeliveryMethod	"transplantation"	81	10139
+Vehicle	"control"	90	11745
+DosageExtracorporal	"60"	110	15786
+DosageExtracorporal	"5"	106	14733
+Cell	"nerve"	33	4131
+DeliveryMethod	"transplantation"	46	5717
+DeliveryMethod	"transplantation"	104	14354
+}
+Score [getF1()=0,580, getPrecision()=0,409, getRecall()=1,000, tp=38, fp=55, fn=0, tn=0]
+Score [macroF1=0,580, macroPrecision=0,409, macroRecall=1,000]
+***********************************************************
+
+
+***********************************************************
+|[18/19]======Final Evaluation======_____________N180 Mayeur 2013_____________|
+Final State  Model[1,00000] Objective[0,41935] {
+GOLD [9]:
+InjectionDelivery	"injected"	116	15653
+OlfactoryEnsheathingGliaCell	"OM primary cultures"	65	9867
+OlfactoryEnsheathingGliaCell	"OECs"	67	9960
+Rostral	"rostrally"	117	15815
+DosageExtracorporal	"4 injections (4x1 µl) which contained cellular suspension (100,000 cells/µl)"	118	15876
+InjectionDelivery	"injected"	101	14111
+OlfactoryEnsheathingGliaCell	"OB primary cultures"	58	9059
+Caudal	"caudally"	117	15834
+Vehicle	"DF-10S"	118	15956
+}
+PREDICT [97]:
+Rostral	"rostrally"	117	15815
+InjectionDelivery	"injected"	116	15653
+OlfactoryEnsheathingGliaCell	"OECs"	3	1445
+InjectionDelivery	"injected"	97	13656
+Saline	"solution"	49	8124
+Direction	"dorsal"	111	14952
+Direction	"dorsal"	112	15151
+Direction	"midline"	111	14944
+SurgeryTreatment	"glial"	204	24879
+OlfactoryEnsheathingGliaCell	"OB"	34	6389
+Vehicle	"100"	165	21582
+DosageExtracorporal	"100,000"	118	15935
+InjectionDelivery	"injection"	115	15554
+SurgeryTreatment	"2"	117	15798
+Direction	"midline"	117	15776
+DosageExtracorporal	"Each"	118	15844
+Cell	"mucosa"	105	14372
+DosageExtracorporal	"4x1"	118	15890
+Cell	"male"	43	7522
+DosageExtracorporal	"30"	131	17270
+Cell	"nasal"	59	9132
+Cell	"nasal"	61	9497
+DosageExtracorporal	"1.5%"	164	21362
+RehabilitativeTraining	"manual"	124	16502
+Cell	"spinal"	116	15669
+DeliveryMethod	"transplanted"	115	15579
+Cell	"mucosa"	63	9697
+DosageExtracorporal	"1"	153	19818
+Cell	"spinal"	101	14058
+Vehicle	"15"	38	6744
+DosageExtracorporal	"1"	153	19873
+RehabilitativeTraining	"step"	9	2424
+DosageExtracorporal	"1"	153	19906
+Cell	"cells"	41	7122
+Cell	"spinal"	103	14170
+DeliveryMethod	"placed"	49	8085
+Rostral	"anterior"	62	9597
+Cell	"spinal"	105	14312
+DeliveryMethod	"placed"	132	17339
+DosageExtracorporal	"1"	153	19938
+Cell	"cells"	91	12591
+DeliveryMethod	"injections"	118	15878
+DeliveryMethod	"placed"	225	26566
+Vehicle	"10S"	115	15570
+DosageExtracorporal	"1"	156	20337
+Cell	"spinal"	107	14462
+DeliveryMethod	"placed"	132	17468
+DeliveryMethod	"transplanted"	270	33771
+Cell	"spinal"	109	14635
+DeliveryMethod	"delivered"	117	15724
+DosageExtracorporal	"2"	117	15785
+Cell	"spinal"	111	15064
+DeliveryMethod	"transplanted"	161	20951
+Vehicle	"10S"	69	10319
+DeliveryMethod	"placed"	138	17994
+DeliveryMethod	"transplantation"	177	22557
+DeliveryMethod	"transplantation"	178	22704
+DeliveryMethod	"transplantation"	212	25557
+Vehicle	"culture"	74	10846
+DeliveryMethod	"transplantation"	219	25993
+Cell	"spinal"	113	15174
+DeliveryMethod	"transplantation"	263	32626
+DeliveryMethod	"transplantation"	272	33998
+Cell	"spinal"	114	15363
+DeliveryMethod	"transplantation"	272	34070
+DeliveryMethod	"transplanted"	93	13152
+Vehicle	"20"	95	13454
+DeliveryMethod	"transplantation"	189	23626
+Tissue	"OM"	34	6409
+DeliveryMethod	"transplantation"	197	24249
+DeliveryMethod	"transplantation"	95	13321
+DeliveryMethod	"transplanted"	103	14249
+DeliveryMethod	"transplanted"	105	14393
+Tissue	"OM"	36	6567
+DeliveryMethod	"transplanted"	107	14566
+DeliveryMethod	"transplanted"	109	14741
+DeliveryMethod	"transplanted"	114	15409
+DeliveryMethod	"transplantation"	58	9093
+DeliveryMethod	"transplantation"	65	9901
+Vehicle	"F12"	51	8377
+DeliveryMethod	"transplantation"	72	10676
+Tissue	"OM"	33	6310
+DeliveryMethod	"transplantation"	76	11181
+DeliveryMethod	"transplantation"	78	11244
+DeliveryMethod	"transplantation"	39	6887
+DeliveryMethod	"transplantation"	40	7084
+DeliveryMethod	"transplantation"	41	7250
+Matrix	"matrix"	252	30480
+DeliveryMethod	"transplanted"	36	6595
+DeliveryMethod	"transplanted"	37	6652
+Substance	"10"	182	22886
+Substance	"IL"	260	31769
+DeliveryMethod	"transplanted"	34	6436
+Substance	"streptomycin"	51	8474
+Matrix	"®"	157	20426
+DosageExtracorporal	"which"	139	18195
+DeliveryMethod	"transplanted"	35	6523
+}
+Score [getF1()=0,419, getPrecision()=0,268, getRecall()=0,963, tp=26, fp=71, fn=1, tn=0]
+Score [macroF1=0,419, macroPrecision=0,268, macroRecall=0,963]
+***********************************************************
+
+
+***********************************************************
+|[19/19]======Final Evaluation======_____________N151 Huang 2010_____________|
+Final State  Model[1,00000] Objective[0,50847] {
+GOLD [5]:
+OlfactoryEnsheathingGliaCell	"OMPCs"	60	9107
+OlfactoryEnsheathingGliaCell	"OMPC"	88	13018
+DosageExtracorporal	"each time 1 U/ml, 6µl"	88	13246
+DeliveryMethod	"transplantation"	88	13023
+ChondroitinaseABC	"ChABC"	88	13136
+}
+PREDICT [44]:
+InjectionDelivery	"injected"	25	4049
+OlfactoryEnsheathingGliaCell	"OMPC"	5	1732
+SchwannCell	"cells"	14	3033
+Vehicle	"control"	25	3943
+SurgeryTreatment	"2"	16	3238
+Rostral	"rostral"	20	3503
+SurgeryTreatment	"cord"	6	2047
+RehabilitativeTraining	"step"	7	2111
+ChondroitinaseABC	"Chondroitinase ABC"	1	1045
+TreadmillTraining	"treadmill"	8	2280
+Vehicle	"alone"	25	3959
+SurgeryTreatment	"site"	18	3369
+PhysicalImplantTreatment	"bar"	21	3605
+PhysicalImplantTreatment	"bar"	15	3220
+SurgeryTreatment	"cord"	25	4075
+Cell	"mucosa"	0	100
+Cell	"mucosa"	5	1708
+ChondroitinaseABC	"ChABC"	2	1285
+Cell	"spinal"	20	3570
+DeliveryMethod	"transplantation"	22	3715
+Cell	"cells"	20	3490
+SurgeryTreatment	"site"	20	3593
+ChondroitinaseABC	"chondroitinase"	0	61
+ChondroitinaseABC	"ABC"	0	76
+ChondroitinaseABC	"ChABC"	3	1501
+ChondroitinaseABC	"ChABC"	5	1667
+Cell	"spinal"	22	3677
+CompoundTreatment	"treatment"	3	1507
+CompoundTreatment	"treatment"	17	3317
+ChondroitinaseABC	"ChABC"	1	1065
+CompoundTreatment	"treatment"	25	3973
+Cell	"cells"	11	2531
+Cell	"spinal"	24	3828
+SurgeryTreatment	"cellular"	13	2857
+Cell	"spinal"	17	3291
+Vehicle	"F"	23	3739
+DosageExtracorporal	"7"	13	2810
+Caudal	"caudal"	20	3532
+SurgeryTreatment	"cellular"	11	2463
+DosageExtracorporal	"used"	13	2848
+DosageExtracorporal	"medium"	12	2689
+DeliveryMethod	"transplantation"	0	123
+DosageExtracorporal	"injection"	2	1300
+DeliveryMethod	"transplantation"	5	1738
+}
+Score [getF1()=0,508, getPrecision()=0,341, getRecall()=1,000, tp=15, fp=29, fn=0, tn=0]
+Score [macroF1=0,508, macroPrecision=0,341, macroRecall=1,000]
+***********************************************************
+
+
+Mean Score: Score [getF1()=0,444, getPrecision()=0,289, getRecall()=0,955, tp=466, fp=1144, fn=22, tn=0]
+null
+CRFStatistics [context=Test, getTotalDuration()=3738693]
+genutztes Modell: models/nerla/trained_literal/treatment

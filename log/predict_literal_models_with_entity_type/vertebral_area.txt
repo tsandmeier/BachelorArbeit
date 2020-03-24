@@ -1,0 +1,263 @@
+Initialize systems scope...
+Systems scope successfully initialized!
+Trainiert mit Objective Function, getestet mit ObjectiveFunctionPartialOverlap
+Evaluation Detail: LITERAL
+MaxStepCrit: 50
+Total number of instances loaded: 68
+Instances remain after cardinality filter: 68
+Redistribute instances based on: Shuffle...
+Number of trainings instances: 54
+Number of develop instances: 0
+Number of test instances: 14
+Total number of distributed instances: 68
+PREDICTHIGHRECALL: 1
+***********************************************************
+|[1/14]======Final Evaluation======_____________N031 Sarveazad 2013 25691946_____________|
+Final State  Model[1,00000] Objective[0,00000] {
+GOLD [1]:
+VertebralArea	"T8-T9"	67	11634
+}
+PREDICT [18]:
+T8	"T8"	67	11634
+T9	"T9"	67	11637
+T8	"T8"	110	17556
+T9	"9"	0	1240
+T8	"T8"	5	2081
+T9	"9"	0	402
+T9	"9"	108	17087
+T8	"8"	0	1134
+T9	"9"	260	33084
+T8	"8"	0	383
+T9	"9"	261	33132
+T8	"8"	86	14442
+T9	"9"	110	17559
+T8	"8"	96	15758
+T9	"9"	5	2084
+T8	"8"	114	17920
+T8	"8"	301	35808
+T8	"8"	6	2240
+}
+Score [getF1()=0,000, getPrecision()=0,000, getRecall()=0,000, tp=0, fp=18, fn=1, tn=0]
+Score [macroF1=0,000, macroPrecision=0,000, macroRecall=0,000]
+***********************************************************
+
+
+***********************************************************
+|[2/14]======Final Evaluation======_____________N196 Richter 2005_____________|
+Final State  Model[1,00000] Objective[0,50000] {
+GOLD [2]:
+C4	"fourth"	66	12343
+C3	"third"	66	12333
+}
+PREDICT [2]:
+C5	"segments"	66	12359
+C4	"fourth"	66	12343
+}
+Score [getF1()=0,500, getPrecision()=0,500, getRecall()=0,500, tp=1, fp=1, fn=1, tn=0]
+Score [macroF1=0,500, macroPrecision=0,500, macroRecall=0,500]
+***********************************************************
+
+
+***********************************************************
+|[3/14]======Final Evaluation======_____________N211 Toft 2012_____________|
+Final State  Model[1,00000] Objective[1,00000] {
+GOLD [2]:
+L4	"4"	78	14613
+L3	"L3"	78	14610
+}
+PREDICT [5]:
+L3	"L3"	78	14610
+L4	"L4"	95	17220
+L4	"L4"	153	24976
+L3	"L3"	80	15040
+L4	"L4"	213	32979
+}
+Score [getF1()=1,000, getPrecision()=1,000, getRecall()=1,000, tp=5, fp=0, fn=0, tn=0]
+Score [macroF1=1,000, macroPrecision=1,000, macroRecall=1,000]
+***********************************************************
+
+
+***********************************************************
+|[4/14]======Final Evaluation======_____________N187 Nash 2002_____________|
+Final State  Model[1,00000] Objective[0,50000] {
+GOLD [3]:
+C4	"C4"	52	8422
+VertebralArea	"C2 and C4"	52	8415
+C2	"C2"	52	8415
+}
+PREDICT [1]:
+VertebralArea	"T1"	124	18890
+}
+Score [getF1()=0,500, getPrecision()=1,000, getRecall()=0,333, tp=1, fp=0, fn=2, tn=0]
+Score [macroF1=0,500, macroPrecision=1,000, macroRecall=0,333]
+***********************************************************
+
+
+***********************************************************
+|[5/14]======Final Evaluation======_____________N137 Centenaro 2013_____________|
+Final State  Model[1,00000] Objective[0,00000] {
+GOLD [1]:
+VertebralArea	"T8–T9"	32	7626
+}
+PREDICT [0]:
+}
+Score [getF1()=0,000, getPrecision()=0,000, getRecall()=0,000, tp=0, fp=0, fn=1, tn=0]
+Score [macroF1=0,000, macroPrecision=0,000, macroRecall=0,000]
+***********************************************************
+
+
+***********************************************************
+|[6/14]======Final Evaluation======_____________N115 Ni, Xia et al. 2015_____________|
+Final State  Model[1,00000] Objective[0,00000] {
+GOLD [1]:
+VertebralArea	"T7–T9"	169	25105
+}
+PREDICT [2]:
+T9	"T9"	169	25108
+T7	"T7"	169	25105
+}
+Score [getF1()=0,000, getPrecision()=0,000, getRecall()=0,000, tp=0, fp=2, fn=1, tn=0]
+Score [macroF1=0,000, macroPrecision=0,000, macroRecall=0,000]
+***********************************************************
+
+
+***********************************************************
+|[7/14]======Final Evaluation======_____________N188 Negredo 2008_____________|
+Final State  Model[1,00000] Objective[0,80000] {
+GOLD [3]:
+T9	"T9"	60	13132
+VertebralArea	"T8–T9"	60	13129
+T8	"T8"	60	13129
+}
+PREDICT [2]:
+T8	"T8"	60	13129
+T9	"T9"	60	13132
+}
+Score [getF1()=0,800, getPrecision()=1,000, getRecall()=0,667, tp=2, fp=0, fn=1, tn=0]
+Score [macroF1=0,800, macroPrecision=1,000, macroRecall=0,667]
+***********************************************************
+
+
+***********************************************************
+|[8/14]======Final Evaluation======_____________N019 Xia 2008  18930033_____________|
+Final State  Model[1,00000] Objective[0,00000] {
+GOLD [1]:
+VertebralArea	"T9–T10"	33	4412
+}
+PREDICT [0]:
+}
+Score [getF1()=0,000, getPrecision()=0,000, getRecall()=0,000, tp=0, fp=0, fn=1, tn=0]
+Score [macroF1=0,000, macroPrecision=0,000, macroRecall=0,000]
+***********************************************************
+
+
+***********************************************************
+|[9/14]======Final Evaluation======_____________N225 Xiao 2005_____________|
+Final State  Model[1,00000] Objective[0,50000] {
+GOLD [3]:
+VertebralArea	"C3 and C4 vertebrae"	69	12498
+C4	"C4"	69	12505
+C3	"C3"	69	12498
+}
+PREDICT [1]:
+VertebralArea	"C3 and C4"	69	12498
+}
+Score [getF1()=0,500, getPrecision()=1,000, getRecall()=0,333, tp=1, fp=0, fn=2, tn=0]
+Score [macroF1=0,500, macroPrecision=1,000, macroRecall=0,333]
+***********************************************************
+
+
+***********************************************************
+|[10/14]======Final Evaluation======_____________N048 Garcia-Alias 2015 25666586_____________|
+Final State  Model[1,00000] Objective[0,16667] {
+GOLD [1]:
+VertebralArea	"C4-C5"	51	8047
+}
+PREDICT [11]:
+C4	"C4"	6	1637
+C4	"C4"	51	8047
+C5	"C5"	209	32265
+C4	"C4"	115	17275
+C4	"C4"	138	20033
+C4	"C4"	208	32115
+C5	"C5"	51	8050
+C4	"C4"	112	16797
+C4	"C4"	114	17150
+C5	"segments"	178	26664
+VertebralArea	"C2"	103	15996
+}
+Score [getF1()=0,167, getPrecision()=0,091, getRecall()=1,000, tp=1, fp=10, fn=0, tn=0]
+Score [macroF1=0,167, macroPrecision=0,091, macroRecall=1,000]
+***********************************************************
+
+
+***********************************************************
+|[11/14]======Final Evaluation======_____________N111 Colello, Chow et al. 2016_____________|
+Final State  Model[1,00000] Objective[0,00000] {
+GOLD [1]:
+VertebralArea	"thoracic level 9/10."	192	26100
+}
+PREDICT [2]:
+T8	"T8"	265	37047
+T9	"T9"	198	26956
+}
+Score [getF1()=0,000, getPrecision()=0,000, getRecall()=0,000, tp=0, fp=2, fn=1, tn=0]
+Score [macroF1=0,000, macroPrecision=0,000, macroRecall=0,000]
+***********************************************************
+
+
+***********************************************************
+|[12/14]======Final Evaluation======_____________N133 Bretzner 2008_____________|
+Final State  Model[1,00000] Objective[0,00000] {
+GOLD [1]:
+VertebralArea	"fourth and fifth cervical segments."	41	9207
+}
+PREDICT [4]:
+C5	"fifth cervical segments"	41	9218
+C4	"fourth"	41	9207
+C4	"C4"	119	21235
+C5	"C5"	119	21238
+}
+Score [getF1()=0,000, getPrecision()=0,000, getRecall()=0,000, tp=0, fp=4, fn=1, tn=0]
+Score [macroF1=0,000, macroPrecision=0,000, macroRecall=0,000]
+***********************************************************
+
+
+***********************************************************
+|[13/14]======Final Evaluation======_____________N197 Rochkind 2006_____________|
+Final State  Model[1,00000] Objective[0,80000] {
+GOLD [3]:
+T7	"T7"	69	10522
+T8	"T8"	69	10525
+VertebralArea	"T7–T8"	69	10522
+}
+PREDICT [2]:
+T8	"T8"	69	10525
+T7	"T7"	69	10522
+}
+Score [getF1()=0,800, getPrecision()=1,000, getRecall()=0,667, tp=2, fp=0, fn=1, tn=0]
+Score [macroF1=0,800, macroPrecision=1,000, macroRecall=0,667]
+***********************************************************
+
+
+***********************************************************
+|[14/14]======Final Evaluation======_____________N249 Khankan_____________|
+Final State  Model[1,00000] Objective[0,40000] {
+GOLD [3]:
+VertebralArea	"T9‚ÄìT10"	70	12285
+T10	"ÄìT10"	70	12288
+T9	"T9"	70	12285
+}
+PREDICT [2]:
+VertebralArea	"T8 and T9"	68	12031
+T6	"T6"	68	11950
+}
+Score [getF1()=0,400, getPrecision()=0,500, getRecall()=0,333, tp=1, fp=1, fn=2, tn=0]
+Score [macroF1=0,400, macroPrecision=0,500, macroRecall=0,333]
+***********************************************************
+
+
+Mean Score: Score [getF1()=0,346, getPrecision()=0,269, getRecall()=0,483, tp=14, fp=38, fn=15, tn=0]
+null
+CRFStatistics [context=Test, getTotalDuration()=1884]
+genutztes Modell: models/nerla/trained_literal/vertebral_area

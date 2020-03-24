@@ -1,0 +1,1128 @@
+Initialize systems scope...
+No normalization function for literal entity type "Weight" was specified. Set default to "IdentityNormalization"
+No normalization function for literal entity type "Age" was specified. Set default to "IdentityNormalization"
+Systems scope successfully initialized!
+Trainiert mit Objective Function, getestet mit ObjectiveFunctionPartialOverlap
+Evaluation Detail: LITERAL
+MaxStepCrit: 50
+Total number of instances loaded: 200
+Instances remain after cardinality filter: 200
+Redistribute instances based on: Shuffle...
+Number of trainings instances: 160
+Number of develop instances: 0
+Number of test instances: 40
+Total number of distributed instances: 200
+PREDICTHIGHRECALL: 1
+***********************************************************
+|[1/40]======Final Evaluation======_____________N051 Bai, Peng et al. 2010_____________|
+Final State  Model[1,00000] Objective[0,00000] {
+GOLD [4]:
+WistarRat	"Wistar rats"	31	5951
+Adult	"Adult"	31	5924
+Female	"female"	31	5930
+Weight	"220‚àº240 g"	31	5938
+}
+PREDICT [0]:
+}
+Score [getF1()=0,000, getPrecision()=0,000, getRecall()=0,000, tp=0, fp=0, fn=4, tn=0]
+Score [macroF1=0,000, macroPrecision=0,000, macroRecall=0,000]
+***********************************************************
+
+
+***********************************************************
+|[2/40]======Final Evaluation======_____________N183 Moreno-Flores 2006_____________|
+Final State  Model[1,00000] Objective[0,23077] {
+GOLD [3]:
+Adult	"adult"	214	32786
+Male	"male"	214	32792
+WistarRat	"Wistar rats"	214	32797
+}
+PREDICT [23]:
+Male	"male"	214	32792
+MouseSpecies	"protein"	140	19593
+MouseSpecies	"protein"	53	7660
+MouseSpecies	"under"	7	1182
+MouseSpecies	"green"	82	10702
+MouseSpecies	"green"	56	8248
+MouseSpecies	"under"	214	32873
+Age	"3"	246	38911
+MouseSpecies	"under"	214	32915
+MouseSpecies	"expressing"	111	15119
+MouseSpecies	"green"	77	10147
+MouseSpecies	"expressing"	112	15236
+MouseSpecies	"green"	36	5849
+Age	"2"	232	36426
+MouseSpecies	"green"	52	7532
+MouseSpecies	"green"	53	7625
+MouseSpecies	"green"	55	7919
+Age	"10"	148	20870
+Age	"2"	153	21791
+Age	"2"	118	16005
+Adult	"adult"	214	32786
+WistarRat	"Wistar rats"	214	32797
+FischerRat	"rats"	68	9466
+}
+Score [getF1()=0,231, getPrecision()=0,130, getRecall()=1,000, tp=3, fp=20, fn=0, tn=0]
+Score [macroF1=0,231, macroPrecision=0,130, macroRecall=1,000]
+***********************************************************
+
+
+***********************************************************
+|[3/40]======Final Evaluation======_____________N021 Yang 2009 19761692_____________|
+Final State  Model[1,00000] Objective[0,00000] {
+GOLD [4]:
+Weight	"180 - 250 g"	12	4994
+SpragueDawleyRat	"Sprague-Dawley rats"	12	4964
+Gender	"male and female"	12	4948
+Adult	"Adult"	12	4942
+}
+PREDICT [0]:
+}
+Score [getF1()=0,000, getPrecision()=0,000, getRecall()=0,000, tp=0, fp=0, fn=4, tn=0]
+Score [macroF1=0,000, macroPrecision=0,000, macroRecall=0,000]
+***********************************************************
+
+
+***********************************************************
+|[4/40]======Final Evaluation======_____________N170 Liu 2010_____________|
+Final State  Model[1,00000] Objective[0,40000] {
+GOLD [4]:
+SpragueDawleyRat	"Sprague Dawley rats"	20	4149
+Adult	"adult"	20	4143
+Weight	"250–280 g"	20	4170
+Mixed	"male and female"	20	4187
+}
+PREDICT [1]:
+Adult	"adult"	5	1263
+}
+Score [getF1()=0,400, getPrecision()=1,000, getRecall()=0,250, tp=1, fp=0, fn=3, tn=0]
+Score [macroF1=0,400, macroPrecision=1,000, macroRecall=0,250]
+***********************************************************
+
+
+***********************************************************
+|[5/40]======Final Evaluation======_____________N019 Xia 2008  18930033_____________|
+Final State  Model[1,00000] Objective[0,75000] {
+GOLD [4]:
+Weight	"250–300 g"	30	4081
+Adult	"Adult"	30	4038
+SpragueDawleyRat	"Sprague– Dawley rats"	30	4051
+Female	"female"	30	4044
+}
+PREDICT [4]:
+Adult	"Adult"	30	4038
+Female	"female"	30	4044
+SpragueDawleyRat	"Sprague"	30	4051
+WistarRat	"rats"	44	5767
+}
+Score [getF1()=0,750, getPrecision()=0,750, getRecall()=0,750, tp=3, fp=1, fn=1, tn=0]
+Score [macroF1=0,750, macroPrecision=0,750, macroRecall=0,750]
+***********************************************************
+
+
+***********************************************************
+|[6/40]======Final Evaluation======_____________N094 Mondello, S.E.a  c  d, Jefferson, S.C.a  c  d et al. 2015_____________|
+Final State  Model[1,00000] Objective[0,50000] {
+GOLD [3]:
+CatSpecies	"catswere"	39	8215
+Female	"females"	39	8267
+Adult	"adult"	39	8260
+}
+PREDICT [1]:
+Adult	"adult"	4	1124
+}
+Score [getF1()=0,500, getPrecision()=1,000, getRecall()=0,333, tp=1, fp=0, fn=2, tn=0]
+Score [macroF1=0,500, macroPrecision=1,000, macroRecall=0,333]
+***********************************************************
+
+
+***********************************************************
+|[7/40]======Final Evaluation======_____________N237 dePaul_____________|
+Final State  Model[1,00000] Objective[0,36364] {
+GOLD [4]:
+Female	"female"	290	39330
+SpragueDawleyRat	"Sprague-Dawley rats"	290	39337
+Weight	"225–250 g"	290	39358
+Adult	"Adult"	290	39324
+}
+PREDICT [17]:
+SpragueDawleyRat	"Sprague-Dawley rats"	290	39337
+Adult	"Adult"	290	39324
+Female	"female"	290	39330
+SpragueDawleyRat	"Sprague-Dawley rats"	277	37859
+RatSpecies	"strain"	314	41950
+RatSpecies	"strain"	324	43492
+MouseSpecies	"enhanced"	1	388
+MouseSpecies	"NG2"	10	2447
+MouseSpecies	"expressing"	209	26188
+MouseSpecies	"fluorescent"	339	46032
+MouseSpecies	"under"	299	40523
+MouseSpecies	"fluorescent"	336	45725
+MouseSpecies	"under"	339	46055
+MouseSpecies	"under"	341	46300
+Age	"10"	335	45340
+Age	"10"	335	45547
+Age	"10"	302	40869
+}
+Score [getF1()=0,364, getPrecision()=0,235, getRecall()=0,800, tp=4, fp=13, fn=1, tn=0]
+Score [macroF1=0,364, macroPrecision=0,235, macroRecall=0,800]
+***********************************************************
+
+
+***********************************************************
+|[8/40]======Final Evaluation======_____________N197 Rochkind 2006_____________|
+Final State  Model[1,00000] Objective[0,33333] {
+GOLD [3]:
+Weight	"250 g"	61	9754
+Age	"3-months old"	61	9712
+SpragueDawleyRat	"Sprague-Dawly rats"	61	9692
+}
+PREDICT [3]:
+Adult	"adult"	1	309
+DogSpecies	"dogs"	170	26837
+SpragueDawleyRat	"Sprague-Dawly rats"	61	9692
+}
+Score [getF1()=0,333, getPrecision()=0,333, getRecall()=0,333, tp=1, fp=2, fn=2, tn=0]
+Score [macroF1=0,333, macroPrecision=0,333, macroRecall=0,333]
+***********************************************************
+
+
+***********************************************************
+|[9/40]======Final Evaluation======_____________N106 Xiong_____________|
+Final State  Model[1,00000] Objective[0,75000] {
+GOLD [4]:
+Adult	"Adult"	36	7474
+Weight	"200±20 g"	36	7502
+Female	"female"	36	7480
+RatSpecies	"rats"	36	7487
+}
+PREDICT [4]:
+Female	"female"	36	7480
+Adult	"Adult"	36	7474
+LongEvansRat	"Long"	25	5897
+RatSpecies	"rat"	0	161
+}
+Score [getF1()=0,750, getPrecision()=0,750, getRecall()=0,750, tp=3, fp=1, fn=1, tn=0]
+Score [macroF1=0,750, macroPrecision=0,750, macroRecall=0,750]
+***********************************************************
+
+
+***********************************************************
+|[10/40]======Final Evaluation======_____________N234 Zhang 2016_____________|
+Final State  Model[1,00000] Objective[0,60000] {
+GOLD [4]:
+SpragueDawleyRat	"SD rats"	45	7421
+Weight	"200–250 g"	45	7430
+Female	"female"	45	7414
+Adult	"Adult"	45	7408
+}
+PREDICT [6]:
+SpragueDawleyRat	"SD rats"	45	7421
+Female	"female"	45	7414
+Adult	"Adult"	45	7408
+MouseSpecies	"fluorescent"	28	5083
+Age	"5"	69	11081
+MouseSpecies	"green"	28	5077
+}
+Score [getF1()=0,600, getPrecision()=0,500, getRecall()=0,750, tp=3, fp=3, fn=1, tn=0]
+Score [macroF1=0,600, macroPrecision=0,500, macroRecall=0,750]
+***********************************************************
+
+
+***********************************************************
+|[11/40]======Final Evaluation======_____________N053 Caggiano, Zimber et al. 2005_____________|
+Final State  Model[1,00000] Objective[1,00000] {
+GOLD [2]:
+LongEvansRat	"Long-Evans rats"	8	859
+Female	"female"	8	852
+}
+PREDICT [2]:
+Female	"female"	8	852
+LongEvansRat	"Long-Evans rats"	8	859
+}
+Score [getF1()=1,000, getPrecision()=1,000, getRecall()=1,000, tp=2, fp=0, fn=0, tn=0]
+Score [macroF1=1,000, macroPrecision=1,000, macroRecall=1,000]
+***********************************************************
+
+
+***********************************************************
+|[12/40]======Final Evaluation======_____________N215 Verdu 2001_____________|
+Final State  Model[1,00000] Objective[0,66667] {
+GOLD [4]:
+Weight	"250-300 g"	23	4151
+Female	"female"	23	4123
+Adult	"adult"	6	1340
+SpragueDawleyRat	"Sprague±Dawley rats"	23	4130
+}
+PREDICT [2]:
+SpragueDawleyRat	"female"	23	4123
+Adult	"adult"	7	1466
+}
+Score [getF1()=0,667, getPrecision()=1,000, getRecall()=0,500, tp=2, fp=0, fn=2, tn=0]
+Score [macroF1=0,667, macroPrecision=1,000, macroRecall=0,500]
+***********************************************************
+
+
+***********************************************************
+|[13/40]======Final Evaluation======_____________N238 Janzedeh_____________|
+Final State  Model[1,00000] Objective[0,45455] {
+GOLD [3]:
+WistarRat	"Wistar rats"	30	5857
+Male	"male"	30	5852
+Weight	"150–170 g"	30	5870
+}
+PREDICT [16]:
+WistarRat	"Wistar rats"	30	5857
+Male	"male"	2	509
+Adult	"adult"	0	98
+Male	"male"	30	5852
+Male	"male"	0	104
+MouseSpecies	"protein"	140	18075
+MouseSpecies	"protein"	141	18179
+MouseSpecies	"protein"	128	17344
+MouseSpecies	"protein"	141	18134
+MouseSpecies	"under"	34	6290
+MouseSpecies	"green"	58	9493
+MouseSpecies	"protein"	128	17389
+Age	"2"	149	18625
+Age	"2"	149	18646
+WistarRat	"Wistar rats"	2	514
+Age	"120"	74	11712
+}
+Score [getF1()=0,455, getPrecision()=0,312, getRecall()=0,833, tp=5, fp=11, fn=1, tn=0]
+Score [macroF1=0,455, macroPrecision=0,312, macroRecall=0,833]
+***********************************************************
+
+
+***********************************************************
+|[14/40]======Final Evaluation======_____________N049 Wang 2011 21299884_____________|
+Final State  Model[1,00000] Objective[0,00000] {
+GOLD [4]:
+Weight	"250 g ± 30"	39	7679
+Adult	"adult"	39	7652
+Female	"Female"	39	7645
+SpragueDawleyRat	"Sprague-Dawley rats"	39	7658
+}
+PREDICT [0]:
+}
+Score [getF1()=0,000, getPrecision()=0,000, getRecall()=0,000, tp=0, fp=0, fn=4, tn=0]
+Score [macroF1=0,000, macroPrecision=0,000, macroRecall=0,000]
+***********************************************************
+
+
+***********************************************************
+|[15/40]======Final Evaluation======_____________N224 Wu 2015_____________|
+Final State  Model[1,00000] Objective[0,35294] {
+GOLD [4]:
+Adult	"Adult"	38	6655
+WistarRat	"Wistar rats"	38	6668
+Weight	"250–300 g"	38	6690
+Female	"female"	38	6661
+}
+PREDICT [27]:
+Female	"female"	54	9152
+WistarRat	"Wistar rats"	38	6668
+Adult	"adult"	1	544
+SpragueDawleyRat	"Sprague Dawley rats"	54	9165
+Female	"female"	38	6661
+WistarRat	"Wistar rats"	40	7182
+SpragueDawleyRat	"Sprague Dawley rats"	66	10816
+Female	"female"	40	7175
+LongEvansRat	"rats"	45	8178
+Gender	"female"	66	10801
+Gender	"female"	45	8171
+LongEvansRat	"rats"	86	13519
+LongEvansRat	"rats"	56	9445
+RatSpecies	"rat"	122	19261
+LongEvansRat	"rats"	67	10922
+LongEvansRat	"rats"	84	12904
+RatSpecies	"rat"	123	19404
+LongEvansRat	"rats"	84	12983
+FischerRat	"rats"	98	15583
+LongEvansRat	"rats"	96	15257
+LongEvansRat	"rats"	97	15342
+LongEvansRat	"rats"	109	17257
+RatSpecies	"rat"	47	8407
+LongEvansRat	"rats"	168	24623
+LongEvansRat	"rats"	40	7282
+LongEvansRat	"rats"	1	550
+LongEvansRat	"rats"	133	20661
+}
+Score [getF1()=0,353, getPrecision()=0,222, getRecall()=0,857, tp=6, fp=21, fn=1, tn=0]
+Score [macroF1=0,353, macroPrecision=0,222, macroRecall=0,857]
+***********************************************************
+
+
+***********************************************************
+|[16/40]======Final Evaluation======_____________N013 CaffertyCafferty_____________|
+Final State  Model[1,00000] Objective[0,22727] {
+GOLD [3]:
+Male	"male"	35	7006
+WistarRat	"Wistar rats"	35	7011
+Adult	"adult"	35	7000
+}
+PREDICT [39]:
+Male	"male"	73	11879
+MouseSpecies	"protein"	56	10104
+MouseSpecies	"promoter"	281	47915
+MouseSpecies	"green"	349	59566
+MouseSpecies	"protein"	255	43470
+MouseSpecies	"enhanced"	296	50464
+MouseSpecies	"protein"	107	16188
+MouseSpecies	"protein"	255	43140
+Age	"13"	265	45507
+MouseSpecies	"protein"	47	8826
+MouseSpecies	"under"	143	21640
+MouseSpecies	"under"	172	27290
+MouseSpecies	"protein"	47	8745
+Age	"14"	264	45305
+MouseSpecies	"protein"	54	9889
+MouseSpecies	"green"	200	33269
+MouseSpecies	"under"	41	7823
+MouseSpecies	"green"	109	16633
+MouseSpecies	"green"	206	34133
+MouseSpecies	"green"	213	35412
+Age	"9"	265	45658
+MouseSpecies	"protein"	354	60164
+MouseSpecies	"under"	350	59645
+MouseSpecies	"under"	363	61510
+MouseSpecies	"green"	356	60530
+MouseSpecies	"protein"	351	59896
+MouseSpecies	"green"	352	59973
+MouseSpecies	"green"	353	60048
+MouseSpecies	"mice"	303	51514
+Age	"8"	265	45650
+Age	"3"	265	45403
+Adult	"adult"	255	43566
+Age	"3"	265	45499
+Age	"2"	286	48730
+Adult	"adult"	132	20019
+Adult	"adult"	73	11873
+WistarRat	"Wistar rats"	73	11884
+RatSpecies	"rat"	293	49983
+RatSpecies	"rat"	365	61860
+}
+Score [getF1()=0,227, getPrecision()=0,128, getRecall()=1,000, tp=5, fp=34, fn=0, tn=0]
+Score [macroF1=0,227, macroPrecision=0,128, macroRecall=1,000]
+***********************************************************
+
+
+***********************************************************
+|[17/40]======Final Evaluation======_____________N046 Imagama 2011 22114278_____________|
+Final State  Model[1,00000] Objective[0,28571] {
+GOLD [4]:
+Adult	"Adult"	52	7771
+SpragueDawleyRat	"Sprague Dawley rats"	52	7784
+Weight	"200 -230 g"	52	7813
+Female	"female"	52	7777
+}
+PREDICT [29]:
+Female	"female"	52	7777
+SpragueDawleyRat	"Sprague Dawley rats"	52	7784
+SpragueDawleyRat	"Sprague Dawley rats"	162	21927
+MouseSpecies	"protein"	2	1400
+MouseSpecies	"protein"	10	2278
+MouseSpecies	"enhanced"	7	1845
+Age	"5"	289	33111
+MouseSpecies	"under"	123	16706
+MouseSpecies	"under"	178	23803
+Age	"5"	302	33843
+MouseSpecies	"under"	61	9389
+MouseSpecies	"expressing"	218	27656
+MouseSpecies	"under"	56	8512
+MouseSpecies	"protein"	388	46071
+MouseSpecies	"protein"	314	34617
+MouseSpecies	"protein"	387	45956
+MouseSpecies	"enhanced"	354	41033
+MouseSpecies	"protein"	372	43998
+MouseSpecies	"protein"	389	46284
+Age	"5"	355	41263
+MouseSpecies	"protein"	184	24339
+MouseSpecies	"protein"	189	25082
+Age	"5"	115	15483
+Adult	"adult"	0	1242
+Adult	"Adult"	52	7771
+RatSpecies	"rat"	278	32565
+Age	"10"	53	7958
+RatSpecies	"rat"	352	40719
+RatSpecies	"rat"	295	33383
+}
+Score [getF1()=0,286, getPrecision()=0,172, getRecall()=0,833, tp=5, fp=24, fn=1, tn=0]
+Score [macroF1=0,286, macroPrecision=0,172, macroRecall=0,833]
+***********************************************************
+
+
+***********************************************************
+|[18/40]======Final Evaluation======_____________N240 Pakulska_____________|
+Final State  Model[1,00000] Objective[0,50000] {
+GOLD [3]:
+Weight	"200-250 g"	57	9653
+SpragueDawleyRat	"Sprague Dawley rats"	57	9632
+Female	"female"	57	9625
+}
+PREDICT [4]:
+SpragueDawleyRat	"Sprague Dawley rats"	45	7861
+Gender	"female"	45	7854
+Gender	"female"	57	9625
+SpragueDawleyRat	"Sprague Dawley rats"	57	9632
+}
+Score [getF1()=0,500, getPrecision()=0,500, getRecall()=0,500, tp=2, fp=2, fn=2, tn=0]
+Score [macroF1=0,500, macroPrecision=0,500, macroRecall=0,500]
+***********************************************************
+
+
+***********************************************************
+|[19/40]======Final Evaluation======_____________N161 Lang 2013_____________|
+Final State  Model[1,00000] Objective[0,00000] {
+GOLD [3]:
+Weight	"180–220 g"	106	15640
+SpragueDawleyRat	"Sprague–Dawley rats"	106	15611
+Adult	"Adult"	106	15605
+}
+PREDICT [27]:
+MouseSpecies	"transgenic mice"	110	16473
+MouseSpecies	"transgenic mice"	155	22288
+MouseSpecies	"fluorescent"	160	23307
+MouseSpecies	"fluorescent"	131	19061
+MouseSpecies	"GFP"	110	16441
+MouseSpecies	"GFP"	155	22284
+MouseSpecies	"fluorescent"	110	16452
+MouseSpecies	"fluorescent"	131	19166
+MouseSpecies	"fluorescent"	157	22817
+MouseSpecies	"under"	134	19644
+MouseSpecies	"under"	131	19160
+MouseSpecies	"protein"	110	16464
+MouseSpecies	"green"	110	16446
+MouseSpecies	"under"	157	22811
+MouseSpecies	"fluorescent"	161	23466
+MouseSpecies	"protein"	178	25652
+MouseSpecies	"under"	161	23460
+MouseSpecies	"expressing"	182	26273
+MouseSpecies	"green"	160	23380
+Age	"days"	119	17466
+MouseSpecies	"protein"	177	25525
+Age	"days"	136	19958
+Age	"day"	175	25316
+Age	"5"	126	18384
+Age	"days"	143	20738
+Age	"day"	137	20029
+Age	"5"	136	19911
+}
+Score [getF1()=0,000, getPrecision()=0,000, getRecall()=0,000, tp=0, fp=27, fn=3, tn=0]
+Score [macroF1=0,000, macroPrecision=0,000, macroRecall=0,000]
+***********************************************************
+
+
+***********************************************************
+|[20/40]======Final Evaluation======_____________N177 Luo 2013_____________|
+Final State  Model[1,00000] Objective[0,57143] {
+GOLD [5]:
+Age	"90 to 120 days"	25	5321
+Female	"female"	25	5255
+Weight	"180–250 g"	25	5290
+SpragueDawleyRat	"Sprague-Dawleyrats"	25	5262
+Adult	"adult"	25	5249
+}
+PREDICT [2]:
+SpragueDawleyRat	"female"	25	5255
+Adult	"adult"	25	5249
+}
+Score [getF1()=0,571, getPrecision()=1,000, getRecall()=0,400, tp=2, fp=0, fn=3, tn=0]
+Score [macroF1=0,571, macroPrecision=1,000, macroRecall=0,400]
+***********************************************************
+
+
+***********************************************************
+|[21/40]======Final Evaluation======_____________N204 Steward 2006_____________|
+Final State  Model[1,00000] Objective[0,32000] {
+GOLD [5]:
+Female	"female"	34	8302
+Age	"5 months old"	36	8591
+Weight	"250 g"	34	8380
+Age	"4 months old"	37	8650
+SpragueDawleyRat	"Sprague–Dawley rats"	34	8309
+}
+PREDICT [18]:
+Female	"female"	34	8302
+SpragueDawleyRat	"Sprague–Dawley rats"	34	8309
+Adult	"Adult"	2	979
+Female	"female"	75	13516
+Gender	"female"	2	985
+SpragueDawleyRat	"Sprague–Dawley rats"	75	13523
+RatSpecies	"rat"	225	29857
+Adult	"Adult"	75	13504
+WistarRat	"rats"	0	138
+LongEvansRat	"rats"	122	20314
+RatSpecies	"rat"	242	32248
+RatSpecies	"rat"	248	33028
+RatSpecies	"rat"	281	38202
+FischerRat	"rats"	107	18051
+LongEvansRat	"rats"	119	19875
+LongEvansRat	"rats"	61	11681
+LongEvansRat	"rats"	103	17403
+LongEvansRat	"rats"	104	17472
+}
+Score [getF1()=0,320, getPrecision()=0,222, getRecall()=0,571, tp=4, fp=14, fn=3, tn=0]
+Score [macroF1=0,320, macroPrecision=0,222, macroRecall=0,571]
+***********************************************************
+
+
+***********************************************************
+|[22/40]======Final Evaluation======_____________N156 Kalincik 2010 2_____________|
+Final State  Model[1,00000] Objective[0,48980] {
+GOLD [4]:
+Age	"11–14 weeks"	29	5754
+WistarRat	"Australian Albino Wistar rats"	29	5639
+Weight	"350– 400 g"	29	5779
+Male	"male"	29	5634
+}
+PREDICT [36]:
+Male	"male"	29	5634
+MouseSpecies	"GFP"	136	23080
+MouseSpecies	"GFP"	112	19130
+MouseSpecies	"GFP"	81	13869
+MouseSpecies	"GFP"	136	23115
+MouseSpecies	"fluorescent"	37	7030
+MouseSpecies	"GFP"	42	8044
+MouseSpecies	"GFP"	64	10964
+MouseSpecies	"GFP"	67	11411
+Age	"11"	188	29593
+MouseSpecies	"GFP"	39	7471
+MouseSpecies	"GFP"	108	18594
+MouseSpecies	"protein"	37	7042
+MouseSpecies	"protein"	110	18788
+Age	"11"	189	29725
+MouseSpecies	"GFP"	37	7051
+MouseSpecies	"GFP"	112	19291
+MouseSpecies	"GFP"	119	20448
+MouseSpecies	"protein"	69	11699
+Age	"11"	195	30457
+MouseSpecies	"green"	37	7024
+MouseSpecies	"expressing"	37	7013
+MouseSpecies	"fluorescent"	120	20586
+Age	"11"	197	30934
+MouseSpecies	"fluorescent"	136	23162
+MouseSpecies	"green"	175	27626
+Age	"11"	199	31252
+MouseSpecies	"GFP"	108	18657
+Age	"days"	218	33550
+MouseSpecies	"GFP"	204	31918
+Age	"3"	102	16974
+Age	"5"	89	15074
+Age	"2"	106	18304
+WistarRat	"Wistar rats"	29	5657
+Age	"3"	54	9281
+FischerRat	"rats"	59	9777
+}
+Score [getF1()=0,490, getPrecision()=0,333, getRecall()=0,923, tp=12, fp=24, fn=1, tn=0]
+Score [macroF1=0,490, macroPrecision=0,333, macroRecall=0,923]
+***********************************************************
+
+
+***********************************************************
+|[23/40]======Final Evaluation======_____________N195 Resnick 2003_____________|
+Final State  Model[1,00000] Objective[0,83333] {
+GOLD [4]:
+LongEvansRat	"Long Evans rats"	26	3897
+Male	"male"	26	3892
+Weight	"275–325 g"	26	3914
+Adult	"adult"	26	3886
+}
+PREDICT [6]:
+Adult	"adult"	26	3886
+Male	"male"	26	3892
+LongEvansRat	"Long Evans rats"	26	3897
+LongEvansRat	"Evans"	38	5295
+LongEvansRat	"Long"	38	5290
+MouseSpecies	"under"	39	5423
+}
+Score [getF1()=0,833, getPrecision()=0,833, getRecall()=0,833, tp=5, fp=1, fn=1, tn=0]
+Score [macroF1=0,833, macroPrecision=0,833, macroRecall=0,833]
+***********************************************************
+
+
+***********************************************************
+|[24/40]======Final Evaluation======_____________N206 Takeoka 2009_____________|
+Final State  Model[1,00000] Objective[0,66667] {
+GOLD [3]:
+WistarRat	"Wistar Hannover rats"	40	7997
+Female	"Female"	40	7990
+Age	"10–12 weeks old"	40	8019
+}
+PREDICT [5]:
+Female	"Female"	40	7990
+WistarRat	"Wistar Hannover rats"	39	7745
+Adult	"adult"	4	673
+WistarRat	"Wistar Hannover rats"	40	7997
+RatSpecies	"rat"	81	14917
+}
+Score [getF1()=0,667, getPrecision()=0,600, getRecall()=0,750, tp=3, fp=2, fn=1, tn=0]
+Score [macroF1=0,667, macroPrecision=0,600, macroRecall=0,750]
+***********************************************************
+
+
+***********************************************************
+|[25/40]======Final Evaluation======_____________N230 Zhang 2011 2_____________|
+Final State  Model[1,00000] Objective[0,66667] {
+GOLD [4]:
+Weight	"200-220 g"	32	5934
+Female	"female"	32	5904
+LongEvansRat	"Long-Evans rats"	32	5911
+Adult	"Adult"	32	5897
+}
+PREDICT [2]:
+Female	"female"	41	7285
+LongEvansRat	"Long-Evans rats"	41	7292
+}
+Score [getF1()=0,667, getPrecision()=1,000, getRecall()=0,500, tp=2, fp=0, fn=2, tn=0]
+Score [macroF1=0,667, macroPrecision=1,000, macroRecall=0,500]
+***********************************************************
+
+
+***********************************************************
+|[26/40]======Final Evaluation======_____________N009 Lee 2013 23804083_____________|
+Final State  Model[1,00000] Objective[0,75000] {
+GOLD [4]:
+Weight	"225-250 g"	36	6382
+Adult	"adult"	36	6348
+SpragueDawleyRat	"Sprague Dawley rats"	36	6361
+Female	"female"	36	6354
+}
+PREDICT [4]:
+SpragueDawleyRat	"Sprague Dawley rats"	36	6361
+Adult	"adult"	3	1232
+Female	"female"	36	6354
+Age	"3 months"	286	37876
+}
+Score [getF1()=0,750, getPrecision()=0,750, getRecall()=0,750, tp=3, fp=1, fn=1, tn=0]
+Score [macroF1=0,750, macroPrecision=0,750, macroRecall=0,750]
+***********************************************************
+
+
+***********************************************************
+|[27/40]======Final Evaluation======_____________N216 Verdu 2003_____________|
+Final State  Model[1,00000] Objective[0,85714] {
+GOLD [4]:
+Adult	"adult"	48	8381
+SpragueDawleyRat	"Sprague-Dawley rats"	48	8394
+Female	"female"	48	8387
+Weight	"250–300 g"	48	8415
+}
+PREDICT [3]:
+SpragueDawleyRat	"Sprague-Dawley rats"	48	8394
+Female	"female"	48	8387
+Adult	"adult"	48	8381
+}
+Score [getF1()=0,857, getPrecision()=1,000, getRecall()=0,750, tp=3, fp=0, fn=1, tn=0]
+Score [macroF1=0,857, macroPrecision=1,000, macroRecall=0,750]
+***********************************************************
+
+
+***********************************************************
+|[28/40]======Final Evaluation======_____________N111 Colello, Chow et al. 2016_____________|
+Final State  Model[1,00000] Objective[0,61538] {
+GOLD [3]:
+SpragueDawleyRat	"Sprague– Dawley rats"	192	26016
+Female	"female"	192	26009
+Adult	"Adult"	192	26003
+}
+PREDICT [9]:
+Adult	"Adult"	192	26003
+Female	"female"	192	26009
+SpragueDawleyRat	"Sprague–Dawley rats"	113	16489
+Adult	"Adult"	261	36443
+WistarRat	"rats"	192	26032
+RatSpecies	"rat"	146	20465
+RatSpecies	"rat"	183	24930
+RatSpecies	"rat"	270	37644
+RatSpecies	"rat"	308	42241
+}
+Score [getF1()=0,615, getPrecision()=0,444, getRecall()=1,000, tp=4, fp=5, fn=0, tn=0]
+Score [macroF1=0,615, macroPrecision=0,444, macroRecall=1,000]
+***********************************************************
+
+
+***********************************************************
+|[29/40]======Final Evaluation======_____________N064 Mountney, Zahner et al. 2013_____________|
+Final State  Model[1,00000] Objective[0,22222] {
+GOLD [3]:
+SpragueDawleyRat	"Sprague–Dawley rats"	42	5830
+Female	"Female"	42	5823
+Weight	"250–275 g"	42	5851
+}
+PREDICT [15]:
+Female	"Female"	42	5823
+SpragueDawleyRat	"Sprague–Dawley rats"	42	5830
+LongEvansRat	"Evans"	109	16495
+MouseSpecies	"enhanced"	18	2043
+MouseSpecies	"fluorescent"	99	15342
+MouseSpecies	"enhanced"	171	23946
+MouseSpecies	"enhanced"	177	24966
+MouseSpecies	"enhanced"	191	27796
+MouseSpecies	"enhanced"	198	29024
+MouseSpecies	"enhanced"	199	29244
+MouseSpecies	"under"	75	11206
+Age	"7"	94	14679
+MouseSpecies	"under"	86	13151
+Age	"5"	162	22385
+Age	"5"	83	12591
+}
+Score [getF1()=0,222, getPrecision()=0,133, getRecall()=0,667, tp=2, fp=13, fn=1, tn=0]
+Score [macroF1=0,222, macroPrecision=0,133, macroRecall=0,667]
+***********************************************************
+
+
+***********************************************************
+|[30/40]======Final Evaluation======_____________N203 Stamegna 2011_____________|
+Final State  Model[1,00000] Objective[0,40000] {
+GOLD [4]:
+Adult	"adult"	38	6388
+Female	"Female"	38	6381
+Weight	"250 g"	38	6424
+SpragueDawleyRat	"Sprague Dawley rats"	38	6394
+}
+PREDICT [15]:
+Female	"Female"	38	6381
+Adult	"adult"	32	5332
+Male	"male"	32	5305
+SpragueDawleyRat	"Sprague Dawley rats"	38	6394
+WistarRat	"inbred"	39	6542
+FischerRat	"inbred"	32	5310
+MouseSpecies	"under"	92	14482
+MouseSpecies	"under"	189	27921
+MouseSpecies	"under"	45	7693
+MouseSpecies	"under"	83	12964
+Age	"3"	46	7903
+Adult	"adult"	38	6388
+RatSpecies	"rat"	63	9747
+RatSpecies	"rat"	159	22508
+RatSpecies	"rat"	173	25113
+}
+Score [getF1()=0,400, getPrecision()=0,267, getRecall()=0,800, tp=4, fp=11, fn=1, tn=0]
+Score [macroF1=0,400, macroPrecision=0,267, macroRecall=0,800]
+***********************************************************
+
+
+***********************************************************
+|[31/40]======Final Evaluation======_____________N017 Karimi-Abdolrezaee 2012  22629425_____________|
+Final State  Model[1,00000] Objective[0,85714] {
+GOLD [4]:
+Adult	"adult"	30	6474
+Weight	"250 g"	30	6500
+Female	"female"	30	6480
+WistarRat	"Wistar rats"	30	6487
+}
+PREDICT [3]:
+WistarRat	"Wistar rats"	30	6487
+Female	"female"	30	6480
+Adult	"adult"	30	6474
+}
+Score [getF1()=0,857, getPrecision()=1,000, getRecall()=0,750, tp=3, fp=0, fn=1, tn=0]
+Score [macroF1=0,857, macroPrecision=1,000, macroRecall=0,750]
+***********************************************************
+
+
+***********************************************************
+|[32/40]======Final Evaluation======_____________N095 Tester,2008_____________|
+Final State  Model[1,00000] Objective[0,80000] {
+GOLD [3]:
+Female	"females"	45	8331
+CatSpecies	"cats"	45	8295
+Adult	"adult"	45	8324
+}
+PREDICT [2]:
+Adult	"adult"	4	825
+Female	"females"	45	8331
+}
+Score [getF1()=0,800, getPrecision()=1,000, getRecall()=0,667, tp=2, fp=0, fn=1, tn=0]
+Score [macroF1=0,800, macroPrecision=1,000, macroRecall=0,667]
+***********************************************************
+
+
+***********************************************************
+|[33/40]======Final Evaluation======_____________N133 Bretzner 2008_____________|
+Final State  Model[1,00000] Objective[0,15385] {
+GOLD [4]:
+Adult	"adult"	40	8720
+Male	"male"	40	8726
+Weight	"(300–400 g)"	40	8751
+SpragueDawleyRat	"Sprague–Dawley"	40	8731
+}
+PREDICT [35]:
+SpragueDawleyRat	"Sprague–Dawley rats"	40	8731
+Male	"male"	40	8726
+MouseSpecies	"transgenic mice"	24	5449
+MouseSpecies	"promoter"	24	5526
+MouseSpecies	"GFP"	145	23801
+MouseSpecies	"GFP"	120	21344
+MouseSpecies	"GFP"	24	5501
+MouseSpecies	"enhanced"	9	2141
+MouseSpecies	"under"	31	7324
+MouseSpecies	"under"	24	5505
+MouseSpecies	"protein"	29	6860
+MouseSpecies	"fluorescent"	129	22400
+MouseSpecies	"expressing"	24	5490
+Age	"70"	41	9019
+MouseSpecies	"protein"	88	16713
+MouseSpecies	"protein"	129	22412
+MouseSpecies	"GFP"	129	22421
+MouseSpecies	"under"	56	11548
+MouseSpecies	"under"	69	13286
+MouseSpecies	"expressing"	120	21333
+MouseSpecies	"green"	129	22429
+MouseSpecies	"protein"	129	22360
+MouseSpecies	"green"	129	22394
+Age	"70"	78	14497
+MouseSpecies	"fluorescent"	145	23812
+MouseSpecies	"protein"	145	23824
+MouseSpecies	"green"	145	23806
+MouseSpecies	"enhanced"	207	34291
+Age	"10"	78	14578
+Age	"10"	40	8806
+Age	"10"	41	9100
+Age	"postnatal"	24	5433
+Adult	"adult"	40	8720
+Age	"120"	35	8035
+Age	"14"	36	8137
+}
+Score [getF1()=0,154, getPrecision()=0,086, getRecall()=0,750, tp=3, fp=32, fn=1, tn=0]
+Score [macroF1=0,154, macroPrecision=0,086, macroRecall=0,750]
+***********************************************************
+
+
+***********************************************************
+|[34/40]======Final Evaluation======_____________N050 Alilain, Horn et al. 2011_____________|
+Final State  Model[1,00000] Objective[0,40000] {
+GOLD [4]:
+Adult	"Adult"	123	25527
+Weight	"240-300 g"	123	25579
+Female	"female"	123	25533
+SpragueDawleyRat	"Sprague Dawley rats"	123	25540
+}
+PREDICT [11]:
+SpragueDawleyRat	"Sprague Dawley rats"	123	25540
+Adult	"Adult"	123	25527
+Female	"female"	123	25533
+MouseSpecies	"green"	18	3517
+MouseSpecies	"green"	19	3593
+MouseSpecies	"under"	117	24600
+Age	"7"	123	25663
+MouseSpecies	"green"	24	3964
+Age	"5"	143	28260
+MouseSpecies	"fluorescent"	182	33853
+MouseSpecies	"enhanced"	339	40127
+}
+Score [getF1()=0,400, getPrecision()=0,273, getRecall()=0,750, tp=3, fp=8, fn=1, tn=0]
+Score [macroF1=0,400, macroPrecision=0,273, macroRecall=0,750]
+***********************************************************
+
+
+***********************************************************
+|[35/40]======Final Evaluation======_____________N092 Cote, Hanna et al. 2010_____________|
+Final State  Model[1,00000] Objective[0,57143] {
+GOLD [4]:
+Weight	"2.5–3.5 kg"	29	6002
+CatSpecies	"cats"	29	5975
+Adult	"adult"	29	5962
+Female	"female"	29	5968
+}
+PREDICT [3]:
+Adult	"Adult"	4	836
+Female	"female"	4	842
+SpragueDawleyRat	"female"	29	5968
+}
+Score [getF1()=0,571, getPrecision()=0,667, getRecall()=0,500, tp=2, fp=1, fn=2, tn=0]
+Score [macroF1=0,571, macroPrecision=0,667, macroRecall=0,500]
+***********************************************************
+
+
+***********************************************************
+|[36/40]======Final Evaluation======_____________N138 Chuah 2004_____________|
+Final State  Model[1,00000] Objective[0,66667] {
+GOLD [3]:
+WistarRat	"rats"	55	8119
+Weight	"270–380 g"	55	8133
+Adult	"Adult"	55	8113
+}
+PREDICT [3]:
+Adult	"Adult"	55	8113
+WistarRat	"Wistar rats"	33	5198
+ListerHoodedRat	"hooded"	33	5191
+}
+Score [getF1()=0,667, getPrecision()=0,667, getRecall()=0,667, tp=2, fp=1, fn=1, tn=0]
+Score [macroF1=0,667, macroPrecision=0,667, macroRecall=0,667]
+***********************************************************
+
+
+***********************************************************
+|[37/40]======Final Evaluation======_____________N200 Sasaki 2004_____________|
+Final State  Model[1,00000] Objective[0,14118] {
+GOLD [4]:
+Weight	"150–179 gm"	43	8310
+SpragueDawleyRat	"Sprague Dawley rats"	43	8289
+Adult	"Adult"	43	8276
+Female	"female"	43	8282
+}
+PREDICT [78]:
+SpragueDawleyRat	"Sprague Dawley rats"	43	8289
+Female	"female"	43	8282
+MouseSpecies	"transgenic"	2	538
+MouseSpecies	"transgenic"	27	5213
+MouseSpecies	"GFP"	237	34665
+MouseSpecies	"GFP"	239	34870
+MouseSpecies	"GFP"	226	32812
+MouseSpecies	"GFP"	27	5240
+MouseSpecies	"fluorescent"	2	591
+MouseSpecies	"GFP"	128	16737
+MouseSpecies	"GFP"	156	20716
+MouseSpecies	"protein"	2	603
+MouseSpecies	"GFP"	2	612
+MouseSpecies	"green"	27	5246
+MouseSpecies	"expressing"	27	5229
+MouseSpecies	"green"	2	585
+MouseSpecies	"expressing"	2	574
+MouseSpecies	"GFP"	114	15937
+MouseSpecies	"GFP"	99	14700
+MouseSpecies	"GFP"	126	16655
+Age	"5"	146	18969
+MouseSpecies	"GFP"	66	11078
+MouseSpecies	"GFP"	97	14528
+MouseSpecies	"green"	115	16020
+MouseSpecies	"protein"	57	9925
+MouseSpecies	"GFP"	126	16664
+Age	"2"	149	19536
+MouseSpecies	"GFP"	131	17052
+MouseSpecies	"GFP"	129	16879
+MouseSpecies	"GFP"	130	16995
+MouseSpecies	"GFP"	128	16799
+MouseSpecies	"GFP"	174	23353
+MouseSpecies	"GFP"	219	31275
+MouseSpecies	"GFP"	189	25409
+MouseSpecies	"GFP"	209	29117
+MouseSpecies	"GFP"	172	22992
+MouseSpecies	"GFP"	180	24284
+MouseSpecies	"GFP"	189	25391
+MouseSpecies	"GFP"	190	25539
+MouseSpecies	"GFP"	212	29687
+MouseSpecies	"GFP"	171	22797
+MouseSpecies	"protein"	224	32561
+MouseSpecies	"GFP"	179	24074
+MouseSpecies	"GFP"	183	24709
+MouseSpecies	"GFP"	184	24730
+MouseSpecies	"GFP"	185	24830
+MouseSpecies	"GFP"	186	24921
+MouseSpecies	"GFP"	187	25040
+MouseSpecies	"GFP"	173	23103
+MouseSpecies	"green"	160	21266
+MouseSpecies	"GFP"	221	31852
+MouseSpecies	"green"	158	21047
+MouseSpecies	"GFP"	180	24293
+MouseSpecies	"GFP"	212	29818
+MouseSpecies	"under"	248	36391
+MouseSpecies	"enhanced"	248	36488
+Age	"7"	91	14014
+Age	"5"	85	13440
+Age	"12"	30	5754
+Age	"age"	227	33064
+Age	"week-old"	27	5204
+Age	"3"	154	20218
+Age	"7"	36	7012
+Age	"9"	200	27177
+Age	"7"	155	20478
+Age	"day"	217	30971
+Age	"5"	249	36642
+Age	"5"	199	27088
+Age	"90"	43	8364
+Adult	"adult"	49	9069
+Adult	"adult"	8	1387
+Adult	"Adult"	10	1578
+Adult	"adult"	2	532
+RatSpecies	"rat"	52	9534
+RatSpecies	"rat"	27	5252
+FischerRat	"rats"	146	18963
+WistarRat	"rats"	27	5224
+FischerRat	"rats"	198	26959
+}
+Score [getF1()=0,141, getPrecision()=0,077, getRecall()=0,857, tp=6, fp=72, fn=1, tn=0]
+Score [macroF1=0,141, macroPrecision=0,077, macroRecall=0,857]
+***********************************************************
+
+
+***********************************************************
+|[38/40]======Final Evaluation======_____________N007 Ishikawa 2015_____________|
+Final State  Model[1,00000] Objective[0,75000] {
+GOLD [4]:
+Adult	"Adult"	44	6144
+SpragueDawleyRat	"Sprague-Dawley rats"	44	6157
+Female	"female"	44	6150
+Weight	"200-230 g"	44	6186
+}
+PREDICT [4]:
+Adult	"Adult"	44	6144
+Female	"female"	44	6150
+SpragueDawleyRat	"Sprague-Dawley rats"	44	6157
+RatSpecies	"rat"	87	11025
+}
+Score [getF1()=0,750, getPrecision()=0,750, getRecall()=0,750, tp=3, fp=1, fn=1, tn=0]
+Score [macroF1=0,750, macroPrecision=0,750, macroRecall=0,750]
+***********************************************************
+
+
+***********************************************************
+|[39/40]======Final Evaluation======_____________N201 Sasaki 2006_____________|
+Final State  Model[1,00000] Objective[0,33333] {
+GOLD [4]:
+SpragueDawleyRat	"Sprague-Dawley (SD) rats"	30	5270
+Weight	"150-179 g"	30	5305
+Adult	"adult"	30	5257
+Female	"female"	30	5263
+}
+PREDICT [14]:
+Adult	"adult"	30	5257
+Female	"female"	30	5263
+SpragueDawleyRat	"Sprague-Dawley"	30	5270
+MouseSpecies	"transgenic"	24	4305
+MouseSpecies	"GFP"	24	4332
+Age	"12"	35	6414
+MouseSpecies	"expressing"	24	4321
+MouseSpecies	"GFP"	85	12787
+Age	"12"	40	6872
+MouseSpecies	"expressing"	85	12791
+MouseSpecies	"green"	112	16261
+MouseSpecies	"green"	83	12459
+MouseSpecies	"green"	81	12299
+WistarRat	"rats"	30	5290
+}
+Score [getF1()=0,333, getPrecision()=0,214, getRecall()=0,750, tp=3, fp=11, fn=1, tn=0]
+Score [macroF1=0,333, macroPrecision=0,214, macroRecall=0,750]
+***********************************************************
+
+
+***********************************************************
+|[40/40]======Final Evaluation======_____________N026 Garcia-Alias 2009 19668200_____________|
+Final State  Model[1,00000] Objective[0,33333] {
+GOLD [3]:
+Weight	"250-300 g"	30	4542
+ListerHoodedRat	"Lister Hooded rats"	30	4522
+Male	"Male"	30	4517
+}
+PREDICT [9]:
+ListerHoodedRat	"Lister Hooded rats"	30	4522
+Male	"Male"	30	4517
+Age	"3 months"	11	1472
+MouseSpecies	"enhanced"	6	758
+MouseSpecies	"protein"	157	21473
+MouseSpecies	"enhanced"	13	1743
+MouseSpecies	"under"	73	11217
+MouseSpecies	"protein"	87	13221
+Age	"3"	34	5292
+}
+Score [getF1()=0,333, getPrecision()=0,222, getRecall()=0,667, tp=2, fp=7, fn=1, tn=0]
+Score [macroF1=0,333, macroPrecision=0,222, macroRecall=0,667]
+***********************************************************
+
+
+Mean Score: Score [getF1()=0,361, getPrecision()=0,247, getRecall()=0,669, tp=119, fp=363, fn=59, tn=0]
+null
+CRFStatistics [context=Test, getTotalDuration()=96293]
+genutztes Modell: models/nerla/trained_literal/organism_model

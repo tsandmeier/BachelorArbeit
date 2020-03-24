@@ -1,0 +1,2017 @@
+Initialize systems scope...
+No normalization function for literal entity type "Duration" was specified. Set default to "IdentityNormalization"
+No normalization function for literal entity type "Depth" was specified. Set default to "IdentityNormalization"
+No normalization function for literal entity type "Distance" was specified. Set default to "IdentityNormalization"
+Systems scope successfully initialized!
+Trainiert mit Objective Function, getestet mit ObjectiveFunctionPartialOverlap
+Evaluation Detail: LITERAL
+MaxStepCrit: 50
+Total number of instances loaded: 91
+Instances remain after cardinality filter: 91
+Redistribute instances based on: Shuffle...
+Number of trainings instances: 73
+Number of develop instances: 0
+Number of test instances: 18
+Total number of distributed instances: 91
+PREDICTHIGHRECALL: 1
+***********************************************************
+|[1/18]======Final Evaluation======_____________N228 Yazdani 2012_____________|
+Final State  Model[1,00000] Objective[0,15385] {
+GOLD [9]:
+CystVolumeTest	"cavitation area"	166	21317
+AxonalChangesTest	"number of NF-immunoreactive (IR) axons"	169	21734
+AxonalChangesTest	"number of NF-IR positive axons"	170	21891
+CystVolumeTest	"percentage of cavitaion"	167	21446
+MortalityObservation	"mortality"	160	20389
+BBBTest	"BBB score"	152	19255
+BBBTest	"BBB score"	157	20010
+InvestigationMethod	"health status"	162	20827
+GroomingObservation	"hygiene"	162	20815
+}
+PREDICT [93]:
+BBBTest	"BBB score"	4	1123
+CystVolumeTest	"cavity formation"	125	16330
+BodyWeightExamination	"rats"	155	19683
+ThermalHyperalgesiaTest	"withdrawal"	72	11210
+TissueSparingTest	"spinal"	83	12667
+InclinedPlaneTest	"ability"	43	7456
+AstrogliosisTest	"number"	169	21734
+ThermalHyperalgesiaTest	"time"	46	7867
+TissueSparingTest	"percentage"	124	16253
+InclinedPlaneTest	"performance"	5	1377
+SomatosensoryEvokedPotentialsTest	"three"	123	16206
+InclinedPlaneTest	"angle"	70	11049
+AxonalRegenerationTest	"positive"	164	21113
+AstrogliosisTest	"area"	89	13442
+ThermalHyperalgesiaTest	"time"	80	12153
+SomatosensoryEvokedPotentialsTest	"three"	110	15393
+InclinedPlaneTest	"test"	81	12365
+TissueSparingTest	"percentage"	165	21230
+ThermalHyperalgesiaTest	"injury"	91	13688
+AxonalRegenerationTest	"total"	92	13750
+AstrogliosisTest	"cells"	145	18198
+ThermalHyperalgesiaTest	"injury"	2	891
+InclinedPlaneTest	"values"	95	14496
+AxonalRegenerationTest	"total"	91	13591
+ThermalHyperalgesiaTest	"injury"	3	947
+HistologicalInvestigationTest	"capacity"	171	22065
+AstrogliosisTest	"staining"	44	7619
+LesionVolumeTest	"cavities"	90	13543
+ThermalHyperalgesiaTest	"injury"	10	2047
+NeuroprotectionTest	"cavity"	3	1080
+HistologicalInvestigationTest	"number"	170	21891
+NeuroprotectionTest	"cavity"	124	16293
+LesionVolumeTest	"percentage"	167	21446
+AstrogliosisTest	"area"	124	16267
+NeuroprotectionTest	"cell"	98	14581
+LadderRungTest	"45"	70	11061
+LadderRungTest	"locomotor"	5	1367
+TissueSparingTest	"cord"	83	12674
+NeuroprotectionTest	"labeled"	119	15875
+HistologicalInvestigationTest	"cells"	147	18460
+ImagingTest	"cord"	2	923
+NeuroprotectionTest	"neuronal"	148	18768
+AstrogliosisTest	"staining"	88	13428
+TissueSparingTest	"cord"	84	12787
+LadderRungTest	"ability"	171	22129
+LadderRungTest	"locomotor"	78	11864
+InflammationTest	"1"	91	13725
+LadderRungTest	"locomotor"	156	19853
+ImagingTest	"cord"	59	9832
+HistologicalInvestigationTest	"cells"	51	8512
+NeuroprotectionTest	"cell"	137	17239
+HistologicalInvestigationTest	"alone"	63	10049
+NeuroprotectionTest	"cavity"	123	16182
+AstrogliosisTest	"measured"	91	13633
+HistologicalInvestigationTest	"positive"	132	16791
+AxonalChangesTest	"NF-positive"	130	16637
+NeuroprotectionTest	"tissue"	119	15917
+AxonalChangesTest	"injury"	150	19033
+NeuronalChangesTest	"cell"	160	20402
+LadderRungTest	"test"	95	14406
+LadderRungTest	"test"	95	14444
+ImagingTest	"cord"	91	13740
+ImagingTest	"cord"	0	137
+HistologicalInvestigationTest	"cells"	54	8798
+ImagingTest	"nerve"	29	5472
+NeuroprotectionTest	"area"	131	16750
+AxonalChangesTest	"–"	150	19072
+ImagingTest	"cord"	6	1559
+ImagingTest	"cord"	9	2003
+ImagingTest	"cord"	10	2042
+NeuronalChangesTest	"5"	161	20707
+AxonalChangesTest	"–"	155	19829
+ImagingTest	"cord"	1	763
+NeuronalChangesTest	"NF-positive"	131	16721
+ImagingTest	"spinal"	9	1996
+AstrogliosisTest	"were"	85	12900
+AxonalChangesTest	"injury"	151	19181
+LadderRungTest	"locomotor"	158	20118
+ImagingTest	"nerve"	28	5223
+ThermalHyperalgesiaTest	"injury"	1	768
+ProteinLevelAnalysis	"2"	103	14922
+ImagingTest	"spinal"	2	916
+HistologicalInvestigationTest	"tissue"	4	1266
+NeuronalChangesTest	"cell"	146	18307
+NeuronalChangesTest	"axons"	170	21916
+AxonalChangesTest	"axonal density"	168	21704
+ImagingTest	"spinal"	0	130
+ImagingTest	"spinal"	1	756
+HistologicalInvestigationTest	"changes"	54	8826
+NeuronalChangesTest	"axons"	169	21767
+NeuronalChangesTest	"cells"	77	11642
+NeuronalChangesTest	"between"	126	16421
+TissueSparingTest	"tissue"	120	16044
+}
+Score [getF1()=0,154, getPrecision()=0,086, getRecall()=0,727, tp=8, fp=85, fn=3, tn=0]
+Score [macroF1=0,154, macroPrecision=0,086, macroRecall=0,727]
+***********************************************************
+
+
+***********************************************************
+|[2/18]======Final Evaluation======_____________N232 Zhang 2012_____________|
+Final State  Model[1,00000] Objective[0,81928] {
+GOLD [7]:
+NeuronalChangesTest	"number of labeled neurons"	122	21154
+WalkingAnalysisTest	"kinematic analysis"	100	16415
+BBBTest	"BBB scores"	81	13707
+BBBTest	"BBB scores"	84	14346
+NeuronalChangesTest	"number of labeled neurons"	121	20944
+MyelinationTest	"counts of P0-positive myelin sheaths"	115	19808
+NeuronalChangesTest	"FBlabeled neurons"	123	21288
+}
+PREDICT [97]:
+BBBTest	"BBB scores"	85	14513
+HistologicalInvestigationTest	"repaired tissue"	109	18589
+BBBTest	"BBB scores"	79	13223
+NeuronalChangesTest	"number of labeled neurons"	122	21154
+TissueSparingTest	"spared tissue"	64	11755
+AxonalRegenerationTest	"FB-labeled neurons"	75	12650
+TissueSparingTest	"spared tissue"	50	10030
+AstrogliosisTest	"area"	65	11831
+NeuroprotectionTest	"labeled neurons"	120	20714
+ThermalHyperalgesiaTest	"plantar"	44	9252
+InflammationTest	"labeled"	121	20954
+LadderRungTest	"stepping"	44	9260
+TissueSparingTest	"area"	49	9890
+ThermalHyperalgesiaTest	"stimulation"	0	23
+AstrogliosisTest	"GFAP"	105	17571
+LadderRungTest	"cross"	60	11273
+NeuroprotectionTest	"labeled neurons"	71	12368
+HistologicalInvestigationTest	"repaired tissue"	112	19513
+NeuronalChangesTest	"FBlabeled neurons"	123	21288
+LadderRungTest	"cross"	53	10311
+TissueSparingTest	"spared tissue"	60	11201
+NeuronalChangesTest	"size"	108	18400
+NeuronalChangesTest	"size"	111	19204
+AxonalChangesTest	"positive"	50	9986
+NeuronalChangesTest	"5"	111	19255
+AxonalChangesTest	"injury"	43	8965
+NeuronalChangesTest	"numbers"	125	21812
+NeuronalChangesTest	"5"	52	10244
+NeuronalChangesTest	"between"	117	20078
+TissueSparingTest	"tissue"	55	10570
+NeuronalChangesTest	"primary"	105	17552
+AxonalChangesTest	"1"	75	12884
+NeuronalChangesTest	"between"	117	20045
+NeuronalChangesTest	"between"	81	13871
+AxonalChangesTest	"NF"	105	17603
+AxonalChangesTest	"1"	81	13989
+NeuronalChangesTest	"between"	107	18003
+NeuronalChangesTest	"5"	116	19917
+AxonalChangesTest	"1"	85	14632
+NeuronalChangesTest	"survived"	118	20419
+NeuronalChangesTest	"between"	122	21200
+AxonalChangesTest	"1"	87	14991
+NeuronalChangesTest	"between"	120	20753
+NeuronalChangesTest	"5"	122	21116
+TissueSparingTest	"area"	110	18895
+NeuronalChangesTest	"axons"	114	19797
+NeuronalChangesTest	"fibers"	114	19639
+WalkingAnalysisTest	"scores"	125	21742
+WalkingAnalysisTest	"stance"	94	15744
+WalkingAnalysisTest	"weight"	95	15991
+WalkingAnalysisTest	"plantar"	95	16003
+WalkingAnalysisTest	"kinematic analysis"	100	16415
+WalkingAnalysisTest	"0"	35	8067
+WalkingAnalysisTest	"scores"	35	7951
+WalkingAnalysisTest	"locomotion"	37	8321
+NeuronalChangesTest	"axons"	114	19671
+WalkingAnalysisTest	"horizontal"	40	8660
+WalkingAnalysisTest	"weight"	44	9186
+WalkingAnalysisTest	"posture"	45	9292
+WalkingAnalysisTest	"kinematic analysis"	88	15007
+WalkingAnalysisTest	"plantar"	88	15128
+WalkingAnalysisTest	"weight"	94	15734
+WalkingAnalysisTest	"Mean"	68	12181
+WalkingAnalysisTest	"Mean"	75	12670
+WalkingAnalysisTest	"Mean"	115	19872
+NeuronalChangesTest	"axons"	114	19718
+WalkingAnalysisTest	"stance"	38	8490
+WalkingAnalysisTest	"stance"	39	8593
+WalkingAnalysisTest	"scores"	77	13008
+WalkingAnalysisTest	"scores"	78	13116
+WalkingAnalysisTest	"scores"	80	13519
+WalkingAnalysisTest	"scores"	81	13711
+WalkingAnalysisTest	"scores"	84	14350
+WalkingAnalysisTest	"scores"	86	14671
+ApoptosisTest	"number"	121	20944
+WalkingAnalysisTest	"scores"	87	14884
+WalkingAnalysisTest	"ankle"	90	15199
+ThermalHyperalgesiaTest	"stimulation"	2	607
+WalkingAnalysisTest	"ankle"	93	15597
+NeuronalChangesTest	"found"	109	18609
+WalkingAnalysisTest	"support"	94	15834
+WalkingAnalysisTest	"support"	95	15974
+WalkingAnalysisTest	"support"	102	16821
+WalkingAnalysisTest	"scores"	125	21679
+WalkingAnalysisTest	"weight"	94	15853
+TissueSparingTest	"cord"	107	18084
+NeuronalChangesTest	"between"	124	21464
+NeuronalChangesTest	"between"	125	21644
+WalkingAnalysisTest	"support"	39	8609
+WalkingAnalysisTest	"support"	43	9009
+WalkingAnalysisTest	"support"	44	9169
+WalkingAnalysisTest	"support"	92	15409
+WalkingAnalysisTest	"support"	94	15717
+WalkingAnalysisTest	"body"	94	15848
+NeuronalChangesTest	"between"	125	21730
+WalkingAnalysisTest	"body"	95	15986
+WalkingAnalysisTest	"body"	43	9021
+}
+Score [getF1()=0,819, getPrecision()=0,701, getRecall()=0,986, tp=68, fp=29, fn=1, tn=0]
+Score [macroF1=0,819, macroPrecision=0,701, macroRecall=0,986]
+***********************************************************
+
+
+***********************************************************
+|[3/18]======Final Evaluation======_____________N171 L+¦pez Vales 2007_____________|
+Final State  Model[1,00000] Objective[0,09709] {
+GOLD [6]:
+BBBTest	"locomotion testing"	121	18262
+AxonalRegenerationTest	"density of corticospinal and of serotonergic axons"	146	22774
+MotorEvokedPotentialsTest	"MEPs"	128	19259
+AxonalRegenerationTest	"corticospinal and serotonergic axons"	143	22354
+AstrogliosisTest	"GFAP immunoreactivity"	152	23695
+HReflexTest	"H/M"	137	21199
+}
+PREDICT [97]:
+HReflexTest	"H-reflex"	58	10576
+BBBTest	"BBB score"	89	15415
+AxonalRegenerationTest	"density of corticospinal and of serotonergic axons"	146	22774
+AstrogliosisTest	"GFAP immunoreactivity"	152	23695
+TissueSparingTest	"cord"	34	6839
+NeuroprotectionTest	"stump"	144	22552
+HistologicalInvestigationTest	"changes"	125	18885
+NeuronalChangesTest	"raphespinal"	140	21837
+NeuronalChangesTest	"density"	151	23509
+HistologicalInvestigationTest	"ratio"	138	21432
+NeuronalChangesTest	"raphespinal"	145	22621
+AxonalChangesTest	"fluorescence"	77	14103
+NeuronalChangesTest	"raphespinal"	141	22043
+NeuronalChangesTest	"5"	149	23315
+AxonalChangesTest	"fluorescence"	77	14072
+NeuronalChangesTest	"axons"	140	21864
+NeuronalChangesTest	"density"	143	22343
+AxonalChangesTest	"injury"	60	10951
+TissueSparingTest	"cord"	50	8984
+NeuronalChangesTest	"5"	109	17084
+NeuronalChangesTest	"labeled"	140	21824
+NeuronalChangesTest	"axons"	127	19139
+NeuronalChangesTest	"between"	128	19275
+InvestigationMethod	"axons"	106	16888
+NeuronalChangesTest	"between"	131	19880
+WalkingAnalysisTest	"ratio"	92	15563
+WalkingAnalysisTest	"ratio"	135	21001
+NeuronalChangesTest	"5"	130	19579
+WalkingAnalysisTest	"ratio"	136	21029
+WalkingAnalysisTest	"ratio"	137	21193
+WalkingAnalysisTest	"test"	46	8304
+AxonalChangesTest	"serotonergic"	140	21850
+WalkingAnalysisTest	"0"	118	17987
+WalkingAnalysisTest	"locomotion"	121	18262
+WalkingAnalysisTest	"ratio"	134	20759
+NeuronalChangesTest	"axons"	141	22055
+WalkingAnalysisTest	"scores"	118	17980
+WalkingAnalysisTest	"scores"	123	18593
+WalkingAnalysisTest	"support"	139	21533
+WalkingAnalysisTest	"walking"	122	18442
+WalkingAnalysisTest	"0"	48	8658
+WalkingAnalysisTest	"0"	77	14066
+WalkingAnalysisTest	"ratio"	90	15457
+WalkingAnalysisTest	"ratio"	91	15483
+WalkingAnalysisTest	"method"	54	9662
+NeuronalChangesTest	"axons"	141	21941
+WalkingAnalysisTest	"plantar"	56	10169
+WalkingAnalysisTest	"ratio"	57	10353
+WalkingAnalysisTest	"ratio"	58	10438
+WalkingAnalysisTest	"10%"	61	11149
+WalkingAnalysisTest	"height"	47	8464
+WalkingAnalysisTest	"method"	24	5272
+NeuronalChangesTest	"5"	133	20426
+WalkingAnalysisTest	"support"	6	1485
+WalkingAnalysisTest	"walking"	46	8296
+WalkingAnalysisTest	"analysis"	152	23683
+NeuronalChangesTest	"5"	138	21399
+WalkingAnalysisTest	"mean"	120	18129
+WalkingAnalysisTest	"mean"	124	18689
+WalkingAnalysisTest	"mean"	132	20083
+AxonalRegenerationTest	"cord"	0	740
+WalkingAnalysisTest	"total"	40	7702
+ApoptosisTest	"activity"	46	8252
+WalkingAnalysisTest	"number"	73	13394
+WalkingAnalysisTest	"mean"	78	14191
+WalkingAnalysisTest	"mean"	79	14319
+InvestigationMethod	"muscle"	52	9475
+ApoptosisTest	"cell"	26	5586
+WalkingAnalysisTest	"mean"	82	14756
+InvestigationMethod	"muscle"	56	10043
+ApoptosisTest	"cell"	30	6240
+WalkingAnalysisTest	"mean"	49	8754
+InvestigationMethod	"muscle"	56	10090
+NeuronalChangesTest	"axons"	144	22475
+WalkingAnalysisTest	"analysis"	85	14911
+WalkingAnalysisTest	"analysis"	75	13744
+InvestigationMethod	"muscle"	87	15167
+AxonalChangesTest	"lesion"	145	22651
+InvestigationMethod	"axonal"	142	22160
+AxonalChangesTest	"lesion"	146	22875
+AxonalChangesTest	"injury"	126	19031
+InvestigationMethod	"5"	101	16378
+AxonalChangesTest	"lesion"	151	23657
+InvestigationMethod	"5"	46	8349
+AxonalChangesTest	"lesion"	151	23571
+InvestigationMethod	"5"	50	9026
+InvestigationMethod	"5"	60	10896
+AxonalChangesTest	"lesion"	144	22502
+InvestigationMethod	"density"	71	13133
+AxonalChangesTest	"lesion"	114	17500
+InvestigationMethod	"axons"	3	1088
+AxonalChangesTest	"axons"	59	10715
+ElectrophysiologyTest	"stimulation"	52	9208
+AxonalChangesTest	"axons"	62	11434
+SpinalCordEvokedPotentialsTest	"amplitude"	130	19614
+SpinalCordEvokedPotentialsTest	"amplitude"	131	19892
+SpinalCordEvokedPotentialsTest	"amplitude"	87	15119
+}
+Score [getF1()=0,097, getPrecision()=0,052, getRecall()=0,833, tp=5, fp=92, fn=1, tn=0]
+Score [macroF1=0,097, macroPrecision=0,052, macroRecall=0,833]
+***********************************************************
+
+
+***********************************************************
+|[4/18]======Final Evaluation======_____________N226 Xiao 2007_____________|
+Final State  Model[1,00000] Objective[0,00000] {
+GOLD [2]:
+FunctionalTest	"digits on the right forepaw (ipsilateral to the lesion site) were flexed"	141	21999
+RearingTest	"exhibited use of the right forelimb"	147	22943
+}
+PREDICT [97]:
+TissueSparingTest	"matter"	179	27795
+ThermalHyperalgesiaTest	"forepaw"	142	22209
+AstrogliosisTest	"astrocytes"	190	29518
+AxonalRegenerationTest	"seen"	185	28560
+NeuronalChangesTest	"survived"	95	16812
+LadderRungTest	"horizontal"	104	17787
+TissueSparingTest	"matter"	117	19258
+NeuronalChangesTest	"neuronal"	187	28956
+HistologicalInvestigationTest	"extended"	142	22306
+NeuronalChangesTest	"dendrites"	187	28973
+AxonalChangesTest	"RST"	2	415
+NeuronalChangesTest	"5"	182	28286
+AxonalChangesTest	"BDA"	4	721
+NeuronalChangesTest	"neuronal"	169	25732
+AxonalChangesTest	"BDA"	30	6542
+NeuronalChangesTest	"5"	124	20142
+NeuronalChangesTest	"synaptic"	173	26546
+AxonalChangesTest	"1"	45	9058
+NeuronalChangesTest	"number"	177	27350
+TissueSparingTest	"matter"	43	8820
+NeuronalChangesTest	"synaptic"	179	27677
+TissueSparingTest	"segment"	119	19503
+NeuronalChangesTest	"axons"	178	27475
+NeuronalChangesTest	"between"	150	23284
+AxonalChangesTest	"RST"	166	25319
+NeuronalChangesTest	"5"	178	27525
+TissueSparingTest	"segment"	122	19963
+NeuronalChangesTest	"synaptic"	186	28809
+InvestigationMethod	"axons"	118	19399
+NeuronalChangesTest	"soma"	187	28965
+TissueSparingTest	"cord"	63	11842
+NeuronalChangesTest	"found"	190	29433
+NeuronalChangesTest	"found"	187	28930
+TissueSparingTest	"area"	121	19838
+ThermalHyperalgesiaTest	"left"	52	10224
+NeuronalChangesTest	"axons"	178	27508
+NeuronalChangesTest	"axons"	179	27656
+AxonalRegenerationTest	"regenerated"	203	31632
+WalkingAnalysisTest	"posture"	29	6409
+WalkingAnalysisTest	"10%"	25	5661
+NeuronalChangesTest	"found"	176	27130
+WalkingAnalysisTest	"posture"	32	6884
+TissueSparingTest	"cord"	95	16872
+NeuronalChangesTest	"axons"	177	27331
+NeuronalChangesTest	"found"	184	28506
+WalkingAnalysisTest	"posture"	37	7556
+WalkingAnalysisTest	"10%"	25	5593
+NeuronalChangesTest	"axons"	186	28766
+WalkingAnalysisTest	"posture"	53	10311
+NeuronalChangesTest	"axons"	169	25846
+WalkingAnalysisTest	"elbow"	191	29761
+WalkingAnalysisTest	"10%"	51	9977
+WalkingAnalysisTest	"elbow"	195	30347
+WalkingAnalysisTest	"extension"	191	29777
+NeuronalChangesTest	"axons"	174	26842
+WalkingAnalysisTest	"posture"	156	23900
+WalkingAnalysisTest	"posture"	53	10351
+WalkingAnalysisTest	"posture"	140	21838
+WalkingAnalysisTest	"elbow"	205	32158
+NeuronalChangesTest	"axons"	185	28616
+WalkingAnalysisTest	"extension"	194	30177
+WalkingAnalysisTest	"extension"	195	30363
+WalkingAnalysisTest	"performance"	58	10948
+WalkingAnalysisTest	"extension"	204	31977
+WalkingAnalysisTest	"extension"	205	32174
+NeuronalChangesTest	"axons"	178	27555
+WalkingAnalysisTest	"posture"	211	33122
+WalkingAnalysisTest	"posture"	207	32513
+WalkingAnalysisTest	"test"	56	10710
+WalkingAnalysisTest	"test"	59	11040
+NeuronalChangesTest	"axons"	175	26961
+WalkingAnalysisTest	"total"	194	30247
+WalkingAnalysisTest	"analysis"	186	28705
+WalkingAnalysisTest	"analysis"	34	7208
+ApoptosisTest	"number"	178	27449
+InvestigationMethod	"neuronal"	6	1248
+WalkingAnalysisTest	"total"	61	11435
+InvestigationMethod	"neuronal"	36	7528
+InvestigationMethod	"axonal"	0	79
+NeuronalChangesTest	"synaptic"	131	20933
+InvestigationMethod	"axonal"	5	904
+AxonalChangesTest	"RST"	125	20244
+InvestigationMethod	"5"	44	8956
+AxonalChangesTest	"distance"	174	26824
+InvestigationMethod	"5"	51	10097
+AxonalChangesTest	"lesion"	143	22473
+InvestigationMethod	"5"	60	11181
+AxonalChangesTest	"lesion"	141	22047
+AxonalChangesTest	"lesion"	167	25458
+InvestigationMethod	"axonal"	126	20319
+AxonalChangesTest	"lesion"	176	27150
+InvestigationMethod	"axonal"	127	20447
+AxonalChangesTest	"lesion"	175	27049
+InvestigationMethod	"axonal"	131	20889
+AxonalChangesTest	"distribution"	179	27729
+InvestigationMethod	"axons"	2	420
+AxonalChangesTest	"lesion"	146	22731
+}
+Score [getF1()=0,000, getPrecision()=0,000, getRecall()=0,000, tp=0, fp=97, fn=2, tn=0]
+Score [macroF1=0,000, macroPrecision=0,000, macroRecall=0,000]
+***********************************************************
+
+
+***********************************************************
+|[5/18]======Final Evaluation======_____________N187 Nash 2002_____________|
+Final State  Model[1,00000] Objective[0,63158] {
+GOLD [11]:
+SinglePelletReachingTest	"DFR task"	187	26025
+AxonalChangesTest	"axons"	217	30957
+AxonalChangesTest	"axons"	228	32652
+SinglePelletReachingTest	"DFR task"	189	26316
+SinglePelletReachingTest	"DFR task"	191	26671
+SinglePelletReachingTest	"DFR task"	190	26513
+AxonalChangesTest	"mean number of axons"	213	30047
+AxonalChangesTest	"axons"	230	33127
+AxonalChangesTest	"mean number of labeled axons"	213	30146
+AxonalChangesTest	"axons"	222	31809
+SinglePelletReachingTest	"DFR task"	183	25608
+}
+PREDICT [99]:
+BodyWeightExamination	"rats"	224	32122
+AxonalChangesTest	"mean number of labeled axons"	213	30146
+BladderFunctionTest	"retained"	41	7122
+NonFunctionalTest	"bladder"	173	24205
+HistologicalInvestigationTest	"bladders"	66	10405
+NeuroprotectionTest	"labeled"	200	28067
+AxonalChangesTest	"areas"	221	31629
+InvestigationMethod	"weight"	90	13894
+AxonalChangesTest	"mean number of axons"	213	30047
+InvestigationMethod	"weight"	89	13738
+AxonalChangesTest	"regions"	227	32534
+InvestigationMethod	"weight"	97	14995
+AxonalChangesTest	"lesion"	200	28221
+InvestigationMethod	"axonal"	10	1286
+AxonalChangesTest	"lesion"	207	29183
+AxonalChangesTest	"lesion"	212	29993
+InvestigationMethod	"axonal"	15	1999
+AxonalChangesTest	"injury"	229	33004
+NeuroprotectionTest	"neurons"	143	21056
+AxonalChangesTest	"lesion"	148	21362
+InvestigationMethod	"5"	42	7253
+AxonalChangesTest	"lesion"	149	21515
+InvestigationMethod	"5"	48	7941
+AxonalChangesTest	"lesion"	164	23249
+InvestigationMethod	"5"	48	7957
+AxonalChangesTest	"injury"	224	32046
+NeuroprotectionTest	"neurons"	145	21283
+AxonalChangesTest	"lesion"	228	32667
+InvestigationMethod	"5"	48	7978
+AxonalChangesTest	"lesion"	223	31992
+InvestigationMethod	"5"	79	12246
+AxonalChangesTest	"lesion"	222	31741
+InvestigationMethod	"5"	83	12836
+AxonalChangesTest	"lesion"	226	32367
+InvestigationMethod	"5"	95	14696
+AxonalChangesTest	"lesion"	217	30972
+InvestigationMethod	"5"	95	14734
+AxonalChangesTest	"mean number of labeled axons"	210	29529
+InvestigationMethod	"5"	96	14823
+AxonalChangesTest	"lesion"	214	30394
+InvestigationMethod	"5"	99	15126
+AxonalChangesTest	"mean"	224	32058
+InvestigationMethod	"5"	104	15940
+AxonalChangesTest	"number"	226	32293
+InvestigationMethod	"5"	105	16081
+AxonalChangesTest	"number"	220	31380
+InvestigationMethod	"loss"	4	491
+AxonalChangesTest	"border"	203	28531
+InvestigationMethod	"axons"	9	1115
+AxonalChangesTest	"lesion"	208	29332
+InvestigationMethod	"axons"	11	1421
+AxonalChangesTest	"lesion"	206	28951
+InvestigationMethod	"axons"	12	1577
+AxonalChangesTest	"injury"	201	28296
+InvestigationMethod	"axons"	16	2315
+AxonalChangesTest	"axons"	205	28826
+AxonalChangesTest	"CST"	59	9509
+InvestigationMethod	"axons"	16	2465
+AxonalChangesTest	"lesion"	231	33281
+InvestigationMethod	"axons"	67	10668
+AxonalChangesTest	"lesion"	67	10706
+InvestigationMethod	"axons"	69	10936
+AxonalChangesTest	"lesion"	206	29101
+InvestigationMethod	"axons"	119	18115
+AxonalChangesTest	"axon"	165	23269
+AxonalChangesTest	"axon"	165	23325
+InvestigationMethod	"axons"	119	18136
+AxonalChangesTest	"axon"	166	23521
+InvestigationMethod	"axons"	120	18228
+AxonalChangesTest	"mean number of axons"	164	23126
+InvestigationMethod	"axons"	121	18441
+AxonalChangesTest	"lesion"	183	25507
+InvestigationMethod	"axons"	121	18523
+AxonalChangesTest	"lesion"	189	26355
+InvestigationMethod	"axons"	123	18679
+AxonalChangesTest	"lesion"	190	26552
+InvestigationMethod	"axons"	125	18966
+AxonalChangesTest	"lesion"	198	27828
+InvestigationMethod	"axons"	126	19128
+AxonalChangesTest	"axonal"	163	23099
+InvestigationMethod	"axons"	130	19752
+AxonalChangesTest	"length"	205	28812
+InvestigationMethod	"axons"	144	21162
+AxonalChangesTest	"lesion"	164	23155
+InvestigationMethod	"axons"	145	21253
+AxonalChangesTest	"lesion"	199	28027
+InvestigationMethod	"mean"	112	17003
+AxonalChangesTest	"lesion"	188	26262
+InvestigationMethod	"mean"	130	19731
+AxonalChangesTest	"lesion"	166	23603
+InvestigationMethod	"axons"	93	14419
+AxonalChangesTest	"lesion"	151	21594
+InvestigationMethod	"axons"	149	21405
+AxonalChangesTest	"lesion"	155	22175
+AxonalChangesTest	"lesion"	149	21420
+InvestigationMethod	"neuronal"	16	2205
+InvestigationMethod	"axonal"	14	1832
+NeuroprotectionTest	"total"	126	19100
+InvestigationMethod	"axons"	151	21660
+}
+Score [getF1()=0,632, getPrecision()=0,485, getRecall()=0,906, tp=48, fp=51, fn=5, tn=0]
+Score [macroF1=0,632, macroPrecision=0,485, macroRecall=0,906]
+***********************************************************
+
+
+***********************************************************
+|[6/18]======Final Evaluation======_____________N163 Lee 2004_____________|
+Final State  Model[1,00000] Objective[0,02174] {
+GOLD [1]:
+BBBTest	"BBB scores"	142	21009
+}
+PREDICT [91]:
+BBBTest	"BBB scores"	62	10706
+AxonalRegenerationTest	"stumps"	32	6109
+AstrogliosisTest	"intensity"	68	11339
+HistologicalInvestigationTest	"extended"	128	18509
+TissueSparingTest	"cord"	31	6074
+NeuroprotectionTest	"distance"	136	20283
+AstrogliosisTest	"were"	120	17312
+HistologicalInvestigationTest	"changes"	129	18710
+NeuronalChangesTest	"survived"	136	19978
+AxonalChangesTest	"1"	8	1784
+TissueSparingTest	"area"	42	7766
+NeuroprotectionTest	"stump"	127	18486
+InflammationTest	"labeled"	66	11179
+LadderRungTest	"cross"	3	1289
+ImagingTest	"signal"	125	18228
+NeuronalChangesTest	"labeled"	132	19372
+LadderRungTest	"cross"	6	1612
+InflammationTest	"labeled"	76	12073
+LadderRungTest	"horizontal"	41	7573
+LadderRungTest	"ability"	8	2009
+LadderRungTest	"walking"	39	7314
+InflammationTest	"labeled"	78	12360
+LadderRungTest	"test"	62	10757
+LadderRungTest	"number"	68	11357
+InflammationTest	"labeled"	109	15697
+LadderRungTest	"horizontal"	76	12099
+SomatosensoryEvokedPotentialsTest	"three"	28	5592
+ProteinLevelAnalysis	"2"	8	1960
+LadderRungTest	"horizontal"	88	13160
+TissueSparingTest	"amount"	36	6746
+NeuronalChangesTest	"found"	137	20363
+LadderRungTest	"cross"	139	20605
+NeuronalChangesTest	"labeled"	109	15602
+TissueSparingTest	"cord"	99	14204
+NeuronalChangesTest	"labeled"	120	17246
+NeuronalChangesTest	"cell"	108	15447
+NeuronalChangesTest	"primary"	104	15002
+TissueSparingTest	"cord"	100	14372
+NeuronalChangesTest	"found"	129	18805
+NeuronalChangesTest	"between"	100	14516
+NeuronalChangesTest	"labeled"	111	15907
+NeuronalChangesTest	"labeled"	115	16412
+NeuronalChangesTest	"between"	100	14398
+WalkingAnalysisTest	"10%"	25	5177
+WalkingAnalysisTest	"weight"	30	5946
+WalkingAnalysisTest	"10%"	54	9511
+WalkingAnalysisTest	"extension"	76	11951
+WalkingAnalysisTest	"horizontal"	77	12238
+WalkingAnalysisTest	"extension"	113	16230
+WalkingAnalysisTest	"extension"	114	16314
+WalkingAnalysisTest	"extension"	121	17524
+WalkingAnalysisTest	"scores"	141	20915
+WalkingAnalysisTest	"scores"	142	21013
+ApoptosisTest	"cell"	136	20057
+NeuronalChangesTest	"labeled"	110	15753
+WalkingAnalysisTest	"body"	30	5941
+WalkingAnalysisTest	"body"	48	8651
+WalkingAnalysisTest	"total"	34	6392
+InvestigationMethod	"axonal"	1	757
+NeuronalChangesTest	"5"	110	15745
+InvestigationMethod	"5"	43	7897
+InvestigationMethod	"5"	43	7924
+AxonalChangesTest	"rostral"	127	18468
+InvestigationMethod	"5"	69	11463
+AxonalChangesTest	"immunoreactive"	139	20653
+InvestigationMethod	"loss"	125	18216
+AxonalChangesTest	"fibers"	137	20351
+AxonalChangesTest	"also"	140	20737
+AxonalChangesTest	"observed"	140	20742
+ApoptosisTest	"cell"	8	1839
+ApoptosisTest	"cell"	35	6443
+ApoptosisTest	"cell"	68	11352
+WalkingAnalysisTest	"number"	129	18824
+ThermalHyperalgesiaTest	"evaluation"	51	9071
+ThermalHyperalgesiaTest	"evaluation"	29	5746
+WalkingAnalysisTest	"number"	136	20062
+ApoptosisTest	"cell"	69	11432
+NeuroprotectionTest	"stump"	93	13787
+WalkingAnalysisTest	"analysis"	59	10354
+WalkingAnalysisTest	"analysis"	62	10686
+ImagingTest	"cord"	30	6007
+InflammationTest	"cells"	129	18834
+ApoptosisTest	"cell"	84	12888
+TissueSparingTest	"cord"	125	18124
+NeuronalChangesTest	"labeled"	127	18428
+WalkingAnalysisTest	"average"	50	8920
+ApoptosisTest	"cell"	110	15714
+NeuronalChangesTest	"between"	136	20292
+ThermalHyperalgesiaTest	"time"	46	8228
+ThermalHyperalgesiaTest	"evaluation"	51	9047
+ThermalHyperalgesiaTest	"injury"	3	1318
+}
+Score [getF1()=0,022, getPrecision()=0,011, getRecall()=1,000, tp=1, fp=90, fn=0, tn=0]
+Score [macroF1=0,022, macroPrecision=0,011, macroRecall=1,000]
+***********************************************************
+
+
+***********************************************************
+|[7/18]======Final Evaluation======_____________N141 Deng 2008_____________|
+Final State  Model[1,00000] Objective[0,04494] {
+GOLD [4]:
+MotorEvokedPotentialsTest	"latencies"	172	22893
+BBBTest	"gait scaling"	165	21998
+BBBTest	"BBB scores"	166	22098
+AxonalRegenerationTest	"count of regenerated/survived axons"	148	19195
+}
+PREDICT [85]:
+BBBTest	"BBB scores"	163	21625
+CystVolumeTest	"cavity formation"	143	18410
+HistologicalInvestigationTest	"expression"	188	26226
+BBBTest	"BBB scores"	166	22098
+BodyWeightExamination	"rats"	139	17595
+AstrogliosisTest	"used"	45	7692
+NeuroprotectionTest	"labeled"	199	28251
+HistologicalInvestigationTest	"types"	189	26399
+AstrogliosisTest	"were"	35	6295
+CystVolumeTest	"cavity formation"	108	14894
+FootprintAnalysisTest	"limbs"	67	10480
+FootprintAnalysisTest	"hind"	139	17776
+HistologicalInvestigationTest	"bladders"	60	9517
+NeuroprotectionTest	"labeled"	122	15863
+NeuronalChangesTest	"neuronal"	157	20487
+BBBSubscoreTest	"BBB"	163	21603
+BBBSubscoreTest	"BBB"	90	13786
+LadderRungTest	"number"	197	27936
+ImagingTest	"areas"	152	19817
+TissueSparingTest	"average"	56	9166
+NeuronalChangesTest	"neuronal"	200	28540
+NeuronalChangesTest	"neuronal loss"	183	25533
+AxonalChangesTest	"1"	134	17200
+TissueSparingTest	"matter"	142	18184
+NeuronalChangesTest	"neuronal"	190	26619
+NeuronalChangesTest	"cell"	201	28654
+TissueSparingTest	"average"	155	20062
+AxonalChangesTest	"1"	166	22135
+NeuronalChangesTest	"cell"	190	26677
+NeuronalChangesTest	"mean"	169	22480
+NeuronalChangesTest	"5"	182	25257
+NeuronalChangesTest	"between"	173	23013
+NeuronalChangesTest	"neuronal"	185	25775
+InvestigationMethod	"axons"	110	14984
+InvestigationMethod	"axons"	114	15163
+AxonalChangesTest	"distal"	147	19083
+AxonalChangesTest	"NF"	162	21517
+InvestigationMethod	"axons"	116	15367
+AxonalChangesTest	"axons"	78	12118
+AxonalChangesTest	"regions"	10	1702
+AxonalChangesTest	"zone"	110	15010
+AxonalChangesTest	"1"	89	13783
+InvestigationMethod	"axons"	145	18675
+AxonalChangesTest	"injury"	145	18714
+PhysiologyTest	"10%"	33	5903
+SinglePelletReachingTest	"animals"	72	11081
+AxonalChangesTest	"1"	91	13985
+SinglePelletReachingTest	"animals"	73	11248
+AxonalChangesTest	"axons"	114	15210
+AxonalChangesTest	"5"	121	15847
+PhysiologyTest	"10%"	80	12446
+SpinalCordEvokedPotentialsTest	"latency"	9	1477
+SpinalCordEvokedPotentialsTest	"latency"	167	22174
+ElectrophysiologyTest	"were"	155	20162
+SpinalCordEvokedPotentialsTest	"latency"	71	11050
+SpinalCordEvokedPotentialsTest	"latency"	91	13888
+ElectrophysiologyTest	"active"	67	10618
+ThermalHyperalgesiaTest	"injury"	0	137
+CystVolumeTest	"tissue"	201	28719
+NeuronalChangesTest	"5"	139	17660
+AxonalChangesTest	"scar"	116	15471
+InvestigationMethod	"axons"	147	19027
+AxonalChangesTest	"center"	148	19244
+ApoptosisTest	"rate"	157	20512
+NeuronalChangesTest	"axons"	179	24722
+InvestigationMethod	"neuronal"	143	18368
+AxonalChangesTest	"axons"	112	15037
+AxonalChangesTest	"injury"	72	11166
+InvestigationMethod	"weight"	45	7679
+AxonalChangesTest	"5"	141	17891
+InvestigationMethod	"5"	122	15877
+AxonalChangesTest	"5"	51	8447
+AxonalChangesTest	"NF-positive"	155	20095
+InvestigationMethod	"5"	140	17820
+AxonalChangesTest	"axons"	146	18853
+AxonalChangesTest	"brain"	193	27168
+ThermalHyperalgesiaTest	"had"	141	17860
+ElectrophysiologyTest	"condition"	174	23143
+ApoptosisTest	"cell"	144	18535
+InvestigationMethod	"muscle"	57	9277
+AxonalChangesTest	"also"	201	28695
+ThermalHyperalgesiaTest	"had"	170	22616
+ApoptosisTest	"rate"	157	20696
+NeuroprotectionTest	"tissue"	38	6841
+InvestigationMethod	"weight"	58	9412
+}
+Score [getF1()=0,045, getPrecision()=0,024, getRecall()=0,500, tp=2, fp=83, fn=2, tn=0]
+Score [macroF1=0,045, macroPrecision=0,024, macroRecall=0,500]
+***********************************************************
+
+
+***********************************************************
+|[8/18]======Final Evaluation======_____________N183 Moreno-Flores 2006_____________|
+Final State  Model[1,00000] Objective[0,03960] {
+GOLD [3]:
+AdhesiveRemovalTest	"adhesive tape removal test"	159	22658
+NarrowBeamTest	"beam walking test"	166	23904
+AxonalRegenerationTest	"BDA-labeled fibers"	152	21471
+}
+PREDICT [97]:
+AxonalRegenerationTest	"labeled fibers"	224	34971
+LesionVolumeTest	"lesion"	134	18703
+AstrogliosisTest	"astrocytes"	126	17338
+SelfMutilationObservation	"incidence"	167	24186
+HistologicalInvestigationTest	"capacity"	214	32668
+NeuronalChangesTest	"primary"	228	35653
+AxonalChangesTest	"CST"	139	19507
+NeuronalChangesTest	"number"	234	36714
+NeuronalChangesTest	"5"	146	20572
+AxonalChangesTest	"BDA"	144	20184
+NeuronalChangesTest	"5"	149	21065
+TissueSparingTest	"examined"	128	17564
+NeuronalChangesTest	"5"	151	21347
+AxonalChangesTest	"CST"	88	11741
+NeuronalChangesTest	"5"	153	21862
+TissueSparingTest	"cord"	8	1235
+NeuronalChangesTest	"neuronal"	214	32696
+AxonalChangesTest	"1"	124	17107
+NeuronalChangesTest	"between"	150	21170
+TissueSparingTest	"cord"	8	1339
+NeuronalChangesTest	"labeled"	148	20828
+AxonalChangesTest	"CST"	74	9927
+NeuronalChangesTest	"labeled"	153	21650
+NeuronalChangesTest	"5"	216	33236
+AxonalChangesTest	"BDA"	76	10095
+NeuronalChangesTest	"5"	216	33252
+NeuronalChangesTest	"5"	161	23152
+TissueSparingTest	"cord"	141	19679
+NeuronalChangesTest	"total"	216	33500
+NeuronalChangesTest	"found"	149	20950
+InvestigationMethod	"axons"	147	20703
+InvestigationMethod	"axons"	137	19276
+NeuronalChangesTest	"found"	152	21583
+TissueSparingTest	"cord"	143	20043
+NeuronalChangesTest	"fibers"	151	21278
+NeuronalChangesTest	"axons"	234	36736
+TissueSparingTest	"cord"	145	20285
+NeuronalChangesTest	"fibers"	152	21483
+NeuronalChangesTest	"axons"	154	22101
+WalkingAnalysisTest	"test"	242	38455
+WalkingAnalysisTest	"test"	120	16539
+WalkingAnalysisTest	"test"	163	23585
+WalkingAnalysisTest	"10%"	212	32128
+WalkingAnalysisTest	"10%"	212	32171
+WalkingAnalysisTest	"0"	235	37224
+NeuronalChangesTest	"fibers"	231	36030
+WalkingAnalysisTest	"scores"	242	38480
+WalkingAnalysisTest	"walking"	245	38794
+WalkingAnalysisTest	"walking"	246	38963
+WalkingAnalysisTest	"weight"	148	20858
+WalkingAnalysisTest	"walking"	238	37786
+ApoptosisTest	"cell"	215	33155
+WalkingAnalysisTest	"0"	86	11430
+WalkingAnalysisTest	"errors"	97	12938
+WalkingAnalysisTest	"performance"	166	24028
+NeuronalChangesTest	"fibers"	146	20476
+WalkingAnalysisTest	"walking"	166	23909
+WalkingAnalysisTest	"performance"	168	24388
+WalkingAnalysisTest	"performance"	224	34958
+WalkingAnalysisTest	"performance"	158	22529
+WalkingAnalysisTest	"performance"	160	22931
+WalkingAnalysisTest	"walking"	157	22504
+WalkingAnalysisTest	"test"	166	23917
+WalkingAnalysisTest	"test"	166	24109
+WalkingAnalysisTest	"test"	166	24151
+ThermalHyperalgesiaTest	"latencies"	164	23681
+WalkingAnalysisTest	"test"	163	23616
+ApoptosisTest	"number"	168	24570
+WalkingAnalysisTest	"scores"	95	12670
+WalkingAnalysisTest	"test"	168	24528
+WalkingAnalysisTest	"test"	159	22680
+WalkingAnalysisTest	"test"	162	23386
+NeuronalChangesTest	"total"	214	32774
+WalkingAnalysisTest	"test"	162	23455
+WalkingAnalysisTest	"test"	160	23042
+WalkingAnalysisTest	"test"	153	21958
+WalkingAnalysisTest	"walking"	10	1754
+WalkingAnalysisTest	"total"	216	33220
+NeuronalChangesTest	"cells"	212	32075
+WalkingAnalysisTest	"test"	47	7272
+WalkingAnalysisTest	"test"	87	11616
+WalkingAnalysisTest	"test"	99	13323
+WalkingAnalysisTest	"analysis"	236	37403
+WalkingAnalysisTest	"analysis"	218	33817
+AxonalRegenerationTest	"regeneration"	5	925
+WalkingAnalysisTest	"analysis"	218	33898
+WalkingAnalysisTest	"analysis"	224	34827
+WalkingAnalysisTest	"total"	88	11633
+NeuronalChangesTest	"axons"	134	18670
+WalkingAnalysisTest	"analysis"	129	17754
+WalkingAnalysisTest	"number"	44	6828
+WalkingAnalysisTest	"number"	44	6873
+WalkingAnalysisTest	"number"	45	6940
+WalkingAnalysisTest	"number"	46	7088
+WalkingAnalysisTest	"number"	86	11251
+WalkingAnalysisTest	"number"	111	15103
+WalkingAnalysisTest	"number"	118	15917
+}
+Score [getF1()=0,040, getPrecision()=0,021, getRecall()=0,500, tp=2, fp=95, fn=2, tn=0]
+Score [macroF1=0,040, macroPrecision=0,021, macroRecall=0,500]
+***********************************************************
+
+
+***********************************************************
+|[9/18]======Final Evaluation======_____________N244 Cloutier 2016_____________|
+Final State  Model[1,00000] Objective[0,38095] {
+GOLD [7]:
+NeuronalChangesTest	"overall number of primary dendrites"	148	24733
+AutonomicDysreflexiaTest	"heart rate response"	131	21993
+AutonomicDysreflexiaTest	"mean arterial pressure"	131	22102
+NeuronalChangesTest	"soma size"	146	24512
+AutonomicDysreflexiaTest	"heart rate"	132	22279
+NeuronalChangesTest	"synaptic density"	153	25811
+AutonomicDysreflexiaTest	"average T50 mean arterial pressure"	134	22495
+}
+PREDICT [81]:
+NeuronalChangesTest	"somata"	5	1229
+HistologicalInvestigationTest	"changes"	2	532
+NeuronalChangesTest	"overall number of primary dendrites"	148	24733
+NeuronalChangesTest	"soma size"	145	24407
+NeuronalChangesTest	"soma size"	146	24512
+NeuronalChangesTest	"somata"	150	25001
+WalkingAnalysisTest	"Mean"	147	24613
+HistologicalInvestigationTest	"changes"	3	789
+NeuronalChangesTest	"average"	134	22495
+NeuronalChangesTest	"synaptic"	122	20448
+NeuronalChangesTest	"primary"	4	843
+NeuronalChangesTest	"mean"	145	24402
+NeuronalChangesTest	"overall"	144	24234
+WalkingAnalysisTest	"number"	144	24262
+WalkingAnalysisTest	"mean"	108	19084
+WalkingAnalysisTest	"mean"	110	19266
+WalkingAnalysisTest	"mean"	111	19399
+WalkingAnalysisTest	"mean"	129	21477
+WalkingAnalysisTest	"mean"	131	21920
+WalkingAnalysisTest	"mean"	131	22102
+WalkingAnalysisTest	"mean"	133	22434
+AxonalRegenerationTest	"lesion"	122	20563
+NeuronalChangesTest	"overall number of primary dendrites"	8	1831
+WalkingAnalysisTest	"mean"	134	22507
+WalkingAnalysisTest	"analysis"	135	22699
+NeuronalChangesTest	"synaptic density"	152	25590
+WalkingAnalysisTest	"analysis"	144	24388
+NeuronalChangesTest	"somata"	122	20530
+ApoptosisTest	"cell"	155	26041
+ApoptosisTest	"rate"	108	19121
+ApoptosisTest	"rate"	110	19247
+HistologicalInvestigationTest	"changes"	108	19073
+NeuronalChangesTest	"synaptic"	123	20671
+NeuronalChangesTest	"synaptic"	124	20819
+NeuronalChangesTest	"synaptic density"	153	25811
+ApoptosisTest	"rate"	131	21999
+NeuronalChangesTest	"between"	131	21835
+ApoptosisTest	"rate"	132	22285
+InvestigationMethod	"density"	5	1202
+TissueSparingTest	"cord"	136	22973
+NeuronalChangesTest	"between"	142	23844
+ApoptosisTest	"cell"	6	1397
+InvestigationMethod	"density"	8	1896
+NeuronalChangesTest	"primary"	144	24272
+InvestigationMethod	"density"	8	2116
+ApoptosisTest	"cell"	8	2157
+ApoptosisTest	"neurons"	152	25651
+NonFunctionalTest	"size"	144	24228
+InvestigationMethod	"density"	150	24986
+AxonalChangesTest	"1"	8	2212
+ApoptosisTest	"neurons"	150	25037
+ApoptosisTest	"neurons"	150	25226
+AxonalChangesTest	"neurons"	3	830
+ElectrophysiologyTest	"averaged"	133	22421
+ApoptosisTest	"neurons"	151	25346
+NonFunctionalTest	"identified"	150	25069
+AxonalChangesTest	"injury"	1	481
+ApoptosisTest	"neurons"	151	25499
+AxonalChangesTest	"injury"	151	25298
+NeuronalChangesTest	"dendrite"	144	24242
+ApoptosisTest	"neurons"	8	2077
+NeuroprotectionTest	"caudal"	152	25671
+AxonalChangesTest	"injury"	153	25870
+ApoptosisTest	"neurons"	117	19992
+NeuroprotectionTest	"rostral"	147	24698
+AxonalChangesTest	"injury"	152	25685
+AxonalChangesTest	"signal"	122	20485
+AxonalChangesTest	"injury"	111	19539
+ThermalHyperalgesiaTest	"had"	7	1560
+ApoptosisTest	"neurons"	118	20148
+NeuroprotectionTest	"rostral"	145	24454
+AxonalChangesTest	"observed"	154	25980
+ElectrophysiologyTest	"cord"	0	104
+AxonalChangesTest	"observed"	149	24934
+PhysiologyTest	"values"	112	19551
+NeuroprotectionTest	"neurons"	115	19725
+HindpawSensationTest	"pressure"	108	19098
+AxonalChangesTest	"rostral"	152	25659
+AngiogenesisTest	"stained"	117	19931
+AngiogenesisTest	"stained"	138	23241
+HindpawSensationTest	"pressure"	110	19280
+}
+Score [getF1()=0,381, getPrecision()=0,247, getRecall()=0,833, tp=20, fp=61, fn=4, tn=0]
+Score [macroF1=0,381, macroPrecision=0,247, macroRecall=0,833]
+***********************************************************
+
+
+***********************************************************
+|[10/18]======Final Evaluation======_____________N225 Xiao 2005_____________|
+Final State  Model[1,00000] Objective[0,18692] {
+GOLD [14]:
+NeuroprotectionTest	"numbers of neurons"	288	41814
+NeuroprotectionTest	"neuronal number"	291	42368
+RearingTest	"explore the cylinder wall"	324	48546
+WalkingAnalysisTest	"error/ step ratio"	332	49678
+NeuronalChangesTest	"mean neuronal size"	289	41973
+AxonalRegenerationTest	"BDA-positive RST axons"	300	44307
+NeuronalChangesTest	"neuronal atrophy"	290	42169
+NeuroprotectionTest	"number"	295	43208
+NeuroprotectionTest	"number"	296	43401
+NeuroprotectionTest	"number"	286	41353
+NeuronalChangesTest	"size"	295	43219
+NeuronalChangesTest	"mean soma size of neurons"	286	41363
+WalkingAnalysisTest	"rope-walking test"	327	49161
+NeuronalChangesTest	"size"	296	43412
+}
+PREDICT [93]:
+NeuronalChangesTest	"mean neuronal size"	289	41973
+InvestigationMethod	"neuronal loss"	189	28910
+InvestigationMethod	"neuronal loss"	191	29148
+AxonalChangesTest	"BDA"	298	44187
+ElectrophysiologyTest	"right"	90	16142
+PhysiologyTest	"balance"	93	17041
+TissueSparingTest	"loss"	74	13303
+NeuroprotectionTest	"analysis"	56	10369
+AxonalChangesTest	"rostral"	273	39427
+SinglePelletReachingTest	"animals"	52	9321
+AxonalChangesTest	"rostral"	274	39557
+ElectrophysiologyTest	"right"	234	33987
+PhysiologyTest	"10%"	321	47954
+TissueSparingTest	"cord"	117	20591
+NeuronalChangesTest	"soma size"	194	29468
+InvestigationMethod	"neuronal"	198	30098
+AxonalChangesTest	"lesion"	307	45631
+PhysiologyTest	"10%"	324	48643
+InvestigationMethod	"neuronal"	247	35411
+AxonalChangesTest	"rostral"	301	44627
+NeuroprotectionTest	"extent"	101	18385
+AxonalChangesTest	"rostral"	302	44747
+InvestigationMethod	"weight"	51	9210
+AxonalChangesTest	"center"	282	40905
+InvestigationMethod	"health"	51	9301
+AxonalChangesTest	"lesion"	289	42069
+InvestigationMethod	"health"	66	12094
+AxonalChangesTest	"injury"	272	39312
+AxonalChangesTest	"injury"	265	38420
+InvestigationMethod	"weight"	68	12376
+AxonalChangesTest	"lesion"	268	38678
+InvestigationMethod	"weight"	82	14493
+AxonalChangesTest	"lesion"	290	42232
+InvestigationMethod	"weight"	97	17628
+AxonalChangesTest	"lesion"	300	44337
+InvestigationMethod	"weight"	97	17664
+AxonalChangesTest	"lesion"	289	42016
+InvestigationMethod	"neuronal"	103	18568
+AxonalChangesTest	"lesion"	290	42282
+InvestigationMethod	"neuronal"	126	21995
+AxonalChangesTest	"lesion"	300	44522
+NeuroprotectionTest	"cavity"	171	27063
+InvestigationMethod	"neuronal"	127	22086
+AxonalChangesTest	"lesion"	291	42432
+AxonalChangesTest	"lesion"	291	42466
+InvestigationMethod	"neuronal"	141	23727
+AxonalChangesTest	"lesion"	292	42679
+NeuroprotectionTest	"cavity"	172	27160
+InvestigationMethod	"5"	8	1370
+AxonalChangesTest	"lesion"	295	43268
+AxonalChangesTest	"lesion"	295	43306
+InvestigationMethod	"5"	33	6852
+AxonalChangesTest	"lesion"	296	43488
+InvestigationMethod	"5"	65	11808
+AxonalChangesTest	"lesion"	296	43542
+NeuroprotectionTest	"survival"	247	35420
+AxonalChangesTest	"lesion"	274	39598
+InvestigationMethod	"5"	74	13253
+AxonalChangesTest	"lesion"	287	41661
+InvestigationMethod	"5"	77	13659
+AxonalChangesTest	"lesion"	288	41879
+InvestigationMethod	"5"	90	16068
+AxonalChangesTest	"mean"	293	42867
+InvestigationMethod	"5"	114	20193
+AxonalChangesTest	"distribution"	297	43793
+InvestigationMethod	"5"	125	21858
+AxonalChangesTest	"number"	284	41196
+InvestigationMethod	"5"	162	25880
+AxonalChangesTest	"lesion"	265	38338
+NeuroprotectionTest	"cavity"	178	27777
+AxonalChangesTest	"lesion"	276	40057
+InvestigationMethod	"loss"	93	17033
+AxonalChangesTest	"lesion"	276	40100
+InvestigationMethod	"axons"	8	1362
+AxonalChangesTest	"lesion"	277	40128
+NeuroprotectionTest	"analysis"	34	7142
+AxonalChangesTest	"lesion"	278	40238
+InvestigationMethod	"axons"	8	1495
+AxonalChangesTest	"lesion"	280	40528
+InvestigationMethod	"axons"	9	1598
+AxonalChangesTest	"distribution"	298	44011
+InvestigationMethod	"axons"	70	12707
+AxonalChangesTest	"lesion"	288	41751
+InvestigationMethod	"axons"	182	28055
+AxonalChangesTest	"lesion"	298	43994
+NeuroprotectionTest	"neurons"	104	18720
+AxonalChangesTest	"lesion"	279	40424
+InvestigationMethod	"axons"	184	28248
+AxonalChangesTest	"lesion"	276	40033
+InvestigationMethod	"axons"	185	28484
+AxonalChangesTest	"lesion"	306	45447
+InvestigationMethod	"axons"	203	30790
+AxonalChangesTest	"mean"	293	42797
+}
+Score [getF1()=0,187, getPrecision()=0,108, getRecall()=0,714, tp=10, fp=83, fn=4, tn=0]
+Score [macroF1=0,187, macroPrecision=0,108, macroRecall=0,714]
+***********************************************************
+
+
+***********************************************************
+|[11/18]======Final Evaluation======_____________N188 Negredo 2008_____________|
+Final State  Model[1,00000] Objective[0,05607] {
+GOLD [20]:
+HistologicalInvestigationTest	"proportion of fibres expressing the MHC isotypes I (β/slow) or IIA"	197	38256
+HistologicalInvestigationTest	"fibre type distribution"	198	38460
+HistologicalInvestigationTest	"GPDH activity"	190	36882
+HistologicalInvestigationTest	"GPDH levels"	191	37074
+ProteinLevelAnalysis	"proportion of variant 2s"	211	41145
+InvestigationMethod	"MSI of the EDL"	187	36170
+InvestigationMethod	"mean wet muscle weight"	185	35909
+ProteinLevelAnalysis	"proportion of variant 2s"	209	40731
+HistologicalInvestigationTest	"histochemical glycolytic capacity of both muscle types"	189	36605
+HistologicalInvestigationTest	"proportion of type I+IIA fibres"	201	38948
+HistologicalInvestigationTest	"proportion of type I fibres"	200	38800
+ProteinLevelAnalysis	"proportion of slow (s) isoforms of both essential (e) and regulatory (r) MLCs"	205	39825
+HistologicalInvestigationTest	"Themuscle oxidative capacity, measured by quantitative SDH histochemistry"	193	37305
+HistologicalInvestigationTest	"proportion of IID/X fibres"	198	38511
+HistologicalInvestigationTest	"mean oxidative capacity"	194	37627
+ProteinLevelAnalysis	"proportion of slow MLC isoforms"	207	40339
+HistologicalInvestigationTest	"proportion of fibres expressing MHC-I"	199	38606
+HistologicalInvestigationTest	"hybrid IID/XB fibres"	197	38354
+InvestigationMethod	"fibre CSA"	185	35936
+HistologicalInvestigationTest	"fibres expressing MHC-IIA or IID/X, either alone or in combination"	199	38675
+}
+PREDICT [97]:
+AxonalRegenerationTest	"stumps"	62	13235
+HistologicalInvestigationTest	"proportion of fibres expressing MHC-I"	199	38606
+ImagingTest	"values"	192	37297
+NonFunctionalTest	"identified"	93	19139
+ScarringTest	"present"	210	40928
+ScarringTest	"expression"	89	18095
+ScarringTest	"present"	235	47410
+AxonalRegenerationTest	"fibres"	89	18120
+ScarringTest	"expression"	214	41642
+AutomatedGaitAnalysis	"higher"	184	35771
+ScarringTest	"expression"	224	43893
+AxonalRegenerationTest	"intensities"	97	20018
+AutomatedGaitAnalysis	"analysis"	105	21350
+ScarringTest	"expression"	231	46871
+AutomatedGaitAnalysis	"analysis"	164	32148
+SpinalCordEvokedPotentialsTest	"amplitude"	226	44936
+ScarringTest	"expression"	172	33565
+ScarringTest	"expression"	204	39748
+ScarringTest	"protein"	156	30386
+AxonalRegenerationTest	"staining"	91	18897
+AutomatedGaitAnalysis	"higher"	185	35959
+ScarringTest	"staining"	148	28859
+ScarringTest	"staining"	149	29021
+AutomatedGaitAnalysis	"higher"	220	43223
+ScarringTest	"staining"	99	20444
+AxonalRegenerationTest	"stumps"	63	13405
+ScarringTest	"staining"	102	20791
+ScarringTest	"staining"	105	21214
+AxonalRegenerationTest	"fibres"	92	18994
+ScarringTest	"staining"	95	19635
+ScarringTest	"staining"	96	19888
+ScarringTest	"staining"	97	20009
+AxonalRegenerationTest	"fibres"	95	19697
+AutomatedGaitAnalysis	"higher"	190	36979
+AutomatedGaitAnalysis	"higher"	203	39548
+AutomatedGaitAnalysis	"hind"	168	33082
+SpinalCordEvokedPotentialsTest	"amplitude"	227	45936
+AutomatedGaitAnalysis	"hind"	174	34054
+CystVolumeTest	"lesion"	72	14694
+AutomatedGaitAnalysis	"hind"	179	34517
+ScarringTest	"expression"	70	14418
+AutomatedGaitAnalysis	"hind"	203	39673
+AutomatedGaitAnalysis	"hind"	214	41934
+CystVolumeTest	"area"	133	26580
+BBBTest	"scores"	167	32978
+AutomatedGaitAnalysis	"hind"	218	42794
+AutomatedGaitAnalysis	"hind"	227	45744
+CystVolumeTest	"Mean"	100	20454
+BBBTest	"scores"	181	35022
+CystVolumeTest	"tissue"	113	22814
+AutomatedGaitAnalysis	"time"	69	14379
+HistologicalInvestigationTest	"proportion"	198	38511
+ImagingTest	"region"	105	21226
+CystVolumeTest	"percentage"	158	30743
+BBBTest	"group"	179	34691
+BodyWeightExamination	"rats"	164	31833
+HistologicalInvestigationTest	"proportion"	205	39825
+BBBTest	"group"	179	34641
+CystVolumeTest	"mean"	133	26553
+AutomatedGaitAnalysis	"hind"	232	46937
+AutomatedGaitAnalysis	"hind"	235	47611
+BodyWeightExamination	"weight"	36	9158
+CystVolumeTest	"mean"	111	22291
+BBBTest	"mean"	183	35618
+BodyWeightExamination	"weight"	76	15827
+BodyWeightExamination	"weight"	133	26504
+BodyWeightExamination	"weight"	165	32231
+BBBTest	"mean"	185	35909
+CystVolumeTest	"mean"	112	22434
+BodyWeightExamination	"body"	36	9153
+BodyWeightExamination	"body"	76	15822
+BodyWeightExamination	"body"	133	26499
+BBBTest	"mean"	194	37627
+BodyWeightExamination	"rats"	1	669
+BodyWeightExamination	"rats"	4	1335
+BodyWeightExamination	"rats"	4	1410
+CystVolumeTest	"mean"	189	36600
+BodyWeightExamination	"rats"	5	1549
+BBBTest	"mean"	227	45662
+BodyWeightExamination	"rats"	16	4206
+BodyWeightExamination	"rats"	36	9014
+BodyWeightExamination	"rats"	54	11790
+BodyWeightExamination	"rats"	56	12133
+BodyWeightExamination	"rats"	58	12641
+BodyWeightExamination	"rats"	61	13143
+BodyWeightExamination	"rats"	63	13308
+BodyWeightExamination	"rats"	66	13812
+BodyWeightExamination	"rats"	68	14144
+BBBTest	"mean"	112	22501
+CystVolumeTest	"area"	11	3008
+BodyWeightExamination	"rats"	71	14608
+BodyWeightExamination	"rats"	72	15152
+BodyWeightExamination	"rats"	74	15483
+BodyWeightExamination	"rats"	81	16605
+BodyWeightExamination	"rats"	130	25904
+BodyWeightExamination	"rats"	133	26761
+BodyWeightExamination	"rats"	139	27499
+}
+Score [getF1()=0,056, getPrecision()=0,031, getRecall()=0,300, tp=3, fp=94, fn=7, tn=0]
+Score [macroF1=0,056, macroPrecision=0,031, macroRecall=0,300]
+***********************************************************
+
+
+***********************************************************
+|[12/18]======Final Evaluation======_____________N134 Cao 2004_____________|
+Final State  Model[1,00000] Objective[0,29310] {
+GOLD [6]:
+GeneExpressionAnalysis	"mRNA expression"	252	33862
+AxonalRegenerationTest	"NF immunoactivity"	267	36086
+BBBTest	"BBB scores"	287	38525
+AxonalRegenerationTest	"BDA-traced CST fibres"	282	37858
+InclinedPlaneTest	"inclined plane test"	290	39048
+AxonalRegenerationTest	"axotomized neurons to regenerate"	275	37015
+}
+PREDICT [97]:
+BBBTest	"BBB scores"	286	38319
+ProteinLevelAnalysis	"ELISA"	70	13054
+AxonalRegenerationTest	"regrowth"	234	31238
+AutomatedGaitAnalysis	"walk"	289	38990
+CystVolumeTest	"formation"	227	30388
+ScarringTest	"GFAP expression"	243	32708
+AutomatedGaitAnalysis	"higher"	291	39318
+LesionVolumeTest	"cavitation"	181	26524
+NeuroprotectionTest	"rubrospinal neurons"	115	19362
+BBBTest	"BBB scores"	287	38525
+ScarringTest	"scar"	262	35400
+HistologicalInvestigationTest	"GDNF"	291	39297
+ImagingTest	"regions"	181	26566
+AstrogliosisTest	"were"	290	39091
+ImagingTest	"region"	268	36272
+AxonalRegenerationTest	"regeneration"	6	1276
+AutomatedGaitAnalysis	"higher"	252	33840
+AutomatedGaitAnalysis	"higher"	267	36064
+CystVolumeTest	"site"	183	26710
+HistologicalInvestigationTest	"number"	271	36542
+ImagingTest	"region"	120	20143
+ImagingTest	"region"	218	29629
+ImagingTest	"region"	221	29821
+HistologicalInvestigationTest	"GDNF"	276	37148
+AxonalRegenerationTest	"cord"	170	25416
+AutomatedGaitAnalysis	"higher"	277	37263
+ImagingTest	"values"	79	14159
+ScarringTest	"expression"	253	34082
+ImagingTest	"cord"	254	34370
+HistologicalInvestigationTest	"GDNF"	282	37934
+AxonalRegenerationTest	"analysis"	137	22187
+ImagingTest	"cord"	259	34943
+AutomatedGaitAnalysis	"support"	288	38665
+CystVolumeTest	"lesion"	227	30476
+ImagingTest	"cord"	172	25623
+HistologicalInvestigationTest	"GDNF"	264	35696
+ImagingTest	"cord"	232	31067
+AxonalRegenerationTest	"cord"	126	20855
+AutomatedGaitAnalysis	"hind"	285	38269
+ImagingTest	"region"	146	23324
+ScarringTest	"scar"	261	35154
+AutomatedGaitAnalysis	"hind"	288	38700
+ScarringTest	"protein"	254	34316
+ScarringTest	"expression"	254	34169
+ScarringTest	"GFAP expression"	155	24151
+AxonalRegenerationTest	"lesion"	231	30918
+ScarringTest	"present"	263	35555
+ScarringTest	"scar"	262	35464
+AutomatedGaitAnalysis	"analysis"	167	25194
+ScarringTest	"staining"	269	36295
+ScarringTest	"immunoreactivity"	239	32031
+AxonalRegenerationTest	"lesion"	261	35106
+AutomatedGaitAnalysis	"limbs"	288	38705
+AutomatedGaitAnalysis	"analysis"	267	36032
+ScarringTest	"expression"	251	33637
+ScarringTest	"expression"	252	33867
+AutomatedGaitAnalysis	"analysis"	282	37830
+CystVolumeTest	"lesion"	184	26948
+ScarringTest	"staining"	240	32082
+ScarringTest	"expression"	241	32349
+AxonalRegenerationTest	"fibres"	232	31025
+ScarringTest	"GFAP"	241	32468
+ScarringTest	"GFAP"	242	32606
+AutomatedGaitAnalysis	"analysis"	114	19300
+LesionVolumeTest	"graft"	95	16133
+LesionVolumeTest	"graft"	95	16252
+LesionVolumeTest	"sites"	94	15779
+AxonalRegenerationTest	"fibres"	225	30023
+LesionVolumeTest	"amount"	70	12966
+LesionVolumeTest	"sites"	120	20066
+LesionVolumeTest	"area"	55	10612
+LesionVolumeTest	"average"	162	24743
+AxonalRegenerationTest	"fibres"	226	30160
+LesionVolumeTest	"amount"	185	27027
+AstrogliosisTest	"area"	112	18863
+HistologicalInvestigationTest	"GDNF"	266	35957
+AxonalChangesTest	"astrocytes"	155	24188
+ScarringTest	"present"	184	26925
+AxonalRegenerationTest	"fibres"	183	26794
+ScarringTest	"scar"	183	26826
+AutomatedGaitAnalysis	"analysis"	57	11071
+ScarringTest	"scar"	181	26439
+ScarringTest	"glial"	182	26606
+AutomatedGaitAnalysis	"analysis"	237	31460
+ScarringTest	"staining"	177	25993
+ScarringTest	"staining"	181	26356
+AxonalRegenerationTest	"cord"	108	18307
+ScarringTest	"expression"	171	25475
+ScarringTest	"expression"	174	25746
+AxonalRegenerationTest	"CST"	94	15864
+ScarringTest	"GFAP"	182	26579
+ScarringTest	"expression"	170	25378
+AxonalRegenerationTest	"total"	95	15982
+ScarringTest	"staining"	153	24026
+ScarringTest	"expression"	149	23713
+AxonalRegenerationTest	"5"	138	22312
+ScarringTest	"GFAP"	153	24039
+}
+Score [getF1()=0,293, getPrecision()=0,175, getRecall()=0,895, tp=17, fp=80, fn=2, tn=0]
+Score [macroF1=0,293, macroPrecision=0,175, macroRecall=0,895]
+***********************************************************
+
+
+***********************************************************
+|[13/18]======Final Evaluation======_____________N220 Ruitenberg 2003_____________|
+Final State  Model[1,00000] Objective[0,40602] {
+GOLD [15]:
+WalkingAnalysisTest	"Calculated total error/step ratios"	406	60536
+WalkingAnalysisTest	"deficit-scoring method"	406	60633
+AxonalSproutingTest	"sprouting of RST axons"	381	56117
+WalkingAnalysisTest	"horizontal rope locomotion performance"	409	60998
+AxonalChangesTest	"distribution pattern and dieback of RST axons"	379	55652
+LesionVolumeTest	"lesion volumes"	383	56543
+WalkingAnalysisTest	"body posture and hindpaw placement"	402	60021
+MotorEvokedPotentialsTest	"rubrospinal MEP recordings"	390	57919
+WalkingAnalysisTest	"slipped or fell from the rope"	398	59330
+AxonalChangesTest	"Fiber counts of BDA-traced RST axons"	377	55208
+WalkingAnalysisTest	"error scores"	408	60862
+AxonalSproutingTest	"RST axon sprouting"	382	56436
+WalkingAnalysisTest	"errors"	411	61335
+LesionVolumeTest	"lesion volumes"	385	56858
+AxonalChangesTest	"induce growth of RST axons or counteract axonal “dieback”"	378	55553
+}
+PREDICT [97]:
+BBBTest	"BBB score"	391	58238
+MotorEvokedPotentialsTest	"MEPs"	129	18844
+AxonalRegenerationTest	"regenerating axons"	205	30945
+CystVolumeTest	"cavity formation"	255	38235
+BodyWeightExamination	"weight"	160	23665
+LesionVolumeTest	"lesion volumes"	310	44628
+AstrogliosisTest	"were"	50	8769
+AxonalChangesTest	"axons were detected"	260	39009
+SelfMutilationObservation	"scores"	228	34631
+LesionVolumeTest	"lesion size"	13	2333
+SelfMutilationObservation	"scores"	414	61939
+SelfMutilationObservation	"scores"	397	59204
+LesionVolumeTest	"lesion volumes"	221	33491
+SelfMutilationObservation	"scores"	403	60248
+LesionVolumeTest	"injury"	9	1602
+SelfMutilationObservation	"scores"	408	60868
+SelfMutilationObservation	"scores"	325	46302
+LesionVolumeTest	"injury"	14	2642
+SelfMutilationObservation	"scores"	158	23302
+LesionVolumeTest	"injury"	168	24735
+AxonalChangesTest	"neurons"	376	55164
+AstrogliosisTest	"used"	115	17209
+LadderRungTest	"walking"	145	21131
+AxonalChangesTest	"RST"	303	43983
+CystVolumeTest	"area"	137	20085
+LadderRungTest	"horizontal"	267	39750
+LadderRungTest	"horizontal"	319	45593
+LadderRungTest	"horizontal"	322	45938
+LadderRungTest	"task"	323	46089
+AxonalChangesTest	"counts"	298	42936
+LadderRungTest	"horizontal"	327	46580
+LadderRungTest	"horizontal"	394	58840
+LadderRungTest	"horizontal"	409	60998
+NeuroprotectionTest	"size"	213	32076
+AxonalChangesTest	"astrocytes"	249	37653
+NonFunctionalTest	"score"	147	21373
+AxonalChangesTest	"counts"	217	32714
+ElectrophysiologyTest	"stimulation"	172	25393
+SpinalCordEvokedPotentialsTest	"amplitude"	315	45199
+PhysiologyTest	"balance"	154	22820
+ElectrophysiologyTest	"cord"	126	18548
+SpinalCordEvokedPotentialsTest	"amplitude"	316	45362
+SpinalCordEvokedPotentialsTest	"amplitudes"	181	26951
+SpinalCordEvokedPotentialsTest	"amplitude"	181	26864
+SpinalCordEvokedPotentialsTest	"latency"	181	26878
+PhysiologyTest	"10%"	185	27713
+SpinalCordEvokedPotentialsTest	"amplitude"	388	57493
+ElectrophysiologyTest	"activity"	188	28204
+CystVolumeTest	"site"	206	31086
+PhysiologyTest	"10%"	188	28218
+AxonalChangesTest	"astrocytes"	271	40456
+PhysiologyTest	"10%"	198	29887
+TissueSparingTest	"area"	368	53891
+NeuronalChangesTest	"rubrospinal"	390	57919
+AxonalChangesTest	"1"	231	35006
+SinglePelletReachingTest	"animals"	128	18676
+TissueSparingTest	"area"	308	44441
+AxonalChangesTest	"numbers"	220	33229
+PhysiologyTest	"balance"	150	21962
+SinglePelletReachingTest	"animals"	130	19036
+AxonalChangesTest	"5"	285	41851
+ElectrophysiologyTest	"cord"	283	41766
+CystVolumeTest	"lesion"	195	29309
+LadderRungTest	"horizontal"	415	62113
+PhysiologyTest	"values"	173	25716
+LadderRungTest	"horizontal"	416	62492
+SinglePelletReachingTest	"animals"	128	18786
+AxonalChangesTest	"injury"	252	37768
+AxonalChangesTest	"injury"	286	41992
+SinglePelletReachingTest	"animals"	149	21716
+AxonalChangesTest	"observed"	255	38256
+PhysiologyTest	"10%"	160	23639
+SinglePelletReachingTest	"animals"	169	24876
+TissueSparingTest	"cord"	248	37407
+AxonalChangesTest	"injury"	265	39598
+SinglePelletReachingTest	"animals"	171	25172
+AxonalChangesTest	"observed"	273	40641
+ElectrophysiologyTest	"were"	384	56711
+PhysiologyTest	"balance"	148	21681
+NeuronalChangesTest	"5"	375	55051
+TissueSparingTest	"cord"	136	19828
+AxonalChangesTest	"observed"	277	41082
+TissueSparingTest	"cord"	135	19655
+AxonalChangesTest	"areas"	223	33845
+CystVolumeTest	"lesion"	305	44029
+SinglePelletReachingTest	"animals"	177	26305
+AxonalChangesTest	"axons"	283	41689
+AxonalChangesTest	"axons"	275	40847
+PhysiologyTest	"10%"	48	8604
+TissueSparingTest	"area"	261	39235
+ElectrophysiologyTest	"were"	415	62155
+AxonalChangesTest	"axons"	262	39365
+PhysiologyTest	"10%"	59	9851
+ThermalHyperalgesiaTest	"left"	176	26151
+ThermalHyperalgesiaTest	"left"	165	24425
+CystVolumeTest	"lesion"	337	48197
+LadderRungTest	"locomotor"	144	20936
+}
+Score [getF1()=0,406, getPrecision()=0,278, getRecall()=0,750, tp=27, fp=70, fn=9, tn=0]
+Score [macroF1=0,406, macroPrecision=0,278, macroRecall=0,750]
+***********************************************************
+
+
+***********************************************************
+|[14/18]======Final Evaluation======_____________N165 Li 2010_____________|
+Final State  Model[1,00000] Objective[0,02564] {
+GOLD [1]:
+BBBTest	"scale"	83	12158
+}
+PREDICT [77]:
+BBBTest	"BBB score"	4	1026
+CystVolumeTest	"cavities"	44	7531
+HistologicalInvestigationTest	"distribution"	72	10724
+AstrogliosisTest	"used"	43	7260
+TissueSparingTest	"matter"	25	4695
+NeuroprotectionTest	"rate"	78	11464
+InflammationTest	"difference"	80	11815
+TissueSparingTest	"matter"	24	4656
+NeuronalChangesTest	"length"	46	7733
+InflammationTest	"1"	46	7725
+LadderRungTest	"number"	0	14
+LadderRungTest	"number"	0	255
+TissueSparingTest	"cord"	19	3810
+AstrogliosisTest	"number"	51	8729
+NeuroprotectionTest	"more"	80	11727
+TissueSparingTest	"cord"	4	1002
+InflammationTest	"difference"	84	12463
+LadderRungTest	"number"	37	6689
+NeuroprotectionTest	"between"	80	11826
+LadderRungTest	"number"	2	778
+LadderRungTest	"number"	7	1247
+LadderRungTest	"number"	37	6659
+LadderRungTest	"number"	6	1176
+AstrogliosisTest	"immunofluorescence"	32	5613
+NeuroprotectionTest	"between"	84	12474
+HistologicalInvestigationTest	"2"	44	7436
+NeuronalChangesTest	"number"	78	11413
+LadderRungTest	"number"	51	8791
+LadderRungTest	"number"	61	9640
+LadderRungTest	"number"	72	10676
+LadderRungTest	"number"	75	11175
+AxonalChangesTest	"1"	31	5565
+NeuronalChangesTest	"number"	62	9793
+NeuronalChangesTest	"number"	76	11278
+TissueSparingTest	"cord"	0	336
+NeuronalChangesTest	"5"	81	11891
+NeuronalChangesTest	"primary"	33	5874
+NeuronalChangesTest	"cell"	37	6559
+WalkingAnalysisTest	"height"	1	527
+WalkingAnalysisTest	"height"	19	3879
+NeuronalChangesTest	"primary"	35	6422
+WalkingAnalysisTest	"method"	32	5664
+WalkingAnalysisTest	"ratio"	37	6610
+WalkingAnalysisTest	"method"	43	7249
+HindpawSensationTest	"average"	37	6595
+WalkingAnalysisTest	"method"	52	9002
+ApoptosisTest	"number"	79	11520
+WalkingAnalysisTest	"scores"	53	9014
+InflammationTest	"difference"	81	11973
+ImagingTest	"cord"	5	1118
+NeuronalChangesTest	"5"	34	6280
+WalkingAnalysisTest	"average"	7	1239
+InvestigationMethod	"5"	26	4916
+ApoptosisTest	"number"	80	11601
+InvestigationMethod	"5"	28	5012
+AxonalChangesTest	"injury"	40	6968
+AxonalChangesTest	"injury"	6	1227
+ElectrophysiologyTest	"averaged"	53	9049
+PhysiologyTest	"volume"	29	5205
+InvestigationMethod	"5"	48	8148
+AxonalChangesTest	"rostral"	70	10463
+InvestigationMethod	"5"	48	8181
+ApoptosisTest	"number"	74	11099
+PhysiologyTest	"volume"	30	5344
+AxonalChangesTest	"number"	77	11356
+InvestigationMethod	"mean"	55	9309
+InvestigationMethod	"mean"	56	9402
+AxonalChangesTest	"1"	57	9471
+ThermalHyperalgesiaTest	"time"	48	8105
+ThermalHyperalgesiaTest	"time"	9	1531
+ApoptosisTest	"number"	81	11873
+NeuroprotectionTest	"cell"	39	6751
+AxonalChangesTest	"brain"	40	6862
+AxonalChangesTest	"growth"	33	5945
+ThermalHyperalgesiaTest	"injury"	2	566
+AxonalChangesTest	"growth"	29	5301
+ThermalHyperalgesiaTest	"time"	50	8502
+}
+Score [getF1()=0,026, getPrecision()=0,013, getRecall()=1,000, tp=1, fp=76, fn=0, tn=0]
+Score [macroF1=0,026, macroPrecision=0,013, macroRecall=1,000]
+***********************************************************
+
+
+***********************************************************
+|[15/18]======Final Evaluation======_____________N159 Keyvan-Fouladi 2003_____________|
+Final State  Model[1,00000] Objective[0,00000] {
+GOLD [2]:
+SinglePelletReachingTest	"DFR"	83	13189
+SinglePelletReachingTest	"DFR"	88	14197
+}
+PREDICT [79]:
+AutomatedGaitAnalysis	"walking"	72	11385
+LesionVolumeTest	"cavities"	62	9361
+LesionVolumeTest	"amount"	2	628
+AstrogliosisTest	"staining"	68	10464
+HistologicalInvestigationTest	"immunostaining"	74	11726
+NeuronalChangesTest	"total"	79	12663
+CystVolumeTest	"cyst"	67	10285
+NeuronalChangesTest	"overall"	85	13649
+LadderRungTest	"horizontal"	59	9090
+LadderRungTest	"degrees"	63	9529
+TissueSparingTest	"spared"	2	666
+NeuronalChangesTest	"axons"	79	12784
+NeuronalChangesTest	"number"	94	15917
+NeuronalChangesTest	"axons"	91	15263
+NeuronalChangesTest	"axons"	92	15370
+WalkingAnalysisTest	"angles"	92	15523
+NeuronalChangesTest	"fibers"	92	15420
+WalkingAnalysisTest	"horizontal"	64	9731
+NeuronalChangesTest	"fibers"	94	15927
+WalkingAnalysisTest	"mean"	95	15992
+WalkingAnalysisTest	"total"	94	15911
+WalkingAnalysisTest	"number"	79	12669
+NeuronalChangesTest	"axons"	93	15782
+HistologicalInvestigationTest	"labeling"	59	9071
+NeuronalChangesTest	"cells"	90	14671
+InvestigationMethod	"axons"	5	1098
+InvestigationMethod	"axons"	6	1333
+InvestigationMethod	"axons"	59	9028
+AxonalChangesTest	"CST"	67	10331
+AxonalChangesTest	"distal"	68	10480
+InvestigationMethod	"axons"	62	9423
+AxonalChangesTest	"distal"	69	10581
+ElectrophysiologyTest	"were"	77	12403
+AxonalChangesTest	"CST"	74	11676
+AxonalChangesTest	"CST"	7	1453
+ElectrophysiologyTest	"were"	70	10791
+AxonalChangesTest	"5"	78	12603
+AxonalChangesTest	"axons"	77	12396
+NonFunctionalTest	"identified"	89	14428
+NeuronalChangesTest	"axons"	77	12361
+AxonalChangesTest	"CST"	90	14649
+AxonalChangesTest	"CST"	74	11755
+ThermalHyperalgesiaTest	"forepaw"	1	550
+AxonalChangesTest	"fibers"	69	10531
+ThermalHyperalgesiaTest	"had"	3	748
+ElectrophysiologyTest	"were"	0	348
+TissueSparingTest	"matter"	92	15605
+ThermalHyperalgesiaTest	"forepaw"	72	11349
+RearingTest	"use"	0	364
+BladderFunctionTest	"spontaneous"	96	16137
+RearingTest	"use"	70	10671
+AngiogenesisTest	"1"	74	11759
+AngiogenesisTest	"1"	78	12539
+AngiogenesisTest	"1"	83	13209
+AngiogenesisTest	"1"	96	16246
+AngiogenesisTest	"lesion"	74	11778
+AngiogenesisTest	"lesion"	84	13447
+ThermalHyperalgesiaTest	"forepaw"	4	1021
+RearingTest	"use"	70	10907
+NeuroprotectionTest	"caudal"	64	9830
+AstrogliosisTest	"staining"	64	9803
+OpenFieldTest	"after"	1	594
+OpenFieldTest	"after"	3	783
+OpenFieldTest	"after"	4	910
+OpenFieldTest	"after"	77	12466
+OpenFieldTest	"after"	80	12943
+OpenFieldTest	"after"	82	13130
+OpenFieldTest	"after"	83	13219
+OpenFieldTest	"after"	83	13300
+OpenFieldTest	"after"	85	13541
+OpenFieldTest	"after"	85	13808
+OpenFieldTest	"after"	86	13914
+OpenFieldTest	"after"	88	14218
+OpenFieldTest	"after"	90	14900
+OpenFieldTest	"after"	90	14991
+OpenFieldTest	"after"	96	16253
+AngiogenesisTest	"area"	65	9955
+CystVolumeTest	"occupied"	67	10295
+SelfMutilationObservation	"extent"	64	9596
+}
+Score [getF1()=0,000, getPrecision()=0,000, getRecall()=0,000, tp=0, fp=79, fn=2, tn=0]
+Score [macroF1=0,000, macroPrecision=0,000, macroRecall=0,000]
+***********************************************************
+
+
+***********************************************************
+|[16/18]======Final Evaluation======_____________N138 Chuah 2004_____________|
+Final State  Model[1,00000] Objective[0,02151] {
+GOLD [4]:
+AxonalRegenerationTest	"the number of dCST fibres"	193	24152
+AxonalSproutingTest	"axonal branching"	232	30746
+AxonalSproutingTest	"axonal branches"	231	30640
+AxonalSproutingTest	"branches"	230	30452
+}
+PREDICT [89]:
+AxonalRegenerationTest	"fibres"	188	23240
+HistologicalInvestigationTest	"fibres"	193	24171
+NeuronalChangesTest	"number"	225	29646
+TissueSparingTest	"matter"	109	16186
+AstrogliosisTest	"differences"	212	27462
+NeuroprotectionTest	"labeled"	196	24798
+NeuronalCellLossTest	"cell death"	198	25105
+NeuroprotectionTest	"caudal"	138	18759
+TissueSparingTest	"tissue"	37	5905
+InflammationTest	"macrophages"	171	21321
+TissueSparingTest	"cord"	95	13860
+ThermalHyperalgesiaTest	"left"	72	10550
+AstrogliosisTest	"number"	192	23928
+NeuroprotectionTest	"located"	161	20650
+HistologicalInvestigationTest	"fibres"	104	15428
+NeuroprotectionTest	"labeled"	223	29371
+AstrogliosisTest	"area"	213	27676
+HistologicalInvestigationTest	"fibre"	234	31030
+NeuroprotectionTest	"labeled"	222	29167
+HistologicalInvestigationTest	"fibres"	184	22600
+NeuronalChangesTest	"number"	212	27481
+AxonalChangesTest	"regeneration"	236	31393
+NeuronalChangesTest	"total"	224	29440
+AstrogliosisTest	"were"	222	29280
+AxonalChangesTest	"injury"	229	30321
+AxonalChangesTest	"counts"	192	23890
+NeuroprotectionTest	"labeled"	225	29731
+HistologicalInvestigationTest	"alone"	67	9800
+AxonalChangesTest	"fibre"	235	31212
+AxonalChangesTest	"brain"	94	13750
+NeuronalChangesTest	"number"	225	29721
+AxonalChangesTest	"axonal"	236	31372
+TissueSparingTest	"area"	186	22881
+NeuronalChangesTest	"between"	232	30792
+NeuronalChangesTest	"labeled"	213	27608
+TissueSparingTest	"cord"	73	10694
+AxonalChangesTest	"5"	74	10827
+NeuronalChangesTest	"5"	197	24855
+NeuronalChangesTest	"5"	199	25260
+TissueSparingTest	"cord"	75	10978
+NeuronalChangesTest	"5"	218	28554
+AxonalChangesTest	"5"	66	9685
+NeuronalChangesTest	"5"	167	21002
+NeuronalChangesTest	"mean"	235	31171
+AxonalChangesTest	"1"	10	926
+TissueSparingTest	"tissue"	100	14878
+NeuronalChangesTest	"labeled"	137	18661
+NeuronalChangesTest	"axons"	192	23962
+NeuronalChangesTest	"neurons"	224	29567
+ThermalHyperalgesiaTest	"left"	88	13049
+NeuronalChangesTest	"neurons"	197	24972
+NeuronalChangesTest	"neurons"	198	25062
+NeuronalChangesTest	"number"	224	29446
+NeuronalChangesTest	"found"	191	23716
+WalkingAnalysisTest	"method"	32	4967
+WalkingAnalysisTest	"10%"	36	5762
+WalkingAnalysisTest	"number"	193	24221
+WalkingAnalysisTest	"placement"	76	11091
+WalkingAnalysisTest	"0"	76	11165
+WalkingAnalysisTest	"horizontal"	85	12362
+WalkingAnalysisTest	"10%"	87	12795
+WalkingAnalysisTest	"placement"	66	9700
+NeuronalChangesTest	"found"	187	23032
+WalkingAnalysisTest	"ratio"	178	21652
+WalkingAnalysisTest	"ratio"	183	22377
+WalkingAnalysisTest	"ratio"	184	22579
+WalkingAnalysisTest	"trajectory"	206	26572
+WalkingAnalysisTest	"ratio"	225	29708
+WalkingAnalysisTest	"ratios"	227	30058
+WalkingAnalysisTest	"ratio"	233	30860
+WalkingAnalysisTest	"test"	50	7508
+NeuronalChangesTest	"numbers"	202	25847
+WalkingAnalysisTest	"test"	114	16835
+WalkingAnalysisTest	"total"	65	9575
+ThermalHyperalgesiaTest	"left"	68	10171
+ElectrophysiologyTest	"stimulation"	220	28886
+WalkingAnalysisTest	"number"	14	1495
+NeuronalChangesTest	"labeled"	127	17638
+WalkingAnalysisTest	"number"	193	24156
+WalkingAnalysisTest	"number"	104	15413
+WalkingAnalysisTest	"number"	107	15851
+ApoptosisTest	"number"	222	29157
+WalkingAnalysisTest	"number"	108	16001
+WalkingAnalysisTest	"number"	109	16129
+WalkingAnalysisTest	"number"	127	17628
+WalkingAnalysisTest	"number"	130	17938
+InvestigationMethod	"axonal"	232	30746
+WalkingAnalysisTest	"number"	131	18177
+NeuronalChangesTest	"labeled"	130	17948
+}
+Score [getF1()=0,022, getPrecision()=0,011, getRecall()=0,250, tp=1, fp=88, fn=3, tn=0]
+Score [macroF1=0,022, macroPrecision=0,011, macroRecall=0,250]
+***********************************************************
+
+
+***********************************************************
+|[17/18]======Final Evaluation======_____________N253 Salehi 2009_____________|
+Final State  Model[1,00000] Objective[0,16822] {
+GOLD [7]:
+MyelinationTest	"percentage of myelinated area"	178	19952
+MyelinationTest	"percentage of myelinated area"	177	19792
+TissueSparingTest	"percentage of spared tissue"	175	19591
+BBBTest	"BBB scores"	162	17900
+TissueSparingTest	"segment examined was spared"	172	19218
+TissueSparingTest	"percentage of spared tissue"	174	19436
+MyelinationTest	"percentage of myelinated area"	176	19676
+}
+PREDICT [95]:
+BBBTest	"BBB scores"	122	14473
+TissueSparingTest	"spared tissue"	174	19450
+CystVolumeTest	"cavities"	168	18711
+BodyWeightExamination	"rats"	12	1498
+BodyWeightExamination	"rats"	33	4220
+CystVolumeTest	"mean"	164	18143
+BodyWeightExamination	"rats"	163	18048
+BodyWeightExamination	"rats"	33	4257
+BBBTest	"average"	181	20441
+CystVolumeTest	"percentage"	177	19792
+HistologicalInvestigationTest	"activity"	43	5623
+BodyWeightExamination	"rats"	5	691
+CystVolumeTest	"number"	129	14915
+BodyWeightExamination	"rats"	29	3829
+BodyWeightExamination	"rats"	34	4623
+BodyWeightExamination	"rats"	37	4755
+BBBTest	"Basso"	93	11596
+CystVolumeTest	"tissue"	40	5160
+BodyWeightExamination	"rats"	74	9729
+BodyWeightExamination	"rats"	79	10242
+BodyWeightExamination	"rats"	91	11507
+ThermalHyperalgesiaTest	"injury"	168	18695
+BodyWeightExamination	"rats"	96	11919
+LesionVolumeTest	"damage"	170	18892
+InflammationTest	"difference"	176	19776
+NeuroprotectionTest	"areas"	102	12487
+AstrogliosisTest	"area"	126	14737
+LadderRungTest	"locomotor"	93	11642
+LadderRungTest	"test"	93	11652
+TissueSparingTest	"white"	186	20999
+ThermalHyperalgesiaTest	"had"	10	1231
+LadderRungTest	"test"	111	13549
+LadderRungTest	"test"	112	13770
+CystVolumeTest	"tissue"	43	5542
+SelfMutilationObservation	"extent"	170	18875
+SelfMutilationObservation	"scores"	161	17790
+SelfMutilationObservation	"scores"	162	17904
+SelfMutilationObservation	"scores"	112	13662
+LesionVolumeTest	"damaged"	171	19032
+NeuroprotectionTest	"numbers"	113	13782
+SelfMutilationObservation	"scores"	125	14581
+LesionVolumeTest	"site"	168	18687
+AstrogliosisTest	"processes"	139	15659
+LadderRungTest	"number"	146	16201
+LadderRungTest	"number"	183	20702
+LadderRungTest	"number"	51	6479
+LadderRungTest	"number"	106	13055
+TissueSparingTest	"spared tissue"	175	19605
+ThermalHyperalgesiaTest	"evaluation"	95	11836
+NeuroprotectionTest	"survival"	88	11087
+HistologicalInvestigationTest	"both"	7	854
+NeuroprotectionTest	"neuronal"	152	16852
+LadderRungTest	"number"	107	13189
+InflammationTest	"cells"	181	20460
+LadderRungTest	"number"	103	12615
+TissueSparingTest	"spared"	127	14821
+ThermalHyperalgesiaTest	"had"	127	14779
+AstrogliosisTest	"cells"	103	12638
+LadderRungTest	"number"	106	12994
+NeuroprotectionTest	"neuronal"	139	15650
+HistologicalInvestigationTest	"tissue"	10	1155
+LadderRungTest	"number"	108	13334
+NeuroprotectionTest	"tissue"	170	18885
+HistologicalInvestigationTest	"ratio"	111	13637
+NeuronalChangesTest	"numbers"	185	20838
+AxonalChangesTest	"counts"	179	20036
+NeuronalChangesTest	"numbers"	182	20566
+NeuronalCellLossTest	"death"	0	265
+AxonalChangesTest	"number"	179	20059
+AxonalChangesTest	"growth"	64	8489
+AstrogliosisTest	"were"	7	859
+AxonalChangesTest	"counts"	128	14903
+TissueSparingTest	"spared tissue"	126	14708
+ThermalHyperalgesiaTest	"had"	155	17357
+NeuroprotectionTest	"area"	105	12967
+AxonalChangesTest	"1"	164	18441
+AstrogliosisTest	"were"	9	1069
+AxonalChangesTest	"1"	115	13994
+NeuroprotectionTest	"analysis"	109	13390
+AxonalChangesTest	"1"	164	18413
+TissueSparingTest	"spinal"	171	19101
+ThermalHyperalgesiaTest	"evaluation"	166	18556
+NeuronalChangesTest	"between"	183	20689
+NeuronalChangesTest	"between"	174	19475
+InflammationTest	"difference"	183	20678
+NeuronalChangesTest	"neuronal"	186	21065
+NeuronalChangesTest	"cell"	183	20697
+HistologicalInvestigationTest	"cord"	137	15489
+NeuronalChangesTest	"cell"	179	20031
+AxonalChangesTest	"regeneration"	186	21025
+NeuronalChangesTest	"between"	165	18481
+ThermalHyperalgesiaTest	"injury"	87	10959
+NeuronalChangesTest	"found"	174	19469
+AstrogliosisTest	"used"	5	701
+HistologicalInvestigationTest	"cells"	103	12709
+}
+Score [getF1()=0,168, getPrecision()=0,095, getRecall()=0,750, tp=9, fp=86, fn=3, tn=0]
+Score [macroF1=0,168, macroPrecision=0,095, macroRecall=0,750]
+***********************************************************
+
+
+***********************************************************
+|[18/18]======Final Evaluation======_____________N192 Polentes 2004_____________|
+Final State  Model[1,00000] Objective[0,00000] {
+GOLD [4]:
+ElectromyographyTest	"EMG analysis"	235	39387
+ElectrophysiologyTest	"Supralesional spinal cord stimulation"	273	46629
+ElectrophysiologyTest	"intensity of the right diaphragm activity"	250	42370
+ElectrophysiologyTest	"phrenic nerves were recorded"	251	42551
+}
+PREDICT [97]:
+AxonalRegenerationTest	"incidence"	222	37155
+AutomatedGaitAnalysis	"duration"	249	42098
+CystVolumeTest	"lesion"	269	45746
+BodyWeightExamination	"rats"	233	38760
+HistologicalInvestigationTest	"activity"	248	41997
+BBBTest	"locomotor"	47	9776
+ImagingTest	"values"	114	22616
+HistologicalInvestigationTest	"activity"	242	40879
+ImagingTest	"cord"	76	15079
+AstrogliosisTest	"activation"	88	17623
+CystVolumeTest	"site"	281	48428
+FootprintAnalysisTest	"support"	47	9795
+ThermalHyperalgesiaTest	"stimulation"	93	18773
+TissueSparingTest	"grey"	172	30403
+InclinedPlaneTest	"mean"	109	21350
+AxonalRegenerationTest	"lesion"	206	34891
+ThermalHyperalgesiaTest	"stimulation"	92	18599
+SomatosensoryEvokedPotentialsTest	"potential"	121	23482
+TissueSparingTest	"grey"	193	33082
+ThermalHyperalgesiaTest	"stimulation"	8	1257
+AstrogliosisTest	"area"	108	21217
+InclinedPlaneTest	"performance"	119	23295
+InclinedPlaneTest	"test"	86	17379
+AxonalRegenerationTest	"analysis"	128	25252
+LesionVolumeTest	"average"	109	21405
+AstrogliosisTest	"mean"	222	37019
+HistologicalInvestigationTest	"activity"	254	43159
+LadderRungTest	"activity"	67	13265
+NeuroprotectionTest	"cell"	37	8319
+LadderRungTest	"activity"	69	13733
+LadderRungTest	"activity"	80	15887
+ImagingTest	"cord"	126	24967
+ImagingTest	"cord"	89	18151
+HistologicalInvestigationTest	"activity"	263	44597
+ImagingTest	"intensity"	87	17459
+ImagingTest	"signal"	69	13779
+ProteinLevelAnalysis	"2"	230	38349
+AxonalRegenerationTest	"cord"	116	22863
+ImagingTest	"spinal"	257	43726
+HistologicalInvestigationTest	"area"	279	48087
+ImagingTest	"areas"	91	18474
+ImagingTest	"spinal"	277	47543
+AxonalRegenerationTest	"lesion"	118	23107
+ImagingTest	"spinal"	123	24115
+ImagingTest	"nerve"	73	14510
+HistologicalInvestigationTest	"cord"	292	50677
+ImagingTest	"nerve"	76	14965
+AxonalRegenerationTest	"lesion"	97	19424
+ImagingTest	"spinal"	48	9828
+HistologicalInvestigationTest	"activity"	167	29840
+ImagingTest	"spinal"	48	10010
+ImagingTest	"spinal"	57	11425
+ProteinLevelAnalysis	"2"	133	25902
+ImagingTest	"nerve"	89	18073
+AxonalRegenerationTest	"lesion"	98	19643
+HistologicalInvestigationTest	"activity"	187	32238
+ImagingTest	"nerve"	78	15397
+ImagingTest	"nerve"	78	15516
+ImagingTest	"nerve"	79	15570
+ImagingTest	"nerve"	81	16175
+ProteinLevelAnalysis	"3"	106	20789
+ImagingTest	"nerve"	82	16526
+HistologicalInvestigationTest	"spinal"	266	45329
+ImagingTest	"nerve"	86	17293
+ImagingTest	"cord"	49	10100
+ImagingTest	"cord"	50	10336
+AxonalRegenerationTest	"incidence"	105	20678
+ProteinLevelAnalysis	"3"	142	26752
+ImagingTest	"cord"	53	10603
+HistologicalInvestigationTest	"spinal"	232	38615
+ImagingTest	"cord"	56	11194
+ImagingTest	"cord"	58	11622
+ImagingTest	"cord"	60	11921
+AxonalRegenerationTest	"reached"	222	37008
+ImagingTest	"cord"	60	12069
+HistologicalInvestigationTest	"spinal"	233	38849
+ImagingTest	"cord"	66	13071
+ImagingTest	"nerve"	92	18562
+ProteinLevelAnalysis	"3"	236	39476
+ImagingTest	"nerve"	98	19719
+AxonalRegenerationTest	"cord"	85	17069
+HistologicalInvestigationTest	"spinal"	236	39408
+ImagingTest	"nerve"	102	20243
+ImagingTest	"cord"	87	17525
+ImagingTest	"cord"	89	17988
+ImagingTest	"spinal"	99	19893
+HistologicalInvestigationTest	"spinal"	224	37468
+ImagingTest	"cord"	77	15123
+AxonalRegenerationTest	"brainstem"	122	23706
+ImagingTest	"cord"	85	17015
+ProteinLevelAnalysis	"3"	237	39783
+ImagingTest	"cord"	91	18469
+ImagingTest	"cord"	92	18594
+HistologicalInvestigationTest	"cord"	280	48258
+ImagingTest	"cord"	92	18711
+ImagingTest	"cord"	101	20097
+AxonalRegenerationTest	"regenerated"	132	25851
+}
+Score [getF1()=0,000, getPrecision()=0,000, getRecall()=0,000, tp=0, fp=97, fn=4, tn=0]
+Score [macroF1=0,000, macroPrecision=0,000, macroRecall=0,000]
+***********************************************************
+
+
+Mean Score: Score [getF1()=0,230, getPrecision()=0,134, getRecall()=0,804, tp=222, fp=1436, fn=54, tn=0]
+null
+CRFStatistics [context=Test, getTotalDuration()=7743362]
+genutztes Modell: models/nerla/trained_literal/investigation_method
