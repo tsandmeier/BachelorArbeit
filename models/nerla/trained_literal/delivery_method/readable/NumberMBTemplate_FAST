@@ -1,0 +1,10 @@
+Mentions between <DeliveryMethod, InhalationDelivery> :0	0.013998881824576396
+Mentions between <InfusionDelivery, InjectionDelivery> :0	0.011999631086195674
+Mentions between <InjectionDelivery, InfusionDelivery> :0	0.011998951742286464
+Mentions between <InhalationDelivery, DeliveryMethod> :0	0.003999660816828436
+Mentions between <InhalationDelivery, InhalationDelivery> :0	-0.0039996029203788796
+Mentions between <InjectionDelivery, DeliveryMethod> :0	-0.004999705340869849
+Mentions between <InhalationDelivery, InjectionDelivery> :0	-0.015997410181601737
+Mentions between <DeliveryMethod, DeliveryMethod> :0	-0.021996588456081295
+Mentions between <DeliveryMethod, InjectionDelivery> :0	-0.02199676027459165
+Mentions between <InjectionDelivery, InjectionDelivery> :0	-0.0379931884611438
