@@ -52,7 +52,7 @@ import java.util.stream.Collectors;
  */
 public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemReadProject {
     private static Logger log = LogManager.getFormatterLogger("de.hterhors.semanticmr.projects.examples.corpus.nerl.NerlCorpusCreationExample");
-    private final boolean overrideModel = false;
+    private final boolean overrideModel = true;
     SemanticParsingCRFCustomTwo crf;
     private IEvaluatable.Score mean;
     private int mode;
@@ -94,16 +94,16 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
         double alpha;
 
         if (args.length == 4) {
-            mode = Integer.valueOf(args[0]);
-            alpha = Double.valueOf(args[1]);
+            mode = Integer.parseInt(args[0]);
+            alpha = Double.parseDouble(args[1]);
             new NamedEntityRecognitionAndLinkingGeneralTest(mode, alpha, args[2], args[3], 1);
         } else if (args.length == 3) {
-            mode = Integer.valueOf(args[0]);
-            alpha = Double.valueOf(args[1]);
+            mode = Integer.parseInt(args[0]);
+            alpha = Double.parseDouble(args[1]);
             new NamedEntityRecognitionAndLinkingGeneralTest(mode, alpha, args[2], "NERLA1234" + new Random().nextInt(10000), 1);
         } else if (args.length == 5) {
-            mode = Integer.valueOf(args[0]);
-            alpha = Double.valueOf(args[1]);
+            mode = Integer.parseInt(args[0]);
+            alpha = Double.parseDouble(args[1]);
             new NamedEntityRecognitionAndLinkingGeneralTest(mode, alpha, args[2], args[3], Integer.valueOf(args[4]));
         } else {
             log.info("Falsche Anzahl an Parametern!");
@@ -281,12 +281,12 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
                 featureTemplates.add(new WBTemplate_FAST());
 //                featureTemplates.add(new WMTemplate());
                 featureTemplates.add(new WordsInBetweenTemplate_FAST());
-//                featureTemplates.add(new BigramTemplate());
+                featureTemplates.add(new BigramTemplate());
 //                featureTemplates.add(new HMTemplate());
                 featureTemplates.add(new NumberMBTemplate_FAST());
                 featureTemplates.add(new NumberWBTemplate_FAST());
 //                featureTemplates.add(new OverlappingTemplate());
-                featureTemplates.add(new PosInDocTemplate());
+//                featureTemplates.add(new PosInDocTemplate());
                 featureTemplates.add(new PosInSentenceTemplate());
                 break;
             case 2:
@@ -378,21 +378,21 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
          */
         final File modelBaseDir = new File("models/nerla/");
 //        this.modelName = "NERLA1234" + new Random().nextInt(10000);
-        this.modelName = typeOfTopic;
+        this.modelName = "testModel";
 
         Model model;
 
 
-        if (Model.exists(modelBaseDir, modelName) && !overrideModel) {
+        if (Model.exists(modelBaseDir, this.modelName) && !overrideModel) {
             /**
              * If the model exists load from the file system.
              */
-            model = Model.load(modelBaseDir, modelName);
+            model = Model.load(modelBaseDir, this.modelName);
         } else {
             /**
              * If the model does not exists, create a new model.
              */
-            model = new Model(featureTemplates, modelBaseDir, modelName);
+            model = new Model(featureTemplates, modelBaseDir, this.modelName);
         }
 
         /**
@@ -474,14 +474,14 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
 
 //        writeToJson(results, "jsonFiles/group_name/predictions_normal/");
 
-//        new FilterHelper(results).filterOrganismModel();
+        new FilterHelper(results).filterWithoutAgeAndWeight();
 
-        mean = evaluate(log, results);
+//        mean = evaluate(log, results);
 
-        log.info(crf.getTrainingStatistics());
-        log.info(crf.getTestStatistics());
+//        log.info(crf.getTrainingStatistics());
+//        log.info(crf.getTestStatistics());
 
-        log.info("genutztes Modell: " + modelBaseDir.toString() + "/" + modelName);
+        log.info("genutztes Modell: " + modelBaseDir.toString() + "/" + this.modelName);
 
 //        log.info("******************TRAINIERT MIT LITERAL - GETESTET MIT DOCLINKED*****************************");
 //
@@ -530,55 +530,8 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
         return goldMods;
     }
 
-    private void addNumberTemplates(List<AbstractFeatureTemplate> featureTemplates) {
-        featureTemplates.add(new NumberMBTemplate());
-        featureTemplates.add(new NumberWBTemplate());
-    }
-
-    private void addsingleContextTemplates(List<AbstractFeatureTemplate> featureTemplates) {
-        featureTemplates.add(new BMFLTemplate(false));
-        featureTemplates.add(new AMFLTemplate(false));
-        featureTemplates.add(new BracketsTemplate());
-    }
-
-    private void addDoubleContextTemplates(List<AbstractFeatureTemplate> featureTemplates) {
-        featureTemplates.add(new MentionsInSentenceTemplate()); //sehr nützlich
-        featureTemplates.add(new WordsInBetweenTemplate());
-        featureTemplates.add(new WBTemplate());
-        featureTemplates.add(new RootTypeTemplate());
-        featureTemplates.add(new WBOTemplate());
-    }
-
-    private void addSingleMentionTemplates(List<AbstractFeatureTemplate> featureTemplates) {
-        featureTemplates.add(new BigramTemplate(false)); //nützlich
-        featureTemplates.add(new HMTemplate(false));
-        featureTemplates.add(new StartsWithCapitalTemplate());
-        featureTemplates.add(new IdentityTemplate());
-        featureTemplates.add(new WMTemplate());
-        featureTemplates.add(new WordCountTemplate());
-    }
-
-    private void addDoubleComparisonTemplates(List<AbstractFeatureTemplate> featureTemplates) {
-        featureTemplates.add(new OverlappingTemplate(false));
-        featureTemplates.add(new SimilarWordsTemplate());
-    }
-
-    private void addNormalizationtemplates(List<AbstractFeatureTemplate> featureTemplates) {
-        featureTemplates.add(new NormalizedWeightTemplate());
-        featureTemplates.add(new NormalizedAgeTemplate());
-    }
-
-
-    public SemanticParsingCRFCustomTwo getCRF() {
-        return crf;
-    }
-
     public IEvaluatable.Score getMean() {
         return mean;
-    }
-
-    public List<AbstractFeatureTemplate<?>> getFeatureTemplates() {
-        return featureTemplates;
     }
 
 }

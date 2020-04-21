@@ -2,6 +2,7 @@ package tsandmeier.ba.templates;
 
 import de.hterhors.semanticmr.crf.model.AbstractFactorScope;
 import de.hterhors.semanticmr.crf.model.Factor;
+import de.hterhors.semanticmr.crf.structure.EntityType;
 import de.hterhors.semanticmr.crf.structure.annotations.DocumentLinkedAnnotation;
 import de.hterhors.semanticmr.crf.templates.AbstractFeatureTemplate;
 import de.hterhors.semanticmr.crf.variables.Document;
@@ -27,14 +28,16 @@ public class PosInSentenceTemplate extends AbstractFeatureTemplate<PosInSentence
     static class PosInSentenceScope
             extends AbstractFactorScope {
 
-        DocumentLinkedAnnotation annotation;
-        int senLength;
+        int indexInSentence;
+        int numberOfTokensInSentence;
+        EntityType entityType;
 
         public PosInSentenceScope(
-                AbstractFeatureTemplate<PosInSentenceScope> template, DocumentLinkedAnnotation annotation, int senLength) {
+                AbstractFeatureTemplate<PosInSentenceScope> template, int indexInSentence, int numberOfTokensInSentence, EntityType entityType) {
             super(template);
-            this.annotation = annotation;
-            this.senLength = senLength;
+            this.indexInSentence = indexInSentence;
+            this.numberOfTokensInSentence = numberOfTokensInSentence;
+            this.entityType = entityType;
         }
 
         @Override
@@ -53,13 +56,14 @@ public class PosInSentenceTemplate extends AbstractFeatureTemplate<PosInSentence
             if (o == null || getClass() != o.getClass()) return false;
             if (!super.equals(o)) return false;
             PosInSentenceScope that = (PosInSentenceScope) o;
-            return senLength == that.senLength &&
-                    Objects.equals(annotation, that.annotation);
+            return indexInSentence == that.indexInSentence &&
+                    numberOfTokensInSentence == that.numberOfTokensInSentence &&
+                    Objects.equals(entityType, that.entityType);
         }
 
         @Override
         public int hashCode() {
-            return Objects.hash(super.hashCode(), annotation, senLength);
+            return Objects.hash(super.hashCode(), indexInSentence, numberOfTokensInSentence, entityType);
         }
     }
 
@@ -67,33 +71,27 @@ public class PosInSentenceTemplate extends AbstractFeatureTemplate<PosInSentence
     public List<PosInSentenceScope> generateFactorScopes(State state) {
         List<PosInSentenceScope> factors = new ArrayList<>();
 
-        Document document = state.getInstance().getDocument();
-
         for (DocumentLinkedAnnotation annotation : super.<DocumentLinkedAnnotation>getPredictedAnnotations(state)) {
-            DocumentToken token = annotation.relatedTokens.get(annotation.relatedTokens.size() - 1);
-            factors.add(new PosInSentenceScope(this, annotation, annotation.getSentenceOfAnnotation().length())) ;
+            DocumentToken token = annotation.relatedTokens.get(0);
+            factors.add(new PosInSentenceScope(this, annotation.getTokenizedSentenceOfAnnotation().indexOf(token), annotation.getTokenizedSentenceOfAnnotation().size(), annotation.entityType));
         }
         return factors;
     }
 
     @Override
     public void generateFeatureVector(Factor<PosInSentenceScope> factor) {
-        DocumentLinkedAnnotation annotation = factor.getFactorScope().annotation;
-        int docLength = factor.getFactorScope().senLength;
 
-        double x = annotation.documentPosition.docCharOffset / docLength;
+        int positionINSentence = factor.getFactorScope().indexInSentence;
+        int numberOfTokensInSentence = factor.getFactorScope().numberOfTokensInSentence;
 
-        StringBuilder sb = new StringBuilder();
-        annotation.relatedTokens.forEach(p -> sb.append(p.getText()).append(" "));
-
+        double x = (double) (positionINSentence + 1) / (double) numberOfTokensInSentence;
 
         if (x < 0.33) {
-            factor.getFeatureVector().set("Im ersten Drittel: " + sb.toString().trim(), true);
+            factor.getFeatureVector().set("Im ersten Drittel: " + factor.getFactorScope().entityType.name, true);
         } else if (x > 0.66) {
-            factor.getFeatureVector().set("Im letzten Drittel: " + sb.toString().trim(), true);
+            factor.getFeatureVector().set("Im letzten Drittel: " + factor.getFactorScope().entityType.name, true);
         } else {
-            factor.getFeatureVector().set("im zweiten Drittel:" + sb.toString().trim(), true);
+            factor.getFeatureVector().set("Im zweiten Drittel:" + factor.getFactorScope().entityType.name, true);
         }
-
     }
 }

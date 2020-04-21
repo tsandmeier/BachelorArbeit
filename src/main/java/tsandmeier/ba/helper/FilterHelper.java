@@ -156,4 +156,45 @@ public class FilterHelper {
         return score;
     }
 
+    public IEvaluatable.Score filterWithoutAgeAndWeight() {
+        IEvaluatable.Score score = new IEvaluatable.Score();
+
+        int counter = 0;
+
+        for (Map.Entry<Instance, State> result : entities.entrySet()) {
+            counter++;
+            log.info("**************************State Nummer "+counter+"***************************************");
+
+
+            List<AbstractAnnotation> goldAnnos = result.getValue().getGoldAnnotations().getAnnotations().stream().filter(a -> !a.getEntityType().equals(EntityType.get("Age")) && !a.getEntityType().equals(EntityType.get("Weight"))).collect(Collectors.toList());
+
+            log.info("GOLD["+goldAnnos.size()+"]:");
+            for(AbstractAnnotation goldAnno : goldAnnos){
+                log.info(goldAnno.toPrettyString());
+            }
+
+            log.info(System.lineSeparator());
+
+            List<AbstractAnnotation> predictedAnnos = result.getValue().getCurrentPredictions().getAnnotations().stream().filter(a -> !a.getEntityType().equals(EntityType.get("Age")) && !a.getEntityType().equals(EntityType.get("Weight"))).collect(Collectors.toList());
+
+
+            log.info("PREDICTED["+predictedAnnos.size()+"]:");
+
+            for(AbstractAnnotation predictedAnno : predictedAnnos){
+                log.info(predictedAnno.toPrettyString());
+            }
+
+            IEvaluatable.Score stateScore = new NerlaObjectiveFunctionPartialOverlap(EEvaluationDetail.DOCUMENT_LINKED).getEvaluator().scoreMultiValues(goldAnnos, predictedAnnos, IEvaluatable.Score.EScoreType.MICRO);
+
+            log.info(stateScore.toString());
+            log.info(System.lineSeparator());
+
+            score.add(stateScore);
+
+        }
+
+        log.info("SCORE: " + score);
+        return score;
+    }
+
 }
