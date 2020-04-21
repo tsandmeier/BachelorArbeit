@@ -133,7 +133,7 @@ public class NerlaEvaluatorPartialOverlap extends AbstractEvaluator {
 
                     for (DocumentToken goldToken : goldTokens) {
                         if (predictedTokens.stream()
-                                .anyMatch(p -> p.getText().equals(goldToken.getText()) && p.getDocTokenIndex() == goldToken.getDocTokenIndex())) {
+                                .anyMatch(p -> p.getText().equals(goldToken.getText()))) {
                             tp++;
 
                             continue outer;
@@ -145,6 +145,8 @@ public class NerlaEvaluatorPartialOverlap extends AbstractEvaluator {
 
             fp += otherAnnotations.size() - tp;
         }
+
+        // && p.getDocTokenIndex() == goldToken.getDocTokenIndex()
 
         else if(evaluationDetail.equals(EEvaluationDetail.ENTITY_TYPE)) {
             outer:

@@ -117,7 +117,6 @@ public class EntityRecLinkExplorerCustom implements IExplorationStrategy {
 					} catch (RuntimeException e) {
 						e.printStackTrace();
 					}
-
 				}
 			}
 		}

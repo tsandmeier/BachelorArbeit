@@ -28,8 +28,23 @@ public class AbstractSemReadProject {
 //				System.out.println(c.scoreMultiValues(res.getKey().getGoldAnnotations().getAnnotations(),
 //						res.getValue().getCurrentPredictions().getAnnotations()));
 //			}
-			mean.add(res.getValue().getMicroScore());
+
+
+
+
+			Score score = res.getValue().getMicroScore();
+
+//			if(score.isMacro()) {
+//				score.setMacroToMicro();
+//			}
+
+			mean.add(score);
+
+
 			LogUtils.logState(log, "["+counter+"/"+countInstances+"]"+"======Final Evaluation======", res.getKey(), res.getValue());
+
+
+
 		}
 		log.info("Mean Score: " + mean);
 //		System.out.println("Mean Score: " + mean);

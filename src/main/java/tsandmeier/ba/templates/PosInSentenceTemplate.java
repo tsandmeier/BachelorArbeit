@@ -12,9 +12,6 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;
 
-/**
- * looks for one to a set number of words after a mention
- */
 
 public class PosInSentenceTemplate extends AbstractFeatureTemplate<PosInSentenceTemplate.PosInSentenceScope> {
 

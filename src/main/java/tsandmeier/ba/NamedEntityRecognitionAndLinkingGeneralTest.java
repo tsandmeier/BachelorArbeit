@@ -58,7 +58,7 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
     private int mode;
     List<AbstractFeatureTemplate<?>> featureTemplates;
 
-    private final EEvaluationDetail evaluationDetail = EEvaluationDetail.ENTITY_TYPE;
+    private final EEvaluationDetail evaluationDetail = EEvaluationDetail.DOCUMENT_LINKED;
 
     private double alpha;
 
@@ -96,15 +96,15 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
         if (args.length == 4) {
             mode = Integer.valueOf(args[0]);
             alpha = Double.valueOf(args[1]);
-            new NamedEntityRecognitionAndLinkingGeneralTest(args[2], args[3], 1).startProcedure(mode, alpha);
+            new NamedEntityRecognitionAndLinkingGeneralTest(mode, alpha, args[2], args[3], 1);
         } else if (args.length == 3) {
             mode = Integer.valueOf(args[0]);
             alpha = Double.valueOf(args[1]);
-            new NamedEntityRecognitionAndLinkingGeneralTest(args[2], "NERLA1234" + new Random().nextInt(10000), 1).startProcedure(mode, alpha);
+            new NamedEntityRecognitionAndLinkingGeneralTest(mode, alpha, args[2], "NERLA1234" + new Random().nextInt(10000), 1);
         } else if (args.length == 5) {
             mode = Integer.valueOf(args[0]);
             alpha = Double.valueOf(args[1]);
-            new NamedEntityRecognitionAndLinkingGeneralTest(args[2], args[3], Integer.valueOf(args[4])).startProcedure(mode, alpha);
+            new NamedEntityRecognitionAndLinkingGeneralTest(mode, alpha, args[2], args[3], Integer.valueOf(args[4]));
         } else {
             log.info("Falsche Anzahl an Parametern!");
         }
@@ -127,7 +127,7 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
      * stored in its own json-file.
      */
 
-    public NamedEntityRecognitionAndLinkingGeneralTest(String typeOfTopic, String modelName, int recallFactor) {
+    public NamedEntityRecognitionAndLinkingGeneralTest(int mode, double alpha, String typeOfTopic, String modelName, int recallFactor) {
 
         /**
          * 1. STEP initialize the system.
@@ -165,16 +165,14 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
         this.instanceDirectory = new File("ner/" + typeOfTopic + "/instances/");
         this.modelName = modelName;
         this.recallFactor = recallFactor;
-    }
-
-    public void startProcedure(int mode, double alpha) throws IOException {
+        this.mode = mode;
+        this.alpha = alpha;
 
         log.info("Trainiert mit Objective Function, getestet mit ObjectiveFunctionPartialOverlap");
         log.info("Evaluation Detail: " + evaluationDetail.toString());
         log.info("MaxStepCrit: 50");
+        log.info("PREDICTHIGHRECALL: " + recallFactor);
 
-        this.alpha = alpha;
-        this.mode = mode;
 
 
         InstanceProvider.maxNumberOfAnnotations = 1000;
@@ -308,63 +306,7 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
                 featureTemplates.add(new PosInDocTemplate());
                 featureTemplates.add(new PosInSentenceTemplate());
                 break;
-            case 3:
-                featureTemplates.add(new AMFLTemplate());
-                featureTemplates.add(new BMFLTemplate());
-            case 4:
-                featureTemplates.add(new AMFLTemplate());
-                featureTemplates.add(new BMFLTemplate());
-                featureTemplates.add(new OverlappingTemplate());
-                break;
-            case 5:
-                featureTemplates.add(new AMFLTemplate());
-                featureTemplates.add(new BMFLTemplate());
-                featureTemplates.add(new SimilarWordsTemplate());
-            case 6:
-                featureTemplates.add(new BigramTemplate());
-                featureTemplates.add(new SimilarWordsTemplate());
-                break;
-            case 7:
-                featureTemplates.add(new BigramTemplate());
-                featureTemplates.add(new OverlappingTemplate());
-                break;
-            case 8:
-                featureTemplates.add(new BigramTemplate());
-                featureTemplates.add(new OverlappingTemplate());
-                featureTemplates.add(new SimilarWordsTemplate());
-                break;
-            case 9:
-                featureTemplates.add(new BigramTemplate());
-                featureTemplates.add(new OverlappingTemplate());
-                featureTemplates.add(new SimilarWordsTemplate());
-                featureTemplates.add(new AMFLTemplate());
-                featureTemplates.add(new BMFLTemplate());
-                break;
         }
-
-
-//        addNumberTemplates(featureTemplates);
-
-//
-//        featureTemplates.add(new AMFLTemplate());
-//        featureTemplates.add(new BMFLTemplate());
-
-
-//		featureTemplates.add(new WMTemplate()); //scheint nichts beizutragen, obwohl einzeln nicht schlecht
-
-
-//		featureTemplates.add(new WBOTemplate());
-
-
-        //		featureTemplates.add(new WeightBetweenTemplate());
-
-
-//		featureTemplates.add(new MorphologicalNerlaTemplate());
-//		featureTemplates.add(new TokenContextTemplate());
-//		featureTemplates.add(new IntraTokenTemplate());
-//		featureTemplates.add(new LevenshteinTemplate());
-
-//		featureTemplates.add(new AvgNumberTemplate());
 
         /**
          * During exploration we initialize each state with no annotations. In NERLA
@@ -434,9 +376,9 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
          *
          * NOTE: Make sure that the base model directory exists!
          */
-        final File modelBaseDir = new File("models/nerla/trained_entity_type");
-//        final String modelName = "NERLA1234" + new Random().nextInt(10000);
-        final String modelName = typeOfTopic;
+        final File modelBaseDir = new File("models/nerla/");
+//        this.modelName = "NERLA1234" + new Random().nextInt(10000);
+        this.modelName = typeOfTopic;
 
         Model model;
 
@@ -495,9 +437,8 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
 
 
 //        log.info("******************TRAINIERT MIT LITERAL - PREDICTED UND EVALUIERT MIT " + evaluationDetail + "*****************************");
-        log.info("PREDICTHIGHRECALL: " + recallFactor);
 
-        crf.changeObjectiveFunction(new NerlaObjectiveFunctionPartialOverlap(EEvaluationDetail.ENTITY_TYPE));
+//        crf.changeObjectiveFunction(new NerlaObjectiveFunctionPartialOverlap(EEvaluationDetail.ENTITY_TYPE));
 
 
         Map<Instance, State> results = crf.predictHighRecall(instanceProvider.getRedistributedTestInstances(), recallFactor, maxStepCrit,
