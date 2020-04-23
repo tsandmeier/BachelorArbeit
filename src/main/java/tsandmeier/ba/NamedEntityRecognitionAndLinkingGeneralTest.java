@@ -172,7 +172,6 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
         log.info("PREDICTHIGHRECALL: " + recallFactor);
 
 
-
         InstanceProvider.maxNumberOfAnnotations = 1000;
 
         /**
@@ -284,9 +283,13 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
                 featureTemplates.add(new NumberMBTemplate_FAST());
                 featureTemplates.add(new NumberWBTemplate_FAST());
 //                featureTemplates.add(new OverlappingTemplate());
-//                featureTemplates.add(new PosInDocTemplate());
 
-                featureTemplates.add(new PosInSentenceTemplateTents());
+//                featureTemplates.add(new PosInDocTemplateDrittel());
+                featureTemplates.add(new PosInDocTemplateZehntel());
+//                featureTemplates.add(new PosInDocTemplateTopic());
+
+//                featureTemplates.add(new PosInSentenceTemplateDrittel());
+                featureTemplates.add(new PosInSentenceTemplateZehntel());
                 break;
             case 2:
                 featureTemplates.add(new AMFLTemplate());
@@ -302,8 +305,8 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
                 featureTemplates.add(new NumberMBTemplate_FAST());
                 featureTemplates.add(new NumberWBTemplate_FAST());
 //                featureTemplates.add(new OverlappingTemplate());
-                featureTemplates.add(new PosInDocTemplate());
-                featureTemplates.add(new PosInSentenceTemplate());
+                featureTemplates.add(new PosInDocTemplateDrittel());
+                featureTemplates.add(new PosInSentenceTemplateDrittel());
                 break;
         }
 

@@ -16,13 +16,13 @@ import java.util.Objects;
  * checks in which 1/10 of the sentence the annotation is
  */
 
-public class PosInSentenceTemplateTents extends AbstractFeatureTemplate<PosInSentenceTemplateTents.PosInSentenceScope> {
+public class PosInSentenceTemplateZehntel extends AbstractFeatureTemplate<PosInSentenceTemplateZehntel.PosInSentenceScope> {
 
-    public PosInSentenceTemplateTents() {
+    public PosInSentenceTemplateZehntel() {
         super();
     }
 
-    public PosInSentenceTemplateTents(boolean cache) {
+    public PosInSentenceTemplateZehntel(boolean cache) {
         super(cache);
     }
 
@@ -93,13 +93,5 @@ public class PosInSentenceTemplateTents extends AbstractFeatureTemplate<PosInSen
         int y = (int) Math.ceil(xTemp);
 
         factor.getFeatureVector().set("Im " + y + ". Zehntel des Satzes: " + factor.getFactorScope().entityType.name, true);
-
-//        if (x < 0.33) {
-//            factor.getFeatureVector().set("Im ersten Drittel: " + factor.getFactorScope().entityType.name, true);
-//        } else if (x > 0.66) {
-//            factor.getFeatureVector().set("Im letzten Drittel: " + factor.getFactorScope().entityType.name, true);
-//        } else {
-//            factor.getFeatureVector().set("Im zweiten Drittel:" + factor.getFactorScope().entityType.name, true);
-//        }
     }
 }

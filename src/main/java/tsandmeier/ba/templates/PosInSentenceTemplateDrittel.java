@@ -12,14 +12,17 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;
 
+/**
+ * checks in which third of the sentence the annotation is
+ */
 
-public class PosInSentenceTemplate extends AbstractFeatureTemplate<PosInSentenceTemplate.PosInSentenceScope> {
+public class PosInSentenceTemplateDrittel extends AbstractFeatureTemplate<PosInSentenceTemplateDrittel.PosInSentenceScope> {
 
-    public PosInSentenceTemplate() {
+    public PosInSentenceTemplateDrittel() {
         super();
     }
 
-    public PosInSentenceTemplate(boolean cache) {
+    public PosInSentenceTemplateDrittel(boolean cache) {
         super(cache);
     }
 

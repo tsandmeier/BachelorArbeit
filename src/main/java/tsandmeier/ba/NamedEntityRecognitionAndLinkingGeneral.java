@@ -258,8 +258,8 @@ public class NamedEntityRecognitionAndLinkingGeneral extends AbstractSemReadProj
                 featureTemplates.add(new NumberMBTemplate_FAST());
                 featureTemplates.add(new NumberWBTemplate_FAST());
 //                featureTemplates.add(new OverlappingTemplate());
-                featureTemplates.add(new PosInDocTemplate());
-                featureTemplates.add(new PosInSentenceTemplate());
+                featureTemplates.add(new PosInDocTemplateDrittel());
+                featureTemplates.add(new PosInSentenceTemplateDrittel());
                 break;
             case 2:
                 featureTemplates.add(new AMFLTemplate());
@@ -275,8 +275,8 @@ public class NamedEntityRecognitionAndLinkingGeneral extends AbstractSemReadProj
                 featureTemplates.add(new NumberMBTemplate_FAST());
                 featureTemplates.add(new NumberWBTemplate_FAST());
 //                featureTemplates.add(new OverlappingTemplate());
-                featureTemplates.add(new PosInDocTemplate());
-                featureTemplates.add(new PosInSentenceTemplate());
+                featureTemplates.add(new PosInDocTemplateDrittel());
+                featureTemplates.add(new PosInSentenceTemplateDrittel());
                 break;
             case 3:
                 featureTemplates.add(new AMFLTemplate());

@@ -242,7 +242,7 @@ public class NamedEntityRecognitionAndLinkingGroupNames extends AbstractSemReadP
             case 1:
                 featureTemplates.add(new AMFLTemplate());
                 featureTemplates.add(new BMFLTemplate());
-                featureTemplates.add(new PosInDocTemplate());
+                featureTemplates.add(new PosInDocTemplateDrittel());
 
                 break;
             case 2:
