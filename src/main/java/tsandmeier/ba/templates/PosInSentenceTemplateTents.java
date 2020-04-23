@@ -12,14 +12,17 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;
 
+/**
+ * checks in which 1/10 of the sentence the annotation is
+ */
 
-public class PosInSentenceTemplate extends AbstractFeatureTemplate<PosInSentenceTemplate.PosInSentenceScope> {
+public class PosInSentenceTemplateTents extends AbstractFeatureTemplate<PosInSentenceTemplateTents.PosInSentenceScope> {
 
-    public PosInSentenceTemplate() {
+    public PosInSentenceTemplateTents() {
         super();
     }
 
-    public PosInSentenceTemplate(boolean cache) {
+    public PosInSentenceTemplateTents(boolean cache) {
         super(cache);
     }
 
@@ -85,12 +88,18 @@ public class PosInSentenceTemplate extends AbstractFeatureTemplate<PosInSentence
 
         double x = (double) (positionINSentence + 1) / (double) numberOfTokensInSentence;
 
-        if (x < 0.33) {
-            factor.getFeatureVector().set("Im ersten Drittel: " + factor.getFactorScope().entityType.name, true);
-        } else if (x > 0.66) {
-            factor.getFeatureVector().set("Im letzten Drittel: " + factor.getFactorScope().entityType.name, true);
-        } else {
-            factor.getFeatureVector().set("Im zweiten Drittel:" + factor.getFactorScope().entityType.name, true);
-        }
+        double xTemp = x * 10;
+
+        int y = (int) Math.ceil(xTemp);
+
+        factor.getFeatureVector().set("Im " + y + ". Zehntel des Satzes: " + factor.getFactorScope().entityType.name, true);
+
+//        if (x < 0.33) {
+//            factor.getFeatureVector().set("Im ersten Drittel: " + factor.getFactorScope().entityType.name, true);
+//        } else if (x > 0.66) {
+//            factor.getFeatureVector().set("Im letzten Drittel: " + factor.getFactorScope().entityType.name, true);
+//        } else {
+//            factor.getFeatureVector().set("Im zweiten Drittel:" + factor.getFactorScope().entityType.name, true);
+//        }
     }
 }

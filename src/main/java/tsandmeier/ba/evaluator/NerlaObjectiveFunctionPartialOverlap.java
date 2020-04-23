@@ -22,7 +22,7 @@ public class NerlaObjectiveFunctionPartialOverlap implements IObjectiveFunction 
 
     @Override
     public void score(State state) {
-        state.setObjectiveScore(state.score(evaluator).getMicroScore().getF1());
+        state.setObjectiveScore(state.score(evaluator, IEvaluatable.Score.EScoreType.MICRO).getF1());
     }
 
     @Override

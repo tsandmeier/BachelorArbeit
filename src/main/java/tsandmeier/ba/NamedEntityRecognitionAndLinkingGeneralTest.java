@@ -25,7 +25,6 @@ import de.hterhors.semanticmr.crf.variables.Instance;
 import de.hterhors.semanticmr.crf.variables.State;
 import de.hterhors.semanticmr.eval.EEvaluationDetail;
 import de.hterhors.semanticmr.init.reader.csv.CSVDataStructureReader;
-import de.hterhors.semanticmr.init.specifications.Specifications;
 import de.hterhors.semanticmr.init.specifications.SystemScope;
 import de.hterhors.semanticmr.json.nerla.JsonNerlaIO;
 import de.hterhors.semanticmr.json.nerla.wrapper.JsonEntityAnnotationWrapper;
@@ -33,7 +32,6 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import tsandmeier.ba.candprov.CreateDictionaryClass;
 import tsandmeier.ba.crf.SemanticParsingCRFCustomTwo;
-import tsandmeier.ba.evaluator.NerlaObjectiveFunctionPartialOverlap;
 import tsandmeier.ba.explorer.EntityRecLinkExplorerCustom;
 import tsandmeier.ba.groupnameTemplates.GroupNamesInSameSentenceTemplate_FAST;
 import tsandmeier.ba.groupnameTemplates.WBFGroupNamesTemplate_FAST;
@@ -287,7 +285,8 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
                 featureTemplates.add(new NumberWBTemplate_FAST());
 //                featureTemplates.add(new OverlappingTemplate());
 //                featureTemplates.add(new PosInDocTemplate());
-                featureTemplates.add(new PosInSentenceTemplate());
+
+                featureTemplates.add(new PosInSentenceTemplateTents());
                 break;
             case 2:
                 featureTemplates.add(new AMFLTemplate());
