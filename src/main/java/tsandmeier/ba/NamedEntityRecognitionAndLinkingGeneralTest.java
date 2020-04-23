@@ -281,7 +281,9 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
                 featureTemplates.add(new BigramTemplate());
 
 //                featureTemplates.add(new HMTemplate());
+
                 featureTemplates.add(new BagOfWordsTemplate(true));
+//                featureTemplates.add(new SurfaceFormTemplate(true));
 
                 featureTemplates.add(new NumberMBTemplate_FAST());
                 featureTemplates.add(new NumberWBTemplate_FAST());

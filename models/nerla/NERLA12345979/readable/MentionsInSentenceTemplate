@@ -1,7 +1,0 @@
-In Same Sentence: InjectionDelivery, InhalationDelivery	-9.999403492708051E-4
-In Same Sentence: InhalationDelivery, InjectionDelivery	-9.999403492708051E-4
-In Same Sentence: InfusionDelivery, InjectionDelivery	-9.99969847949088E-4
-In Same Sentence: InjectionDelivery, InfusionDelivery	-9.99969847949088E-4
-In Same Sentence: InjectionDelivery, DeliveryMethod	-0.0029998213494189874
-In Same Sentence: DeliveryMethod, InjectionDelivery	-0.0029998213494189874
-In Same Sentence: InjectionDelivery, InjectionDelivery	-0.013998879510792425

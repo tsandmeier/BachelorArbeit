@@ -4,7 +4,7 @@ No normalization function for literal entity type "Distance" was specified. Set 
 No normalization function for literal entity type "Duration" was specified. Set default to "IdentityNormalization"
 Systems scope successfully initialized!
 Trainiert mit Objective Function, getestet mit ObjectiveFunctionPartialOverlap
-Evaluation Detail: LITERAL
+Evaluation Detail: ENTITY_TYPE
 MaxStepCrit: 50
 Total number of instances loaded: 96
 Instances remain after cardinality filter: 95
@@ -254,3 +254,104 @@ Score [macroF1=1,000, macroPrecision=1,000, macroRecall=1,000]
 ***********************************************************
 
 
+***********************************************************
+|[14/19]======Final Evaluation======_____________N157 Kalincik 2010_____________|
+Final State  Model[1,00000] Objective[1,00000] {
+GOLD [1]:
+InjectionDelivery	"i.p."	31	6582
+}
+PREDICT [1]:
+InjectionDelivery	"injections"	41	7809
+}
+Score [getF1()=1,000, getPrecision()=1,000, getRecall()=1,000, tp=1, fp=0, fn=0, tn=0]
+Score [getF1()=1,000, getPrecision()=1,000, getRecall()=1,000, tp=1, fp=0, fn=0, tn=0]
+***********************************************************
+
+
+***********************************************************
+|[15/19]======Final Evaluation======_____________N201 Sasaki 2006_____________|
+Final State  Model[1,00000] Objective[1,00000] {
+GOLD [1]:
+InjectionDelivery	"injected"	31	5526
+}
+PREDICT [1]:
+InjectionDelivery	"injected"	31	5526
+}
+Score [getF1()=1,000, getPrecision()=1,000, getRecall()=1,000, tp=1, fp=0, fn=0, tn=0]
+Score [getF1()=1,000, getPrecision()=1,000, getRecall()=1,000, tp=1, fp=0, fn=0, tn=0]
+***********************************************************
+
+
+***********************************************************
+|[16/19]======Final Evaluation======_____________N208 Takeoka 2011_____________|
+Final State  Model[1,00000] Objective[1,00000] {
+GOLD [1]:
+InjectionDelivery	"injected"	33	6384
+}
+PREDICT [4]:
+InjectionDelivery	"injected"	33	6384
+InjectionDelivery	"Injections"	33	6322
+InjectionDelivery	"injected"	67	11812
+InjectionDelivery	"injected"	69	12148
+}
+Score [getF1()=1,000, getPrecision()=1,000, getRecall()=1,000, tp=4, fp=0, fn=0, tn=0]
+Score [macroF1=1,000, macroPrecision=1,000, macroRecall=1,000]
+***********************************************************
+
+
+***********************************************************
+|[17/19]======Final Evaluation======_____________N249 Khankan_____________|
+Final State  Model[1,00000] Objective[0,50000] {
+GOLD [2]:
+InjectionDelivery	"injected"	76	12954
+InhalationDelivery	"gas administered via facemask"	67	11874
+}
+PREDICT [2]:
+InjectionDelivery	"injected"	76	12954
+DeliveryMethod	"injection"	77	13149
+}
+Score [getF1()=0,500, getPrecision()=0,500, getRecall()=0,500, tp=1, fp=1, fn=1, tn=0]
+Score [macroF1=0,500, macroPrecision=0,500, macroRecall=0,500]
+***********************************************************
+
+
+***********************************************************
+|[18/19]======Final Evaluation======_____________N075 Amemori 2010_____________|
+Final State  Model[1,00000] Objective[0,92308] {
+GOLD [4]:
+InjectionDelivery	"intraperitoneally"	70	10476
+InjectionDelivery	"injections"	69	10286
+InjectionDelivery	"injected"	67	9691
+InhalationDelivery	"in air was administered"	44	6508
+}
+PREDICT [6]:
+InjectionDelivery	"intraperitoneally"	70	10476
+InjectionDelivery	"injections"	69	10286
+InjectionDelivery	"injection"	17	2122
+InjectionDelivery	"injected"	181	25289
+InjectionDelivery	"injection"	69	10313
+InjectionDelivery	"injected"	91	13999
+}
+Score [getF1()=0,923, getPrecision()=1,000, getRecall()=0,857, tp=6, fp=0, fn=1, tn=0]
+Score [macroF1=0,923, macroPrecision=1,000, macroRecall=0,857]
+***********************************************************
+
+
+***********************************************************
+|[19/19]======Final Evaluation======_____________N227 Yamamoto 2009_____________|
+Final State  Model[1,00000] Objective[0,00000] {
+GOLD [2]:
+InjectionDelivery	"injection"	108	18856
+InjectionDelivery	"microinjected"	107	18600
+}
+PREDICT [0]:
+}
+Score [getF1()=0,000, getPrecision()=0,000, getRecall()=0,000, tp=0, fp=0, fn=2, tn=0]
+Score [macroF1=0,000, macroPrecision=0,000, macroRecall=0,000]
+***********************************************************
+
+
+Mean Score: Score [getF1()=0,912, getPrecision()=0,983, getRecall()=0,851, tp=57, fp=1, fn=10, tn=0]
+null
+CRFStatistics [context=Test, getTotalDuration()=1144]
+genutztes Modell: models/nerla/trained_literal/delivery_method
