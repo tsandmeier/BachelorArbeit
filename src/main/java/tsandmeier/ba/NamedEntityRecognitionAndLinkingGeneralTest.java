@@ -297,7 +297,8 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
                 featureTemplates.add(new PosInSentenceTemplateZehntel());
 
 //                featureTemplates.add(new StartsWithCapitalTemplate());
-                featureTemplates.add(new OnlyUppercaseTemplate());
+//                featureTemplates.add(new OnlyUppercaseTemplate());
+                featureTemplates.add(new ContainsDigitTemplate());
                 break;
             case 2:
                 featureTemplates.add(new AMFLTemplate());

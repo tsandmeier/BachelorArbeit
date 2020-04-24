@@ -10,15 +10,13 @@ import de.hterhors.semanticmr.crf.variables.DocumentToken;
 import de.hterhors.semanticmr.crf.variables.State;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 import java.util.Objects;
-import java.util.stream.Stream;
 
 /**
  * Checks if a mention starts with a capital, if it's not in the beginning of a sentence
  */
-public class OnlyUppercaseTemplate extends AbstractFeatureTemplate<OnlyUppercaseTemplate.StartsWithCapitalScope> {
+public class ContainsDigitTemplate extends AbstractFeatureTemplate<ContainsDigitTemplate.StartsWithCapitalScope> {
 
 
     static class StartsWithCapitalScope
@@ -79,17 +77,17 @@ public class OnlyUppercaseTemplate extends AbstractFeatureTemplate<OnlyUppercase
 
         String surfaceForm = factor.getFactorScope().surfaceForm;
         EntityType type = factor.getFactorScope().type;
-        boolean hasLowerCaseLetter = false;
+        boolean hasDigit = false;
 
         for(char letter : surfaceForm.toCharArray()){
-            if(!Character.isUpperCase(letter) && Character.isLetter(letter)){
-                hasLowerCaseLetter = true;
+            if(Character.isDigit(letter)){
+                hasDigit = true;
                 break;
             }
         }
 
-        if(!hasLowerCaseLetter){
-            factor.getFeatureVector().set("All Uppercase: <"+ factor.getFactorScope().type.name+">", true);
+        if(hasDigit){
+            factor.getFeatureVector().set("Has Digit: <"+ factor.getFactorScope().type.name+">", true);
         }
     }
 
