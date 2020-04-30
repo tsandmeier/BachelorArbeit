@@ -49,27 +49,18 @@ import java.util.stream.Collectors;
  * Example of how to perform named entity recognition and linking.
  */
 public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemReadProject {
-    private static Logger log = LogManager.getFormatterLogger("de.hterhors.semanticmr.projects.examples.corpus.nerl.NerlCorpusCreationExample");
+    private static final Logger log = LogManager.getFormatterLogger("de.hterhors.semanticmr.projects.examples.corpus.nerl.NerlCorpusCreationExample");
     private final boolean overrideModel = true;
     SemanticParsingCRFCustomTwo crf;
     private IEvaluatable.Score mean;
     private int mode;
     List<AbstractFeatureTemplate<?>> featureTemplates;
 
-    private final EEvaluationDetail evaluationDetail = EEvaluationDetail.DOCUMENT_LINKED;
+    private final EEvaluationDetail evaluationDetail = EEvaluationDetail.LITERAL;
 
     private double alpha;
 
-    private static String TYPE_OF_TOPIC = "group_name";
 
-    private static String SPECIFICATION_DIRECTORY = "ner/" + TYPE_OF_TOPIC + "/data_structure/";
-    private static String INSTANCE_DIRECTORY = "ner/" + TYPE_OF_TOPIC + "/instances/";
-
-
-    private static String ENTITIES = "ner/group_name/data_structure/entities.csv";
-    private static String HIERARCHIES = "ner/group_name/data_structure/hierarchies.csv";
-    private static String SLOTS = "ner/group_name/data_structure/slots.csv";
-    private static String STRUCTURES = "ner/group_name/data_structure/structures.csv";
 
     int recallFactor;
 
@@ -102,7 +93,7 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
         } else if (args.length == 5) {
             mode = Integer.parseInt(args[0]);
             alpha = Double.parseDouble(args[1]);
-            new NamedEntityRecognitionAndLinkingGeneralTest(mode, alpha, args[2], args[3], Integer.valueOf(args[4]));
+            new NamedEntityRecognitionAndLinkingGeneralTest(mode, alpha, args[2], args[3], Integer.parseInt(args[4]));
         } else {
             log.info("Falsche Anzahl an Parametern!");
         }
@@ -125,7 +116,7 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
      * stored in its own json-file.
      */
 
-    public NamedEntityRecognitionAndLinkingGeneralTest(int mode, double alpha, String typeOfTopic, String modelName, int recallFactor) {
+    public NamedEntityRecognitionAndLinkingGeneralTest(int mode, double alpha, String typeOfTopic, String modelName, int recallFactor) throws IOException {
 
         /**
          * 1. STEP initialize the system.
@@ -296,8 +287,8 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
 //                featureTemplates.add(new PosInSentenceTemplateDrittel());
                 featureTemplates.add(new PosInSentenceTemplateZehntel());
 
-//                featureTemplates.add(new StartsWithCapitalTemplate());
-//                featureTemplates.add(new OnlyUppercaseTemplate());
+                featureTemplates.add(new StartsWithCapitalTemplate());
+                featureTemplates.add(new OnlyUppercaseTemplate());
                 featureTemplates.add(new ContainsDigitTemplate());
                 break;
             case 2:
@@ -389,7 +380,7 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
          */
         final File modelBaseDir = new File("models/nerla/");
 //        this.modelName = "NERLA1234" + new Random().nextInt(10000);
-        this.modelName = "testModel";
+//        this.modelName = "testModel";
 
         Model model;
 
@@ -483,9 +474,9 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
           Finally, we evaluate the produced states and print some statistics.
          */
 
-//        writeToJson(results, "jsonFiles/group_name/predictions_normal/");
+        writeToJson(results, "jsonFiles/literal/"+typeOfTopic+"/");
 
-        new FilterHelper(results).filterWithoutAgeAndWeight();
+//        new FilterHelper(results).filterWithoutAgeAndWeight();
 
 //        mean = evaluate(log, results);
 
