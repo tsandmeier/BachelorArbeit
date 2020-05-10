@@ -30,6 +30,7 @@ import de.hterhors.semanticmr.json.nerla.JsonNerlaIO;
 import de.hterhors.semanticmr.json.nerla.wrapper.JsonEntityAnnotationWrapper;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import org.xml.sax.SAXException;
 import tsandmeier.ba.candprov.CreateDictionaryClass;
 import tsandmeier.ba.crf.SemanticParsingCRFCustomTwo;
 import tsandmeier.ba.explorer.EntityRecLinkExplorerCustom;
@@ -38,8 +39,10 @@ import tsandmeier.ba.groupnameTemplates.WBFGroupNamesTemplate_FAST;
 import tsandmeier.ba.groupnameTemplates.WBLGroupNamesTemplate_FAST;
 import tsandmeier.ba.groupnameTemplates.WordsInBetweenGroupNamesTemplate_FAST;
 import tsandmeier.ba.helper.FilterHelper;
+import tsandmeier.ba.mesh.XmlReader;
 import tsandmeier.ba.templates.*;
 
+import javax.xml.parsers.ParserConfigurationException;
 import java.io.File;
 import java.io.IOException;
 import java.util.*;
@@ -77,7 +80,7 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
      *
      * @param args
      */
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) throws IOException, ParserConfigurationException, SAXException {
 
         int mode;
         double alpha;
@@ -116,7 +119,7 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
      * stored in its own json-file.
      */
 
-    public NamedEntityRecognitionAndLinkingGeneralTest(int mode, double alpha, String typeOfTopic, String modelName, int recallFactor) throws IOException {
+    public NamedEntityRecognitionAndLinkingGeneralTest(int mode, double alpha, String typeOfTopic, String modelName, int recallFactor) throws IOException, ParserConfigurationException, SAXException {
 
         /**
          * 1. STEP initialize the system.
@@ -290,6 +293,8 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
                 featureTemplates.add(new StartsWithCapitalTemplate());
                 featureTemplates.add(new OnlyUppercaseTemplate());
                 featureTemplates.add(new ContainsDigitTemplate());
+
+                featureTemplates.add(new MedicalHeadingTemplate(new XmlReader("mesh/mesh_short.xml").getDescriptorList(),true));
                 break;
             case 2:
                 featureTemplates.add(new AMFLTemplate());
@@ -474,16 +479,18 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
           Finally, we evaluate the produced states and print some statistics.
          */
 
-        writeToJson(results, "jsonFiles/literal/"+typeOfTopic+"/");
 
 //        new FilterHelper(results).filterWithoutAgeAndWeight();
 
-//        mean = evaluate(log, results);
+        mean = evaluate(log, results);
 
 //        log.info(crf.getTrainingStatistics());
-//        log.info(crf.getTestStatistics());
+//        log.info(crf.getTestStatistics());N
 
         log.info("genutztes Modell: " + modelBaseDir.toString() + "/" + this.modelName);
+
+        writeToJson(results, "jsonFiles/literal/"+typeOfTopic+"/");
+
 
 //        log.info("******************TRAINIERT MIT LITERAL - GETESTET MIT DOCLINKED*****************************");
 //
