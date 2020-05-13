@@ -1,0 +1,200 @@
+[
+  {
+    "docID": "N149 Granger 2012",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 23770,
+    "sff": "somatosensory-evoked"
+  },
+  {
+    "docID": "N149 Granger 2012",
+    "et": "AxonalSproutingTest",
+    "off": 29380,
+    "sff": "primary"
+  },
+  {
+    "docID": "N149 Granger 2012",
+    "et": "GaitTest",
+    "off": 31878,
+    "sff": "hindlimb lateral stability"
+  },
+  {
+    "docID": "N149 Granger 2012",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 26729,
+    "sff": "motor-evoked potentials"
+  },
+  {
+    "docID": "N149 Granger 2012",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 27090,
+    "sff": "somatosensory-evoked"
+  },
+  {
+    "docID": "N149 Granger 2012",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 10745,
+    "sff": "transcranial magnetic motor-evoked potentials"
+  },
+  {
+    "docID": "N149 Granger 2012",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 26968,
+    "sff": "latencies"
+  },
+  {
+    "docID": "N149 Granger 2012",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 27090,
+    "sff": "somatosensory-evoked potentials"
+  },
+  {
+    "docID": "N149 Granger 2012",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 33060,
+    "sff": "transcranial magnetic motor-evoked potentials"
+  },
+  {
+    "docID": "N149 Granger 2012",
+    "et": "BladderFunctionTest",
+    "off": 20917,
+    "sff": "compliance"
+  },
+  {
+    "docID": "N149 Granger 2012",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 32518,
+    "sff": "latency"
+  },
+  {
+    "docID": "N149 Granger 2012",
+    "et": "AxonalSproutingTest",
+    "off": 23610,
+    "sff": "primary"
+  },
+  {
+    "docID": "N149 Granger 2012",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 32467,
+    "sff": "latency"
+  },
+  {
+    "docID": "N149 Granger 2012",
+    "et": "BBBTest",
+    "off": 26111,
+    "sff": "scores"
+  },
+  {
+    "docID": "N149 Granger 2012",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 33025,
+    "sff": "somatosensory-evoked"
+  },
+  {
+    "docID": "N149 Granger 2012",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 32513,
+    "sff": "mean latency"
+  },
+  {
+    "docID": "N149 Granger 2012",
+    "et": "BladderFunctionTest",
+    "off": 27570,
+    "sff": "compliance"
+  },
+  {
+    "docID": "N149 Granger 2012",
+    "et": "AxonalChangesTest",
+    "off": 22249,
+    "sff": "measures"
+  },
+  {
+    "docID": "N149 Granger 2012",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 32604,
+    "sff": "somatosensory"
+  },
+  {
+    "docID": "N149 Granger 2012",
+    "et": "AxonalSproutingTest",
+    "off": 20003,
+    "sff": "primary"
+  },
+  {
+    "docID": "N149 Granger 2012",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 26707,
+    "sff": "transcranial magnetic motor-evoked potentials"
+  },
+  {
+    "docID": "N149 Granger 2012",
+    "et": "AxonalSproutingTest",
+    "off": 20964,
+    "sff": "primary"
+  },
+  {
+    "docID": "N149 Granger 2012",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 32518,
+    "sff": "latency"
+  },
+  {
+    "docID": "N149 Granger 2012",
+    "et": "ApoptosisTest",
+    "off": 33228,
+    "sff": "activity"
+  },
+  {
+    "docID": "N149 Granger 2012",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 19053,
+    "sff": "somatosensory-evoked"
+  },
+  {
+    "docID": "N149 Granger 2012",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 27325,
+    "sff": "latencies"
+  },
+  {
+    "docID": "N149 Granger 2012",
+    "et": "AxonalRegenerationTest",
+    "off": 33000,
+    "sff": "incidence"
+  },
+  {
+    "docID": "N149 Granger 2012",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 10726,
+    "sff": "somatosensory"
+  },
+  {
+    "docID": "N149 Granger 2012",
+    "et": "BladderFunctionTest",
+    "off": 33161,
+    "sff": "Urinary bladder compliance"
+  },
+  {
+    "docID": "N149 Granger 2012",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 32467,
+    "sff": "latency"
+  },
+  {
+    "docID": "N149 Granger 2012",
+    "et": "AxonalSproutingTest",
+    "off": 8990,
+    "sff": "primary"
+  },
+  {
+    "docID": "N149 Granger 2012",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 20828,
+    "sff": "somatosensory-evoked"
+  },
+  {
+    "docID": "N149 Granger 2012",
+    "et": "BladderFunctionTest",
+    "off": 27474,
+    "sff": "compliance"
+  }
+]

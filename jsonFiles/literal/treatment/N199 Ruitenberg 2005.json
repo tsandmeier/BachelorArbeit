@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "Vehicle",
+    "off": 33366,
+    "sff": "medium"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "Rostral",
+    "off": 13696,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "Vehicle",
+    "off": 44224,
+    "sff": "vehicle"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "RehabilitativeTraining",
+    "off": 37122,
+    "sff": "motion"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "Rostral",
+    "off": 42427,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "Vehicle",
+    "off": 13044,
+    "sff": "vehicle"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 28852,
+    "sff": "OEG-LacZ"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "InjectionDelivery",
+    "off": 39646,
+    "sff": "injected"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "Vehicle",
+    "off": 34048,
+    "sff": "medium"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "Vehicle",
+    "off": 34448,
+    "sff": "medium"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 25479,
+    "sff": "OEG-LacZ"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 402,
+    "sff": "OEG"
+  }
+]

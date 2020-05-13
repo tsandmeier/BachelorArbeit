@@ -1,0 +1,308 @@
+[
+  {
+    "docID": "N028 James 2015 26044197",
+    "et": "MouseSpecies",
+    "off": 7485,
+    "sff": "GFP"
+  },
+  {
+    "docID": "N028 James 2015 26044197",
+    "et": "LongEvansRat",
+    "off": 7587,
+    "sff": "rats"
+  },
+  {
+    "docID": "N028 James 2015 26044197",
+    "et": "WistarRat",
+    "off": 8273,
+    "sff": "rats"
+  },
+  {
+    "docID": "N028 James 2015 26044197",
+    "et": "LongEvansRat",
+    "off": 5800,
+    "sff": "rats"
+  },
+  {
+    "docID": "N028 James 2015 26044197",
+    "et": "WistarRat",
+    "off": 9683,
+    "sff": "rats"
+  },
+  {
+    "docID": "N028 James 2015 26044197",
+    "et": "Weight",
+    "off": 7658,
+    "sff": "kg"
+  },
+  {
+    "docID": "N028 James 2015 26044197",
+    "et": "Adult",
+    "off": 1616,
+    "sff": "adult"
+  },
+  {
+    "docID": "N028 James 2015 26044197",
+    "et": "Weight",
+    "off": 5806,
+    "sff": "230"
+  },
+  {
+    "docID": "N028 James 2015 26044197",
+    "et": "Age",
+    "off": 8931,
+    "sff": "days"
+  },
+  {
+    "docID": "N028 James 2015 26044197",
+    "et": "Weight",
+    "off": 8645,
+    "sff": "200"
+  },
+  {
+    "docID": "N028 James 2015 26044197",
+    "et": "Age",
+    "off": 6520,
+    "sff": "5"
+  },
+  {
+    "docID": "N028 James 2015 26044197",
+    "et": "Male",
+    "off": 5780,
+    "sff": "male"
+  },
+  {
+    "docID": "N028 James 2015 26044197",
+    "et": "Adult",
+    "off": 5774,
+    "sff": "Adult"
+  },
+  {
+    "docID": "N028 James 2015 26044197",
+    "et": "SpragueDawleyRat",
+    "off": 5785,
+    "sff": "Sprague-Dawley rats"
+  },
+  {
+    "docID": "N028 James 2015 26044197",
+    "et": "Age",
+    "off": 14852,
+    "sff": "3"
+  },
+  {
+    "docID": "N028 James 2015 26044197",
+    "et": "SpragueDawleyRat",
+    "off": 5800,
+    "sff": "rats"
+  },
+  {
+    "docID": "N028 James 2015 26044197",
+    "et": "Age",
+    "off": 8082,
+    "sff": "3"
+  },
+  {
+    "docID": "N028 James 2015 26044197",
+    "et": "Weight",
+    "off": 8412,
+    "sff": "kg"
+  },
+  {
+    "docID": "N028 James 2015 26044197",
+    "et": "SpragueDawleyRat",
+    "off": 5785,
+    "sff": "Sprague-Dawley"
+  },
+  {
+    "docID": "N028 James 2015 26044197",
+    "et": "Male",
+    "off": 7576,
+    "sff": "Male"
+  },
+  {
+    "docID": "N028 James 2015 26044197",
+    "et": "MouseSpecies",
+    "off": 7057,
+    "sff": "promoter"
+  },
+  {
+    "docID": "N028 James 2015 26044197",
+    "et": "Weight",
+    "off": 12816,
+    "sff": "mean"
+  },
+  {
+    "docID": "N028 James 2015 26044197",
+    "et": "Age",
+    "off": 10670,
+    "sff": "2.5"
+  },
+  {
+    "docID": "N028 James 2015 26044197",
+    "et": "Age",
+    "off": 9123,
+    "sff": "day"
+  },
+  {
+    "docID": "N028 James 2015 26044197",
+    "et": "Weight",
+    "off": 11048,
+    "sff": "kg"
+  },
+  {
+    "docID": "N028 James 2015 26044197",
+    "et": "Age",
+    "off": 8883,
+    "sff": "days"
+  },
+  {
+    "docID": "N028 James 2015 26044197",
+    "et": "Weight",
+    "off": 15416,
+    "sff": "g"
+  },
+  {
+    "docID": "N028 James 2015 26044197",
+    "et": "WistarRat",
+    "off": 11035,
+    "sff": "rats"
+  },
+  {
+    "docID": "N028 James 2015 26044197",
+    "et": "Weight",
+    "off": 5814,
+    "sff": "g"
+  },
+  {
+    "docID": "N028 James 2015 26044197",
+    "et": "LewisRat",
+    "off": 5800,
+    "sff": "rats"
+  },
+  {
+    "docID": "N028 James 2015 26044197",
+    "et": "Weight",
+    "off": 15524,
+    "sff": "g"
+  },
+  {
+    "docID": "N028 James 2015 26044197",
+    "et": "Weight",
+    "off": 5810,
+    "sff": "250"
+  },
+  {
+    "docID": "N028 James 2015 26044197",
+    "et": "MouseSpecies",
+    "off": 5856,
+    "sff": "under"
+  },
+  {
+    "docID": "N028 James 2015 26044197",
+    "et": "Age",
+    "off": 14854,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N028 James 2015 26044197",
+    "et": "Adult",
+    "off": 7581,
+    "sff": "adult"
+  },
+  {
+    "docID": "N028 James 2015 26044197",
+    "et": "Weight",
+    "off": 11046,
+    "sff": "g"
+  },
+  {
+    "docID": "N028 James 2015 26044197",
+    "et": "Age",
+    "off": 14927,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N028 James 2015 26044197",
+    "et": "Weight",
+    "off": 15505,
+    "sff": "g"
+  },
+  {
+    "docID": "N028 James 2015 26044197",
+    "et": "ListerHoodedRat",
+    "off": 5800,
+    "sff": "rats"
+  },
+  {
+    "docID": "N028 James 2015 26044197",
+    "et": "Age",
+    "off": 5864,
+    "sff": "12"
+  },
+  {
+    "docID": "N028 James 2015 26044197",
+    "et": "Mixed",
+    "off": 7576,
+    "sff": "Male"
+  },
+  {
+    "docID": "N028 James 2015 26044197",
+    "et": "Age",
+    "off": 15316,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N028 James 2015 26044197",
+    "et": "ListerHoodedRat",
+    "off": 7587,
+    "sff": "rats"
+  },
+  {
+    "docID": "N028 James 2015 26044197",
+    "et": "FischerRat",
+    "off": 5800,
+    "sff": "rats"
+  },
+  {
+    "docID": "N028 James 2015 26044197",
+    "et": "Weight",
+    "off": 5810,
+    "sff": "250 g"
+  },
+  {
+    "docID": "N028 James 2015 26044197",
+    "et": "Weight",
+    "off": 8871,
+    "sff": "kg"
+  },
+  {
+    "docID": "N028 James 2015 26044197",
+    "et": "WistarRat",
+    "off": 5800,
+    "sff": "rats"
+  },
+  {
+    "docID": "N028 James 2015 26044197",
+    "et": "Age",
+    "off": 8913,
+    "sff": "3"
+  },
+  {
+    "docID": "N028 James 2015 26044197",
+    "et": "Weight",
+    "off": 8987,
+    "sff": "kg"
+  },
+  {
+    "docID": "N028 James 2015 26044197",
+    "et": "RatSpecies",
+    "off": 5800,
+    "sff": "rats"
+  },
+  {
+    "docID": "N028 James 2015 26044197",
+    "et": "Age",
+    "off": 8084,
+    "sff": "4"
+  }
+]

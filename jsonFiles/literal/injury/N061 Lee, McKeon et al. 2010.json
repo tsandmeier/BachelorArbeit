@@ -1,0 +1,62 @@
+[
+  {
+    "docID": "N061 Lee, McKeon et al. 2010",
+    "et": "T9",
+    "off": 15804,
+    "sff": "9"
+  },
+  {
+    "docID": "N061 Lee, McKeon et al. 2010",
+    "et": "DorsalHemisection",
+    "off": 7184,
+    "sff": "dorsal-over-hemisection injury"
+  },
+  {
+    "docID": "N061 Lee, McKeon et al. 2010",
+    "et": "Compression",
+    "off": 7208,
+    "sff": "injury"
+  },
+  {
+    "docID": "N061 Lee, McKeon et al. 2010",
+    "et": "LateralHemisection",
+    "off": 14281,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N061 Lee, McKeon et al. 2010",
+    "et": "VertebralArea",
+    "off": 1354,
+    "sff": "levels"
+  },
+  {
+    "docID": "N061 Lee, McKeon et al. 2010",
+    "et": "LightSource",
+    "off": 13682,
+    "sff": "fiber"
+  },
+  {
+    "docID": "N061 Lee, McKeon et al. 2010",
+    "et": "DorsalHemisection",
+    "off": 7184,
+    "sff": "dorsal-over-hemisection"
+  },
+  {
+    "docID": "N061 Lee, McKeon et al. 2010",
+    "et": "T10",
+    "off": 7224,
+    "sff": "10"
+  },
+  {
+    "docID": "N061 Lee, McKeon et al. 2010",
+    "et": "VertebralArea",
+    "off": 7237,
+    "sff": "level"
+  },
+  {
+    "docID": "N061 Lee, McKeon et al. 2010",
+    "et": "LateralHemisection",
+    "off": 19544,
+    "sff": "hemisection"
+  }
+]

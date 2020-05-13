@@ -1,0 +1,80 @@
+[
+  {
+    "docID": "N029 Kanno 2014 24478364",
+    "et": "Contusion",
+    "off": 1291,
+    "sff": "contusion injury"
+  },
+  {
+    "docID": "N029 Kanno 2014 24478364",
+    "et": "Anaesthetic",
+    "off": 80476,
+    "sff": "hypothermia"
+  },
+  {
+    "docID": "N029 Kanno 2014 24478364",
+    "et": "T7",
+    "off": 19736,
+    "sff": "T7"
+  },
+  {
+    "docID": "N029 Kanno 2014 24478364",
+    "et": "Contusion",
+    "off": 1291,
+    "sff": "contusion"
+  },
+  {
+    "docID": "N029 Kanno 2014 24478364",
+    "et": "Xylazine",
+    "off": 15142,
+    "sff": "xylazine"
+  },
+  {
+    "docID": "N029 Kanno 2014 24478364",
+    "et": "T8",
+    "off": 15639,
+    "sff": "T8"
+  },
+  {
+    "docID": "N029 Kanno 2014 24478364",
+    "et": "MASCISImpactor",
+    "off": 15827,
+    "sff": "MASCIS weight-drop device"
+  },
+  {
+    "docID": "N029 Kanno 2014 24478364",
+    "et": "KetamineAsAnaesthetic",
+    "off": 15124,
+    "sff": "ketamine"
+  },
+  {
+    "docID": "N029 Kanno 2014 24478364",
+    "et": "T8",
+    "off": 17512,
+    "sff": "T8"
+  },
+  {
+    "docID": "N029 Kanno 2014 24478364",
+    "et": "InjuryDevice",
+    "off": 15960,
+    "sff": "compression"
+  },
+  {
+    "docID": "N029 Kanno 2014 24478364",
+    "et": "Contusion",
+    "off": 17339,
+    "sff": "contused"
+  },
+  {
+    "docID": "N029 Kanno 2014 24478364",
+    "et": "T10",
+    "off": 19123,
+    "sff": "T10"
+  },
+  {
+    "docID": "N029 Kanno 2014 24478364",
+    "et": "Contusion",
+    "off": 85208,
+    "sff": "contused"
+  }
+]

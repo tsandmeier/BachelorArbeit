@@ -1,0 +1,200 @@
+[
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "InvestigationMethod",
+    "off": 930,
+    "sff": "neuronal loss"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "AxonalChangesTest",
+    "off": 13085,
+    "sff": "Fluorogold"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "AstrogliosisTest",
+    "off": 12531,
+    "sff": "immunofluorescence"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "ApoptosisTest",
+    "off": 1016,
+    "sff": "neurons"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "InvestigationMethod",
+    "off": 1065,
+    "sff": "neuronal loss"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "NeuroprotectionTest",
+    "off": 20615,
+    "sff": "survival"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "AxonalRegenerationTest",
+    "off": 12719,
+    "sff": "immunostaining"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "AxonalRegenerationTest",
+    "off": 6766,
+    "sff": "immunostaining"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "AxonalSproutingTest",
+    "off": 13167,
+    "sff": "primary"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "ApoptosisTest",
+    "off": 19866,
+    "sff": "apoptotic"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "AxonalSproutingTest",
+    "off": 8775,
+    "sff": "density"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "ApoptosisTest",
+    "off": 19467,
+    "sff": "neurons"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "TissueSparingTest",
+    "off": 21364,
+    "sff": "amount"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "AxonalChangesTest",
+    "off": 13706,
+    "sff": "Fluorogold"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "ApoptosisTest",
+    "off": 19739,
+    "sff": "number of apoptotic neurons"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "ApoptosisTest",
+    "off": 20098,
+    "sff": "apoptotic activity"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "NeuronalChangesTest",
+    "off": 1065,
+    "sff": "neuronal loss"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "InvestigationMethod",
+    "off": 930,
+    "sff": "neuronal"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "NeuroprotectionTest",
+    "off": 20269,
+    "sff": "number of FG-positive neurons"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "BBBTest",
+    "off": 22425,
+    "sff": "BBB scores"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "AxonalChangesTest",
+    "off": 6008,
+    "sff": "Fluorogold"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "HistologicalInvestigationTest",
+    "off": 8074,
+    "sff": "profiles"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "LesionVolumeTest",
+    "off": 14135,
+    "sff": "formation"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "ApoptosisTest",
+    "off": 18145,
+    "sff": "neurons"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "AxonalSproutingTest",
+    "off": 17629,
+    "sff": "primary"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "NeuroprotectionTest",
+    "off": 20471,
+    "sff": "number of FG-positive neurons"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "ApoptosisTest",
+    "off": 19876,
+    "sff": "neurons"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "ApoptosisTest",
+    "off": 19856,
+    "sff": "number of apoptotic neurons"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "AxonalSproutingTest",
+    "off": 17368,
+    "sff": "primary"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 9555,
+    "sff": "somatosensory"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "TissueSparingTest",
+    "off": 15062,
+    "sff": "amount"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "HistologicalInvestigationTest",
+    "off": 8342,
+    "sff": "profiles"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "NeuroprotectionTest",
+    "off": 20982,
+    "sff": "Definite integral area analysis shows that loss of pyramidal neurons"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "docID": "N063 Milbreta, Boxberg et al. 2014",
+    "et": "T10",
+    "off": 74573,
+    "sff": "T"
+  },
+  {
+    "docID": "N063 Milbreta, Boxberg et al. 2014",
+    "et": "Contusion",
+    "off": 71922,
+    "sff": "contusion"
+  },
+  {
+    "docID": "N063 Milbreta, Boxberg et al. 2014",
+    "et": "InjuryDevice",
+    "off": 72560,
+    "sff": "mouse"
+  },
+  {
+    "docID": "N063 Milbreta, Boxberg et al. 2014",
+    "et": "NYUImpactor",
+    "off": 71840,
+    "sff": "New"
+  },
+  {
+    "docID": "N063 Milbreta, Boxberg et al. 2014",
+    "et": "T10",
+    "off": 74652,
+    "sff": "T"
+  },
+  {
+    "docID": "N063 Milbreta, Boxberg et al. 2014",
+    "et": "T10",
+    "off": 75676,
+    "sff": "T"
+  },
+  {
+    "docID": "N063 Milbreta, Boxberg et al. 2014",
+    "et": "LateralHemisection",
+    "off": 80293,
+    "sff": "hemiresection"
+  },
+  {
+    "docID": "N063 Milbreta, Boxberg et al. 2014",
+    "et": "Contusion",
+    "off": 2093,
+    "sff": "SCI"
+  },
+  {
+    "docID": "N063 Milbreta, Boxberg et al. 2014",
+    "et": "T10",
+    "off": 917,
+    "sff": "10"
+  },
+  {
+    "docID": "N063 Milbreta, Boxberg et al. 2014",
+    "et": "T10",
+    "off": 78385,
+    "sff": "T"
+  },
+  {
+    "docID": "N063 Milbreta, Boxberg et al. 2014",
+    "et": "InjuryDevice",
+    "off": 70630,
+    "sff": "mouse"
+  }
+]

@@ -1,0 +1,308 @@
+[
+  {
+    "docID": "N124 Yuan, Jin et al. 2016",
+    "et": "RatSpecies",
+    "off": 1264,
+    "sff": "rats"
+  },
+  {
+    "docID": "N124 Yuan, Jin et al. 2016",
+    "et": "Weight",
+    "off": 10662,
+    "sff": "g"
+  },
+  {
+    "docID": "N124 Yuan, Jin et al. 2016",
+    "et": "WistarRat",
+    "off": 24956,
+    "sff": "rats"
+  },
+  {
+    "docID": "N124 Yuan, Jin et al. 2016",
+    "et": "Weight",
+    "off": 27144,
+    "sff": "mean"
+  },
+  {
+    "docID": "N124 Yuan, Jin et al. 2016",
+    "et": "Adult",
+    "off": 25874,
+    "sff": "adult"
+  },
+  {
+    "docID": "N124 Yuan, Jin et al. 2016",
+    "et": "MouseSpecies",
+    "off": 10975,
+    "sff": "GFP"
+  },
+  {
+    "docID": "N124 Yuan, Jin et al. 2016",
+    "et": "MouseSpecies",
+    "off": 24994,
+    "sff": "transgenic"
+  },
+  {
+    "docID": "N124 Yuan, Jin et al. 2016",
+    "et": "C57_BL6_Mouse",
+    "off": 26998,
+    "sff": "6"
+  },
+  {
+    "docID": "N124 Yuan, Jin et al. 2016",
+    "et": "SpragueDawleyRat",
+    "off": 25052,
+    "sff": "SD"
+  },
+  {
+    "docID": "N124 Yuan, Jin et al. 2016",
+    "et": "RatSpecies",
+    "off": 10373,
+    "sff": "rats"
+  },
+  {
+    "docID": "N124 Yuan, Jin et al. 2016",
+    "et": "MouseSpecies",
+    "off": 5810,
+    "sff": "transgenic"
+  },
+  {
+    "docID": "N124 Yuan, Jin et al. 2016",
+    "et": "SpragueDawleyRat",
+    "off": 25052,
+    "sff": "SD rats"
+  },
+  {
+    "docID": "N124 Yuan, Jin et al. 2016",
+    "et": "SpragueDawleyRat",
+    "off": 12100,
+    "sff": "rats"
+  },
+  {
+    "docID": "N124 Yuan, Jin et al. 2016",
+    "et": "WistarRat",
+    "off": 25055,
+    "sff": "rats"
+  },
+  {
+    "docID": "N124 Yuan, Jin et al. 2016",
+    "et": "SpragueDawleyRat",
+    "off": 5821,
+    "sff": "rats"
+  },
+  {
+    "docID": "N124 Yuan, Jin et al. 2016",
+    "et": "Age",
+    "off": 10677,
+    "sff": "days"
+  },
+  {
+    "docID": "N124 Yuan, Jin et al. 2016",
+    "et": "MouseSpecies",
+    "off": 23103,
+    "sff": "GFP"
+  },
+  {
+    "docID": "N124 Yuan, Jin et al. 2016",
+    "et": "MouseSpecies",
+    "off": 9624,
+    "sff": "transgenic"
+  },
+  {
+    "docID": "N124 Yuan, Jin et al. 2016",
+    "et": "SpragueDawleyRat",
+    "off": 25005,
+    "sff": "rats"
+  },
+  {
+    "docID": "N124 Yuan, Jin et al. 2016",
+    "et": "Weight",
+    "off": 19882,
+    "sff": "mean"
+  },
+  {
+    "docID": "N124 Yuan, Jin et al. 2016",
+    "et": "MouseSpecies",
+    "off": 24405,
+    "sff": "under"
+  },
+  {
+    "docID": "N124 Yuan, Jin et al. 2016",
+    "et": "Adult",
+    "off": 22599,
+    "sff": "adult"
+  },
+  {
+    "docID": "N124 Yuan, Jin et al. 2016",
+    "et": "SpragueDawleyRat",
+    "off": 9635,
+    "sff": "rats"
+  },
+  {
+    "docID": "N124 Yuan, Jin et al. 2016",
+    "et": "SpragueDawleyRat",
+    "off": 10531,
+    "sff": "rats"
+  },
+  {
+    "docID": "N124 Yuan, Jin et al. 2016",
+    "et": "SpragueDawleyRat",
+    "off": 10272,
+    "sff": "rats"
+  },
+  {
+    "docID": "N124 Yuan, Jin et al. 2016",
+    "et": "SpragueDawleyRat",
+    "off": 25880,
+    "sff": "SD"
+  },
+  {
+    "docID": "N124 Yuan, Jin et al. 2016",
+    "et": "MouseSpecies",
+    "off": 25822,
+    "sff": "transgenic"
+  },
+  {
+    "docID": "N124 Yuan, Jin et al. 2016",
+    "et": "C57_BL6_Mouse",
+    "off": 18107,
+    "sff": "6"
+  },
+  {
+    "docID": "N124 Yuan, Jin et al. 2016",
+    "et": "FischerRat",
+    "off": 25005,
+    "sff": "rats"
+  },
+  {
+    "docID": "N124 Yuan, Jin et al. 2016",
+    "et": "Adult",
+    "off": 25046,
+    "sff": "adult"
+  },
+  {
+    "docID": "N124 Yuan, Jin et al. 2016",
+    "et": "LongEvansRat",
+    "off": 10373,
+    "sff": "rats"
+  },
+  {
+    "docID": "N124 Yuan, Jin et al. 2016",
+    "et": "MouseSpecies",
+    "off": 26268,
+    "sff": "GFP"
+  },
+  {
+    "docID": "N124 Yuan, Jin et al. 2016",
+    "et": "LongEvansRat",
+    "off": 9635,
+    "sff": "rats"
+  },
+  {
+    "docID": "N124 Yuan, Jin et al. 2016",
+    "et": "Age",
+    "off": 10215,
+    "sff": "days"
+  },
+  {
+    "docID": "N124 Yuan, Jin et al. 2016",
+    "et": "Weight",
+    "off": 24654,
+    "sff": "mean"
+  },
+  {
+    "docID": "N124 Yuan, Jin et al. 2016",
+    "et": "WistarRat",
+    "off": 22605,
+    "sff": "rats"
+  },
+  {
+    "docID": "N124 Yuan, Jin et al. 2016",
+    "et": "MouseSpecies",
+    "off": 11154,
+    "sff": "GFP"
+  },
+  {
+    "docID": "N124 Yuan, Jin et al. 2016",
+    "et": "FischerRat",
+    "off": 12484,
+    "sff": "Fischer"
+  },
+  {
+    "docID": "N124 Yuan, Jin et al. 2016",
+    "et": "RatSpecies",
+    "off": 22605,
+    "sff": "rats"
+  },
+  {
+    "docID": "N124 Yuan, Jin et al. 2016",
+    "et": "Adult",
+    "off": 1258,
+    "sff": "adult"
+  },
+  {
+    "docID": "N124 Yuan, Jin et al. 2016",
+    "et": "SpragueDawleyRat",
+    "off": 25880,
+    "sff": "SD rats"
+  },
+  {
+    "docID": "N124 Yuan, Jin et al. 2016",
+    "et": "Age",
+    "off": 12411,
+    "sff": "days"
+  },
+  {
+    "docID": "N124 Yuan, Jin et al. 2016",
+    "et": "WistarRat",
+    "off": 25883,
+    "sff": "rats"
+  },
+  {
+    "docID": "N124 Yuan, Jin et al. 2016",
+    "et": "SpragueDawleyRat",
+    "off": 10373,
+    "sff": "rats"
+  },
+  {
+    "docID": "N124 Yuan, Jin et al. 2016",
+    "et": "Adult",
+    "off": 24950,
+    "sff": "adult"
+  },
+  {
+    "docID": "N124 Yuan, Jin et al. 2016",
+    "et": "Weight",
+    "off": 28155,
+    "sff": "g"
+  },
+  {
+    "docID": "N124 Yuan, Jin et al. 2016",
+    "et": "C57_BL6_Mouse",
+    "off": 24723,
+    "sff": "6"
+  },
+  {
+    "docID": "N124 Yuan, Jin et al. 2016",
+    "et": "LongEvansRat",
+    "off": 5821,
+    "sff": "rats"
+  },
+  {
+    "docID": "N124 Yuan, Jin et al. 2016",
+    "et": "Age",
+    "off": 19196,
+    "sff": "day"
+  },
+  {
+    "docID": "N124 Yuan, Jin et al. 2016",
+    "et": "C57_BL6_Mouse",
+    "off": 21136,
+    "sff": "6"
+  },
+  {
+    "docID": "N124 Yuan, Jin et al. 2016",
+    "et": "FischerRat",
+    "off": 5821,
+    "sff": "rats"
+  }
+]

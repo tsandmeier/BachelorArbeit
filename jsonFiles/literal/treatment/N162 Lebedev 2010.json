@@ -1,0 +1,68 @@
+[
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "InjectionDelivery",
+    "off": 6656,
+    "sff": "injected"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "Saline",
+    "off": 3786,
+    "sff": "saline"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "Saline",
+    "off": 4618,
+    "sff": "saline"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "RingersSolution",
+    "off": 6820,
+    "sff": "solution"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "Rostral",
+    "off": 13946,
+    "sff": "rostrally"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "Saline",
+    "off": 10036,
+    "sff": "saline"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "Saline",
+    "off": 4618,
+    "sff": "saline solution"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "Saline",
+    "off": 3634,
+    "sff": "saline"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "Rostral",
+    "off": 8390,
+    "sff": "rostrally"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "DosageExtracorporal",
+    "off": 6665,
+    "sff": "750,000 cells in 10 µl Hanks medium"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "RingersSolution",
+    "off": 4625,
+    "sff": "solution"
+  }
+]

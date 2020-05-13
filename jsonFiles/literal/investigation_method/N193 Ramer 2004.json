@@ -1,0 +1,194 @@
+[
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "HistologicalInvestigationTest",
+    "off": 23126,
+    "sff": "profiles"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "HistologicalInvestigationTest",
+    "off": 21702,
+    "sff": "morphologic"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "AstrogliosisTest",
+    "off": 42300,
+    "sff": "reactive"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "LesionVolumeTest",
+    "off": 31520,
+    "sff": "formation"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "AxonalChangesTest",
+    "off": 22255,
+    "sff": "axons were detected"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "HistologicalInvestigationTest",
+    "off": 37704,
+    "sff": "profiles"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "NeuroprotectionTest",
+    "off": 53257,
+    "sff": "rubrospinal neurons"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "AxonalChangesTest",
+    "off": 38898,
+    "sff": "axons were detected"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "HistologicalInvestigationTest",
+    "off": 26643,
+    "sff": "morphologic"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "NonFunctionalTest",
+    "off": 27446,
+    "sff": "pathology"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "AxonalRegenerationTest",
+    "off": 36262,
+    "sff": "immunostaining"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "TissueSparingTest",
+    "off": 31596,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "LesionVolumeTest",
+    "off": 28770,
+    "sff": "cavity area"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "AxonalRegenerationTest",
+    "off": 19910,
+    "sff": "NF200"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "LesionVolumeTest",
+    "off": 33308,
+    "sff": "GFAP-negative"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "AstrogliosisTest",
+    "off": 51310,
+    "sff": "reactive"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "NonFunctionalTest",
+    "off": 27505,
+    "sff": "pathology"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "HistologicalInvestigationTest",
+    "off": 38798,
+    "sff": "morphologic"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "AstrogliosisTest",
+    "off": 34455,
+    "sff": "reactive"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "CystVolumeTest",
+    "off": 54940,
+    "sff": "cavitation"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "CystVolumeTest",
+    "off": 42140,
+    "sff": "cavitation"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "AstrogliosisTest",
+    "off": 49432,
+    "sff": "astrocytic"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "HistologicalInvestigationTest",
+    "off": 26408,
+    "sff": "morphologic"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "CystVolumeTest",
+    "off": 22377,
+    "sff": "cavitation"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "AxonalRegenerationTest",
+    "off": 42676,
+    "sff": "NF200"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "AstrogliosisTest",
+    "off": 33861,
+    "sff": "reactive"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "CystVolumeTest",
+    "off": 27236,
+    "sff": "cavity formation"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "CystVolumeTest",
+    "off": 21591,
+    "sff": "cavitation"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "AxonalSproutingTest",
+    "off": 40109,
+    "sff": "sprouting axons"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "AstrogliosisTest",
+    "off": 35538,
+    "sff": "astrocytic"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "CystVolumeTest",
+    "off": 15701,
+    "sff": "cavitation"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "AstrogliosisTest",
+    "off": 33870,
+    "sff": "astrocytic"
+  }
+]

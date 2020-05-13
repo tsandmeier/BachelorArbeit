@@ -1,0 +1,68 @@
+[
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "LateralHemisection",
+    "off": 8896,
+    "sff": "lateral"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "Contusion",
+    "off": 6089,
+    "sff": "contusion"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "LateralHemisection",
+    "off": 8996,
+    "sff": "right side"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "LateralHemisection",
+    "off": 6566,
+    "sff": "right"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "LateralHemisection",
+    "off": 8851,
+    "sff": "right side"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "T9",
+    "off": 5975,
+    "sff": "Th9"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "KetamineAsAnaesthetic",
+    "off": 5905,
+    "sff": "ketamine"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "Diazepam",
+    "off": 5935,
+    "sff": "seduxen"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "T8",
+    "off": 6362,
+    "sff": "Th8"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "LateralHemisection",
+    "off": 8916,
+    "sff": "lateral"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "WeightDrop",
+    "off": 6137,
+    "sff": "metal rod"
+  }
+]

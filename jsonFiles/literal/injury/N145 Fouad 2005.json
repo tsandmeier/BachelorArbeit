@@ -1,0 +1,80 @@
+[
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "Isoflurane",
+    "off": 12352,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "CompleteTransection",
+    "off": 9871,
+    "sff": "completely transected"
+  },
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "T9",
+    "off": 9762,
+    "sff": "T"
+  },
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "LateralHemisection",
+    "off": 11502,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "T8",
+    "off": 9939,
+    "sff": "T8"
+  },
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "LateralHemisection",
+    "off": 10501,
+    "sff": "lateral"
+  },
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "Anaesthetic",
+    "off": 9493,
+    "sff": "Midazolam"
+  },
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "CompleteTransection",
+    "off": 9871,
+    "sff": "completely"
+  },
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "LateralHemisection",
+    "off": 9882,
+    "sff": "transected"
+  },
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "PartialTransection",
+    "off": 11064,
+    "sff": "small"
+  },
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "Anaesthetic",
+    "off": 9410,
+    "sff": "Hypnorm"
+  },
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "Isoflurane",
+    "off": 13783,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "Anaesthetic",
+    "off": 19872,
+    "sff": "Midazolam"
+  }
+]

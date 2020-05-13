@@ -1,0 +1,302 @@
+[
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "FischerRat",
+    "off": 13251,
+    "sff": "rats"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "LongEvansRat",
+    "off": 33055,
+    "sff": "rats"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "RatSpecies",
+    "off": 12730,
+    "sff": "rats"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "Age",
+    "off": 16290,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "C57_BL6_Mouse",
+    "off": 32845,
+    "sff": "6"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "MouseSpecies",
+    "off": 32915,
+    "sff": "under"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "LongEvansRat",
+    "off": 12463,
+    "sff": "rats"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "MouseSpecies",
+    "off": 10702,
+    "sff": "green"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "RatSpecies",
+    "off": 12463,
+    "sff": "rats"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "LongEvansRat",
+    "off": 33574,
+    "sff": "rats"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "Male",
+    "off": 32792,
+    "sff": "male"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "Age",
+    "off": 36494,
+    "sff": "4"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "RatSpecies",
+    "off": 33574,
+    "sff": "rats"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "Age",
+    "off": 7042,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "MouseSpecies",
+    "off": 1182,
+    "sff": "under"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "Age",
+    "off": 23054,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "Weight",
+    "off": 35203,
+    "sff": "20"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "C57_BL6_Mouse",
+    "off": 32810,
+    "sff": "6"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "Age",
+    "off": 38911,
+    "sff": "3"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "MouseSpecies",
+    "off": 7919,
+    "sff": "green"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "Age",
+    "off": 7039,
+    "sff": "3"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "LongEvansRat",
+    "off": 37841,
+    "sff": "rats"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "Age",
+    "off": 16401,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "Age",
+    "off": 20606,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "Age",
+    "off": 16014,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "Age",
+    "off": 32810,
+    "sff": "6"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "Adult",
+    "off": 32786,
+    "sff": "adult"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "Age",
+    "off": 38563,
+    "sff": "2.5"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "MouseSpecies",
+    "off": 7660,
+    "sff": "protein"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "WistarRat",
+    "off": 32797,
+    "sff": "Wistar rats"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "Age",
+    "off": 17526,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "MouseSpecies",
+    "off": 10147,
+    "sff": "green"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "Age",
+    "off": 37936,
+    "sff": "days"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "Age",
+    "off": 16197,
+    "sff": "4"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "Age",
+    "off": 17671,
+    "sff": "3"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "Weight",
+    "off": 32810,
+    "sff": "6"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "MouseSpecies",
+    "off": 19593,
+    "sff": "protein"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "Age",
+    "off": 36426,
+    "sff": "2"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "Age",
+    "off": 36429,
+    "sff": "4"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "Age",
+    "off": 15211,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "Age",
+    "off": 32845,
+    "sff": "6"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "Age",
+    "off": 8005,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "Weight",
+    "off": 35517,
+    "sff": "250"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "Age",
+    "off": 36435,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "Weight",
+    "off": 16311,
+    "sff": "mean"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "LongEvansRat",
+    "off": 9466,
+    "sff": "rats"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "Weight",
+    "off": 32845,
+    "sff": "6"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "Weight",
+    "off": 12157,
+    "sff": "200"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "MouseSpecies",
+    "off": 8248,
+    "sff": "green"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "MouseSpecies",
+    "off": 32873,
+    "sff": "under"
+  }
+]

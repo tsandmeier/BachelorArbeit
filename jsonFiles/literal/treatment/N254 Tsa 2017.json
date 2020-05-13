@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "Vehicle",
+    "off": 26998,
+    "sff": "fibrin solution"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "Vehicle",
+    "off": 29206,
+    "sff": "vehicle"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "Vehicle",
+    "off": 11633,
+    "sff": "fibrin solution"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 204,
+    "sff": "OEC"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "Vehicle",
+    "off": 29320,
+    "sff": "vehicle"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "Vehicle",
+    "off": 11633,
+    "sff": "fibrin"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "InjectionDelivery",
+    "off": 12199,
+    "sff": "injected"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "Vehicle",
+    "off": 11640,
+    "sff": "solution"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "Vehicle",
+    "off": 20146,
+    "sff": "fibrin"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "DeliveryMethod",
+    "off": 25413,
+    "sff": "transferred"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "SurgeryTreatment",
+    "off": 11412,
+    "sff": "5 mm segment of spinal cord encompassing T8 being removed"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "Rostral",
+    "off": 27750,
+    "sff": "rostral"
+  }
+]

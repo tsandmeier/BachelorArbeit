@@ -1,0 +1,254 @@
+[
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "GroupName",
+    "off": 25129,
+    "sff": "OEC"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "GroupName",
+    "off": 980,
+    "sff": "AdPGIS-OEC"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "GroupName",
+    "off": 11601,
+    "sff": "cells"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "GroupName",
+    "off": 20345,
+    "sff": "d"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "GroupName",
+    "off": 29351,
+    "sff": "1"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "GroupName",
+    "off": 28167,
+    "sff": "cells"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "GroupName",
+    "off": 16781,
+    "sff": "cells"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "GroupName",
+    "off": 12693,
+    "sff": "sections"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "GroupName",
+    "off": 11238,
+    "sff": "laminectomy"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "GroupName",
+    "off": 23430,
+    "sff": "cells"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "GroupName",
+    "off": 23621,
+    "sff": "cells"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "GroupName",
+    "off": 27545,
+    "sff": "rats"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "GroupName",
+    "off": 21833,
+    "sff": "control"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "GroupName",
+    "off": 29101,
+    "sff": "cord"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "GroupName",
+    "off": 30501,
+    "sff": "OEC grafted SCI rats"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "GroupName",
+    "off": 19987,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "GroupName",
+    "off": 1294,
+    "sff": "nontreated SCI rats"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "GroupName",
+    "off": 26479,
+    "sff": "OEC"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "GroupName",
+    "off": 12729,
+    "sff": "cord"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "GroupName",
+    "off": 1425,
+    "sff": "OEC transplanted SCI rats"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "GroupName",
+    "off": 14881,
+    "sff": "0"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "GroupName",
+    "off": 29886,
+    "sff": "only"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "GroupName",
+    "off": 11879,
+    "sff": "transplantation"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "GroupName",
+    "off": 29214,
+    "sff": "treatment"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "GroupName",
+    "off": 29700,
+    "sff": "graft"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "GroupName",
+    "off": 29876,
+    "sff": "OEC graft only"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "GroupName",
+    "off": 28896,
+    "sff": "rats"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "GroupName",
+    "off": 28975,
+    "sff": "scores"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "GroupName",
+    "off": 26030,
+    "sff": "only"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "GroupName",
+    "off": 23806,
+    "sff": "OEC"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "GroupName",
+    "off": 29635,
+    "sff": "AdPGIS-OEC"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "GroupName",
+    "off": 23953,
+    "sff": "control"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "GroupName",
+    "off": 17468,
+    "sff": "OEC"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "GroupName",
+    "off": 30517,
+    "sff": "rats"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "GroupName",
+    "off": 29239,
+    "sff": "5"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "GroupName",
+    "off": 30356,
+    "sff": "vehicle-treated SCI rats"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "GroupName",
+    "off": 16697,
+    "sff": "rats"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "GroupName",
+    "off": 28268,
+    "sff": "AdPGIS-OEC-grafted groups"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "GroupName",
+    "off": 29192,
+    "sff": "SCI rats with vehicle treatment"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "GroupName",
+    "off": 28268,
+    "sff": "AdPGIS-OEC-grafted"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "GroupName",
+    "off": 20074,
+    "sff": "injury"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "GroupName",
+    "off": 27529,
+    "sff": "OEC grafted SCI rats"
+  }
+]

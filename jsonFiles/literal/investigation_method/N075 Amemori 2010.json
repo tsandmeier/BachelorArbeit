@@ -1,0 +1,218 @@
+[
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "HindpawSensationTest",
+    "off": 12229,
+    "sff": "stimulation"
+  },
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "AstrogliosisTest",
+    "off": 25782,
+    "sff": "processes"
+  },
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "AstrogliosisTest",
+    "off": 27108,
+    "sff": "area"
+  },
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "TissueSparingTest",
+    "off": 28825,
+    "sff": "volume of the white matter"
+  },
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "TissueSparingTest",
+    "off": 18457,
+    "sff": "volume of the white matter"
+  },
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "TissueSparingTest",
+    "off": 25565,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "TissueSparingTest",
+    "off": 28594,
+    "sff": "spared"
+  },
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 11613,
+    "sff": "stimuli"
+  },
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "TissueSparingTest",
+    "off": 26915,
+    "sff": "cross-sectional area of the spared white and gray matter"
+  },
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 24163,
+    "sff": "latency"
+  },
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "TissueSparingTest",
+    "off": 27916,
+    "sff": "volume of the white matter"
+  },
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 16673,
+    "sff": "stimulus"
+  },
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "AstrogliosisTest",
+    "off": 27093,
+    "sff": "differences"
+  },
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 132,
+    "sff": "injury"
+  },
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "TissueSparingTest",
+    "off": 28039,
+    "sff": "white"
+  },
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "InclinedPlaneTest",
+    "off": 12027,
+    "sff": "values"
+  },
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "TissueSparingTest",
+    "off": 28063,
+    "sff": "spared"
+  },
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 20839,
+    "sff": "stimulus"
+  },
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 11933,
+    "sff": "latencies"
+  },
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 20779,
+    "sff": "withdrawal latency of the hindpaws"
+  },
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "TissueSparingTest",
+    "off": 28316,
+    "sff": "spared"
+  },
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "TissueSparingTest",
+    "off": 28648,
+    "sff": "volume of the gray matter"
+  },
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 16573,
+    "sff": "stimulus"
+  },
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "AstrogliosisTest",
+    "off": 26203,
+    "sff": "differences"
+  },
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "TissueSparingTest",
+    "off": 27698,
+    "sff": "gray matter sparing"
+  },
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "AstrogliosisTest",
+    "off": 27225,
+    "sff": "area"
+  },
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "TissueSparingTest",
+    "off": 27566,
+    "sff": "volume"
+  },
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "AstrogliosisTest",
+    "off": 26583,
+    "sff": "area"
+  },
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "AstrogliosisTest",
+    "off": 26089,
+    "sff": "processes"
+  },
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "TissueSparingTest",
+    "off": 28403,
+    "sff": "volume of the gray matter"
+  },
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "AstrogliosisTest",
+    "off": 28448,
+    "sff": "area"
+  },
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 11922,
+    "sff": "withdrawal"
+  },
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "TissueSparingTest",
+    "off": 28648,
+    "sff": "volume"
+  },
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "TissueSparingTest",
+    "off": 27289,
+    "sff": "volume of spared white matter"
+  },
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 11573,
+    "sff": "withdrawal latency"
+  },
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "TissueSparingTest",
+    "off": 8148,
+    "sff": "examined"
+  }
+]

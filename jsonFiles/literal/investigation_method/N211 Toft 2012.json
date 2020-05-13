@@ -1,0 +1,200 @@
+[
+  {
+    "docID": "N211 Toft 2012",
+    "et": "AxonalRegenerationTest",
+    "off": 28037,
+    "sff": "immunostaining"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "LesionVolumeTest",
+    "off": 34198,
+    "sff": "lesion sites"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "AstrogliosisTest",
+    "off": 35816,
+    "sff": "astrocytic"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "GaitTest",
+    "off": 16753,
+    "sff": "lateral"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "LesionVolumeTest",
+    "off": 34395,
+    "sff": "injury sites"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "AstrogliosisTest",
+    "off": 29233,
+    "sff": "reactive"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "MyelinationTest",
+    "off": 22906,
+    "sff": "nerve"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "AxonalRegenerationTest",
+    "off": 25271,
+    "sff": "immunostaining"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "MyelinationTest",
+    "off": 27893,
+    "sff": "myelinated"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "MyelinationTest",
+    "off": 36225,
+    "sff": "fibers"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "MyelinationTest",
+    "off": 17435,
+    "sff": "diameter"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "MyelinationTest",
+    "off": 19651,
+    "sff": "myelinated axons"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "MyelinationTest",
+    "off": 16552,
+    "sff": "diameter"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "AstrogliosisTest",
+    "off": 29374,
+    "sff": "reactive"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "ScarringTest",
+    "off": 20585,
+    "sff": "GFAP expression"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "LesionVolumeTest",
+    "off": 34314,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "MyelinationTest",
+    "off": 33036,
+    "sff": "fibers"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "AstrogliosisTest",
+    "off": 35273,
+    "sff": "astrocytic"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "LesionVolumeTest",
+    "off": 33760,
+    "sff": "cavities"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "LesionVolumeTest",
+    "off": 25896,
+    "sff": "quantify the mean lesion length"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "AstrogliosisTest",
+    "off": 35397,
+    "sff": "astrocytic"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "MyelinationTest",
+    "off": 19651,
+    "sff": "myelinated"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "AstrogliosisTest",
+    "off": 1735,
+    "sff": "astrocytic"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "AxonalRegenerationTest",
+    "off": 20678,
+    "sff": "immunolabeling"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "MyelinationTest",
+    "off": 15443,
+    "sff": "diameter"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "LesionVolumeTest",
+    "off": 21712,
+    "sff": "volume"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "AstrogliosisTest",
+    "off": 34709,
+    "sff": "reactive"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "LesionVolumeTest",
+    "off": 23719,
+    "sff": "lesion sites"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "AstrogliosisTest",
+    "off": 26974,
+    "sff": "reactive"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "LesionVolumeTest",
+    "off": 36286,
+    "sff": "formation"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "LesionVolumeTest",
+    "off": 31103,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "AstrogliosisTest",
+    "off": 2334,
+    "sff": "astrocytic"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "AxonalChangesTest",
+    "off": 32458,
+    "sff": "numbers of axons"
+  }
+]

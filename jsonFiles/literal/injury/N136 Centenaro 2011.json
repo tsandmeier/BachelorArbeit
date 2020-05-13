@@ -1,0 +1,62 @@
+[
+  {
+    "docID": "N136 Centenaro 2011",
+    "et": "Compression",
+    "off": 10116,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N136 Centenaro 2011",
+    "et": "LateralHemisection",
+    "off": 17401,
+    "sff": "lateral"
+  },
+  {
+    "docID": "N136 Centenaro 2011",
+    "et": "LateralHemisection",
+    "off": 12647,
+    "sff": "column"
+  },
+  {
+    "docID": "N136 Centenaro 2011",
+    "et": "LateralHemisection",
+    "off": 13224,
+    "sff": "column"
+  },
+  {
+    "docID": "N136 Centenaro 2011",
+    "et": "LateralHemisection",
+    "off": 12601,
+    "sff": "column"
+  },
+  {
+    "docID": "N136 Centenaro 2011",
+    "et": "LateralHemisection",
+    "off": 12622,
+    "sff": "column"
+  },
+  {
+    "docID": "N136 Centenaro 2011",
+    "et": "VertebralArea",
+    "off": 16286,
+    "sff": "levels"
+  },
+  {
+    "docID": "N136 Centenaro 2011",
+    "et": "LateralHemisection",
+    "off": 13199,
+    "sff": "column"
+  },
+  {
+    "docID": "N136 Centenaro 2011",
+    "et": "Compression",
+    "off": 9503,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N136 Centenaro 2011",
+    "et": "LightSource",
+    "off": 8984,
+    "sff": "fiber"
+  }
+]

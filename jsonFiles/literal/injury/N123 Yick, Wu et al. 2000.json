@@ -1,0 +1,68 @@
+[
+  {
+    "docID": "N123 Yick, Wu et al. 2000",
+    "et": "T9",
+    "off": 2684,
+    "sff": "9"
+  },
+  {
+    "docID": "N123 Yick, Wu et al. 2000",
+    "et": "T11",
+    "off": 858,
+    "sff": "T11"
+  },
+  {
+    "docID": "N123 Yick, Wu et al. 2000",
+    "et": "L1",
+    "off": 12480,
+    "sff": "L1"
+  },
+  {
+    "docID": "N123 Yick, Wu et al. 2000",
+    "et": "L1",
+    "off": 11535,
+    "sff": "L1"
+  },
+  {
+    "docID": "N123 Yick, Wu et al. 2000",
+    "et": "L1",
+    "off": 9951,
+    "sff": "L1"
+  },
+  {
+    "docID": "N123 Yick, Wu et al. 2000",
+    "et": "L1",
+    "off": 10335,
+    "sff": "L1"
+  },
+  {
+    "docID": "N123 Yick, Wu et al. 2000",
+    "et": "LateralHemisection",
+    "off": 12371,
+    "sff": "hemisection"
+  },
+  {
+    "docID": "N123 Yick, Wu et al. 2000",
+    "et": "PhotochemicalInjury",
+    "off": 3898,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N123 Yick, Wu et al. 2000",
+    "et": "L1",
+    "off": 11349,
+    "sff": "L1"
+  },
+  {
+    "docID": "N123 Yick, Wu et al. 2000",
+    "et": "LateralHemisection",
+    "off": 843,
+    "sff": "hemisection"
+  },
+  {
+    "docID": "N123 Yick, Wu et al. 2000",
+    "et": "LateralHemisection",
+    "off": 10909,
+    "sff": "hemisection"
+  }
+]

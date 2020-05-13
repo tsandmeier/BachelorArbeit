@@ -1,0 +1,62 @@
+[
+  {
+    "docID": "N227 Yamamoto 2009",
+    "et": "DorsalHemisection",
+    "off": 874,
+    "sff": "CST"
+  },
+  {
+    "docID": "N227 Yamamoto 2009",
+    "et": "DorsalHemisection",
+    "off": 1177,
+    "sff": "CST"
+  },
+  {
+    "docID": "N227 Yamamoto 2009",
+    "et": "Compression",
+    "off": 138,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N227 Yamamoto 2009",
+    "et": "LateralHemisection",
+    "off": 138,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N227 Yamamoto 2009",
+    "et": "LateralHemisection",
+    "off": 428,
+    "sff": "unilateral"
+  },
+  {
+    "docID": "N227 Yamamoto 2009",
+    "et": "LateralHemisection",
+    "off": 1200,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N227 Yamamoto 2009",
+    "et": "DorsalHemisection",
+    "off": 479,
+    "sff": "CST"
+  },
+  {
+    "docID": "N227 Yamamoto 2009",
+    "et": "Compression",
+    "off": 595,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N227 Yamamoto 2009",
+    "et": "DorsalHemisection",
+    "off": 595,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N227 Yamamoto 2009",
+    "et": "LateralHemisection",
+    "off": 595,
+    "sff": "lesion"
+  }
+]

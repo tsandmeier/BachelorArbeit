@@ -1,0 +1,68 @@
+[
+  {
+    "docID": "N113 Hyatt, Wang et al. 2010",
+    "et": "Forceps",
+    "off": 10892,
+    "sff": "forceps"
+  },
+  {
+    "docID": "N113 Hyatt, Wang et al. 2010",
+    "et": "C4",
+    "off": 10780,
+    "sff": "C4"
+  },
+  {
+    "docID": "N113 Hyatt, Wang et al. 2010",
+    "et": "LateralHemisection",
+    "off": 10848,
+    "sff": "cut"
+  },
+  {
+    "docID": "N113 Hyatt, Wang et al. 2010",
+    "et": "Forceps",
+    "off": 10901,
+    "sff": "Dumont"
+  },
+  {
+    "docID": "N113 Hyatt, Wang et al. 2010",
+    "et": "LateralHemisection",
+    "off": 20245,
+    "sff": "lesioned"
+  },
+  {
+    "docID": "N113 Hyatt, Wang et al. 2010",
+    "et": "Isoflurane",
+    "off": 10645,
+    "sff": "isoﬂurane"
+  },
+  {
+    "docID": "N113 Hyatt, Wang et al. 2010",
+    "et": "PartialTransection",
+    "off": 7500,
+    "sff": "small"
+  },
+  {
+    "docID": "N113 Hyatt, Wang et al. 2010",
+    "et": "AllenWeightDropDevice",
+    "off": 20878,
+    "sff": "technique"
+  },
+  {
+    "docID": "N113 Hyatt, Wang et al. 2010",
+    "et": "AllenWeightDropDevice",
+    "off": 21485,
+    "sff": "technique"
+  },
+  {
+    "docID": "N113 Hyatt, Wang et al. 2010",
+    "et": "VertebralArea",
+    "off": 13314,
+    "sff": "levels"
+  },
+  {
+    "docID": "N113 Hyatt, Wang et al. 2010",
+    "et": "Blade",
+    "off": 17326,
+    "sff": "small"
+  }
+]

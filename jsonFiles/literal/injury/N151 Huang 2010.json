@@ -1,0 +1,68 @@
+[
+  {
+    "docID": "N151 Huang 2010",
+    "et": "PhotochemicalInjury",
+    "off": 4068,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "PhotochemicalInjury",
+    "off": 3828,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "LateralHemisection",
+    "off": 3582,
+    "sff": "transected"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "CompleteTransection",
+    "off": 2145,
+    "sff": "complete spinal cord transaction"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "PhotochemicalInjury",
+    "off": 3291,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "Compression",
+    "off": 2023,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "PhotochemicalInjury",
+    "off": 3677,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "T8",
+    "off": 3354,
+    "sff": "T8"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "Contusion",
+    "off": 1436,
+    "sff": "SCI"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "PhotochemicalInjury",
+    "off": 2040,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "PhotochemicalInjury",
+    "off": 2392,
+    "sff": "spinal"
+  }
+]

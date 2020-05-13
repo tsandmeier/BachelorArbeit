@@ -1,0 +1,194 @@
+[
+  {
+    "docID": "N164 Li 2003",
+    "et": "InclinedPlaneTest",
+    "off": 11075,
+    "sff": "climbing"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "GaitTest",
+    "off": 17563,
+    "sff": "lateral"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "InclinedPlaneTest",
+    "off": 10410,
+    "sff": "climbing test"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "TissueSparingTest",
+    "off": 6526,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "TissueSparingTest",
+    "off": 17608,
+    "sff": "spared"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "TissueSparingTest",
+    "off": 15454,
+    "sff": "intact"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "InclinedPlaneTest",
+    "off": 14605,
+    "sff": "climbing"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "LesionVolumeTest",
+    "off": 7248,
+    "sff": "lesion area"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "AstrogliosisTest",
+    "off": 12978,
+    "sff": "area"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 12812,
+    "sff": "time"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "TissueSparingTest",
+    "off": 6124,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "ApoptosisTest",
+    "off": 10027,
+    "sff": "activity"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "TissueSparingTest",
+    "off": 7546,
+    "sff": "remaining"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "AxonalRegenerationTest",
+    "off": 9696,
+    "sff": "brainstem"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "InclinedPlaneTest",
+    "off": 18685,
+    "sff": "climbing"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "AstrogliosisTest",
+    "off": 15039,
+    "sff": "measured"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "AxonalRegenerationTest",
+    "off": 6094,
+    "sff": "number"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "InclinedPlaneTest",
+    "off": 958,
+    "sff": "climbing"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "TissueSparingTest",
+    "off": 15461,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "TissueSparingTest",
+    "off": 13522,
+    "sff": "white"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "TissueSparingTest",
+    "off": 13947,
+    "sff": "intact"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "AxonalSproutingTest",
+    "off": 6403,
+    "sff": "density"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "ApoptosisTest",
+    "off": 17030,
+    "sff": "activity"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "HindpawSensationTest",
+    "off": 16183,
+    "sff": "responses"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 10625,
+    "sff": "hindpaws"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "AxonalChangesTest",
+    "off": 20308,
+    "sff": "measures"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "TissueSparingTest",
+    "off": 12636,
+    "sff": "area"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "InclinedPlaneTest",
+    "off": 10270,
+    "sff": "angle"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "ApoptosisTest",
+    "off": 9175,
+    "sff": "activity"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "AxonalChangesTest",
+    "off": 18704,
+    "sff": "observed"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "ApoptosisTest",
+    "off": 9938,
+    "sff": "activity"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "TissueSparingTest",
+    "off": 19297,
+    "sff": "spared"
+  }
+]

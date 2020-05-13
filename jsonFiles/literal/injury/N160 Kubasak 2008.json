@@ -1,0 +1,80 @@
+[
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "T10",
+    "off": 26672,
+    "sff": "T10"
+  },
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "LateralHemisection",
+    "off": 7109,
+    "sff": "lateral"
+  },
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "Scissors",
+    "off": 7069,
+    "sff": "micro-scissors"
+  },
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "Isoflurane",
+    "off": 6808,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "VertebralArea",
+    "off": 8488,
+    "sff": "T8 and T9"
+  },
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "CompleteTransection",
+    "off": 7004,
+    "sff": "completely transected"
+  },
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "KetamineAsAnaesthetic",
+    "off": 10643,
+    "sff": "Ketamine"
+  },
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "CompleteTransection",
+    "off": 7015,
+    "sff": "transected"
+  },
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "CompleteTransection",
+    "off": 18804,
+    "sff": "completely"
+  },
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "T9",
+    "off": 27282,
+    "sff": "T9"
+  },
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "CompleteTransection",
+    "off": 18804,
+    "sff": "completely transected"
+  },
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "VertebralArea",
+    "off": 6871,
+    "sff": "T8 and T9"
+  },
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "CompleteTransection",
+    "off": 7004,
+    "sff": "completely"
+  }
+]

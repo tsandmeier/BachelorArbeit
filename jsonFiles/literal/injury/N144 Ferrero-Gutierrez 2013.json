@@ -1,0 +1,80 @@
+[
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "Isoflurane",
+    "off": 7433,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "PartialTransection",
+    "off": 14163,
+    "sff": "severing the leaving a small hinge uncut"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "Contusion",
+    "off": 14453,
+    "sff": "SCI"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "Scissors",
+    "off": 14831,
+    "sff": "iridectomy scissors"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "T7",
+    "off": 14766,
+    "sff": "T7"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "Contusion",
+    "off": 710,
+    "sff": "SCI"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "Contusion",
+    "off": 2135,
+    "sff": "cord"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "InjuryDevice",
+    "off": 18968,
+    "sff": "mouse"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "NYUImpactor",
+    "off": 14518,
+    "sff": "University"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "InjuryDevice",
+    "off": 19429,
+    "sff": "mouse"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "LateralHemisection",
+    "off": 14715,
+    "sff": "cord"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "LateralHemisection",
+    "off": 14233,
+    "sff": "transected"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "Isoflurane",
+    "off": 14646,
+    "sff": "isoflurane"
+  }
+]

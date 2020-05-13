@@ -1,0 +1,194 @@
+[
+  {
+    "docID": "N134 Cao 2004",
+    "et": "AstrogliosisTest",
+    "off": 25710,
+    "sff": "reactive"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "AxonalChangesTest",
+    "off": 26893,
+    "sff": "NF-positive"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "AxonalChangesTest",
+    "off": 35533,
+    "sff": "NF-positive"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "AxonalRegenerationTest",
+    "off": 26261,
+    "sff": "immunostaining"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "AxonalChangesTest",
+    "off": 30435,
+    "sff": "axons"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "TissueSparingTest",
+    "off": 16727,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "AstrogliosisTest",
+    "off": 32727,
+    "sff": "astrocytes"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "AxonalChangesTest",
+    "off": 35973,
+    "sff": "NF-positive"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "TissueSparingTest",
+    "off": 27027,
+    "sff": "amount"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "TissueSparingTest",
+    "off": 16781,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "AstrogliosisTest",
+    "off": 2086,
+    "sff": "GFAP"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "AstrogliosisTest",
+    "off": 34853,
+    "sff": "reactive"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "AstrogliosisTest",
+    "off": 34908,
+    "sff": "astrocytic"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "AxonalRegenerationTest",
+    "off": 32587,
+    "sff": "immunostaining"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "InclinedPlaneTest",
+    "off": 22912,
+    "sff": "angle"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "ScarringTest",
+    "off": 32708,
+    "sff": "GFAP expression"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "AxonalChangesTest",
+    "off": 27448,
+    "sff": "NF-positive"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "TissueSparingTest",
+    "off": 12966,
+    "sff": "amount"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "AstrogliosisTest",
+    "off": 24151,
+    "sff": "GFAP"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "TissueSparingTest",
+    "off": 32620,
+    "sff": "amount"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "AxonalRegenerationTest",
+    "off": 23988,
+    "sff": "immunostaining"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "AxonalChangesTest",
+    "off": 27631,
+    "sff": "NF-positive"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "AstrogliosisTest",
+    "off": 35210,
+    "sff": "reactive"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "AstrogliosisTest",
+    "off": 26579,
+    "sff": "GFAP"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "AxonalChangesTest",
+    "off": 35355,
+    "sff": "NF-positive"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "AxonalChangesTest",
+    "off": 27804,
+    "sff": "NF-positive"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "ScarringTest",
+    "off": 24151,
+    "sff": "GFAP expression"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "AstrogliosisTest",
+    "off": 32708,
+    "sff": "GFAP"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "AxonalRegenerationTest",
+    "off": 32550,
+    "sff": "immunostaining"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "AstrogliosisTest",
+    "off": 31882,
+    "sff": "processes"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "AstrogliosisTest",
+    "off": 26503,
+    "sff": "reactive"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "TissueSparingTest",
+    "off": 32931,
+    "sff": "amount"
+  }
+]

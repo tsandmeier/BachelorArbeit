@@ -1,0 +1,68 @@
+[
+  {
+    "docID": "N146 Fouad 2009",
+    "et": "Anaesthetic",
+    "off": 5354,
+    "sff": "Midazolam"
+  },
+  {
+    "docID": "N146 Fouad 2009",
+    "et": "T7",
+    "off": 5454,
+    "sff": "T7"
+  },
+  {
+    "docID": "N146 Fouad 2009",
+    "et": "CompleteTransection",
+    "off": 1182,
+    "sff": "complete thoracic SCI"
+  },
+  {
+    "docID": "N146 Fouad 2009",
+    "et": "PartialTransection",
+    "off": 6725,
+    "sff": "small"
+  },
+  {
+    "docID": "N146 Fouad 2009",
+    "et": "PartialTransection",
+    "off": 7943,
+    "sff": "transverse"
+  },
+  {
+    "docID": "N146 Fouad 2009",
+    "et": "LateralHemisection",
+    "off": 7823,
+    "sff": "lateral"
+  },
+  {
+    "docID": "N146 Fouad 2009",
+    "et": "Anaesthetic",
+    "off": 5253,
+    "sff": "Hypnorm"
+  },
+  {
+    "docID": "N146 Fouad 2009",
+    "et": "T8",
+    "off": 5520,
+    "sff": "Th8"
+  },
+  {
+    "docID": "N146 Fouad 2009",
+    "et": "L1",
+    "off": 10303,
+    "sff": "L1"
+  },
+  {
+    "docID": "N146 Fouad 2009",
+    "et": "Anaesthetic",
+    "off": 10192,
+    "sff": "ice"
+  },
+  {
+    "docID": "N146 Fouad 2009",
+    "et": "VertebralArea",
+    "off": 9563,
+    "sff": "levels"
+  }
+]

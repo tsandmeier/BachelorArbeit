@@ -1,0 +1,68 @@
+[
+  {
+    "docID": "N155 Jeffery 2005",
+    "et": "LateralHemisection",
+    "off": 18406,
+    "sff": "lateral"
+  },
+  {
+    "docID": "N155 Jeffery 2005",
+    "et": "Compression",
+    "off": 4695,
+    "sff": "injuries"
+  },
+  {
+    "docID": "N155 Jeffery 2005",
+    "et": "Blade",
+    "off": 6435,
+    "sff": "surgical"
+  },
+  {
+    "docID": "N155 Jeffery 2005",
+    "et": "Blade",
+    "off": 11196,
+    "sff": "blade"
+  },
+  {
+    "docID": "N155 Jeffery 2005",
+    "et": "Compression",
+    "off": 29454,
+    "sff": "crushing"
+  },
+  {
+    "docID": "N155 Jeffery 2005",
+    "et": "Blade",
+    "off": 6863,
+    "sff": "surgical"
+  },
+  {
+    "docID": "N155 Jeffery 2005",
+    "et": "NYUImpactor",
+    "off": 6628,
+    "sff": "University"
+  },
+  {
+    "docID": "N155 Jeffery 2005",
+    "et": "Blade",
+    "off": 21498,
+    "sff": "blade"
+  },
+  {
+    "docID": "N155 Jeffery 2005",
+    "et": "T12",
+    "off": 19853,
+    "sff": "T12"
+  },
+  {
+    "docID": "N155 Jeffery 2005",
+    "et": "Dislocation",
+    "off": 8522,
+    "sff": "consequence of intervertebral disc extrusion"
+  },
+  {
+    "docID": "N155 Jeffery 2005",
+    "et": "Blade",
+    "off": 6781,
+    "sff": "surgical"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Rostral",
+    "off": 13981,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "InjectionDelivery",
+    "off": 1115,
+    "sff": "injected"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "InjectionDelivery",
+    "off": 28411,
+    "sff": "injected"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "InjectionDelivery",
+    "off": 8584,
+    "sff": "intraperitoneally"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Saline",
+    "off": 13618,
+    "sff": "saline"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Rostral",
+    "off": 27503,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "Rostral",
+    "off": 25759,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "InjectionDelivery",
+    "off": 8289,
+    "sff": "injected"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "InjectionDelivery",
+    "off": 30388,
+    "sff": "injected"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "InjectionDelivery",
+    "off": 31124,
+    "sff": "injected"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 442,
+    "sff": "ECs"
+  },
+  {
+    "docID": "N138 Chuah 2004",
+    "et": "InjectionDelivery",
+    "off": 28111,
+    "sff": "injected"
+  }
+]

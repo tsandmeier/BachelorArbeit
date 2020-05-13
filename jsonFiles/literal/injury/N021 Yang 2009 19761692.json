@@ -1,0 +1,62 @@
+[
+  {
+    "docID": "N021 Yang 2009 19761692",
+    "et": "InjuryByAccident",
+    "off": 1095,
+    "sff": "injury"
+  },
+  {
+    "docID": "N021 Yang 2009 19761692",
+    "et": "T10",
+    "off": 1223,
+    "sff": "cord"
+  },
+  {
+    "docID": "N021 Yang 2009 19761692",
+    "et": "T10",
+    "off": 1216,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N021 Yang 2009 19761692",
+    "et": "C1",
+    "off": 70,
+    "sff": "first"
+  },
+  {
+    "docID": "N021 Yang 2009 19761692",
+    "et": "DorsalHemisection",
+    "off": 601,
+    "sff": "were"
+  },
+  {
+    "docID": "N021 Yang 2009 19761692",
+    "et": "InjuryByAccident",
+    "off": 399,
+    "sff": "injury"
+  },
+  {
+    "docID": "N021 Yang 2009 19761692",
+    "et": "InjuryDevice",
+    "off": 1223,
+    "sff": "cord"
+  },
+  {
+    "docID": "N021 Yang 2009 19761692",
+    "et": "Contusion",
+    "off": 1223,
+    "sff": "cord"
+  },
+  {
+    "docID": "N021 Yang 2009 19761692",
+    "et": "InjuryByAccident",
+    "off": 1228,
+    "sff": "injury"
+  },
+  {
+    "docID": "N021 Yang 2009 19761692",
+    "et": "InjuryByAccident",
+    "off": 349,
+    "sff": "injury"
+  }
+]

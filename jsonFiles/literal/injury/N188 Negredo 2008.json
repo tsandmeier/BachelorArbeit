@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N188 Negredo 2008",
+    "et": "CompleteTransection",
+    "off": 47518,
+    "sff": "completely transected"
+  },
+  {
+    "docID": "N188 Negredo 2008",
+    "et": "Scissors",
+    "off": 13216,
+    "sff": "microscissors"
+  },
+  {
+    "docID": "N188 Negredo 2008",
+    "et": "KetamineAsAnaesthetic",
+    "off": 9088,
+    "sff": "ketamine"
+  },
+  {
+    "docID": "N188 Negredo 2008",
+    "et": "Isoflurane",
+    "off": 16237,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N188 Negredo 2008",
+    "et": "NitrousOxide",
+    "off": 16148,
+    "sff": "N2O"
+  },
+  {
+    "docID": "N188 Negredo 2008",
+    "et": "KetamineAsAnaesthetic",
+    "off": 16444,
+    "sff": "ketamine"
+  },
+  {
+    "docID": "N188 Negredo 2008",
+    "et": "Anaesthetic",
+    "off": 12745,
+    "sff": "medetomidine"
+  },
+  {
+    "docID": "N188 Negredo 2008",
+    "et": "Isoflurane",
+    "off": 16161,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N188 Negredo 2008",
+    "et": "KetamineAsAnaesthetic",
+    "off": 12790,
+    "sff": "ketamine"
+  },
+  {
+    "docID": "N188 Negredo 2008",
+    "et": "NitrousOxide",
+    "off": 16224,
+    "sff": "N2O"
+  },
+  {
+    "docID": "N188 Negredo 2008",
+    "et": "WeightDrop",
+    "off": 21570,
+    "sff": "device"
+  },
+  {
+    "docID": "N188 Negredo 2008",
+    "et": "T8",
+    "off": 13129,
+    "sff": "T8"
+  }
+]

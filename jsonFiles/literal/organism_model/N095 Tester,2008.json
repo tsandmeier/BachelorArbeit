@@ -1,0 +1,308 @@
+[
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Age",
+    "off": 22385,
+    "sff": "mo"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Weight",
+    "off": 10498,
+    "sff": "kg"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "CatSpecies",
+    "off": 8350,
+    "sff": "spayed"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "SpragueDawleyRat",
+    "off": 8121,
+    "sff": "rats"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Age",
+    "off": 14848,
+    "sff": "day"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "MouseSpecies",
+    "off": 12331,
+    "sff": "under"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Age",
+    "off": 20223,
+    "sff": "mo"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "MouseSpecies",
+    "off": 11944,
+    "sff": "under"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Age",
+    "off": 14858,
+    "sff": "mo"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "CatSpecies",
+    "off": 8295,
+    "sff": "cats"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Weight",
+    "off": 26173,
+    "sff": "200"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Age",
+    "off": 16400,
+    "sff": "days"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Weight",
+    "off": 12705,
+    "sff": "kg"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Weight",
+    "off": 9770,
+    "sff": "kg"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Age",
+    "off": 9436,
+    "sff": "mo"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Age",
+    "off": 9312,
+    "sff": "days"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Adult",
+    "off": 8324,
+    "sff": "adult"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Age",
+    "off": 26413,
+    "sff": "2.5"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Age",
+    "off": 11896,
+    "sff": "8"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Age",
+    "off": 14931,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Age",
+    "off": 25448,
+    "sff": "day"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Age",
+    "off": 26600,
+    "sff": "day"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Age",
+    "off": 13300,
+    "sff": "days"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Age",
+    "off": 22406,
+    "sff": "4"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Age",
+    "off": 36592,
+    "sff": "days"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Age",
+    "off": 42717,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Weight",
+    "off": 9916,
+    "sff": "kg"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Age",
+    "off": 9785,
+    "sff": "day"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Age",
+    "off": 34828,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Age",
+    "off": 44045,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Age",
+    "off": 44528,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Age",
+    "off": 16334,
+    "sff": "days"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Age",
+    "off": 885,
+    "sff": "months"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Age",
+    "off": 9801,
+    "sff": "day"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Weight",
+    "off": 40965,
+    "sff": "mean"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Age",
+    "off": 9234,
+    "sff": "mo"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Age",
+    "off": 45001,
+    "sff": "months"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Age",
+    "off": 14998,
+    "sff": "day"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Age",
+    "off": 27941,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Weight",
+    "off": 20318,
+    "sff": "kg"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Female",
+    "off": 8331,
+    "sff": "females"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Age",
+    "off": 29353,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Age",
+    "off": 19023,
+    "sff": "8"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Age",
+    "off": 7979,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Age",
+    "off": 17633,
+    "sff": "2.5"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Adult",
+    "off": 825,
+    "sff": "adult"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Age",
+    "off": 41105,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Age",
+    "off": 23336,
+    "sff": "day"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Age",
+    "off": 35095,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Age",
+    "off": 9029,
+    "sff": "2"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Age",
+    "off": 7966,
+    "sff": "weeks"
+  }
+]

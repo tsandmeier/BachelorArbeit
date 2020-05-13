@@ -1,0 +1,80 @@
+[
+  {
+    "docID": "N118 Wilems, Sakiyama-Elbert 2015",
+    "et": "Isoflurane",
+    "off": 18467,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N118 Wilems, Sakiyama-Elbert 2015",
+    "et": "DorsalHemisection",
+    "off": 18991,
+    "sff": "dorsal hemisection"
+  },
+  {
+    "docID": "N118 Wilems, Sakiyama-Elbert 2015",
+    "et": "DorsalHemisection",
+    "off": 18991,
+    "sff": "dorsal"
+  },
+  {
+    "docID": "N118 Wilems, Sakiyama-Elbert 2015",
+    "et": "T11",
+    "off": 18682,
+    "sff": "T11"
+  },
+  {
+    "docID": "N118 Wilems, Sakiyama-Elbert 2015",
+    "et": "T8",
+    "off": 18725,
+    "sff": "T8"
+  },
+  {
+    "docID": "N118 Wilems, Sakiyama-Elbert 2015",
+    "et": "DorsalHemisection",
+    "off": 54617,
+    "sff": "model"
+  },
+  {
+    "docID": "N118 Wilems, Sakiyama-Elbert 2015",
+    "et": "LateralHemisection",
+    "off": 67129,
+    "sff": "hemisection"
+  },
+  {
+    "docID": "N118 Wilems, Sakiyama-Elbert 2015",
+    "et": "Scissors",
+    "off": 18835,
+    "sff": "Vitrectomy scissors"
+  },
+  {
+    "docID": "N118 Wilems, Sakiyama-Elbert 2015",
+    "et": "AllenWeightDropDevice",
+    "off": 12274,
+    "sff": "technique"
+  },
+  {
+    "docID": "N118 Wilems, Sakiyama-Elbert 2015",
+    "et": "Xylazine",
+    "off": 18494,
+    "sff": "xylazine"
+  },
+  {
+    "docID": "N118 Wilems, Sakiyama-Elbert 2015",
+    "et": "LateralHemisection",
+    "off": 18929,
+    "sff": "lateral"
+  },
+  {
+    "docID": "N118 Wilems, Sakiyama-Elbert 2015",
+    "et": "VertebralArea",
+    "off": 35418,
+    "sff": "levels"
+  },
+  {
+    "docID": "N118 Wilems, Sakiyama-Elbert 2015",
+    "et": "Forceps",
+    "off": 19691,
+    "sff": "forceps"
+  }
+]

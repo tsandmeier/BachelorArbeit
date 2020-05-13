@@ -1,0 +1,62 @@
+[
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "Cervical",
+    "off": 9192,
+    "sff": "cervical"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "LateralHemisection",
+    "off": 15509,
+    "sff": "left"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "C1",
+    "off": 490,
+    "sff": "first"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "C1",
+    "off": 490,
+    "sff": "first cervical segment"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "VertebralArea",
+    "off": 12019,
+    "sff": "levels"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "LateralHemisection",
+    "off": 15564,
+    "sff": "lateral"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "Cervical",
+    "off": 496,
+    "sff": "cervical"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "LateralHemisection",
+    "off": 10387,
+    "sff": "lesioned"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "LateralHemisection",
+    "off": 15517,
+    "sff": "right"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "LateralHemisection",
+    "off": 14086,
+    "sff": "lesioned"
+  }
+]

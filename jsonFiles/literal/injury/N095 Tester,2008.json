@@ -1,0 +1,80 @@
+[
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Scissors",
+    "off": 10665,
+    "sff": "iridectomy scissors"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Isoflurane",
+    "off": 15308,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Isoflurane",
+    "off": 10189,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Anaesthetic",
+    "off": 9884,
+    "sff": "atropine sulfate"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "LateralHemisection",
+    "off": 10624,
+    "sff": "lateral"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "LateralHemisection",
+    "off": 10569,
+    "sff": "cord"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "LateralHemisection",
+    "off": 10632,
+    "sff": "hemisection"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Anaesthetic",
+    "off": 9924,
+    "sff": "acetylpromazine"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "LateralHemisection",
+    "off": 10624,
+    "sff": "lateral hemisection"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "VertebralArea",
+    "off": 45021,
+    "sff": "levels"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "LateralHemisection",
+    "off": 19261,
+    "sff": "lateral"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "C4",
+    "off": 12358,
+    "sff": "vertebra"
+  },
+  {
+    "docID": "N095 Tester,2008",
+    "et": "Isoflurane",
+    "off": 10078,
+    "sff": "isoflurane"
+  }
+]

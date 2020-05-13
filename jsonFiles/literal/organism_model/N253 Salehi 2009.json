@@ -1,0 +1,314 @@
+[
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Weight",
+    "off": 3850,
+    "sff": "8"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "WistarRat",
+    "off": 9722,
+    "sff": "Wistar rats"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Weight",
+    "off": 3870,
+    "sff": "g"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Female",
+    "off": 3815,
+    "sff": "female"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Weight",
+    "off": 3862,
+    "sff": "250"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Mixed",
+    "off": 684,
+    "sff": "female"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Weight",
+    "off": 3848,
+    "sff": "6"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Adult",
+    "off": 9709,
+    "sff": "adult"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Female",
+    "off": 9715,
+    "sff": "female"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Gender",
+    "off": 9715,
+    "sff": "female"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Weight",
+    "off": 7550,
+    "sff": "300"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "SpragueDawleyRat",
+    "off": 9715,
+    "sff": "female"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Gender",
+    "off": 3815,
+    "sff": "female"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Age",
+    "off": 4255,
+    "sff": "6"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Age",
+    "off": 11366,
+    "sff": "5"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "SpragueDawleyRat",
+    "off": 9729,
+    "sff": "rats"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "LongEvansRat",
+    "off": 4257,
+    "sff": "rats"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "WistarRat",
+    "off": 3822,
+    "sff": "Wistar rats"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Age",
+    "off": 11344,
+    "sff": "5"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Adult",
+    "off": 3809,
+    "sff": "Adult"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "RatSpecies",
+    "off": 691,
+    "sff": "rats"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Mixed",
+    "off": 9715,
+    "sff": "female"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Age",
+    "off": 3850,
+    "sff": "8"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Weight",
+    "off": 3866,
+    "sff": "300"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "C57_BL6_Mouse",
+    "off": 3848,
+    "sff": "6"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "RatSpecies",
+    "off": 4257,
+    "sff": "rats"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Mixed",
+    "off": 3815,
+    "sff": "female"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Age",
+    "off": 3848,
+    "sff": "6"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Female",
+    "off": 684,
+    "sff": "female"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "LongEvansRat",
+    "off": 9729,
+    "sff": "rats"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "RatSpecies",
+    "off": 4755,
+    "sff": "rats"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "SpragueDawleyRat",
+    "off": 684,
+    "sff": "female"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "FischerRat",
+    "off": 4257,
+    "sff": "rats"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Age",
+    "off": 3852,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "RatSpecies",
+    "off": 11919,
+    "sff": "rats"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "LongEvansRat",
+    "off": 4755,
+    "sff": "rats"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Gender",
+    "off": 684,
+    "sff": "female"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "SpragueDawleyRat",
+    "off": 4755,
+    "sff": "rats"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Age",
+    "off": 3843,
+    "sff": "aged"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "FischerRat",
+    "off": 4623,
+    "sff": "rats"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "FischerRat",
+    "off": 4755,
+    "sff": "rats"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "RatSpecies",
+    "off": 9729,
+    "sff": "rats"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "FischerRat",
+    "off": 11919,
+    "sff": "rats"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "RatSpecies",
+    "off": 10242,
+    "sff": "rats"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Weight",
+    "off": 5706,
+    "sff": "300"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "SpragueDawleyRat",
+    "off": 3815,
+    "sff": "female"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "FischerRat",
+    "off": 9729,
+    "sff": "rats"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "WistarRat",
+    "off": 9722,
+    "sff": "Wistar"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "LongEvansRat",
+    "off": 4220,
+    "sff": "rats"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Weight",
+    "off": 5711,
+    "sff": "g"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "FischerRat",
+    "off": 4220,
+    "sff": "rats"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "SpragueDawleyRat",
+    "off": 691,
+    "sff": "rats"
+  }
+]

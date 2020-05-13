@@ -1,0 +1,68 @@
+[
+  {
+    "docID": "N148 Gorrie 2010",
+    "et": "LateralHemisection",
+    "off": 7950,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N148 Gorrie 2010",
+    "et": "VertebralArea",
+    "off": 11388,
+    "sff": "levels"
+  },
+  {
+    "docID": "N148 Gorrie 2010",
+    "et": "Contusion",
+    "off": 1975,
+    "sff": "contused"
+  },
+  {
+    "docID": "N148 Gorrie 2010",
+    "et": "T10",
+    "off": 1215,
+    "sff": "T10"
+  },
+  {
+    "docID": "N148 Gorrie 2010",
+    "et": "LateralHemisection",
+    "off": 16183,
+    "sff": "lateral"
+  },
+  {
+    "docID": "N148 Gorrie 2010",
+    "et": "LateralHemisection",
+    "off": 7796,
+    "sff": "right"
+  },
+  {
+    "docID": "N148 Gorrie 2010",
+    "et": "T11",
+    "off": 11151,
+    "sff": "T11"
+  },
+  {
+    "docID": "N148 Gorrie 2010",
+    "et": "VertebralArea",
+    "off": 9415,
+    "sff": "levels"
+  },
+  {
+    "docID": "N148 Gorrie 2010",
+    "et": "Contusion",
+    "off": 18687,
+    "sff": "contused"
+  },
+  {
+    "docID": "N148 Gorrie 2010",
+    "et": "InjuryDevice",
+    "off": 10608,
+    "sff": "compression"
+  },
+  {
+    "docID": "N148 Gorrie 2010",
+    "et": "InjuryDevice",
+    "off": 10815,
+    "sff": "compression"
+  }
+]

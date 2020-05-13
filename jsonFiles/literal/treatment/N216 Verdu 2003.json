@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "Saline",
+    "off": 13989,
+    "sff": "saline"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "Saline",
+    "off": 9453,
+    "sff": "saline solution"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "Saline",
+    "off": 9014,
+    "sff": "saline"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 311,
+    "sff": "OECs"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "Saline",
+    "off": 8900,
+    "sff": "saline"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "InjectionDelivery",
+    "off": 12606,
+    "sff": "subcutaneously"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "Vehicle",
+    "off": 17167,
+    "sff": "DMEM"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "InjectionDelivery",
+    "off": 17937,
+    "sff": "injected"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "Saline",
+    "off": 9453,
+    "sff": "saline"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "Saline",
+    "off": 13989,
+    "sff": "saline solution"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "DosageExtracorporal",
+    "off": 9677,
+    "sff": "Each animal received a total of 180,000 OECs"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "Vehicle",
+    "off": 9797,
+    "sff": "vehicle"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N099 Orlando, Raineteau 2015",
+    "et": "Scissors",
+    "off": 7952,
+    "sff": "iridectomy scissors"
+  },
+  {
+    "docID": "N099 Orlando, Raineteau 2015",
+    "et": "Anaesthetic",
+    "off": 7053,
+    "sff": "Hypnorm"
+  },
+  {
+    "docID": "N099 Orlando, Raineteau 2015",
+    "et": "Anaesthetic",
+    "off": 7140,
+    "sff": "Dormicum"
+  },
+  {
+    "docID": "N099 Orlando, Raineteau 2015",
+    "et": "T8",
+    "off": 7855,
+    "sff": "T8"
+  },
+  {
+    "docID": "N099 Orlando, Raineteau 2015",
+    "et": "T8",
+    "off": 33902,
+    "sff": "T8"
+  },
+  {
+    "docID": "N099 Orlando, Raineteau 2015",
+    "et": "DorsalHemisection",
+    "off": 7895,
+    "sff": "dorsal spinal cord hemisection"
+  },
+  {
+    "docID": "N099 Orlando, Raineteau 2015",
+    "et": "T8",
+    "off": 27929,
+    "sff": "T8"
+  },
+  {
+    "docID": "N099 Orlando, Raineteau 2015",
+    "et": "T8",
+    "off": 19208,
+    "sff": "T8"
+  },
+  {
+    "docID": "N099 Orlando, Raineteau 2015",
+    "et": "LateralHemisection",
+    "off": 7914,
+    "sff": "hemisection"
+  },
+  {
+    "docID": "N099 Orlando, Raineteau 2015",
+    "et": "T8",
+    "off": 26614,
+    "sff": "T8"
+  },
+  {
+    "docID": "N099 Orlando, Raineteau 2015",
+    "et": "L1",
+    "off": 13534,
+    "sff": "L1"
+  },
+  {
+    "docID": "N099 Orlando, Raineteau 2015",
+    "et": "T8",
+    "off": 15750,
+    "sff": "T8"
+  }
+]

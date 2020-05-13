@@ -1,0 +1,194 @@
+[
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "AxonalSproutingTest",
+    "off": 16801,
+    "sff": "primary"
+  },
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "HistologicalInvestigationTest",
+    "off": 24605,
+    "sff": "profiles"
+  },
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "SpinalCordEvokedPotentialsTest",
+    "off": 18444,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "MyelinationTest",
+    "off": 12006,
+    "sff": "myelinated axons"
+  },
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "SpinalCordEvokedPotentialsTest",
+    "off": 7819,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "ElectrophysiologyTest",
+    "off": 1225,
+    "sff": "Conduction velocity"
+  },
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "LesionVolumeTest",
+    "off": 12160,
+    "sff": "lesion area"
+  },
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "HistologicalInvestigationTest",
+    "off": 24208,
+    "sff": "profiles"
+  },
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "SpinalCordEvokedPotentialsTest",
+    "off": 18077,
+    "sff": "amplitudes"
+  },
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "SpinalCordEvokedPotentialsTest",
+    "off": 18496,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 20012,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "SpinalCordEvokedPotentialsTest",
+    "off": 19205,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 17896,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "SpinalCordEvokedPotentialsTest",
+    "off": 17896,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 17367,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "SpinalCordEvokedPotentialsTest",
+    "off": 20012,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "ApoptosisTest",
+    "off": 8929,
+    "sff": "activity"
+  },
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "HistologicalInvestigationTest",
+    "off": 11391,
+    "sff": "profiles"
+  },
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "HistologicalInvestigationTest",
+    "off": 24384,
+    "sff": "profiles"
+  },
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "SpinalCordEvokedPotentialsTest",
+    "off": 13935,
+    "sff": "amplitudes"
+  },
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "InclinedPlaneTest",
+    "off": 24460,
+    "sff": "capacity"
+  },
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 14171,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "SpinalCordEvokedPotentialsTest",
+    "off": 17367,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 13935,
+    "sff": "amplitudes"
+  },
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 19205,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "BBBTest",
+    "off": 6857,
+    "sff": "modified"
+  },
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "HistologicalInvestigationTest",
+    "off": 25005,
+    "sff": "profiles"
+  },
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "SpinalCordEvokedPotentialsTest",
+    "off": 14171,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 18496,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 18444,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 7819,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "ElectrophysiologyTest",
+    "off": 13714,
+    "sff": "CAPs"
+  }
+]

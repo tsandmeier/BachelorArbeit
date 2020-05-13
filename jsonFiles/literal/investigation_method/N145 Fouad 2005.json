@@ -1,0 +1,206 @@
+[
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "AngiogenesisTest",
+    "off": 21992,
+    "sff": "vessels"
+  },
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "AngiogenesisTest",
+    "off": 38257,
+    "sff": "number of blood vessels"
+  },
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "SpasticityObservation",
+    "off": 29706,
+    "sff": "spasticity"
+  },
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "BBBTest",
+    "off": 26529,
+    "sff": "BBB score"
+  },
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "AngiogenesisTest",
+    "off": 27947,
+    "sff": "number of blood vessels"
+  },
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "HindpawSensationTest",
+    "off": 35719,
+    "sff": "average target force"
+  },
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "AngiogenesisTest",
+    "off": 37345,
+    "sff": "vessels"
+  },
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "AngiogenesisTest",
+    "off": 21603,
+    "sff": "vessels"
+  },
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "SpasticityObservation",
+    "off": 29503,
+    "sff": "spasticity"
+  },
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "AxonalChangesTest",
+    "off": 1897,
+    "sff": "reticulospinal"
+  },
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 35216,
+    "sff": "mechanical"
+  },
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "OpenFieldTest",
+    "off": 32308,
+    "sff": "percentage of hindlimb steps after forelimb steps was analyzed"
+  },
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "AstrogliosisTest",
+    "off": 34387,
+    "sff": "activation"
+  },
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "HistologicalInvestigationTest",
+    "off": 14822,
+    "sff": "1D1 immunoreactivity"
+  },
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "AxonalChangesTest",
+    "off": 36148,
+    "sff": "serotonergic"
+  },
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "AxonalChangesTest",
+    "off": 19805,
+    "sff": "reticulospinal"
+  },
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "AngiogenesisTest",
+    "off": 38555,
+    "sff": "numbers of blood vessels"
+  },
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "AxonalRegenerationTest",
+    "off": 36373,
+    "sff": "quantitative analysis of these fibers"
+  },
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "TissueSparingTest",
+    "off": 18127,
+    "sff": "amount"
+  },
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "TissueSparingTest",
+    "off": 14796,
+    "sff": "amount"
+  },
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "AngiogenesisTest",
+    "off": 38273,
+    "sff": "vessels"
+  },
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 34998,
+    "sff": "mechanical"
+  },
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "SpasticityObservation",
+    "off": 29794,
+    "sff": "spasticity"
+  },
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "MyelinationTest",
+    "off": 21954,
+    "sff": "numbers of myelinated axons"
+  },
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "SpasticityObservation",
+    "off": 29591,
+    "sff": "spasticity was quantified"
+  },
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "BBBTest",
+    "off": 31339,
+    "sff": "BBB scores"
+  },
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "AxonalChangesTest",
+    "off": 24841,
+    "sff": "reticulospinal"
+  },
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "AxonalChangesTest",
+    "off": 35933,
+    "sff": "serotonergic"
+  },
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "LesionVolumeTest",
+    "off": 36101,
+    "sff": "formation"
+  },
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "NeuronalChangesTest",
+    "off": 19805,
+    "sff": "reticulospinal"
+  },
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "AxonalChangesTest",
+    "off": 1748,
+    "sff": "serotonergic"
+  },
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "BBBTest",
+    "off": 30960,
+    "sff": "average BBB score"
+  },
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "AxonalChangesTest",
+    "off": 36312,
+    "sff": "serotonergic"
+  },
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "SpasticityObservation",
+    "off": 29678,
+    "sff": "spasticity"
+  }
+]

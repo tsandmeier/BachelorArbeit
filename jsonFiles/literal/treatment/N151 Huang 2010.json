@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N151 Huang 2010",
+    "et": "InjectionDelivery",
+    "off": 4049,
+    "sff": "injected"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "Caudal",
+    "off": 3532,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "Vehicle",
+    "off": 3959,
+    "sff": "alone"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "DosageExtracorporal",
+    "off": 3194,
+    "sff": "cells"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "Vehicle",
+    "off": 3943,
+    "sff": "control"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "SchwannCell",
+    "off": 3490,
+    "sff": "cells"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 3033,
+    "sff": "cells"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "DosageExtracorporal",
+    "off": 4021,
+    "sff": "cells"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "TreadmillTraining",
+    "off": 2280,
+    "sff": "treadmill"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "Rostral",
+    "off": 3503,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "DosageExtracorporal",
+    "off": 3490,
+    "sff": "cells"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "ChondroitinaseABC",
+    "off": 1045,
+    "sff": "Chondroitinase ABC"
+  }
+]

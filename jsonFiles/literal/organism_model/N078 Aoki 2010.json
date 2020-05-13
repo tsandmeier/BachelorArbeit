@@ -1,0 +1,308 @@
+[
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "SpragueDawleyRat",
+    "off": 5908,
+    "sff": "rats"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "SpragueDawleyRat",
+    "off": 7445,
+    "sff": "rats"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "C57_BL6_Mouse",
+    "off": 20028,
+    "sff": "6"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "Weight",
+    "off": 16306,
+    "sff": "mean"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "FischerRat",
+    "off": 5043,
+    "sff": "rats"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "Weight",
+    "off": 15147,
+    "sff": "mean"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "Age",
+    "off": 18557,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "RatSpecies",
+    "off": 5043,
+    "sff": "rats"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "WistarRat",
+    "off": 1090,
+    "sff": "Wistar rats"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "RatSpecies",
+    "off": 1461,
+    "sff": "rats"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "RatSpecies",
+    "off": 675,
+    "sff": "rat"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "FischerRat",
+    "off": 5962,
+    "sff": "rats"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "SpragueDawleyRat",
+    "off": 5043,
+    "sff": "rats"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "LongEvansRat",
+    "off": 5090,
+    "sff": "rats"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "SpragueDawleyRat",
+    "off": 1461,
+    "sff": "rats"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "Gender",
+    "off": 10370,
+    "sff": "female"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "RatSpecies",
+    "off": 5962,
+    "sff": "rats"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "Weight",
+    "off": 13318,
+    "sff": "mean"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "Weight",
+    "off": 11071,
+    "sff": "kg"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "WistarRat",
+    "off": 6359,
+    "sff": "Wistar"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "FischerRat",
+    "off": 6366,
+    "sff": "rats"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "LongEvansRat",
+    "off": 16480,
+    "sff": "rats"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "LongEvansRat",
+    "off": 6366,
+    "sff": "rats"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "RatSpecies",
+    "off": 16480,
+    "sff": "rats"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "WistarRat",
+    "off": 1090,
+    "sff": "Wistar"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "SpragueDawleyRat",
+    "off": 1097,
+    "sff": "rats"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "SpragueDawleyRat",
+    "off": 5962,
+    "sff": "rats"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "LongEvansRat",
+    "off": 5962,
+    "sff": "rats"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "LongEvansRat",
+    "off": 5043,
+    "sff": "rats"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "FischerRat",
+    "off": 8696,
+    "sff": "rats"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "WistarRat",
+    "off": 10377,
+    "sff": "Wistar rats"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "Mixed",
+    "off": 10370,
+    "sff": "female"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "Weight",
+    "off": 6439,
+    "sff": "kg"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "Weight",
+    "off": 12402,
+    "sff": "200"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "Weight",
+    "off": 19196,
+    "sff": "mean"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "WistarRat",
+    "off": 6359,
+    "sff": "Wistar rats"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "FischerRat",
+    "off": 15883,
+    "sff": "rats"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "Weight",
+    "off": 5364,
+    "sff": "kg"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "SpragueDawleyRat",
+    "off": 8696,
+    "sff": "rats"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "Female",
+    "off": 10370,
+    "sff": "female"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "SpragueDawleyRat",
+    "off": 8045,
+    "sff": "rats"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "FischerRat",
+    "off": 5908,
+    "sff": "rats"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "RatSpecies",
+    "off": 16050,
+    "sff": "rat"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "LongEvansRat",
+    "off": 5908,
+    "sff": "rats"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "SpragueDawleyRat",
+    "off": 5090,
+    "sff": "rats"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "Weight",
+    "off": 15114,
+    "sff": "200"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "SpragueDawleyRat",
+    "off": 11109,
+    "sff": "rats"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "LongEvansRat",
+    "off": 7445,
+    "sff": "rats"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "SpragueDawleyRat",
+    "off": 10370,
+    "sff": "female"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "Weight",
+    "off": 18907,
+    "sff": "mean"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "SpragueDawleyRat",
+    "off": 16480,
+    "sff": "rats"
+  }
+]

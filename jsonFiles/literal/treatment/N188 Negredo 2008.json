@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N188 Negredo 2008",
+    "et": "InjectionDelivery",
+    "off": 13724,
+    "sff": "injected"
+  },
+  {
+    "docID": "N188 Negredo 2008",
+    "et": "RehabilitativeTraining",
+    "off": 24491,
+    "sff": "range"
+  },
+  {
+    "docID": "N188 Negredo 2008",
+    "et": "Vehicle",
+    "off": 40188,
+    "sff": "control"
+  },
+  {
+    "docID": "N188 Negredo 2008",
+    "et": "Vehicle",
+    "off": 14206,
+    "sff": "solution"
+  },
+  {
+    "docID": "N188 Negredo 2008",
+    "et": "RehabilitativeTraining",
+    "off": 23783,
+    "sff": "range"
+  },
+  {
+    "docID": "N188 Negredo 2008",
+    "et": "RehabilitativeTraining",
+    "off": 15846,
+    "sff": "range"
+  },
+  {
+    "docID": "N188 Negredo 2008",
+    "et": "RehabilitativeTraining",
+    "off": 22229,
+    "sff": "range"
+  },
+  {
+    "docID": "N188 Negredo 2008",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 840,
+    "sff": "OEG"
+  },
+  {
+    "docID": "N188 Negredo 2008",
+    "et": "DosageExtracorporal",
+    "off": 13623,
+    "sff": "50 000 cells"
+  },
+  {
+    "docID": "N188 Negredo 2008",
+    "et": "Saline",
+    "off": 16629,
+    "sff": "saline"
+  },
+  {
+    "docID": "N188 Negredo 2008",
+    "et": "Vehicle",
+    "off": 13748,
+    "sff": "medium"
+  },
+  {
+    "docID": "N188 Negredo 2008",
+    "et": "DosageExtracorporal",
+    "off": 13765,
+    "sff": "cells"
+  }
+]

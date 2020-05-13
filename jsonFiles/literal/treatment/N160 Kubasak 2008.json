@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "InjectionDelivery",
+    "off": 7310,
+    "sff": "inject"
+  },
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "TreadmillTraining",
+    "off": 22,
+    "sff": "step training"
+  },
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "Rostral",
+    "off": 15126,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "TreadmillTraining",
+    "off": 8758,
+    "sff": "step training"
+  },
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "TreadmillTraining",
+    "off": 797,
+    "sff": "step training"
+  },
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "RehabilitativeTraining",
+    "off": 9773,
+    "sff": "motion"
+  },
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "TreadmillTraining",
+    "off": 9531,
+    "sff": "step training"
+  },
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 762,
+    "sff": "OEG"
+  },
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "Rostral",
+    "off": 13360,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "InjectionDelivery",
+    "off": 7953,
+    "sff": "i.m"
+  },
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "TreadmillTraining",
+    "off": 9236,
+    "sff": "step training"
+  },
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "DosageExtracorporal",
+    "off": 7583,
+    "sff": "total of 400 000 cells per rat"
+  }
+]

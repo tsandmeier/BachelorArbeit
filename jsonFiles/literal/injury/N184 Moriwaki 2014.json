@@ -1,0 +1,62 @@
+[
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "Contusion",
+    "off": 907,
+    "sff": "contusion"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "PhotochemicalInjury",
+    "off": 22322,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "Cervical",
+    "off": 17296,
+    "sff": "cervical"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "Cervical",
+    "off": 19008,
+    "sff": "cervical"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "LateralHemisection",
+    "off": 13787,
+    "sff": "column"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "Cervical",
+    "off": 19460,
+    "sff": "cervical"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "L1",
+    "off": 1237,
+    "sff": "L1"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "Cervical",
+    "off": 17526,
+    "sff": "cervical"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "T7",
+    "off": 939,
+    "sff": "T7"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "LateralHemisection",
+    "off": 14174,
+    "sff": "column"
+  }
+]

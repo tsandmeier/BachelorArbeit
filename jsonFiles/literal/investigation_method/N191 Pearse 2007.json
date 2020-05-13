@@ -1,0 +1,212 @@
+[
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "TissueSparingTest",
+    "off": 44363,
+    "sff": "amount"
+  },
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "AxonalChangesTest",
+    "off": 40618,
+    "sff": "observed"
+  },
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "TissueSparingTest",
+    "off": 40585,
+    "sff": "amount"
+  },
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "TissueSparingTest",
+    "off": 55109,
+    "sff": "normal-appearing"
+  },
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "AxonalChangesTest",
+    "off": 27303,
+    "sff": "axons"
+  },
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "TissueSparingTest",
+    "off": 8602,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "AxonalChangesTest",
+    "off": 57385,
+    "sff": "number of CTBþ axons"
+  },
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "AxonalChangesTest",
+    "off": 24990,
+    "sff": "axons"
+  },
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "AxonalChangesTest",
+    "off": 59139,
+    "sff": "number of BDA traced axons"
+  },
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "AxonalChangesTest",
+    "off": 58095,
+    "sff": "Growth of CGRPþ axons"
+  },
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "AxonalChangesTest",
+    "off": 58799,
+    "sff": "number of serotonergic axons"
+  },
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "AxonalChangesTest",
+    "off": 41495,
+    "sff": "observed"
+  },
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "FootprintAnalysisTest",
+    "off": 42878,
+    "sff": "rotation"
+  },
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "TissueSparingTest",
+    "off": 51186,
+    "sff": "amount"
+  },
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "AxonalChangesTest",
+    "off": 50592,
+    "sff": "observed"
+  },
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "AxonalChangesTest",
+    "off": 50740,
+    "sff": "axons"
+  },
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "AxonalChangesTest",
+    "off": 38831,
+    "sff": "neurons"
+  },
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "LadderRungTest",
+    "off": 65142,
+    "sff": "ability to cross a grid"
+  },
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "AxonalChangesTest",
+    "off": 57022,
+    "sff": "number of CTBþ fibers"
+  },
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "TissueSparingTest",
+    "off": 33192,
+    "sff": "normal-appearing"
+  },
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "AxonalChangesTest",
+    "off": 54407,
+    "sff": "observed"
+  },
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "AxonalChangesTest",
+    "off": 57706,
+    "sff": "CGRPþ axons were observed"
+  },
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "BBBSubscoreTest",
+    "off": 63671,
+    "sff": "BBB subscore"
+  },
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "AutomatedGaitAnalysis",
+    "off": 42776,
+    "sff": "stride length"
+  },
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "AxonalChangesTest",
+    "off": 55807,
+    "sff": "axons"
+  },
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "AutomatedGaitAnalysis",
+    "off": 64919,
+    "sff": "stride length"
+  },
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "BBBSubscoreTest",
+    "off": 63768,
+    "sff": "BBB subscores"
+  },
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "AxonalChangesTest",
+    "off": 1338,
+    "sff": "observed"
+  },
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "FootprintAnalysisTest",
+    "off": 64702,
+    "sff": "foot rotation"
+  },
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "FootprintAnalysisTest",
+    "off": 42873,
+    "sff": "foot rotation"
+  },
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "TissueSparingTest",
+    "off": 54464,
+    "sff": "normal-appearing"
+  },
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "FootprintAnalysisTest",
+    "off": 42776,
+    "sff": "stride length"
+  },
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "AxonalChangesTest",
+    "off": 25359,
+    "sff": "axons"
+  },
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "AxonalChangesTest",
+    "off": 53646,
+    "sff": "axons"
+  },
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "AxonalChangesTest",
+    "off": 26837,
+    "sff": "axons"
+  }
+]

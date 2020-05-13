@@ -1,0 +1,68 @@
+[
+  {
+    "docID": "N094 Mondello, S.E.a  c  d, Jefferson, S.C.a  c  d et al. 2015",
+    "et": "PartialTransection",
+    "off": 49245,
+    "sff": "quadrant"
+  },
+  {
+    "docID": "N094 Mondello, S.E.a  c  d, Jefferson, S.C.a  c  d et al. 2015",
+    "et": "LateralHemisection",
+    "off": 1223,
+    "sff": "lateral hemisection"
+  },
+  {
+    "docID": "N094 Mondello, S.E.a  c  d, Jefferson, S.C.a  c  d et al. 2015",
+    "et": "PartialTransection",
+    "off": 44379,
+    "sff": "quadrant"
+  },
+  {
+    "docID": "N094 Mondello, S.E.a  c  d, Jefferson, S.C.a  c  d et al. 2015",
+    "et": "Thoracic",
+    "off": 27672,
+    "sff": "low thoracic"
+  },
+  {
+    "docID": "N094 Mondello, S.E.a  c  d, Jefferson, S.C.a  c  d et al. 2015",
+    "et": "Blade",
+    "off": 1993,
+    "sff": "small"
+  },
+  {
+    "docID": "N094 Mondello, S.E.a  c  d, Jefferson, S.C.a  c  d et al. 2015",
+    "et": "T10",
+    "off": 38744,
+    "sff": "10"
+  },
+  {
+    "docID": "N094 Mondello, S.E.a  c  d, Jefferson, S.C.a  c  d et al. 2015",
+    "et": "T10",
+    "off": 24158,
+    "sff": "10th"
+  },
+  {
+    "docID": "N094 Mondello, S.E.a  c  d, Jefferson, S.C.a  c  d et al. 2015",
+    "et": "VertebralArea",
+    "off": 26790,
+    "sff": "4th"
+  },
+  {
+    "docID": "N094 Mondello, S.E.a  c  d, Jefferson, S.C.a  c  d et al. 2015",
+    "et": "LateralHemisection",
+    "off": 40542,
+    "sff": "lateral hemisection"
+  },
+  {
+    "docID": "N094 Mondello, S.E.a  c  d, Jefferson, S.C.a  c  d et al. 2015",
+    "et": "PartialTransection",
+    "off": 46756,
+    "sff": "quadrant"
+  },
+  {
+    "docID": "N094 Mondello, S.E.a  c  d, Jefferson, S.C.a  c  d et al. 2015",
+    "et": "CompleteTransection",
+    "off": 24129,
+    "sff": "sectioned"
+  }
+]

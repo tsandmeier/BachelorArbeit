@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N174 L+¦pez-Vales 2006 3",
+    "et": "LateralHemisection",
+    "off": 7614,
+    "sff": "transected"
+  },
+  {
+    "docID": "N174 L+¦pez-Vales 2006 3",
+    "et": "Forceps",
+    "off": 6266,
+    "sff": "forceps"
+  },
+  {
+    "docID": "N174 L+¦pez-Vales 2006 3",
+    "et": "SodiumPentobarbital",
+    "off": 7489,
+    "sff": "pentobarbital"
+  },
+  {
+    "docID": "N174 L+¦pez-Vales 2006 3",
+    "et": "CompleteTransection",
+    "off": 7603,
+    "sff": "completely"
+  },
+  {
+    "docID": "N174 L+¦pez-Vales 2006 3",
+    "et": "T9",
+    "off": 7556,
+    "sff": "T9"
+  },
+  {
+    "docID": "N174 L+¦pez-Vales 2006 3",
+    "et": "LateralHemisection",
+    "off": 11985,
+    "sff": "lateral"
+  },
+  {
+    "docID": "N174 L+¦pez-Vales 2006 3",
+    "et": "T8",
+    "off": 759,
+    "sff": "T8"
+  },
+  {
+    "docID": "N174 L+¦pez-Vales 2006 3",
+    "et": "T9",
+    "off": 6557,
+    "sff": "9"
+  },
+  {
+    "docID": "N174 L+¦pez-Vales 2006 3",
+    "et": "Scissors",
+    "off": 7637,
+    "sff": "microscissors"
+  },
+  {
+    "docID": "N174 L+¦pez-Vales 2006 3",
+    "et": "CompleteTransection",
+    "off": 7603,
+    "sff": "completely transected"
+  },
+  {
+    "docID": "N174 L+¦pez-Vales 2006 3",
+    "et": "CompleteTransection",
+    "off": 17680,
+    "sff": "completely transected"
+  },
+  {
+    "docID": "N174 L+¦pez-Vales 2006 3",
+    "et": "T10",
+    "off": 12487,
+    "sff": "T10"
+  }
+]

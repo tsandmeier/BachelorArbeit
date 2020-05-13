@@ -1,0 +1,194 @@
+[
+  {
+    "docID": "N229 Yui 2014",
+    "et": "TissueSparingTest",
+    "off": 394,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N229 Yui 2014",
+    "et": "GeneExpressionAnalysis",
+    "off": 18769,
+    "sff": "mRNA expressions"
+  },
+  {
+    "docID": "N229 Yui 2014",
+    "et": "AxonalChangesTest",
+    "off": 21918,
+    "sff": "observed"
+  },
+  {
+    "docID": "N229 Yui 2014",
+    "et": "AxonalChangesTest",
+    "off": 5162,
+    "sff": "number"
+  },
+  {
+    "docID": "N229 Yui 2014",
+    "et": "AstrogliosisTest",
+    "off": 15893,
+    "sff": "immunofluorescence"
+  },
+  {
+    "docID": "N229 Yui 2014",
+    "et": "TissueSparingTest",
+    "off": 22095,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N229 Yui 2014",
+    "et": "AxonalChangesTest",
+    "off": 21975,
+    "sff": "observed"
+  },
+  {
+    "docID": "N229 Yui 2014",
+    "et": "ScarringTest",
+    "off": 19783,
+    "sff": "neurocan"
+  },
+  {
+    "docID": "N229 Yui 2014",
+    "et": "GeneExpressionAnalysis",
+    "off": 8515,
+    "sff": "mRNA expressions"
+  },
+  {
+    "docID": "N229 Yui 2014",
+    "et": "GeneExpressionAnalysis",
+    "off": 20173,
+    "sff": "mRNA expressions"
+  },
+  {
+    "docID": "N229 Yui 2014",
+    "et": "ProteinLevelAnalysis",
+    "off": 12959,
+    "sff": "level"
+  },
+  {
+    "docID": "N229 Yui 2014",
+    "et": "HistologicalInvestigationTest",
+    "off": 22368,
+    "sff": "immunoreactivity of neurocan"
+  },
+  {
+    "docID": "N229 Yui 2014",
+    "et": "GeneExpressionAnalysis",
+    "off": 20341,
+    "sff": "mRNA expression"
+  },
+  {
+    "docID": "N229 Yui 2014",
+    "et": "ScarringTest",
+    "off": 17362,
+    "sff": "neurocan"
+  },
+  {
+    "docID": "N229 Yui 2014",
+    "et": "AstrogliosisTest",
+    "off": 14311,
+    "sff": "immunofluorescence"
+  },
+  {
+    "docID": "N229 Yui 2014",
+    "et": "AxonalSproutingTest",
+    "off": 16206,
+    "sff": "primary"
+  },
+  {
+    "docID": "N229 Yui 2014",
+    "et": "AxonalRegenerationTest",
+    "off": 20779,
+    "sff": "staining"
+  },
+  {
+    "docID": "N229 Yui 2014",
+    "et": "AxonalChangesTest",
+    "off": 21635,
+    "sff": "observed"
+  },
+  {
+    "docID": "N229 Yui 2014",
+    "et": "ProteinLevelAnalysis",
+    "off": 21028,
+    "sff": "level"
+  },
+  {
+    "docID": "N229 Yui 2014",
+    "et": "AxonalChangesTest",
+    "off": 20285,
+    "sff": "observed"
+  },
+  {
+    "docID": "N229 Yui 2014",
+    "et": "ApoptosisTest",
+    "off": 18971,
+    "sff": "activity"
+  },
+  {
+    "docID": "N229 Yui 2014",
+    "et": "AxonalChangesTest",
+    "off": 20218,
+    "sff": "observed"
+  },
+  {
+    "docID": "N229 Yui 2014",
+    "et": "ScarringTest",
+    "off": 17765,
+    "sff": "neurocan"
+  },
+  {
+    "docID": "N229 Yui 2014",
+    "et": "TissueSparingTest",
+    "off": 18619,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N229 Yui 2014",
+    "et": "HistologicalInvestigationTest",
+    "off": 15893,
+    "sff": "immunofluorescence"
+  },
+  {
+    "docID": "N229 Yui 2014",
+    "et": "GeneExpressionAnalysis",
+    "off": 20128,
+    "sff": "mRNA expression"
+  },
+  {
+    "docID": "N229 Yui 2014",
+    "et": "AxonalChangesTest",
+    "off": 20941,
+    "sff": "observed"
+  },
+  {
+    "docID": "N229 Yui 2014",
+    "et": "ScarringTest",
+    "off": 44,
+    "sff": "neurocan"
+  },
+  {
+    "docID": "N229 Yui 2014",
+    "et": "HistologicalInvestigationTest",
+    "off": 12343,
+    "sff": "bladders"
+  },
+  {
+    "docID": "N229 Yui 2014",
+    "et": "TissueSparingTest",
+    "off": 21121,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N229 Yui 2014",
+    "et": "GeneExpressionAnalysis",
+    "off": 18347,
+    "sff": "mRNA expressions"
+  },
+  {
+    "docID": "N229 Yui 2014",
+    "et": "TissueSparingTest",
+    "off": 14528,
+    "sff": "tissue"
+  }
+]

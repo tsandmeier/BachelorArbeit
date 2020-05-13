@@ -1,0 +1,188 @@
+[
+  {
+    "docID": "N223 Wu 2008",
+    "et": "AxonalChangesTest",
+    "off": 3861,
+    "sff": "axonal"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "AxonalSproutingTest",
+    "off": 1711,
+    "sff": "sensory"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "AxonalSproutingTest",
+    "off": 1582,
+    "sff": "sensory"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "InvestigationMethod",
+    "off": 1481,
+    "sff": "axonal"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "HindpawSensationTest",
+    "off": 1711,
+    "sff": "sensory"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "AxonalChangesTest",
+    "off": 3739,
+    "sff": "axonal"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "HindpawSensationTest",
+    "off": 1582,
+    "sff": "sensory"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "AxonalChangesTest",
+    "off": 1488,
+    "sff": "outgrowth"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "AxonalChangesTest",
+    "off": 1481,
+    "sff": "axonal"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "AngiogenesisTest",
+    "off": 3366,
+    "sff": "vessel"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "AxonalChangesTest",
+    "off": 1281,
+    "sff": "axons"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "InclinedPlaneTest",
+    "off": 2328,
+    "sff": "ability"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "InvestigationMethod",
+    "off": 2660,
+    "sff": "axonal"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "AxonalChangesTest",
+    "off": 2953,
+    "sff": "outgrowth"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "ScarringTest",
+    "off": 4213,
+    "sff": "expression"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "MyelinationTest",
+    "off": 4443,
+    "sff": "nerve"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "AxonalChangesTest",
+    "off": 1338,
+    "sff": "axonal"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 1582,
+    "sff": "sensory"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "InvestigationMethod",
+    "off": 106,
+    "sff": "axonal"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 1711,
+    "sff": "sensory"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 1761,
+    "sff": "response"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "AxonalChangesTest",
+    "off": 2159,
+    "sff": "axons"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "AxonalChangesTest",
+    "off": 2349,
+    "sff": "axons"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "AxonalChangesTest",
+    "off": 2660,
+    "sff": "axonal"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "InvestigationMethod",
+    "off": 3861,
+    "sff": "axonal"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "GaitTest",
+    "off": 1168,
+    "sff": "hindlimb"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "AxonalSproutingTest",
+    "off": 1345,
+    "sff": "sprouting"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "AxonalChangesTest",
+    "off": 106,
+    "sff": "axonal"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "OpenFieldTest",
+    "off": 1168,
+    "sff": "hindlimb"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "AxonalSproutingTest",
+    "off": 2667,
+    "sff": "populations"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "InvestigationMethod",
+    "off": 3739,
+    "sff": "axonal"
+  }
+]

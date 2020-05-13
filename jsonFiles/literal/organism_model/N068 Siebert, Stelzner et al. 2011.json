@@ -1,0 +1,308 @@
+[
+  {
+    "docID": "N068 Siebert, Stelzner et al. 2011",
+    "et": "MouseSpecies",
+    "off": 25135,
+    "sff": "NG2"
+  },
+  {
+    "docID": "N068 Siebert, Stelzner et al. 2011",
+    "et": "Age",
+    "off": 20422,
+    "sff": "days"
+  },
+  {
+    "docID": "N068 Siebert, Stelzner et al. 2011",
+    "et": "Age",
+    "off": 8110,
+    "sff": "3"
+  },
+  {
+    "docID": "N068 Siebert, Stelzner et al. 2011",
+    "et": "Age",
+    "off": 30138,
+    "sff": "days"
+  },
+  {
+    "docID": "N068 Siebert, Stelzner et al. 2011",
+    "et": "Age",
+    "off": 16055,
+    "sff": "5"
+  },
+  {
+    "docID": "N068 Siebert, Stelzner et al. 2011",
+    "et": "LongEvansRat",
+    "off": 7368,
+    "sff": "Long-Evans"
+  },
+  {
+    "docID": "N068 Siebert, Stelzner et al. 2011",
+    "et": "Age",
+    "off": 33300,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N068 Siebert, Stelzner et al. 2011",
+    "et": "MouseSpecies",
+    "off": 11760,
+    "sff": "under"
+  },
+  {
+    "docID": "N068 Siebert, Stelzner et al. 2011",
+    "et": "Age",
+    "off": 26779,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N068 Siebert, Stelzner et al. 2011",
+    "et": "Weight",
+    "off": 8627,
+    "sff": "g"
+  },
+  {
+    "docID": "N068 Siebert, Stelzner et al. 2011",
+    "et": "Age",
+    "off": 20519,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N068 Siebert, Stelzner et al. 2011",
+    "et": "Age",
+    "off": 21411,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N068 Siebert, Stelzner et al. 2011",
+    "et": "Age",
+    "off": 8551,
+    "sff": "days"
+  },
+  {
+    "docID": "N068 Siebert, Stelzner et al. 2011",
+    "et": "Age",
+    "off": 34861,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N068 Siebert, Stelzner et al. 2011",
+    "et": "Age",
+    "off": 10201,
+    "sff": "days"
+  },
+  {
+    "docID": "N068 Siebert, Stelzner et al. 2011",
+    "et": "Age",
+    "off": 35639,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N068 Siebert, Stelzner et al. 2011",
+    "et": "Age",
+    "off": 9430,
+    "sff": "days"
+  },
+  {
+    "docID": "N068 Siebert, Stelzner et al. 2011",
+    "et": "Age",
+    "off": 27186,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N068 Siebert, Stelzner et al. 2011",
+    "et": "Weight",
+    "off": 7899,
+    "sff": "g"
+  },
+  {
+    "docID": "N068 Siebert, Stelzner et al. 2011",
+    "et": "Age",
+    "off": 9422,
+    "sff": "days"
+  },
+  {
+    "docID": "N068 Siebert, Stelzner et al. 2011",
+    "et": "Age",
+    "off": 12903,
+    "sff": "9"
+  },
+  {
+    "docID": "N068 Siebert, Stelzner et al. 2011",
+    "et": "Age",
+    "off": 37825,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N068 Siebert, Stelzner et al. 2011",
+    "et": "Age",
+    "off": 11125,
+    "sff": "day"
+  },
+  {
+    "docID": "N068 Siebert, Stelzner et al. 2011",
+    "et": "LongEvansRat",
+    "off": 7368,
+    "sff": "Long-Evans rats"
+  },
+  {
+    "docID": "N068 Siebert, Stelzner et al. 2011",
+    "et": "SpragueDawleyRat",
+    "off": 7379,
+    "sff": "rats"
+  },
+  {
+    "docID": "N068 Siebert, Stelzner et al. 2011",
+    "et": "Weight",
+    "off": 7558,
+    "sff": "g"
+  },
+  {
+    "docID": "N068 Siebert, Stelzner et al. 2011",
+    "et": "Weight",
+    "off": 136,
+    "sff": "g"
+  },
+  {
+    "docID": "N068 Siebert, Stelzner et al. 2011",
+    "et": "Weight",
+    "off": 21348,
+    "sff": "200"
+  },
+  {
+    "docID": "N068 Siebert, Stelzner et al. 2011",
+    "et": "ListerHoodedRat",
+    "off": 7379,
+    "sff": "rats"
+  },
+  {
+    "docID": "N068 Siebert, Stelzner et al. 2011",
+    "et": "Age",
+    "off": 17363,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N068 Siebert, Stelzner et al. 2011",
+    "et": "WistarRat",
+    "off": 7379,
+    "sff": "rats"
+  },
+  {
+    "docID": "N068 Siebert, Stelzner et al. 2011",
+    "et": "Age",
+    "off": 16757,
+    "sff": "days"
+  },
+  {
+    "docID": "N068 Siebert, Stelzner et al. 2011",
+    "et": "ListerHoodedRat",
+    "off": 7361,
+    "sff": "hooded"
+  },
+  {
+    "docID": "N068 Siebert, Stelzner et al. 2011",
+    "et": "RatSpecies",
+    "off": 7379,
+    "sff": "rats"
+  },
+  {
+    "docID": "N068 Siebert, Stelzner et al. 2011",
+    "et": "Age",
+    "off": 19688,
+    "sff": "days"
+  },
+  {
+    "docID": "N068 Siebert, Stelzner et al. 2011",
+    "et": "Age",
+    "off": 21606,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N068 Siebert, Stelzner et al. 2011",
+    "et": "LewisRat",
+    "off": 7379,
+    "sff": "rats"
+  },
+  {
+    "docID": "N068 Siebert, Stelzner et al. 2011",
+    "et": "Age",
+    "off": 20835,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N068 Siebert, Stelzner et al. 2011",
+    "et": "Age",
+    "off": 22371,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N068 Siebert, Stelzner et al. 2011",
+    "et": "Weight",
+    "off": 15930,
+    "sff": "200"
+  },
+  {
+    "docID": "N068 Siebert, Stelzner et al. 2011",
+    "et": "Age",
+    "off": 20762,
+    "sff": "days"
+  },
+  {
+    "docID": "N068 Siebert, Stelzner et al. 2011",
+    "et": "LongEvansRat",
+    "off": 7379,
+    "sff": "rats"
+  },
+  {
+    "docID": "N068 Siebert, Stelzner et al. 2011",
+    "et": "MouseSpecies",
+    "off": 25051,
+    "sff": "NG2"
+  },
+  {
+    "docID": "N068 Siebert, Stelzner et al. 2011",
+    "et": "FischerRat",
+    "off": 7379,
+    "sff": "rats"
+  },
+  {
+    "docID": "N068 Siebert, Stelzner et al. 2011",
+    "et": "Age",
+    "off": 7454,
+    "sff": "old"
+  },
+  {
+    "docID": "N068 Siebert, Stelzner et al. 2011",
+    "et": "Female",
+    "off": 7354,
+    "sff": "Female"
+  },
+  {
+    "docID": "N068 Siebert, Stelzner et al. 2011",
+    "et": "Age",
+    "off": 19988,
+    "sff": "days"
+  },
+  {
+    "docID": "N068 Siebert, Stelzner et al. 2011",
+    "et": "Age",
+    "off": 10123,
+    "sff": "days"
+  },
+  {
+    "docID": "N068 Siebert, Stelzner et al. 2011",
+    "et": "Age",
+    "off": 18431,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N068 Siebert, Stelzner et al. 2011",
+    "et": "Age",
+    "off": 34175,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N068 Siebert, Stelzner et al. 2011",
+    "et": "Age",
+    "off": 28921,
+    "sff": "weeks"
+  }
+]

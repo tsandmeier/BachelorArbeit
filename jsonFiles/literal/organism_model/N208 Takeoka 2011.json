@@ -1,0 +1,308 @@
+[
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "WistarRat",
+    "off": 6133,
+    "sff": "Wistar"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "FischerRat",
+    "off": 7449,
+    "sff": "rats"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "Weight",
+    "off": 9760,
+    "sff": "grams"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "Adult",
+    "off": 1915,
+    "sff": "Adult"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "SpragueDawleyRat",
+    "off": 6789,
+    "sff": "rats"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "Age",
+    "off": 6158,
+    "sff": "12 weeks old"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "RatSpecies",
+    "off": 5887,
+    "sff": "rat"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "Adult",
+    "off": 47282,
+    "sff": "adult"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "RatSpecies",
+    "off": 33300,
+    "sff": "rats"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "Adult",
+    "off": 916,
+    "sff": "adult"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "WistarRat",
+    "off": 5801,
+    "sff": "Wistar Hannover rats"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "Adult",
+    "off": 28947,
+    "sff": "adult"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "Mixed",
+    "off": 5796,
+    "sff": "male"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "Weight",
+    "off": 9641,
+    "sff": "g"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "Age",
+    "off": 33271,
+    "sff": "months"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "Age",
+    "off": 35654,
+    "sff": "months"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "SpragueDawleyRat",
+    "off": 47778,
+    "sff": "rats"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "Male",
+    "off": 5796,
+    "sff": "male"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "Gender",
+    "off": 6126,
+    "sff": "female"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "Gender",
+    "off": 5796,
+    "sff": "male"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "RatSpecies",
+    "off": 26612,
+    "sff": "rats"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "Female",
+    "off": 6126,
+    "sff": "female"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "WistarRat",
+    "off": 6133,
+    "sff": "Wistar Hannover rats"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "RatSpecies",
+    "off": 34530,
+    "sff": "rats"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "Adult",
+    "off": 17459,
+    "sff": "adult"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "RatSpecies",
+    "off": 29028,
+    "sff": "rats"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "SpragueDawleyRat",
+    "off": 21313,
+    "sff": "rats"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "SpragueDawleyRat",
+    "off": 11713,
+    "sff": "rats"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "Adult",
+    "off": 36673,
+    "sff": "Adult"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "SpragueDawleyRat",
+    "off": 44103,
+    "sff": "rats"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "RatSpecies",
+    "off": 35918,
+    "sff": "rats"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "RatSpecies",
+    "off": 40910,
+    "sff": "rats"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "Weight",
+    "off": 36729,
+    "sff": "g"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "RatSpecies",
+    "off": 19802,
+    "sff": "rats"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "SpragueDawleyRat",
+    "off": 43323,
+    "sff": "rats"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "RatSpecies",
+    "off": 30427,
+    "sff": "rats"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "RatSpecies",
+    "off": 21313,
+    "sff": "rats"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "Weight",
+    "off": 19278,
+    "sff": "mean"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "Age",
+    "off": 21041,
+    "sff": "months"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "RatSpecies",
+    "off": 33725,
+    "sff": "rats"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "SpragueDawleyRat",
+    "off": 6126,
+    "sff": "female"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "RatSpecies",
+    "off": 44103,
+    "sff": "rats"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "Age",
+    "off": 20280,
+    "sff": "months"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "RatSpecies",
+    "off": 39855,
+    "sff": "rats"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "Adult",
+    "off": 29191,
+    "sff": "adult"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "SpragueDawleyRat",
+    "off": 19802,
+    "sff": "rats"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "Mixed",
+    "off": 6126,
+    "sff": "female"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "Age",
+    "off": 6167,
+    "sff": "old"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "RatSpecies",
+    "off": 38824,
+    "sff": "rats"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "FischerRat",
+    "off": 10039,
+    "sff": "rats"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "Weight",
+    "off": 36869,
+    "sff": "g"
+  }
+]

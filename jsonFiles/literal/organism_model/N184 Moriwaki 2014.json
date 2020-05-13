@@ -1,0 +1,302 @@
+[
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "WistarRat",
+    "off": 16525,
+    "sff": "rats"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "SpragueDawleyRat",
+    "off": 627,
+    "sff": "rats"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "Age",
+    "off": 14472,
+    "sff": "9"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "WistarRat",
+    "off": 627,
+    "sff": "rats"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "RatSpecies",
+    "off": 627,
+    "sff": "rats"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "SpragueDawleyRat",
+    "off": 16525,
+    "sff": "rats"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "LongEvansRat",
+    "off": 21053,
+    "sff": "rats"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "SpragueDawleyRat",
+    "off": 17822,
+    "sff": "rats"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "LongEvansRat",
+    "off": 21968,
+    "sff": "rats"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "C57_BL6_Mouse",
+    "off": 16804,
+    "sff": "6"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "WistarRat",
+    "off": 1107,
+    "sff": "rats"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "SpragueDawleyRat",
+    "off": 13716,
+    "sff": "rats"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "SpragueDawleyRat",
+    "off": 14100,
+    "sff": "rats"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "RatSpecies",
+    "off": 1107,
+    "sff": "rats"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "Age",
+    "off": 21858,
+    "sff": "2.5"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "RatSpecies",
+    "off": 21968,
+    "sff": "rats"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "Age",
+    "off": 20305,
+    "sff": "9"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "SpragueDawleyRat",
+    "off": 20908,
+    "sff": "rats"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "WistarRat",
+    "off": 21968,
+    "sff": "rats"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "FischerRat",
+    "off": 1354,
+    "sff": "rats"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "Age",
+    "off": 15053,
+    "sff": "9"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "Weight",
+    "off": 14260,
+    "sff": "200"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "LongEvansRat",
+    "off": 17822,
+    "sff": "rats"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "FischerRat",
+    "off": 21968,
+    "sff": "rats"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "ListerHoodedRat",
+    "off": 1354,
+    "sff": "rats"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "Age",
+    "off": 18628,
+    "sff": "9"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "C57_BL6_Mouse",
+    "off": 1626,
+    "sff": "6"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "WistarRat",
+    "off": 21053,
+    "sff": "rats"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "Age",
+    "off": 18656,
+    "sff": "9"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "RatSpecies",
+    "off": 20908,
+    "sff": "rats"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "SpragueDawleyRat",
+    "off": 21053,
+    "sff": "rats"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "MouseSpecies",
+    "off": 1614,
+    "sff": "protein"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "LongEvansRat",
+    "off": 20908,
+    "sff": "rats"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "Weight",
+    "off": 13873,
+    "sff": "200"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "ListerHoodedRat",
+    "off": 2364,
+    "sff": "rats"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "FischerRat",
+    "off": 21053,
+    "sff": "rats"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "RatSpecies",
+    "off": 17822,
+    "sff": "rats"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "SpragueDawleyRat",
+    "off": 1107,
+    "sff": "rats"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "MouseSpecies",
+    "off": 992,
+    "sff": "protein"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "SpragueDawleyRat",
+    "off": 21968,
+    "sff": "rats"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "WistarRat",
+    "off": 20908,
+    "sff": "rats"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "FischerRat",
+    "off": 20908,
+    "sff": "rats"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "WistarRat",
+    "off": 17822,
+    "sff": "rats"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "RatSpecies",
+    "off": 16525,
+    "sff": "rats"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "LongEvansRat",
+    "off": 16525,
+    "sff": "rats"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "Age",
+    "off": 20277,
+    "sff": "9"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "LongEvansRat",
+    "off": 13716,
+    "sff": "rats"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "LongEvansRat",
+    "off": 14100,
+    "sff": "rats"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "WistarRat",
+    "off": 13716,
+    "sff": "rats"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "WistarRat",
+    "off": 14100,
+    "sff": "rats"
+  }
+]

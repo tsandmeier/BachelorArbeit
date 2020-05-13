@@ -1,0 +1,68 @@
+[
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Blade",
+    "off": 11111,
+    "sff": "surgical"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "T11",
+    "off": 11526,
+    "sff": "T11"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "VertebralArea",
+    "off": 7752,
+    "sff": "T9"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Contusion",
+    "off": 978,
+    "sff": "SCI"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "T9",
+    "off": 7752,
+    "sff": "T9"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "T10",
+    "off": 7755,
+    "sff": "T10"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "WeightDrop",
+    "off": 7971,
+    "sff": "weight-drop device"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "LightSource",
+    "off": 6746,
+    "sff": "fiber"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "T9",
+    "off": 11523,
+    "sff": "T9"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "AspirationLesion",
+    "off": 5794,
+    "sff": "aspiration"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "LightSource",
+    "off": 6584,
+    "sff": "fiber"
+  }
+]

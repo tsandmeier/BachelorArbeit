@@ -1,0 +1,302 @@
+[
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "RatSpecies",
+    "off": 8213,
+    "sff": "rats"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "SpragueDawleyRat",
+    "off": 7424,
+    "sff": "rats"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "Weight",
+    "off": 7531,
+    "sff": "30"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "Weight",
+    "off": 7433,
+    "sff": "–"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "Age",
+    "off": 16115,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "Age",
+    "off": 24332,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "Weight",
+    "off": 7430,
+    "sff": "200"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "LongEvansRat",
+    "off": 7424,
+    "sff": "rats"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "FischerRat",
+    "off": 6278,
+    "sff": "rats"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "SpragueDawleyRat",
+    "off": 7433,
+    "sff": "–"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "Female",
+    "off": 7414,
+    "sff": "female"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "RatSpecies",
+    "off": 7424,
+    "sff": "rats"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "SpragueDawleyRat",
+    "off": 5139,
+    "sff": "Dawley"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "WistarRat",
+    "off": 7424,
+    "sff": "rats"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "Age",
+    "off": 6941,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "ListerHoodedRat",
+    "off": 7424,
+    "sff": "rats"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "Age",
+    "off": 14542,
+    "sff": "day"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "SpragueDawleyRat",
+    "off": 5131,
+    "sff": "Sprague"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "Weight",
+    "off": 7434,
+    "sff": "250 g"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "FischerRat",
+    "off": 7424,
+    "sff": "rats"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "LewisRat",
+    "off": 7424,
+    "sff": "rats"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "Age",
+    "off": 1371,
+    "sff": "4"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "SpragueDawleyRat",
+    "off": 6275,
+    "sff": "SD"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "Weight",
+    "off": 7434,
+    "sff": "250"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "RatSpecies",
+    "off": 14692,
+    "sff": "rats"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "Age",
+    "off": 6830,
+    "sff": "days"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "Age",
+    "off": 10197,
+    "sff": "4"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "SpragueDawleyRat",
+    "off": 7421,
+    "sff": "SD"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "WistarRat",
+    "off": 14692,
+    "sff": "rats"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "Adult",
+    "off": 6254,
+    "sff": "adult"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "Age",
+    "off": 19897,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "Weight",
+    "off": 7438,
+    "sff": "g"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "WistarRat",
+    "off": 858,
+    "sff": "rats"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "Age",
+    "off": 7433,
+    "sff": "–"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "Age",
+    "off": 10526,
+    "sff": "4"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "Age",
+    "off": 19122,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "Weight",
+    "off": 7537,
+    "sff": "kg"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "Weight",
+    "off": 7710,
+    "sff": "g"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "SpragueDawleyRat",
+    "off": 5147,
+    "sff": "SD"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "Age",
+    "off": 23855,
+    "sff": "6"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "Age",
+    "off": 8626,
+    "sff": "2"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "Age",
+    "off": 7953,
+    "sff": "days"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "SpragueDawleyRat",
+    "off": 7421,
+    "sff": "SD rats"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "Age",
+    "off": 11081,
+    "sff": "5"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "Age",
+    "off": 12795,
+    "sff": "6"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "Adult",
+    "off": 7408,
+    "sff": "Adult"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "SpragueDawleyRat",
+    "off": 6275,
+    "sff": "SD rats"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "Age",
+    "off": 23404,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "Age",
+    "off": 12691,
+    "sff": "4"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "Age",
+    "off": 18297,
+    "sff": "day"
+  }
+]

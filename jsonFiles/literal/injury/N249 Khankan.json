@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N249 Khankan",
+    "et": "VertebralArea",
+    "off": 55636,
+    "sff": "levels"
+  },
+  {
+    "docID": "N249 Khankan",
+    "et": "VertebralArea",
+    "off": 12031,
+    "sff": "T8 and T9"
+  },
+  {
+    "docID": "N249 Khankan",
+    "et": "Isoflurane",
+    "off": 11863,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N249 Khankan",
+    "et": "CompleteTransection",
+    "off": 12247,
+    "sff": "completely transected"
+  },
+  {
+    "docID": "N249 Khankan",
+    "et": "LateralHemisection",
+    "off": 11912,
+    "sff": "incision"
+  },
+  {
+    "docID": "N249 Khankan",
+    "et": "VertebralArea",
+    "off": 19498,
+    "sff": "levels"
+  },
+  {
+    "docID": "N249 Khankan",
+    "et": "T8",
+    "off": 12031,
+    "sff": "T8"
+  },
+  {
+    "docID": "N249 Khankan",
+    "et": "T9",
+    "off": 12285,
+    "sff": "T9"
+  },
+  {
+    "docID": "N249 Khankan",
+    "et": "VertebralArea",
+    "off": 49147,
+    "sff": "levels"
+  },
+  {
+    "docID": "N249 Khankan",
+    "et": "Scissors",
+    "off": 12299,
+    "sff": "micro-scissors"
+  },
+  {
+    "docID": "N249 Khankan",
+    "et": "CompleteTransection",
+    "off": 12247,
+    "sff": "completely"
+  },
+  {
+    "docID": "N249 Khankan",
+    "et": "T9",
+    "off": 12038,
+    "sff": "T9"
+  }
+]

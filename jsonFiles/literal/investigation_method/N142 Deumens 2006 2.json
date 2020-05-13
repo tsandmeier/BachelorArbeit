@@ -1,0 +1,200 @@
+[
+  {
+    "docID": "N142 Deumens 2006 2",
+    "et": "BBBTest",
+    "off": 22846,
+    "sff": "BBB score"
+  },
+  {
+    "docID": "N142 Deumens 2006 2",
+    "et": "TissueSparingTest",
+    "off": 25550,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N142 Deumens 2006 2",
+    "et": "AutomatedGaitAnalysis",
+    "off": 28738,
+    "sff": "swing speed"
+  },
+  {
+    "docID": "N142 Deumens 2006 2",
+    "et": "BBBTest",
+    "off": 27447,
+    "sff": "BBB score"
+  },
+  {
+    "docID": "N142 Deumens 2006 2",
+    "et": "BBBTest",
+    "off": 22327,
+    "sff": "BBB score"
+  },
+  {
+    "docID": "N142 Deumens 2006 2",
+    "et": "AxonalSproutingTest",
+    "off": 14996,
+    "sff": "primary"
+  },
+  {
+    "docID": "N142 Deumens 2006 2",
+    "et": "BBBTest",
+    "off": 21306,
+    "sff": "BBB score"
+  },
+  {
+    "docID": "N142 Deumens 2006 2",
+    "et": "BBBTest",
+    "off": 18156,
+    "sff": "BBB score"
+  },
+  {
+    "docID": "N142 Deumens 2006 2",
+    "et": "BBBTest",
+    "off": 20076,
+    "sff": "BBB score"
+  },
+  {
+    "docID": "N142 Deumens 2006 2",
+    "et": "BBBTest",
+    "off": 27499,
+    "sff": "BBB score"
+  },
+  {
+    "docID": "N142 Deumens 2006 2",
+    "et": "AutomatedGaitAnalysis",
+    "off": 27858,
+    "sff": "stride length"
+  },
+  {
+    "docID": "N142 Deumens 2006 2",
+    "et": "FootprintAnalysisTest",
+    "off": 28723,
+    "sff": "stride length"
+  },
+  {
+    "docID": "N142 Deumens 2006 2",
+    "et": "BBBTest",
+    "off": 27375,
+    "sff": "BBB score"
+  },
+  {
+    "docID": "N142 Deumens 2006 2",
+    "et": "AutomatedGaitAnalysis",
+    "off": 27826,
+    "sff": "swing speed"
+  },
+  {
+    "docID": "N142 Deumens 2006 2",
+    "et": "TissueSparingTest",
+    "off": 13842,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N142 Deumens 2006 2",
+    "et": "AxonalChangesTest",
+    "off": 24920,
+    "sff": "observed"
+  },
+  {
+    "docID": "N142 Deumens 2006 2",
+    "et": "BBBTest",
+    "off": 22371,
+    "sff": "BBB score"
+  },
+  {
+    "docID": "N142 Deumens 2006 2",
+    "et": "BBBTest",
+    "off": 19240,
+    "sff": "BBB score"
+  },
+  {
+    "docID": "N142 Deumens 2006 2",
+    "et": "AxonalSproutingTest",
+    "off": 25297,
+    "sff": "sprouting"
+  },
+  {
+    "docID": "N142 Deumens 2006 2",
+    "et": "BBBTest",
+    "off": 21613,
+    "sff": "BBB scores"
+  },
+  {
+    "docID": "N142 Deumens 2006 2",
+    "et": "AutomatedGaitAnalysis",
+    "off": 22112,
+    "sff": "swing speed"
+  },
+  {
+    "docID": "N142 Deumens 2006 2",
+    "et": "BBBTest",
+    "off": 18085,
+    "sff": "scores"
+  },
+  {
+    "docID": "N142 Deumens 2006 2",
+    "et": "FootprintAnalysisTest",
+    "off": 27858,
+    "sff": "stride length"
+  },
+  {
+    "docID": "N142 Deumens 2006 2",
+    "et": "TissueSparingTest",
+    "off": 8031,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N142 Deumens 2006 2",
+    "et": "InclinedPlaneTest",
+    "off": 19385,
+    "sff": "performance"
+  },
+  {
+    "docID": "N142 Deumens 2006 2",
+    "et": "BBBTest",
+    "off": 28046,
+    "sff": "BBB score"
+  },
+  {
+    "docID": "N142 Deumens 2006 2",
+    "et": "AutomatedGaitAnalysis",
+    "off": 28723,
+    "sff": "stride length"
+  },
+  {
+    "docID": "N142 Deumens 2006 2",
+    "et": "TissueSparingTest",
+    "off": 24637,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N142 Deumens 2006 2",
+    "et": "AutomatedGaitAnalysis",
+    "off": 22128,
+    "sff": "stride length"
+  },
+  {
+    "docID": "N142 Deumens 2006 2",
+    "et": "TissueSparingTest",
+    "off": 13744,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N142 Deumens 2006 2",
+    "et": "BBBTest",
+    "off": 28421,
+    "sff": "BBB score"
+  },
+  {
+    "docID": "N142 Deumens 2006 2",
+    "et": "InclinedPlaneTest",
+    "off": 2426,
+    "sff": "capacity"
+  },
+  {
+    "docID": "N142 Deumens 2006 2",
+    "et": "AutomatedGaitAnalysis",
+    "off": 18473,
+    "sff": "stride length"
+  }
+]

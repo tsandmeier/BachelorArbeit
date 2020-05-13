@@ -1,0 +1,68 @@
+[
+  {
+    "docID": "N239 Lee",
+    "et": "L1",
+    "off": 9351,
+    "sff": "L1"
+  },
+  {
+    "docID": "N239 Lee",
+    "et": "Anaesthetic",
+    "off": 7366,
+    "sff": "tramadol"
+  },
+  {
+    "docID": "N239 Lee",
+    "et": "Anaesthetic",
+    "off": 7493,
+    "sff": "atropine sulfate"
+  },
+  {
+    "docID": "N239 Lee",
+    "et": "L1",
+    "off": 8325,
+    "sff": "L1"
+  },
+  {
+    "docID": "N239 Lee",
+    "et": "Isoflurane",
+    "off": 7590,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N239 Lee",
+    "et": "Anaesthetic",
+    "off": 7422,
+    "sff": "zolazepam hydrochloride"
+  },
+  {
+    "docID": "N239 Lee",
+    "et": "Compression",
+    "off": 7189,
+    "sff": "compression"
+  },
+  {
+    "docID": "N239 Lee",
+    "et": "Anaesthetic",
+    "off": 6234,
+    "sff": "sulfate"
+  },
+  {
+    "docID": "N239 Lee",
+    "et": "Balloon",
+    "off": 7181,
+    "sff": "balloon"
+  },
+  {
+    "docID": "N239 Lee",
+    "et": "Balloon",
+    "off": 8449,
+    "sff": "balloon"
+  },
+  {
+    "docID": "N239 Lee",
+    "et": "Compression",
+    "off": 5722,
+    "sff": "method"
+  }
+]

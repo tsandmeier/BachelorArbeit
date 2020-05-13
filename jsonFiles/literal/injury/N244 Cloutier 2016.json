@@ -1,0 +1,62 @@
+[
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "PhotochemicalInjury",
+    "off": 21339,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "T9",
+    "off": 19640,
+    "sff": "9"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "LateralHemisection",
+    "off": 367,
+    "sff": "transected"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "PhotochemicalInjury",
+    "off": 24160,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "LateralHemisection",
+    "off": 21070,
+    "sff": "transected"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "LateralHemisection",
+    "off": 21018,
+    "sff": "transected"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "PhotochemicalInjury",
+    "off": 22838,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "PhotochemicalInjury",
+    "off": 22966,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "PhotochemicalInjury",
+    "off": 19527,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "LateralHemisection",
+    "off": 23590,
+    "sff": "column"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "Weight",
+    "off": 18400,
+    "sff": "300"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "CatSpecies",
+    "off": 9193,
+    "sff": "cats"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "CatSpecies",
+    "off": 27133,
+    "sff": "cats"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "Age",
+    "off": 31064,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "C57_BL6_Mouse",
+    "off": 31452,
+    "sff": "6"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "CatSpecies",
+    "off": 13693,
+    "sff": "cats"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "CatSpecies",
+    "off": 11642,
+    "sff": "cats"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "CatSpecies",
+    "off": 9334,
+    "sff": "cats"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "CatSpecies",
+    "off": 24688,
+    "sff": "cats"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "CatSpecies",
+    "off": 9844,
+    "sff": "cats"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "CatSpecies",
+    "off": 11124,
+    "sff": "cats"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "CatSpecies",
+    "off": 26518,
+    "sff": "cats"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "CatSpecies",
+    "off": 23694,
+    "sff": "cats"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "CatSpecies",
+    "off": 22667,
+    "sff": "cats"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "Age",
+    "off": 13596,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "CatSpecies",
+    "off": 21891,
+    "sff": "cats"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "CatSpecies",
+    "off": 8482,
+    "sff": "cats"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "CatSpecies",
+    "off": 23326,
+    "sff": "cats"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "Weight",
+    "off": 20079,
+    "sff": "200"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "CatSpecies",
+    "off": 27789,
+    "sff": "cats"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "CatSpecies",
+    "off": 9238,
+    "sff": "cats"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "CatSpecies",
+    "off": 11542,
+    "sff": "cats"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "Age",
+    "off": 16324,
+    "sff": "day"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "Adult",
+    "off": 1070,
+    "sff": "adult"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "CatSpecies",
+    "off": 14258,
+    "sff": "cats"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "CatSpecies",
+    "off": 14127,
+    "sff": "cats"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "CatSpecies",
+    "off": 6573,
+    "sff": "cats"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "CatSpecies",
+    "off": 21933,
+    "sff": "cats"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "Weight",
+    "off": 39196,
+    "sff": "200"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "CatSpecies",
+    "off": 19109,
+    "sff": "cats"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "CatSpecies",
+    "off": 22180,
+    "sff": "cats"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "Age",
+    "off": 17714,
+    "sff": "day"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "CatSpecies",
+    "off": 11072,
+    "sff": "cats"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "CatSpecies",
+    "off": 8253,
+    "sff": "cats"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "CatSpecies",
+    "off": 22073,
+    "sff": "cats"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "CatSpecies",
+    "off": 18488,
+    "sff": "cats"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "CatSpecies",
+    "off": 6710,
+    "sff": "cats"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "CatSpecies",
+    "off": 8628,
+    "sff": "cats"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "Age",
+    "off": 30093,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "CatSpecies",
+    "off": 26835,
+    "sff": "cats"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "CatSpecies",
+    "off": 23633,
+    "sff": "cats"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "CatSpecies",
+    "off": 22989,
+    "sff": "cats"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "CatSpecies",
+    "off": 22347,
+    "sff": "cats"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "Age",
+    "off": 14228,
+    "sff": "days"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "Age",
+    "off": 30199,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "Weight",
+    "off": 6934,
+    "sff": "kg"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "Age",
+    "off": 8975,
+    "sff": "days"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "Adult",
+    "off": 42492,
+    "sff": "adult"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "CatSpecies",
+    "off": 24281,
+    "sff": "cats"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "Age",
+    "off": 18456,
+    "sff": "4"
+  }
+]

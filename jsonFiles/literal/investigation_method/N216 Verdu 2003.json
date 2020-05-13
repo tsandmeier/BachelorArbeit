@@ -1,0 +1,212 @@
+[
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 12855,
+    "sff": "somatosensory-evoked"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "TissueSparingTest",
+    "off": 22002,
+    "sff": "parenchyma"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 11689,
+    "sff": "withdrawal latency"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "AxonalRegenerationTest",
+    "off": 22018,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 13262,
+    "sff": "stimulus"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 21140,
+    "sff": "latency of the SSEPs"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "BBBTest",
+    "off": 18450,
+    "sff": "BBB score"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 19269,
+    "sff": "plantar algesimetry had a latency"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "TissueSparingTest",
+    "off": 21766,
+    "sff": "area of preserved spinal cord"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 20881,
+    "sff": "SSEPs"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "InclinedPlaneTest",
+    "off": 19123,
+    "sff": "mean maximum angle"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 19235,
+    "sff": "withdrawal"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 1377,
+    "sff": "withdrawal"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "TissueSparingTest",
+    "off": 21629,
+    "sff": "parenchyma"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 20989,
+    "sff": "amplitude of SSEPs"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 11689,
+    "sff": "withdrawal"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "TissueSparingTest",
+    "off": 22030,
+    "sff": "parenchyma"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "BBBTest",
+    "off": 1201,
+    "sff": "BBB score"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 19575,
+    "sff": "withdrawal"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 20682,
+    "sff": "latencies"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "InclinedPlaneTest",
+    "off": 18907,
+    "sff": "mean maximum angle"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "TissueSparingTest",
+    "off": 22018,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "TissueSparingTest",
+    "off": 21511,
+    "sff": "parenchyma"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "TissueSparingTest",
+    "off": 21757,
+    "sff": "averaged area of preserved spinal cord"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 11651,
+    "sff": "time"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 19990,
+    "sff": "latency"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 19389,
+    "sff": "time"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 19575,
+    "sff": "withdrawal latency"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "TissueSparingTest",
+    "off": 21757,
+    "sff": "averaged"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 19990,
+    "sff": "latency"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "TissueSparingTest",
+    "off": 22555,
+    "sff": "parenchyma"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 19397,
+    "sff": "withdrawal"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 12855,
+    "sff": "somatosensory-evoked potentials"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "AstrogliosisTest",
+    "off": 22070,
+    "sff": "number of reactive hypertrophied astrocytes"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 1413,
+    "sff": "stimulus"
+  }
+]

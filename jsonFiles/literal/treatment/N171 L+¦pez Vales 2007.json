@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N171 L+¦pez Vales 2007",
+    "et": "DosageExtracorporal",
+    "off": 7665,
+    "sff": "Each OEC transplanted rat received a total of 1,500,000 cells"
+  },
+  {
+    "docID": "N171 L+¦pez Vales 2007",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 593,
+    "sff": "OECs"
+  },
+  {
+    "docID": "N171 L+¦pez Vales 2007",
+    "et": "Rostral",
+    "off": 7487,
+    "sff": "cranial"
+  },
+  {
+    "docID": "N171 L+¦pez Vales 2007",
+    "et": "Saline",
+    "off": 12126,
+    "sff": "saline"
+  },
+  {
+    "docID": "N171 L+¦pez Vales 2007",
+    "et": "Rostral",
+    "off": 17567,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N171 L+¦pez Vales 2007",
+    "et": "DeliveryMethod",
+    "off": 6146,
+    "sff": "transferred"
+  },
+  {
+    "docID": "N171 L+¦pez Vales 2007",
+    "et": "DosageExtracorporal",
+    "off": 16014,
+    "sff": "105"
+  },
+  {
+    "docID": "N171 L+¦pez Vales 2007",
+    "et": "InjectionDelivery",
+    "off": 7303,
+    "sff": "injected"
+  },
+  {
+    "docID": "N171 L+¦pez Vales 2007",
+    "et": "Caudal",
+    "off": 17579,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N171 L+¦pez Vales 2007",
+    "et": "Vehicle",
+    "off": 19304,
+    "sff": "grafting"
+  },
+  {
+    "docID": "N171 L+¦pez Vales 2007",
+    "et": "Rostral",
+    "off": 13301,
+    "sff": "cranial"
+  },
+  {
+    "docID": "N171 L+¦pez Vales 2007",
+    "et": "Rostral",
+    "off": 6964,
+    "sff": "rostral"
+  }
+]

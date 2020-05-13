@@ -1,0 +1,194 @@
+[
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "AxonalChangesTest",
+    "off": 12967,
+    "sff": "observed"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "AxonalSproutingTest",
+    "off": 12589,
+    "sff": "processes"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "AstrogliosisTest",
+    "off": 1403,
+    "sff": "astrocytic"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "AstrogliosisTest",
+    "off": 12542,
+    "sff": "hypertrophied"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "AxonalChangesTest",
+    "off": 13094,
+    "sff": "observed"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "AxonalSproutingTest",
+    "off": 9902,
+    "sff": "processes"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "LesionVolumeTest",
+    "off": 8469,
+    "sff": "cavities"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "AxonalChangesTest",
+    "off": 12709,
+    "sff": "observed"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "AstrogliosisTest",
+    "off": 13064,
+    "sff": "hypertrophied"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "CystVolumeTest",
+    "off": 8462,
+    "sff": "cystic cavities"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "AxonalSproutingTest",
+    "off": 1071,
+    "sff": "processes"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "AxonalSproutingTest",
+    "off": 1270,
+    "sff": "processes"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "HistologicalInvestigationTest",
+    "off": 12002,
+    "sff": "area of the cystic cavity"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "AstrogliosisTest",
+    "off": 12834,
+    "sff": "hypertrophied"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "HistologicalInvestigationTest",
+    "off": 11930,
+    "sff": "levels"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "AstrogliosisTest",
+    "off": 13787,
+    "sff": "astrocytic"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "AxonalChangesTest",
+    "off": 10178,
+    "sff": "observed"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "LesionVolumeTest",
+    "off": 10295,
+    "sff": "cavities"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "ProteinLevelAnalysis",
+    "off": 8237,
+    "sff": "level"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "ApoptosisTest",
+    "off": 5729,
+    "sff": "activity"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "AxonalSproutingTest",
+    "off": 12931,
+    "sff": "processes"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "CystVolumeTest",
+    "off": 10288,
+    "sff": "cystic cavities"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "CystVolumeTest",
+    "off": 12082,
+    "sff": "volume of the cavity"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "HindpawSensationTest",
+    "off": 10605,
+    "sff": "responses"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "AxonalChangesTest",
+    "off": 11321,
+    "sff": "observed"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "HindpawSensationTest",
+    "off": 11175,
+    "sff": "responses"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "AxonalChangesTest",
+    "off": 11826,
+    "sff": "observed"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "CystVolumeTest",
+    "off": 637,
+    "sff": "cystic cavities"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "AstrogliosisTest",
+    "off": 13164,
+    "sff": "reactive"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "HistologicalInvestigationTest",
+    "off": 8113,
+    "sff": "area of the cystic cavity"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "AxonalRegenerationTest",
+    "off": 4787,
+    "sff": "fibers"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "AxonalChangesTest",
+    "off": 5824,
+    "sff": "measures"
+  }
+]

@@ -1,0 +1,206 @@
+[
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "SpinalCordEvokedPotentialsTest",
+    "off": 27537,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "ElectrophysiologyTest",
+    "off": 23985,
+    "sff": "active"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "PhysiologyTest",
+    "off": 23190,
+    "sff": "tidal volume"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "PhysiologyTest",
+    "off": 23318,
+    "sff": "tidal volume"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "ApoptosisTest",
+    "off": 28555,
+    "sff": "activity"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "AxonalChangesTest",
+    "off": 12015,
+    "sff": "axons"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "ElectrophysiologyTest",
+    "off": 23736,
+    "sff": "frequency of the EMG cycles recorded bilaterally"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "ElectrophysiologyTest",
+    "off": 24542,
+    "sff": "hypercapnia conditions"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "AxonalChangesTest",
+    "off": 20841,
+    "sff": "axons"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "PhysiologyTest",
+    "off": 23190,
+    "sff": "tidal"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "PhysiologyTest",
+    "off": 23318,
+    "sff": "tidal"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "ElectrophysiologyTest",
+    "off": 18283,
+    "sff": "hypercapnia conditions"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "PhysiologyTest",
+    "off": 17626,
+    "sff": "breathing"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "LesionVolumeTest",
+    "off": 30630,
+    "sff": "cavity area"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "ElectrophysiologyTest",
+    "off": 11495,
+    "sff": "phrenic nerves were recorded"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 26659,
+    "sff": "latency"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "SpinalCordEvokedPotentialsTest",
+    "off": 26675,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 26659,
+    "sff": "latency"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "AxonalChangesTest",
+    "off": 1850,
+    "sff": "axonal"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "ApoptosisTest",
+    "off": 29298,
+    "sff": "activity"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "AxonalChangesTest",
+    "off": 21126,
+    "sff": "NF-positive"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "SpinalCordEvokedPotentialsTest",
+    "off": 26659,
+    "sff": "latency"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 27519,
+    "sff": "latency"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "SpinalCordEvokedPotentialsTest",
+    "off": 27519,
+    "sff": "latency"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "ApoptosisTest",
+    "off": 28190,
+    "sff": "activity"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "PhysiologyTest",
+    "off": 23407,
+    "sff": "tidal"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "LesionVolumeTest",
+    "off": 30671,
+    "sff": "cavity area"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "CystVolumeTest",
+    "off": 20968,
+    "sff": "area of cystic cavity"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 27537,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "ApoptosisTest",
+    "off": 29218,
+    "sff": "activity"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "PhysiologyTest",
+    "off": 17582,
+    "sff": "tidal volume"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "ElectrophysiologyTest",
+    "off": 25290,
+    "sff": "averaged surfaces of the phrenic nerve integrated traces"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "PhysiologyTest",
+    "off": 23407,
+    "sff": "tidal volume"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "ApoptosisTest",
+    "off": 28899,
+    "sff": "activity"
+  }
+]

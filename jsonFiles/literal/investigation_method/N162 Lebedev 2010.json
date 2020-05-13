@@ -1,0 +1,206 @@
+[
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "LesionVolumeTest",
+    "off": 14479,
+    "sff": "lesion area"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "LesionVolumeTest",
+    "off": 13594,
+    "sff": "volume"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "TissueSparingTest",
+    "off": 10279,
+    "sff": "amount"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "MyelinationTest",
+    "off": 15379,
+    "sff": "nerve"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "MyelinationTest",
+    "off": 14465,
+    "sff": "fibers"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "BBBTest",
+    "off": 11420,
+    "sff": "BBB score"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "LesionVolumeTest",
+    "off": 14486,
+    "sff": "area"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "LesionVolumeTest",
+    "off": 14342,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "LesionVolumeTest",
+    "off": 14479,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "GaitTest",
+    "off": 12190,
+    "sff": "capable of staying on the rotating rod"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "BBBTest",
+    "off": 10838,
+    "sff": "BBB score"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "LesionVolumeTest",
+    "off": 15724,
+    "sff": "mean"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "LesionVolumeTest",
+    "off": 10263,
+    "sff": "cavities"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "LesionVolumeTest",
+    "off": 14884,
+    "sff": "area"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "LesionVolumeTest",
+    "off": 13872,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "LesionVolumeTest",
+    "off": 14193,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "LesionVolumeTest",
+    "off": 8305,
+    "sff": "pathological"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "LesionVolumeTest",
+    "off": 8297,
+    "sff": "area"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "TissueSparingTest",
+    "off": 8335,
+    "sff": "amount"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "GaitTest",
+    "off": 8916,
+    "sff": "lateral"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "LesionVolumeTest",
+    "off": 14021,
+    "sff": "formation of pathological cavities"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "LesionVolumeTest",
+    "off": 8562,
+    "sff": "area"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "LesionVolumeTest",
+    "off": 14311,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "GaitTest",
+    "off": 11835,
+    "sff": "hol ding on the rotating rod"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "LesionVolumeTest",
+    "off": 15321,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "MyelinationTest",
+    "off": 14458,
+    "sff": "myelin"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "LesionVolumeTest",
+    "off": 13249,
+    "sff": "mean"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "LesionVolumeTest",
+    "off": 14867,
+    "sff": "Measuring"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "GaitTest",
+    "off": 8896,
+    "sff": "lateral"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "MyelinationTest",
+    "off": 14415,
+    "sff": "posttraumatic remyelination"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "TissueSparingTest",
+    "off": 14448,
+    "sff": "amount"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "LesionVolumeTest",
+    "off": 13976,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "LesionVolumeTest",
+    "off": 14867,
+    "sff": "Measuring of the area"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "BBBTest",
+    "off": 11109,
+    "sff": "BBB score"
+  }
+]

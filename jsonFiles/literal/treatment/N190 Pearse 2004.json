@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N190 Pearse 2004",
+    "et": "Rostral",
+    "off": 35382,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N190 Pearse 2004",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 7427,
+    "sff": "OEG"
+  },
+  {
+    "docID": "N190 Pearse 2004",
+    "et": "Rostral",
+    "off": 29044,
+    "sff": "rostrally"
+  },
+  {
+    "docID": "N190 Pearse 2004",
+    "et": "Saline",
+    "off": 10511,
+    "sff": "saline"
+  },
+  {
+    "docID": "N190 Pearse 2004",
+    "et": "InjectionDelivery",
+    "off": 12249,
+    "sff": "injected"
+  },
+  {
+    "docID": "N190 Pearse 2004",
+    "et": "Rostral",
+    "off": 17723,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N190 Pearse 2004",
+    "et": "DeliveryMethod",
+    "off": 6886,
+    "sff": "transferred"
+  },
+  {
+    "docID": "N190 Pearse 2004",
+    "et": "RingersSolution",
+    "off": 11225,
+    "sff": "lactated RingerÕs solution"
+  },
+  {
+    "docID": "N190 Pearse 2004",
+    "et": "Rostral",
+    "off": 35216,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N190 Pearse 2004",
+    "et": "SchwannCell",
+    "off": 688,
+    "sff": "SC"
+  },
+  {
+    "docID": "N190 Pearse 2004",
+    "et": "Rostral",
+    "off": 19583,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N190 Pearse 2004",
+    "et": "Rostral",
+    "off": 35852,
+    "sff": "rostrally"
+  }
+]

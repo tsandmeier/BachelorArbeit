@@ -1,0 +1,308 @@
+[
+  {
+    "docID": "N238 Janzedeh",
+    "et": "Weight",
+    "off": 17582,
+    "sff": "mean"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "C57_BL6_Mouse",
+    "off": 6214,
+    "sff": "6"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "Weight",
+    "off": 20533,
+    "sff": "mean"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "SpragueDawleyRat",
+    "off": 521,
+    "sff": "rats"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "Weight",
+    "off": 6888,
+    "sff": "g"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "Weight",
+    "off": 5874,
+    "sff": "170"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "Mixed",
+    "off": 104,
+    "sff": "male"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "Weight",
+    "off": 6509,
+    "sff": "kg"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "Mixed",
+    "off": 5852,
+    "sff": "male"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "Weight",
+    "off": 20160,
+    "sff": "mean"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "Weight",
+    "off": 18367,
+    "sff": "mean"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "WistarRat",
+    "off": 514,
+    "sff": "Wistar"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "MouseSpecies",
+    "off": 6290,
+    "sff": "under"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "LongEvansRat",
+    "off": 18860,
+    "sff": "rats"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "RatSpecies",
+    "off": 521,
+    "sff": "rats"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "MouseSpecies",
+    "off": 18179,
+    "sff": "protein"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "WistarRat",
+    "off": 5857,
+    "sff": "Wistar rats"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "Adult",
+    "off": 98,
+    "sff": "adult"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "Weight",
+    "off": 5878,
+    "sff": "g"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "Age",
+    "off": 7291,
+    "sff": "day"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "SpragueDawleyRat",
+    "off": 109,
+    "sff": "rats"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "Age",
+    "off": 5873,
+    "sff": "–"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "SpragueDawleyRat",
+    "off": 20834,
+    "sff": "rats"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "C57_BL6_Mouse",
+    "off": 16885,
+    "sff": "6"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "Weight",
+    "off": 20318,
+    "sff": "mean"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "Mixed",
+    "off": 509,
+    "sff": "male"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "Male",
+    "off": 5852,
+    "sff": "male"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "Male",
+    "off": 104,
+    "sff": "male"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "MouseSpecies",
+    "off": 17389,
+    "sff": "protein"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "Gender",
+    "off": 5852,
+    "sff": "male"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "RatSpecies",
+    "off": 109,
+    "sff": "rats"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "MouseSpecies",
+    "off": 18134,
+    "sff": "protein"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "Weight",
+    "off": 6696,
+    "sff": "g"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "Weight",
+    "off": 9613,
+    "sff": "mean"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "Weight",
+    "off": 5873,
+    "sff": "–"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "WistarRat",
+    "off": 514,
+    "sff": "Wistar rats"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "Gender",
+    "off": 104,
+    "sff": "male"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "Weight",
+    "off": 5870,
+    "sff": "150"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "Male",
+    "off": 509,
+    "sff": "male"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "MouseSpecies",
+    "off": 17344,
+    "sff": "protein"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "Gender",
+    "off": 509,
+    "sff": "male"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "Weight",
+    "off": 20116,
+    "sff": "mean"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "SpragueDawleyRat",
+    "off": 5873,
+    "sff": "–"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "C57_BL6_Mouse",
+    "off": 13104,
+    "sff": "6"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "Weight",
+    "off": 7754,
+    "sff": "kg"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "SpragueDawleyRat",
+    "off": 18860,
+    "sff": "rats"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "Weight",
+    "off": 14507,
+    "sff": "mean"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "LongEvansRat",
+    "off": 20834,
+    "sff": "rats"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "Weight",
+    "off": 6485,
+    "sff": "kg"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "Weight",
+    "off": 20258,
+    "sff": "mean"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "FischerRat",
+    "off": 109,
+    "sff": "rats"
+  }
+]

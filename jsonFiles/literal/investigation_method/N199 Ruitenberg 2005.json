@@ -1,0 +1,200 @@
+[
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "TissueSparingTest",
+    "off": 22914,
+    "sff": "volume of spared tissue"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "TissueSparingTest",
+    "off": 22815,
+    "sff": "spinal tissue sparing"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "TissueSparingTest",
+    "off": 47063,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "AxonalChangesTest",
+    "off": 42866,
+    "sff": "numbers of distal CST axons"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "AstrogliosisTest",
+    "off": 32590,
+    "sff": "area"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "TissueSparingTest",
+    "off": 23642,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "SinglePelletReachingTest",
+    "off": 36890,
+    "sff": "Movement"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "TissueSparingTest",
+    "off": 32609,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "AstrogliosisTest",
+    "off": 45542,
+    "sff": "area"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "AstrogliosisTest",
+    "off": 20288,
+    "sff": "reactive"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "TissueSparingTest",
+    "off": 44949,
+    "sff": "spinal tissue was spared"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "AxonalSproutingTest",
+    "off": 40544,
+    "sff": "primary"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "AxonalChangesTest",
+    "off": 31576,
+    "sff": "numbers of axons"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "AstrogliosisTest",
+    "off": 43526,
+    "sff": "measured"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "SinglePelletReachingTest",
+    "off": 38184,
+    "sff": "Movement ratings"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "TissueSparingTest",
+    "off": 8488,
+    "sff": "amount"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "AxonalChangesTest",
+    "off": 39590,
+    "sff": "numbers of axons"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "CystVolumeTest",
+    "off": 45088,
+    "sff": "Mean cyst area and number"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "AstrogliosisTest",
+    "off": 40278,
+    "sff": "GFAP"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "AstrogliosisTest",
+    "off": 40727,
+    "sff": "GFAP"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "AstrogliosisTest",
+    "off": 23109,
+    "sff": "number"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "TissueSparingTest",
+    "off": 32251,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "SinglePelletReachingTest",
+    "off": 37563,
+    "sff": "Movement"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "TissueSparingTest",
+    "off": 44876,
+    "sff": "segment examined was spared"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "AstrogliosisTest",
+    "off": 36019,
+    "sff": "area"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "FootprintAnalysisTest",
+    "off": 36950,
+    "sff": "rotation"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "AstrogliosisTest",
+    "off": 23286,
+    "sff": "area"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "AxonalChangesTest",
+    "off": 43162,
+    "sff": "fluorescence measures"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "TissueSparingTest",
+    "off": 45180,
+    "sff": "amount"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "TissueSparingTest",
+    "off": 32333,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "SensoryTest",
+    "off": 28918,
+    "sff": "hyperactive"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "TissueSparingTest",
+    "off": 24051,
+    "sff": "amount"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "TissueSparingTest",
+    "off": 45201,
+    "sff": "tissue"
+  }
+]

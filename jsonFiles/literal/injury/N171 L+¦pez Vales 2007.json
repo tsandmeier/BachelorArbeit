@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N171 L+¦pez Vales 2007",
+    "et": "LateralHemisection",
+    "off": 6859,
+    "sff": "transected"
+  },
+  {
+    "docID": "N171 L+¦pez Vales 2007",
+    "et": "Forceps",
+    "off": 5504,
+    "sff": "forceps"
+  },
+  {
+    "docID": "N171 L+¦pez Vales 2007",
+    "et": "CompleteTransection",
+    "off": 6848,
+    "sff": "completely"
+  },
+  {
+    "docID": "N171 L+¦pez Vales 2007",
+    "et": "LateralHemisection",
+    "off": 23235,
+    "sff": "lateral"
+  },
+  {
+    "docID": "N171 L+¦pez Vales 2007",
+    "et": "T10",
+    "off": 11743,
+    "sff": "T10"
+  },
+  {
+    "docID": "N171 L+¦pez Vales 2007",
+    "et": "VertebralArea",
+    "off": 23750,
+    "sff": "levels"
+  },
+  {
+    "docID": "N171 L+¦pez Vales 2007",
+    "et": "LateralHemisection",
+    "off": 11238,
+    "sff": "lateral"
+  },
+  {
+    "docID": "N171 L+¦pez Vales 2007",
+    "et": "Blade",
+    "off": 6884,
+    "sff": "microscalpel"
+  },
+  {
+    "docID": "N171 L+¦pez Vales 2007",
+    "et": "T8",
+    "off": 6796,
+    "sff": "T8"
+  },
+  {
+    "docID": "N171 L+¦pez Vales 2007",
+    "et": "CompleteTransection",
+    "off": 6848,
+    "sff": "completely transected"
+  },
+  {
+    "docID": "N171 L+¦pez Vales 2007",
+    "et": "VertebralArea",
+    "off": 24204,
+    "sff": "levels"
+  },
+  {
+    "docID": "N171 L+¦pez Vales 2007",
+    "et": "SodiumPentobarbital",
+    "off": 6732,
+    "sff": "pentobarbital"
+  }
+]

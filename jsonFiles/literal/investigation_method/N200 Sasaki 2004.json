@@ -1,0 +1,200 @@
+[
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "AstrogliosisTest",
+    "off": 28403,
+    "sff": "activation"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "AxonalSproutingTest",
+    "off": 35475,
+    "sff": "sprouting"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "MyelinationTest",
+    "off": 26631,
+    "sff": "Myelinated axon counts"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "GaitTest",
+    "off": 32744,
+    "sff": "stability"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "AxonalRegenerationTest",
+    "off": 15596,
+    "sff": "immunostaining"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "AxonalRegenerationTest",
+    "off": 15851,
+    "sff": "immunostaining"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "AxonalSproutingTest",
+    "off": 14307,
+    "sff": "primary"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "AxonalRegenerationTest",
+    "off": 33452,
+    "sff": "immunostaining"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "AxonalRegenerationTest",
+    "off": 14637,
+    "sff": "immunostaining"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "AxonalSproutingTest",
+    "off": 10343,
+    "sff": "primary"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "AxonalSproutingTest",
+    "off": 7082,
+    "sff": "primary"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "AxonalSproutingTest",
+    "off": 35092,
+    "sff": "sprouting"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "LadderRungTest",
+    "off": 27348,
+    "sff": "stepping"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 13105,
+    "sff": "somatosensory"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "HistologicalInvestigationTest",
+    "off": 22060,
+    "sff": "profiles"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "AxonalSproutingTest",
+    "off": 16816,
+    "sff": "processes"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "LadderRungTest",
+    "off": 27222,
+    "sff": "stepping"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 6090,
+    "sff": "mechanical"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "AxonalRegenerationTest",
+    "off": 25463,
+    "sff": "immunostaining"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "AxonalRegenerationTest",
+    "off": 14150,
+    "sff": "immunostaining"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "TissueSparingTest",
+    "off": 31554,
+    "sff": "amount"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "AxonalSproutingTest",
+    "off": 17057,
+    "sff": "processes"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "HistologicalInvestigationTest",
+    "off": 25211,
+    "sff": "profiles"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "AstrogliosisTest",
+    "off": 17057,
+    "sff": "processes"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "AxonalChangesTest",
+    "off": 26572,
+    "sff": "numbers of axons"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "AstrogliosisTest",
+    "off": 21091,
+    "sff": "processes"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "BBBTest",
+    "off": 27398,
+    "sff": "open-field locomotor scores"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "TissueSparingTest",
+    "off": 33822,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "NonFunctionalTest",
+    "off": 19623,
+    "sff": "pathology"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "AstrogliosisTest",
+    "off": 26312,
+    "sff": "number"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "AxonalRegenerationTest",
+    "off": 22874,
+    "sff": "immunostaining"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "LesionVolumeTest",
+    "off": 16961,
+    "sff": "formation"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "AxonalSproutingTest",
+    "off": 7386,
+    "sff": "primary"
+  }
+]

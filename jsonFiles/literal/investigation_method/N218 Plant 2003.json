@@ -1,0 +1,206 @@
+[
+  {
+    "docID": "N218 Plant 2003",
+    "et": "TissueSparingTest",
+    "off": 25015,
+    "sff": "spinal tissue sparing"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "BBBTest",
+    "off": 22430,
+    "sff": "scores"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 29405,
+    "sff": "mean"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "NeuronalChangesTest",
+    "off": 30763,
+    "sff": "total number of retrogradely labeled cells"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "AxonalChangesTest",
+    "off": 16104,
+    "sff": "Fluorogold"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "AxonalChangesTest",
+    "off": 28421,
+    "sff": "serotonergic"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "TissueSparingTest",
+    "off": 14639,
+    "sff": "spinal tissue sparing"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "TissueSparingTest",
+    "off": 17265,
+    "sff": "spinal tissue sparing"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "BBBTest",
+    "off": 17291,
+    "sff": "BBB scores"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "AxonalRegenerationTest",
+    "off": 14516,
+    "sff": "immunostaining"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "NeuronalChangesTest",
+    "off": 30135,
+    "sff": "total number of labeled cells"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "BBBTest",
+    "off": 22574,
+    "sff": "scores"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "AxonalChangesTest",
+    "off": 26035,
+    "sff": "serotonergic"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "NeuronalChangesTest",
+    "off": 31062,
+    "sff": "raphespinal"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "BBBTest",
+    "off": 22426,
+    "sff": "BBB scores"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "NeuronalChangesTest",
+    "off": 30463,
+    "sff": "number of labeled neurons"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "BBBTest",
+    "off": 31810,
+    "sff": "BBB score"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "BBBTest",
+    "off": 22570,
+    "sff": "BBB scores"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "HistologicalInvestigationTest",
+    "off": 26288,
+    "sff": "immunohistochemical staining profiles"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "NeuronalChangesTest",
+    "off": 30271,
+    "sff": "number of reticulospinal neurons"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "BBBTest",
+    "off": 32392,
+    "sff": "BBB score"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "NeuronalChangesTest",
+    "off": 31079,
+    "sff": "rubrospinal neurons"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "BBBTest",
+    "off": 31802,
+    "sff": "average BBB score"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "AxonalRegenerationTest",
+    "off": 25177,
+    "sff": "immunostaining"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 30836,
+    "sff": "mean"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "AxonalRegenerationTest",
+    "off": 25435,
+    "sff": "immunostaining"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "BBBTest",
+    "off": 32113,
+    "sff": "average BBB score"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "AxonalRegenerationTest",
+    "off": 19534,
+    "sff": "immunostaining"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "NeuroprotectionTest",
+    "off": 31079,
+    "sff": "rubrospinal neurons"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "NeuronalChangesTest",
+    "off": 31035,
+    "sff": "numbers of reticulospinal"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "NeuronalChangesTest",
+    "off": 29644,
+    "sff": "number of labeled cells"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 1591,
+    "sff": "response"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "BBBTest",
+    "off": 32121,
+    "sff": "BBB score"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "AxonalSproutingTest",
+    "off": 13654,
+    "sff": "primary"
+  }
+]

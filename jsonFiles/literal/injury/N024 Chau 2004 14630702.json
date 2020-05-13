@@ -1,0 +1,62 @@
+[
+  {
+    "docID": "N024 Chau 2004 14630702",
+    "et": "InjuryDevice",
+    "off": 104,
+    "sff": "cord"
+  },
+  {
+    "docID": "N024 Chau 2004 14630702",
+    "et": "LateralHemisection",
+    "off": 1902,
+    "sff": "left"
+  },
+  {
+    "docID": "N024 Chau 2004 14630702",
+    "et": "Forceps",
+    "off": 216,
+    "sff": "¬"
+  },
+  {
+    "docID": "N024 Chau 2004 14630702",
+    "et": "InjuryDevice",
+    "off": 1623,
+    "sff": "cord"
+  },
+  {
+    "docID": "N024 Chau 2004 14630702",
+    "et": "DorsalHemisection",
+    "off": 2474,
+    "sff": "were"
+  },
+  {
+    "docID": "N024 Chau 2004 14630702",
+    "et": "DorsalHemisection",
+    "off": 2199,
+    "sff": "were"
+  },
+  {
+    "docID": "N024 Chau 2004 14630702",
+    "et": "DorsalHemisection",
+    "off": 1682,
+    "sff": "were"
+  },
+  {
+    "docID": "N024 Chau 2004 14630702",
+    "et": "LateralHemisection",
+    "off": 765,
+    "sff": "hemisected"
+  },
+  {
+    "docID": "N024 Chau 2004 14630702",
+    "et": "T10",
+    "off": 795,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N024 Chau 2004 14630702",
+    "et": "NYUImpactor",
+    "off": 390,
+    "sff": "University"
+  }
+]

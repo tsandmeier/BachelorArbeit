@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "T10",
+    "off": 560,
+    "sff": "T10"
+  },
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "Contusion",
+    "off": 22752,
+    "sff": "contusion"
+  },
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "WeightDrop",
+    "off": 12885,
+    "sff": "metal"
+  },
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "Contusion",
+    "off": 585,
+    "sff": "contusion injury"
+  },
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "Contusion",
+    "off": 585,
+    "sff": "contusion"
+  },
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "Contusion",
+    "off": 2601,
+    "sff": "contusion"
+  },
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "T8",
+    "off": 10485,
+    "sff": "T8"
+  },
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "Contusion",
+    "off": 30151,
+    "sff": "contusion"
+  },
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "NitrousOxide",
+    "off": 10033,
+    "sff": "N2O"
+  },
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "Halothane",
+    "off": 10010,
+    "sff": "halothane"
+  },
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "Contusion",
+    "off": 29011,
+    "sff": "contused"
+  },
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "Contusion",
+    "off": 146,
+    "sff": "contusion"
+  }
+]

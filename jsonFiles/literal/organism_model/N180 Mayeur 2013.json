@@ -1,0 +1,308 @@
+[
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "WistarRat",
+    "off": 25334,
+    "sff": "rats"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "FischerRat",
+    "off": 13783,
+    "sff": "Fischer"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "ListerHoodedRat",
+    "off": 13798,
+    "sff": "rats"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "Age",
+    "off": 7518,
+    "sff": "old"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "FischerRat",
+    "off": 13798,
+    "sff": "rats"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "Weight",
+    "off": 21288,
+    "sff": "g"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "WistarRat",
+    "off": 17035,
+    "sff": "rats"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "RatSpecies",
+    "off": 32712,
+    "sff": "rats"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "WistarRat",
+    "off": 16659,
+    "sff": "rats"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "FischerRat",
+    "off": 13783,
+    "sff": "Fischer inbred rats"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "Age",
+    "off": 13288,
+    "sff": "days"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "LewisRat",
+    "off": 13798,
+    "sff": "rats"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "Age",
+    "off": 13807,
+    "sff": "–"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "Weight",
+    "off": 13812,
+    "sff": "g"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "WistarRat",
+    "off": 13213,
+    "sff": "rats"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "SpragueDawleyRat",
+    "off": 13798,
+    "sff": "rats"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "Weight",
+    "off": 13807,
+    "sff": "–"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "Male",
+    "off": 7522,
+    "sff": "male"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "RatSpecies",
+    "off": 16300,
+    "sff": "rats"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "RatSpecies",
+    "off": 7977,
+    "sff": "rats"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "Age",
+    "off": 34379,
+    "sff": "days"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "FischerRat",
+    "off": 7527,
+    "sff": "inbred"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "RatSpecies",
+    "off": 7527,
+    "sff": "inbred"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "RatSpecies",
+    "off": 13213,
+    "sff": "rats"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "FischerRat",
+    "off": 13791,
+    "sff": "inbred"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "WistarRat",
+    "off": 33475,
+    "sff": "rats"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "Mixed",
+    "off": 7522,
+    "sff": "male"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "WistarRat",
+    "off": 16715,
+    "sff": "rats"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "WistarRat",
+    "off": 32712,
+    "sff": "rats"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "SpragueDawleyRat",
+    "off": 13807,
+    "sff": "–"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "SpragueDawleyRat",
+    "off": 7605,
+    "sff": "rats"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "FischerRat",
+    "off": 13834,
+    "sff": "rats"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "FischerRat",
+    "off": 7534,
+    "sff": "Fischer rats"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "LongEvansRat",
+    "off": 13798,
+    "sff": "rats"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "MouseSpecies",
+    "off": 26175,
+    "sff": "GFP"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "Adult",
+    "off": 13777,
+    "sff": "adult"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "Weight",
+    "off": 13808,
+    "sff": "250"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "SpragueDawleyRat",
+    "off": 13243,
+    "sff": "rats"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "FischerRat",
+    "off": 7534,
+    "sff": "Fischer"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "Weight",
+    "off": 13808,
+    "sff": "250 g"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "RatSpecies",
+    "off": 25334,
+    "sff": "rats"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "Weight",
+    "off": 13804,
+    "sff": "225"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "WistarRat",
+    "off": 13791,
+    "sff": "inbred"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "WistarRat",
+    "off": 13798,
+    "sff": "rats"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "Age",
+    "off": 7497,
+    "sff": "old"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "SpragueDawleyRat",
+    "off": 16300,
+    "sff": "rats"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "WistarRat",
+    "off": 21224,
+    "sff": "rats"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "RatSpecies",
+    "off": 13798,
+    "sff": "rats"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "RatSpecies",
+    "off": 13791,
+    "sff": "inbred"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "WistarRat",
+    "off": 21356,
+    "sff": "rats"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "RatSpecies",
+    "off": 21224,
+    "sff": "rats"
+  }
+]

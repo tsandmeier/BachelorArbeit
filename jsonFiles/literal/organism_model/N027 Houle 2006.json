@@ -1,0 +1,302 @@
+[
+  {
+    "docID": "N027 Houle 2006",
+    "et": "LongEvansRat",
+    "off": 39144,
+    "sff": "rats"
+  },
+  {
+    "docID": "N027 Houle 2006",
+    "et": "RatSpecies",
+    "off": 39044,
+    "sff": "rats"
+  },
+  {
+    "docID": "N027 Houle 2006",
+    "et": "Weight",
+    "off": 9109,
+    "sff": "mean"
+  },
+  {
+    "docID": "N027 Houle 2006",
+    "et": "Age",
+    "off": 12657,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N027 Houle 2006",
+    "et": "Age",
+    "off": 36072,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N027 Houle 2006",
+    "et": "SpragueDawleyRat",
+    "off": 12012,
+    "sff": "rats"
+  },
+  {
+    "docID": "N027 Houle 2006",
+    "et": "LongEvansRat",
+    "off": 12012,
+    "sff": "rats"
+  },
+  {
+    "docID": "N027 Houle 2006",
+    "et": "RatSpecies",
+    "off": 1170,
+    "sff": "rats"
+  },
+  {
+    "docID": "N027 Houle 2006",
+    "et": "SpragueDawleyRat",
+    "off": 39144,
+    "sff": "rats"
+  },
+  {
+    "docID": "N027 Houle 2006",
+    "et": "Age",
+    "off": 16398,
+    "sff": "3"
+  },
+  {
+    "docID": "N027 Houle 2006",
+    "et": "SpragueDawleyRat",
+    "off": 37865,
+    "sff": "rats"
+  },
+  {
+    "docID": "N027 Houle 2006",
+    "et": "Age",
+    "off": 25808,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N027 Houle 2006",
+    "et": "Age",
+    "off": 9940,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N027 Houle 2006",
+    "et": "WistarRat",
+    "off": 40695,
+    "sff": "rats"
+  },
+  {
+    "docID": "N027 Houle 2006",
+    "et": "LongEvansRat",
+    "off": 39044,
+    "sff": "rats"
+  },
+  {
+    "docID": "N027 Houle 2006",
+    "et": "WistarRat",
+    "off": 39144,
+    "sff": "rats"
+  },
+  {
+    "docID": "N027 Houle 2006",
+    "et": "SpragueDawleyRat",
+    "off": 38477,
+    "sff": "rats"
+  },
+  {
+    "docID": "N027 Houle 2006",
+    "et": "WistarRat",
+    "off": 37865,
+    "sff": "rats"
+  },
+  {
+    "docID": "N027 Houle 2006",
+    "et": "RatSpecies",
+    "off": 39144,
+    "sff": "rats"
+  },
+  {
+    "docID": "N027 Houle 2006",
+    "et": "SpragueDawleyRat",
+    "off": 40771,
+    "sff": "rats"
+  },
+  {
+    "docID": "N027 Houle 2006",
+    "et": "SpragueDawleyRat",
+    "off": 37702,
+    "sff": "rats"
+  },
+  {
+    "docID": "N027 Houle 2006",
+    "et": "Age",
+    "off": 25662,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N027 Houle 2006",
+    "et": "WistarRat",
+    "off": 26246,
+    "sff": "rats"
+  },
+  {
+    "docID": "N027 Houle 2006",
+    "et": "Weight",
+    "off": 29633,
+    "sff": "mean"
+  },
+  {
+    "docID": "N027 Houle 2006",
+    "et": "Age",
+    "off": 37801,
+    "sff": "9"
+  },
+  {
+    "docID": "N027 Houle 2006",
+    "et": "WistarRat",
+    "off": 39044,
+    "sff": "rats"
+  },
+  {
+    "docID": "N027 Houle 2006",
+    "et": "SpragueDawleyRat",
+    "off": 8124,
+    "sff": "rats"
+  },
+  {
+    "docID": "N027 Houle 2006",
+    "et": "Weight",
+    "off": 14525,
+    "sff": "mean"
+  },
+  {
+    "docID": "N027 Houle 2006",
+    "et": "WistarRat",
+    "off": 26322,
+    "sff": "rats"
+  },
+  {
+    "docID": "N027 Houle 2006",
+    "et": "Weight",
+    "off": 38354,
+    "sff": "mean"
+  },
+  {
+    "docID": "N027 Houle 2006",
+    "et": "LongEvansRat",
+    "off": 36656,
+    "sff": "rats"
+  },
+  {
+    "docID": "N027 Houle 2006",
+    "et": "SpragueDawleyRat",
+    "off": 36656,
+    "sff": "rats"
+  },
+  {
+    "docID": "N027 Houle 2006",
+    "et": "Adult",
+    "off": 863,
+    "sff": "adult"
+  },
+  {
+    "docID": "N027 Houle 2006",
+    "et": "WistarRat",
+    "off": 38477,
+    "sff": "rats"
+  },
+  {
+    "docID": "N027 Houle 2006",
+    "et": "Weight",
+    "off": 31713,
+    "sff": "mean"
+  },
+  {
+    "docID": "N027 Houle 2006",
+    "et": "Adult",
+    "off": 277,
+    "sff": "Adult"
+  },
+  {
+    "docID": "N027 Houle 2006",
+    "et": "WistarRat",
+    "off": 36656,
+    "sff": "rats"
+  },
+  {
+    "docID": "N027 Houle 2006",
+    "et": "Weight",
+    "off": 16924,
+    "sff": "200"
+  },
+  {
+    "docID": "N027 Houle 2006",
+    "et": "Weight",
+    "off": 36462,
+    "sff": "mean"
+  },
+  {
+    "docID": "N027 Houle 2006",
+    "et": "SpragueDawleyRat",
+    "off": 1170,
+    "sff": "rats"
+  },
+  {
+    "docID": "N027 Houle 2006",
+    "et": "SpragueDawleyRat",
+    "off": 39044,
+    "sff": "rats"
+  },
+  {
+    "docID": "N027 Houle 2006",
+    "et": "WistarRat",
+    "off": 40771,
+    "sff": "rats"
+  },
+  {
+    "docID": "N027 Houle 2006",
+    "et": "WistarRat",
+    "off": 37702,
+    "sff": "rats"
+  },
+  {
+    "docID": "N027 Houle 2006",
+    "et": "Age",
+    "off": 38532,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N027 Houle 2006",
+    "et": "RatSpecies",
+    "off": 36656,
+    "sff": "rats"
+  },
+  {
+    "docID": "N027 Houle 2006",
+    "et": "LongEvansRat",
+    "off": 19646,
+    "sff": "rats"
+  },
+  {
+    "docID": "N027 Houle 2006",
+    "et": "LongEvansRat",
+    "off": 9277,
+    "sff": "rats"
+  },
+  {
+    "docID": "N027 Houle 2006",
+    "et": "LongEvansRat",
+    "off": 8124,
+    "sff": "rats"
+  },
+  {
+    "docID": "N027 Houle 2006",
+    "et": "RatSpecies",
+    "off": 8124,
+    "sff": "rats"
+  },
+  {
+    "docID": "N027 Houle 2006",
+    "et": "WistarRat",
+    "off": 9277,
+    "sff": "rats"
+  }
+]

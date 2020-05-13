@@ -1,0 +1,308 @@
+[
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "Weight",
+    "off": 9082,
+    "sff": "g"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "SpragueDawleyRat",
+    "off": 9531,
+    "sff": "rats"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "RatSpecies",
+    "off": 1743,
+    "sff": "rats"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "Age",
+    "off": 43344,
+    "sff": "9"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "WistarRat",
+    "off": 1743,
+    "sff": "rats"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "SpragueDawleyRat",
+    "off": 9053,
+    "sff": "Sprague–Dawley rats"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "MouseSpecies",
+    "off": 35888,
+    "sff": "GFP"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "Weight",
+    "off": 9074,
+    "sff": "220"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "WistarRat",
+    "off": 47049,
+    "sff": "rats"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "Age",
+    "off": 14150,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "SpragueDawleyRat",
+    "off": 1743,
+    "sff": "rats"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "SpragueDawleyRat",
+    "off": 27534,
+    "sff": "SD"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "Age",
+    "off": 18008,
+    "sff": "days"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "LewisRat",
+    "off": 9068,
+    "sff": "rats"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "SpragueDawleyRat",
+    "off": 9053,
+    "sff": "Sprague–Dawley"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "Adult",
+    "off": 50642,
+    "sff": "adult"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "MouseSpecies",
+    "off": 34975,
+    "sff": "under"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "Age",
+    "off": 13691,
+    "sff": "8"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "Adult",
+    "off": 50555,
+    "sff": "adult"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "Age",
+    "off": 14989,
+    "sff": "days"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "Age",
+    "off": 21752,
+    "sff": "4"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "Age",
+    "off": 29132,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "Age",
+    "off": 5764,
+    "sff": "age"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "Adult",
+    "off": 7,
+    "sff": "adult"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "Adult",
+    "off": 364,
+    "sff": "adult"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "SpragueDawleyRat",
+    "off": 9068,
+    "sff": "rats"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "Age",
+    "off": 16978,
+    "sff": "3"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "Age",
+    "off": 9155,
+    "sff": "12"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "Age",
+    "off": 11744,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "Age",
+    "off": 9077,
+    "sff": "–"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "SpragueDawleyRat",
+    "off": 22964,
+    "sff": "SD"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "Age",
+    "off": 9163,
+    "sff": "3"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "SpragueDawleyRat",
+    "off": 9077,
+    "sff": "–"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "Age",
+    "off": 43381,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "SpragueDawleyRat",
+    "off": 41469,
+    "sff": "rats"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "Age",
+    "off": 33783,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "LongEvansRat",
+    "off": 9068,
+    "sff": "rats"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "Age",
+    "off": 13414,
+    "sff": "week"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "Age",
+    "off": 16599,
+    "sff": "4"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "Weight",
+    "off": 9077,
+    "sff": "–"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "FischerRat",
+    "off": 15473,
+    "sff": "Fischer"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "WistarRat",
+    "off": 41469,
+    "sff": "rats"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "Age",
+    "off": 34561,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "MouseSpecies",
+    "off": 35746,
+    "sff": "GFP"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "ListerHoodedRat",
+    "off": 9068,
+    "sff": "rats"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "Adult",
+    "off": 2120,
+    "sff": "adult"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "RatSpecies",
+    "off": 9068,
+    "sff": "rats"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "SpragueDawleyRat",
+    "off": 23160,
+    "sff": "SD"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "WistarRat",
+    "off": 9068,
+    "sff": "rats"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "Female",
+    "off": 9046,
+    "sff": "female"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "FischerRat",
+    "off": 9068,
+    "sff": "rats"
+  }
+]

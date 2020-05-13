@@ -1,0 +1,86 @@
+[
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "Rostral",
+    "off": 27718,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "InjectionDelivery",
+    "off": 13490,
+    "sff": "injected"
+  },
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "InjectionDelivery",
+    "off": 13591,
+    "sff": "injected"
+  },
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "Caudal",
+    "off": 13763,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "Rostral",
+    "off": 26621,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "Rostral",
+    "off": 59837,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "Caudal",
+    "off": 44119,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "Rostral",
+    "off": 13751,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "Rostral",
+    "off": 25142,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "Caudal",
+    "off": 27730,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 789,
+    "sff": "OEG"
+  },
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "Rostral",
+    "off": 54259,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "Rostral",
+    "off": 60721,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N191 Pearse 2007",
+    "et": "Rostral",
+    "off": 44107,
+    "sff": "rostral"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "Rostral",
+    "off": 28188,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 20941,
+    "sff": "OECs"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "Matrix",
+    "off": 981,
+    "sff": "serumderived albumin scaffold"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "Saline",
+    "off": 17711,
+    "sff": "saline solution"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "Rostral",
+    "off": 28281,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "Saline",
+    "off": 17711,
+    "sff": "saline"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "RingersSolution",
+    "off": 17718,
+    "sff": "solution"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "Saline",
+    "off": 7533,
+    "sff": "saline"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "DeliveryMethod",
+    "off": 6497,
+    "sff": "transferred"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "Rostral",
+    "off": 23458,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "Rostral",
+    "off": 29394,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "Rostral",
+    "off": 29730,
+    "sff": "rostral"
+  }
+]

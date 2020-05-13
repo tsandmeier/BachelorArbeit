@@ -1,0 +1,86 @@
+[
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "Rostral",
+    "off": 50598,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "Rostral",
+    "off": 48625,
+    "sff": "rostrally"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "Caudal",
+    "off": 16546,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "Rostral",
+    "off": 49764,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "InjectionDelivery",
+    "off": 6384,
+    "sff": "injected"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "TreadmillTraining",
+    "off": 6800,
+    "sff": "manual step training on a treadmill"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "Rostral",
+    "off": 50417,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "Rostral",
+    "off": 16723,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "Rostral",
+    "off": 50198,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 823,
+    "sff": "OEG"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "Rostral",
+    "off": 16534,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "InjectionDelivery",
+    "off": 11812,
+    "sff": "injected"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "Rostral",
+    "off": 6519,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "Rostral",
+    "off": 15774,
+    "sff": "rostral"
+  }
+]

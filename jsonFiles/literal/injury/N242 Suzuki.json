@@ -1,0 +1,62 @@
+[
+  {
+    "docID": "N242 Suzuki",
+    "et": "PhotochemicalInjury",
+    "off": 24068,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N242 Suzuki",
+    "et": "Cervical",
+    "off": 26419,
+    "sff": "cervical"
+  },
+  {
+    "docID": "N242 Suzuki",
+    "et": "LateralHemisection",
+    "off": 32950,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N242 Suzuki",
+    "et": "Cervical",
+    "off": 852,
+    "sff": "cervical"
+  },
+  {
+    "docID": "N242 Suzuki",
+    "et": "LateralHemisection",
+    "off": 29686,
+    "sff": "left"
+  },
+  {
+    "docID": "N242 Suzuki",
+    "et": "Laminectomy",
+    "off": 28784,
+    "sff": "cords"
+  },
+  {
+    "docID": "N242 Suzuki",
+    "et": "PhotochemicalInjury",
+    "off": 26428,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N242 Suzuki",
+    "et": "PhotochemicalInjury",
+    "off": 23114,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N242 Suzuki",
+    "et": "PhotochemicalInjury",
+    "off": 23899,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N242 Suzuki",
+    "et": "Cervical",
+    "off": 94,
+    "sff": "cervical"
+  }
+]

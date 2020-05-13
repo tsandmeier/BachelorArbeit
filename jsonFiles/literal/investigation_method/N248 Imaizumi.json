@@ -1,0 +1,194 @@
+[
+  {
+    "docID": "N248 Imaizumi",
+    "et": "ProteinLevelAnalysis",
+    "off": 25375,
+    "sff": "level"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "ScarringTest",
+    "off": 24291,
+    "sff": "expression"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "ElectrophysiologyTest",
+    "off": 771,
+    "sff": "Conduction velocity"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "AxonalChangesTest",
+    "off": 2615,
+    "sff": "axons"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "AxonalChangesTest",
+    "off": 832,
+    "sff": "axons"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "AstrogliosisTest",
+    "off": 24676,
+    "sff": "immunofluorescence"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "AxonalChangesTest",
+    "off": 1192,
+    "sff": "axonal"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "MyelinationTest",
+    "off": 1216,
+    "sff": "remyelination"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 27698,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "HistologicalInvestigationTest",
+    "off": 24331,
+    "sff": "immunofluorescence"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "AngiogenesisTest",
+    "off": 24331,
+    "sff": "immunofluorescence"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "AxonalChangesTest",
+    "off": 2203,
+    "sff": "axonal"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "BBBTest",
+    "off": 26801,
+    "sff": "modified"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "ScarringTest",
+    "off": 25098,
+    "sff": "expression"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "AxonalChangesTest",
+    "off": 914,
+    "sff": "axons"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "HistologicalInvestigationTest",
+    "off": 24676,
+    "sff": "immunofluorescence"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "AstrogliosisTest",
+    "off": 1750,
+    "sff": "activation"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "NeuronalChangesTest",
+    "off": 1082,
+    "sff": "cells"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "AxonalChangesTest",
+    "off": 76,
+    "sff": "axonal"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "AstrogliosisTest",
+    "off": 24331,
+    "sff": "immunofluorescence"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "TissueSparingTest",
+    "off": 23868,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "NeuronalChangesTest",
+    "off": 2105,
+    "sff": "cells"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "TissueSparingTest",
+    "off": 28406,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "AngiogenesisTest",
+    "off": 24676,
+    "sff": "immunofluorescence"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "ApoptosisTest",
+    "off": 24024,
+    "sff": "activity"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "NeuronalChangesTest",
+    "off": 24097,
+    "sff": "cells"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "BladderFunctionTest",
+    "off": 28152,
+    "sff": "retained"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "HindpawSensationTest",
+    "off": 28255,
+    "sff": "sensory"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "HindpawSensationTest",
+    "off": 27393,
+    "sff": "responses"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "AxonalChangesTest",
+    "off": 2554,
+    "sff": "axonal"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "AxonalSproutingTest",
+    "off": 28255,
+    "sff": "sensory"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "LadderRungTest",
+    "off": 24024,
+    "sff": "activity"
+  }
+]

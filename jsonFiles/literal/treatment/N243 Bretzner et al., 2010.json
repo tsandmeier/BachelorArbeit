@@ -1,0 +1,80 @@
+[
+  {
+    "docID": "N243 Bretzner et al., 2010",
+    "et": "Vehicle",
+    "off": 14719,
+    "sff": "vehicle solution"
+  },
+  {
+    "docID": "N243 Bretzner et al., 2010",
+    "et": "Vehicle",
+    "off": 14625,
+    "sff": "vehicle solution"
+  },
+  {
+    "docID": "N243 Bretzner et al., 2010",
+    "et": "Vehicle",
+    "off": 13856,
+    "sff": "vehicle solution"
+  },
+  {
+    "docID": "N243 Bretzner et al., 2010",
+    "et": "Rostral",
+    "off": 12609,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N243 Bretzner et al., 2010",
+    "et": "Vehicle",
+    "off": 13978,
+    "sff": "vehicle solution"
+  },
+  {
+    "docID": "N243 Bretzner et al., 2010",
+    "et": "InjectionDelivery",
+    "off": 12868,
+    "sff": "injected"
+  },
+  {
+    "docID": "N243 Bretzner et al., 2010",
+    "et": "InfusionDelivery",
+    "off": 13305,
+    "sff": "infused"
+  },
+  {
+    "docID": "N243 Bretzner et al., 2010",
+    "et": "Rostral",
+    "off": 30461,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N243 Bretzner et al., 2010",
+    "et": "Rostral",
+    "off": 32217,
+    "sff": "rostrally"
+  },
+  {
+    "docID": "N243 Bretzner et al., 2010",
+    "et": "InjectionDelivery",
+    "off": 18043,
+    "sff": "injected"
+  },
+  {
+    "docID": "N243 Bretzner et al., 2010",
+    "et": "Rostral",
+    "off": 43377,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N243 Bretzner et al., 2010",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 2595,
+    "sff": "OECs"
+  },
+  {
+    "docID": "N243 Bretzner et al., 2010",
+    "et": "Caudal",
+    "off": 12621,
+    "sff": "caudal"
+  }
+]

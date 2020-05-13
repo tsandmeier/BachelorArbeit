@@ -1,0 +1,194 @@
+[
+  {
+    "docID": "N221 Takami 2002",
+    "et": "AstrogliosisTest",
+    "off": 33069,
+    "sff": "GFAP staining"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "AxonalChangesTest",
+    "off": 24171,
+    "sff": "number of FB-labeled neurons"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "TissueSparingTest",
+    "off": 27884,
+    "sff": "spinal tissue sparing"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "AxonalChangesTest",
+    "off": 24337,
+    "sff": "total number of FB-labeled neurons"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "AxonalChangesTest",
+    "off": 23963,
+    "sff": "total number of FB-labeled neurons"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "TissueSparingTest",
+    "off": 27196,
+    "sff": "volume of spared tissue"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "AstrogliosisTest",
+    "off": 22531,
+    "sff": "reactive"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "AngiogenesisTest",
+    "off": 30062,
+    "sff": "number of blood vessels"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "AstrogliosisTest",
+    "off": 22679,
+    "sff": "GFAP"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "AxonalRegenerationTest",
+    "off": 36096,
+    "sff": "FB-labeled neurons"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "AstrogliosisTest",
+    "off": 30762,
+    "sff": "astrocytic processes"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "AstrogliosisTest",
+    "off": 33163,
+    "sff": "GFAP"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "AstrogliosisTest",
+    "off": 30062,
+    "sff": "number"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "TissueSparingTest",
+    "off": 27587,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "AstrogliosisTest",
+    "off": 22861,
+    "sff": "GFAP"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "AxonalChangesTest",
+    "off": 24165,
+    "sff": "total number of FB-labeled neurons"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "TissueSparingTest",
+    "off": 27439,
+    "sff": "volume of spared tissue"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "AstrogliosisTest",
+    "off": 32140,
+    "sff": "processes"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "AstrogliosisTest",
+    "off": 22861,
+    "sff": "GFAP staining"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "AstrogliosisTest",
+    "off": 33163,
+    "sff": "GFAP staining"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "AstrogliosisTest",
+    "off": 33353,
+    "sff": "GFAP staining"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "AstrogliosisTest",
+    "off": 33292,
+    "sff": "GFAP reactivity"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "AxonalChangesTest",
+    "off": 35753,
+    "sff": "total number of FB-labeled neurons"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "AstrogliosisTest",
+    "off": 22679,
+    "sff": "GFAP staining"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "TissueSparingTest",
+    "off": 28214,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "AxonalChangesTest",
+    "off": 36080,
+    "sff": "total number of FB-labeled neurons"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "AxonalChangesTest",
+    "off": 15585,
+    "sff": "number of FB-labeled neurons"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "AstrogliosisTest",
+    "off": 32938,
+    "sff": "reactive"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "AstrogliosisTest",
+    "off": 30762,
+    "sff": "astrocytic"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "TissueSparingTest",
+    "off": 27034,
+    "sff": "volume of spared tissue"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "AstrogliosisTest",
+    "off": 33069,
+    "sff": "GFAP"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "TissueSparingTest",
+    "off": 27580,
+    "sff": "spared tissue"
+  }
+]

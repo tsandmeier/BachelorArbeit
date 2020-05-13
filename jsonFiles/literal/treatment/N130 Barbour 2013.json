@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "InjectionDelivery",
+    "off": 13989,
+    "sff": "injected"
+  },
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "SchwannCell",
+    "off": 327,
+    "sff": "SCs"
+  },
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "Rostral",
+    "off": 27574,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "InjectionDelivery",
+    "off": 11704,
+    "sff": "injected"
+  },
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "InjectionDelivery",
+    "off": 10872,
+    "sff": "injected"
+  },
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 304,
+    "sff": "OEG"
+  },
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "Rostral",
+    "off": 19839,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "Rostral",
+    "off": 29729,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "Rostral",
+    "off": 35183,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "Rostral",
+    "off": 21405,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "DosageExtracorporal",
+    "off": 11623,
+    "sff": "5 × 105"
+  },
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "InjectionDelivery",
+    "off": 13715,
+    "sff": "injected"
+  }
+]

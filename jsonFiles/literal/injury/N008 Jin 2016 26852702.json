@@ -1,0 +1,68 @@
+[
+  {
+    "docID": "N008 Jin 2016 26852702",
+    "et": "WeightDrop",
+    "off": 34262,
+    "sff": "weight"
+  },
+  {
+    "docID": "N008 Jin 2016 26852702",
+    "et": "VertebralArea",
+    "off": 36000,
+    "sff": "levels"
+  },
+  {
+    "docID": "N008 Jin 2016 26852702",
+    "et": "LateralHemisection",
+    "off": 27201,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N008 Jin 2016 26852702",
+    "et": "LateralHemisection",
+    "off": 26914,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N008 Jin 2016 26852702",
+    "et": "Contusion",
+    "off": 508,
+    "sff": "contusion injury"
+  },
+  {
+    "docID": "N008 Jin 2016 26852702",
+    "et": "PhotochemicalInjury",
+    "off": 34946,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N008 Jin 2016 26852702",
+    "et": "Contusion",
+    "off": 508,
+    "sff": "contusion"
+  },
+  {
+    "docID": "N008 Jin 2016 26852702",
+    "et": "VertebralArea",
+    "off": 33161,
+    "sff": "levels"
+  },
+  {
+    "docID": "N008 Jin 2016 26852702",
+    "et": "LateralHemisection",
+    "off": 27305,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N008 Jin 2016 26852702",
+    "et": "WeightDrop",
+    "off": 34300,
+    "sff": "weight"
+  },
+  {
+    "docID": "N008 Jin 2016 26852702",
+    "et": "T10",
+    "off": 802,
+    "sff": "T10"
+  }
+]

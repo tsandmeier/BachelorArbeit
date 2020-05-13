@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 8707,
+    "sff": "OEC suspension"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "Direction",
+    "off": 8747,
+    "sff": "midline"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "Cell",
+    "off": 11455,
+    "sff": "skin"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "Rostral",
+    "off": 9263,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "TreadmillTraining",
+    "off": 22295,
+    "sff": "hindlimb"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "RingersSolution",
+    "off": 7825,
+    "sff": "solution"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "RehabilitativeTraining",
+    "off": 11526,
+    "sff": "motion"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "Vehicle",
+    "off": 7087,
+    "sff": "DMEM"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "DosageExtracorporal",
+    "off": 9008,
+    "sff": "1 million cells"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "DeliveryMethod",
+    "off": 18697,
+    "sff": "transferred"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "Caudal",
+    "off": 9290,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "InjectionDelivery",
+    "off": 8693,
+    "sff": "Injections"
+  }
+]

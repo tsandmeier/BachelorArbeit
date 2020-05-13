@@ -1,0 +1,80 @@
+[
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "InjectionDelivery",
+    "off": 8347,
+    "sff": "injected"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "InjectionDelivery",
+    "off": 8827,
+    "sff": "injected"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "Vehicle",
+    "off": 8862,
+    "sff": "DMEM"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "InjectionDelivery",
+    "off": 14797,
+    "sff": "injected"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "Rostral",
+    "off": 8589,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "SchwannCell",
+    "off": 442,
+    "sff": "SCs"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 417,
+    "sff": "OECs"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "InjectionDelivery",
+    "off": 8477,
+    "sff": "injected"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "Caudal",
+    "off": 8601,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 8336,
+    "sff": "OECs"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "DosageExtracorporal",
+    "off": 13898,
+    "sff": "1 ml"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "DosageExtracorporal",
+    "off": 7890,
+    "sff": "60,000"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "InjectionDelivery",
+    "off": 7473,
+    "sff": "intraperitoneal"
+  }
+]

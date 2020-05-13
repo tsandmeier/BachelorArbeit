@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N220 Ruitenberg 2003",
+    "et": "Saline",
+    "off": 15043,
+    "sff": "saline"
+  },
+  {
+    "docID": "N220 Ruitenberg 2003",
+    "et": "InjectionDelivery",
+    "off": 14265,
+    "sff": "intraperitoneal"
+  },
+  {
+    "docID": "N220 Ruitenberg 2003",
+    "et": "Direction",
+    "off": 20204,
+    "sff": "proximal"
+  },
+  {
+    "docID": "N220 Ruitenberg 2003",
+    "et": "DosageExtracorporal",
+    "off": 49186,
+    "sff": "105"
+  },
+  {
+    "docID": "N220 Ruitenberg 2003",
+    "et": "InjectionDelivery",
+    "off": 20172,
+    "sff": "injected"
+  },
+  {
+    "docID": "N220 Ruitenberg 2003",
+    "et": "RingersSolution",
+    "off": 26499,
+    "sff": "solution"
+  },
+  {
+    "docID": "N220 Ruitenberg 2003",
+    "et": "Saline",
+    "off": 26366,
+    "sff": "saline"
+  },
+  {
+    "docID": "N220 Ruitenberg 2003",
+    "et": "RingersSolution",
+    "off": 27781,
+    "sff": "solution"
+  },
+  {
+    "docID": "N220 Ruitenberg 2003",
+    "et": "DosageExtracorporal",
+    "off": 20290,
+    "sff": "Each injection delivered 105 cells"
+  },
+  {
+    "docID": "N220 Ruitenberg 2003",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 964,
+    "sff": "OEG"
+  },
+  {
+    "docID": "N220 Ruitenberg 2003",
+    "et": "InjectionDelivery",
+    "off": 9139,
+    "sff": "intraperitoneal"
+  },
+  {
+    "docID": "N220 Ruitenberg 2003",
+    "et": "Vehicle",
+    "off": 30679,
+    "sff": "solution"
+  }
+]

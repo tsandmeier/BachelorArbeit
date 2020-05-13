@@ -1,0 +1,194 @@
+[
+  {
+    "docID": "N131 Boyd 2004",
+    "et": "AxonalRegenerationTest",
+    "off": 9934,
+    "sff": "immunopositive"
+  },
+  {
+    "docID": "N131 Boyd 2004",
+    "et": "AxonalSproutingTest",
+    "off": 12602,
+    "sff": "processes"
+  },
+  {
+    "docID": "N131 Boyd 2004",
+    "et": "AstrogliosisTest",
+    "off": 1601,
+    "sff": "processes"
+  },
+  {
+    "docID": "N131 Boyd 2004",
+    "et": "AxonalChangesTest",
+    "off": 13622,
+    "sff": "observed"
+  },
+  {
+    "docID": "N131 Boyd 2004",
+    "et": "AxonalRegenerationTest",
+    "off": 10627,
+    "sff": "immunopositive"
+  },
+  {
+    "docID": "N131 Boyd 2004",
+    "et": "HindpawSensationTest",
+    "off": 10382,
+    "sff": "sensory"
+  },
+  {
+    "docID": "N131 Boyd 2004",
+    "et": "AstrogliosisTest",
+    "off": 14157,
+    "sff": "processes"
+  },
+  {
+    "docID": "N131 Boyd 2004",
+    "et": "AxonalChangesTest",
+    "off": 13269,
+    "sff": "observed"
+  },
+  {
+    "docID": "N131 Boyd 2004",
+    "et": "AstrogliosisTest",
+    "off": 12687,
+    "sff": "processes"
+  },
+  {
+    "docID": "N131 Boyd 2004",
+    "et": "AxonalSproutingTest",
+    "off": 6774,
+    "sff": "processes"
+  },
+  {
+    "docID": "N131 Boyd 2004",
+    "et": "AxonalChangesTest",
+    "off": 15113,
+    "sff": "observed"
+  },
+  {
+    "docID": "N131 Boyd 2004",
+    "et": "AxonalChangesTest",
+    "off": 15400,
+    "sff": "axonal"
+  },
+  {
+    "docID": "N131 Boyd 2004",
+    "et": "AxonalRegenerationTest",
+    "off": 9685,
+    "sff": "immunopositive"
+  },
+  {
+    "docID": "N131 Boyd 2004",
+    "et": "AxonalSproutingTest",
+    "off": 13488,
+    "sff": "processes"
+  },
+  {
+    "docID": "N131 Boyd 2004",
+    "et": "AxonalChangesTest",
+    "off": 14539,
+    "sff": "observed"
+  },
+  {
+    "docID": "N131 Boyd 2004",
+    "et": "AxonalSproutingTest",
+    "off": 9949,
+    "sff": "processes"
+  },
+  {
+    "docID": "N131 Boyd 2004",
+    "et": "TissueSparingTest",
+    "off": 9917,
+    "sff": "amount"
+  },
+  {
+    "docID": "N131 Boyd 2004",
+    "et": "AxonalSproutingTest",
+    "off": 7718,
+    "sff": "processes"
+  },
+  {
+    "docID": "N131 Boyd 2004",
+    "et": "AxonalSproutingTest",
+    "off": 9700,
+    "sff": "processes"
+  },
+  {
+    "docID": "N131 Boyd 2004",
+    "et": "AxonalSproutingTest",
+    "off": 10148,
+    "sff": "processes"
+  },
+  {
+    "docID": "N131 Boyd 2004",
+    "et": "AxonalSproutingTest",
+    "off": 8164,
+    "sff": "processes"
+  },
+  {
+    "docID": "N131 Boyd 2004",
+    "et": "AxonalChangesTest",
+    "off": 8595,
+    "sff": "axons"
+  },
+  {
+    "docID": "N131 Boyd 2004",
+    "et": "AxonalSproutingTest",
+    "off": 14157,
+    "sff": "processes"
+  },
+  {
+    "docID": "N131 Boyd 2004",
+    "et": "AxonalChangesTest",
+    "off": 78,
+    "sff": "axons"
+  },
+  {
+    "docID": "N131 Boyd 2004",
+    "et": "AstrogliosisTest",
+    "off": 13488,
+    "sff": "processes"
+  },
+  {
+    "docID": "N131 Boyd 2004",
+    "et": "AxonalSproutingTest",
+    "off": 15175,
+    "sff": "processes"
+  },
+  {
+    "docID": "N131 Boyd 2004",
+    "et": "ProteinLevelAnalysis",
+    "off": 13141,
+    "sff": "level"
+  },
+  {
+    "docID": "N131 Boyd 2004",
+    "et": "AxonalChangesTest",
+    "off": 14023,
+    "sff": "axons"
+  },
+  {
+    "docID": "N131 Boyd 2004",
+    "et": "AxonalChangesTest",
+    "off": 6951,
+    "sff": "observed"
+  },
+  {
+    "docID": "N131 Boyd 2004",
+    "et": "AxonalChangesTest",
+    "off": 14598,
+    "sff": "axons"
+  },
+  {
+    "docID": "N131 Boyd 2004",
+    "et": "AxonalSproutingTest",
+    "off": 10642,
+    "sff": "processes"
+  },
+  {
+    "docID": "N131 Boyd 2004",
+    "et": "AxonalSproutingTest",
+    "off": 12687,
+    "sff": "processes"
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "docID": "N182 Moon 2006",
+    "et": "BBBTest",
+    "off": 29575,
+    "sff": "group scores"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 29689,
+    "sff": "mean"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "HindpawSensationTest",
+    "off": 32303,
+    "sff": "sensory"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "HindpawSensationTest",
+    "off": 31905,
+    "sff": "sensory"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "AutomatedGaitAnalysis",
+    "off": 31589,
+    "sff": "length"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 32139,
+    "sff": "sensory"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "BBBTest",
+    "off": 28758,
+    "sff": "group mean scores"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "AxonalSproutingTest",
+    "off": 31905,
+    "sff": "sensory"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "LocomotorTest",
+    "off": 30566,
+    "sff": "instances of crawling"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 27949,
+    "sff": "mean"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "AxonalChangesTest",
+    "off": 23832,
+    "sff": "serotonergic"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "AxonalSproutingTest",
+    "off": 14251,
+    "sff": "sensory"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "BBBTest",
+    "off": 27433,
+    "sff": "hindlimb scores"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "LadderRungTest",
+    "off": 12343,
+    "sff": "stepping"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "AutomatedGaitAnalysis",
+    "off": 9467,
+    "sff": "length"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "HindpawSensationTest",
+    "off": 32139,
+    "sff": "sensory"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "BBBTest",
+    "off": 28645,
+    "sff": "group scores"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "BBBTest",
+    "off": 29683,
+    "sff": "group mean scores"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 28764,
+    "sff": "mean"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "InclinedPlaneTest",
+    "off": 13152,
+    "sff": "climbing"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "HistologicalInvestigationTest",
+    "off": 19150,
+    "sff": "profiles"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 14251,
+    "sff": "sensory"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "AutomatedGaitAnalysis",
+    "off": 6726,
+    "sff": "length"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "BBBTest",
+    "off": 27516,
+    "sff": "hindlimb scores"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "LesionVolumeTest",
+    "off": 19082,
+    "sff": "formation"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "AxonalChangesTest",
+    "off": 23298,
+    "sff": "serotonergic"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "AxonalRegenerationTest",
+    "off": 1407,
+    "sff": "immunolabeling"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "AxonalChangesTest",
+    "off": 2112,
+    "sff": "serotonergic"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 29315,
+    "sff": "mean"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "BBBTest",
+    "off": 26884,
+    "sff": "hindlimb scores"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "AxonalSproutingTest",
+    "off": 32139,
+    "sff": "sensory"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "AxonalChangesTest",
+    "off": 31076,
+    "sff": "numbers of axons"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "AxonalRegenerationTest",
+    "off": 15667,
+    "sff": "immunolabeling"
+  }
+]

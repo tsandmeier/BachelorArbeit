@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "InjectionDelivery",
+    "off": 9757,
+    "sff": "intraperitoneal"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Vehicle",
+    "off": 11121,
+    "sff": "medium"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "CyclosporineA",
+    "off": 10998,
+    "sff": "cyclosporine"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Vehicle",
+    "off": 11116,
+    "sff": "DMEM medium"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 441,
+    "sff": "OEC"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "DosageExtracorporal",
+    "off": 11174,
+    "sff": "1 × 106"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "InjectionDelivery",
+    "off": 11376,
+    "sff": "injected"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "InjectionDelivery",
+    "off": 11022,
+    "sff": "SC"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "DosageExtracorporal",
+    "off": 11254,
+    "sff": "106"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "Vehicle",
+    "off": 11116,
+    "sff": "DMEM"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "DosageExtracorporal",
+    "off": 11250,
+    "sff": "1 × 106"
+  },
+  {
+    "docID": "N253 Salehi 2009",
+    "et": "DosageExtracorporal",
+    "off": 11203,
+    "sff": "1 × 106"
+  }
+]

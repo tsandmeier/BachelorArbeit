@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "InjectionDelivery",
+    "off": 5809,
+    "sff": "injected"
+  },
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "DosageExtracorporal",
+    "off": 9664,
+    "sff": "3 × 105"
+  },
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "DosageExtracorporal",
+    "off": 13392,
+    "sff": "3 × 105"
+  },
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "InjectionDelivery",
+    "off": 13999,
+    "sff": "injected"
+  },
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "InjectionDelivery",
+    "off": 10476,
+    "sff": "intraperitoneally"
+  },
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "CyclosporineA",
+    "off": 10403,
+    "sff": "Cyclosporine"
+  },
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "DosageExtracorporal",
+    "off": 1006,
+    "sff": "3 × 105"
+  },
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "InjectionDelivery",
+    "off": 9691,
+    "sff": "injected"
+  },
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "DosageExtracorporal",
+    "off": 10040,
+    "sff": "3 × 105"
+  },
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "InjectionDelivery",
+    "off": 25289,
+    "sff": "injected"
+  },
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "DosageExtracorporal",
+    "off": 10056,
+    "sff": "3 × 105"
+  },
+  {
+    "docID": "N075 Amemori 2010",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 547,
+    "sff": "OEG"
+  }
+]

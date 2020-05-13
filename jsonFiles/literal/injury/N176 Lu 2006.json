@@ -1,0 +1,80 @@
+[
+  {
+    "docID": "N176 Lu 2006",
+    "et": "C4",
+    "off": 14241,
+    "sff": "C4"
+  },
+  {
+    "docID": "N176 Lu 2006",
+    "et": "Xylazine",
+    "off": 9683,
+    "sff": "rompun"
+  },
+  {
+    "docID": "N176 Lu 2006",
+    "et": "Anaesthetic",
+    "off": 9706,
+    "sff": "acepromazine"
+  },
+  {
+    "docID": "N176 Lu 2006",
+    "et": "Blade",
+    "off": 9915,
+    "sff": "knife"
+  },
+  {
+    "docID": "N176 Lu 2006",
+    "et": "C4",
+    "off": 777,
+    "sff": "C4"
+  },
+  {
+    "docID": "N176 Lu 2006",
+    "et": "KetamineAsAnaesthetic",
+    "off": 9662,
+    "sff": "ketamine"
+  },
+  {
+    "docID": "N176 Lu 2006",
+    "et": "T10",
+    "off": 37970,
+    "sff": "10"
+  },
+  {
+    "docID": "N176 Lu 2006",
+    "et": "ScoutenWireKnife",
+    "off": 14258,
+    "sff": "wire knife"
+  },
+  {
+    "docID": "N176 Lu 2006",
+    "et": "DorsalHemisection",
+    "off": 9781,
+    "sff": "dorsal column wireknife lesion"
+  },
+  {
+    "docID": "N176 Lu 2006",
+    "et": "ScoutenWireKnife",
+    "off": 10110,
+    "sff": "knife"
+  },
+  {
+    "docID": "N176 Lu 2006",
+    "et": "PartialTransection",
+    "off": 29252,
+    "sff": "transect"
+  },
+  {
+    "docID": "N176 Lu 2006",
+    "et": "ScoutenWireKnife",
+    "off": 9795,
+    "sff": "wireknife"
+  },
+  {
+    "docID": "N176 Lu 2006",
+    "et": "ScoutenWireKnife",
+    "off": 9915,
+    "sff": "knife"
+  }
+]

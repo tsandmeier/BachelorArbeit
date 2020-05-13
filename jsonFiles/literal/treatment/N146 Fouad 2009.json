@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N146 Fouad 2009",
+    "et": "SchwannCell",
+    "off": 1051,
+    "sff": "Schwann cells"
+  },
+  {
+    "docID": "N146 Fouad 2009",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 1103,
+    "sff": "olfactory"
+  },
+  {
+    "docID": "N146 Fouad 2009",
+    "et": "Saline",
+    "off": 8345,
+    "sff": "saline"
+  },
+  {
+    "docID": "N146 Fouad 2009",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 5141,
+    "sff": "olfactory ensheathing glia"
+  },
+  {
+    "docID": "N146 Fouad 2009",
+    "et": "ChondroitinaseABC",
+    "off": 6217,
+    "sff": "Chondroitinase ABC"
+  },
+  {
+    "docID": "N146 Fouad 2009",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 1125,
+    "sff": "glia"
+  },
+  {
+    "docID": "N146 Fouad 2009",
+    "et": "Matrix",
+    "off": 1229,
+    "sff": "Matrigel"
+  },
+  {
+    "docID": "N146 Fouad 2009",
+    "et": "ChondroitinaseABC",
+    "off": 6217,
+    "sff": "Chondroitinase"
+  },
+  {
+    "docID": "N146 Fouad 2009",
+    "et": "Conduit",
+    "off": 1084,
+    "sff": "guidance channels"
+  },
+  {
+    "docID": "N146 Fouad 2009",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 1103,
+    "sff": "olfactory ensheathing glia"
+  },
+  {
+    "docID": "N146 Fouad 2009",
+    "et": "Saline",
+    "off": 7791,
+    "sff": "saline"
+  },
+  {
+    "docID": "N146 Fouad 2009",
+    "et": "RingersSolution",
+    "off": 5826,
+    "sff": "solution"
+  }
+]

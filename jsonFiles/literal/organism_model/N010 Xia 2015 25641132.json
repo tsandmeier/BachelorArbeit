@@ -1,0 +1,308 @@
+[
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "SpragueDawleyRat",
+    "off": 9949,
+    "sff": "SD"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "LongEvansRat",
+    "off": 5598,
+    "sff": "rats"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "SpragueDawleyRat",
+    "off": 8805,
+    "sff": "rats"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "WistarRat",
+    "off": 17667,
+    "sff": "rats"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "SpragueDawleyRat",
+    "off": 5598,
+    "sff": "rats"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "Weight",
+    "off": 675,
+    "sff": "g"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "SpragueDawleyRat",
+    "off": 17120,
+    "sff": "rats"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "Female",
+    "off": 5576,
+    "sff": "Female"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "Weight",
+    "off": 683,
+    "sff": "g"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "SpragueDawleyRat",
+    "off": 16857,
+    "sff": "rats"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "SpragueDawleyRat",
+    "off": 17625,
+    "sff": "rats"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "Age",
+    "off": 14599,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "WistarRat",
+    "off": 17066,
+    "sff": "rats"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "Age",
+    "off": 7433,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "SpragueDawleyRat",
+    "off": 5583,
+    "sff": "Sprague-Dawley rats"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "WistarRat",
+    "off": 16959,
+    "sff": "rats"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "SpragueDawleyRat",
+    "off": 17667,
+    "sff": "rats"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "WistarRat",
+    "off": 9269,
+    "sff": "rats"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "WistarRat",
+    "off": 16567,
+    "sff": "rats"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "WistarRat",
+    "off": 312,
+    "sff": "rats"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "LewisRat",
+    "off": 5598,
+    "sff": "rats"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "Age",
+    "off": 8769,
+    "sff": "2.5"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "SpragueDawleyRat",
+    "off": 5583,
+    "sff": "Sprague-Dawley"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "RatSpecies",
+    "off": 312,
+    "sff": "rats"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "Weight",
+    "off": 5620,
+    "sff": "g"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "WistarRat",
+    "off": 5598,
+    "sff": "rats"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "SpragueDawleyRat",
+    "off": 7453,
+    "sff": "rats"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "WistarRat",
+    "off": 16736,
+    "sff": "rats"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "WistarRat",
+    "off": 16857,
+    "sff": "rats"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "WistarRat",
+    "off": 17625,
+    "sff": "rats"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "Adult",
+    "off": 1121,
+    "sff": "adult"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "RatSpecies",
+    "off": 6729,
+    "sff": "rats"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "ListerHoodedRat",
+    "off": 5598,
+    "sff": "rats"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "Weight",
+    "off": 5612,
+    "sff": "250"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "WistarRat",
+    "off": 17489,
+    "sff": "rats"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "FischerRat",
+    "off": 5598,
+    "sff": "rats"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "Age",
+    "off": 9232,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "RatSpecies",
+    "off": 5598,
+    "sff": "rats"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "RatSpecies",
+    "off": 16857,
+    "sff": "rats"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "SpragueDawleyRat",
+    "off": 17489,
+    "sff": "rats"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "Weight",
+    "off": 5616,
+    "sff": "300"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "WistarRat",
+    "off": 8805,
+    "sff": "rats"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "SpragueDawleyRat",
+    "off": 6853,
+    "sff": "rats"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "SpragueDawleyRat",
+    "off": 6729,
+    "sff": "rats"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "SpragueDawleyRat",
+    "off": 16959,
+    "sff": "rats"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "Weight",
+    "off": 12906,
+    "sff": "200"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "WistarRat",
+    "off": 892,
+    "sff": "rats"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "SpragueDawleyRat",
+    "off": 16567,
+    "sff": "rats"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "Age",
+    "off": 6596,
+    "sff": "days"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "SpragueDawleyRat",
+    "off": 312,
+    "sff": "rats"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "Age",
+    "off": 17329,
+    "sff": "weeks"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "DosageExtracorporal",
+    "off": 8518,
+    "sff": "x10"
+  },
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "DosageExtracorporal",
+    "off": 7786,
+    "sff": "1"
+  },
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "InjectionDelivery",
+    "off": 10067,
+    "sff": "injected"
+  },
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "InjectionDelivery",
+    "off": 4163,
+    "sff": "injected"
+  },
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "InjectionDelivery",
+    "off": 785,
+    "sff": "injected"
+  },
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "Vehicle",
+    "off": 4238,
+    "sff": "culture medium"
+  },
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 341,
+    "sff": "OEC"
+  },
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "DeliveryMethod",
+    "off": 7038,
+    "sff": "transferred"
+  },
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "Vehicle",
+    "off": 5578,
+    "sff": "solution"
+  },
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "DosageExtracorporal",
+    "off": 9035,
+    "sff": "x10"
+  },
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "Vehicle",
+    "off": 4246,
+    "sff": "medium"
+  }
+]

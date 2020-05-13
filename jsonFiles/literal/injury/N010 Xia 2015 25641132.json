@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "LateralHemisection",
+    "off": 14006,
+    "sff": "hemisection"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "CuttingDevice",
+    "off": 5838,
+    "sff": "micro-scalpel"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "NYUImpactor",
+    "off": 5283,
+    "sff": "University"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "LateralHemisection",
+    "off": 7059,
+    "sff": "lateral"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "SodiumPentobarbital",
+    "off": 5804,
+    "sff": "pentobarbital"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "LateralHemisection",
+    "off": 10193,
+    "sff": "hemisection"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "SodiumPentobarbital",
+    "off": 5797,
+    "sff": "sodium pentobarbital"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "LateralHemisection",
+    "off": 5550,
+    "sff": "hemisection"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "LateralHemisection",
+    "off": 13981,
+    "sff": "hemisection"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "LateralHemisection",
+    "off": 9084,
+    "sff": "hemisection"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "LateralHemisection",
+    "off": 10394,
+    "sff": "hemisection"
+  },
+  {
+    "docID": "N010 Xia 2015 25641132",
+    "et": "PartialTransection",
+    "off": 5864,
+    "sff": "transect"
+  }
+]

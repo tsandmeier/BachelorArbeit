@@ -1,0 +1,200 @@
+[
+  {
+    "docID": "N175 L+¦pez-Vales2006 2",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 12665,
+    "sff": "withdrawal time"
+  },
+  {
+    "docID": "N175 L+¦pez-Vales2006 2",
+    "et": "TissueSparingTest",
+    "off": 13609,
+    "sff": "spared"
+  },
+  {
+    "docID": "N175 L+¦pez-Vales2006 2",
+    "et": "AxonalSproutingTest",
+    "off": 11069,
+    "sff": "density"
+  },
+  {
+    "docID": "N175 L+¦pez-Vales2006 2",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 12320,
+    "sff": "withdrawal latency"
+  },
+  {
+    "docID": "N175 L+¦pez-Vales2006 2",
+    "et": "AstrogliosisTest",
+    "off": 8297,
+    "sff": "reactive"
+  },
+  {
+    "docID": "N175 L+¦pez-Vales2006 2",
+    "et": "AxonalSproutingTest",
+    "off": 8078,
+    "sff": "primary"
+  },
+  {
+    "docID": "N175 L+¦pez-Vales2006 2",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 12876,
+    "sff": "latency"
+  },
+  {
+    "docID": "N175 L+¦pez-Vales2006 2",
+    "et": "AngiogenesisTest",
+    "off": 14540,
+    "sff": "density of blood vessel profiles"
+  },
+  {
+    "docID": "N175 L+¦pez-Vales2006 2",
+    "et": "AngiogenesisTest",
+    "off": 15156,
+    "sff": "density of blood vessels"
+  },
+  {
+    "docID": "N175 L+¦pez-Vales2006 2",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 10120,
+    "sff": "latency"
+  },
+  {
+    "docID": "N175 L+¦pez-Vales2006 2",
+    "et": "TissueSparingTest",
+    "off": 13602,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N175 L+¦pez-Vales2006 2",
+    "et": "AxonalSproutingTest",
+    "off": 14764,
+    "sff": "density"
+  },
+  {
+    "docID": "N175 L+¦pez-Vales2006 2",
+    "et": "AstrogliosisTest",
+    "off": 10501,
+    "sff": "GFAP"
+  },
+  {
+    "docID": "N175 L+¦pez-Vales2006 2",
+    "et": "TissueSparingTest",
+    "off": 8410,
+    "sff": "amount"
+  },
+  {
+    "docID": "N175 L+¦pez-Vales2006 2",
+    "et": "AngiogenesisTest",
+    "off": 11069,
+    "sff": "density of blood vessel profiles"
+  },
+  {
+    "docID": "N175 L+¦pez-Vales2006 2",
+    "et": "TissueSparingTest",
+    "off": 13902,
+    "sff": "amount"
+  },
+  {
+    "docID": "N175 L+¦pez-Vales2006 2",
+    "et": "AngiogenesisTest",
+    "off": 14751,
+    "sff": "blood vessel density"
+  },
+  {
+    "docID": "N175 L+¦pez-Vales2006 2",
+    "et": "TissueSparingTest",
+    "off": 8428,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N175 L+¦pez-Vales2006 2",
+    "et": "TissueSparingTest",
+    "off": 13436,
+    "sff": "amount of preserved cord parenchyma"
+  },
+  {
+    "docID": "N175 L+¦pez-Vales2006 2",
+    "et": "AngiogenesisTest",
+    "off": 14888,
+    "sff": "density of blood vessel profiles"
+  },
+  {
+    "docID": "N175 L+¦pez-Vales2006 2",
+    "et": "TissueSparingTest",
+    "off": 8691,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N175 L+¦pez-Vales2006 2",
+    "et": "LesionVolumeTest",
+    "off": 14178,
+    "sff": "cavities"
+  },
+  {
+    "docID": "N175 L+¦pez-Vales2006 2",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 12331,
+    "sff": "latency"
+  },
+  {
+    "docID": "N175 L+¦pez-Vales2006 2",
+    "et": "AngiogenesisTest",
+    "off": 11287,
+    "sff": "density of blood vessels"
+  },
+  {
+    "docID": "N175 L+¦pez-Vales2006 2",
+    "et": "TissueSparingTest",
+    "off": 10708,
+    "sff": "spared"
+  },
+  {
+    "docID": "N175 L+¦pez-Vales2006 2",
+    "et": "AstrogliosisTest",
+    "off": 6486,
+    "sff": "measured"
+  },
+  {
+    "docID": "N175 L+¦pez-Vales2006 2",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 12316,
+    "sff": "paw withdrawal latency"
+  },
+  {
+    "docID": "N175 L+¦pez-Vales2006 2",
+    "et": "HistologicalInvestigationTest",
+    "off": 14912,
+    "sff": "profiles"
+  },
+  {
+    "docID": "N175 L+¦pez-Vales2006 2",
+    "et": "AngiogenesisTest",
+    "off": 11160,
+    "sff": "density of blood vessels"
+  },
+  {
+    "docID": "N175 L+¦pez-Vales2006 2",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 12463,
+    "sff": "latency"
+  },
+  {
+    "docID": "N175 L+¦pez-Vales2006 2",
+    "et": "TissueSparingTest",
+    "off": 8195,
+    "sff": "parenchyma"
+  },
+  {
+    "docID": "N175 L+¦pez-Vales2006 2",
+    "et": "TissueSparingTest",
+    "off": 8684,
+    "sff": "spared tissue"
+  },
+  {
+    "docID": "N175 L+¦pez-Vales2006 2",
+    "et": "TissueSparingTest",
+    "off": 14350,
+    "sff": "tissue"
+  }
+]

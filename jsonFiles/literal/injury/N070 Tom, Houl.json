@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N070 Tom, Houl",
+    "et": "PartialTransection",
+    "off": 3803,
+    "sff": "dorsal quadrant lesion"
+  },
+  {
+    "docID": "N070 Tom, Houl",
+    "et": "Isoflurane",
+    "off": 3660,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N070 Tom, Houl",
+    "et": "PartialTransection",
+    "off": 3803,
+    "sff": "dorsal"
+  },
+  {
+    "docID": "N070 Tom, Houl",
+    "et": "PartialTransection",
+    "off": 3819,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N070 Tom, Houl",
+    "et": "CompleteTransection",
+    "off": 3792,
+    "sff": "cord"
+  },
+  {
+    "docID": "N070 Tom, Houl",
+    "et": "C5",
+    "off": 3736,
+    "sff": "C5"
+  },
+  {
+    "docID": "N070 Tom, Houl",
+    "et": "C4",
+    "off": 3726,
+    "sff": "vertebra"
+  },
+  {
+    "docID": "N070 Tom, Houl",
+    "et": "DorsalHemisection",
+    "off": 3803,
+    "sff": "dorsal"
+  },
+  {
+    "docID": "N070 Tom, Houl",
+    "et": "AllenWeightDropDevice",
+    "off": 1236,
+    "sff": "technique"
+  },
+  {
+    "docID": "N070 Tom, Houl",
+    "et": "PartialTransection",
+    "off": 3810,
+    "sff": "quadrant"
+  },
+  {
+    "docID": "N070 Tom, Houl",
+    "et": "CompleteTransection",
+    "off": 3061,
+    "sff": "cord"
+  },
+  {
+    "docID": "N070 Tom, Houl",
+    "et": "VertebralArea",
+    "off": 3711,
+    "sff": "fifth"
+  }
+]

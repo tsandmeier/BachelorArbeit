@@ -1,0 +1,80 @@
+[
+  {
+    "docID": "N249 Khankan",
+    "et": "Rostral",
+    "off": 55552,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N249 Khankan",
+    "et": "Caudal",
+    "off": 13018,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N249 Khankan",
+    "et": "Rostral",
+    "off": 46723,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N249 Khankan",
+    "et": "Rostral",
+    "off": 18934,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N249 Khankan",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 2152,
+    "sff": "OEC"
+  },
+  {
+    "docID": "N249 Khankan",
+    "et": "Rostral",
+    "off": 42428,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N249 Khankan",
+    "et": "Rostral",
+    "off": 13006,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N249 Khankan",
+    "et": "InjectionDelivery",
+    "off": 12954,
+    "sff": "injected"
+  },
+  {
+    "docID": "N249 Khankan",
+    "et": "Rostral",
+    "off": 18023,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N249 Khankan",
+    "et": "Rostral",
+    "off": 45511,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N249 Khankan",
+    "et": "Rostral",
+    "off": 17485,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N249 Khankan",
+    "et": "Rostral",
+    "off": 17709,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N249 Khankan",
+    "et": "Rostral",
+    "off": 43018,
+    "sff": "rostral"
+  }
+]

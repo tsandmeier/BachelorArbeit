@@ -1,0 +1,194 @@
+[
+  {
+    "docID": "N192 Polentes 2004",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 50141,
+    "sff": "latency"
+  },
+  {
+    "docID": "N192 Polentes 2004",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 47005,
+    "sff": "latency"
+  },
+  {
+    "docID": "N192 Polentes 2004",
+    "et": "ApoptosisTest",
+    "off": 48724,
+    "sff": "activity"
+  },
+  {
+    "docID": "N192 Polentes 2004",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 31643,
+    "sff": "latency"
+  },
+  {
+    "docID": "N192 Polentes 2004",
+    "et": "AxonalSproutingTest",
+    "off": 8117,
+    "sff": "primary"
+  },
+  {
+    "docID": "N192 Polentes 2004",
+    "et": "SpinalCordEvokedPotentialsTest",
+    "off": 15697,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N192 Polentes 2004",
+    "et": "ApoptosisTest",
+    "off": 19725,
+    "sff": "activity"
+  },
+  {
+    "docID": "N192 Polentes 2004",
+    "et": "ApoptosisTest",
+    "off": 36045,
+    "sff": "activity"
+  },
+  {
+    "docID": "N192 Polentes 2004",
+    "et": "SpinalCordEvokedPotentialsTest",
+    "off": 28878,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N192 Polentes 2004",
+    "et": "SpinalCordEvokedPotentialsTest",
+    "off": 47274,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N192 Polentes 2004",
+    "et": "ApoptosisTest",
+    "off": 35365,
+    "sff": "activity"
+  },
+  {
+    "docID": "N192 Polentes 2004",
+    "et": "AxonalSproutingTest",
+    "off": 7482,
+    "sff": "primary"
+  },
+  {
+    "docID": "N192 Polentes 2004",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 29427,
+    "sff": "latency"
+  },
+  {
+    "docID": "N192 Polentes 2004",
+    "et": "SpinalCordEvokedPotentialsTest",
+    "off": 50910,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N192 Polentes 2004",
+    "et": "SpinalCordEvokedPotentialsTest",
+    "off": 31133,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N192 Polentes 2004",
+    "et": "ApoptosisTest",
+    "off": 49625,
+    "sff": "activity"
+  },
+  {
+    "docID": "N192 Polentes 2004",
+    "et": "ElectrophysiologyTest",
+    "off": 42551,
+    "sff": "phrenic nerves were recorded"
+  },
+  {
+    "docID": "N192 Polentes 2004",
+    "et": "SpinalCordEvokedPotentialsTest",
+    "off": 32415,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N192 Polentes 2004",
+    "et": "SpinalCordEvokedPotentialsTest",
+    "off": 28255,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N192 Polentes 2004",
+    "et": "AxonalRegenerationTest",
+    "off": 8517,
+    "sff": "immunolabeling"
+  },
+  {
+    "docID": "N192 Polentes 2004",
+    "et": "AxonalSproutingTest",
+    "off": 7509,
+    "sff": "primary"
+  },
+  {
+    "docID": "N192 Polentes 2004",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 47274,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N192 Polentes 2004",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 31807,
+    "sff": "latency"
+  },
+  {
+    "docID": "N192 Polentes 2004",
+    "et": "ApoptosisTest",
+    "off": 40045,
+    "sff": "activity"
+  },
+  {
+    "docID": "N192 Polentes 2004",
+    "et": "SpinalCordEvokedPotentialsTest",
+    "off": 50160,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N192 Polentes 2004",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 47005,
+    "sff": "latency"
+  },
+  {
+    "docID": "N192 Polentes 2004",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 51071,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N192 Polentes 2004",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 32415,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N192 Polentes 2004",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 39278,
+    "sff": "mechanical"
+  },
+  {
+    "docID": "N192 Polentes 2004",
+    "et": "ElectrophysiologyTest",
+    "off": 42370,
+    "sff": "intensity of the right diaphragm activity"
+  },
+  {
+    "docID": "N192 Polentes 2004",
+    "et": "AxonalSproutingTest",
+    "off": 6108,
+    "sff": "primary"
+  },
+  {
+    "docID": "N192 Polentes 2004",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 47255,
+    "sff": "latency"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Contusion",
+    "off": 107,
+    "sff": "contusion"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Scissors",
+    "off": 7288,
+    "sff": "microscissors"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "SodiumPentobarbital",
+    "off": 6645,
+    "sff": "pentobarbital"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "InjuryDevice",
+    "off": 16849,
+    "sff": "compression"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Dislocation",
+    "off": 25376,
+    "sff": "consequence"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "LateralHemisection",
+    "off": 28645,
+    "sff": "right hemisection"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "LateralHemisection",
+    "off": 29158,
+    "sff": "right hemisection"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Contusion",
+    "off": 6786,
+    "sff": "contused"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "InjuryDevice",
+    "off": 8031,
+    "sff": "compression"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "C4",
+    "off": 7029,
+    "sff": "vertebra"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Contusion",
+    "off": 6710,
+    "sff": "contusion"
+  }
+]

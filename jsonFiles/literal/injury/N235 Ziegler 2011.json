@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N235 Ziegler 2011",
+    "et": "ScoutenWireKnife",
+    "off": 18999,
+    "sff": "wire"
+  },
+  {
+    "docID": "N235 Ziegler 2011",
+    "et": "CompleteTransection",
+    "off": 4675,
+    "sff": "transected completely"
+  },
+  {
+    "docID": "N235 Ziegler 2011",
+    "et": "CompleteTransection",
+    "off": 4977,
+    "sff": "completely transected"
+  },
+  {
+    "docID": "N235 Ziegler 2011",
+    "et": "Isoflurane",
+    "off": 14702,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N235 Ziegler 2011",
+    "et": "CompleteTransection",
+    "off": 4686,
+    "sff": "completely"
+  },
+  {
+    "docID": "N235 Ziegler 2011",
+    "et": "CompleteTransection",
+    "off": 4977,
+    "sff": "completely"
+  },
+  {
+    "docID": "N235 Ziegler 2011",
+    "et": "Isoflurane",
+    "off": 4570,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N235 Ziegler 2011",
+    "et": "VertebralArea",
+    "off": 4843,
+    "sff": "T8 and T9"
+  },
+  {
+    "docID": "N235 Ziegler 2011",
+    "et": "T9",
+    "off": 4721,
+    "sff": "T9"
+  },
+  {
+    "docID": "N235 Ziegler 2011",
+    "et": "T8",
+    "off": 4718,
+    "sff": "T8"
+  },
+  {
+    "docID": "N235 Ziegler 2011",
+    "et": "T11",
+    "off": 8927,
+    "sff": "T11"
+  },
+  {
+    "docID": "N235 Ziegler 2011",
+    "et": "Scissors",
+    "off": 5004,
+    "sff": "micro-scissors"
+  }
+]

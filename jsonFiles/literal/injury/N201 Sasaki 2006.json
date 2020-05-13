@@ -1,0 +1,68 @@
+[
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "AllenWeightDropDevice",
+    "off": 5329,
+    "sff": "technique"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "Compression",
+    "off": 5551,
+    "sff": "funiculus"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "Compression",
+    "off": 5460,
+    "sff": "funiculus"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "T9",
+    "off": 5223,
+    "sff": "T9"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "SodiumPentobarbital",
+    "off": 9876,
+    "sff": "pentobarbital"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "LateralHemisection",
+    "off": 17544,
+    "sff": "lateral"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "LateralHemisection",
+    "off": 5460,
+    "sff": "funiculus"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "T9",
+    "off": 17282,
+    "sff": "T9"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "T9",
+    "off": 10048,
+    "sff": "T9"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "LightSource",
+    "off": 17928,
+    "sff": "optic"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "LateralHemisection",
+    "off": 5551,
+    "sff": "funiculus"
+  }
+]

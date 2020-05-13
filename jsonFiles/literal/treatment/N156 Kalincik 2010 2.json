@@ -1,0 +1,68 @@
+[
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "Rostral",
+    "off": 34613,
+    "sff": "rostrally"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "Rostral",
+    "off": 35126,
+    "sff": "rostrally"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "DeliveryMethod",
+    "off": 9112,
+    "sff": "inserted"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 7008,
+    "sff": "OECs"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "InjectionDelivery",
+    "off": 9464,
+    "sff": "intraperitoneally"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "Rostral",
+    "off": 28370,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "Rostral",
+    "off": 26293,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "Rostral",
+    "off": 34898,
+    "sff": "rostrally"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "Rostral",
+    "off": 34052,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 9674,
+    "sff": "OECs"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "Vehicle",
+    "off": 10017,
+    "sff": "DMEM"
+  }
+]

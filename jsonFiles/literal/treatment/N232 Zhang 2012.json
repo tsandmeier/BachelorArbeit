@@ -1,0 +1,68 @@
+[
+  {
+    "docID": "N232 Zhang 2012",
+    "et": "Direction",
+    "off": 12720,
+    "sff": "lateral"
+  },
+  {
+    "docID": "N232 Zhang 2012",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 22278,
+    "sff": "OEC"
+  },
+  {
+    "docID": "N232 Zhang 2012",
+    "et": "Tissue",
+    "off": 22274,
+    "sff": "LP"
+  },
+  {
+    "docID": "N232 Zhang 2012",
+    "et": "DosageExtracorporal",
+    "off": 16766,
+    "sff": "3"
+  },
+  {
+    "docID": "N232 Zhang 2012",
+    "et": "SchwannCell",
+    "off": 814,
+    "sff": "female"
+  },
+  {
+    "docID": "N232 Zhang 2012",
+    "et": "Rostral",
+    "off": 18053,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N232 Zhang 2012",
+    "et": "Rostral",
+    "off": 10150,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N232 Zhang 2012",
+    "et": "DosageExtracorporal",
+    "off": 19617,
+    "sff": "cells"
+  },
+  {
+    "docID": "N232 Zhang 2012",
+    "et": "DosageExtracorporal",
+    "off": 12612,
+    "sff": "400"
+  },
+  {
+    "docID": "N232 Zhang 2012",
+    "et": "DosageExtracorporal",
+    "off": 12134,
+    "sff": "cells"
+  },
+  {
+    "docID": "N232 Zhang 2012",
+    "et": "DosageExtracorporal",
+    "off": 22073,
+    "sff": "3"
+  }
+]

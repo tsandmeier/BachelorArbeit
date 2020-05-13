@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N179 Masgutova 2010",
+    "et": "Rostral",
+    "off": 5673,
+    "sff": "rostrally"
+  },
+  {
+    "docID": "N179 Masgutova 2010",
+    "et": "Rostral",
+    "off": 6186,
+    "sff": "rostrally"
+  },
+  {
+    "docID": "N179 Masgutova 2010",
+    "et": "Rostral",
+    "off": 4488,
+    "sff": "rostrally"
+  },
+  {
+    "docID": "N179 Masgutova 2010",
+    "et": "InjectionDelivery",
+    "off": 4424,
+    "sff": "injected"
+  },
+  {
+    "docID": "N179 Masgutova 2010",
+    "et": "DosageExtracorporal",
+    "off": 4381,
+    "sff": "200,000 cells in 5 μl"
+  },
+  {
+    "docID": "N179 Masgutova 2010",
+    "et": "RingersSolution",
+    "off": 4403,
+    "sff": "Ringer solution"
+  },
+  {
+    "docID": "N179 Masgutova 2010",
+    "et": "RingersSolution",
+    "off": 4410,
+    "sff": "solution"
+  },
+  {
+    "docID": "N179 Masgutova 2010",
+    "et": "Rostral",
+    "off": 9372,
+    "sff": "rostrally"
+  },
+  {
+    "docID": "N179 Masgutova 2010",
+    "et": "InjectionDelivery",
+    "off": 3838,
+    "sff": "intraperitoneally"
+  },
+  {
+    "docID": "N179 Masgutova 2010",
+    "et": "RingersSolution",
+    "off": 4403,
+    "sff": "Ringer"
+  },
+  {
+    "docID": "N179 Masgutova 2010",
+    "et": "Rostral",
+    "off": 523,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N179 Masgutova 2010",
+    "et": "RingersSolution",
+    "off": 4638,
+    "sff": "Ringer solution"
+  }
+]

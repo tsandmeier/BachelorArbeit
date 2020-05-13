@@ -1,0 +1,302 @@
+[
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "WistarRat",
+    "off": 10811,
+    "sff": "rats"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "LongEvansRat",
+    "off": 6799,
+    "sff": "rats"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "Age",
+    "off": 7247,
+    "sff": "days"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "Weight",
+    "off": 13249,
+    "sff": "mean"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "LongEvansRat",
+    "off": 9860,
+    "sff": "rats"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "RatSpecies",
+    "off": 10811,
+    "sff": "rats"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "WistarRat",
+    "off": 10951,
+    "sff": "rats"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "Age",
+    "off": 7908,
+    "sff": "2.5"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "Age",
+    "off": 7386,
+    "sff": "day"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "WistarRat",
+    "off": 10185,
+    "sff": "rats"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "Weight",
+    "off": 12374,
+    "sff": "mean"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "LongEvansRat",
+    "off": 12185,
+    "sff": "rats"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "Weight",
+    "off": 11092,
+    "sff": "mean"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "SpragueDawleyRat",
+    "off": 12185,
+    "sff": "rats"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "Weight",
+    "off": 5949,
+    "sff": "kg"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "FischerRat",
+    "off": 13656,
+    "sff": "rats"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "RatSpecies",
+    "off": 6799,
+    "sff": "rats"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "WistarRat",
+    "off": 12185,
+    "sff": "rats"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "LongEvansRat",
+    "off": 7338,
+    "sff": "rats"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "Weight",
+    "off": 15076,
+    "sff": "mean"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "RatSpecies",
+    "off": 12185,
+    "sff": "rats"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "SpragueDawleyRat",
+    "off": 9860,
+    "sff": "rats"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "Weight",
+    "off": 7707,
+    "sff": "200"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "Weight",
+    "off": 15724,
+    "sff": "mean"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "WistarRat",
+    "off": 7338,
+    "sff": "rats"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "LongEvansRat",
+    "off": 10811,
+    "sff": "rats"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "Age",
+    "off": 13823,
+    "sff": "days"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "RatSpecies",
+    "off": 7338,
+    "sff": "rats"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "Weight",
+    "off": 7714,
+    "sff": "kg"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "WistarRat",
+    "off": 6779,
+    "sff": "rats"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "WistarRat",
+    "off": 9860,
+    "sff": "rats"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "LongEvansRat",
+    "off": 10185,
+    "sff": "rats"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "Age",
+    "off": 11534,
+    "sff": "days"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "SpragueDawleyRat",
+    "off": 5858,
+    "sff": "rats"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "RatSpecies",
+    "off": 9860,
+    "sff": "rats"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "Weight",
+    "off": 10664,
+    "sff": "g"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "LongEvansRat",
+    "off": 13656,
+    "sff": "rats"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "SpragueDawleyRat",
+    "off": 13656,
+    "sff": "rats"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "WistarRat",
+    "off": 6799,
+    "sff": "rats"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "MouseSpecies",
+    "off": 6829,
+    "sff": "under"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "WistarRat",
+    "off": 13656,
+    "sff": "rats"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "SpragueDawleyRat",
+    "off": 10811,
+    "sff": "rats"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "SpragueDawleyRat",
+    "off": 10951,
+    "sff": "rats"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "WistarRat",
+    "off": 5858,
+    "sff": "rats"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "LongEvansRat",
+    "off": 13184,
+    "sff": "rats"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "WistarRat",
+    "off": 9198,
+    "sff": "rats"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "SpragueDawleyRat",
+    "off": 7338,
+    "sff": "rats"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "RatSpecies",
+    "off": 5858,
+    "sff": "rats"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "FischerRat",
+    "off": 13184,
+    "sff": "rats"
+  },
+  {
+    "docID": "N162 Lebedev 2010",
+    "et": "Weight",
+    "off": 10698,
+    "sff": "g"
+  }
+]

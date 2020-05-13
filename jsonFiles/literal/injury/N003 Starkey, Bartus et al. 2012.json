@@ -1,0 +1,80 @@
+[
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "C5",
+    "off": 20756,
+    "sff": "C5"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "PartialTransection",
+    "off": 11333,
+    "sff": "pyramidotomy"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "PartialTransection",
+    "off": 11322,
+    "sff": "unilateral pyramidotomy lesion"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "KetamineAsAnaesthetic",
+    "off": 10153,
+    "sff": "ketamine"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "KetamineAsAnaesthetic",
+    "off": 11279,
+    "sff": "ketamine"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "C5",
+    "off": 20676,
+    "sff": "C5"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "PartialTransection",
+    "off": 13595,
+    "sff": "pyramidotomy"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "Anaesthetic",
+    "off": 15685,
+    "sff": "medetomidine"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "Scissors",
+    "off": 11886,
+    "sff": "iridectomy scissors"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "Anaesthetic",
+    "off": 10099,
+    "sff": "medetomidine"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "C5",
+    "off": 23497,
+    "sff": "C5"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "KetamineAsAnaesthetic",
+    "off": 15702,
+    "sff": "ketamine"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "PartialTransection",
+    "off": 46174,
+    "sff": "pyramidotomy"
+  }
+]

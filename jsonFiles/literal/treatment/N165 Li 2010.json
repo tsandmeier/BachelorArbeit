@@ -1,0 +1,68 @@
+[
+  {
+    "docID": "N165 Li 2010",
+    "et": "Rostral",
+    "off": 751,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "Rostral",
+    "off": 10463,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "Caudal",
+    "off": 10475,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "Rostral",
+    "off": 7760,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "Caudal",
+    "off": 7772,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "Vehicle",
+    "off": 7318,
+    "sff": "DMEM.The"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "Saline",
+    "off": 7581,
+    "sff": "saline"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "Rostral",
+    "off": 7031,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 294,
+    "sff": "OECs"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "InjectionDelivery",
+    "off": 6950,
+    "sff": "injected"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "RingersSolution",
+    "off": 6076,
+    "sff": "solution"
+  }
+]

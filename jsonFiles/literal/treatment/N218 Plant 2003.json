@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N218 Plant 2003",
+    "et": "InjectionDelivery",
+    "off": 12087,
+    "sff": "injected"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "Rostral",
+    "off": 28231,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "InjectionDelivery",
+    "off": 522,
+    "sff": "injected"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 379,
+    "sff": "OEG"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "InjectionDelivery",
+    "off": 16908,
+    "sff": "injected"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "InjectionDelivery",
+    "off": 9725,
+    "sff": "inject"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "Rostral",
+    "off": 20115,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "Rostral",
+    "off": 18800,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "Saline",
+    "off": 13275,
+    "sff": "saline"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "Rostral",
+    "off": 19166,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "Rostral",
+    "off": 25967,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "Rostral",
+    "off": 18282,
+    "sff": "rostral"
+  }
+]

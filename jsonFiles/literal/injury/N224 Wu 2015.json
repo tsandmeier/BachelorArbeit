@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N224 Wu 2015",
+    "et": "Contusion",
+    "off": 8046,
+    "sff": "contusion"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "WeightDrop",
+    "off": 8104,
+    "sff": "weight drop device"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "KetamineAsAnaesthetic",
+    "off": 14555,
+    "sff": "ketamine"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "KetamineAsAnaesthetic",
+    "off": 15292,
+    "sff": "ketamine"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "T9",
+    "off": 8432,
+    "sff": "T9"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "T10",
+    "off": 17322,
+    "sff": "T10"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "Scissors",
+    "off": 9683,
+    "sff": "scissors"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "LateralHemisection",
+    "off": 8340,
+    "sff": "incision"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "Xylazine",
+    "off": 15301,
+    "sff": "xylazine"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "Xylazine",
+    "off": 14565,
+    "sff": "xylazine"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "Scissors",
+    "off": 9672,
+    "sff": "ophthalmic scissors"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "Blade",
+    "off": 14638,
+    "sff": "blade"
+  }
+]

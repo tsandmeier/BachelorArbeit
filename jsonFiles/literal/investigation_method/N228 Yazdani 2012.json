@@ -1,0 +1,194 @@
+[
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "CystVolumeTest",
+    "off": 13763,
+    "sff": "volume"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "InvestigationMethod",
+    "off": 13987,
+    "sff": "axonal density"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "AxonalChangesTest",
+    "off": 12283,
+    "sff": "measures"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "AxonalChangesTest",
+    "off": 16866,
+    "sff": "number of NF-IR positive axons"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "TissueSparingTest",
+    "off": 13525,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "LesionVolumeTest",
+    "off": 16337,
+    "sff": "formation"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "LesionVolumeTest",
+    "off": 17358,
+    "sff": "formation"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "TissueSparingTest",
+    "off": 16033,
+    "sff": "parenchyma"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "AxonalChangesTest",
+    "off": 13987,
+    "sff": "axonal density"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "CystVolumeTest",
+    "off": 21446,
+    "sff": "percentage of cavitaion"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "AxonalChangesTest",
+    "off": 16637,
+    "sff": "NF-positive"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "CystVolumeTest",
+    "off": 13862,
+    "sff": "cavitation"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "AxonalChangesTest",
+    "off": 14206,
+    "sff": "axons"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "InvestigationMethod",
+    "off": 18768,
+    "sff": "neuronal"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "InvestigationMethod",
+    "off": 21704,
+    "sff": "axonal density"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "TissueSparingTest",
+    "off": 13597,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "CystVolumeTest",
+    "off": 21317,
+    "sff": "cavitation area"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "AxonalChangesTest",
+    "off": 1332,
+    "sff": "axonal"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "InclinedPlaneTest",
+    "off": 11049,
+    "sff": "angle"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "AxonalChangesTest",
+    "off": 21891,
+    "sff": "number of NF-IR positive axons"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "TissueSparingTest",
+    "off": 20971,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "TissueSparingTest",
+    "off": 16044,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "TissueSparingTest",
+    "off": 15917,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "CystVolumeTest",
+    "off": 13261,
+    "sff": "cavitation"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "AxonalChangesTest",
+    "off": 1740,
+    "sff": "axons"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "InclinedPlaneTest",
+    "off": 22065,
+    "sff": "capacity"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "AxonalChangesTest",
+    "off": 13987,
+    "sff": "axonal"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "CystVolumeTest",
+    "off": 21317,
+    "sff": "cavitation"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "AxonalChangesTest",
+    "off": 16721,
+    "sff": "NF-positive"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "AxonalChangesTest",
+    "off": 16800,
+    "sff": "axons"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "HistologicalInvestigationTest",
+    "off": 13591,
+    "sff": "total tissue"
+  },
+  {
+    "docID": "N228 Yazdani 2012",
+    "et": "CystVolumeTest",
+    "off": 21244,
+    "sff": "cavitation"
+  }
+]

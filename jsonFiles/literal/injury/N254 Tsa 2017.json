@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "VertebralArea",
+    "off": 32007,
+    "sff": "levels"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "Isoflurane",
+    "off": 11076,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "T7",
+    "off": 22972,
+    "sff": "T7"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "T7",
+    "off": 31340,
+    "sff": "T7"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "CompleteTransection",
+    "off": 11383,
+    "sff": "completely"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "T7",
+    "off": 19963,
+    "sff": "T7"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "T7",
+    "off": 12735,
+    "sff": "T7"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "T8",
+    "off": 11294,
+    "sff": "T8"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "T7",
+    "off": 27502,
+    "sff": "T7"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "VertebralArea",
+    "off": 24976,
+    "sff": "levels"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "CompleteTransection",
+    "off": 11383,
+    "sff": "completely transected"
+  },
+  {
+    "docID": "N254 Tsa 2017",
+    "et": "T9",
+    "off": 19968,
+    "sff": "T9"
+  }
+]

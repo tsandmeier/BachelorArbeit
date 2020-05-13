@@ -1,0 +1,68 @@
+[
+  {
+    "docID": "N164 Li 2003",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 6071,
+    "sff": "OECs"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 13239,
+    "sff": "OECs"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 12884,
+    "sff": "OECs"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "Cell",
+    "off": 6080,
+    "sff": "ONFs"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "Tissue",
+    "off": 18449,
+    "sff": "respiratory"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 14329,
+    "sff": "OECs"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "Tissue",
+    "off": 13552,
+    "sff": "respiratory"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "Cell",
+    "off": 6851,
+    "sff": "ONFs"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "Tissue",
+    "off": 17675,
+    "sff": "respiratory"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "DeliveryMethod",
+    "off": 7218,
+    "sff": "transferred"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "Tissue",
+    "off": 8551,
+    "sff": "respiratory"
+  }
+]

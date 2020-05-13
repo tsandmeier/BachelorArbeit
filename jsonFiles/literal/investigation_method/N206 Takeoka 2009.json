@@ -1,0 +1,194 @@
+[
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "AxonalChangesTest",
+    "off": 1885,
+    "sff": "varicosities"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "AxonalSproutingTest",
+    "off": 16438,
+    "sff": "processes"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "AxonalChangesTest",
+    "off": 23098,
+    "sff": "serotonergic"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "AxonalChangesTest",
+    "off": 25115,
+    "sff": "appositions"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "AxonalChangesTest",
+    "off": 27942,
+    "sff": "appositions"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "LadderRungTest",
+    "off": 8780,
+    "sff": "stepping"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "AxonalSproutingTest",
+    "off": 15916,
+    "sff": "processes"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "AxonalChangesTest",
+    "off": 29731,
+    "sff": "appositions"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "AxonalChangesTest",
+    "off": 13579,
+    "sff": "varicosities"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "AxonalSproutingTest",
+    "off": 23849,
+    "sff": "processes"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "AxonalSproutingTest",
+    "off": 7835,
+    "sff": "primary"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "AxonalChangesTest",
+    "off": 28455,
+    "sff": "appositions"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "AxonalSproutingTest",
+    "off": 16296,
+    "sff": "processes"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "AxonalChangesTest",
+    "off": 25937,
+    "sff": "varicosities"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "AxonalChangesTest",
+    "off": 28301,
+    "sff": "appositions are detected"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "AxonalChangesTest",
+    "off": 23778,
+    "sff": "serotonergic"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "AxonalChangesTest",
+    "off": 26613,
+    "sff": "appositions"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "AxonalChangesTest",
+    "off": 30454,
+    "sff": "appositions"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "LadderRungTest",
+    "off": 2300,
+    "sff": "stepping"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "AxonalChangesTest",
+    "off": 13406,
+    "sff": "serotonergic"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "AxonalChangesTest",
+    "off": 18783,
+    "sff": "serotonergic"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "AxonalChangesTest",
+    "off": 26680,
+    "sff": "appositions"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "LadderRungTest",
+    "off": 2599,
+    "sff": "stepping"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "AxonalChangesTest",
+    "off": 23197,
+    "sff": "serotonergic"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "AxonalChangesTest",
+    "off": 12869,
+    "sff": "varicosities"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "AxonalChangesTest",
+    "off": 23448,
+    "sff": "serotonergic"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "AxonalChangesTest",
+    "off": 24019,
+    "sff": "serotonergic"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "LadderRungTest",
+    "off": 22126,
+    "sff": "stepping"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "AxonalRegenerationTest",
+    "off": 9427,
+    "sff": "immunolabeling"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "AxonalChangesTest",
+    "off": 24652,
+    "sff": "serotonergic"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "AxonalChangesTest",
+    "off": 17145,
+    "sff": "varicosities"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "AxonalSproutingTest",
+    "off": 23740,
+    "sff": "processes"
+  }
+]

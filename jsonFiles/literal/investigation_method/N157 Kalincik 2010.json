@@ -1,0 +1,200 @@
+[
+  {
+    "docID": "N157 Kalincik 2010",
+    "et": "HindpawSensationTest",
+    "off": 597,
+    "sff": "sensory"
+  },
+  {
+    "docID": "N157 Kalincik 2010",
+    "et": "TissueSparingTest",
+    "off": 21976,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N157 Kalincik 2010",
+    "et": "TissueSparingTest",
+    "off": 16492,
+    "sff": "non-cavity tissue loss"
+  },
+  {
+    "docID": "N157 Kalincik 2010",
+    "et": "TissueSparingTest",
+    "off": 18074,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N157 Kalincik 2010",
+    "et": "TissueSparingTest",
+    "off": 11949,
+    "sff": "non-cavity tissue loss"
+  },
+  {
+    "docID": "N157 Kalincik 2010",
+    "et": "TissueSparingTest",
+    "off": 19187,
+    "sff": "non-cavity tissue loss"
+  },
+  {
+    "docID": "N157 Kalincik 2010",
+    "et": "TissueSparingTest",
+    "off": 22192,
+    "sff": "non-cavity tissue loss"
+  },
+  {
+    "docID": "N157 Kalincik 2010",
+    "et": "TissueSparingTest",
+    "off": 12913,
+    "sff": "non-cavity tissue loss"
+  },
+  {
+    "docID": "N157 Kalincik 2010",
+    "et": "TissueSparingTest",
+    "off": 19244,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N157 Kalincik 2010",
+    "et": "TissueSparingTest",
+    "off": 16763,
+    "sff": "non-cavity tissue loss"
+  },
+  {
+    "docID": "N157 Kalincik 2010",
+    "et": "TissueSparingTest",
+    "off": 1400,
+    "sff": "non-cavity tissue loss"
+  },
+  {
+    "docID": "N157 Kalincik 2010",
+    "et": "TissueSparingTest",
+    "off": 17966,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N157 Kalincik 2010",
+    "et": "TissueSparingTest",
+    "off": 27304,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N157 Kalincik 2010",
+    "et": "TissueSparingTest",
+    "off": 20583,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N157 Kalincik 2010",
+    "et": "TissueSparingTest",
+    "off": 11812,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N157 Kalincik 2010",
+    "et": "AstrogliosisTest",
+    "off": 23374,
+    "sff": "number"
+  },
+  {
+    "docID": "N157 Kalincik 2010",
+    "et": "TissueSparingTest",
+    "off": 16963,
+    "sff": "non-cavity tissue loss"
+  },
+  {
+    "docID": "N157 Kalincik 2010",
+    "et": "TissueSparingTest",
+    "off": 1942,
+    "sff": "tissue preservation"
+  },
+  {
+    "docID": "N157 Kalincik 2010",
+    "et": "TissueSparingTest",
+    "off": 22203,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N157 Kalincik 2010",
+    "et": "AstrogliosisTest",
+    "off": 25684,
+    "sff": "number"
+  },
+  {
+    "docID": "N157 Kalincik 2010",
+    "et": "TissueSparingTest",
+    "off": 21753,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N157 Kalincik 2010",
+    "et": "TissueSparingTest",
+    "off": 16947,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N157 Kalincik 2010",
+    "et": "AstrogliosisTest",
+    "off": 25885,
+    "sff": "number"
+  },
+  {
+    "docID": "N157 Kalincik 2010",
+    "et": "TissueSparingTest",
+    "off": 21265,
+    "sff": "non-cavity tissue loss"
+  },
+  {
+    "docID": "N157 Kalincik 2010",
+    "et": "AstrogliosisTest",
+    "off": 26908,
+    "sff": "differences"
+  },
+  {
+    "docID": "N157 Kalincik 2010",
+    "et": "TissueSparingTest",
+    "off": 1110,
+    "sff": "non-cavity tissue loss"
+  },
+  {
+    "docID": "N157 Kalincik 2010",
+    "et": "AstrogliosisTest",
+    "off": 25002,
+    "sff": "number"
+  },
+  {
+    "docID": "N157 Kalincik 2010",
+    "et": "TissueSparingTest",
+    "off": 17935,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N157 Kalincik 2010",
+    "et": "TissueSparingTest",
+    "off": 21402,
+    "sff": "non-cavity tissue loss"
+  },
+  {
+    "docID": "N157 Kalincik 2010",
+    "et": "AstrogliosisTest",
+    "off": 26084,
+    "sff": "measured"
+  },
+  {
+    "docID": "N157 Kalincik 2010",
+    "et": "TissueSparingTest",
+    "off": 26249,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N157 Kalincik 2010",
+    "et": "TissueSparingTest",
+    "off": 9731,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N157 Kalincik 2010",
+    "et": "TissueSparingTest",
+    "off": 17955,
+    "sff": "non-cavity tissue loss"
+  }
+]

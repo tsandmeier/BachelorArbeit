@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N114 Iseda, Okuda et al. 2008",
+    "et": "MASCISImpactor",
+    "off": 6669,
+    "sff": "MASCIS Impactor"
+  },
+  {
+    "docID": "N114 Iseda, Okuda et al. 2008",
+    "et": "Contusion",
+    "off": 1597,
+    "sff": "contused spinal cords"
+  },
+  {
+    "docID": "N114 Iseda, Okuda et al. 2008",
+    "et": "SodiumPentobarbital",
+    "off": 6063,
+    "sff": "sodium pentobarbital"
+  },
+  {
+    "docID": "N114 Iseda, Okuda et al. 2008",
+    "et": "Isoflurane",
+    "off": 7391,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N114 Iseda, Okuda et al. 2008",
+    "et": "SodiumPentobarbital",
+    "off": 9807,
+    "sff": "sodium pentobarbital"
+  },
+  {
+    "docID": "N114 Iseda, Okuda et al. 2008",
+    "et": "Blade",
+    "off": 6405,
+    "sff": "razor blade sliver"
+  },
+  {
+    "docID": "N114 Iseda, Okuda et al. 2008",
+    "et": "SodiumPentobarbital",
+    "off": 6070,
+    "sff": "pentobarbital"
+  },
+  {
+    "docID": "N114 Iseda, Okuda et al. 2008",
+    "et": "SodiumPentobarbital",
+    "off": 9814,
+    "sff": "pentobarbital"
+  },
+  {
+    "docID": "N114 Iseda, Okuda et al. 2008",
+    "et": "LateralHemisection",
+    "off": 6252,
+    "sff": "hemisection"
+  },
+  {
+    "docID": "N114 Iseda, Okuda et al. 2008",
+    "et": "T11",
+    "off": 6174,
+    "sff": "T11"
+  },
+  {
+    "docID": "N114 Iseda, Okuda et al. 2008",
+    "et": "T9",
+    "off": 6208,
+    "sff": "T9"
+  },
+  {
+    "docID": "N114 Iseda, Okuda et al. 2008",
+    "et": "LateralHemisection",
+    "off": 6372,
+    "sff": "hemisection"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "SurgeryTreatment",
+    "off": 9900,
+    "sff": "4 mmregion of spinal cord encompassing T8 was removed"
+  },
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 1345,
+    "sff": "olfactory ensheathing glia"
+  },
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "Enzyme",
+    "off": 8910,
+    "sff": "galactosidase"
+  },
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "SchwannCell",
+    "off": 1254,
+    "sff": "SCs"
+  },
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "InjectionDelivery",
+    "off": 20071,
+    "sff": "injected"
+  },
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "DosageExtracorporal",
+    "off": 7874,
+    "sff": "Each animal received a total of 5 x 106 SCs"
+  },
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "DosageExtracorporal",
+    "off": 8011,
+    "sff": "4 x 105"
+  },
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 6636,
+    "sff": "OEG"
+  },
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "Rostral",
+    "off": 11851,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "Matrix",
+    "off": 8788,
+    "sff": "Matrigel-only"
+  },
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "RingersSolution",
+    "off": 21505,
+    "sff": "solution"
+  },
+  {
+    "docID": "N145 Fouad 2005",
+    "et": "Conduit",
+    "off": 10767,
+    "sff": "guidance channel"
+  }
+]

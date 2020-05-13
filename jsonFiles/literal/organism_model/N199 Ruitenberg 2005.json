@@ -1,0 +1,302 @@
+[
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "Adult",
+    "off": 741,
+    "sff": "adult"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "FischerRat",
+    "off": 6379,
+    "sff": "Fischer 344 rats"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "SpragueDawleyRat",
+    "off": 31535,
+    "sff": "SD"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "Adult",
+    "off": 6366,
+    "sff": "adult"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "Adult",
+    "off": 46192,
+    "sff": "adult"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "Age",
+    "off": 6211,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "Age",
+    "off": 39143,
+    "sff": "9"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "Age",
+    "off": 14187,
+    "sff": "5"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "Age",
+    "off": 37860,
+    "sff": "9"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "WistarRat",
+    "off": 41807,
+    "sff": "rats"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "Age",
+    "off": 1013,
+    "sff": "3 months"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "Age",
+    "off": 9325,
+    "sff": "days"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "Adult",
+    "off": 2031,
+    "sff": "adult"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "Adult",
+    "off": 33248,
+    "sff": "adult"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "Weight",
+    "off": 6410,
+    "sff": "200 g"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "MouseSpecies",
+    "off": 10352,
+    "sff": "transgenic"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "WistarRat",
+    "off": 42622,
+    "sff": "rats"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "Age",
+    "off": 46539,
+    "sff": "day"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "FischerRat",
+    "off": 39427,
+    "sff": "Fischer 344 rats"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "Age",
+    "off": 6421,
+    "sff": "5"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "FischerRat",
+    "off": 755,
+    "sff": "344"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "Age",
+    "off": 7616,
+    "sff": "day"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "RatSpecies",
+    "off": 6304,
+    "sff": "rat"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "Adult",
+    "off": 1996,
+    "sff": "adult"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "FischerRat",
+    "off": 747,
+    "sff": "Fischer"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "Female",
+    "off": 6372,
+    "sff": "female"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "Age",
+    "off": 6405,
+    "sff": "old"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "SpragueDawleyRat",
+    "off": 24554,
+    "sff": "SD"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "Adult",
+    "off": 6298,
+    "sff": "adult"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "Adult",
+    "off": 10394,
+    "sff": "adult"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "Age",
+    "off": 6399,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "FischerRat",
+    "off": 40614,
+    "sff": "Fischer 344 rats"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "WistarRat",
+    "off": 39439,
+    "sff": "rats"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "Age",
+    "off": 16171,
+    "sff": "2.5"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "Age",
+    "off": 46644,
+    "sff": "3"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "Age",
+    "off": 1015,
+    "sff": "months"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "Adult",
+    "off": 40608,
+    "sff": "adult"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "Age",
+    "off": 10919,
+    "sff": "day"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "Weight",
+    "off": 6410,
+    "sff": "200"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "Adult",
+    "off": 45961,
+    "sff": "adult"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "Age",
+    "off": 40921,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "Age",
+    "off": 6397,
+    "sff": "8"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "Adult",
+    "off": 33295,
+    "sff": "adult"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "Age",
+    "off": 44751,
+    "sff": "2.5"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "WistarRat",
+    "off": 40237,
+    "sff": "rats"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "Age",
+    "off": 35594,
+    "sff": "days"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "WistarRat",
+    "off": 36521,
+    "sff": "rats"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "Weight",
+    "off": 6414,
+    "sff": "g"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "Weight",
+    "off": 6397,
+    "sff": "8"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "FischerRat",
+    "off": 40614,
+    "sff": "Fischer"
+  }
+]

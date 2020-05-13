@@ -1,0 +1,194 @@
+[
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "NeuroprotectionTest",
+    "off": 15643,
+    "sff": "survival"
+  },
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "BBBTest",
+    "off": 18508,
+    "sff": "BBB scores"
+  },
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "NeuroprotectionTest",
+    "off": 16672,
+    "sff": "survival"
+  },
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "LocomotorTest",
+    "off": 9050,
+    "sff": "Measurement"
+  },
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "HistologicalInvestigationTest",
+    "off": 17958,
+    "sff": "expression of BDNF and GDNF at both levels"
+  },
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "TissueSparingTest",
+    "off": 6510,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "AstrogliosisTest",
+    "off": 16371,
+    "sff": "area"
+  },
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "ScarringTest",
+    "off": 699,
+    "sff": "expression"
+  },
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "LesionVolumeTest",
+    "off": 16054,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "AxonalRegenerationTest",
+    "off": 6757,
+    "sff": "staining"
+  },
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "TissueSparingTest",
+    "off": 16054,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "ElectrophysiologyTest",
+    "off": 16029,
+    "sff": "integrated"
+  },
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "LesionVolumeTest",
+    "off": 8837,
+    "sff": "volumes"
+  },
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "LesionVolumeTest",
+    "off": 6510,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "AxonalChangesTest",
+    "off": 16796,
+    "sff": "observed"
+  },
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "NeuronalChangesTest",
+    "off": 17135,
+    "sff": "cells"
+  },
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "NeuronalChangesTest",
+    "off": 15791,
+    "sff": "cells"
+  },
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "NeuronalChangesTest",
+    "off": 16976,
+    "sff": "distance"
+  },
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "TissueSparingTest",
+    "off": 15948,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "NeuroprotectionTest",
+    "off": 16753,
+    "sff": "survival"
+  },
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "InclinedPlaneTest",
+    "off": 13818,
+    "sff": "values"
+  },
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "AxonalChangesTest",
+    "off": 10323,
+    "sff": "observed"
+  },
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "AstrogliosisTest",
+    "off": 1891,
+    "sff": "processes"
+  },
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "AxonalSproutingTest",
+    "off": 1891,
+    "sff": "processes"
+  },
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "AxonalRegenerationTest",
+    "off": 17119,
+    "sff": "number"
+  },
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "NeuronalChangesTest",
+    "off": 17605,
+    "sff": "cells"
+  },
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "NeuronalChangesTest",
+    "off": 16700,
+    "sff": "cells"
+  },
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "AxonalChangesTest",
+    "off": 16768,
+    "sff": "fluorescence"
+  },
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "AstrogliosisTest",
+    "off": 12912,
+    "sff": "measured"
+  },
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "AstrogliosisTest",
+    "off": 16884,
+    "sff": "measured"
+  },
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "AxonalChangesTest",
+    "off": 12724,
+    "sff": "observed"
+  },
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "LesionVolumeTest",
+    "off": 15948,
+    "sff": "tissue"
+  }
+]

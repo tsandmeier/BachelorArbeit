@@ -1,0 +1,302 @@
+[
+  {
+    "docID": "N016 Grosso 2014 24871142",
+    "et": "FischerRat",
+    "off": 8259,
+    "sff": "rats"
+  },
+  {
+    "docID": "N016 Grosso 2014 24871142",
+    "et": "SpragueDawleyRat",
+    "off": 19733,
+    "sff": "SD"
+  },
+  {
+    "docID": "N016 Grosso 2014 24871142",
+    "et": "Age",
+    "off": 13268,
+    "sff": "day"
+  },
+  {
+    "docID": "N016 Grosso 2014 24871142",
+    "et": "Adult",
+    "off": 3274,
+    "sff": "adult"
+  },
+  {
+    "docID": "N016 Grosso 2014 24871142",
+    "et": "Weight",
+    "off": 14159,
+    "sff": "mean"
+  },
+  {
+    "docID": "N016 Grosso 2014 24871142",
+    "et": "SpragueDawleyRat",
+    "off": 10291,
+    "sff": "rats"
+  },
+  {
+    "docID": "N016 Grosso 2014 24871142",
+    "et": "SpragueDawleyRat",
+    "off": 20741,
+    "sff": "SD"
+  },
+  {
+    "docID": "N016 Grosso 2014 24871142",
+    "et": "LongEvansRat",
+    "off": 15117,
+    "sff": "rats"
+  },
+  {
+    "docID": "N016 Grosso 2014 24871142",
+    "et": "Weight",
+    "off": 10102,
+    "sff": "kg"
+  },
+  {
+    "docID": "N016 Grosso 2014 24871142",
+    "et": "Weight",
+    "off": 21562,
+    "sff": "mean"
+  },
+  {
+    "docID": "N016 Grosso 2014 24871142",
+    "et": "Age",
+    "off": 9046,
+    "sff": "days"
+  },
+  {
+    "docID": "N016 Grosso 2014 24871142",
+    "et": "Age",
+    "off": 23113,
+    "sff": "day"
+  },
+  {
+    "docID": "N016 Grosso 2014 24871142",
+    "et": "SpragueDawleyRat",
+    "off": 8259,
+    "sff": "rats"
+  },
+  {
+    "docID": "N016 Grosso 2014 24871142",
+    "et": "Age",
+    "off": 25168,
+    "sff": "days"
+  },
+  {
+    "docID": "N016 Grosso 2014 24871142",
+    "et": "Age",
+    "off": 8816,
+    "sff": "4"
+  },
+  {
+    "docID": "N016 Grosso 2014 24871142",
+    "et": "Weight",
+    "off": 9983,
+    "sff": "kg"
+  },
+  {
+    "docID": "N016 Grosso 2014 24871142",
+    "et": "Weight",
+    "off": 16142,
+    "sff": "200"
+  },
+  {
+    "docID": "N016 Grosso 2014 24871142",
+    "et": "Age",
+    "off": 10751,
+    "sff": "day"
+  },
+  {
+    "docID": "N016 Grosso 2014 24871142",
+    "et": "Age",
+    "off": 10623,
+    "sff": "days"
+  },
+  {
+    "docID": "N016 Grosso 2014 24871142",
+    "et": "Age",
+    "off": 9420,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N016 Grosso 2014 24871142",
+    "et": "Weight",
+    "off": 13349,
+    "sff": "200"
+  },
+  {
+    "docID": "N016 Grosso 2014 24871142",
+    "et": "C57_BL6_Mouse",
+    "off": 19836,
+    "sff": "6"
+  },
+  {
+    "docID": "N016 Grosso 2014 24871142",
+    "et": "Weight",
+    "off": 9230,
+    "sff": "kg"
+  },
+  {
+    "docID": "N016 Grosso 2014 24871142",
+    "et": "MouseSpecies",
+    "off": 15816,
+    "sff": "under"
+  },
+  {
+    "docID": "N016 Grosso 2014 24871142",
+    "et": "WistarRat",
+    "off": 15117,
+    "sff": "rats"
+  },
+  {
+    "docID": "N016 Grosso 2014 24871142",
+    "et": "Adult",
+    "off": 2055,
+    "sff": "adult"
+  },
+  {
+    "docID": "N016 Grosso 2014 24871142",
+    "et": "Age",
+    "off": 22434,
+    "sff": "day"
+  },
+  {
+    "docID": "N016 Grosso 2014 24871142",
+    "et": "Weight",
+    "off": 8986,
+    "sff": "g"
+  },
+  {
+    "docID": "N016 Grosso 2014 24871142",
+    "et": "C57_BL6_Mouse",
+    "off": 24607,
+    "sff": "6"
+  },
+  {
+    "docID": "N016 Grosso 2014 24871142",
+    "et": "ListerHoodedRat",
+    "off": 15117,
+    "sff": "rats"
+  },
+  {
+    "docID": "N016 Grosso 2014 24871142",
+    "et": "Age",
+    "off": 10133,
+    "sff": "days"
+  },
+  {
+    "docID": "N016 Grosso 2014 24871142",
+    "et": "Age",
+    "off": 15000,
+    "sff": "days"
+  },
+  {
+    "docID": "N016 Grosso 2014 24871142",
+    "et": "LongEvansRat",
+    "off": 8259,
+    "sff": "rats"
+  },
+  {
+    "docID": "N016 Grosso 2014 24871142",
+    "et": "FischerRat",
+    "off": 15117,
+    "sff": "rats"
+  },
+  {
+    "docID": "N016 Grosso 2014 24871142",
+    "et": "Age",
+    "off": 10380,
+    "sff": "days"
+  },
+  {
+    "docID": "N016 Grosso 2014 24871142",
+    "et": "Weight",
+    "off": 11642,
+    "sff": "200"
+  },
+  {
+    "docID": "N016 Grosso 2014 24871142",
+    "et": "Age",
+    "off": 9233,
+    "sff": "day"
+  },
+  {
+    "docID": "N016 Grosso 2014 24871142",
+    "et": "Weight",
+    "off": 13432,
+    "sff": "200"
+  },
+  {
+    "docID": "N016 Grosso 2014 24871142",
+    "et": "Age",
+    "off": 14736,
+    "sff": "day"
+  },
+  {
+    "docID": "N016 Grosso 2014 24871142",
+    "et": "C57_BL6_Mouse",
+    "off": 14998,
+    "sff": "6"
+  },
+  {
+    "docID": "N016 Grosso 2014 24871142",
+    "et": "SpragueDawleyRat",
+    "off": 15117,
+    "sff": "rats"
+  },
+  {
+    "docID": "N016 Grosso 2014 24871142",
+    "et": "Age",
+    "off": 15545,
+    "sff": "days"
+  },
+  {
+    "docID": "N016 Grosso 2014 24871142",
+    "et": "Age",
+    "off": 18367,
+    "sff": "days"
+  },
+  {
+    "docID": "N016 Grosso 2014 24871142",
+    "et": "C57_BL6_Mouse",
+    "off": 20773,
+    "sff": "6"
+  },
+  {
+    "docID": "N016 Grosso 2014 24871142",
+    "et": "Weight",
+    "off": 17050,
+    "sff": "mean"
+  },
+  {
+    "docID": "N016 Grosso 2014 24871142",
+    "et": "Age",
+    "off": 18218,
+    "sff": "day"
+  },
+  {
+    "docID": "N016 Grosso 2014 24871142",
+    "et": "SpragueDawleyRat",
+    "off": 18793,
+    "sff": "SD"
+  },
+  {
+    "docID": "N016 Grosso 2014 24871142",
+    "et": "Age",
+    "off": 9897,
+    "sff": "days"
+  },
+  {
+    "docID": "N016 Grosso 2014 24871142",
+    "et": "C57_BL6_Mouse",
+    "off": 15543,
+    "sff": "6"
+  },
+  {
+    "docID": "N016 Grosso 2014 24871142",
+    "et": "Weight",
+    "off": 12064,
+    "sff": "mean"
+  }
+]

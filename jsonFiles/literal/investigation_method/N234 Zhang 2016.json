@@ -1,0 +1,194 @@
+[
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "CystVolumeTest",
+    "off": 23617,
+    "sff": "cystic cavities"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 18801,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "CystVolumeTest",
+    "off": 17948,
+    "sff": "cavities"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "CystVolumeTest",
+    "off": 23685,
+    "sff": "cystic cavities"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "BBBTest",
+    "off": 24001,
+    "sff": "BBB score"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "InflammationTest",
+    "off": 11412,
+    "sff": "Iba1"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 24889,
+    "sff": "latency"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "CystVolumeTest",
+    "off": 17941,
+    "sff": "cystic"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "CystVolumeTest",
+    "off": 18138,
+    "sff": "cystic"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "SpinalCordEvokedPotentialsTest",
+    "off": 18801,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "AxonalChangesTest",
+    "off": 18419,
+    "sff": "observed"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "AxonalRegenerationTest",
+    "off": 7195,
+    "sff": "immunostaining"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 24977,
+    "sff": "latency"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 18833,
+    "sff": "latency"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 15313,
+    "sff": "latency"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 15325,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "AxonalRegenerationTest",
+    "off": 12980,
+    "sff": "immunostaining"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 18833,
+    "sff": "latency"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "BBBTest",
+    "off": 24608,
+    "sff": "BBB locomotor score"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 15325,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "AxonalRegenerationTest",
+    "off": 5934,
+    "sff": "immunostaining"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "LesionVolumeTest",
+    "off": 12071,
+    "sff": "cavities"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "SpinalCordEvokedPotentialsTest",
+    "off": 15325,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "AxonalRegenerationTest",
+    "off": 11682,
+    "sff": "staining"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "AxonalChangesTest",
+    "off": 19482,
+    "sff": "observed"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 24889,
+    "sff": "latency"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "CystVolumeTest",
+    "off": 17941,
+    "sff": "cystic cavities"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "BBBTest",
+    "off": 18277,
+    "sff": "BBB scores"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "CystVolumeTest",
+    "off": 18138,
+    "sff": "cystic cavities"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "CystVolumeTest",
+    "off": 11740,
+    "sff": "cystic cavities"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "SpinalCordEvokedPotentialsTest",
+    "off": 24857,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "LesionVolumeTest",
+    "off": 18145,
+    "sff": "cavities"
+  }
+]

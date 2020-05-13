@@ -1,0 +1,68 @@
+[
+  {
+    "docID": "N049 Wang 2011 21299884",
+    "et": "SodiumPentobarbital",
+    "off": 16439,
+    "sff": "pentobarbital"
+  },
+  {
+    "docID": "N049 Wang 2011 21299884",
+    "et": "LightSource",
+    "off": 38412,
+    "sff": "fiber"
+  },
+  {
+    "docID": "N049 Wang 2011 21299884",
+    "et": "VertebralArea",
+    "off": 31508,
+    "sff": "levels"
+  },
+  {
+    "docID": "N049 Wang 2011 21299884",
+    "et": "InjuryDevice",
+    "off": 7894,
+    "sff": "device"
+  },
+  {
+    "docID": "N049 Wang 2011 21299884",
+    "et": "VertebralArea",
+    "off": 31587,
+    "sff": "levels"
+  },
+  {
+    "docID": "N049 Wang 2011 21299884",
+    "et": "Injury",
+    "off": 14324,
+    "sff": "heat"
+  },
+  {
+    "docID": "N049 Wang 2011 21299884",
+    "et": "Injury",
+    "off": 30785,
+    "sff": "heat"
+  },
+  {
+    "docID": "N049 Wang 2011 21299884",
+    "et": "WeightDrop",
+    "off": 7894,
+    "sff": "device"
+  },
+  {
+    "docID": "N049 Wang 2011 21299884",
+    "et": "Contusion",
+    "off": 32703,
+    "sff": "contused"
+  },
+  {
+    "docID": "N049 Wang 2011 21299884",
+    "et": "VertebralArea",
+    "off": 31355,
+    "sff": "levels"
+  },
+  {
+    "docID": "N049 Wang 2011 21299884",
+    "et": "VertebralArea",
+    "off": 35393,
+    "sff": "levels"
+  }
+]

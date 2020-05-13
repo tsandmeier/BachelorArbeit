@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N251 Nategh",
+    "et": "Compression",
+    "off": 4732,
+    "sff": "compress"
+  },
+  {
+    "docID": "N251 Nategh",
+    "et": "Xylazine",
+    "off": 4451,
+    "sff": "Xylazine"
+  },
+  {
+    "docID": "N251 Nategh",
+    "et": "AllenWeightDropDevice",
+    "off": 6039,
+    "sff": "technique"
+  },
+  {
+    "docID": "N251 Nategh",
+    "et": "AneurysmClip",
+    "off": 4804,
+    "sff": "clip"
+  },
+  {
+    "docID": "N251 Nategh",
+    "et": "T12",
+    "off": 4572,
+    "sff": "T12"
+  },
+  {
+    "docID": "N251 Nategh",
+    "et": "T9",
+    "off": 4628,
+    "sff": "T9"
+  },
+  {
+    "docID": "N251 Nategh",
+    "et": "AneurysmClip",
+    "off": 4670,
+    "sff": "curved aneurysm clip"
+  },
+  {
+    "docID": "N251 Nategh",
+    "et": "InjuryDevice",
+    "off": 645,
+    "sff": "compression"
+  },
+  {
+    "docID": "N251 Nategh",
+    "et": "Blade",
+    "off": 4346,
+    "sff": "surgical"
+  },
+  {
+    "docID": "N251 Nategh",
+    "et": "Compression",
+    "off": 4809,
+    "sff": "compressing"
+  },
+  {
+    "docID": "N251 Nategh",
+    "et": "KetamineAsAnaesthetic",
+    "off": 4422,
+    "sff": "Ketamine"
+  },
+  {
+    "docID": "N251 Nategh",
+    "et": "LateralHemisection",
+    "off": 4529,
+    "sff": "incision"
+  }
+]

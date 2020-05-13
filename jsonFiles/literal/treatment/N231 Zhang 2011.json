@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "InjectionDelivery",
+    "off": 13401,
+    "sff": "injected"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "InjectionDelivery",
+    "off": 8055,
+    "sff": "injected"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "Conduit",
+    "off": 9329,
+    "sff": "parallel"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 772,
+    "sff": "OEC"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "Vehicle",
+    "off": 11737,
+    "sff": "alone"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "SchwannCell",
+    "off": 18555,
+    "sff": "Schwann cells"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "SchwannCell",
+    "off": 911,
+    "sff": "female"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "Vehicle",
+    "off": 19460,
+    "sff": "alone"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "SchwannCell",
+    "off": 19111,
+    "sff": "Schwann cells"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "Conduit",
+    "off": 7351,
+    "sff": "contains"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "SchwannCell",
+    "off": 1463,
+    "sff": "Schwann cells"
+  },
+  {
+    "docID": "N231 Zhang 2011",
+    "et": "Vehicle",
+    "off": 14762,
+    "sff": "rat"
+  }
+]

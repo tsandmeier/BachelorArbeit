@@ -1,0 +1,68 @@
+[
+  {
+    "docID": "N207 Takeoka 2010",
+    "et": "VertebralArea",
+    "off": 16108,
+    "sff": "levels"
+  },
+  {
+    "docID": "N207 Takeoka 2010",
+    "et": "T9",
+    "off": 7643,
+    "sff": "T9"
+  },
+  {
+    "docID": "N207 Takeoka 2010",
+    "et": "VertebralArea",
+    "off": 7643,
+    "sff": "T9"
+  },
+  {
+    "docID": "N207 Takeoka 2010",
+    "et": "VertebralArea",
+    "off": 28633,
+    "sff": "levels"
+  },
+  {
+    "docID": "N207 Takeoka 2010",
+    "et": "VertebralArea",
+    "off": 25305,
+    "sff": "levels"
+  },
+  {
+    "docID": "N207 Takeoka 2010",
+    "et": "VertebralArea",
+    "off": 27973,
+    "sff": "levels"
+  },
+  {
+    "docID": "N207 Takeoka 2010",
+    "et": "Isoflurane",
+    "off": 7580,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N207 Takeoka 2010",
+    "et": "VertebralArea",
+    "off": 17366,
+    "sff": "levels"
+  },
+  {
+    "docID": "N207 Takeoka 2010",
+    "et": "VertebralArea",
+    "off": 8086,
+    "sff": "levels"
+  },
+  {
+    "docID": "N207 Takeoka 2010",
+    "et": "VertebralArea",
+    "off": 28945,
+    "sff": "levels"
+  },
+  {
+    "docID": "N207 Takeoka 2010",
+    "et": "CompleteTransection",
+    "off": 9274,
+    "sff": "sectioned"
+  }
+]

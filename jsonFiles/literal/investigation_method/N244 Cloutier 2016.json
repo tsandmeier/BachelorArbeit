@@ -1,0 +1,194 @@
+[
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "NeuronalChangesTest",
+    "off": 24733,
+    "sff": "overall number of primary dendrites"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 22434,
+    "sff": "mean"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 21920,
+    "sff": "mean"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "AxonalChangesTest",
+    "off": 25980,
+    "sff": "observed"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 21477,
+    "sff": "mean"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 21943,
+    "sff": "response"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "NeuronalChangesTest",
+    "off": 1831,
+    "sff": "overall number of primary dendrites"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "ScarringTest",
+    "off": 20175,
+    "sff": "staining"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "AxonalChangesTest",
+    "off": 20522,
+    "sff": "neurons"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "AxonalChangesTest",
+    "off": 1770,
+    "sff": "observed"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "AxonalSproutingTest",
+    "off": 25820,
+    "sff": "density"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 22507,
+    "sff": "mean"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "AxonalChangesTest",
+    "off": 1265,
+    "sff": "neurons"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "AxonalChangesTest",
+    "off": 20148,
+    "sff": "neurons"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "AxonalSproutingTest",
+    "off": 843,
+    "sff": "primary"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "AxonalSproutingTest",
+    "off": 24986,
+    "sff": "density"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "AxonalChangesTest",
+    "off": 1015,
+    "sff": "neurons"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "ApoptosisTest",
+    "off": 25499,
+    "sff": "neurons"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "AxonalSproutingTest",
+    "off": 24272,
+    "sff": "primary"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "AxonalChangesTest",
+    "off": 1817,
+    "sff": "neurons"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 1171,
+    "sff": "second"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 19399,
+    "sff": "mean"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "AxonalChangesTest",
+    "off": 2077,
+    "sff": "neurons"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 21657,
+    "sff": "response"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "HindpawSensationTest",
+    "off": 21313,
+    "sff": "responses"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "AxonalSproutingTest",
+    "off": 1896,
+    "sff": "density"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 24402,
+    "sff": "mean"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "AxonalSproutingTest",
+    "off": 2116,
+    "sff": "density"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "AxonalChangesTest",
+    "off": 20236,
+    "sff": "neurons"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "AxonalChangesTest",
+    "off": 587,
+    "sff": "neurons"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "AxonalSproutingTest",
+    "off": 25599,
+    "sff": "density"
+  },
+  {
+    "docID": "N244 Cloutier 2016",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 22102,
+    "sff": "mean"
+  }
+]

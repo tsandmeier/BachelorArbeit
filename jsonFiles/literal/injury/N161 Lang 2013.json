@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N161 Lang 2013",
+    "et": "AllenWeightDropDevice",
+    "off": 24091,
+    "sff": "technique"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "NYUImpactor",
+    "off": 16196,
+    "sff": "University"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "T10",
+    "off": 15885,
+    "sff": "T10"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "Injury",
+    "off": 21665,
+    "sff": "heat"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "Blade",
+    "off": 1841,
+    "sff": "surgical"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "Scissors",
+    "off": 19679,
+    "sff": "microscissors"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "PhotochemicalInjury",
+    "off": 19274,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "CompleteTransection",
+    "off": 22774,
+    "sff": "sectioned"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "LateralHemisection",
+    "off": 19772,
+    "sff": "left side of the cord was completely divided"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "T10",
+    "off": 19583,
+    "sff": "T10"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "VertebralArea",
+    "off": 19587,
+    "sff": "level"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "Scissors",
+    "off": 19630,
+    "sff": "microscissors"
+  }
+]

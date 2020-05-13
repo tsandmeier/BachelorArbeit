@@ -1,0 +1,194 @@
+[
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "TissueSparingTest",
+    "off": 25184,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "InclinedPlaneTest",
+    "off": 1572,
+    "sff": "capacity"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "TissueSparingTest",
+    "off": 25561,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "AxonalSproutingTest",
+    "off": 13654,
+    "sff": "primary"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "AxonalChangesTest",
+    "off": 19906,
+    "sff": "axons"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "AxonalChangesTest",
+    "off": 20034,
+    "sff": "axons"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "AxonalChangesTest",
+    "off": 18714,
+    "sff": "observed"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "AxonalChangesTest",
+    "off": 1592,
+    "sff": "neurons"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "AstrogliosisTest",
+    "off": 16980,
+    "sff": "astrocytic"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "AxonalChangesTest",
+    "off": 25846,
+    "sff": "axons"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "AxonalChangesTest",
+    "off": 756,
+    "sff": "axons"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "AxonalChangesTest",
+    "off": 27508,
+    "sff": "axons"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "AstrogliosisTest",
+    "off": 21727,
+    "sff": "astrocytic"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "AxonalChangesTest",
+    "off": 19153,
+    "sff": "axons"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "AxonalChangesTest",
+    "off": 18703,
+    "sff": "axons"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "AxonalChangesTest",
+    "off": 20473,
+    "sff": "varicosities"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "AxonalChangesTest",
+    "off": 21706,
+    "sff": "axonal"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 33182,
+    "sff": "mechanical"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "AxonalChangesTest",
+    "off": 28616,
+    "sff": "axons"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "AxonalChangesTest",
+    "off": 19399,
+    "sff": "axons"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "AxonalChangesTest",
+    "off": 79,
+    "sff": "axonal"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "AxonalChangesTest",
+    "off": 27555,
+    "sff": "axons"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "AxonalChangesTest",
+    "off": 19553,
+    "sff": "axons"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "AxonalChangesTest",
+    "off": 26643,
+    "sff": "axonal"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "AxonalChangesTest",
+    "off": 26961,
+    "sff": "axons were detected"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "AxonalChangesTest",
+    "off": 19680,
+    "sff": "axons"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "AstrogliosisTest",
+    "off": 826,
+    "sff": "immunofluorescence"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "AxonalChangesTest",
+    "off": 20889,
+    "sff": "axonal"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "AxonalChangesTest",
+    "off": 10363,
+    "sff": "observed"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "AxonalChangesTest",
+    "off": 26842,
+    "sff": "axons"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "AxonalChangesTest",
+    "off": 20248,
+    "sff": "axons"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "AxonalChangesTest",
+    "off": 20319,
+    "sff": "axonal"
+  }
+]

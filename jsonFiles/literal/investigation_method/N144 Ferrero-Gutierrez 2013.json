@@ -1,0 +1,194 @@
+[
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "AxonalRegenerationTest",
+    "off": 30712,
+    "sff": "immunostaining"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "LesionVolumeTest",
+    "off": 14266,
+    "sff": "formation"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "AxonalChangesTest",
+    "off": 26833,
+    "sff": "observed"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "AxonalChangesTest",
+    "off": 28947,
+    "sff": "axons"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "LesionVolumeTest",
+    "off": 27453,
+    "sff": "formation"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "AxonalChangesTest",
+    "off": 30214,
+    "sff": "neurons"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "LesionVolumeTest",
+    "off": 28606,
+    "sff": "formation"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "HindpawSensationTest",
+    "off": 2273,
+    "sff": "sensory"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "AxonalChangesTest",
+    "off": 27290,
+    "sff": "observed"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "AxonalSproutingTest",
+    "off": 18939,
+    "sff": "primary"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "AxonalSproutingTest",
+    "off": 9212,
+    "sff": "primary"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "AxonalChangesTest",
+    "off": 30283,
+    "sff": "neurons"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "BBBTest",
+    "off": 25953,
+    "sff": "BBB scores"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "AxonalSproutingTest",
+    "off": 18674,
+    "sff": "primary"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "ApoptosisTest",
+    "off": 18641,
+    "sff": "activity"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "AxonalChangesTest",
+    "off": 21949,
+    "sff": "observed"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "BBBTest",
+    "off": 25100,
+    "sff": "BBB locomotor score"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "InflammationTest",
+    "off": 18497,
+    "sff": "staining"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "AxonalSproutingTest",
+    "off": 19563,
+    "sff": "primary"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "BBBTest",
+    "off": 25400,
+    "sff": "modified BBB score"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "HistologicalInvestigationTest",
+    "off": 27493,
+    "sff": "collagen positive"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "AxonalSproutingTest",
+    "off": 8870,
+    "sff": "primary"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "LesionVolumeTest",
+    "off": 28745,
+    "sff": "cavities"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "AxonalRegenerationTest",
+    "off": 12895,
+    "sff": "staining"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "AxonalChangesTest",
+    "off": 28968,
+    "sff": "axons"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "AxonalRegenerationTest",
+    "off": 18714,
+    "sff": "staining"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "InclinedPlaneTest",
+    "off": 16518,
+    "sff": "angle"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "AxonalSproutingTest",
+    "off": 9044,
+    "sff": "primary"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "AxonalSproutingTest",
+    "off": 18837,
+    "sff": "primary"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "LesionVolumeTest",
+    "off": 27888,
+    "sff": "formation"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "TissueSparingTest",
+    "off": 26978,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "AxonalChangesTest",
+    "off": 26342,
+    "sff": "observed"
+  }
+]

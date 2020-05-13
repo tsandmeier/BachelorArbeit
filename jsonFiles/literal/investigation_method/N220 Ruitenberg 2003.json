@@ -1,0 +1,200 @@
+[
+  {
+    "docID": "N220 Ruitenberg 2003",
+    "et": "SpinalCordEvokedPotentialsTest",
+    "off": 57493,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N220 Ruitenberg 2003",
+    "et": "TissueSparingTest",
+    "off": 13473,
+    "sff": "amount"
+  },
+  {
+    "docID": "N220 Ruitenberg 2003",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 26878,
+    "sff": "latency"
+  },
+  {
+    "docID": "N220 Ruitenberg 2003",
+    "et": "AxonalChangesTest",
+    "off": 40510,
+    "sff": "axons"
+  },
+  {
+    "docID": "N220 Ruitenberg 2003",
+    "et": "AxonalChangesTest",
+    "off": 38974,
+    "sff": "axons"
+  },
+  {
+    "docID": "N220 Ruitenberg 2003",
+    "et": "SpinalCordEvokedPotentialsTest",
+    "off": 45199,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N220 Ruitenberg 2003",
+    "et": "AstrogliosisTest",
+    "off": 54465,
+    "sff": "astrocytic"
+  },
+  {
+    "docID": "N220 Ruitenberg 2003",
+    "et": "AstrogliosisTest",
+    "off": 37644,
+    "sff": "reactive"
+  },
+  {
+    "docID": "N220 Ruitenberg 2003",
+    "et": "AxonalChangesTest",
+    "off": 39365,
+    "sff": "axons"
+  },
+  {
+    "docID": "N220 Ruitenberg 2003",
+    "et": "TissueSparingTest",
+    "off": 40031,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N220 Ruitenberg 2003",
+    "et": "AxonalSproutingTest",
+    "off": 54232,
+    "sff": "sprouting of RST axons"
+  },
+  {
+    "docID": "N220 Ruitenberg 2003",
+    "et": "AxonalChangesTest",
+    "off": 55208,
+    "sff": "Fiber counts of BDA-traced RST axons"
+  },
+  {
+    "docID": "N220 Ruitenberg 2003",
+    "et": "AstrogliosisTest",
+    "off": 51744,
+    "sff": "GFAP"
+  },
+  {
+    "docID": "N220 Ruitenberg 2003",
+    "et": "TissueSparingTest",
+    "off": 57179,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N220 Ruitenberg 2003",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 57493,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N220 Ruitenberg 2003",
+    "et": "AxonalChangesTest",
+    "off": 39009,
+    "sff": "axons were detected"
+  },
+  {
+    "docID": "N220 Ruitenberg 2003",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 45199,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N220 Ruitenberg 2003",
+    "et": "SpinalCordEvokedPotentialsTest",
+    "off": 45362,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N220 Ruitenberg 2003",
+    "et": "AstrogliosisTest",
+    "off": 51744,
+    "sff": "GFAP staining"
+  },
+  {
+    "docID": "N220 Ruitenberg 2003",
+    "et": "SpinalCordEvokedPotentialsTest",
+    "off": 26864,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N220 Ruitenberg 2003",
+    "et": "AxonalSproutingTest",
+    "off": 56117,
+    "sff": "sprouting of RST axons"
+  },
+  {
+    "docID": "N220 Ruitenberg 2003",
+    "et": "SpinalCordEvokedPotentialsTest",
+    "off": 26951,
+    "sff": "amplitudes"
+  },
+  {
+    "docID": "N220 Ruitenberg 2003",
+    "et": "AxonalChangesTest",
+    "off": 55652,
+    "sff": "distribution pattern and dieback of RST axons"
+  },
+  {
+    "docID": "N220 Ruitenberg 2003",
+    "et": "AstrogliosisTest",
+    "off": 39853,
+    "sff": "reactive"
+  },
+  {
+    "docID": "N220 Ruitenberg 2003",
+    "et": "TissueSparingTest",
+    "off": 53958,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N220 Ruitenberg 2003",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 45362,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N220 Ruitenberg 2003",
+    "et": "AxonalChangesTest",
+    "off": 47181,
+    "sff": "observed"
+  },
+  {
+    "docID": "N220 Ruitenberg 2003",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 26864,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N220 Ruitenberg 2003",
+    "et": "AxonalSproutingTest",
+    "off": 54534,
+    "sff": "sprouting of RST axons"
+  },
+  {
+    "docID": "N220 Ruitenberg 2003",
+    "et": "AxonalSproutingTest",
+    "off": 56436,
+    "sff": "RST axon sprouting"
+  },
+  {
+    "docID": "N220 Ruitenberg 2003",
+    "et": "AxonalSproutingTest",
+    "off": 40946,
+    "sff": "RST axon sprouting"
+  },
+  {
+    "docID": "N220 Ruitenberg 2003",
+    "et": "AxonalChangesTest",
+    "off": 41689,
+    "sff": "axons"
+  },
+  {
+    "docID": "N220 Ruitenberg 2003",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 26951,
+    "sff": "amplitudes"
+  }
+]

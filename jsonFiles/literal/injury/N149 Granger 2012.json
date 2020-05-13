@@ -1,0 +1,68 @@
+[
+  {
+    "docID": "N149 Granger 2012",
+    "et": "InjuryByAccident",
+    "off": 27772,
+    "sff": "companion dogs with severe spinal cord injury"
+  },
+  {
+    "docID": "N149 Granger 2012",
+    "et": "LateralHemisection",
+    "off": 11532,
+    "sff": "lateral"
+  },
+  {
+    "docID": "N149 Granger 2012",
+    "et": "LateralHemisection",
+    "off": 31887,
+    "sff": "lateral"
+  },
+  {
+    "docID": "N149 Granger 2012",
+    "et": "InjuryDevice",
+    "off": 23408,
+    "sff": "needle"
+  },
+  {
+    "docID": "N149 Granger 2012",
+    "et": "VertebralArea",
+    "off": 6891,
+    "sff": "T10 and L4"
+  },
+  {
+    "docID": "N149 Granger 2012",
+    "et": "LateralHemisection",
+    "off": 26377,
+    "sff": "lateral"
+  },
+  {
+    "docID": "N149 Granger 2012",
+    "et": "LateralHemisection",
+    "off": 20760,
+    "sff": "lateral"
+  },
+  {
+    "docID": "N149 Granger 2012",
+    "et": "LateralHemisection",
+    "off": 11643,
+    "sff": "lateral"
+  },
+  {
+    "docID": "N149 Granger 2012",
+    "et": "Blade",
+    "off": 14624,
+    "sff": "blade"
+  },
+  {
+    "docID": "N149 Granger 2012",
+    "et": "T10",
+    "off": 6891,
+    "sff": "T10"
+  },
+  {
+    "docID": "N149 Granger 2012",
+    "et": "LateralHemisection",
+    "off": 12690,
+    "sff": "lateral"
+  }
+]

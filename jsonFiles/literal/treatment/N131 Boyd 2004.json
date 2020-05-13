@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N131 Boyd 2004",
+    "et": "Vehicle",
+    "off": 12381,
+    "sff": "vehicle"
+  },
+  {
+    "docID": "N131 Boyd 2004",
+    "et": "DosageExtracorporal",
+    "off": 6097,
+    "sff": "4 x 105"
+  },
+  {
+    "docID": "N131 Boyd 2004",
+    "et": "Vehicle",
+    "off": 6171,
+    "sff": "grafting"
+  },
+  {
+    "docID": "N131 Boyd 2004",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 611,
+    "sff": "OECs"
+  },
+  {
+    "docID": "N131 Boyd 2004",
+    "et": "Vehicle",
+    "off": 6888,
+    "sff": "vehicle"
+  },
+  {
+    "docID": "N131 Boyd 2004",
+    "et": "RingersSolution",
+    "off": 6180,
+    "sff": "solution"
+  },
+  {
+    "docID": "N131 Boyd 2004",
+    "et": "Vehicle",
+    "off": 6171,
+    "sff": "grafting solution"
+  },
+  {
+    "docID": "N131 Boyd 2004",
+    "et": "InjectionDelivery",
+    "off": 6116,
+    "sff": "injected"
+  },
+  {
+    "docID": "N131 Boyd 2004",
+    "et": "Vehicle",
+    "off": 6180,
+    "sff": "solution"
+  },
+  {
+    "docID": "N131 Boyd 2004",
+    "et": "Vehicle",
+    "off": 9604,
+    "sff": "vehicle"
+  },
+  {
+    "docID": "N131 Boyd 2004",
+    "et": "Vehicle",
+    "off": 6253,
+    "sff": "grafting"
+  },
+  {
+    "docID": "N131 Boyd 2004",
+    "et": "Vehicle",
+    "off": 9394,
+    "sff": "vehicle"
+  }
+]

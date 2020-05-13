@@ -1,0 +1,80 @@
+[
+  {
+    "docID": "N043 Massey 2008 17540369",
+    "et": "Anaesthetic",
+    "off": 8001,
+    "sff": "acepromazine"
+  },
+  {
+    "docID": "N043 Massey 2008 17540369",
+    "et": "KetamineAsAnaesthetic",
+    "off": 7940,
+    "sff": "ketamine hydrochloride"
+  },
+  {
+    "docID": "N043 Massey 2008 17540369",
+    "et": "Compression",
+    "off": 8506,
+    "sff": "crush"
+  },
+  {
+    "docID": "N043 Massey 2008 17540369",
+    "et": "Vibraknife",
+    "off": 9179,
+    "sff": "Vibraknife"
+  },
+  {
+    "docID": "N043 Massey 2008 17540369",
+    "et": "PartialTransection",
+    "off": 9109,
+    "sff": "transverse"
+  },
+  {
+    "docID": "N043 Massey 2008 17540369",
+    "et": "Isoflurane",
+    "off": 15316,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N043 Massey 2008 17540369",
+    "et": "VertebralArea",
+    "off": 9139,
+    "sff": "C3 and C4"
+  },
+  {
+    "docID": "N043 Massey 2008 17540369",
+    "et": "C4",
+    "off": 9146,
+    "sff": "C4"
+  },
+  {
+    "docID": "N043 Massey 2008 17540369",
+    "et": "PartialTransection",
+    "off": 9109,
+    "sff": "transverse lesion"
+  },
+  {
+    "docID": "N043 Massey 2008 17540369",
+    "et": "Xylazine",
+    "off": 7976,
+    "sff": "xylazine"
+  },
+  {
+    "docID": "N043 Massey 2008 17540369",
+    "et": "VertebralArea",
+    "off": 9026,
+    "sff": "C3 and C4"
+  },
+  {
+    "docID": "N043 Massey 2008 17540369",
+    "et": "C4",
+    "off": 9033,
+    "sff": "C4"
+  },
+  {
+    "docID": "N043 Massey 2008 17540369",
+    "et": "PartialTransection",
+    "off": 9120,
+    "sff": "lesion"
+  }
+]

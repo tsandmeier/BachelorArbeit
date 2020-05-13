@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N040 Kim 2006 16705682",
+    "et": "PartialTransection",
+    "off": 23426,
+    "sff": "overhemisection injury"
+  },
+  {
+    "docID": "N040 Kim 2006 16705682",
+    "et": "Anaesthetic",
+    "off": 7657,
+    "sff": "hypothermia"
+  },
+  {
+    "docID": "N040 Kim 2006 16705682",
+    "et": "PartialTransection",
+    "off": 1446,
+    "sff": "overhemisection"
+  },
+  {
+    "docID": "N040 Kim 2006 16705682",
+    "et": "PartialTransection",
+    "off": 33579,
+    "sff": "overhemisection injury"
+  },
+  {
+    "docID": "N040 Kim 2006 16705682",
+    "et": "PartialTransection",
+    "off": 48940,
+    "sff": "overhemisection injury"
+  },
+  {
+    "docID": "N040 Kim 2006 16705682",
+    "et": "C4",
+    "off": 1443,
+    "sff": "C4"
+  },
+  {
+    "docID": "N040 Kim 2006 16705682",
+    "et": "C4",
+    "off": 40671,
+    "sff": "C4"
+  },
+  {
+    "docID": "N040 Kim 2006 16705682",
+    "et": "Anaesthetic",
+    "off": 7639,
+    "sff": "anesthetized with hypothermia"
+  },
+  {
+    "docID": "N040 Kim 2006 16705682",
+    "et": "PartialTransection",
+    "off": 28439,
+    "sff": "overhemisection injury"
+  },
+  {
+    "docID": "N040 Kim 2006 16705682",
+    "et": "Scissors",
+    "off": 7119,
+    "sff": "iridectomy scissors"
+  },
+  {
+    "docID": "N040 Kim 2006 16705682",
+    "et": "PartialTransection",
+    "off": 1446,
+    "sff": "overhemisection injury"
+  },
+  {
+    "docID": "N040 Kim 2006 16705682",
+    "et": "Compression",
+    "off": 64121,
+    "sff": "crush lesion"
+  }
+]

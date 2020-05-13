@@ -1,0 +1,302 @@
+[
+  {
+    "docID": "N170 Liu 2010",
+    "et": "WistarRat",
+    "off": 997,
+    "sff": "rats"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "Age",
+    "off": 12668,
+    "sff": "days"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "Adult",
+    "off": 1263,
+    "sff": "adult"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "Weight",
+    "off": 10071,
+    "sff": "200"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "SpragueDawleyRat",
+    "off": 4675,
+    "sff": "rats"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "Weight",
+    "off": 6289,
+    "sff": "kg"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "LongEvansRat",
+    "off": 4675,
+    "sff": "rats"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "RatSpecies",
+    "off": 997,
+    "sff": "rats"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "Age",
+    "off": 12553,
+    "sff": "days"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "RatSpecies",
+    "off": 495,
+    "sff": "rats"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "WistarRat",
+    "off": 495,
+    "sff": "rats"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "Age",
+    "off": 9119,
+    "sff": "days"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "WistarRat",
+    "off": 4675,
+    "sff": "rats"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "FischerRat",
+    "off": 4675,
+    "sff": "rats"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "SpragueDawleyRat",
+    "off": 555,
+    "sff": "rats"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "SpragueDawleyRat",
+    "off": 5074,
+    "sff": "–"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "SpragueDawleyRat",
+    "off": 6170,
+    "sff": "rats"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "Age",
+    "off": 12458,
+    "sff": "days"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "Weight",
+    "off": 9754,
+    "sff": "mean"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "RatSpecies",
+    "off": 4675,
+    "sff": "rats"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "Age",
+    "off": 11049,
+    "sff": "days"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "Age",
+    "off": 9858,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "LongEvansRat",
+    "off": 13693,
+    "sff": "rats"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "Age",
+    "off": 647,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "ListerHoodedRat",
+    "off": 6170,
+    "sff": "rats"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "RatSpecies",
+    "off": 6170,
+    "sff": "rats"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "FischerRat",
+    "off": 555,
+    "sff": "rats"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "Age",
+    "off": 8907,
+    "sff": "days"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "SpragueDawleyRat",
+    "off": 13693,
+    "sff": "rats"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "SpragueDawleyRat",
+    "off": 495,
+    "sff": "rats"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "WistarRat",
+    "off": 555,
+    "sff": "rats"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "Weight",
+    "off": 6810,
+    "sff": "300"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "RatSpecies",
+    "off": 555,
+    "sff": "rats"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "C57_BL6_Mouse",
+    "off": 9549,
+    "sff": "6"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "Age",
+    "off": 6243,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "ListerHoodedRat",
+    "off": 13693,
+    "sff": "rats"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "FischerRat",
+    "off": 13693,
+    "sff": "rats"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "LongEvansRat",
+    "off": 6170,
+    "sff": "rats"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "WistarRat",
+    "off": 13693,
+    "sff": "rats"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "RatSpecies",
+    "off": 13693,
+    "sff": "rats"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "Weight",
+    "off": 10103,
+    "sff": "200"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "Age",
+    "off": 8531,
+    "sff": "days"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "Weight",
+    "off": 7561,
+    "sff": "300"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "SpragueDawleyRat",
+    "off": 997,
+    "sff": "rats"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "Age",
+    "off": 8510,
+    "sff": "3"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "WistarRat",
+    "off": 6170,
+    "sff": "rats"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "Age",
+    "off": 6356,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "SpragueDawleyRat",
+    "off": 10389,
+    "sff": "–"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "Age",
+    "off": 12901,
+    "sff": "days"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "FischerRat",
+    "off": 6170,
+    "sff": "rats"
+  }
+]

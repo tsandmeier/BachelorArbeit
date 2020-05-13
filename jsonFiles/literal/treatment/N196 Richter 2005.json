@@ -1,0 +1,62 @@
+[
+  {
+    "docID": "N196 Richter 2005",
+    "et": "DosageExtracorporal",
+    "off": 13648,
+    "sff": "90,000 cells"
+  },
+  {
+    "docID": "N196 Richter 2005",
+    "et": "Rostral",
+    "off": 43894,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N196 Richter 2005",
+    "et": "Rostral",
+    "off": 43655,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N196 Richter 2005",
+    "et": "InjectionDelivery",
+    "off": 13569,
+    "sff": "injected"
+  },
+  {
+    "docID": "N196 Richter 2005",
+    "et": "InjectionDelivery",
+    "off": 13716,
+    "sff": "injected"
+  },
+  {
+    "docID": "N196 Richter 2005",
+    "et": "Rostral",
+    "off": 13312,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N196 Richter 2005",
+    "et": "Rostral",
+    "off": 1153,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N196 Richter 2005",
+    "et": "InjectionDelivery",
+    "off": 34243,
+    "sff": "SC"
+  },
+  {
+    "docID": "N196 Richter 2005",
+    "et": "Rostral",
+    "off": 32898,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N196 Richter 2005",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 646,
+    "sff": "OECs"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "Isoflurane",
+    "off": 6417,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "LateralHemisection",
+    "off": 8946,
+    "sff": "lateral"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "Anaesthetic",
+    "off": 6371,
+    "sff": "atropine sulfate"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "Isoflurane",
+    "off": 6524,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "PartialTransection",
+    "off": 19774,
+    "sff": "dorsal quadrant lesion"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "PartialTransection",
+    "off": 24237,
+    "sff": "dorsal quadrant lesion"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "LateralHemisection",
+    "off": 28157,
+    "sff": "lateral"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "KetamineAsAnaesthetic",
+    "off": 6327,
+    "sff": "ketamine"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "Scissors",
+    "off": 8289,
+    "sff": "microscissors"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "Compression",
+    "off": 24298,
+    "sff": "dorsolateral"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "CompleteTransection",
+    "off": 11421,
+    "sff": "sectioned"
+  },
+  {
+    "docID": "N092 Cote, Hanna et al. 2010",
+    "et": "Compression",
+    "off": 19835,
+    "sff": "dorsolateral"
+  }
+]

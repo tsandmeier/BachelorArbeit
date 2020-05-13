@@ -1,0 +1,194 @@
+[
+  {
+    "docID": "N232 Zhang 2012",
+    "et": "TissueSparingTest",
+    "off": 17935,
+    "sff": "spared tissue"
+  },
+  {
+    "docID": "N232 Zhang 2012",
+    "et": "AxonalChangesTest",
+    "off": 12640,
+    "sff": "number of FB-labeled neurons"
+  },
+  {
+    "docID": "N232 Zhang 2012",
+    "et": "AstrogliosisTest",
+    "off": 20704,
+    "sff": "number"
+  },
+  {
+    "docID": "N232 Zhang 2012",
+    "et": "TissueSparingTest",
+    "off": 11031,
+    "sff": "spared tissue"
+  },
+  {
+    "docID": "N232 Zhang 2012",
+    "et": "TissueSparingTest",
+    "off": 19732,
+    "sff": "spared tissue"
+  },
+  {
+    "docID": "N232 Zhang 2012",
+    "et": "AstrogliosisTest",
+    "off": 21154,
+    "sff": "number"
+  },
+  {
+    "docID": "N232 Zhang 2012",
+    "et": "TissueSparingTest",
+    "off": 11225,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N232 Zhang 2012",
+    "et": "AxonalRegenerationTest",
+    "off": 21823,
+    "sff": "FB-labeled neurons"
+  },
+  {
+    "docID": "N232 Zhang 2012",
+    "et": "AxonalRegenerationTest",
+    "off": 12981,
+    "sff": "FB-labeled neurons"
+  },
+  {
+    "docID": "N232 Zhang 2012",
+    "et": "AstrogliosisTest",
+    "off": 9890,
+    "sff": "area"
+  },
+  {
+    "docID": "N232 Zhang 2012",
+    "et": "AstrogliosisTest",
+    "off": 20372,
+    "sff": "number"
+  },
+  {
+    "docID": "N232 Zhang 2012",
+    "et": "AxonalRegenerationTest",
+    "off": 13037,
+    "sff": "FB-labeled neurons"
+  },
+  {
+    "docID": "N232 Zhang 2012",
+    "et": "AstrogliosisTest",
+    "off": 20944,
+    "sff": "number"
+  },
+  {
+    "docID": "N232 Zhang 2012",
+    "et": "TissueSparingTest",
+    "off": 10818,
+    "sff": "spared tissue"
+  },
+  {
+    "docID": "N232 Zhang 2012",
+    "et": "AxonalRegenerationTest",
+    "off": 20465,
+    "sff": "FB-labeled neurons"
+  },
+  {
+    "docID": "N232 Zhang 2012",
+    "et": "TissueSparingTest",
+    "off": 10112,
+    "sff": "spared tissue"
+  },
+  {
+    "docID": "N232 Zhang 2012",
+    "et": "TissueSparingTest",
+    "off": 11201,
+    "sff": "spared tissue"
+  },
+  {
+    "docID": "N232 Zhang 2012",
+    "et": "TissueSparingTest",
+    "off": 10030,
+    "sff": "spared tissue"
+  },
+  {
+    "docID": "N232 Zhang 2012",
+    "et": "NeuronalChangesTest",
+    "off": 21154,
+    "sff": "number of labeled neurons"
+  },
+  {
+    "docID": "N232 Zhang 2012",
+    "et": "TissueSparingTest",
+    "off": 19051,
+    "sff": "spared tissue"
+  },
+  {
+    "docID": "N232 Zhang 2012",
+    "et": "TissueSparingTest",
+    "off": 11755,
+    "sff": "spared tissue"
+  },
+  {
+    "docID": "N232 Zhang 2012",
+    "et": "TissueSparingTest",
+    "off": 9835,
+    "sff": "spared tissue"
+  },
+  {
+    "docID": "N232 Zhang 2012",
+    "et": "NeuronalChangesTest",
+    "off": 20704,
+    "sff": "number of labeled neurons"
+  },
+  {
+    "docID": "N232 Zhang 2012",
+    "et": "TissueSparingTest",
+    "off": 18486,
+    "sff": "spared tissue"
+  },
+  {
+    "docID": "N232 Zhang 2012",
+    "et": "TissueSparingTest",
+    "off": 18162,
+    "sff": "spared tissue"
+  },
+  {
+    "docID": "N232 Zhang 2012",
+    "et": "TissueSparingTest",
+    "off": 17651,
+    "sff": "spared tissue"
+  },
+  {
+    "docID": "N232 Zhang 2012",
+    "et": "TissueSparingTest",
+    "off": 18015,
+    "sff": "spared tissue"
+  },
+  {
+    "docID": "N232 Zhang 2012",
+    "et": "LadderRungTest",
+    "off": 15066,
+    "sff": "stepping"
+  },
+  {
+    "docID": "N232 Zhang 2012",
+    "et": "TissueSparingTest",
+    "off": 19548,
+    "sff": "spared tissue"
+  },
+  {
+    "docID": "N232 Zhang 2012",
+    "et": "NeuronalChangesTest",
+    "off": 20944,
+    "sff": "number of labeled neurons"
+  },
+  {
+    "docID": "N232 Zhang 2012",
+    "et": "AstrogliosisTest",
+    "off": 11831,
+    "sff": "area"
+  },
+  {
+    "docID": "N232 Zhang 2012",
+    "et": "TissueSparingTest",
+    "off": 10570,
+    "sff": "tissue"
+  }
+]

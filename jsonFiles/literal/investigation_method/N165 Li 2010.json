@@ -1,0 +1,194 @@
+[
+  {
+    "docID": "N165 Li 2010",
+    "et": "TissueSparingTest",
+    "off": 10869,
+    "sff": "amount"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "AxonalChangesTest",
+    "off": 8531,
+    "sff": "observed"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "AstrogliosisTest",
+    "off": 11413,
+    "sff": "number"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "AxonalChangesTest",
+    "off": 1321,
+    "sff": "number"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "AstrogliosisTest",
+    "off": 1176,
+    "sff": "number"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "AxonalRegenerationTest",
+    "off": 11413,
+    "sff": "number"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "AstrogliosisTest",
+    "off": 11601,
+    "sff": "number"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "AxonalChangesTest",
+    "off": 11356,
+    "sff": "number"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "LesionVolumeTest",
+    "off": 7531,
+    "sff": "cavities"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "AxonalChangesTest",
+    "off": 8304,
+    "sff": "fluorescence"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "AstrogliosisTest",
+    "off": 11278,
+    "sff": "number"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "AxonalRegenerationTest",
+    "off": 11278,
+    "sff": "number"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "AxonalChangesTest",
+    "off": 1176,
+    "sff": "number"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "AxonalSproutingTest",
+    "off": 6422,
+    "sff": "primary"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "AstrogliosisTest",
+    "off": 9793,
+    "sff": "number"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "AxonalChangesTest",
+    "off": 11278,
+    "sff": "number"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "TissueSparingTest",
+    "off": 4383,
+    "sff": "remaining"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "AxonalRegenerationTest",
+    "off": 9793,
+    "sff": "number"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "AstrogliosisTest",
+    "off": 11520,
+    "sff": "number"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "AstrogliosisTest",
+    "off": 5613,
+    "sff": "immunofluorescence"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "ScarringTest",
+    "off": 5455,
+    "sff": "staining"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "AxonalChangesTest",
+    "off": 9793,
+    "sff": "number"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "AxonalChangesTest",
+    "off": 886,
+    "sff": "observed"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "AxonalChangesTest",
+    "off": 6659,
+    "sff": "number"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "BBBTest",
+    "off": 1026,
+    "sff": "BBB score"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "AxonalSproutingTest",
+    "off": 5874,
+    "sff": "primary"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "AxonalRegenerationTest",
+    "off": 5646,
+    "sff": "staining"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "TissueSparingTest",
+    "off": 4680,
+    "sff": "remaining"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "AxonalRegenerationTest",
+    "off": 8729,
+    "sff": "number"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "AxonalRegenerationTest",
+    "off": 1176,
+    "sff": "number"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "NeuronalChangesTest",
+    "off": 11413,
+    "sff": "number"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "ProteinLevelAnalysis",
+    "off": 12402,
+    "sff": "level"
+  }
+]

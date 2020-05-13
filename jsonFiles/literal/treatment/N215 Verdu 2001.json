@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "Saline",
+    "off": 4669,
+    "sff": "saline"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "InjectionDelivery",
+    "off": 4992,
+    "sff": "injection"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "RingersSolution",
+    "off": 6880,
+    "sff": "solution"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "DosageExtracorporal",
+    "off": 5027,
+    "sff": "60 000 in 3 µl DMEM"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "Saline",
+    "off": 4550,
+    "sff": "saline"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "RingersSolution",
+    "off": 7011,
+    "sff": "solution"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "Vehicle",
+    "off": 323,
+    "sff": "rat"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "InjectionDelivery",
+    "off": 4217,
+    "sff": "i.p"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 288,
+    "sff": "OECs"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "Rostral",
+    "off": 13581,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "Rostral",
+    "off": 13197,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N215 Verdu 2001",
+    "et": "Saline",
+    "off": 6802,
+    "sff": "saline"
+  }
+]

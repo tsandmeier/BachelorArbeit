@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "SodiumPentobarbital",
+    "off": 5212,
+    "sff": "pentobarbital"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "LateralHemisection",
+    "off": 13438,
+    "sff": "transected"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "CompleteTransection",
+    "off": 5477,
+    "sff": "completely transected"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "T10",
+    "off": 1076,
+    "sff": "T"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "SodiumPentobarbital",
+    "off": 5350,
+    "sff": "sodium"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "Blade",
+    "off": 7525,
+    "sff": "surgical"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "Laminectomy",
+    "off": 5396,
+    "sff": "laminectomy"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "Blade",
+    "off": 6819,
+    "sff": "sharp"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "Blade",
+    "off": 5544,
+    "sff": "surgical"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "LateralHemisection",
+    "off": 11007,
+    "sff": "lateral"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "Scissors",
+    "off": 5522,
+    "sff": "microscissors"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "T9",
+    "off": 5436,
+    "sff": "T9"
+  }
+]

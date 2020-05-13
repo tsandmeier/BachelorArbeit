@@ -1,0 +1,200 @@
+[
+  {
+    "docID": "N188 Negredo 2008",
+    "et": "ScarringTest",
+    "off": 33565,
+    "sff": "expression"
+  },
+  {
+    "docID": "N188 Negredo 2008",
+    "et": "AxonalRegenerationTest",
+    "off": 29030,
+    "sff": "intensities"
+  },
+  {
+    "docID": "N188 Negredo 2008",
+    "et": "InclinedPlaneTest",
+    "off": 35043,
+    "sff": "capacity"
+  },
+  {
+    "docID": "N188 Negredo 2008",
+    "et": "SpinalCordEvokedPotentialsTest",
+    "off": 44936,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N188 Negredo 2008",
+    "et": "AxonalRegenerationTest",
+    "off": 20018,
+    "sff": "intensities"
+  },
+  {
+    "docID": "N188 Negredo 2008",
+    "et": "HistologicalInvestigationTest",
+    "off": 38606,
+    "sff": "proportion of fibres expressing MHC-I"
+  },
+  {
+    "docID": "N188 Negredo 2008",
+    "et": "InclinedPlaneTest",
+    "off": 1768,
+    "sff": "capacity"
+  },
+  {
+    "docID": "N188 Negredo 2008",
+    "et": "InclinedPlaneTest",
+    "off": 31207,
+    "sff": "capacity"
+  },
+  {
+    "docID": "N188 Negredo 2008",
+    "et": "SpinalCordEvokedPotentialsTest",
+    "off": 45936,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N188 Negredo 2008",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 44936,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N188 Negredo 2008",
+    "et": "AxonalSproutingTest",
+    "off": 18969,
+    "sff": "primary"
+  },
+  {
+    "docID": "N188 Negredo 2008",
+    "et": "AxonalRegenerationTest",
+    "off": 28868,
+    "sff": "intensities"
+  },
+  {
+    "docID": "N188 Negredo 2008",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 2869,
+    "sff": "somatosensory"
+  },
+  {
+    "docID": "N188 Negredo 2008",
+    "et": "AxonalSproutingTest",
+    "off": 22304,
+    "sff": "density"
+  },
+  {
+    "docID": "N188 Negredo 2008",
+    "et": "InclinedPlaneTest",
+    "off": 20476,
+    "sff": "capacity"
+  },
+  {
+    "docID": "N188 Negredo 2008",
+    "et": "AxonalSproutingTest",
+    "off": 12415,
+    "sff": "primary"
+  },
+  {
+    "docID": "N188 Negredo 2008",
+    "et": "ImagingTest",
+    "off": 19644,
+    "sff": "intensity"
+  },
+  {
+    "docID": "N188 Negredo 2008",
+    "et": "AxonalSproutingTest",
+    "off": 18368,
+    "sff": "primary"
+  },
+  {
+    "docID": "N188 Negredo 2008",
+    "et": "HistologicalInvestigationTest",
+    "off": 37074,
+    "sff": "GPDH levels"
+  },
+  {
+    "docID": "N188 Negredo 2008",
+    "et": "ImagingTest",
+    "off": 19968,
+    "sff": "intensity"
+  },
+  {
+    "docID": "N188 Negredo 2008",
+    "et": "ScarringTest",
+    "off": 18095,
+    "sff": "expression"
+  },
+  {
+    "docID": "N188 Negredo 2008",
+    "et": "ScarringTest",
+    "off": 2160,
+    "sff": "expression"
+  },
+  {
+    "docID": "N188 Negredo 2008",
+    "et": "HistologicalInvestigationTest",
+    "off": 36605,
+    "sff": "histochemical glycolytic capacity of both muscle types"
+  },
+  {
+    "docID": "N188 Negredo 2008",
+    "et": "ImagingTest",
+    "off": 21226,
+    "sff": "region"
+  },
+  {
+    "docID": "N188 Negredo 2008",
+    "et": "TissueSparingTest",
+    "off": 15739,
+    "sff": "amount"
+  },
+  {
+    "docID": "N188 Negredo 2008",
+    "et": "ScarringTest",
+    "off": 41642,
+    "sff": "expression"
+  },
+  {
+    "docID": "N188 Negredo 2008",
+    "et": "InclinedPlaneTest",
+    "off": 37642,
+    "sff": "capacity"
+  },
+  {
+    "docID": "N188 Negredo 2008",
+    "et": "ImagingTest",
+    "off": 21398,
+    "sff": "regions"
+  },
+  {
+    "docID": "N188 Negredo 2008",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 45936,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N188 Negredo 2008",
+    "et": "ScarringTest",
+    "off": 20791,
+    "sff": "staining"
+  },
+  {
+    "docID": "N188 Negredo 2008",
+    "et": "AxonalSproutingTest",
+    "off": 46168,
+    "sff": "sensory"
+  },
+  {
+    "docID": "N188 Negredo 2008",
+    "et": "AxonalSproutingTest",
+    "off": 21133,
+    "sff": "density"
+  },
+  {
+    "docID": "N188 Negredo 2008",
+    "et": "ImagingTest",
+    "off": 19897,
+    "sff": "intensity"
+  }
+]

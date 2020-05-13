@@ -1,0 +1,68 @@
+[
+  {
+    "docID": "N106 Xiong",
+    "et": "Scissors",
+    "off": 8173,
+    "sff": "microscissors"
+  },
+  {
+    "docID": "N106 Xiong",
+    "et": "Dislocation",
+    "off": 13666,
+    "sff": "consequence"
+  },
+  {
+    "docID": "N106 Xiong",
+    "et": "WeightDrop",
+    "off": 9204,
+    "sff": "device"
+  },
+  {
+    "docID": "N106 Xiong",
+    "et": "T10",
+    "off": 8143,
+    "sff": "T10"
+  },
+  {
+    "docID": "N106 Xiong",
+    "et": "SodiumPentobarbital",
+    "off": 7769,
+    "sff": "pentobarbital"
+  },
+  {
+    "docID": "N106 Xiong",
+    "et": "SodiumPentobarbital",
+    "off": 7769,
+    "sff": "pentobarbital sodium"
+  },
+  {
+    "docID": "N106 Xiong",
+    "et": "CompleteTransection",
+    "off": 8114,
+    "sff": "completely transected"
+  },
+  {
+    "docID": "N106 Xiong",
+    "et": "C4",
+    "off": 8147,
+    "sff": "vertebra"
+  },
+  {
+    "docID": "N106 Xiong",
+    "et": "Forceps",
+    "off": 8318,
+    "sff": "forceps"
+  },
+  {
+    "docID": "N106 Xiong",
+    "et": "T10",
+    "off": 7803,
+    "sff": "T10"
+  },
+  {
+    "docID": "N106 Xiong",
+    "et": "SodiumPentobarbital",
+    "off": 7766,
+    "sff": "2% pentobarbital sodium"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "docID": "N182 Moon 2006",
+    "et": "InjectionDelivery",
+    "off": 14746,
+    "sff": "injected"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "InjectionDelivery",
+    "off": 14331,
+    "sff": "injected"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 878,
+    "sff": "OEG"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "EnrichedEnvironment",
+    "off": 10839,
+    "sff": "motor-enriched housing"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "InjectionDelivery",
+    "off": 32227,
+    "sff": "injected"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "InjectionDelivery",
+    "off": 9380,
+    "sff": "injected"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "Rostral",
+    "off": 2077,
+    "sff": "rostrally"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "InjectionDelivery",
+    "off": 8476,
+    "sff": "SC"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "DosageExtracorporal",
+    "off": 8932,
+    "sff": "200,000 cells per stump"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "SchwannCell",
+    "off": 916,
+    "sff": "SC"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "InjectionDelivery",
+    "off": 1265,
+    "sff": "injected"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "InjectionDelivery",
+    "off": 5162,
+    "sff": "SC"
+  },
+  {
+    "docID": "N182 Moon 2006",
+    "et": "InjectionDelivery",
+    "off": 20888,
+    "sff": "injected"
+  }
+]

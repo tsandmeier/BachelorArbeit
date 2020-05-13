@@ -1,0 +1,68 @@
+[
+  {
+    "docID": "N115 Ni, Xia et al. 2015",
+    "et": "LateralHemisection",
+    "off": 25280,
+    "sff": "hemitransected"
+  },
+  {
+    "docID": "N115 Ni, Xia et al. 2015",
+    "et": "Blade",
+    "off": 25549,
+    "sff": "blade"
+  },
+  {
+    "docID": "N115 Ni, Xia et al. 2015",
+    "et": "Cervical",
+    "off": 38119,
+    "sff": "cervical"
+  },
+  {
+    "docID": "N115 Ni, Xia et al. 2015",
+    "et": "Blade",
+    "off": 25402,
+    "sff": "blade"
+  },
+  {
+    "docID": "N115 Ni, Xia et al. 2015",
+    "et": "T7",
+    "off": 25105,
+    "sff": "T7"
+  },
+  {
+    "docID": "N115 Ni, Xia et al. 2015",
+    "et": "Blade",
+    "off": 25620,
+    "sff": "blade"
+  },
+  {
+    "docID": "N115 Ni, Xia et al. 2015",
+    "et": "VertebralArea",
+    "off": 4350,
+    "sff": "levels"
+  },
+  {
+    "docID": "N115 Ni, Xia et al. 2015",
+    "et": "Blade",
+    "off": 25318,
+    "sff": "blade"
+  },
+  {
+    "docID": "N115 Ni, Xia et al. 2015",
+    "et": "Blade",
+    "off": 25461,
+    "sff": "blade"
+  },
+  {
+    "docID": "N115 Ni, Xia et al. 2015",
+    "et": "LateralHemisection",
+    "off": 36004,
+    "sff": "lateral hemisection"
+  },
+  {
+    "docID": "N115 Ni, Xia et al. 2015",
+    "et": "AneurysmClip",
+    "off": 17365,
+    "sff": "curved"
+  }
+]

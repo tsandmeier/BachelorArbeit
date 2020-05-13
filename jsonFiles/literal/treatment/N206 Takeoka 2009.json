@@ -1,0 +1,62 @@
+[
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "DosageExtracorporal",
+    "off": 8158,
+    "sff": "400,000"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "Rostral",
+    "off": 8230,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "Caudal",
+    "off": 8242,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "TreadmillTraining",
+    "off": 8417,
+    "sff": "treadmill hindlimb step training"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "Rostral",
+    "off": 16634,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "InjectionDelivery",
+    "off": 8175,
+    "sff": "injected"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "Saline",
+    "off": 10941,
+    "sff": "saline"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "Vehicle",
+    "off": 8136,
+    "sff": "Media"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "TreadmillTraining",
+    "off": 26834,
+    "sff": "step training"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 620,
+    "sff": "OEG"
+  }
+]

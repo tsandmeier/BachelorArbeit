@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "Xylazine",
+    "off": 4866,
+    "sff": "xylazine"
+  },
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "ScoutenWireKnife",
+    "off": 16724,
+    "sff": "wire"
+  },
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "Laminectomy",
+    "off": 16536,
+    "sff": "cords"
+  },
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "Laminectomy",
+    "off": 24312,
+    "sff": "cords"
+  },
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "VertebralArea",
+    "off": 5038,
+    "sff": "T11"
+  },
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "Scissors",
+    "off": 5148,
+    "sff": "spring scissors"
+  },
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "Laminectomy",
+    "off": 20170,
+    "sff": "cords"
+  },
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "DorsalHemisection",
+    "off": 15943,
+    "sff": "dorsal"
+  },
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "T11",
+    "off": 4994,
+    "sff": "T11"
+  },
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "DorsalHemisection",
+    "off": 4949,
+    "sff": "dorsal"
+  },
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "Laminectomy",
+    "off": 5009,
+    "sff": "laminectomy"
+  },
+  {
+    "docID": "N153 Imaizumi 2000",
+    "et": "LateralHemisection",
+    "off": 12769,
+    "sff": "transected"
+  }
+]

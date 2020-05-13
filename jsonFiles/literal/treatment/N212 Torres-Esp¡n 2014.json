@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N212 Torres-Esp¡n 2014",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 800,
+    "sff": "OECs"
+  },
+  {
+    "docID": "N212 Torres-Esp¡n 2014",
+    "et": "Saline",
+    "off": 6123,
+    "sff": "saline"
+  },
+  {
+    "docID": "N212 Torres-Esp¡n 2014",
+    "et": "InjectionDelivery",
+    "off": 33411,
+    "sff": "injected"
+  },
+  {
+    "docID": "N212 Torres-Esp¡n 2014",
+    "et": "Vehicle",
+    "off": 38850,
+    "sff": "vehicle"
+  },
+  {
+    "docID": "N212 Torres-Esp¡n 2014",
+    "et": "InjectionDelivery",
+    "off": 12449,
+    "sff": "injected"
+  },
+  {
+    "docID": "N212 Torres-Esp¡n 2014",
+    "et": "Vehicle",
+    "off": 27918,
+    "sff": "vehicle"
+  },
+  {
+    "docID": "N212 Torres-Esp¡n 2014",
+    "et": "Vehicle",
+    "off": 11422,
+    "sff": "vehicle"
+  },
+  {
+    "docID": "N212 Torres-Esp¡n 2014",
+    "et": "Rostral",
+    "off": 12487,
+    "sff": "rostrally"
+  },
+  {
+    "docID": "N212 Torres-Esp¡n 2014",
+    "et": "InjectionDelivery",
+    "off": 18102,
+    "sff": "injected"
+  },
+  {
+    "docID": "N212 Torres-Esp¡n 2014",
+    "et": "Rostral",
+    "off": 31149,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N212 Torres-Esp¡n 2014",
+    "et": "Vehicle",
+    "off": 33197,
+    "sff": "vehicle"
+  },
+  {
+    "docID": "N212 Torres-Esp¡n 2014",
+    "et": "Rostral",
+    "off": 38417,
+    "sff": "rostral"
+  }
+]

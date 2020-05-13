@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N196 Richter 2005",
+    "et": "C4",
+    "off": 12343,
+    "sff": "fourth"
+  },
+  {
+    "docID": "N196 Richter 2005",
+    "et": "Compression",
+    "off": 12941,
+    "sff": "crush"
+  },
+  {
+    "docID": "N196 Richter 2005",
+    "et": "Forceps",
+    "off": 12484,
+    "sff": "forceps"
+  },
+  {
+    "docID": "N196 Richter 2005",
+    "et": "VertebralArea",
+    "off": 16541,
+    "sff": "levels"
+  },
+  {
+    "docID": "N196 Richter 2005",
+    "et": "LateralHemisection",
+    "off": 12573,
+    "sff": "dorsolateral"
+  },
+  {
+    "docID": "N196 Richter 2005",
+    "et": "Compression",
+    "off": 11707,
+    "sff": "crush"
+  },
+  {
+    "docID": "N196 Richter 2005",
+    "et": "Xylazine",
+    "off": 12225,
+    "sff": "xylazine"
+  },
+  {
+    "docID": "N196 Richter 2005",
+    "et": "Compression",
+    "off": 12659,
+    "sff": "crushing the dorsolateral funiculus"
+  },
+  {
+    "docID": "N196 Richter 2005",
+    "et": "KetamineAsAnaesthetic",
+    "off": 12234,
+    "sff": "ketamine"
+  },
+  {
+    "docID": "N196 Richter 2005",
+    "et": "Compression",
+    "off": 1200,
+    "sff": "crush"
+  },
+  {
+    "docID": "N196 Richter 2005",
+    "et": "Compression",
+    "off": 27091,
+    "sff": "crush"
+  },
+  {
+    "docID": "N196 Richter 2005",
+    "et": "LateralHemisection",
+    "off": 27104,
+    "sff": "dorsolateral"
+  }
+]

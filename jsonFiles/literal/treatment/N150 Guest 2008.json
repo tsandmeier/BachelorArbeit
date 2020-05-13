@@ -1,0 +1,80 @@
+[
+  {
+    "docID": "N150 Guest 2008",
+    "et": "Caudal",
+    "off": 14561,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N150 Guest 2008",
+    "et": "InjectionDelivery",
+    "off": 1228,
+    "sff": "injected"
+  },
+  {
+    "docID": "N150 Guest 2008",
+    "et": "DosageExtracorporal",
+    "off": 14686,
+    "sff": "400,000"
+  },
+  {
+    "docID": "N150 Guest 2008",
+    "et": "Rostral",
+    "off": 43266,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N150 Guest 2008",
+    "et": "Rostral",
+    "off": 30989,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N150 Guest 2008",
+    "et": "InjectionDelivery",
+    "off": 14326,
+    "sff": "injected"
+  },
+  {
+    "docID": "N150 Guest 2008",
+    "et": "InjectionDelivery",
+    "off": 24885,
+    "sff": "injected"
+  },
+  {
+    "docID": "N150 Guest 2008",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 830,
+    "sff": "POEG"
+  },
+  {
+    "docID": "N150 Guest 2008",
+    "et": "InjectionDelivery",
+    "off": 43616,
+    "sff": "injected"
+  },
+  {
+    "docID": "N150 Guest 2008",
+    "et": "Rostral",
+    "off": 14549,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N150 Guest 2008",
+    "et": "Rostral",
+    "off": 19260,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N150 Guest 2008",
+    "et": "InjectionDelivery",
+    "off": 14531,
+    "sff": "injected"
+  },
+  {
+    "docID": "N150 Guest 2008",
+    "et": "Rostral",
+    "off": 23898,
+    "sff": "rostral"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N214 Vavrek 2007",
+    "et": "Anaesthetic",
+    "off": 4403,
+    "sff": "Hypnorm"
+  },
+  {
+    "docID": "N214 Vavrek 2007",
+    "et": "Anaesthetic",
+    "off": 4477,
+    "sff": "Midazolam"
+  },
+  {
+    "docID": "N214 Vavrek 2007",
+    "et": "T8",
+    "off": 4698,
+    "sff": "Th8"
+  },
+  {
+    "docID": "N214 Vavrek 2007",
+    "et": "LateralHemisection",
+    "off": 11055,
+    "sff": "lateral"
+  },
+  {
+    "docID": "N214 Vavrek 2007",
+    "et": "LateralHemisection",
+    "off": 11870,
+    "sff": "lateral"
+  },
+  {
+    "docID": "N214 Vavrek 2007",
+    "et": "LateralHemisection",
+    "off": 9586,
+    "sff": "lateral"
+  },
+  {
+    "docID": "N214 Vavrek 2007",
+    "et": "LightSource",
+    "off": 3700,
+    "sff": "fiber"
+  },
+  {
+    "docID": "N214 Vavrek 2007",
+    "et": "LateralHemisection",
+    "off": 7199,
+    "sff": "dorsal"
+  },
+  {
+    "docID": "N214 Vavrek 2007",
+    "et": "LateralHemisection",
+    "off": 11783,
+    "sff": "lateral"
+  },
+  {
+    "docID": "N214 Vavrek 2007",
+    "et": "LateralHemisection",
+    "off": 7547,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N214 Vavrek 2007",
+    "et": "LateralHemisection",
+    "off": 6169,
+    "sff": "lateral"
+  },
+  {
+    "docID": "N214 Vavrek 2007",
+    "et": "Isoflurane",
+    "off": 5694,
+    "sff": "isoflurane"
+  }
+]

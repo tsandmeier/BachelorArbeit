@@ -1,0 +1,68 @@
+[
+  {
+    "docID": "N163 Lee 2004",
+    "et": "LateralHemisection",
+    "off": 18036,
+    "sff": "transected"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Isoflurane",
+    "off": 8454,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "LateralHemisection",
+    "off": 14354,
+    "sff": "transected"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "LateralHemisection",
+    "off": 21232,
+    "sff": "transected"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "T8",
+    "off": 6034,
+    "sff": "T8"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Scissors",
+    "off": 6090,
+    "sff": "microscissors"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "WeightDrop",
+    "off": 6656,
+    "sff": "device"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "LateralHemisection",
+    "off": 19994,
+    "sff": "transected"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "LateralHemisection",
+    "off": 18106,
+    "sff": "transected"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "LightSource",
+    "off": 4929,
+    "sff": "fiber"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "LightSource",
+    "off": 2193,
+    "sff": "fiber"
+  }
+]

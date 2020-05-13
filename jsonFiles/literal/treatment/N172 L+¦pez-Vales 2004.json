@@ -1,0 +1,80 @@
+[
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "Saline",
+    "off": 13833,
+    "sff": "saline solution"
+  },
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 289,
+    "sff": "OECs"
+  },
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "Rostral",
+    "off": 9694,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "Saline",
+    "off": 9311,
+    "sff": "saline solution"
+  },
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "DosageExtracorporal",
+    "off": 9927,
+    "sff": "Each animal received a total of 180,000 OECs"
+  },
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "Vehicle",
+    "off": 20466,
+    "sff": "DMEM"
+  },
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "Saline",
+    "off": 14510,
+    "sff": "saline"
+  },
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "Saline",
+    "off": 8688,
+    "sff": "saline"
+  },
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "Saline",
+    "off": 8435,
+    "sff": "saline"
+  },
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "RingersSolution",
+    "off": 13950,
+    "sff": "solution"
+  },
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "InjectionDelivery",
+    "off": 12562,
+    "sff": "subcutaneously"
+  },
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "InjectionDelivery",
+    "off": 9555,
+    "sff": "injections"
+  },
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "Vehicle",
+    "off": 10036,
+    "sff": "vehicle"
+  }
+]

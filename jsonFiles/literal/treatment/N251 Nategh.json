@@ -1,0 +1,68 @@
+[
+  {
+    "docID": "N251 Nategh",
+    "et": "DeliveryMethod",
+    "off": 7432,
+    "sff": "inserted"
+  },
+  {
+    "docID": "N251 Nategh",
+    "et": "Saline",
+    "off": 4967,
+    "sff": "saline solution"
+  },
+  {
+    "docID": "N251 Nategh",
+    "et": "DeliveryMethod",
+    "off": 6600,
+    "sff": "transferred"
+  },
+  {
+    "docID": "N251 Nategh",
+    "et": "InjectionDelivery",
+    "off": 7250,
+    "sff": "injected"
+  },
+  {
+    "docID": "N251 Nategh",
+    "et": "RingersSolution",
+    "off": 8485,
+    "sff": "solution"
+  },
+  {
+    "docID": "N251 Nategh",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 1572,
+    "sff": "OEC"
+  },
+  {
+    "docID": "N251 Nategh",
+    "et": "RingersSolution",
+    "off": 8926,
+    "sff": "solution"
+  },
+  {
+    "docID": "N251 Nategh",
+    "et": "RingersSolution",
+    "off": 4974,
+    "sff": "solution"
+  },
+  {
+    "docID": "N251 Nategh",
+    "et": "RingersSolution",
+    "off": 8621,
+    "sff": "solution"
+  },
+  {
+    "docID": "N251 Nategh",
+    "et": "Saline",
+    "off": 4967,
+    "sff": "saline"
+  },
+  {
+    "docID": "N251 Nategh",
+    "et": "DeliveryMethod",
+    "off": 6690,
+    "sff": "transferred"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "docID": "N248 Imaizumi",
+    "et": "DosageExtracorporal",
+    "off": 26208,
+    "sff": "60,000 cells"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 190,
+    "sff": "OECs"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "Caudal",
+    "off": 26096,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "Rostral",
+    "off": 29209,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "InjectionDelivery",
+    "off": 26146,
+    "sff": "injected"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "DosageExtracorporal",
+    "off": 24737,
+    "sff": "105"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "Rostral",
+    "off": 27562,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 2087,
+    "sff": "OECs"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "SchwannCell",
+    "off": 2097,
+    "sff": "Schwann cells"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "Rostral",
+    "off": 26084,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 3594,
+    "sff": "OECs"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "InjectionDelivery",
+    "off": 25963,
+    "sff": "injected"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "Vehicle",
+    "off": 26569,
+    "sff": "solution"
+  }
+]

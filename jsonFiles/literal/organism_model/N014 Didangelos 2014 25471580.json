@@ -1,0 +1,302 @@
+[
+  {
+    "docID": "N014 Didangelos 2014 25471580",
+    "et": "FischerRat",
+    "off": 19776,
+    "sff": "rats"
+  },
+  {
+    "docID": "N014 Didangelos 2014 25471580",
+    "et": "RatSpecies",
+    "off": 19995,
+    "sff": "rat"
+  },
+  {
+    "docID": "N014 Didangelos 2014 25471580",
+    "et": "Weight",
+    "off": 6239,
+    "sff": "kg"
+  },
+  {
+    "docID": "N014 Didangelos 2014 25471580",
+    "et": "SpragueDawleyRat",
+    "off": 801,
+    "sff": "rats"
+  },
+  {
+    "docID": "N014 Didangelos 2014 25471580",
+    "et": "MouseSpecies",
+    "off": 22057,
+    "sff": "protein"
+  },
+  {
+    "docID": "N014 Didangelos 2014 25471580",
+    "et": "Weight",
+    "off": 14419,
+    "sff": "mean"
+  },
+  {
+    "docID": "N014 Didangelos 2014 25471580",
+    "et": "WistarRat",
+    "off": 14931,
+    "sff": "rats"
+  },
+  {
+    "docID": "N014 Didangelos 2014 25471580",
+    "et": "MouseSpecies",
+    "off": 3489,
+    "sff": "protein"
+  },
+  {
+    "docID": "N014 Didangelos 2014 25471580",
+    "et": "MouseSpecies",
+    "off": 18335,
+    "sff": "protein"
+  },
+  {
+    "docID": "N014 Didangelos 2014 25471580",
+    "et": "FischerRat",
+    "off": 14931,
+    "sff": "rats"
+  },
+  {
+    "docID": "N014 Didangelos 2014 25471580",
+    "et": "SpragueDawleyRat",
+    "off": 19776,
+    "sff": "rats"
+  },
+  {
+    "docID": "N014 Didangelos 2014 25471580",
+    "et": "WistarRat",
+    "off": 19776,
+    "sff": "rats"
+  },
+  {
+    "docID": "N014 Didangelos 2014 25471580",
+    "et": "C57_BL6_Mouse",
+    "off": 21976,
+    "sff": "6"
+  },
+  {
+    "docID": "N014 Didangelos 2014 25471580",
+    "et": "LongEvansRat",
+    "off": 14586,
+    "sff": "rats"
+  },
+  {
+    "docID": "N014 Didangelos 2014 25471580",
+    "et": "LongEvansRat",
+    "off": 4861,
+    "sff": "rats"
+  },
+  {
+    "docID": "N014 Didangelos 2014 25471580",
+    "et": "RatSpecies",
+    "off": 14931,
+    "sff": "rats"
+  },
+  {
+    "docID": "N014 Didangelos 2014 25471580",
+    "et": "LongEvansRat",
+    "off": 24699,
+    "sff": "rats"
+  },
+  {
+    "docID": "N014 Didangelos 2014 25471580",
+    "et": "SpragueDawleyRat",
+    "off": 15380,
+    "sff": "rats"
+  },
+  {
+    "docID": "N014 Didangelos 2014 25471580",
+    "et": "LongEvansRat",
+    "off": 11123,
+    "sff": "rats"
+  },
+  {
+    "docID": "N014 Didangelos 2014 25471580",
+    "et": "Gender",
+    "off": 4854,
+    "sff": "female"
+  },
+  {
+    "docID": "N014 Didangelos 2014 25471580",
+    "et": "Age",
+    "off": 11337,
+    "sff": "6"
+  },
+  {
+    "docID": "N014 Didangelos 2014 25471580",
+    "et": "RatSpecies",
+    "off": 11123,
+    "sff": "rats"
+  },
+  {
+    "docID": "N014 Didangelos 2014 25471580",
+    "et": "Adult",
+    "off": 15374,
+    "sff": "adult"
+  },
+  {
+    "docID": "N014 Didangelos 2014 25471580",
+    "et": "FischerRat",
+    "off": 21624,
+    "sff": "rats"
+  },
+  {
+    "docID": "N014 Didangelos 2014 25471580",
+    "et": "FischerRat",
+    "off": 4861,
+    "sff": "rats"
+  },
+  {
+    "docID": "N014 Didangelos 2014 25471580",
+    "et": "RatSpecies",
+    "off": 3181,
+    "sff": "rats"
+  },
+  {
+    "docID": "N014 Didangelos 2014 25471580",
+    "et": "SpragueDawleyRat",
+    "off": 21624,
+    "sff": "rats"
+  },
+  {
+    "docID": "N014 Didangelos 2014 25471580",
+    "et": "SpragueDawleyRat",
+    "off": 14586,
+    "sff": "rats"
+  },
+  {
+    "docID": "N014 Didangelos 2014 25471580",
+    "et": "WistarRat",
+    "off": 21624,
+    "sff": "rats"
+  },
+  {
+    "docID": "N014 Didangelos 2014 25471580",
+    "et": "WistarRat",
+    "off": 24699,
+    "sff": "rats"
+  },
+  {
+    "docID": "N014 Didangelos 2014 25471580",
+    "et": "WistarRat",
+    "off": 14586,
+    "sff": "rats"
+  },
+  {
+    "docID": "N014 Didangelos 2014 25471580",
+    "et": "WistarRat",
+    "off": 4861,
+    "sff": "rats"
+  },
+  {
+    "docID": "N014 Didangelos 2014 25471580",
+    "et": "Female",
+    "off": 4854,
+    "sff": "female"
+  },
+  {
+    "docID": "N014 Didangelos 2014 25471580",
+    "et": "LongEvansRat",
+    "off": 19776,
+    "sff": "rats"
+  },
+  {
+    "docID": "N014 Didangelos 2014 25471580",
+    "et": "RatSpecies",
+    "off": 14586,
+    "sff": "rats"
+  },
+  {
+    "docID": "N014 Didangelos 2014 25471580",
+    "et": "MouseSpecies",
+    "off": 17623,
+    "sff": "protein"
+  },
+  {
+    "docID": "N014 Didangelos 2014 25471580",
+    "et": "Adult",
+    "off": 4848,
+    "sff": "adult"
+  },
+  {
+    "docID": "N014 Didangelos 2014 25471580",
+    "et": "Weight",
+    "off": 12394,
+    "sff": "mean"
+  },
+  {
+    "docID": "N014 Didangelos 2014 25471580",
+    "et": "RatSpecies",
+    "off": 15380,
+    "sff": "rats"
+  },
+  {
+    "docID": "N014 Didangelos 2014 25471580",
+    "et": "SpragueDawleyRat",
+    "off": 4861,
+    "sff": "rats"
+  },
+  {
+    "docID": "N014 Didangelos 2014 25471580",
+    "et": "SpragueDawleyRat",
+    "off": 4854,
+    "sff": "female"
+  },
+  {
+    "docID": "N014 Didangelos 2014 25471580",
+    "et": "SpragueDawleyRat",
+    "off": 14931,
+    "sff": "rats"
+  },
+  {
+    "docID": "N014 Didangelos 2014 25471580",
+    "et": "Weight",
+    "off": 9713,
+    "sff": "mean"
+  },
+  {
+    "docID": "N014 Didangelos 2014 25471580",
+    "et": "WistarRat",
+    "off": 15380,
+    "sff": "rats"
+  },
+  {
+    "docID": "N014 Didangelos 2014 25471580",
+    "et": "C57_BL6_Mouse",
+    "off": 21115,
+    "sff": "6"
+  },
+  {
+    "docID": "N014 Didangelos 2014 25471580",
+    "et": "SpragueDawleyRat",
+    "off": 11123,
+    "sff": "rats"
+  },
+  {
+    "docID": "N014 Didangelos 2014 25471580",
+    "et": "MouseSpecies",
+    "off": 19194,
+    "sff": "protein"
+  },
+  {
+    "docID": "N014 Didangelos 2014 25471580",
+    "et": "Mixed",
+    "off": 4854,
+    "sff": "female"
+  },
+  {
+    "docID": "N014 Didangelos 2014 25471580",
+    "et": "SpragueDawleyRat",
+    "off": 3181,
+    "sff": "rats"
+  },
+  {
+    "docID": "N014 Didangelos 2014 25471580",
+    "et": "WistarRat",
+    "off": 801,
+    "sff": "rats"
+  }
+]

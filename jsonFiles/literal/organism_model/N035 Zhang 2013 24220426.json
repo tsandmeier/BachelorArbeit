@@ -1,0 +1,302 @@
+[
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "WistarRat",
+    "off": 12467,
+    "sff": "rats"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "RatSpecies",
+    "off": 10648,
+    "sff": "rats"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "Weight",
+    "off": 12730,
+    "sff": "mean"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "SpragueDawleyRat",
+    "off": 6408,
+    "sff": "SD"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "RatSpecies",
+    "off": 2065,
+    "sff": "rats"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "RatSpecies",
+    "off": 7694,
+    "sff": "rats"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "SpragueDawleyRat",
+    "off": 6879,
+    "sff": "Sprague-Dawley rats"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "FischerRat",
+    "off": 10648,
+    "sff": "rats"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "Mixed",
+    "off": 6866,
+    "sff": "female"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "WistarRat",
+    "off": 7694,
+    "sff": "rats"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "Weight",
+    "off": 10060,
+    "sff": "mean"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "WistarRat",
+    "off": 2065,
+    "sff": "rats"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "Age",
+    "off": 6900,
+    "sff": "2Y3 mo old"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "Weight",
+    "off": 6912,
+    "sff": "200Y250 g"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "WistarRat",
+    "off": 10648,
+    "sff": "rats"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "RatSpecies",
+    "off": 12467,
+    "sff": "rats"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "SpragueDawleyRat",
+    "off": 10029,
+    "sff": "SD"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "Weight",
+    "off": 12510,
+    "sff": "mean"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "WistarRat",
+    "off": 10535,
+    "sff": "rats"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "RatSpecies",
+    "off": 10535,
+    "sff": "rats"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "FischerRat",
+    "off": 8300,
+    "sff": "rats"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "SpragueDawleyRat",
+    "off": 6460,
+    "sff": "SD"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "WistarRat",
+    "off": 8300,
+    "sff": "rats"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "WistarRat",
+    "off": 7927,
+    "sff": "rats"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "Gender",
+    "off": 6866,
+    "sff": "female"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "MouseSpecies",
+    "off": 1513,
+    "sff": "protein"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "WistarRat",
+    "off": 1914,
+    "sff": "rats"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "Age",
+    "off": 11601,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "RatSpecies",
+    "off": 10962,
+    "sff": "rats"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "Weight",
+    "off": 6402,
+    "sff": "mean"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "WistarRat",
+    "off": 11394,
+    "sff": "rats"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "Weight",
+    "off": 12426,
+    "sff": "mean"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "Adult",
+    "off": 6873,
+    "sff": "adult"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "WistarRat",
+    "off": 11017,
+    "sff": "rats"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "LongEvansRat",
+    "off": 9060,
+    "sff": "rats"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "SpragueDawleyRat",
+    "off": 6866,
+    "sff": "female"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "WistarRat",
+    "off": 10962,
+    "sff": "rats"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "RatSpecies",
+    "off": 1914,
+    "sff": "rats"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "WistarRat",
+    "off": 13271,
+    "sff": "rats"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "RatSpecies",
+    "off": 7927,
+    "sff": "rats"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "Weight",
+    "off": 12574,
+    "sff": "mean"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "Female",
+    "off": 6866,
+    "sff": "female"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "RatSpecies",
+    "off": 10600,
+    "sff": "rats"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "LongEvansRat",
+    "off": 8300,
+    "sff": "rats"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "WistarRat",
+    "off": 9060,
+    "sff": "rats"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "RatSpecies",
+    "off": 9060,
+    "sff": "rats"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "LongEvansRat",
+    "off": 10600,
+    "sff": "rats"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "ListerHoodedRat",
+    "off": 8300,
+    "sff": "rats"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "Weight",
+    "off": 10023,
+    "sff": "mean"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "WistarRat",
+    "off": 10600,
+    "sff": "rats"
+  }
+]

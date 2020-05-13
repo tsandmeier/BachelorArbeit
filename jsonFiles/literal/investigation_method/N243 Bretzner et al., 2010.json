@@ -1,0 +1,206 @@
+[
+  {
+    "docID": "N243 Bretzner et al., 2010",
+    "et": "AxonalChangesTest",
+    "off": 38932,
+    "sff": "axon profiles"
+  },
+  {
+    "docID": "N243 Bretzner et al., 2010",
+    "et": "AxonalDiebackTest",
+    "off": 38294,
+    "sff": "retraction of rubrospinal axons"
+  },
+  {
+    "docID": "N243 Bretzner et al., 2010",
+    "et": "AxonalSproutingTest",
+    "off": 37239,
+    "sff": "sprouting"
+  },
+  {
+    "docID": "N243 Bretzner et al., 2010",
+    "et": "AxonalRegenerationTest",
+    "off": 30364,
+    "sff": "number of rubrospinal axons"
+  },
+  {
+    "docID": "N243 Bretzner et al., 2010",
+    "et": "AxonalChangesTest",
+    "off": 36962,
+    "sff": "axonal density"
+  },
+  {
+    "docID": "N243 Bretzner et al., 2010",
+    "et": "AstrogliosisTest",
+    "off": 33553,
+    "sff": "astrocytic activation"
+  },
+  {
+    "docID": "N243 Bretzner et al., 2010",
+    "et": "AxonalChangesTest",
+    "off": 22621,
+    "sff": "axonal density"
+  },
+  {
+    "docID": "N243 Bretzner et al., 2010",
+    "et": "LesionVolumeTest",
+    "off": 22779,
+    "sff": "lesion area"
+  },
+  {
+    "docID": "N243 Bretzner et al., 2010",
+    "et": "AxonalChangesTest",
+    "off": 30386,
+    "sff": "axons"
+  },
+  {
+    "docID": "N243 Bretzner et al., 2010",
+    "et": "AstrogliosisTest",
+    "off": 1184,
+    "sff": "astrocytic"
+  },
+  {
+    "docID": "N243 Bretzner et al., 2010",
+    "et": "LesionVolumeTest",
+    "off": 27966,
+    "sff": "lesion area"
+  },
+  {
+    "docID": "N243 Bretzner et al., 2010",
+    "et": "NeuroprotectionTest",
+    "off": 32664,
+    "sff": "rubrospinal neurons"
+  },
+  {
+    "docID": "N243 Bretzner et al., 2010",
+    "et": "ScarringTest",
+    "off": 42802,
+    "sff": "GFAP expression"
+  },
+  {
+    "docID": "N243 Bretzner et al., 2010",
+    "et": "AxonalSproutingTest",
+    "off": 36703,
+    "sff": "density of axonal sprouts"
+  },
+  {
+    "docID": "N243 Bretzner et al., 2010",
+    "et": "AxonalChangesTest",
+    "off": 25978,
+    "sff": "axonal"
+  },
+  {
+    "docID": "N243 Bretzner et al., 2010",
+    "et": "AstrogliosisTest",
+    "off": 43740,
+    "sff": "astrocytic"
+  },
+  {
+    "docID": "N243 Bretzner et al., 2010",
+    "et": "NeuroprotectionTest",
+    "off": 36826,
+    "sff": "rubrospinal neurons"
+  },
+  {
+    "docID": "N243 Bretzner et al., 2010",
+    "et": "AxonalChangesTest",
+    "off": 24641,
+    "sff": "axonal"
+  },
+  {
+    "docID": "N243 Bretzner et al., 2010",
+    "et": "AxonalChangesTest",
+    "off": 36545,
+    "sff": "axonal"
+  },
+  {
+    "docID": "N243 Bretzner et al., 2010",
+    "et": "AxonalChangesTest",
+    "off": 29522,
+    "sff": "axonal density"
+  },
+  {
+    "docID": "N243 Bretzner et al., 2010",
+    "et": "AxonalChangesTest",
+    "off": 32118,
+    "sff": "axons"
+  },
+  {
+    "docID": "N243 Bretzner et al., 2010",
+    "et": "AxonalChangesTest",
+    "off": 27490,
+    "sff": "rubrospinal"
+  },
+  {
+    "docID": "N243 Bretzner et al., 2010",
+    "et": "AstrogliosisTest",
+    "off": 1744,
+    "sff": "astrocytic"
+  },
+  {
+    "docID": "N243 Bretzner et al., 2010",
+    "et": "AxonalRegenerationTest",
+    "off": 25724,
+    "sff": "number of rubrospinal axons"
+  },
+  {
+    "docID": "N243 Bretzner et al., 2010",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 40953,
+    "sff": "mechanical thresholds"
+  },
+  {
+    "docID": "N243 Bretzner et al., 2010",
+    "et": "AxonalChangesTest",
+    "off": 36545,
+    "sff": "axonal density"
+  },
+  {
+    "docID": "N243 Bretzner et al., 2010",
+    "et": "AxonalRegenerationTest",
+    "off": 573,
+    "sff": "regeneration of rubrospinal axons"
+  },
+  {
+    "docID": "N243 Bretzner et al., 2010",
+    "et": "AxonalChangesTest",
+    "off": 30194,
+    "sff": "axonal"
+  },
+  {
+    "docID": "N243 Bretzner et al., 2010",
+    "et": "AxonalChangesTest",
+    "off": 1596,
+    "sff": "axonal density"
+  },
+  {
+    "docID": "N243 Bretzner et al., 2010",
+    "et": "AxonalChangesTest",
+    "off": 30303,
+    "sff": "axonal"
+  },
+  {
+    "docID": "N243 Bretzner et al., 2010",
+    "et": "AxonalChangesTest",
+    "off": 27278,
+    "sff": "axons"
+  },
+  {
+    "docID": "N243 Bretzner et al., 2010",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 40745,
+    "sff": "latency"
+  },
+  {
+    "docID": "N243 Bretzner et al., 2010",
+    "et": "TissueSparingTest",
+    "off": 38516,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N243 Bretzner et al., 2010",
+    "et": "AstrogliosisTest",
+    "off": 33722,
+    "sff": "reactive"
+  }
+]

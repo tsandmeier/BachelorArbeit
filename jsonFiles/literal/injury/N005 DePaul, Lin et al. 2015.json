@@ -1,0 +1,80 @@
+[
+  {
+    "docID": "N005 DePaul, Lin et al. 2015",
+    "et": "T8",
+    "off": 905,
+    "sff": "T8"
+  },
+  {
+    "docID": "N005 DePaul, Lin et al. 2015",
+    "et": "CompleteTransection",
+    "off": 6942,
+    "sff": "transected"
+  },
+  {
+    "docID": "N005 DePaul, Lin et al. 2015",
+    "et": "T8",
+    "off": 6885,
+    "sff": "T8"
+  },
+  {
+    "docID": "N005 DePaul, Lin et al. 2015",
+    "et": "T8",
+    "off": 1124,
+    "sff": "T8"
+  },
+  {
+    "docID": "N005 DePaul, Lin et al. 2015",
+    "et": "Isoflurane",
+    "off": 6616,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N005 DePaul, Lin et al. 2015",
+    "et": "VertebralArea",
+    "off": 62648,
+    "sff": "level"
+  },
+  {
+    "docID": "N005 DePaul, Lin et al. 2015",
+    "et": "Isoflurane",
+    "off": 58799,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N005 DePaul, Lin et al. 2015",
+    "et": "Anaesthetic",
+    "off": 1800,
+    "sff": "mouse"
+  },
+  {
+    "docID": "N005 DePaul, Lin et al. 2015",
+    "et": "LateralHemisection",
+    "off": 18154,
+    "sff": "transected"
+  },
+  {
+    "docID": "N005 DePaul, Lin et al. 2015",
+    "et": "Isoflurane",
+    "off": 60007,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N005 DePaul, Lin et al. 2015",
+    "et": "Isoflurane",
+    "off": 7816,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N005 DePaul, Lin et al. 2015",
+    "et": "CompleteTransection",
+    "off": 59126,
+    "sff": "transected"
+  },
+  {
+    "docID": "N005 DePaul, Lin et al. 2015",
+    "et": "Anaesthetic",
+    "off": 1138,
+    "sff": "mouse"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Adult",
+    "off": 6388,
+    "sff": "adult"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Age",
+    "off": 17076,
+    "sff": "months"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Weight",
+    "off": 8081,
+    "sff": "g"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Age",
+    "off": 8324,
+    "sff": "days"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "SpragueDawleyRat",
+    "off": 5317,
+    "sff": "Sprague"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Age",
+    "off": 19516,
+    "sff": "months"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Age",
+    "off": 1690,
+    "sff": "3 months"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "WistarRat",
+    "off": 20702,
+    "sff": "rats"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Gender",
+    "off": 5305,
+    "sff": "male"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Weight",
+    "off": 5353,
+    "sff": "250 g"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Age",
+    "off": 17162,
+    "sff": "3 months"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Age",
+    "off": 23692,
+    "sff": "3 months"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "RatSpecies",
+    "off": 6542,
+    "sff": "inbred"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Adult",
+    "off": 5332,
+    "sff": "adult"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "WistarRat",
+    "off": 29456,
+    "sff": "rats"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Female",
+    "off": 6381,
+    "sff": "Female"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Male",
+    "off": 5305,
+    "sff": "male"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Age",
+    "off": 18512,
+    "sff": "months"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Age",
+    "off": 22619,
+    "sff": "months"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "FischerRat",
+    "off": 6542,
+    "sff": "inbred"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "WistarRat",
+    "off": 6803,
+    "sff": "rats"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "SpragueDawleyRat",
+    "off": 6394,
+    "sff": "Sprague Dawley rats"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Weight",
+    "off": 6424,
+    "sff": "250 g"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Age",
+    "off": 10588,
+    "sff": "months"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Age",
+    "off": 17505,
+    "sff": "months"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Age",
+    "off": 17899,
+    "sff": "months"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "WistarRat",
+    "off": 21622,
+    "sff": "rats"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Age",
+    "off": 9181,
+    "sff": "6"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "WistarRat",
+    "off": 30842,
+    "sff": "rats"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Weight",
+    "off": 6424,
+    "sff": "250"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Age",
+    "off": 30575,
+    "sff": "months"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "WistarRat",
+    "off": 9521,
+    "sff": "rats"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Weight",
+    "off": 22599,
+    "sff": "kg"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Age",
+    "off": 10352,
+    "sff": "4"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Mixed",
+    "off": 5305,
+    "sff": "male"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "SpragueDawleyRat",
+    "off": 5325,
+    "sff": "Dawley"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "WistarRat",
+    "off": 19620,
+    "sff": "rats"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Age",
+    "off": 17164,
+    "sff": "months"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Age",
+    "off": 20372,
+    "sff": "months"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Age",
+    "off": 17074,
+    "sff": "3 months"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Age",
+    "off": 23694,
+    "sff": "months"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Age",
+    "off": 1692,
+    "sff": "months"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "RatSpecies",
+    "off": 5310,
+    "sff": "inbred"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Age",
+    "off": 22312,
+    "sff": "3 months"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Weight",
+    "off": 6428,
+    "sff": "g"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "WistarRat",
+    "off": 23361,
+    "sff": "rats"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Weight",
+    "off": 7963,
+    "sff": "g"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Age",
+    "off": 7903,
+    "sff": "3"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "FischerRat",
+    "off": 5310,
+    "sff": "inbred"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Age",
+    "off": 22314,
+    "sff": "months"
+  }
+]

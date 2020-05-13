@@ -1,0 +1,206 @@
+[
+  {
+    "docID": "N166 Li 2011",
+    "et": "MyelinationTest",
+    "off": 21406,
+    "sff": "myelinated nerve fibers"
+  },
+  {
+    "docID": "N166 Li 2011",
+    "et": "LesionVolumeTest",
+    "off": 19274,
+    "sff": "formation"
+  },
+  {
+    "docID": "N166 Li 2011",
+    "et": "MyelinationTest",
+    "off": 1949,
+    "sff": "myelinated nerve fibers"
+  },
+  {
+    "docID": "N166 Li 2011",
+    "et": "LesionVolumeTest",
+    "off": 75,
+    "sff": "formation"
+  },
+  {
+    "docID": "N166 Li 2011",
+    "et": "LesionVolumeTest",
+    "off": 16708,
+    "sff": "cavities"
+  },
+  {
+    "docID": "N166 Li 2011",
+    "et": "BBBTest",
+    "off": 17152,
+    "sff": "BBB score"
+  },
+  {
+    "docID": "N166 Li 2011",
+    "et": "BBBTest",
+    "off": 2177,
+    "sff": "BBB score"
+  },
+  {
+    "docID": "N166 Li 2011",
+    "et": "LesionVolumeTest",
+    "off": 15303,
+    "sff": "formation"
+  },
+  {
+    "docID": "N166 Li 2011",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 22721,
+    "sff": "CSEP"
+  },
+  {
+    "docID": "N166 Li 2011",
+    "et": "LesionVolumeTest",
+    "off": 20465,
+    "sff": "area of injured tissue"
+  },
+  {
+    "docID": "N166 Li 2011",
+    "et": "MyelinationTest",
+    "off": 16466,
+    "sff": "myelinated nerve fibers"
+  },
+  {
+    "docID": "N166 Li 2011",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 22828,
+    "sff": "latency"
+  },
+  {
+    "docID": "N166 Li 2011",
+    "et": "MyelinationTest",
+    "off": 20817,
+    "sff": "myelinated nerve fibers"
+  },
+  {
+    "docID": "N166 Li 2011",
+    "et": "BBBTest",
+    "off": 22452,
+    "sff": "BBB scores"
+  },
+  {
+    "docID": "N166 Li 2011",
+    "et": "MyelinationTest",
+    "off": 21198,
+    "sff": "myelinated nerve fibers"
+  },
+  {
+    "docID": "N166 Li 2011",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 13637,
+    "sff": "latency"
+  },
+  {
+    "docID": "N166 Li 2011",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 1600,
+    "sff": "somatosensory"
+  },
+  {
+    "docID": "N166 Li 2011",
+    "et": "LesionVolumeTest",
+    "off": 19492,
+    "sff": "pathological"
+  },
+  {
+    "docID": "N166 Li 2011",
+    "et": "AutomatedGaitAnalysis",
+    "off": 14106,
+    "sff": "probability"
+  },
+  {
+    "docID": "N166 Li 2011",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 23163,
+    "sff": "Normal Latency of CSEP"
+  },
+  {
+    "docID": "N166 Li 2011",
+    "et": "LesionVolumeTest",
+    "off": 18862,
+    "sff": "formation"
+  },
+  {
+    "docID": "N166 Li 2011",
+    "et": "BBBTest",
+    "off": 1577,
+    "sff": "BBB score"
+  },
+  {
+    "docID": "N166 Li 2011",
+    "et": "LesionVolumeTest",
+    "off": 18480,
+    "sff": "cavities"
+  },
+  {
+    "docID": "N166 Li 2011",
+    "et": "BBBTest",
+    "off": 22208,
+    "sff": "BBB scores"
+  },
+  {
+    "docID": "N166 Li 2011",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 17494,
+    "sff": "latency"
+  },
+  {
+    "docID": "N166 Li 2011",
+    "et": "MyelinationTest",
+    "off": 16185,
+    "sff": "myelinated nerve fibers"
+  },
+  {
+    "docID": "N166 Li 2011",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 12916,
+    "sff": "somatosensory"
+  },
+  {
+    "docID": "N166 Li 2011",
+    "et": "MyelinationTest",
+    "off": 10671,
+    "sff": "myelinated nerve fibers"
+  },
+  {
+    "docID": "N166 Li 2011",
+    "et": "MyelinationTest",
+    "off": 1330,
+    "sff": "myelinated nerve fibers"
+  },
+  {
+    "docID": "N166 Li 2011",
+    "et": "MyelinationTest",
+    "off": 16300,
+    "sff": "myelinated nerve fibers"
+  },
+  {
+    "docID": "N166 Li 2011",
+    "et": "MyelinationTest",
+    "off": 15785,
+    "sff": "myelinated nerve fibers"
+  },
+  {
+    "docID": "N166 Li 2011",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 22888,
+    "sff": "amplitude of CSEP"
+  },
+  {
+    "docID": "N166 Li 2011",
+    "et": "MyelinationTest",
+    "off": 20961,
+    "sff": "myelinated nerve fibers"
+  },
+  {
+    "docID": "N166 Li 2011",
+    "et": "LesionVolumeTest",
+    "off": 20254,
+    "sff": "area of injured tissue"
+  }
+]

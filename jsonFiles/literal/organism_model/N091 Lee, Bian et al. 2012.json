@@ -1,0 +1,308 @@
+[
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "MouseSpecies",
+    "off": 10012,
+    "sff": "mice"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "Age",
+    "off": 22461,
+    "sff": "3"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "MouseSpecies",
+    "off": 37678,
+    "sff": "NG2"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "MouseSpecies",
+    "off": 29843,
+    "sff": "mice"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "MouseSpecies",
+    "off": 21037,
+    "sff": "NG2"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "MouseSpecies",
+    "off": 32360,
+    "sff": "strain"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "MouseSpecies",
+    "off": 22315,
+    "sff": "mice"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "Adult",
+    "off": 27687,
+    "sff": "adult"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "SpragueDawleyRat",
+    "off": 22050,
+    "sff": "female"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "C57_BL6_Mouse",
+    "off": 22313,
+    "sff": "6"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "Adult",
+    "off": 39070,
+    "sff": "adult"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "SpragueDawleyRat",
+    "off": 27693,
+    "sff": "female"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "Age",
+    "off": 10756,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "Adult",
+    "off": 22044,
+    "sff": "adult"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "Adult",
+    "off": 22294,
+    "sff": "adult"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "MouseSpecies",
+    "off": 19670,
+    "sff": "NG2"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "MouseSpecies",
+    "off": 29951,
+    "sff": "mice"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "Female",
+    "off": 27693,
+    "sff": "female"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "MouseSpecies",
+    "off": 12023,
+    "sff": "mice"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "MouseSpecies",
+    "off": 29688,
+    "sff": "mice"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "MouseSpecies",
+    "off": 31374,
+    "sff": "mice"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "MouseSpecies",
+    "off": 14094,
+    "sff": "mice"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "MouseSpecies",
+    "off": 517,
+    "sff": "mice"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "MouseSpecies",
+    "off": 37441,
+    "sff": "NG2"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "Female",
+    "off": 22050,
+    "sff": "female"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "Age",
+    "off": 23287,
+    "sff": "day"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "Female",
+    "off": 22300,
+    "sff": "female"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "Adult",
+    "off": 511,
+    "sff": "adult"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "RatSpecies",
+    "off": 32360,
+    "sff": "strain"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "MouseSpecies",
+    "off": 27867,
+    "sff": "mice"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "MouseSpecies",
+    "off": 9565,
+    "sff": "mice"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "C57_BL6_Mouse",
+    "off": 22315,
+    "sff": "mice"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "Weight",
+    "off": 15243,
+    "sff": "g"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "Mixed",
+    "off": 22050,
+    "sff": "female"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "Age",
+    "off": 11257,
+    "sff": "9"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "MouseSpecies",
+    "off": 20841,
+    "sff": "NG2"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "Age",
+    "off": 22313,
+    "sff": "6"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "Age",
+    "off": 22463,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "MouseSpecies",
+    "off": 28899,
+    "sff": "mice"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "MouseSpecies",
+    "off": 22629,
+    "sff": "mice"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "MouseSpecies",
+    "off": 38365,
+    "sff": "NG2"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "MouseSpecies",
+    "off": 35637,
+    "sff": "mice"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "Weight",
+    "off": 22313,
+    "sff": "6"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "MouseSpecies",
+    "off": 15160,
+    "sff": "mice"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "MouseSpecies",
+    "off": 12857,
+    "sff": "mice"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "C57_BL6_Mouse",
+    "off": 22307,
+    "sff": "C57BL"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "Mixed",
+    "off": 27693,
+    "sff": "female"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "MouseSpecies",
+    "off": 26754,
+    "sff": "NG2"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "MouseSpecies",
+    "off": 25938,
+    "sff": "mice"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "MouseSpecies",
+    "off": 28487,
+    "sff": "mice"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "MouseSpecies",
+    "off": 29768,
+    "sff": "mice"
+  }
+]

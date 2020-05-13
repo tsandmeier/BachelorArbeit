@@ -1,0 +1,302 @@
+[
+  {
+    "docID": "N054 Cholas, Hsu et al. 2012",
+    "et": "RatSpecies",
+    "off": 15544,
+    "sff": "rats"
+  },
+  {
+    "docID": "N054 Cholas, Hsu et al. 2012",
+    "et": "Age",
+    "off": 21471,
+    "sff": "days"
+  },
+  {
+    "docID": "N054 Cholas, Hsu et al. 2012",
+    "et": "Male",
+    "off": 11953,
+    "sff": "male"
+  },
+  {
+    "docID": "N054 Cholas, Hsu et al. 2012",
+    "et": "Age",
+    "off": 20640,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N054 Cholas, Hsu et al. 2012",
+    "et": "Age",
+    "off": 15714,
+    "sff": "–"
+  },
+  {
+    "docID": "N054 Cholas, Hsu et al. 2012",
+    "et": "FischerRat",
+    "off": 15544,
+    "sff": "rats"
+  },
+  {
+    "docID": "N054 Cholas, Hsu et al. 2012",
+    "et": "LewisRat",
+    "off": 15621,
+    "sff": "Lewis rats"
+  },
+  {
+    "docID": "N054 Cholas, Hsu et al. 2012",
+    "et": "Age",
+    "off": 20627,
+    "sff": "4"
+  },
+  {
+    "docID": "N054 Cholas, Hsu et al. 2012",
+    "et": "Age",
+    "off": 20629,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N054 Cholas, Hsu et al. 2012",
+    "et": "Age",
+    "off": 15484,
+    "sff": "6"
+  },
+  {
+    "docID": "N054 Cholas, Hsu et al. 2012",
+    "et": "Adult",
+    "off": 1851,
+    "sff": "adult"
+  },
+  {
+    "docID": "N054 Cholas, Hsu et al. 2012",
+    "et": "Age",
+    "off": 17342,
+    "sff": "3"
+  },
+  {
+    "docID": "N054 Cholas, Hsu et al. 2012",
+    "et": "DogSpecies",
+    "off": 20147,
+    "sff": "dogs"
+  },
+  {
+    "docID": "N054 Cholas, Hsu et al. 2012",
+    "et": "Weight",
+    "off": 15484,
+    "sff": "6"
+  },
+  {
+    "docID": "N054 Cholas, Hsu et al. 2012",
+    "et": "SpragueDawleyRat",
+    "off": 15627,
+    "sff": "rats"
+  },
+  {
+    "docID": "N054 Cholas, Hsu et al. 2012",
+    "et": "Age",
+    "off": 1156,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N054 Cholas, Hsu et al. 2012",
+    "et": "LongEvansRat",
+    "off": 15544,
+    "sff": "rats"
+  },
+  {
+    "docID": "N054 Cholas, Hsu et al. 2012",
+    "et": "Weight",
+    "off": 15714,
+    "sff": "–"
+  },
+  {
+    "docID": "N054 Cholas, Hsu et al. 2012",
+    "et": "Adult",
+    "off": 15608,
+    "sff": "Adult"
+  },
+  {
+    "docID": "N054 Cholas, Hsu et al. 2012",
+    "et": "Weight",
+    "off": 15711,
+    "sff": "150"
+  },
+  {
+    "docID": "N054 Cholas, Hsu et al. 2012",
+    "et": "WistarRat",
+    "off": 15544,
+    "sff": "rats"
+  },
+  {
+    "docID": "N054 Cholas, Hsu et al. 2012",
+    "et": "Age",
+    "off": 19331,
+    "sff": "day"
+  },
+  {
+    "docID": "N054 Cholas, Hsu et al. 2012",
+    "et": "ListerHoodedRat",
+    "off": 15544,
+    "sff": "rats"
+  },
+  {
+    "docID": "N054 Cholas, Hsu et al. 2012",
+    "et": "Weight",
+    "off": 15715,
+    "sff": "175"
+  },
+  {
+    "docID": "N054 Cholas, Hsu et al. 2012",
+    "et": "Age",
+    "off": 19213,
+    "sff": "day"
+  },
+  {
+    "docID": "N054 Cholas, Hsu et al. 2012",
+    "et": "LewisRat",
+    "off": 11958,
+    "sff": "Lewis"
+  },
+  {
+    "docID": "N054 Cholas, Hsu et al. 2012",
+    "et": "Age",
+    "off": 28645,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N054 Cholas, Hsu et al. 2012",
+    "et": "LewisRat",
+    "off": 11958,
+    "sff": "Lewis rats"
+  },
+  {
+    "docID": "N054 Cholas, Hsu et al. 2012",
+    "et": "Age",
+    "off": 23524,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N054 Cholas, Hsu et al. 2012",
+    "et": "SpragueDawleyRat",
+    "off": 15714,
+    "sff": "–"
+  },
+  {
+    "docID": "N054 Cholas, Hsu et al. 2012",
+    "et": "ListerHoodedRat",
+    "off": 15627,
+    "sff": "rats"
+  },
+  {
+    "docID": "N054 Cholas, Hsu et al. 2012",
+    "et": "Female",
+    "off": 15614,
+    "sff": "female"
+  },
+  {
+    "docID": "N054 Cholas, Hsu et al. 2012",
+    "et": "WistarRat",
+    "off": 15627,
+    "sff": "rats"
+  },
+  {
+    "docID": "N054 Cholas, Hsu et al. 2012",
+    "et": "WistarRat",
+    "off": 29706,
+    "sff": "rats"
+  },
+  {
+    "docID": "N054 Cholas, Hsu et al. 2012",
+    "et": "Mixed",
+    "off": 11953,
+    "sff": "male"
+  },
+  {
+    "docID": "N054 Cholas, Hsu et al. 2012",
+    "et": "RatSpecies",
+    "off": 15627,
+    "sff": "rats"
+  },
+  {
+    "docID": "N054 Cholas, Hsu et al. 2012",
+    "et": "C57_BL6_Mouse",
+    "off": 15484,
+    "sff": "6"
+  },
+  {
+    "docID": "N054 Cholas, Hsu et al. 2012",
+    "et": "Age",
+    "off": 15556,
+    "sff": "10"
+  },
+  {
+    "docID": "N054 Cholas, Hsu et al. 2012",
+    "et": "LewisRat",
+    "off": 15627,
+    "sff": "rats"
+  },
+  {
+    "docID": "N054 Cholas, Hsu et al. 2012",
+    "et": "Age",
+    "off": 24114,
+    "sff": "3"
+  },
+  {
+    "docID": "N054 Cholas, Hsu et al. 2012",
+    "et": "Weight",
+    "off": 15719,
+    "sff": "grams"
+  },
+  {
+    "docID": "N054 Cholas, Hsu et al. 2012",
+    "et": "WistarRat",
+    "off": 19048,
+    "sff": "rats"
+  },
+  {
+    "docID": "N054 Cholas, Hsu et al. 2012",
+    "et": "LewisRat",
+    "off": 11964,
+    "sff": "rats"
+  },
+  {
+    "docID": "N054 Cholas, Hsu et al. 2012",
+    "et": "LewisRat",
+    "off": 15544,
+    "sff": "rats"
+  },
+  {
+    "docID": "N054 Cholas, Hsu et al. 2012",
+    "et": "Age",
+    "off": 15559,
+    "sff": "day"
+  },
+  {
+    "docID": "N054 Cholas, Hsu et al. 2012",
+    "et": "LongEvansRat",
+    "off": 15627,
+    "sff": "rats"
+  },
+  {
+    "docID": "N054 Cholas, Hsu et al. 2012",
+    "et": "LewisRat",
+    "off": 15621,
+    "sff": "Lewis"
+  },
+  {
+    "docID": "N054 Cholas, Hsu et al. 2012",
+    "et": "SpragueDawleyRat",
+    "off": 15544,
+    "sff": "rats"
+  },
+  {
+    "docID": "N054 Cholas, Hsu et al. 2012",
+    "et": "FischerRat",
+    "off": 15627,
+    "sff": "rats"
+  },
+  {
+    "docID": "N054 Cholas, Hsu et al. 2012",
+    "et": "Age",
+    "off": 19536,
+    "sff": "day"
+  }
+]

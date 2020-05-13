@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N218 Plant 2003",
+    "et": "T9",
+    "off": 9085,
+    "sff": "T9"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "Laminectomy",
+    "off": 9039,
+    "sff": "laminectomy"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "Halothane",
+    "off": 8880,
+    "sff": "halothane"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "NitrousOxide",
+    "off": 8897,
+    "sff": "N2O"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "NYUImpactor",
+    "off": 9164,
+    "sff": "impactor"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "NYUImpactor",
+    "off": 9160,
+    "sff": "NYU"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "InfiniteHorizonImpactor",
+    "off": 9164,
+    "sff": "impactor"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "Contusion",
+    "off": 1989,
+    "sff": "contused"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "Contusion",
+    "off": 2246,
+    "sff": "contused"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "T10",
+    "off": 9088,
+    "sff": "T10"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "Contusion",
+    "off": 404,
+    "sff": "contused"
+  },
+  {
+    "docID": "N218 Plant 2003",
+    "et": "NYUImpactor",
+    "off": 9160,
+    "sff": "NYU impactor"
+  }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "AxonalChangesTest",
+    "off": 9423,
+    "sff": "axons"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "AxonalRegenerationTest",
+    "off": 15861,
+    "sff": "staining"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "AxonalRegenerationTest",
+    "off": 9014,
+    "sff": "corticospinal"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "HistologicalInvestigationTest",
+    "off": 14354,
+    "sff": "staining"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "AxonalChangesTest",
+    "off": 12361,
+    "sff": "axons"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "ScarringTest",
+    "off": 10464,
+    "sff": "staining"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "AxonalChangesTest",
+    "off": 1098,
+    "sff": "axons"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "AxonalChangesTest",
+    "off": 15370,
+    "sff": "axons"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "AxonalChangesTest",
+    "off": 15263,
+    "sff": "axons"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "AxonalRegenerationTest",
+    "off": 15080,
+    "sff": "immunostaining"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "GaitTest",
+    "off": 15564,
+    "sff": "lateral"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "InclinedPlaneTest",
+    "off": 11412,
+    "sff": "climbing"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "AxonalRegenerationTest",
+    "off": 15927,
+    "sff": "fibers"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "AxonalSproutingTest",
+    "off": 15484,
+    "sff": "collateral"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "ProteinLevelAnalysis",
+    "off": 9201,
+    "sff": "level"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "TissueSparingTest",
+    "off": 9397,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "AxonalChangesTest",
+    "off": 12784,
+    "sff": "axons"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "AxonalChangesTest",
+    "off": 10543,
+    "sff": "observed"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "LesionVolumeTest",
+    "off": 9361,
+    "sff": "cavities"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "AxonalChangesTest",
+    "off": 12396,
+    "sff": "axons"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "AxonalRegenerationTest",
+    "off": 11726,
+    "sff": "immunostaining"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "AxonalChangesTest",
+    "off": 15782,
+    "sff": "axons"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "AxonalRegenerationTest",
+    "off": 9803,
+    "sff": "staining"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "ScarringTest",
+    "off": 9803,
+    "sff": "staining"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "LesionVolumeTest",
+    "off": 10559,
+    "sff": "lesion area"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "AxonalRegenerationTest",
+    "off": 14791,
+    "sff": "immunostaining"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "TissueSparingTest",
+    "off": 14477,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "ScarringTest",
+    "off": 15861,
+    "sff": "staining"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "AxonalChangesTest",
+    "off": 1333,
+    "sff": "axons"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "TissueSparingTest",
+    "off": 628,
+    "sff": "amount"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "AxonalRegenerationTest",
+    "off": 10464,
+    "sff": "staining"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "AstrogliosisTest",
+    "off": 10566,
+    "sff": "area"
+  }
+]

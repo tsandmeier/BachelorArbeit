@@ -1,0 +1,206 @@
+[
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "SpinalCordEvokedPotentialsTest",
+    "off": 26784,
+    "sff": "amplitudes"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "ScarringTest",
+    "off": 30841,
+    "sff": "neurocan staining"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "SpinalCordEvokedPotentialsTest",
+    "off": 17815,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "AutomatedGaitAnalysis",
+    "off": 28706,
+    "sff": "walking"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "AutomatedGaitAnalysis",
+    "off": 18509,
+    "sff": "CatWalk gait analysis"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "AutomatedGaitAnalysis",
+    "off": 28921,
+    "sff": "rate of runs succeed"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "SpinalCordEvokedPotentialsTest",
+    "off": 26955,
+    "sff": "CDP amplitudes"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "SpinalCordEvokedPotentialsTest",
+    "off": 26701,
+    "sff": "CDP amplitudes"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "TissueSparingTest",
+    "off": 12706,
+    "sff": "amount"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 26959,
+    "sff": "amplitudes"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "AxonalSproutingTest",
+    "off": 20142,
+    "sff": "primary"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "SpinalCordEvokedPotentialsTest",
+    "off": 26959,
+    "sff": "amplitudes"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "ImagingTest",
+    "off": 32963,
+    "sff": "hyperintense"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "AxonalSproutingTest",
+    "off": 22938,
+    "sff": "primary"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "LocomotorTest",
+    "off": 27351,
+    "sff": "Measurement of horizontal activity"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "ScarringTest",
+    "off": 30926,
+    "sff": "neurocan staining"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "AxonalSproutingTest",
+    "off": 20182,
+    "sff": "primary"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "SpinalCordEvokedPotentialsTest",
+    "off": 23678,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "AutomatedGaitAnalysis",
+    "off": 18509,
+    "sff": "CatWalk"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "AutomatedGaitAnalysis",
+    "off": 29331,
+    "sff": "probability to walk"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "HistologicalInvestigationTest",
+    "off": 25022,
+    "sff": "infiltration"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "AxonalSproutingTest",
+    "off": 7878,
+    "sff": "primary"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "AutomatedGaitAnalysis",
+    "off": 22023,
+    "sff": "succeed"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "LesionVolumeTest",
+    "off": 24890,
+    "sff": "formation"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 17815,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "AxonalSproutingTest",
+    "off": 14354,
+    "sff": "primary"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "AxonalSproutingTest",
+    "off": 6414,
+    "sff": "primary"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "AxonalSproutingTest",
+    "off": 6350,
+    "sff": "primary"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "AxonalSproutingTest",
+    "off": 19789,
+    "sff": "primary"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "AxonalSproutingTest",
+    "off": 23222,
+    "sff": "primary"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "ScarringTest",
+    "off": 30444,
+    "sff": "neurocan staining"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "AxonalSproutingTest",
+    "off": 14212,
+    "sff": "primary"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "SpinalCordEvokedPotentialsTest",
+    "off": 26780,
+    "sff": "CDP amplitudes"
+  },
+  {
+    "docID": "N180 Mayeur 2013",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 26784,
+    "sff": "amplitudes"
+  }
+]

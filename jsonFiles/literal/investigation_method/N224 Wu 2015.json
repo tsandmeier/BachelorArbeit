@@ -1,0 +1,200 @@
+[
+  {
+    "docID": "N224 Wu 2015",
+    "et": "BodyWeightExamination",
+    "off": 24788,
+    "sff": "body weight of rats"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "BBBTest",
+    "off": 20301,
+    "sff": "scores"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "BBBTest",
+    "off": 18935,
+    "sff": "score"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "BBBTest",
+    "off": 19664,
+    "sff": "scores"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "CystVolumeTest",
+    "off": 26565,
+    "sff": "number of cavities"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "ApoptosisTest",
+    "off": 28549,
+    "sff": "cell apoptosis rate"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "ApoptosisTest",
+    "off": 27974,
+    "sff": "cell apoptosis rate"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "HistologicalInvestigationTest",
+    "off": 25861,
+    "sff": "infiltration"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "ApoptosisTest",
+    "off": 21511,
+    "sff": "cell apoptosis rate"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "ScarringTest",
+    "off": 22447,
+    "sff": "staining"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "AxonalSproutingTest",
+    "off": 17869,
+    "sff": "primary"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "ApoptosisTest",
+    "off": 27743,
+    "sff": "cell apoptosis rate"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "HistologicalInvestigationTest",
+    "off": 23584,
+    "sff": "Immunofluorescence"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "NonFunctionalTest",
+    "off": 15061,
+    "sff": "pathology"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "BBBTest",
+    "off": 19756,
+    "sff": "open field locomotor scores"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "BodyWeightExamination",
+    "off": 25199,
+    "sff": "body weight of rats"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "BBBTest",
+    "off": 20399,
+    "sff": "BBB scores"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "ApoptosisTest",
+    "off": 28394,
+    "sff": "cell apoptosis rate"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "BBBTest",
+    "off": 20297,
+    "sff": "BBB scores"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "BodyWeightExamination",
+    "off": 24892,
+    "sff": "body weight of rats"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "BBBTest",
+    "off": 30488,
+    "sff": "BBB scores"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "BodyWeightExamination",
+    "off": 25534,
+    "sff": "body weight of rats"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "ApoptosisTest",
+    "off": 28196,
+    "sff": "cell apoptosis rate"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "LesionVolumeTest",
+    "off": 26208,
+    "sff": "cavities"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "BBBTest",
+    "off": 30684,
+    "sff": "BBB score"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "BBBTest",
+    "off": 30492,
+    "sff": "scores"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "BBBTest",
+    "off": 31064,
+    "sff": "BBB scale"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "BodyWeightExamination",
+    "off": 25413,
+    "sff": "body weight of rats"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "AxonalChangesTest",
+    "off": 11713,
+    "sff": "observed"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "ApoptosisTest",
+    "off": 27507,
+    "sff": "cell apoptosis rate"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "BBBTest",
+    "off": 30688,
+    "sff": "score"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "BBBTest",
+    "off": 31064,
+    "sff": "BBB"
+  },
+  {
+    "docID": "N224 Wu 2015",
+    "et": "HistologicalInvestigationTest",
+    "off": 22649,
+    "sff": "Immunofluorescence"
+  }
+]

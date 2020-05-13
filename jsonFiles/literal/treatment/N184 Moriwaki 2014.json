@@ -1,0 +1,68 @@
+[
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "Tissue",
+    "off": 16733,
+    "sff": "respiratory mucosa"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "Tissue",
+    "off": 1675,
+    "sff": "respiratory mucosa"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "Tissue",
+    "off": 1851,
+    "sff": "respiratory mucosa"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "Saline",
+    "off": 1059,
+    "sff": "saline"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "Saline",
+    "off": 15443,
+    "sff": "saline"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "InjectionDelivery",
+    "off": 1142,
+    "sff": "injected"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "Saline",
+    "off": 1892,
+    "sff": "saline"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "InjectionDelivery",
+    "off": 1219,
+    "sff": "injected"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "Tissue",
+    "off": 1016,
+    "sff": "respiratory mucosa"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "Tissue",
+    "off": 13464,
+    "sff": "respiratory mucosa"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "Tissue",
+    "off": 15399,
+    "sff": "respiratory mucosa"
+  }
+]

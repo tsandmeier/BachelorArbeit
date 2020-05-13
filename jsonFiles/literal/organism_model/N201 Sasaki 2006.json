@@ -1,0 +1,302 @@
+[
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "Age",
+    "off": 4875,
+    "sff": "days"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "RatSpecies",
+    "off": 4316,
+    "sff": "rats"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "SpragueDawleyRat",
+    "off": 4316,
+    "sff": "rats"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "Age",
+    "off": 21078,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "Age",
+    "off": 4289,
+    "sff": "4"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "Age",
+    "off": 20038,
+    "sff": "4"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "Age",
+    "off": 14938,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "Age",
+    "off": 10447,
+    "sff": "4"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "Age",
+    "off": 16483,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "SpragueDawleyRat",
+    "off": 9141,
+    "sff": "SD"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "Adult",
+    "off": 5257,
+    "sff": "adult"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "Age",
+    "off": 15570,
+    "sff": "6"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "Age",
+    "off": 6414,
+    "sff": "12"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "Age",
+    "off": 14936,
+    "sff": "4"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "LongEvansRat",
+    "off": 5290,
+    "sff": "rats"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "SpragueDawleyRat",
+    "off": 5286,
+    "sff": "SD"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "LewisRat",
+    "off": 5290,
+    "sff": "rats"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "Age",
+    "off": 955,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "Age",
+    "off": 9305,
+    "sff": "days"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "Age",
+    "off": 5870,
+    "sff": "4"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "Age",
+    "off": 15279,
+    "sff": "3"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "Age",
+    "off": 21678,
+    "sff": "3"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "Age",
+    "off": 16355,
+    "sff": "week"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "Age",
+    "off": 20040,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "Age",
+    "off": 1096,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "Age",
+    "off": 20850,
+    "sff": "4"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "Age",
+    "off": 15857,
+    "sff": "4"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "Weight",
+    "off": 5305,
+    "sff": "150"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "Age",
+    "off": 14864,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "ListerHoodedRat",
+    "off": 5290,
+    "sff": "rats"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "Weight",
+    "off": 5309,
+    "sff": "179"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "FischerRat",
+    "off": 5290,
+    "sff": "rats"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "Female",
+    "off": 5263,
+    "sff": "female"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "Age",
+    "off": 6872,
+    "sff": "12"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "SpragueDawleyRat",
+    "off": 5290,
+    "sff": "rats"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "Weight",
+    "off": 5313,
+    "sff": "g"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "WistarRat",
+    "off": 5290,
+    "sff": "rats"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "MouseSpecies",
+    "off": 4305,
+    "sff": "transgenic"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "SpragueDawleyRat",
+    "off": 9728,
+    "sff": "SD"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "RatSpecies",
+    "off": 5290,
+    "sff": "rats"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "Age",
+    "off": 16683,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "Age",
+    "off": 21291,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "WistarRat",
+    "off": 9774,
+    "sff": "rats"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "SpragueDawleyRat",
+    "off": 5270,
+    "sff": "Sprague-Dawley"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "Age",
+    "off": 22398,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "Age",
+    "off": 15854,
+    "sff": "3"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "Age",
+    "off": 20525,
+    "sff": "4"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "Age",
+    "off": 1293,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "Age",
+    "off": 6967,
+    "sff": "4"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "Age",
+    "off": 12812,
+    "sff": "weeks"
+  }
+]

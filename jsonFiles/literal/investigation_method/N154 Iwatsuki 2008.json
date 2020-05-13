@@ -1,0 +1,194 @@
+[
+  {
+    "docID": "N154 Iwatsuki 2008",
+    "et": "AxonalChangesTest",
+    "off": 2586,
+    "sff": "axons"
+  },
+  {
+    "docID": "N154 Iwatsuki 2008",
+    "et": "GeneExpressionAnalysis",
+    "off": 7896,
+    "sff": "expression"
+  },
+  {
+    "docID": "N154 Iwatsuki 2008",
+    "et": "LesionVolumeTest",
+    "off": 4108,
+    "sff": "cavity"
+  },
+  {
+    "docID": "N154 Iwatsuki 2008",
+    "et": "AxonalChangesTest",
+    "off": 7636,
+    "sff": "observed"
+  },
+  {
+    "docID": "N154 Iwatsuki 2008",
+    "et": "AxonalChangesTest",
+    "off": 8532,
+    "sff": "observed"
+  },
+  {
+    "docID": "N154 Iwatsuki 2008",
+    "et": "GeneExpressionAnalysis",
+    "off": 7718,
+    "sff": "expression"
+  },
+  {
+    "docID": "N154 Iwatsuki 2008",
+    "et": "AxonalChangesTest",
+    "off": 8153,
+    "sff": "observed"
+  },
+  {
+    "docID": "N154 Iwatsuki 2008",
+    "et": "AxonalRegenerationTest",
+    "off": 2508,
+    "sff": "corticospinal"
+  },
+  {
+    "docID": "N154 Iwatsuki 2008",
+    "et": "BBBTest",
+    "off": 8806,
+    "sff": "BBB scores"
+  },
+  {
+    "docID": "N154 Iwatsuki 2008",
+    "et": "MyelinationTest",
+    "off": 9304,
+    "sff": "fibers"
+  },
+  {
+    "docID": "N154 Iwatsuki 2008",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 8801,
+    "sff": "mean"
+  },
+  {
+    "docID": "N154 Iwatsuki 2008",
+    "et": "AxonalChangesTest",
+    "off": 9316,
+    "sff": "observed"
+  },
+  {
+    "docID": "N154 Iwatsuki 2008",
+    "et": "MyelinationTest",
+    "off": 9067,
+    "sff": "fibers"
+  },
+  {
+    "docID": "N154 Iwatsuki 2008",
+    "et": "AxonalSproutingTest",
+    "off": 2586,
+    "sff": "axons"
+  },
+  {
+    "docID": "N154 Iwatsuki 2008",
+    "et": "AxonalSproutingTest",
+    "off": 9304,
+    "sff": "fibers"
+  },
+  {
+    "docID": "N154 Iwatsuki 2008",
+    "et": "AxonalRegenerationTest",
+    "off": 9067,
+    "sff": "fibers"
+  },
+  {
+    "docID": "N154 Iwatsuki 2008",
+    "et": "LesionVolumeTest",
+    "off": 8801,
+    "sff": "mean"
+  },
+  {
+    "docID": "N154 Iwatsuki 2008",
+    "et": "GaitTest",
+    "off": 8513,
+    "sff": "hindlimb"
+  },
+  {
+    "docID": "N154 Iwatsuki 2008",
+    "et": "ImagingTest",
+    "off": 3812,
+    "sff": "region"
+  },
+  {
+    "docID": "N154 Iwatsuki 2008",
+    "et": "ScarringTest",
+    "off": 7718,
+    "sff": "expression"
+  },
+  {
+    "docID": "N154 Iwatsuki 2008",
+    "et": "AxonalChangesTest",
+    "off": 9087,
+    "sff": "observed"
+  },
+  {
+    "docID": "N154 Iwatsuki 2008",
+    "et": "AxonalRegenerationTest",
+    "off": 9304,
+    "sff": "fibers"
+  },
+  {
+    "docID": "N154 Iwatsuki 2008",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 8801,
+    "sff": "mean"
+  },
+  {
+    "docID": "N154 Iwatsuki 2008",
+    "et": "AxonalSproutingTest",
+    "off": 9067,
+    "sff": "fibers"
+  },
+  {
+    "docID": "N154 Iwatsuki 2008",
+    "et": "AxonalChangesTest",
+    "off": 8332,
+    "sff": "observed"
+  },
+  {
+    "docID": "N154 Iwatsuki 2008",
+    "et": "ScarringTest",
+    "off": 7896,
+    "sff": "expression"
+  },
+  {
+    "docID": "N154 Iwatsuki 2008",
+    "et": "AxonalRegenerationTest",
+    "off": 2496,
+    "sff": "anterograde"
+  },
+  {
+    "docID": "N154 Iwatsuki 2008",
+    "et": "GaitTest",
+    "off": 8655,
+    "sff": "hindlimb"
+  },
+  {
+    "docID": "N154 Iwatsuki 2008",
+    "et": "NeuronalChangesTest",
+    "off": 2465,
+    "sff": "cells"
+  },
+  {
+    "docID": "N154 Iwatsuki 2008",
+    "et": "AstrogliosisTest",
+    "off": 7880,
+    "sff": "GFAP"
+  },
+  {
+    "docID": "N154 Iwatsuki 2008",
+    "et": "CystVolumeTest",
+    "off": 4108,
+    "sff": "cavity"
+  },
+  {
+    "docID": "N154 Iwatsuki 2008",
+    "et": "ScarringTest",
+    "off": 8035,
+    "sff": "GFAP"
+  }
+]

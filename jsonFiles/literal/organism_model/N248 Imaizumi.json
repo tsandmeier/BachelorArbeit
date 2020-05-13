@@ -1,0 +1,308 @@
+[
+  {
+    "docID": "N248 Imaizumi",
+    "et": "MouseSpecies",
+    "off": 285,
+    "sff": "protein"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "RatSpecies",
+    "off": 389,
+    "sff": "rat"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "Weight",
+    "off": 26990,
+    "sff": "30"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "Weight",
+    "off": 26440,
+    "sff": "kg"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "RatSpecies",
+    "off": 2294,
+    "sff": "rat"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "RatSpecies",
+    "off": 2170,
+    "sff": "rat"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "MouseSpecies",
+    "off": 226,
+    "sff": "transgenic"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "MouseSpecies",
+    "off": 3554,
+    "sff": "transgenic"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "LongEvansRat",
+    "off": 26378,
+    "sff": "rats"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "SpragueDawleyRat",
+    "off": 26378,
+    "sff": "rats"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "RatSpecies",
+    "off": 26378,
+    "sff": "rats"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "Weight",
+    "off": 25279,
+    "sff": "kg"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "MouseSpecies",
+    "off": 1916,
+    "sff": "protein"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "Age",
+    "off": 28822,
+    "sff": "4"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "Weight",
+    "off": 26604,
+    "sff": "20"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "Adult",
+    "off": 25196,
+    "sff": "Adult"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "Weight",
+    "off": 25269,
+    "sff": "kg"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "MouseSpecies",
+    "off": 1980,
+    "sff": "transgenic"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "RatSpecies",
+    "off": 99,
+    "sff": "rat"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "MouseSpecies",
+    "off": 3525,
+    "sff": "transgenic"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "SpragueDawleyRat",
+    "off": 23324,
+    "sff": "–"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "MouseSpecies",
+    "off": 24255,
+    "sff": "transgenic"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "Age",
+    "off": 27466,
+    "sff": "3"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "MouseSpecies",
+    "off": 2047,
+    "sff": "protein"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "Age",
+    "off": 26316,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "SpragueDawleyRat",
+    "off": 27467,
+    "sff": "–"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "SpragueDawleyRat",
+    "off": 459,
+    "sff": "rats"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "WistarRat",
+    "off": 25202,
+    "sff": "Wistar rats"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "MouseSpecies",
+    "off": 24,
+    "sff": "transgenic"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "MouseSpecies",
+    "off": 26395,
+    "sff": "under"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "RatSpecies",
+    "off": 459,
+    "sff": "rats"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "Weight",
+    "off": 26954,
+    "sff": "–"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "Age",
+    "off": 25273,
+    "sff": "10"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "LongEvansRat",
+    "off": 459,
+    "sff": "rats"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "Age",
+    "off": 28078,
+    "sff": "4"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "MouseSpecies",
+    "off": 25895,
+    "sff": "transgenic"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "ListerHoodedRat",
+    "off": 459,
+    "sff": "rats"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "SpragueDawleyRat",
+    "off": 26954,
+    "sff": "–"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "MouseSpecies",
+    "off": 554,
+    "sff": "transgenic"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "FischerRat",
+    "off": 26378,
+    "sff": "rats"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "Weight",
+    "off": 24752,
+    "sff": "20"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "RatSpecies",
+    "off": 28324,
+    "sff": "rat"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "ListerHoodedRat",
+    "off": 26378,
+    "sff": "rats"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "Age",
+    "off": 28080,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "Age",
+    "off": 23535,
+    "sff": "2.5"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "Weight",
+    "off": 23608,
+    "sff": "–"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "Weight",
+    "off": 23535,
+    "sff": "2.5"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "LewisRat",
+    "off": 26378,
+    "sff": "rats"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "Weight",
+    "off": 23606,
+    "sff": "15"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "Weight",
+    "off": 27961,
+    "sff": "15"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "Weight",
+    "off": 23609,
+    "sff": "30"
+  }
+]

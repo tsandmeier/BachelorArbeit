@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N163 Lee 2004",
+    "et": "InjectionDelivery",
+    "off": 18088,
+    "sff": "injected"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Rostral",
+    "off": 6330,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "InfusionDelivery",
+    "off": 6463,
+    "sff": "infused"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Vehicle",
+    "off": 13822,
+    "sff": "grafting"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "InjectionDelivery",
+    "off": 19709,
+    "sff": "injected"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Vehicle",
+    "off": 14477,
+    "sff": "grafting"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Rostral",
+    "off": 6965,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "InjectionDelivery",
+    "off": 18542,
+    "sff": "injected"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "DosageExtracorporal",
+    "off": 6401,
+    "sff": "4 x 105"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "Saline",
+    "off": 9314,
+    "sff": "saline"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 651,
+    "sff": "OEC"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "InjectionDelivery",
+    "off": 7943,
+    "sff": "injected"
+  }
+]

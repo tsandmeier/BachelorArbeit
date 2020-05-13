@@ -1,0 +1,194 @@
+[
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "ScarringTest",
+    "off": 36619,
+    "sff": "immunoreactivity"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "AxonalSproutingTest",
+    "off": 39836,
+    "sff": "processes"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "AxonalChangesTest",
+    "off": 28258,
+    "sff": "observed"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "AxonalSproutingTest",
+    "off": 40728,
+    "sff": "processes"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "NeuronalChangesTest",
+    "off": 41973,
+    "sff": "mean neuronal size"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "AxonalChangesTest",
+    "off": 45543,
+    "sff": "axons were detected"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "AxonalSproutingTest",
+    "off": 19202,
+    "sff": "primary"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "NeuroprotectionTest",
+    "off": 29056,
+    "sff": "numbers of neurons"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "AxonalChangesTest",
+    "off": 33714,
+    "sff": "observed"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "AxonalSproutingTest",
+    "off": 19480,
+    "sff": "primary"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "NeuronalChangesTest",
+    "off": 41598,
+    "sff": "mean soma size of neurons"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "InvestigationMethod",
+    "off": 28910,
+    "sff": "neuronal loss"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "AxonalChangesTest",
+    "off": 32296,
+    "sff": "observed"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "AxonalSproutingTest",
+    "off": 32152,
+    "sff": "sprouts"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "AxonalChangesTest",
+    "off": 30790,
+    "sff": "axons"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "NeuroprotectionTest",
+    "off": 41814,
+    "sff": "numbers of neurons"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "AstrogliosisTest",
+    "off": 38540,
+    "sff": "astrocytic"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "NeuroprotectionTest",
+    "off": 42368,
+    "sff": "neuronal number"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "ScarringTest",
+    "off": 36906,
+    "sff": "expression"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "AxonalRegenerationTest",
+    "off": 8046,
+    "sff": "intensities"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "InvestigationMethod",
+    "off": 29148,
+    "sff": "neuronal loss"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "AxonalSproutingTest",
+    "off": 25670,
+    "sff": "processes"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "AxonalChangesTest",
+    "off": 32504,
+    "sff": "axons"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "AxonalChangesTest",
+    "off": 31797,
+    "sff": "axons"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "ScarringTest",
+    "off": 39963,
+    "sff": "staining"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "AxonalSproutingTest",
+    "off": 28159,
+    "sff": "processes"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "ScarringTest",
+    "off": 18778,
+    "sff": "staining"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "AxonalSproutingTest",
+    "off": 40295,
+    "sff": "processes"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "NeuronalChangesTest",
+    "off": 41363,
+    "sff": "mean soma size of neurons"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "AstrogliosisTest",
+    "off": 25336,
+    "sff": "astrocytic"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "AstrogliosisTest",
+    "off": 36683,
+    "sff": "reactive"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "AxonalSproutingTest",
+    "off": 31803,
+    "sff": "sprouting"
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "docID": "N148 Gorrie 2010",
+    "et": "AstrogliosisTest",
+    "off": 1774,
+    "sff": "GFAP staining"
+  },
+  {
+    "docID": "N148 Gorrie 2010",
+    "et": "LadderRungTest",
+    "off": 13960,
+    "sff": "stepping errors in this task"
+  },
+  {
+    "docID": "N148 Gorrie 2010",
+    "et": "AstrogliosisTest",
+    "off": 9532,
+    "sff": "GFAP staining intensity"
+  },
+  {
+    "docID": "N148 Gorrie 2010",
+    "et": "LesionVolumeTest",
+    "off": 14315,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N148 Gorrie 2010",
+    "et": "GaitTest",
+    "off": 13326,
+    "sff": "stability"
+  },
+  {
+    "docID": "N148 Gorrie 2010",
+    "et": "LesionVolumeTest",
+    "off": 15536,
+    "sff": "cavitation"
+  },
+  {
+    "docID": "N148 Gorrie 2010",
+    "et": "LadderRungTest",
+    "off": 13814,
+    "sff": "stepping"
+  },
+  {
+    "docID": "N148 Gorrie 2010",
+    "et": "LesionVolumeTest",
+    "off": 15276,
+    "sff": "cavity area"
+  },
+  {
+    "docID": "N148 Gorrie 2010",
+    "et": "AstrogliosisTest",
+    "off": 16436,
+    "sff": "GFAP staining"
+  },
+  {
+    "docID": "N148 Gorrie 2010",
+    "et": "AstrogliosisTest",
+    "off": 16436,
+    "sff": "GFAP staining intensity"
+  },
+  {
+    "docID": "N148 Gorrie 2010",
+    "et": "LesionVolumeTest",
+    "off": 15643,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N148 Gorrie 2010",
+    "et": "AstrogliosisTest",
+    "off": 1774,
+    "sff": "GFAP staining intensity"
+  },
+  {
+    "docID": "N148 Gorrie 2010",
+    "et": "AstrogliosisTest",
+    "off": 9669,
+    "sff": "astrocytic"
+  },
+  {
+    "docID": "N148 Gorrie 2010",
+    "et": "AstrogliosisTest",
+    "off": 8263,
+    "sff": "GFAP intensity"
+  },
+  {
+    "docID": "N148 Gorrie 2010",
+    "et": "TissueSparingTest",
+    "off": 15636,
+    "sff": "spared tissue"
+  },
+  {
+    "docID": "N148 Gorrie 2010",
+    "et": "LesionVolumeTest",
+    "off": 7192,
+    "sff": "lesion area"
+  },
+  {
+    "docID": "N148 Gorrie 2010",
+    "et": "LadderRungTest",
+    "off": 6742,
+    "sff": "stepping"
+  },
+  {
+    "docID": "N148 Gorrie 2010",
+    "et": "TissueSparingTest",
+    "off": 15622,
+    "sff": "percentage of spared tissue"
+  },
+  {
+    "docID": "N148 Gorrie 2010",
+    "et": "AxonalSproutingTest",
+    "off": 17304,
+    "sff": "processes"
+  },
+  {
+    "docID": "N148 Gorrie 2010",
+    "et": "TissueSparingTest",
+    "off": 18416,
+    "sff": "amount"
+  },
+  {
+    "docID": "N148 Gorrie 2010",
+    "et": "AxonalRegenerationTest",
+    "off": 17854,
+    "sff": "NF200"
+  },
+  {
+    "docID": "N148 Gorrie 2010",
+    "et": "AxonalRegenerationTest",
+    "off": 9982,
+    "sff": "NF200"
+  },
+  {
+    "docID": "N148 Gorrie 2010",
+    "et": "LesionVolumeTest",
+    "off": 7209,
+    "sff": "cavities"
+  },
+  {
+    "docID": "N148 Gorrie 2010",
+    "et": "LadderRungTest",
+    "off": 13475,
+    "sff": "stepping"
+  },
+  {
+    "docID": "N148 Gorrie 2010",
+    "et": "LesionVolumeTest",
+    "off": 14787,
+    "sff": "percentage of lesion area"
+  },
+  {
+    "docID": "N148 Gorrie 2010",
+    "et": "AstrogliosisTest",
+    "off": 1774,
+    "sff": "GFAP"
+  },
+  {
+    "docID": "N148 Gorrie 2010",
+    "et": "LesionVolumeTest",
+    "off": 7642,
+    "sff": "cavity area"
+  },
+  {
+    "docID": "N148 Gorrie 2010",
+    "et": "AstrogliosisTest",
+    "off": 16771,
+    "sff": "GFAP staining intensity"
+  },
+  {
+    "docID": "N148 Gorrie 2010",
+    "et": "LesionVolumeTest",
+    "off": 14750,
+    "sff": "cavitation"
+  },
+  {
+    "docID": "N148 Gorrie 2010",
+    "et": "InflammationTest",
+    "off": 18437,
+    "sff": "macrophage staining"
+  },
+  {
+    "docID": "N148 Gorrie 2010",
+    "et": "BBBTest",
+    "off": 12918,
+    "sff": "BBB scores"
+  },
+  {
+    "docID": "N148 Gorrie 2010",
+    "et": "AstrogliosisTest",
+    "off": 17293,
+    "sff": "astrocytic processes"
+  },
+  {
+    "docID": "N148 Gorrie 2010",
+    "et": "AstrogliosisTest",
+    "off": 9532,
+    "sff": "GFAP staining"
+  }
+]

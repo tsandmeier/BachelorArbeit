@@ -1,0 +1,68 @@
+[
+  {
+    "docID": "N012 Bradbury 2002 11948352",
+    "et": "Compression",
+    "off": 2241,
+    "sff": "crush"
+  },
+  {
+    "docID": "N012 Bradbury 2002 11948352",
+    "et": "C5",
+    "off": 3303,
+    "sff": "C5"
+  },
+  {
+    "docID": "N012 Bradbury 2002 11948352",
+    "et": "C4",
+    "off": 2223,
+    "sff": "C4"
+  },
+  {
+    "docID": "N012 Bradbury 2002 11948352",
+    "et": "ScoutenWireKnife",
+    "off": 20261,
+    "sff": "wire"
+  },
+  {
+    "docID": "N012 Bradbury 2002 11948352",
+    "et": "C5",
+    "off": 17004,
+    "sff": "C5"
+  },
+  {
+    "docID": "N012 Bradbury 2002 11948352",
+    "et": "Compression",
+    "off": 2858,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N012 Bradbury 2002 11948352",
+    "et": "InjuryDevice",
+    "off": 19027,
+    "sff": "needle"
+  },
+  {
+    "docID": "N012 Bradbury 2002 11948352",
+    "et": "C4",
+    "off": 19408,
+    "sff": "C4"
+  },
+  {
+    "docID": "N012 Bradbury 2002 11948352",
+    "et": "LateralHemisection",
+    "off": 19147,
+    "sff": "lateral"
+  },
+  {
+    "docID": "N012 Bradbury 2002 11948352",
+    "et": "Compression",
+    "off": 19398,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N012 Bradbury 2002 11948352",
+    "et": "Compression",
+    "off": 2241,
+    "sff": "crush lesion"
+  }
+]

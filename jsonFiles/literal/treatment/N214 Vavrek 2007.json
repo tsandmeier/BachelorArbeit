@@ -1,0 +1,68 @@
+[
+  {
+    "docID": "N214 Vavrek 2007",
+    "et": "ChondroitinaseABC",
+    "off": 5211,
+    "sff": "Chondroitinase"
+  },
+  {
+    "docID": "N214 Vavrek 2007",
+    "et": "InjectionDelivery",
+    "off": 5168,
+    "sff": "injected"
+  },
+  {
+    "docID": "N214 Vavrek 2007",
+    "et": "ChondroitinaseABC",
+    "off": 5211,
+    "sff": "Chondroitinase ABC"
+  },
+  {
+    "docID": "N214 Vavrek 2007",
+    "et": "Conduit",
+    "off": 4964,
+    "sff": "channel"
+  },
+  {
+    "docID": "N214 Vavrek 2007",
+    "et": "Conduit",
+    "off": 4955,
+    "sff": "guidance channel"
+  },
+  {
+    "docID": "N214 Vavrek 2007",
+    "et": "InjectionDelivery",
+    "off": 964,
+    "sff": "injected"
+  },
+  {
+    "docID": "N214 Vavrek 2007",
+    "et": "DosageExtracorporal",
+    "off": 4766,
+    "sff": "105"
+  },
+  {
+    "docID": "N214 Vavrek 2007",
+    "et": "Rostral",
+    "off": 7931,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N214 Vavrek 2007",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 3667,
+    "sff": "OEG"
+  },
+  {
+    "docID": "N214 Vavrek 2007",
+    "et": "SchwannCell",
+    "off": 507,
+    "sff": "SC"
+  },
+  {
+    "docID": "N214 Vavrek 2007",
+    "et": "Rostral",
+    "off": 1117,
+    "sff": "rostral"
+  }
+]

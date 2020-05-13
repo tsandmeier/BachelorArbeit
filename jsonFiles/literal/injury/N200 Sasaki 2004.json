@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "C5",
+    "off": 19668,
+    "sff": "C5"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Scissors",
+    "off": 8613,
+    "sff": "ophthalmic"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "C5",
+    "off": 13975,
+    "sff": "C5"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Xylazine",
+    "off": 8354,
+    "sff": "xylazine"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "DorsalHemisection",
+    "off": 32384,
+    "sff": "dorsal"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "C4",
+    "off": 13962,
+    "sff": "C4"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "C5",
+    "off": 13899,
+    "sff": "C5"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "KetamineAsAnaesthetic",
+    "off": 8345,
+    "sff": "ketamine"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "InjuryDevice",
+    "off": 31010,
+    "sff": "compression"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "C4",
+    "off": 13895,
+    "sff": "C4"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "C5",
+    "off": 13919,
+    "sff": "C5"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "PartialTransection",
+    "off": 34571,
+    "sff": "transect"
+  }
+]

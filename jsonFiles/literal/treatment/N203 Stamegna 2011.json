@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Direction",
+    "off": 28305,
+    "sff": "midline"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 771,
+    "sff": "OEC"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "InjectionDelivery",
+    "off": 8734,
+    "sff": "injected"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "InjectionDelivery",
+    "off": 6622,
+    "sff": "intraperitoneally"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Rostral",
+    "off": 13356,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "DosageExtracorporal",
+    "off": 9222,
+    "sff": "100,000"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Rostral",
+    "off": 8868,
+    "sff": "rostrally"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Rostral",
+    "off": 13386,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Rostral",
+    "off": 30186,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Rostral",
+    "off": 29343,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Direction",
+    "off": 8854,
+    "sff": "midline"
+  },
+  {
+    "docID": "N203 Stamegna 2011",
+    "et": "Direction",
+    "off": 28072,
+    "sff": "midline"
+  }
+]

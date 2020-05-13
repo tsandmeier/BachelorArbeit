@@ -1,0 +1,302 @@
+[
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "SpragueDawleyRat",
+    "off": 7400,
+    "sff": "rats"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "WistarRat",
+    "off": 7393,
+    "sff": "Wistar"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "SpragueDawleyRat",
+    "off": 14472,
+    "sff": "female"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "RatSpecies",
+    "off": 15217,
+    "sff": "rats"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "Weight",
+    "off": 15262,
+    "sff": "kg"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "Weight",
+    "off": 14603,
+    "sff": "mean"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "Weight",
+    "off": 7334,
+    "sff": "g"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "SpragueDawleyRat",
+    "off": 17012,
+    "sff": "rats"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "WistarRat",
+    "off": 14479,
+    "sff": "Wistar rats"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "Adult",
+    "off": 30208,
+    "sff": "adult"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "SpragueDawleyRat",
+    "off": 15217,
+    "sff": "rats"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "Age",
+    "off": 14586,
+    "sff": "old"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "Weight",
+    "off": 29021,
+    "sff": "200"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "Female",
+    "off": 14472,
+    "sff": "female"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "FischerRat",
+    "off": 7400,
+    "sff": "rats"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "Age",
+    "off": 8703,
+    "sff": "old"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "Age",
+    "off": 14577,
+    "sff": "12 weeks old"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "Age",
+    "off": 14572,
+    "sff": "age"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "SpragueDawleyRat",
+    "off": 28235,
+    "sff": "rats"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "RatSpecies",
+    "off": 141,
+    "sff": "rats"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "Weight",
+    "off": 9280,
+    "sff": "g"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "Gender",
+    "off": 14472,
+    "sff": "female"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "Age",
+    "off": 8696,
+    "sff": "months"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "Female",
+    "off": 8670,
+    "sff": "female"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "Weight",
+    "off": 9276,
+    "sff": "200 g"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "Adult",
+    "off": 8664,
+    "sff": "adult"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "Weight",
+    "off": 14608,
+    "sff": "250 g"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "Age",
+    "off": 17249,
+    "sff": "13 weeks"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "Weight",
+    "off": 29875,
+    "sff": "200"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "LongEvansRat",
+    "off": 14620,
+    "sff": "rats"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "Weight",
+    "off": 19376,
+    "sff": "200"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "Age",
+    "off": 8411,
+    "sff": "days"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "Age",
+    "off": 14577,
+    "sff": "12"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "Weight",
+    "off": 15315,
+    "sff": "kg"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "WistarRat",
+    "off": 14479,
+    "sff": "Wistar"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "SpragueDawleyRat",
+    "off": 14620,
+    "sff": "rats"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "Weight",
+    "off": 25939,
+    "sff": "mean"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "WistarRat",
+    "off": 8677,
+    "sff": "Wistar rats"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "Weight",
+    "off": 6385,
+    "sff": "g"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "Weight",
+    "off": 14603,
+    "sff": "mean 250 g"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "WistarRat",
+    "off": 7393,
+    "sff": "Wistar rats"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "Age",
+    "off": 8433,
+    "sff": "day"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "Weight",
+    "off": 13205,
+    "sff": "200"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "Weight",
+    "off": 7947,
+    "sff": "g"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "SpragueDawleyRat",
+    "off": 141,
+    "sff": "rats"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "Weight",
+    "off": 26092,
+    "sff": "mean"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "Mixed",
+    "off": 14472,
+    "sff": "female"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "Weight",
+    "off": 9276,
+    "sff": "200"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "Weight",
+    "off": 29243,
+    "sff": "200"
+  },
+  {
+    "docID": "N144 Ferrero-Gutierrez 2013",
+    "et": "Weight",
+    "off": 14612,
+    "sff": "g"
+  }
+]

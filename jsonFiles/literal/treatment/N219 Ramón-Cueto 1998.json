@@ -1,0 +1,80 @@
+[
+  {
+    "docID": "N219 Ramón-Cueto 1998",
+    "et": "SchwannCell",
+    "off": 925,
+    "sff": "SC"
+  },
+  {
+    "docID": "N219 Ramón-Cueto 1998",
+    "et": "InjectionDelivery",
+    "off": 16685,
+    "sff": "injected"
+  },
+  {
+    "docID": "N219 Ramón-Cueto 1998",
+    "et": "InjectionDelivery",
+    "off": 19437,
+    "sff": "injected"
+  },
+  {
+    "docID": "N219 Ramón-Cueto 1998",
+    "et": "Conduit",
+    "off": 937,
+    "sff": "guidance channels"
+  },
+  {
+    "docID": "N219 Ramón-Cueto 1998",
+    "et": "InjectionDelivery",
+    "off": 17626,
+    "sff": "injected"
+  },
+  {
+    "docID": "N219 Ramón-Cueto 1998",
+    "et": "DosageExtracorporal",
+    "off": 15311,
+    "sff": "200,000 cells into each cord stump"
+  },
+  {
+    "docID": "N219 Ramón-Cueto 1998",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 906,
+    "sff": "EG"
+  },
+  {
+    "docID": "N219 Ramón-Cueto 1998",
+    "et": "InjectionDelivery",
+    "off": 1066,
+    "sff": "injected"
+  },
+  {
+    "docID": "N219 Ramón-Cueto 1998",
+    "et": "SurgeryTreatment",
+    "off": 13951,
+    "sff": "removal of a 4 mm segment"
+  },
+  {
+    "docID": "N219 Ramón-Cueto 1998",
+    "et": "Direction",
+    "off": 1084,
+    "sff": "midline"
+  },
+  {
+    "docID": "N219 Ramón-Cueto 1998",
+    "et": "InjectionDelivery",
+    "off": 37352,
+    "sff": "injected"
+  },
+  {
+    "docID": "N219 Ramón-Cueto 1998",
+    "et": "InjectionDelivery",
+    "off": 14950,
+    "sff": "injected"
+  },
+  {
+    "docID": "N219 Ramón-Cueto 1998",
+    "et": "InjectionDelivery",
+    "off": 14372,
+    "sff": "injected"
+  }
+]

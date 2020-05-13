@@ -1,0 +1,200 @@
+[
+  {
+    "docID": "N167 Li 2012",
+    "et": "AstrogliosisTest",
+    "off": 21815,
+    "sff": "astrocytic"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "ScarringTest",
+    "off": 14182,
+    "sff": "GFAP expression"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 16108,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "AxonalChangesTest",
+    "off": 19864,
+    "sff": "NF immunoreactive axons"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "AstrogliosisTest",
+    "off": 17908,
+    "sff": "GFAP immunoreactivity"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 12728,
+    "sff": "latency"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "AxonalChangesTest",
+    "off": 17057,
+    "sff": "observed"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 21566,
+    "sff": "latency"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "AstrogliosisTest",
+    "off": 17467,
+    "sff": "astrocytic"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "SpinalCordEvokedPotentialsTest",
+    "off": 12815,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 21186,
+    "sff": "latency"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "ScarringTest",
+    "off": 17533,
+    "sff": "GFAP expression"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "AxonalChangesTest",
+    "off": 15439,
+    "sff": "number"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "SpinalCordEvokedPotentialsTest",
+    "off": 21275,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "AxonalChangesTest",
+    "off": 19568,
+    "sff": "axons"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 12728,
+    "sff": "latency"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "AxonalChangesTest",
+    "off": 15403,
+    "sff": "NF immunoreactive axons"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 16140,
+    "sff": "latency"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "BBBTest",
+    "off": 15844,
+    "sff": "BBB scores"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "SpinalCordEvokedPotentialsTest",
+    "off": 21154,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 12815,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "AxonalSproutingTest",
+    "off": 11194,
+    "sff": "primary"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "TissueSparingTest",
+    "off": 14452,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "AxonalChangesTest",
+    "off": 16702,
+    "sff": "axons"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "SpinalCordEvokedPotentialsTest",
+    "off": 16108,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "SpinalCordEvokedPotentialsTest",
+    "off": 21548,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "AxonalSproutingTest",
+    "off": 10606,
+    "sff": "primary"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "AxonalChangesTest",
+    "off": 17051,
+    "sff": "axons"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 21275,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "AxonalChangesTest",
+    "off": 15314,
+    "sff": "axons"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "AxonalChangesTest",
+    "off": 19795,
+    "sff": "axons"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "TissueSparingTest",
+    "off": 18666,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 21154,
+    "sff": "amplitude"
+  }
+]

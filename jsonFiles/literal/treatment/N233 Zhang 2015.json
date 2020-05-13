@@ -1,0 +1,80 @@
+[
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "DosageExtracorporal",
+    "off": 7832,
+    "sff": "60,000"
+  },
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "InjectionDelivery",
+    "off": 8815,
+    "sff": "injected"
+  },
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "DosageExtracorporal",
+    "off": 8969,
+    "sff": "10 mg"
+  },
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "InjectionDelivery",
+    "off": 8473,
+    "sff": "injected"
+  },
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "DeliveryMethod",
+    "off": 9239,
+    "sff": "transferred"
+  },
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "Rostral",
+    "off": 8586,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "DosageExtracorporal",
+    "off": 9643,
+    "sff": "3"
+  },
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "Caudal",
+    "off": 8598,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "DosageExtracorporal",
+    "off": 9699,
+    "sff": "100"
+  },
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "CyclosporineA",
+    "off": 8955,
+    "sff": "CyclosporinA"
+  },
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "InjectionDelivery",
+    "off": 8092,
+    "sff": "injected"
+  },
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "InjectionDelivery",
+    "off": 7372,
+    "sff": "intraperitoneal"
+  },
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 523,
+    "sff": "OECs"
+  }
+]

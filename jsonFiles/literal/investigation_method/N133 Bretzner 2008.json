@@ -1,0 +1,200 @@
+[
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 37726,
+    "sff": "sensory thermal"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "LesionVolumeTest",
+    "off": 29311,
+    "sff": "lesion areas"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "AxonalRegenerationTest",
+    "off": 20675,
+    "sff": "rubrospinal"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "AxonalChangesTest",
+    "off": 24951,
+    "sff": "axonal density"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "AxonalChangesTest",
+    "off": 32058,
+    "sff": "axons"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "AstrogliosisTest",
+    "off": 30645,
+    "sff": "astrocytic"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "AxonalRegenerationTest",
+    "off": 32036,
+    "sff": "number of rubrospinal axons"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "AxonalRegenerationTest",
+    "off": 1068,
+    "sff": "regeneration of rubrospinal axons"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "CystVolumeTest",
+    "off": 23038,
+    "sff": "cavitation area"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "AxonalSproutingTest",
+    "off": 34199,
+    "sff": "sprouting"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "AstrogliosisTest",
+    "off": 29884,
+    "sff": "reactive"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "SensoryTest",
+    "off": 26983,
+    "sff": "mechanical"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "AxonalChangesTest",
+    "off": 33010,
+    "sff": "serotonergic"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "AxonalSproutingTest",
+    "off": 33891,
+    "sff": "density of CGRP-positive fibers"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "AxonalSproutingTest",
+    "off": 31603,
+    "sff": "sprouting axons"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "AxonalChangesTest",
+    "off": 19018,
+    "sff": "axonal density"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "CystVolumeTest",
+    "off": 28944,
+    "sff": "cavitation"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 13747,
+    "sff": "latency"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "AxonalChangesTest",
+    "off": 26015,
+    "sff": "axonal density"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "AxonalChangesTest",
+    "off": 24210,
+    "sff": "axons"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "HistologicalInvestigationTest",
+    "off": 31928,
+    "sff": "profiles"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "AxonalRegenerationTest",
+    "off": 32520,
+    "sff": "regeneration of rubrospinal axons"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "AxonalRegenerationTest",
+    "off": 22735,
+    "sff": "regeneration of rubrospinal axons"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "AxonalRegenerationTest",
+    "off": 18374,
+    "sff": "number of rubrospinal axons"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "AxonalChangesTest",
+    "off": 26196,
+    "sff": "axonal density"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "AxonalSproutingTest",
+    "off": 33269,
+    "sff": "Axonal density measurements"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "AxonalChangesTest",
+    "off": 19759,
+    "sff": "axonal density"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "AxonalChangesTest",
+    "off": 28425,
+    "sff": "NF-positive"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "AxonalSproutingTest",
+    "off": 32672,
+    "sff": "sprouting of various axonal populations"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "AxonalChangesTest",
+    "off": 31923,
+    "sff": "axon profiles"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "ScarringTest",
+    "off": 28359,
+    "sff": "GFAP expression"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "AxonalRegenerationTest",
+    "off": 17591,
+    "sff": "number of rubrospinal axons"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "HistologicalInvestigationTest",
+    "off": 19664,
+    "sff": "profiles"
+  }
+]

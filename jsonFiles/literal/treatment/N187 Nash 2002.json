@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Rostral",
+    "off": 28206,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "InjectionDelivery",
+    "off": 10874,
+    "sff": "injected"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Vehicle",
+    "off": 26363,
+    "sff": "vehicle"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Vehicle",
+    "off": 23163,
+    "sff": "vehicle"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Caudal",
+    "off": 10942,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "InjectionDelivery",
+    "off": 8925,
+    "sff": "injected"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Vehicle",
+    "off": 25137,
+    "sff": "vehicle"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 539,
+    "sff": "ECs"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Rostral",
+    "off": 9015,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Saline",
+    "off": 9582,
+    "sff": "saline"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Vehicle",
+    "off": 21428,
+    "sff": "vehicle"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Vehicle",
+    "off": 32675,
+    "sff": "vehicle"
+  }
+]

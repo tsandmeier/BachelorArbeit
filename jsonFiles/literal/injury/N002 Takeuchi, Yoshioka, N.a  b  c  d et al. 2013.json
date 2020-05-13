@@ -1,0 +1,68 @@
+[
+  {
+    "docID": "N002 Takeuchi, Yoshioka, N.a  b  c  d et al. 2013",
+    "et": "T10",
+    "off": 32001,
+    "sff": "Th10"
+  },
+  {
+    "docID": "N002 Takeuchi, Yoshioka, N.a  b  c  d et al. 2013",
+    "et": "InjuryDevice",
+    "off": 31902,
+    "sff": "compression"
+  },
+  {
+    "docID": "N002 Takeuchi, Yoshioka, N.a  b  c  d et al. 2013",
+    "et": "LateralHemisection",
+    "off": 37136,
+    "sff": "lateral"
+  },
+  {
+    "docID": "N002 Takeuchi, Yoshioka, N.a  b  c  d et al. 2013",
+    "et": "PartialTransection",
+    "off": 42964,
+    "sff": "pyramidotomy"
+  },
+  {
+    "docID": "N002 Takeuchi, Yoshioka, N.a  b  c  d et al. 2013",
+    "et": "WeightDrop",
+    "off": 36343,
+    "sff": "device"
+  },
+  {
+    "docID": "N002 Takeuchi, Yoshioka, N.a  b  c  d et al. 2013",
+    "et": "InfiniteHorizonImpactor",
+    "off": 32068,
+    "sff": "Infinite Horizon Impactor"
+  },
+  {
+    "docID": "N002 Takeuchi, Yoshioka, N.a  b  c  d et al. 2013",
+    "et": "LateralHemisection",
+    "off": 42953,
+    "sff": "unilateral"
+  },
+  {
+    "docID": "N002 Takeuchi, Yoshioka, N.a  b  c  d et al. 2013",
+    "et": "Compression",
+    "off": 31902,
+    "sff": "compression"
+  },
+  {
+    "docID": "N002 Takeuchi, Yoshioka, N.a  b  c  d et al. 2013",
+    "et": "VertebralArea",
+    "off": 48545,
+    "sff": "levels"
+  },
+  {
+    "docID": "N002 Takeuchi, Yoshioka, N.a  b  c  d et al. 2013",
+    "et": "VertebralArea",
+    "off": 35584,
+    "sff": "levels"
+  },
+  {
+    "docID": "N002 Takeuchi, Yoshioka, N.a  b  c  d et al. 2013",
+    "et": "ScoutenWireKnife",
+    "off": 32907,
+    "sff": "wire"
+  }
+]

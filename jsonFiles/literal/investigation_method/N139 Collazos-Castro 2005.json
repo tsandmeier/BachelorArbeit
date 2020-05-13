@@ -1,0 +1,194 @@
+[
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "AxonalChangesTest",
+    "off": 15820,
+    "sff": "axons"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "AxonalChangesTest",
+    "off": 19856,
+    "sff": "observed"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "AxonalSproutingTest",
+    "off": 16073,
+    "sff": "processes"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "InclinedPlaneTest",
+    "off": 448,
+    "sff": "capacity"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "AxonalSproutingTest",
+    "off": 14035,
+    "sff": "processes"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "AxonalChangesTest",
+    "off": 20614,
+    "sff": "observed"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "AxonalChangesTest",
+    "off": 18504,
+    "sff": "observed"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "WalkingAnalysisTest",
+    "off": 22060,
+    "sff": "elbow extension"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "GaitTest",
+    "off": 22143,
+    "sff": "stability"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "LesionVolumeTest",
+    "off": 16468,
+    "sff": "pathological"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "GaitTest",
+    "off": 23289,
+    "sff": "stability"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "LesionVolumeTest",
+    "off": 13479,
+    "sff": "cavities"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "AxonalChangesTest",
+    "off": 20174,
+    "sff": "Growth"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "AxonalSproutingTest",
+    "off": 18046,
+    "sff": "processes"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "LesionVolumeTest",
+    "off": 1692,
+    "sff": "pathological"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "TissueSparingTest",
+    "off": 18192,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "AxonalSproutingTest",
+    "off": 8487,
+    "sff": "processes"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "AxonalChangesTest",
+    "off": 21225,
+    "sff": "axons"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "AxonalSproutingTest",
+    "off": 15718,
+    "sff": "processes"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "AxonalSproutingTest",
+    "off": 18983,
+    "sff": "processes"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "WalkingAnalysisTest",
+    "off": 23570,
+    "sff": "elbow extension"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "AxonalChangesTest",
+    "off": 16962,
+    "sff": "observed"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "AxonalSproutingTest",
+    "off": 19159,
+    "sff": "processes"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "LesionVolumeTest",
+    "off": 16911,
+    "sff": "formation"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "InclinedPlaneTest",
+    "off": 12057,
+    "sff": "angle"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "AutomatedGaitAnalysis",
+    "off": 12470,
+    "sff": "probability"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "AxonalSproutingTest",
+    "off": 20770,
+    "sff": "processes"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "AxonalChangesTest",
+    "off": 1366,
+    "sff": "axons"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "AxonalChangesTest",
+    "off": 20369,
+    "sff": "axons"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "AxonalSproutingTest",
+    "off": 20576,
+    "sff": "processes"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "LesionVolumeTest",
+    "off": 14731,
+    "sff": "cavities"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "AxonalChangesTest",
+    "off": 540,
+    "sff": "axonal"
+  }
+]

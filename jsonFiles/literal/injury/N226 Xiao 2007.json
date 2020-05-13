@@ -1,0 +1,80 @@
+[
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "KetamineAsAnaesthetic",
+    "off": 8409,
+    "sff": "ketamine"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "VertebralArea",
+    "off": 8511,
+    "sff": "C3 and C4 vertebrae"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "T8",
+    "off": 16029,
+    "sff": "T8"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "LateralHemisection",
+    "off": 476,
+    "sff": "hemisection"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "LateralHemisection",
+    "off": 8237,
+    "sff": "unilateral"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "Xylazine",
+    "off": 8434,
+    "sff": "xylazine"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "Compression",
+    "off": 8724,
+    "sff": "dorsolateral"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "Compression",
+    "off": 1139,
+    "sff": "dorsolateral"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "Xylazine",
+    "off": 11527,
+    "sff": "xylazine"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "LateralHemisection",
+    "off": 7267,
+    "sff": "dorsolateral"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "VertebralArea",
+    "off": 8511,
+    "sff": "C3 and C4"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "Scissors",
+    "off": 8573,
+    "sff": "microscissors"
+  },
+  {
+    "docID": "N226 Xiao 2007",
+    "et": "Compression",
+    "off": 7267,
+    "sff": "dorsolateral"
+  }
+]

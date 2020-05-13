@@ -1,0 +1,302 @@
+[
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Gender",
+    "off": 8282,
+    "sff": "female"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Age",
+    "off": 20218,
+    "sff": "3"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "FischerRat",
+    "off": 5224,
+    "sff": "rats"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Age",
+    "off": 8364,
+    "sff": "90"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Weight",
+    "off": 8318,
+    "sff": "gm"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Adult",
+    "off": 36208,
+    "sff": "adult"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "SpragueDawleyRat",
+    "off": 8289,
+    "sff": "Sprague Dawley rats"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Adult",
+    "off": 9069,
+    "sff": "adult"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "MouseSpecies",
+    "off": 538,
+    "sff": "transgenic"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Age",
+    "off": 13440,
+    "sff": "5"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Adult",
+    "off": 8276,
+    "sff": "Adult"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Weight",
+    "off": 8314,
+    "sff": "179"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Age",
+    "off": 35924,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Adult",
+    "off": 33290,
+    "sff": "adult"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "MouseSpecies",
+    "off": 34665,
+    "sff": "GFP"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Adult",
+    "off": 34049,
+    "sff": "adult"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "RatSpecies",
+    "off": 5224,
+    "sff": "rats"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Female",
+    "off": 8282,
+    "sff": "female"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Age",
+    "off": 19536,
+    "sff": "2"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "MouseSpecies",
+    "off": 612,
+    "sff": "GFP"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Age",
+    "off": 8313,
+    "sff": "–"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "LongEvansRat",
+    "off": 5224,
+    "sff": "rats"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Adult",
+    "off": 33816,
+    "sff": "adult"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Adult",
+    "off": 28694,
+    "sff": "adult"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "WistarRat",
+    "off": 26959,
+    "sff": "rats"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Weight",
+    "off": 8372,
+    "sff": "kg"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Adult",
+    "off": 532,
+    "sff": "adult"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "MouseSpecies",
+    "off": 29687,
+    "sff": "GFP"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Weight",
+    "off": 5950,
+    "sff": "300"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Age",
+    "off": 33064,
+    "sff": "age"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Weight",
+    "off": 8313,
+    "sff": "–"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Weight",
+    "off": 8310,
+    "sff": "150"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Age",
+    "off": 8367,
+    "sff": "4"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Mixed",
+    "off": 8282,
+    "sff": "female"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "WistarRat",
+    "off": 686,
+    "sff": "rats"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "MouseSpecies",
+    "off": 5213,
+    "sff": "transgenic"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Age",
+    "off": 14014,
+    "sff": "7"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "WistarRat",
+    "off": 569,
+    "sff": "rats"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "RatSpecies",
+    "off": 28700,
+    "sff": "rat"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Weight",
+    "off": 5956,
+    "sff": "g"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "MouseSpecies",
+    "off": 32812,
+    "sff": "GFP"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "RatSpecies",
+    "off": 686,
+    "sff": "rats"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Adult",
+    "off": 1578,
+    "sff": "Adult"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "WistarRat",
+    "off": 18963,
+    "sff": "rats"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Age",
+    "off": 18969,
+    "sff": "5"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "SpragueDawleyRat",
+    "off": 8282,
+    "sff": "female"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Adult",
+    "off": 32210,
+    "sff": "adult"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "SpragueDawleyRat",
+    "off": 8313,
+    "sff": "–"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "MouseSpecies",
+    "off": 34870,
+    "sff": "GFP"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "FischerRat",
+    "off": 18963,
+    "sff": "rats"
+  }
+]

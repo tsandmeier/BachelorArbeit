@@ -1,0 +1,308 @@
+[
+  {
+    "docID": "N141 Deng 2008",
+    "et": "SpragueDawleyRat",
+    "off": 7660,
+    "sff": "rats"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Age",
+    "off": 22755,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "MouseSpecies",
+    "off": 16630,
+    "sff": "GFP"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Adult",
+    "off": 27162,
+    "sff": "adult"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Age",
+    "off": 11220,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "SpragueDawleyRat",
+    "off": 7656,
+    "sff": "SD"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "WistarRat",
+    "off": 9879,
+    "sff": "rats"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Weight",
+    "off": 7670,
+    "sff": "270"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "SpragueDawleyRat",
+    "off": 22353,
+    "sff": "rats"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "WistarRat",
+    "off": 15118,
+    "sff": "rats"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Age",
+    "off": 9426,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Female",
+    "off": 7625,
+    "sff": "Female"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Age",
+    "off": 9468,
+    "sff": "days"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Age",
+    "off": 17662,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Adult",
+    "off": 25976,
+    "sff": "adult"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "LewisRat",
+    "off": 7660,
+    "sff": "rats"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "WistarRat",
+    "off": 15289,
+    "sff": "rats"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "SpragueDawleyRat",
+    "off": 7640,
+    "sff": "Sprague-Dawley"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "WistarRat",
+    "off": 17595,
+    "sff": "rats"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "RatSpecies",
+    "off": 17595,
+    "sff": "rats"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "MouseSpecies",
+    "off": 16561,
+    "sff": "GFP"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "FischerRat",
+    "off": 10310,
+    "sff": "rats"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "WistarRat",
+    "off": 18762,
+    "sff": "rats"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Age",
+    "off": 8979,
+    "sff": "4"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Age",
+    "off": 21918,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "WistarRat",
+    "off": 21080,
+    "sff": "rats"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Weight",
+    "off": 7674,
+    "sff": "g"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "MouseSpecies",
+    "off": 21191,
+    "sff": "GFP"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "WistarRat",
+    "off": 19547,
+    "sff": "rats"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Age",
+    "off": 17385,
+    "sff": "days"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Age",
+    "off": 6661,
+    "sff": "months"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "WistarRat",
+    "off": 22353,
+    "sff": "rats"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "MouseSpecies",
+    "off": 1099,
+    "sff": "GFP"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Weight",
+    "off": 22480,
+    "sff": "mean"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "SpragueDawleyRat",
+    "off": 9879,
+    "sff": "rats"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "SpragueDawleyRat",
+    "off": 12055,
+    "sff": "rats"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "SpragueDawleyRat",
+    "off": 8777,
+    "sff": "rats"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "WistarRat",
+    "off": 7660,
+    "sff": "rats"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "SpragueDawleyRat",
+    "off": 9677,
+    "sff": "rats"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Age",
+    "off": 14135,
+    "sff": "days"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "FischerRat",
+    "off": 7660,
+    "sff": "rats"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "LongEvansRat",
+    "off": 7660,
+    "sff": "rats"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Age",
+    "off": 27830,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "SpragueDawleyRat",
+    "off": 15289,
+    "sff": "rats"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "SpragueDawleyRat",
+    "off": 28473,
+    "sff": "rats"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "SpragueDawleyRat",
+    "off": 17595,
+    "sff": "rats"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "WistarRat",
+    "off": 22647,
+    "sff": "rats"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "ListerHoodedRat",
+    "off": 7660,
+    "sff": "rats"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "MouseSpecies",
+    "off": 12839,
+    "sff": "GFP"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Weight",
+    "off": 7666,
+    "sff": "240"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "RatSpecies",
+    "off": 7660,
+    "sff": "rats"
+  }
+]

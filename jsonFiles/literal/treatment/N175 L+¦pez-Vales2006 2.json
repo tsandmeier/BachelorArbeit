@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N175 L+¦pez-Vales2006 2",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 469,
+    "sff": "OEC"
+  },
+  {
+    "docID": "N175 L+¦pez-Vales2006 2",
+    "et": "Rostral",
+    "off": 4961,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N175 L+¦pez-Vales2006 2",
+    "et": "Saline",
+    "off": 1103,
+    "sff": "saline"
+  },
+  {
+    "docID": "N175 L+¦pez-Vales2006 2",
+    "et": "Saline",
+    "off": 7345,
+    "sff": "saline"
+  },
+  {
+    "docID": "N175 L+¦pez-Vales2006 2",
+    "et": "InjectionDelivery",
+    "off": 5441,
+    "sff": "intraperitoneal"
+  },
+  {
+    "docID": "N175 L+¦pez-Vales2006 2",
+    "et": "Rostral",
+    "off": 7151,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N175 L+¦pez-Vales2006 2",
+    "et": "Rostral",
+    "off": 8524,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N175 L+¦pez-Vales2006 2",
+    "et": "InjectionDelivery",
+    "off": 3811,
+    "sff": "intraperitoneal"
+  },
+  {
+    "docID": "N175 L+¦pez-Vales2006 2",
+    "et": "Saline",
+    "off": 5516,
+    "sff": "saline solution"
+  },
+  {
+    "docID": "N175 L+¦pez-Vales2006 2",
+    "et": "InjectionDelivery",
+    "off": 4681,
+    "sff": "injected"
+  },
+  {
+    "docID": "N175 L+¦pez-Vales2006 2",
+    "et": "InjectionDelivery",
+    "off": 12060,
+    "sff": "injected"
+  },
+  {
+    "docID": "N175 L+¦pez-Vales2006 2",
+    "et": "InjectionDelivery",
+    "off": 5336,
+    "sff": "intraperitoneal"
+  }
+]

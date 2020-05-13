@@ -1,0 +1,194 @@
+[
+  {
+    "docID": "N163 Lee 2004",
+    "et": "AxonalRegenerationTest",
+    "off": 9938,
+    "sff": "against"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "InclinedPlaneTest",
+    "off": 18619,
+    "sff": "maximum"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "AxonalChangesTest",
+    "off": 18468,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "AxonalRegenerationTest",
+    "off": 20351,
+    "sff": "fibers"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "AxonalChangesTest",
+    "off": 12259,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "AxonalSproutingTest",
+    "off": 13896,
+    "sff": "fibers"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "TissueSparingTest",
+    "off": 14620,
+    "sff": "white"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "BBBTest",
+    "off": 20911,
+    "sff": "BBB scores"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "TissueSparingTest",
+    "off": 6746,
+    "sff": "amount"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "AxonalChangesTest",
+    "off": 13896,
+    "sff": "fibers"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "AstrogliosisTest",
+    "off": 19233,
+    "sff": "reactive"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "AxonalChangesTest",
+    "off": 2193,
+    "sff": "fiber"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "AxonalSproutingTest",
+    "off": 15002,
+    "sff": "primary"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "AxonalRegenerationTest",
+    "off": 20534,
+    "sff": "fibers"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "BBBTest",
+    "off": 10706,
+    "sff": "BBB scores"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "AxonalChangesTest",
+    "off": 20062,
+    "sff": "number"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "AxonalChangesTest",
+    "off": 11357,
+    "sff": "number"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "AxonalChangesTest",
+    "off": 20534,
+    "sff": "fibers"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "AstrogliosisTest",
+    "off": 9818,
+    "sff": "astrocytic"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "AxonalSproutingTest",
+    "off": 9730,
+    "sff": "primary"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "LesionVolumeTest",
+    "off": 20449,
+    "sff": "GFAP-negative"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "AxonalChangesTest",
+    "off": 2199,
+    "sff": "growth"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "AxonalChangesTest",
+    "off": 20742,
+    "sff": "observed"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "AxonalRegenerationTest",
+    "off": 9793,
+    "sff": "against"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "BBBTest",
+    "off": 21009,
+    "sff": "BBB scores"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "ScarringTest",
+    "off": 16950,
+    "sff": "staining"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "AxonalChangesTest",
+    "off": 18824,
+    "sff": "number"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "AxonalChangesTest",
+    "off": 13808,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "HistologicalInvestigationTest",
+    "off": 18269,
+    "sff": "changes"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "AxonalChangesTest",
+    "off": 757,
+    "sff": "axonal"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "AxonalChangesTest",
+    "off": 708,
+    "sff": "growth"
+  },
+  {
+    "docID": "N163 Lee 2004",
+    "et": "AxonalChangesTest",
+    "off": 13418,
+    "sff": "rostral"
+  }
+]

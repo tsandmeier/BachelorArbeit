@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N134 Cao 2004",
+    "et": "InjectionDelivery",
+    "off": 16418,
+    "sff": "injected"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "InjectionDelivery",
+    "off": 33938,
+    "sff": "injected"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "InjectionDelivery",
+    "off": 17999,
+    "sff": "injected"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Saline",
+    "off": 9662,
+    "sff": "saline"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "DosageExtracorporal",
+    "off": 13468,
+    "sff": "106"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "DosageExtracorporal",
+    "off": 16214,
+    "sff": "50 000 cells"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "InjectionDelivery",
+    "off": 20036,
+    "sff": "injected"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "InjectionDelivery",
+    "off": 15491,
+    "sff": "intraperitoneally"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Vehicle",
+    "off": 1941,
+    "sff": "DMEM"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "InjectionDelivery",
+    "off": 25353,
+    "sff": "injected"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "DosageExtracorporal",
+    "off": 16332,
+    "sff": "50 000 cells"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 627,
+    "sff": "OEC"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "LateralHemisection",
+    "off": 7726,
+    "sff": "dorsolateral cut injury"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "LateralHemisection",
+    "off": 7420,
+    "sff": "dorsolateral cut injury"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "Xylazine",
+    "off": 7336,
+    "sff": "xylazine"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "LateralHemisection",
+    "off": 7726,
+    "sff": "dorsolateral"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "VertebralArea",
+    "off": 7452,
+    "sff": "C3 and C4"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "Compression",
+    "off": 6855,
+    "sff": "dorsolateral"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "Compression",
+    "off": 12519,
+    "sff": "dorsolateral"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "C4",
+    "off": 7459,
+    "sff": "C4"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "C4",
+    "off": 7363,
+    "sff": "C4"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "Blade",
+    "off": 7555,
+    "sff": "micro-blade"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "LateralHemisection",
+    "off": 6909,
+    "sff": "unilateral"
+  },
+  {
+    "docID": "N007 Ishikawa 2015",
+    "et": "KetamineAsAnaesthetic",
+    "off": 7311,
+    "sff": "ketamine"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N213 Torres-Espin 2013",
+    "et": "KetamineAsAnaesthetic",
+    "off": 9363,
+    "sff": "ketamine"
+  },
+  {
+    "docID": "N213 Torres-Espin 2013",
+    "et": "InjuryDevice",
+    "off": 16925,
+    "sff": "compression"
+  },
+  {
+    "docID": "N213 Torres-Espin 2013",
+    "et": "C4",
+    "off": 9534,
+    "sff": "vertebra"
+  },
+  {
+    "docID": "N213 Torres-Espin 2013",
+    "et": "Forceps",
+    "off": 7224,
+    "sff": "forceps"
+  },
+  {
+    "docID": "N213 Torres-Espin 2013",
+    "et": "LateralHemisection",
+    "off": 9555,
+    "sff": "cord"
+  },
+  {
+    "docID": "N213 Torres-Espin 2013",
+    "et": "T9",
+    "off": 9531,
+    "sff": "T9"
+  },
+  {
+    "docID": "N213 Torres-Espin 2013",
+    "et": "T9",
+    "off": 16696,
+    "sff": "T9"
+  },
+  {
+    "docID": "N213 Torres-Espin 2013",
+    "et": "InjuryDevice",
+    "off": 27351,
+    "sff": "compression"
+  },
+  {
+    "docID": "N213 Torres-Espin 2013",
+    "et": "LateralHemisection",
+    "off": 9453,
+    "sff": "incision"
+  },
+  {
+    "docID": "N213 Torres-Espin 2013",
+    "et": "Xylazine",
+    "off": 9387,
+    "sff": "xylacine"
+  },
+  {
+    "docID": "N213 Torres-Espin 2013",
+    "et": "Contusion",
+    "off": 913,
+    "sff": "contusion"
+  },
+  {
+    "docID": "N213 Torres-Espin 2013",
+    "et": "InfiniteHorizonImpactor",
+    "off": 9612,
+    "sff": "Infinite Horizon Impactor"
+  }
+]

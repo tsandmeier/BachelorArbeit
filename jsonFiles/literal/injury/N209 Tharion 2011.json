@@ -1,0 +1,80 @@
+[
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "Laminectomy",
+    "off": 8423,
+    "sff": "exposed"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "InfiniteHorizonImpactor",
+    "off": 11672,
+    "sff": "impactor"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "InjuryDevice",
+    "off": 6829,
+    "sff": "device"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "KetamineAsAnaesthetic",
+    "off": 4670,
+    "sff": "ketamine"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "Xylazine",
+    "off": 6656,
+    "sff": "xylazine"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "Contusion",
+    "off": 6908,
+    "sff": "drop-weight injury"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "InjuryDevice",
+    "off": 9706,
+    "sff": "device"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "Xylazine",
+    "off": 4683,
+    "sff": "xylazine"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "T10",
+    "off": 12658,
+    "sff": "10"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "InfiniteHorizonImpactor",
+    "off": 6820,
+    "sff": "impactor"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "T10",
+    "off": 6711,
+    "sff": "T10"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "InjuryDevice",
+    "off": 8221,
+    "sff": "device"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "Contusion",
+    "off": 6908,
+    "sff": "drop-weight"
+  }
+]

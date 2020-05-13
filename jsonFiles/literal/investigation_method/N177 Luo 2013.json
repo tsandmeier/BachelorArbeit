@@ -1,0 +1,194 @@
+[
+  {
+    "docID": "N177 Luo 2013",
+    "et": "TissueSparingTest",
+    "off": 8239,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 1628,
+    "sff": "mechanical"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "BladderFunctionTest",
+    "off": 5887,
+    "sff": "compliance"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "NeuronalChangesTest",
+    "off": 11855,
+    "sff": "immunopositive"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 7976,
+    "sff": "stimulus"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "AxonalSproutingTest",
+    "off": 1563,
+    "sff": "sensory"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "AxonalRegenerationTest",
+    "off": 14898,
+    "sff": "staining"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 7716,
+    "sff": "stimulus"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "GaitTest",
+    "off": 8801,
+    "sff": "rotating"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "AxonalSproutingTest",
+    "off": 13224,
+    "sff": "sensory"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 1759,
+    "sff": "latency"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "InvestigationMethod",
+    "off": 2583,
+    "sff": "neuronal"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "AxonalSproutingTest",
+    "off": 1966,
+    "sff": "sensory"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 8361,
+    "sff": "Mechanical"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "AxonalSproutingTest",
+    "off": 11461,
+    "sff": "primary"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 1789,
+    "sff": "latency"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "AxonalSproutingTest",
+    "off": 12068,
+    "sff": "processes"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "GeneExpressionAnalysis",
+    "off": 15188,
+    "sff": "NGF mRNA expression"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 13258,
+    "sff": "Mechanical stimulus"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "AxonalSproutingTest",
+    "off": 14144,
+    "sff": "sensory"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "ProteinLevelAnalysis",
+    "off": 15620,
+    "sff": "level"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 9220,
+    "sff": "mechanical"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "AxonalSproutingTest",
+    "off": 2171,
+    "sff": "sensory"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 8341,
+    "sff": "Mechanical stimulus"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 1789,
+    "sff": "latency"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "GeneExpressionAnalysis",
+    "off": 10854,
+    "sff": "NGF mRNA expression"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "NeuronalChangesTest",
+    "off": 11710,
+    "sff": "immunopositive"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "GeneExpressionAnalysis",
+    "off": 15633,
+    "sff": "expression"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "ProteinLevelAnalysis",
+    "off": 15385,
+    "sff": "NGF proteinwas"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "HistologicalInvestigationTest",
+    "off": 6508,
+    "sff": "levels"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "GeneExpressionAnalysis",
+    "off": 1997,
+    "sff": "expression"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 13258,
+    "sff": "Mechanical"
+  }
+]

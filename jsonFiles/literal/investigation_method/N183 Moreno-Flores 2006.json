@@ -1,0 +1,194 @@
+[
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "AxonalRegenerationTest",
+    "off": 14843,
+    "sff": "immunostaining"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "AxonalChangesTest",
+    "off": 22101,
+    "sff": "axons"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "AxonalSproutingTest",
+    "off": 35653,
+    "sff": "primary"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "AxonalRegenerationTest",
+    "off": 11105,
+    "sff": "labeled fibers"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "AxonalRegenerationTest",
+    "off": 11699,
+    "sff": "immunostaining"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "AxonalRegenerationTest",
+    "off": 7600,
+    "sff": "immunostaining"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "AstrogliosisTest",
+    "off": 8285,
+    "sff": "reactive"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "LesionVolumeTest",
+    "off": 9305,
+    "sff": "lesion area"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "AxonalChangesTest",
+    "off": 20703,
+    "sff": "axons"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "InclinedPlaneTest",
+    "off": 979,
+    "sff": "capacity"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "AxonalRegenerationTest",
+    "off": 15663,
+    "sff": "immunostaining"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "AxonalSproutingTest",
+    "off": 1908,
+    "sff": "primary"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 12662,
+    "sff": "latency"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "AstrogliosisTest",
+    "off": 35691,
+    "sff": "immunofluorescence"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "AxonalRegenerationTest",
+    "off": 7507,
+    "sff": "immunostaining"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "AxonalRegenerationTest",
+    "off": 7953,
+    "sff": "immunostaining"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "AxonalChangesTest",
+    "off": 20344,
+    "sff": "axons"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "InclinedPlaneTest",
+    "off": 8027,
+    "sff": "capacity"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "AxonalSproutingTest",
+    "off": 21202,
+    "sff": "sprouting"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "ScarringTest",
+    "off": 11877,
+    "sff": "immunoreactivity"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "AxonalRegenerationTest",
+    "off": 19881,
+    "sff": "immunostaining"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "AxonalSproutingTest",
+    "off": 20889,
+    "sff": "sprouting"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "AxonalSproutingTest",
+    "off": 10649,
+    "sff": "sprouting"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "LesionVolumeTest",
+    "off": 17356,
+    "sff": "lesion area"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "AxonalRegenerationTest",
+    "off": 21650,
+    "sff": "labeled fibers"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "AxonalRegenerationTest",
+    "off": 18131,
+    "sff": "immunostaining"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "AstrogliosisTest",
+    "off": 17329,
+    "sff": "reactive"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "AxonalChangesTest",
+    "off": 19896,
+    "sff": "observed"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "InclinedPlaneTest",
+    "off": 22529,
+    "sff": "performance"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "AxonalChangesTest",
+    "off": 19276,
+    "sff": "axons"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "AxonalRegenerationTest",
+    "off": 34971,
+    "sff": "labeled fibers"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "AxonalSproutingTest",
+    "off": 5723,
+    "sff": "primary"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "docID": "N232 Zhang 2012",
+    "et": "T10",
+    "off": 761,
+    "sff": "T10"
+  },
+  {
+    "docID": "N232 Zhang 2012",
+    "et": "Contusion",
+    "off": 721,
+    "sff": "Contusion injury"
+  },
+  {
+    "docID": "N232 Zhang 2012",
+    "et": "Contusion",
+    "off": 721,
+    "sff": "Contusion"
+  },
+  {
+    "docID": "N232 Zhang 2012",
+    "et": "Blade",
+    "off": 10904,
+    "sff": "sharp"
+  },
+  {
+    "docID": "N232 Zhang 2012",
+    "et": "InfiniteHorizonImpactor",
+    "off": 795,
+    "sff": "impactor"
+  },
+  {
+    "docID": "N232 Zhang 2012",
+    "et": "Blade",
+    "off": 19113,
+    "sff": "sharp"
+  },
+  {
+    "docID": "N232 Zhang 2012",
+    "et": "Contusion",
+    "off": 2030,
+    "sff": "contused"
+  },
+  {
+    "docID": "N232 Zhang 2012",
+    "et": "Blade",
+    "off": 10655,
+    "sff": "sharp"
+  },
+  {
+    "docID": "N232 Zhang 2012",
+    "et": "Blade",
+    "off": 18703,
+    "sff": "sharp"
+  },
+  {
+    "docID": "N232 Zhang 2012",
+    "et": "LateralHemisection",
+    "off": 20554,
+    "sff": "lateral"
+  },
+  {
+    "docID": "N232 Zhang 2012",
+    "et": "Contusion",
+    "off": 1903,
+    "sff": "SCI"
+  }
+]

@@ -1,0 +1,206 @@
+[
+  {
+    "docID": "N137 Centenaro 2013",
+    "et": "HReflexTest",
+    "off": 20868,
+    "sff": "reflex"
+  },
+  {
+    "docID": "N137 Centenaro 2013",
+    "et": "AxonalSproutingTest",
+    "off": 23616,
+    "sff": "density"
+  },
+  {
+    "docID": "N137 Centenaro 2013",
+    "et": "BBBTest",
+    "off": 20875,
+    "sff": "scores"
+  },
+  {
+    "docID": "N137 Centenaro 2013",
+    "et": "MyelinationTest",
+    "off": 23599,
+    "sff": "myelinated fiber density"
+  },
+  {
+    "docID": "N137 Centenaro 2013",
+    "et": "HReflexTest",
+    "off": 22898,
+    "sff": "H reflex amplitude"
+  },
+  {
+    "docID": "N137 Centenaro 2013",
+    "et": "MyelinationTest",
+    "off": 19933,
+    "sff": "fibers"
+  },
+  {
+    "docID": "N137 Centenaro 2013",
+    "et": "HReflexTest",
+    "off": 21689,
+    "sff": "reflex"
+  },
+  {
+    "docID": "N137 Centenaro 2013",
+    "et": "MyelinationTest",
+    "off": 20078,
+    "sff": "diameter"
+  },
+  {
+    "docID": "N137 Centenaro 2013",
+    "et": "HistologicalInvestigationTest",
+    "off": 21894,
+    "sff": "levels"
+  },
+  {
+    "docID": "N137 Centenaro 2013",
+    "et": "AxonalSproutingTest",
+    "off": 20432,
+    "sff": "density"
+  },
+  {
+    "docID": "N137 Centenaro 2013",
+    "et": "HReflexTest",
+    "off": 22596,
+    "sff": "H reflex amplitude"
+  },
+  {
+    "docID": "N137 Centenaro 2013",
+    "et": "HReflexTest",
+    "off": 21227,
+    "sff": "reflex"
+  },
+  {
+    "docID": "N137 Centenaro 2013",
+    "et": "SensoryTest",
+    "off": 21673,
+    "sff": "lowerwithdrawal reflex"
+  },
+  {
+    "docID": "N137 Centenaro 2013",
+    "et": "ApoptosisTest",
+    "off": 21031,
+    "sff": "activity"
+  },
+  {
+    "docID": "N137 Centenaro 2013",
+    "et": "MyelinationTest",
+    "off": 20095,
+    "sff": "diameter"
+  },
+  {
+    "docID": "N137 Centenaro 2013",
+    "et": "HReflexTest",
+    "off": 21024,
+    "sff": "reflex"
+  },
+  {
+    "docID": "N137 Centenaro 2013",
+    "et": "MyelinationTest",
+    "off": 1942,
+    "sff": "diameter"
+  },
+  {
+    "docID": "N137 Centenaro 2013",
+    "et": "MyelinationTest",
+    "off": 20415,
+    "sff": "Myelinated"
+  },
+  {
+    "docID": "N137 Centenaro 2013",
+    "et": "MyelinationTest",
+    "off": 23468,
+    "sff": "axon diameter"
+  },
+  {
+    "docID": "N137 Centenaro 2013",
+    "et": "MyelinationTest",
+    "off": 23117,
+    "sff": "diameter"
+  },
+  {
+    "docID": "N137 Centenaro 2013",
+    "et": "SensoryTest",
+    "off": 1455,
+    "sff": "withdrawal reflex"
+  },
+  {
+    "docID": "N137 Centenaro 2013",
+    "et": "MyelinationTest",
+    "off": 20090,
+    "sff": "axon diameter"
+  },
+  {
+    "docID": "N137 Centenaro 2013",
+    "et": "LesionVolumeTest",
+    "off": 20000,
+    "sff": "cavities"
+  },
+  {
+    "docID": "N137 Centenaro 2013",
+    "et": "SensoryTest",
+    "off": 22178,
+    "sff": "hyperactive withdrawal reflex"
+  },
+  {
+    "docID": "N137 Centenaro 2013",
+    "et": "HReflexTest",
+    "off": 1531,
+    "sff": "H-reflex"
+  },
+  {
+    "docID": "N137 Centenaro 2013",
+    "et": "MyelinationTest",
+    "off": 1678,
+    "sff": "fibers"
+  },
+  {
+    "docID": "N137 Centenaro 2013",
+    "et": "MyelinationTest",
+    "off": 79,
+    "sff": "Myelinated"
+  },
+  {
+    "docID": "N137 Centenaro 2013",
+    "et": "HReflexTest",
+    "off": 19149,
+    "sff": "reflex"
+  },
+  {
+    "docID": "N137 Centenaro 2013",
+    "et": "MyelinationTest",
+    "off": 1604,
+    "sff": "myelinated fiber density"
+  },
+  {
+    "docID": "N137 Centenaro 2013",
+    "et": "SensoryTest",
+    "off": 21673,
+    "sff": "lowerwithdrawal"
+  },
+  {
+    "docID": "N137 Centenaro 2013",
+    "et": "CystVolumeTest",
+    "off": 19993,
+    "sff": "cystic cavities"
+  },
+  {
+    "docID": "N137 Centenaro 2013",
+    "et": "MyelinationTest",
+    "off": 20036,
+    "sff": "Myelinated"
+  },
+  {
+    "docID": "N137 Centenaro 2013",
+    "et": "MyelinationTest",
+    "off": 20432,
+    "sff": "density"
+  },
+  {
+    "docID": "N137 Centenaro 2013",
+    "et": "MyelinationTest",
+    "off": 20483,
+    "sff": "fibers"
+  }
+]

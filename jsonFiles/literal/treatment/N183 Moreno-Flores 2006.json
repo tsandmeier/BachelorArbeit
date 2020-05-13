@@ -1,0 +1,80 @@
+[
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "Rostral",
+    "off": 36808,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "InjectionDelivery",
+    "off": 20147,
+    "sff": "injected"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "InjectionDelivery",
+    "off": 33269,
+    "sff": "injected"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "Rostral",
+    "off": 33460,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "Rostral",
+    "off": 20369,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "Rostral",
+    "off": 34513,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "Rostral",
+    "off": 10386,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "Vehicle",
+    "off": 38269,
+    "sff": "vehicle"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "Rostral",
+    "off": 37337,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "Rostral",
+    "off": 11512,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 650,
+    "sff": "OEG"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "InjectionDelivery",
+    "off": 14632,
+    "sff": "injected"
+  },
+  {
+    "docID": "N183 Moreno-Flores 2006",
+    "et": "Rostral",
+    "off": 21504,
+    "sff": "rostral"
+  }
+]

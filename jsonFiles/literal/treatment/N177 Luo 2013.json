@@ -1,0 +1,68 @@
+[
+  {
+    "docID": "N177 Luo 2013",
+    "et": "Direction",
+    "off": 7152,
+    "sff": "midline"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "DosageExtracorporal",
+    "off": 7415,
+    "sff": "5 mg"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "DosageExtracorporal",
+    "off": 9776,
+    "sff": "3"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "SchwannCell",
+    "off": 5255,
+    "sff": "female"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "CyclosporineA",
+    "off": 7399,
+    "sff": "cyclosporine"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "Rostral",
+    "off": 6665,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "DosageExtracorporal",
+    "off": 6874,
+    "sff": "3"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "DosageExtracorporal",
+    "off": 8529,
+    "sff": "Each"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 6878,
+    "sff": "105OECs"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "CompoundTreatment",
+    "off": 1245,
+    "sff": "treatment"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "DosageExtracorporal",
+    "off": 15654,
+    "sff": "4"
+  }
+]

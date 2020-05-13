@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N161 Lang 2013",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 334,
+    "sff": "OECs"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "Saline",
+    "off": 25868,
+    "sff": "saline"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "InjectionDelivery",
+    "off": 19360,
+    "sff": "intraperitoneal"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "DeliveryMethod",
+    "off": 19698,
+    "sff": "inserted"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "DosageExtracorporal",
+    "off": 17141,
+    "sff": "1 × 106"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "Direction",
+    "off": 19754,
+    "sff": "midline"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "InjectionDelivery",
+    "off": 20393,
+    "sff": "injected"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "DeliveryMethod",
+    "off": 17297,
+    "sff": "transferred"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "Saline",
+    "off": 20176,
+    "sff": "saline"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "DeliveryMethod",
+    "off": 25761,
+    "sff": "transferred"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "Saline",
+    "off": 17761,
+    "sff": "saline"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "InjectionDelivery",
+    "off": 19938,
+    "sff": "intraperitoneally"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "InjectionDelivery",
+    "off": 5276,
+    "sff": "intraperitoneally"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "Tissue",
+    "off": 557,
+    "sff": "OM"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "Substance",
+    "off": 14505,
+    "sff": "fibrin glue"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "RingersSolution",
+    "off": 10870,
+    "sff": "solution"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "Substance",
+    "off": 8054,
+    "sff": "fibrin glue"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "Rostral",
+    "off": 7738,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "Rostral",
+    "off": 5626,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "Rostral",
+    "off": 12426,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "Tissue",
+    "off": 1192,
+    "sff": "respiratory mucosa"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "Substance",
+    "off": 14505,
+    "sff": "fibrin"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "Tissue",
+    "off": 6280,
+    "sff": "RM"
+  }
+]

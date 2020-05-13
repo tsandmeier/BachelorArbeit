@@ -1,0 +1,68 @@
+[
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "T10",
+    "off": 8223,
+    "sff": "T10"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "PhotochemicalInjury",
+    "off": 8435,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "PhotochemicalInjury",
+    "off": 8442,
+    "sff": "cord"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "NYUImpactor",
+    "off": 5399,
+    "sff": "University"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "LateralHemisection",
+    "off": 8435,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "LateralHemisection",
+    "off": 8964,
+    "sff": "incision"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "NYUImpactor",
+    "off": 7009,
+    "sff": "University"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "PhotochemicalInjury",
+    "off": 8267,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "Injury",
+    "off": 8227,
+    "sff": "segmental transversal injury"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "PhotochemicalInjury",
+    "off": 2584,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N035 Zhang 2013 24220426",
+    "et": "LateralHemisection",
+    "off": 8274,
+    "sff": "cord"
+  }
+]

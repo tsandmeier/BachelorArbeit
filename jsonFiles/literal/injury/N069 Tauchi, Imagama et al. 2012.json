@@ -1,0 +1,80 @@
+[
+  {
+    "docID": "N069 Tauchi, Imagama et al. 2012",
+    "et": "T10",
+    "off": 5456,
+    "sff": "Th10"
+  },
+  {
+    "docID": "N069 Tauchi, Imagama et al. 2012",
+    "et": "Forceps",
+    "off": 14258,
+    "sff": "fine forceps"
+  },
+  {
+    "docID": "N069 Tauchi, Imagama et al. 2012",
+    "et": "Forceps",
+    "off": 14263,
+    "sff": "forceps"
+  },
+  {
+    "docID": "N069 Tauchi, Imagama et al. 2012",
+    "et": "Contusion",
+    "off": 1544,
+    "sff": "contusion"
+  },
+  {
+    "docID": "N069 Tauchi, Imagama et al. 2012",
+    "et": "LateralHemisection",
+    "off": 22757,
+    "sff": "column"
+  },
+  {
+    "docID": "N069 Tauchi, Imagama et al. 2012",
+    "et": "T10",
+    "off": 25303,
+    "sff": "Th10"
+  },
+  {
+    "docID": "N069 Tauchi, Imagama et al. 2012",
+    "et": "KetamineAsAnaesthetic",
+    "off": 5403,
+    "sff": "ketamine"
+  },
+  {
+    "docID": "N069 Tauchi, Imagama et al. 2012",
+    "et": "Forceps",
+    "off": 9361,
+    "sff": "forceps"
+  },
+  {
+    "docID": "N069 Tauchi, Imagama et al. 2012",
+    "et": "Laminectomy",
+    "off": 5477,
+    "sff": "exposed"
+  },
+  {
+    "docID": "N069 Tauchi, Imagama et al. 2012",
+    "et": "PartialTransection",
+    "off": 10163,
+    "sff": "small"
+  },
+  {
+    "docID": "N069 Tauchi, Imagama et al. 2012",
+    "et": "Forceps",
+    "off": 9356,
+    "sff": "fine forceps"
+  },
+  {
+    "docID": "N069 Tauchi, Imagama et al. 2012",
+    "et": "Xylazine",
+    "off": 5429,
+    "sff": "xylazine"
+  },
+  {
+    "docID": "N069 Tauchi, Imagama et al. 2012",
+    "et": "InfiniteHorizonImpactor",
+    "off": 5602,
+    "sff": "Infinite Horizon Impactor"
+  }
+]

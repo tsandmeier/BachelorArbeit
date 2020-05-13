@@ -1,0 +1,308 @@
+[
+  {
+    "docID": "N165 Li 2010",
+    "et": "RatSpecies",
+    "off": 8125,
+    "sff": "rats"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "WistarRat",
+    "off": 12360,
+    "sff": "rats"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "WistarRat",
+    "off": 9682,
+    "sff": "rats"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "Weight",
+    "off": 3889,
+    "sff": "25"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "Age",
+    "off": 5594,
+    "sff": "days"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "RatSpecies",
+    "off": 12360,
+    "sff": "rats"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "WistarRat",
+    "off": 10171,
+    "sff": "rats"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "Age",
+    "off": 9829,
+    "sff": "13 weeks"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "WistarRat",
+    "off": 12225,
+    "sff": "rats"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "WistarRat",
+    "off": 4033,
+    "sff": "rats"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "WistarRat",
+    "off": 7488,
+    "sff": "rats"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "Weight",
+    "off": 3693,
+    "sff": "kg"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "Weight",
+    "off": 4051,
+    "sff": "g"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "WistarRat",
+    "off": 8125,
+    "sff": "rats"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "Weight",
+    "off": 9402,
+    "sff": "mean"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "SpragueDawleyRat",
+    "off": 12225,
+    "sff": "rats"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "SpragueDawleyRat",
+    "off": 3575,
+    "sff": "SD"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "Age",
+    "off": 3863,
+    "sff": "10"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "SpragueDawleyRat",
+    "off": 8081,
+    "sff": "rats"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "WistarRat",
+    "off": 8150,
+    "sff": "rats"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "LewisRat",
+    "off": 3584,
+    "sff": "rats"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "WistarRat",
+    "off": 8928,
+    "sff": "rats"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "RatSpecies",
+    "off": 8150,
+    "sff": "rats"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "Weight",
+    "off": 3602,
+    "sff": "400"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "Age",
+    "off": 11757,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "FischerRat",
+    "off": 3584,
+    "sff": "rats"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "FischerRat",
+    "off": 640,
+    "sff": "rats"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "Age",
+    "off": 1082,
+    "sff": "13 weeks"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "WistarRat",
+    "off": 7557,
+    "sff": "rats"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "RatSpecies",
+    "off": 3584,
+    "sff": "rats"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "RatSpecies",
+    "off": 640,
+    "sff": "rats"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "RatSpecies",
+    "off": 7557,
+    "sff": "rats"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "WistarRat",
+    "off": 8081,
+    "sff": "rats"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "WistarRat",
+    "off": 6905,
+    "sff": "rats"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "Weight",
+    "off": 3866,
+    "sff": "g"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "Weight",
+    "off": 3606,
+    "sff": "g"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "WistarRat",
+    "off": 3584,
+    "sff": "rats"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "SpragueDawleyRat",
+    "off": 7557,
+    "sff": "rats"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "SpragueDawleyRat",
+    "off": 3584,
+    "sff": "rats"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "ListerHoodedRat",
+    "off": 3584,
+    "sff": "rats"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "LongEvansRat",
+    "off": 3584,
+    "sff": "rats"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "Weight",
+    "off": 3598,
+    "sff": "350"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "Age",
+    "off": 7452,
+    "sff": "13 weeks"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "SpragueDawleyRat",
+    "off": 12360,
+    "sff": "rats"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "Adult",
+    "off": 3578,
+    "sff": "adult"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "Weight",
+    "off": 514,
+    "sff": "g"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "SpragueDawleyRat",
+    "off": 9682,
+    "sff": "rats"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "RatSpecies",
+    "off": 8081,
+    "sff": "rats"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "Weight",
+    "off": 3686,
+    "sff": "30"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "MouseSpecies",
+    "off": 4022,
+    "sff": "transgenic"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "WistarRat",
+    "off": 7327,
+    "sff": "rats"
+  }
+]

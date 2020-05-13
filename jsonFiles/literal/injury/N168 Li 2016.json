@@ -1,0 +1,68 @@
+[
+  {
+    "docID": "N168 Li 2016",
+    "et": "DorsalHemisection",
+    "off": 5517,
+    "sff": "CST"
+  },
+  {
+    "docID": "N168 Li 2016",
+    "et": "Injury",
+    "off": 5694,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N168 Li 2016",
+    "et": "DorsalHemisection",
+    "off": 3787,
+    "sff": "CST"
+  },
+  {
+    "docID": "N168 Li 2016",
+    "et": "Isoflurane",
+    "off": 5436,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N168 Li 2016",
+    "et": "DorsalHemisection",
+    "off": 5669,
+    "sff": "were"
+  },
+  {
+    "docID": "N168 Li 2016",
+    "et": "Compression",
+    "off": 608,
+    "sff": "injuries"
+  },
+  {
+    "docID": "N168 Li 2016",
+    "et": "VertebralArea",
+    "off": 5547,
+    "sff": "C1 and C2 vertebrae"
+  },
+  {
+    "docID": "N168 Li 2016",
+    "et": "Injury",
+    "off": 5689,
+    "sff": "heat"
+  },
+  {
+    "docID": "N168 Li 2016",
+    "et": "InjuryDevice",
+    "off": 5715,
+    "sff": "radiofrequency lesion device"
+  },
+  {
+    "docID": "N168 Li 2016",
+    "et": "Injury",
+    "off": 5689,
+    "sff": "heat lesion"
+  },
+  {
+    "docID": "N168 Li 2016",
+    "et": "DorsalHemisection",
+    "off": 5640,
+    "sff": "CST"
+  }
+]

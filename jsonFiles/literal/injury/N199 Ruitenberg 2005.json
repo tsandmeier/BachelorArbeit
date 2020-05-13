@@ -1,0 +1,68 @@
+[
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "C4",
+    "off": 814,
+    "sff": "C4"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "Blade",
+    "off": 13978,
+    "sff": "micro-knife"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "C4",
+    "off": 13873,
+    "sff": "C4"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "C4",
+    "off": 28176,
+    "sff": "C4"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "Blade",
+    "off": 14990,
+    "sff": "surgical"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "C4",
+    "off": 30304,
+    "sff": "C4"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "LateralHemisection",
+    "off": 14040,
+    "sff": "incision across the right half of the spinal cord"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "Halothane",
+    "off": 13595,
+    "sff": "halothane"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "Halothane",
+    "off": 13611,
+    "sff": "halothane"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "NitrousOxide",
+    "off": 13679,
+    "sff": "N2O"
+  },
+  {
+    "docID": "N199 Ruitenberg 2005",
+    "et": "Halothane",
+    "off": 17500,
+    "sff": "halothane"
+  }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "AxonalChangesTest",
+    "off": 20152,
+    "sff": "axons"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "AxonalChangesTest",
+    "off": 19574,
+    "sff": "axons"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "AxonalChangesTest",
+    "off": 19959,
+    "sff": "axons"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "AxonalChangesTest",
+    "off": 19697,
+    "sff": "axons"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "AxonalChangesTest",
+    "off": 20078,
+    "sff": "axons"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "AxonalChangesTest",
+    "off": 11503,
+    "sff": "axons"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "AxonalChangesTest",
+    "off": 15625,
+    "sff": "axons"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "LesionVolumeTest",
+    "off": 13167,
+    "sff": "cavities"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "AxonalChangesTest",
+    "off": 16081,
+    "sff": "serotonergic"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "TissueSparingTest",
+    "off": 12109,
+    "sff": "volume of spared tissue"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "GaitTest",
+    "off": 11007,
+    "sff": "lateral"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "AxonalChangesTest",
+    "off": 20710,
+    "sff": "observed"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "AxonalChangesTest",
+    "off": 1689,
+    "sff": "serotonergic"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "TissueSparingTest",
+    "off": 7551,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "InvestigationMethod",
+    "off": 14111,
+    "sff": "neuronal"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "LesionVolumeTest",
+    "off": 18881,
+    "sff": "cavities"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "AxonalChangesTest",
+    "off": 20546,
+    "sff": "density of raphespinal axons"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "AxonalSproutingTest",
+    "off": 9472,
+    "sff": "primary"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "AxonalChangesTest",
+    "off": 12326,
+    "sff": "serotonergic"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "AxonalChangesTest",
+    "off": 19469,
+    "sff": "axons"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "AxonalChangesTest",
+    "off": 19585,
+    "sff": "observed"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "LadderRungTest",
+    "off": 1286,
+    "sff": "activity"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "AxonalChangesTest",
+    "off": 19872,
+    "sff": "axons"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "CystVolumeTest",
+    "off": 18907,
+    "sff": "mean volume of these cavities"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "TissueSparingTest",
+    "off": 12119,
+    "sff": "spared tissue"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "AxonalChangesTest",
+    "off": 16348,
+    "sff": "axons"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "AxonalChangesTest",
+    "off": 16919,
+    "sff": "neurons"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "AxonalChangesTest",
+    "off": 19765,
+    "sff": "serotonergic"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "ApoptosisTest",
+    "off": 1286,
+    "sff": "activity"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "AxonalChangesTest",
+    "off": 20163,
+    "sff": "observed"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "AxonalChangesTest",
+    "off": 20699,
+    "sff": "axons"
+  },
+  {
+    "docID": "N078 Aoki 2010",
+    "et": "AxonalSproutingTest",
+    "off": 17385,
+    "sff": "processes"
+  }
+]

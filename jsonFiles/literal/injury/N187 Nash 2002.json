@@ -1,0 +1,80 @@
+[
+  {
+    "docID": "N187 Nash 2002",
+    "et": "DorsalHemisection",
+    "off": 8768,
+    "sff": "CST"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Isoflurane",
+    "off": 11010,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "LateralHemisection",
+    "off": 9166,
+    "sff": "lateral"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "VertebralArea",
+    "off": 8415,
+    "sff": "C2 and C4"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Isoflurane",
+    "off": 8096,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "DorsalHemisection",
+    "off": 8745,
+    "sff": "transecting the dorsal CST"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "AllenWeightDropDevice",
+    "off": 6860,
+    "sff": "technique"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "DorsalHemisection",
+    "off": 8745,
+    "sff": "transecting"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "AllenWeightDropDevice",
+    "off": 28144,
+    "sff": "technique"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Laminectomy",
+    "off": 8342,
+    "sff": "laminectomy"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "DorsalHemisection",
+    "off": 14537,
+    "sff": "bilateral"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "Scissors",
+    "off": 8662,
+    "sff": "iridectomy scissors"
+  },
+  {
+    "docID": "N187 Nash 2002",
+    "et": "LateralHemisection",
+    "off": 8726,
+    "sff": "funiculus"
+  }
+]

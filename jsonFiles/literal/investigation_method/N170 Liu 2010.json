@@ -1,0 +1,206 @@
+[
+  {
+    "docID": "N170 Liu 2010",
+    "et": "BBBTest",
+    "off": 12849,
+    "sff": "BBB scores"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "BBBTest",
+    "off": 10511,
+    "sff": "scores"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 11865,
+    "sff": "somatosensory"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "BBBTest",
+    "off": 12596,
+    "sff": "BBB scores"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 6426,
+    "sff": "somatosensory"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 11527,
+    "sff": "motor evoked potential amplitude"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 11906,
+    "sff": "latency"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 11767,
+    "sff": "amplitude somatosensory evoked potentials"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "BBBTest",
+    "off": 7940,
+    "sff": "score"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 11089,
+    "sff": "somatosensory"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 7058,
+    "sff": "somatosensory"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "NeuronalChangesTest",
+    "off": 894,
+    "sff": "number of labeled neurons"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "BBBTest",
+    "off": 10975,
+    "sff": "BBB score"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "BBBTest",
+    "off": 13084,
+    "sff": "BBB score"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 6591,
+    "sff": "somatosensory"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "SpinalCordEvokedPotentialsTest",
+    "off": 11550,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "BBBTest",
+    "off": 12297,
+    "sff": "scores"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 450,
+    "sff": "somatosensory"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "BBBTest",
+    "off": 8132,
+    "sff": "scores"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "BBBTest",
+    "off": 7936,
+    "sff": "BBB"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "BBBTest",
+    "off": 12179,
+    "sff": "BBB scores"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 11550,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 7856,
+    "sff": "latency"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "AxonalRegenerationTest",
+    "off": 13467,
+    "sff": "number of HRP-labeled neurons"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 12012,
+    "sff": "somatosensory"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "BBBTest",
+    "off": 12693,
+    "sff": "BBB scores"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 11457,
+    "sff": "somatosensory evoked potential amplitude"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "BBBTest",
+    "off": 8373,
+    "sff": "BBB score"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 11175,
+    "sff": "somatosensory"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 7187,
+    "sff": "latency"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "BBBTest",
+    "off": 7936,
+    "sff": "BBB score"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "BBBTest",
+    "off": 10507,
+    "sff": "BBB scores"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "BBBTest",
+    "off": 12293,
+    "sff": "BBB scores"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 7198,
+    "sff": "somatosensory"
+  }
+]

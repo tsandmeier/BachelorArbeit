@@ -1,0 +1,206 @@
+[
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "WalkingAnalysisTest",
+    "off": 30282,
+    "sff": "PCA scores"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "WalkingAnalysisTest",
+    "off": 33423,
+    "sff": "Beyond 10%"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "TissueSparingTest",
+    "off": 8000,
+    "sff": "amount"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "NeuronalChangesTest",
+    "off": 23447,
+    "sff": "WGA-positive somata"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "LesionVolumeTest",
+    "off": 49559,
+    "sff": "average volume of the injury site"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "NeuronalChangesTest",
+    "off": 44569,
+    "sff": "WGA-positive somata"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 40204,
+    "sff": "mean MEP amplitude"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "AxonalRegenerationTest",
+    "off": 41356,
+    "sff": "intensities"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "NeuronalChangesTest",
+    "off": 43341,
+    "sff": "WGA-positive somata"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "WalkingAnalysisTest",
+    "off": 33332,
+    "sff": "extension"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "WalkingAnalysisTest",
+    "off": 29351,
+    "sff": "plantar steps"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "AxonalRegenerationTest",
+    "off": 21765,
+    "sff": "intensities"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "AxonalRegenerationTest",
+    "off": 41281,
+    "sff": "intensities"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "WalkingAnalysisTest",
+    "off": 7345,
+    "sff": "plantar steps"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "WalkingAnalysisTest",
+    "off": 30286,
+    "sff": "scores"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "WalkingAnalysisTest",
+    "off": 33979,
+    "sff": "plantar steps"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "WalkingAnalysisTest",
+    "off": 34365,
+    "sff": "plantar steps"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "AxonalRegenerationTest",
+    "off": 41082,
+    "sff": "intensities"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 39112,
+    "sff": "mean latency"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "WalkingAnalysisTest",
+    "off": 29242,
+    "sff": "plantar steps"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "AxonalRegenerationTest",
+    "off": 38581,
+    "sff": "intensities"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "NeuronalChangesTest",
+    "off": 44404,
+    "sff": "WGA-positive somata"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "NeuronalChangesTest",
+    "off": 43641,
+    "sff": "WGA-positive somata"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "WalkingAnalysisTest",
+    "off": 30618,
+    "sff": "Mean step height"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "NeuronalChangesTest",
+    "off": 22890,
+    "sff": "WGA-positive somata"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "NeuronalChangesTest",
+    "off": 44207,
+    "sff": "WGA-positive somata"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "WalkingAnalysisTest",
+    "off": 33326,
+    "sff": "ankle extension at 0 and 10% body weight support"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "WalkingAnalysisTest",
+    "off": 29631,
+    "sff": "average number of plantar steps"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "TissueSparingTest",
+    "off": 49266,
+    "sff": "amount"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "WalkingAnalysisTest",
+    "off": 31568,
+    "sff": "plantar steps"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "NeuronalChangesTest",
+    "off": 50494,
+    "sff": "average GFAP-positive non-neuronal zone"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "NeuronalChangesTest",
+    "off": 50552,
+    "sff": "total distance between neurons"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "TissueSparingTest",
+    "off": 32687,
+    "sff": "amount"
+  },
+  {
+    "docID": "N208 Takeoka 2011",
+    "et": "WalkingAnalysisTest",
+    "off": 29649,
+    "sff": "plantar steps"
+  }
+]

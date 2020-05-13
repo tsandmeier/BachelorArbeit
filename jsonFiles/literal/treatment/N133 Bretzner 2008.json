@@ -1,0 +1,80 @@
+[
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 2398,
+    "sff": "OECs"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Rostral",
+    "off": 33132,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Rostral",
+    "off": 31475,
+    "sff": "rostrally"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Rostral",
+    "off": 21362,
+    "sff": "rostrally"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Rostral",
+    "off": 28274,
+    "sff": "rostrally"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "InjectionDelivery",
+    "off": 10323,
+    "sff": "injected"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Vehicle",
+    "off": 11303,
+    "sff": "vehicle solution"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Rostral",
+    "off": 10064,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 556,
+    "sff": "OECs"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Rostral",
+    "off": 22046,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Caudal",
+    "off": 10076,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "InjectionDelivery",
+    "off": 21353,
+    "sff": "injected"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Rostral",
+    "off": 2210,
+    "sff": "rostral"
+  }
+]

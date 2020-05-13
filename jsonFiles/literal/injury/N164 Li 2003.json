@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N164 Li 2003",
+    "et": "Forceps",
+    "off": 7154,
+    "sff": "watchmaker"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "VertebralArea",
+    "off": 16460,
+    "sff": "level"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "LateralHemisection",
+    "off": 5518,
+    "sff": "one-half of the upper cervical spinal cord was transected"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "Cervical",
+    "off": 1224,
+    "sff": "cervical"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "LightSource",
+    "off": 16088,
+    "sff": "fiber"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "Cervical",
+    "off": 1672,
+    "sff": "cervical"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "T10",
+    "off": 1398,
+    "sff": "cord"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "Laminectomy",
+    "off": 8785,
+    "sff": "exposed"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "Forceps",
+    "off": 7167,
+    "sff": "forceps"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "Blade",
+    "off": 5622,
+    "sff": "small knife"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "Cervical",
+    "off": 1440,
+    "sff": "cervical"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "VertebralArea",
+    "off": 12137,
+    "sff": "level"
+  }
+]

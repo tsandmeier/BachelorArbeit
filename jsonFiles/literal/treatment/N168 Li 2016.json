@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N168 Li 2016",
+    "et": "CyclosporineA",
+    "off": 10146,
+    "sff": "cyclosporine"
+  },
+  {
+    "docID": "N168 Li 2016",
+    "et": "CyclosporineA",
+    "off": 13501,
+    "sff": "cyclosporine"
+  },
+  {
+    "docID": "N168 Li 2016",
+    "et": "CyclosporineA",
+    "off": 14788,
+    "sff": "Cyclosporine"
+  },
+  {
+    "docID": "N168 Li 2016",
+    "et": "CyclosporineA",
+    "off": 15069,
+    "sff": "cyclosporine"
+  },
+  {
+    "docID": "N168 Li 2016",
+    "et": "CyclosporineA",
+    "off": 7468,
+    "sff": "cyclosporine"
+  },
+  {
+    "docID": "N168 Li 2016",
+    "et": "CyclosporineA",
+    "off": 8860,
+    "sff": "cyclosporine"
+  },
+  {
+    "docID": "N168 Li 2016",
+    "et": "CyclosporineA",
+    "off": 10218,
+    "sff": "cyclosporine"
+  },
+  {
+    "docID": "N168 Li 2016",
+    "et": "InjectionDelivery",
+    "off": 7655,
+    "sff": "intraperitoneally"
+  },
+  {
+    "docID": "N168 Li 2016",
+    "et": "CyclosporineA",
+    "off": 9223,
+    "sff": "cyclosporine"
+  },
+  {
+    "docID": "N168 Li 2016",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 1932,
+    "sff": "OECs"
+  },
+  {
+    "docID": "N168 Li 2016",
+    "et": "InjectionDelivery",
+    "off": 7333,
+    "sff": "injected"
+  },
+  {
+    "docID": "N168 Li 2016",
+    "et": "DosageExtracorporal",
+    "off": 7306,
+    "sff": "around 100,000 cells"
+  }
+]

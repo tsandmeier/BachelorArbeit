@@ -1,0 +1,194 @@
+[
+  {
+    "docID": "N161 Lang 2013",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 20873,
+    "sff": "thermal"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "AxonalSproutingTest",
+    "off": 25894,
+    "sff": "primary"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 20775,
+    "sff": "sensory"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "TissueSparingTest",
+    "off": 16988,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 20941,
+    "sff": "mechanical"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 19025,
+    "sff": "three"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 21135,
+    "sff": "withdrawal"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "InvestigationMethod",
+    "off": 1726,
+    "sff": "neuronal"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "AxonalSproutingTest",
+    "off": 22010,
+    "sff": "sensory"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "TissueSparingTest",
+    "off": 21925,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "ApoptosisTest",
+    "off": 86,
+    "sff": "activity"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 21254,
+    "sff": "withdrawal"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "HindpawSensationTest",
+    "off": 20858,
+    "sff": "mechanical"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "HindpawSensationTest",
+    "off": 22010,
+    "sff": "sensory"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "TissueSparingTest",
+    "off": 16843,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "AxonalChangesTest",
+    "off": 23451,
+    "sff": "observed"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "HindpawSensationTest",
+    "off": 627,
+    "sff": "sensory"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 21852,
+    "sff": "latency"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "HindpawSensationTest",
+    "off": 493,
+    "sff": "sensory"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "AxonalSproutingTest",
+    "off": 20775,
+    "sff": "sensory"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "TissueSparingTest",
+    "off": 23987,
+    "sff": "amount"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 800,
+    "sff": "mechanical"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 18222,
+    "sff": "three"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "HindpawSensationTest",
+    "off": 20775,
+    "sff": "sensory"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "AxonalChangesTest",
+    "off": 22802,
+    "sff": "observed"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "AxonalSproutingTest",
+    "off": 24999,
+    "sff": "density"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "AxonalChangesTest",
+    "off": 22917,
+    "sff": "neurons"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 20858,
+    "sff": "mechanical"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "ScarringTest",
+    "off": 18649,
+    "sff": "staining"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 21852,
+    "sff": "latency"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "AxonalSproutingTest",
+    "off": 19245,
+    "sff": "primary"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "ProteinLevelAnalysis",
+    "off": 1126,
+    "sff": "level of p-ERK"
+  }
+]

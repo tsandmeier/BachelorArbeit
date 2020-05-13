@@ -1,0 +1,194 @@
+[
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "AxonalChangesTest",
+    "off": 588,
+    "sff": "axonal"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "BBBTest",
+    "off": 14912,
+    "sff": "BBB score"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 11368,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 1269,
+    "sff": "motor-evoked potentials"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "SpinalCordEvokedPotentialsTest",
+    "off": 15339,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "HistologicalInvestigationTest",
+    "off": 13377,
+    "sff": "positive"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "BBBTest",
+    "off": 8778,
+    "sff": "BBB score"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "SpinalCordEvokedPotentialsTest",
+    "off": 11368,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "HistologicalInvestigationTest",
+    "off": 14113,
+    "sff": "staining"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 15356,
+    "sff": "motor-evoked potentials"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "SpinalCordEvokedPotentialsTest",
+    "off": 12996,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "HistologicalInvestigationTest",
+    "off": 12473,
+    "sff": "positive"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "HistologicalInvestigationTest",
+    "off": 14328,
+    "sff": "positive"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "HistologicalInvestigationTest",
+    "off": 14266,
+    "sff": "positive"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 14753,
+    "sff": "mean"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 15009,
+    "sff": "mean"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "ApoptosisTest",
+    "off": 7895,
+    "sff": "activity"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "BBBTest",
+    "off": 14626,
+    "sff": "BBB score"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "MyelinationTest",
+    "off": 608,
+    "sff": "remyelination"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "BBBTest",
+    "off": 14758,
+    "sff": "BBB score"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "BBBTest",
+    "off": 14568,
+    "sff": "BBB score"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "ScarringTest",
+    "off": 14113,
+    "sff": "staining"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "BBBTest",
+    "off": 11419,
+    "sff": "score"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "AxonalSproutingTest",
+    "off": 6121,
+    "sff": "primary"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "LadderRungTest",
+    "off": 7895,
+    "sff": "activity"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "BBBTest",
+    "off": 12562,
+    "sff": "BBB score"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "ScarringTest",
+    "off": 13865,
+    "sff": "staining"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "HistologicalInvestigationTest",
+    "off": 13865,
+    "sff": "staining"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "BBBTest",
+    "off": 11415,
+    "sff": "BBB score"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "BBBTest",
+    "off": 11354,
+    "sff": "BBB score"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "HReflexTest",
+    "off": 11368,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 14621,
+    "sff": "mean"
+  }
+]

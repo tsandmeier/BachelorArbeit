@@ -1,0 +1,302 @@
+[
+  {
+    "docID": "N164 Li 2003",
+    "et": "FischerRat",
+    "off": 8702,
+    "sff": "rats"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "Weight",
+    "off": 8951,
+    "sff": "200"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "Age",
+    "off": 18825,
+    "sff": "3"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "Age",
+    "off": 18371,
+    "sff": "months"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "WistarRat",
+    "off": 8702,
+    "sff": "rats"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "RatSpecies",
+    "off": 5395,
+    "sff": "strain"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "WistarRat",
+    "off": 11156,
+    "sff": "rats"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "RatSpecies",
+    "off": 11915,
+    "sff": "rats"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "Female",
+    "off": 5377,
+    "sff": "female"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "WistarRat",
+    "off": 11915,
+    "sff": "rats"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "Age",
+    "off": 8215,
+    "sff": "day"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "RatSpecies",
+    "off": 5402,
+    "sff": "rats"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "FischerRat",
+    "off": 5402,
+    "sff": "rats"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "RatSpecies",
+    "off": 5385,
+    "sff": "inbred AS strain rats"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "ListerHoodedRat",
+    "off": 5402,
+    "sff": "rats"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "RatSpecies",
+    "off": 5385,
+    "sff": "inbred"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "WistarRat",
+    "off": 5402,
+    "sff": "rats"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "Adult",
+    "off": 5371,
+    "sff": "adult"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "Age",
+    "off": 8600,
+    "sff": "months"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "WistarRat",
+    "off": 8624,
+    "sff": "rats"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "Age",
+    "off": 11371,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "RatSpecies",
+    "off": 1106,
+    "sff": "rat"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "Age",
+    "off": 9491,
+    "sff": "4"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "Age",
+    "off": 10473,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "Age",
+    "off": 12820,
+    "sff": "months"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "WistarRat",
+    "off": 16554,
+    "sff": "rats"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "Age",
+    "off": 18979,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "Age",
+    "off": 19976,
+    "sff": "6"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "Weight",
+    "off": 19394,
+    "sff": "mean"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "WistarRat",
+    "off": 5385,
+    "sff": "inbred"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "MouseSpecies",
+    "off": 5395,
+    "sff": "strain"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "SpragueDawleyRat",
+    "off": 5402,
+    "sff": "rats"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "Age",
+    "off": 11799,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "LongEvansRat",
+    "off": 5402,
+    "sff": "rats"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "WistarRat",
+    "off": 19027,
+    "sff": "rats"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "Weight",
+    "off": 9333,
+    "sff": "kg"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "RatSpecies",
+    "off": 10185,
+    "sff": "rats"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "Age",
+    "off": 19963,
+    "sff": "2"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "Age",
+    "off": 18827,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "FischerRat",
+    "off": 5385,
+    "sff": "inbred"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "WistarRat",
+    "off": 10185,
+    "sff": "rats"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "Weight",
+    "off": 19622,
+    "sff": "mean"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "RatSpecies",
+    "off": 20088,
+    "sff": "rat"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "WistarRat",
+    "off": 20194,
+    "sff": "rats"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "WistarRat",
+    "off": 13666,
+    "sff": "rats"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "WistarRat",
+    "off": 19803,
+    "sff": "rats"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "Age",
+    "off": 16742,
+    "sff": "months"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "Age",
+    "off": 5647,
+    "sff": "12"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "LewisRat",
+    "off": 5402,
+    "sff": "rats"
+  },
+  {
+    "docID": "N164 Li 2003",
+    "et": "Age",
+    "off": 16427,
+    "sff": "weeks"
+  }
+]

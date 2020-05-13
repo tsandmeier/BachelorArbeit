@@ -1,0 +1,200 @@
+[
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "InvestigationMethod",
+    "off": 661,
+    "sff": "neuronal"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "InvestigationMethod",
+    "off": 3157,
+    "sff": "neuronal"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "AxonalChangesTest",
+    "off": 17879,
+    "sff": "axons"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "TissueSparingTest",
+    "off": 21961,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "AxonalSproutingTest",
+    "off": 2783,
+    "sff": "sensory"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "TissueSparingTest",
+    "off": 17798,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 18536,
+    "sff": "three"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "NeuronalChangesTest",
+    "off": 16384,
+    "sff": "quadruple-positive"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "AxonalChangesTest",
+    "off": 15288,
+    "sff": "axonal"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "TissueSparingTest",
+    "off": 18073,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "AxonalChangesTest",
+    "off": 17261,
+    "sff": "axons"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "NeuronalChangesTest",
+    "off": 21891,
+    "sff": "number of quadruple-positive cells"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "InvestigationMethod",
+    "off": 22349,
+    "sff": "neuronal"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "AxonalChangesTest",
+    "off": 17727,
+    "sff": "axonal"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "AxonalRegenerationTest",
+    "off": 14307,
+    "sff": "number of counted anterograde tracer BDA-positive dots"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "AxonalChangesTest",
+    "off": 13942,
+    "sff": "axons"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "AxonalChangesTest",
+    "off": 17851,
+    "sff": "axons"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "ImagingTest",
+    "off": 19506,
+    "sff": "regions"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 20195,
+    "sff": "three"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "TissueSparingTest",
+    "off": 16100,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "TissueSparingTest",
+    "off": 21028,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "AxonalChangesTest",
+    "off": 21315,
+    "sff": "axons"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "AxonalRegenerationTest",
+    "off": 18154,
+    "sff": "number of BDA-positive dots"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "AxonalRegenerationTest",
+    "off": 18026,
+    "sff": "number of BDA-positive dots"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "TissueSparingTest",
+    "off": 16945,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "TissueSparingTest",
+    "off": 21744,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "HindpawSensationTest",
+    "off": 2783,
+    "sff": "sensory"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "NeuronalChangesTest",
+    "off": 2142,
+    "sff": "number of quadruple-positive cells"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "AxonalChangesTest",
+    "off": 16905,
+    "sff": "axons"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "AxonalChangesTest",
+    "off": 14682,
+    "sff": "axonal"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "TissueSparingTest",
+    "off": 17589,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "AxonalChangesTest",
+    "off": 16211,
+    "sff": "axons"
+  },
+  {
+    "docID": "N184 Moriwaki 2014",
+    "et": "AxonalChangesTest",
+    "off": 13588,
+    "sff": "axons"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "Contusion",
+    "off": 8511,
+    "sff": "contused"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "SodiumPentobarbital",
+    "off": 14752,
+    "sff": "pentobarbiturate"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "SodiumPentobarbital",
+    "off": 7506,
+    "sff": "sodium pentobarbiturate"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "Contusion",
+    "off": 967,
+    "sff": "contusion"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "Contusion",
+    "off": 1884,
+    "sff": "SCI"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "Contusion",
+    "off": 7654,
+    "sff": "contused"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "SodiumPentobarbital",
+    "off": 14745,
+    "sff": "sodium pentobarbiturate"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "T10",
+    "off": 994,
+    "sff": "T10"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "Contusion",
+    "off": 333,
+    "sff": "SCI"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "Anaesthetic",
+    "off": 14811,
+    "sff": "atropine"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "T10",
+    "off": 7595,
+    "sff": "T10"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "NYUImpactor",
+    "off": 7672,
+    "sff": "NYU-II impactor"
+  },
+  {
+    "docID": "N234 Zhang 2016",
+    "et": "Contusion",
+    "off": 25234,
+    "sff": "contused"
+  }
+]

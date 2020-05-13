@@ -1,0 +1,68 @@
+[
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "T11",
+    "off": 8783,
+    "sff": "T11"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "InjuryDevice",
+    "off": 9093,
+    "sff": "compression"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "T9",
+    "off": 8756,
+    "sff": "T9"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "InjuryDevice",
+    "off": 27939,
+    "sff": "compression"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "InjuryDevice",
+    "off": 8961,
+    "sff": "compression"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "WeightDrop",
+    "off": 8905,
+    "sff": "device"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "Forceps",
+    "off": 8868,
+    "sff": "forceps"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "InjuryDevice",
+    "off": 22923,
+    "sff": "compression"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "Forceps",
+    "off": 8855,
+    "sff": "watchmaker"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "Compression",
+    "off": 8833,
+    "sff": "compressed"
+  },
+  {
+    "docID": "N091 Lee, Bian et al. 2012",
+    "et": "L1",
+    "off": 10131,
+    "sff": "L1"
+  }
+]

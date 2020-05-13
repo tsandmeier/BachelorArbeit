@@ -1,0 +1,80 @@
+[
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "CuttingDevice",
+    "off": 9827,
+    "sff": "microsurgical"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "Isoflurane",
+    "off": 7458,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "InjuryDevice",
+    "off": 25600,
+    "sff": "compression"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "T8",
+    "off": 7747,
+    "sff": "T8"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "AneurysmClip",
+    "off": 7220,
+    "sff": "aneurysm clip"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "NitrousOxide",
+    "off": 9759,
+    "sff": "N2O"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "T7",
+    "off": 7878,
+    "sff": "T7"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "AneurysmClip",
+    "off": 25586,
+    "sff": "aneurysm clip"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "Isoflurane",
+    "off": 10687,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "Contusion",
+    "off": 58095,
+    "sff": "contused"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "Isoflurane",
+    "off": 9706,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "InjuryDevice",
+    "off": 7234,
+    "sff": "compression"
+  },
+  {
+    "docID": "N017 Karimi-Abdolrezaee 2012  22629425",
+    "et": "T9",
+    "off": 7670,
+    "sff": "T9"
+  }
+]

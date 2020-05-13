@@ -1,0 +1,308 @@
+[
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Age",
+    "off": 20160,
+    "sff": "days"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Age",
+    "off": 34398,
+    "sff": "months"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "WistarRat",
+    "off": 38956,
+    "sff": "rats"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Age",
+    "off": 12704,
+    "sff": "day"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Age",
+    "off": 11839,
+    "sff": "days"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Age",
+    "off": 34393,
+    "sff": "6"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Age",
+    "off": 20471,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Adult",
+    "off": 12177,
+    "sff": "adult"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Age",
+    "off": 17889,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Age",
+    "off": 16713,
+    "sff": "9"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Age",
+    "off": 11783,
+    "sff": "day"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Female",
+    "off": 15398,
+    "sff": "Female"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Age",
+    "off": 35320,
+    "sff": "months"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Weight",
+    "off": 21416,
+    "sff": "200"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Adult",
+    "off": 11523,
+    "sff": "adult"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "WistarRat",
+    "off": 33933,
+    "sff": "rats"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "SpragueDawleyRat",
+    "off": 15419,
+    "sff": "Dawley"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "LewisRat",
+    "off": 15426,
+    "sff": "rats"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "SpragueDawleyRat",
+    "off": 16363,
+    "sff": "rats"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Weight",
+    "off": 22105,
+    "sff": "mean"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "SpragueDawleyRat",
+    "off": 38244,
+    "sff": "rats"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Weight",
+    "off": 15487,
+    "sff": "kg"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "SpragueDawleyRat",
+    "off": 15411,
+    "sff": "Sprague"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "MouseSpecies",
+    "off": 2126,
+    "sff": "GFP"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Age",
+    "off": 24948,
+    "sff": "days"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "WistarRat",
+    "off": 38244,
+    "sff": "rats"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Age",
+    "off": 22315,
+    "sff": "6"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "MouseSpecies",
+    "off": 2117,
+    "sff": "protein"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Adult",
+    "off": 1120,
+    "sff": "adult"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "RatSpecies",
+    "off": 20172,
+    "sff": "rats"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "LongEvansRat",
+    "off": 15426,
+    "sff": "rats"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "WistarRat",
+    "off": 20172,
+    "sff": "rats"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "SpragueDawleyRat",
+    "off": 20172,
+    "sff": "rats"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Age",
+    "off": 14725,
+    "sff": "days"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "RatSpecies",
+    "off": 15426,
+    "sff": "rats"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "FischerRat",
+    "off": 15426,
+    "sff": "rats"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Age",
+    "off": 22291,
+    "sff": "days"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "WistarRat",
+    "off": 15426,
+    "sff": "rats"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "SpragueDawleyRat",
+    "off": 15426,
+    "sff": "rats"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "ListerHoodedRat",
+    "off": 15426,
+    "sff": "rats"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Age",
+    "off": 22309,
+    "sff": "4"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Age",
+    "off": 21453,
+    "sff": "day"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Age",
+    "off": 34119,
+    "sff": "months"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Age",
+    "off": 16456,
+    "sff": "day"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Age",
+    "off": 16575,
+    "sff": "months"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "RatSpecies",
+    "off": 1126,
+    "sff": "rats"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Weight",
+    "off": 28903,
+    "sff": "200"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "RatSpecies",
+    "off": 38244,
+    "sff": "rats"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Adult",
+    "off": 15405,
+    "sff": "adult"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "MouseSpecies",
+    "off": 34325,
+    "sff": "GFP"
+  },
+  {
+    "docID": "N134 Cao 2004",
+    "et": "Age",
+    "off": 25806,
+    "sff": "months"
+  }
+]

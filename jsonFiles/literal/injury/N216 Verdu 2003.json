@@ -1,0 +1,80 @@
+[
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "PhotochemicalInjury",
+    "off": 9257,
+    "sff": "spinal cord was illuminated"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "LightSource",
+    "off": 9182,
+    "sff": "optic"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "SodiumPentobarbital",
+    "off": 8449,
+    "sff": "sodium pentobarbital"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "T8",
+    "off": 8795,
+    "sff": "T8"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "T8",
+    "off": 411,
+    "sff": "T8"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "T8",
+    "off": 21275,
+    "sff": "T8"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "LightSource",
+    "off": 535,
+    "sff": "optic"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "PhotochemicalInjury",
+    "off": 9032,
+    "sff": "lesion was induced by illuminating"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "LightSource",
+    "off": 535,
+    "sff": "optic fiber"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "LightSource",
+    "off": 9182,
+    "sff": "optic fiber"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "T8",
+    "off": 14311,
+    "sff": "T8"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "LightSource",
+    "off": 9129,
+    "sff": "optic fiber"
+  },
+  {
+    "docID": "N216 Verdu 2003",
+    "et": "SodiumPentobarbital",
+    "off": 12157,
+    "sff": "sodium pentobarbital"
+  }
+]

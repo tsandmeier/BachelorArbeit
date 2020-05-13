@@ -1,0 +1,68 @@
+[
+  {
+    "docID": "N098 Lee, Kim et al. 2016",
+    "et": "Balloon",
+    "off": 12438,
+    "sff": "balloon"
+  },
+  {
+    "docID": "N098 Lee, Kim et al. 2016",
+    "et": "Anaesthetic",
+    "off": 12599,
+    "sff": "tramadol"
+  },
+  {
+    "docID": "N098 Lee, Kim et al. 2016",
+    "et": "Anaesthetic",
+    "off": 12708,
+    "sff": "atropine sulfate"
+  },
+  {
+    "docID": "N098 Lee, Kim et al. 2016",
+    "et": "Isoflurane",
+    "off": 12806,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N098 Lee, Kim et al. 2016",
+    "et": "L1",
+    "off": 13293,
+    "sff": "L1"
+  },
+  {
+    "docID": "N098 Lee, Kim et al. 2016",
+    "et": "L1",
+    "off": 14220,
+    "sff": "L1"
+  },
+  {
+    "docID": "N098 Lee, Kim et al. 2016",
+    "et": "Compression",
+    "off": 12446,
+    "sff": "compression method"
+  },
+  {
+    "docID": "N098 Lee, Kim et al. 2016",
+    "et": "Balloon",
+    "off": 13406,
+    "sff": "balloon"
+  },
+  {
+    "docID": "N098 Lee, Kim et al. 2016",
+    "et": "Anaesthetic",
+    "off": 12654,
+    "sff": "alfaxalone"
+  },
+  {
+    "docID": "N098 Lee, Kim et al. 2016",
+    "et": "Compression",
+    "off": 12446,
+    "sff": "compression"
+  },
+  {
+    "docID": "N098 Lee, Kim et al. 2016",
+    "et": "Compression",
+    "off": 12458,
+    "sff": "method"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N154 Iwatsuki 2008",
+    "et": "Tissue",
+    "off": 881,
+    "sff": "mucosa"
+  },
+  {
+    "docID": "N154 Iwatsuki 2008",
+    "et": "Tissue",
+    "off": 9462,
+    "sff": "respiratory mucosa"
+  },
+  {
+    "docID": "N154 Iwatsuki 2008",
+    "et": "Tissue",
+    "off": 869,
+    "sff": "respiratory mucosa"
+  },
+  {
+    "docID": "N154 Iwatsuki 2008",
+    "et": "Tissue",
+    "off": 9365,
+    "sff": "respiratory mucosa"
+  },
+  {
+    "docID": "N154 Iwatsuki 2008",
+    "et": "Tissue",
+    "off": 4264,
+    "sff": "respiratory mucosa"
+  },
+  {
+    "docID": "N154 Iwatsuki 2008",
+    "et": "DeliveryMethod",
+    "off": 4090,
+    "sff": "inserted"
+  },
+  {
+    "docID": "N154 Iwatsuki 2008",
+    "et": "Tissue",
+    "off": 869,
+    "sff": "respiratory"
+  },
+  {
+    "docID": "N154 Iwatsuki 2008",
+    "et": "Tissue",
+    "off": 3900,
+    "sff": "respiratory mucosa"
+  },
+  {
+    "docID": "N154 Iwatsuki 2008",
+    "et": "Tissue",
+    "off": 4059,
+    "sff": "respiratory mucosa"
+  },
+  {
+    "docID": "N154 Iwatsuki 2008",
+    "et": "Tissue",
+    "off": 3198,
+    "sff": "respiratory mucosa"
+  },
+  {
+    "docID": "N154 Iwatsuki 2008",
+    "et": "Tissue",
+    "off": 3633,
+    "sff": "respiratory mucosa"
+  },
+  {
+    "docID": "N154 Iwatsuki 2008",
+    "et": "InjectionDelivery",
+    "off": 2745,
+    "sff": "intraperitoneally"
+  }
+]

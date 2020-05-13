@@ -1,0 +1,302 @@
+[
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "WistarRat",
+    "off": 8746,
+    "sff": "rats"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Male",
+    "off": 8726,
+    "sff": "male"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "FischerRat",
+    "off": 8746,
+    "sff": "rats"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Age",
+    "off": 8806,
+    "sff": "10"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Age",
+    "off": 14497,
+    "sff": "70"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Weight",
+    "off": 8756,
+    "sff": "400"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Age",
+    "off": 8885,
+    "sff": "days"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Age",
+    "off": 14280,
+    "sff": "day"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "RatSpecies",
+    "off": 8746,
+    "sff": "rats"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Age",
+    "off": 5443,
+    "sff": "day"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "MouseSpecies",
+    "off": 5526,
+    "sff": "promoter"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "MouseSpecies",
+    "off": 5449,
+    "sff": "transgenic mice"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "ListerHoodedRat",
+    "off": 8746,
+    "sff": "rats"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Age",
+    "off": 12881,
+    "sff": "3"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "MouseSpecies",
+    "off": 5449,
+    "sff": "transgenic"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Weight",
+    "off": 14505,
+    "sff": "kg"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Adult",
+    "off": 8720,
+    "sff": "adult"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "SpragueDawleyRat",
+    "off": 8746,
+    "sff": "rats"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Age",
+    "off": 8755,
+    "sff": "–"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "MouseSpecies",
+    "off": 5501,
+    "sff": "GFP"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Weight",
+    "off": 8760,
+    "sff": "g"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "SpragueDawleyRat",
+    "off": 8755,
+    "sff": "–"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "SpragueDawleyRat",
+    "off": 8731,
+    "sff": "Sprague–Dawley"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Age",
+    "off": 37621,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Age",
+    "off": 36341,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Weight",
+    "off": 13725,
+    "sff": "g"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Weight",
+    "off": 15288,
+    "sff": "kg"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Age",
+    "off": 9019,
+    "sff": "70"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "WistarRat",
+    "off": 37590,
+    "sff": "rats"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Weight",
+    "off": 8752,
+    "sff": "300"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Age",
+    "off": 14578,
+    "sff": "10"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Age",
+    "off": 8883,
+    "sff": "2"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Age",
+    "off": 10698,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Age",
+    "off": 8821,
+    "sff": "day"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "MouseSpecies",
+    "off": 5460,
+    "sff": "mice"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Age",
+    "off": 5433,
+    "sff": "postnatal"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "MouseSpecies",
+    "off": 21344,
+    "sff": "GFP"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "LongEvansRat",
+    "off": 8746,
+    "sff": "rats"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Age",
+    "off": 15608,
+    "sff": "days"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "WistarRat",
+    "off": 28039,
+    "sff": "rats"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "MouseSpecies",
+    "off": 5505,
+    "sff": "under"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Age",
+    "off": 8914,
+    "sff": "day"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Weight",
+    "off": 8755,
+    "sff": "–"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Age",
+    "off": 14386,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "WistarRat",
+    "off": 38141,
+    "sff": "rats"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Weight",
+    "off": 8814,
+    "sff": "kg"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "LewisRat",
+    "off": 8746,
+    "sff": "rats"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Weight",
+    "off": 14586,
+    "sff": "kg"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "SpragueDawleyRat",
+    "off": 8731,
+    "sff": "Sprague–Dawley rats"
+  },
+  {
+    "docID": "N133 Bretzner 2008",
+    "et": "Age",
+    "off": 36679,
+    "sff": "weeks"
+  }
+]

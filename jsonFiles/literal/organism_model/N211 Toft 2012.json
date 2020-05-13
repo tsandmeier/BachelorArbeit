@@ -1,0 +1,302 @@
+[
+  {
+    "docID": "N211 Toft 2012",
+    "et": "RatSpecies",
+    "off": 10565,
+    "sff": "rats"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "Age",
+    "off": 31203,
+    "sff": "days"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "WistarRat",
+    "off": 7506,
+    "sff": "rats"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "LewisRat",
+    "off": 7506,
+    "sff": "rats"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "Age",
+    "off": 10017,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "SpragueDawleyRat",
+    "off": 7994,
+    "sff": "SD"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "Age",
+    "off": 34409,
+    "sff": "2.5"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "LongEvansRat",
+    "off": 11173,
+    "sff": "rats"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "Weight",
+    "off": 26039,
+    "sff": "mean"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "Age",
+    "off": 8528,
+    "sff": "days"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "Weight",
+    "off": 25909,
+    "sff": "mean"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "Age",
+    "off": 11849,
+    "sff": "day"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "Male",
+    "off": 14373,
+    "sff": "male"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "FischerRat",
+    "off": 36712,
+    "sff": "Fischer"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "Age",
+    "off": 17730,
+    "sff": "days"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "SpragueDawleyRat",
+    "off": 24215,
+    "sff": "SD"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "Weight",
+    "off": 23798,
+    "sff": "200"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "Weight",
+    "off": 12783,
+    "sff": "200"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "Age",
+    "off": 21575,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "RatSpecies",
+    "off": 9587,
+    "sff": "rats"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "Male",
+    "off": 7084,
+    "sff": "male"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "Gender",
+    "off": 7084,
+    "sff": "male"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "FischerRat",
+    "off": 14378,
+    "sff": "Fischer 344 rats"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "Gender",
+    "off": 14373,
+    "sff": "male"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "SpragueDawleyRat",
+    "off": 10565,
+    "sff": "rats"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "Age",
+    "off": 34238,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "Adult",
+    "off": 14367,
+    "sff": "adult"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "Weight",
+    "off": 17921,
+    "sff": "200"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "SpragueDawleyRat",
+    "off": 9821,
+    "sff": "SD"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "SpragueDawleyRat",
+    "off": 10721,
+    "sff": "SD"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "SpragueDawleyRat",
+    "off": 7027,
+    "sff": "rats"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "Adult",
+    "off": 7078,
+    "sff": "adult"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "Mixed",
+    "off": 7084,
+    "sff": "male"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "Weight",
+    "off": 24208,
+    "sff": "mean"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "LongEvansRat",
+    "off": 7027,
+    "sff": "rats"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "LongEvansRat",
+    "off": 9587,
+    "sff": "rats"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "Weight",
+    "off": 7106,
+    "sff": "g"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "Age",
+    "off": 7006,
+    "sff": "postnatal"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "Weight",
+    "off": 31896,
+    "sff": "200"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "SpragueDawleyRat",
+    "off": 26053,
+    "sff": "SD"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "FischerRat",
+    "off": 11165,
+    "sff": "Fischer"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "RatSpecies",
+    "off": 11173,
+    "sff": "rats"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "LongEvansRat",
+    "off": 7506,
+    "sff": "rats"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "FischerRat",
+    "off": 11165,
+    "sff": "Fischer rats"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "Weight",
+    "off": 7102,
+    "sff": "250 g"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "Mixed",
+    "off": 14373,
+    "sff": "male"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "Weight",
+    "off": 12592,
+    "sff": "200"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "MouseSpecies",
+    "off": 36087,
+    "sff": "GFP"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "Age",
+    "off": 7485,
+    "sff": "postnatal"
+  },
+  {
+    "docID": "N211 Toft 2012",
+    "et": "LongEvansRat",
+    "off": 10565,
+    "sff": "rats"
+  }
+]

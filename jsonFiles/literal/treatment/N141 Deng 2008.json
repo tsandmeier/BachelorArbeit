@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N141 Deng 2008",
+    "et": "DosageExtracorporal",
+    "off": 8316,
+    "sff": "50 000 cells"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "DeliveryMethod",
+    "off": 20857,
+    "sff": "transferred"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Vehicle",
+    "off": 11625,
+    "sff": "solution"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Caudal",
+    "off": 9220,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 639,
+    "sff": "OEC"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Rostral",
+    "off": 9203,
+    "sff": "cranial"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Vehicle",
+    "off": 21810,
+    "sff": "DMEM-F12 medium"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "InjectionDelivery",
+    "off": 14610,
+    "sff": "injected"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "Saline",
+    "off": 11311,
+    "sff": "saline"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "DeliveryMethod",
+    "off": 11598,
+    "sff": "transferred"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "InjectionDelivery",
+    "off": 1137,
+    "sff": "injected"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "InjectionDelivery",
+    "off": 10769,
+    "sff": "subcutaneously"
+  }
+]

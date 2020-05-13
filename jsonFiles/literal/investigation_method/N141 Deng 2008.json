@@ -1,0 +1,194 @@
+[
+  {
+    "docID": "N141 Deng 2008",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 11050,
+    "sff": "latency"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "AxonalChangesTest",
+    "off": 18197,
+    "sff": "observed"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "AxonalSproutingTest",
+    "off": 14283,
+    "sff": "processes"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "BBBTest",
+    "off": 22098,
+    "sff": "BBB scores"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "AstrogliosisTest",
+    "off": 16134,
+    "sff": "immunofluorescence"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "AxonalChangesTest",
+    "off": 14984,
+    "sff": "axons"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 22174,
+    "sff": "latency"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "AxonalChangesTest",
+    "off": 15367,
+    "sff": "axons"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "AxonalChangesTest",
+    "off": 20095,
+    "sff": "NF-positive"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "LesionVolumeTest",
+    "off": 25919,
+    "sff": "formation"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 22139,
+    "sff": "Latency"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "InclinedPlaneTest",
+    "off": 816,
+    "sff": "capacity"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "AxonalChangesTest",
+    "off": 18433,
+    "sff": "observed"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "AxonalChangesTest",
+    "off": 19225,
+    "sff": "axons"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "InvestigationMethod",
+    "off": 25533,
+    "sff": "neuronal loss"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 22174,
+    "sff": "latency"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "AstrogliosisTest",
+    "off": 16391,
+    "sff": "GFAP reactivity"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "AxonalRegenerationTest",
+    "off": 7523,
+    "sff": "immunostaining"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "AxonalChangesTest",
+    "off": 19027,
+    "sff": "axons"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "NonFunctionalTest",
+    "off": 18598,
+    "sff": "pathology"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "AxonalSproutingTest",
+    "off": 17450,
+    "sff": "processes"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 1477,
+    "sff": "latency"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "ImagingTest",
+    "off": 18330,
+    "sff": "distortion"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "BBBTest",
+    "off": 21625,
+    "sff": "BBB scores"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "AxonalChangesTest",
+    "off": 18853,
+    "sff": "axons"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "TissueSparingTest",
+    "off": 24971,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 1477,
+    "sff": "latency"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "AxonalSproutingTest",
+    "off": 14410,
+    "sff": "primary"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 13888,
+    "sff": "latency"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "AxonalSproutingTest",
+    "off": 17288,
+    "sff": "primary"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "LesionVolumeTest",
+    "off": 18417,
+    "sff": "formation"
+  },
+  {
+    "docID": "N141 Deng 2008",
+    "et": "AxonalChangesTest",
+    "off": 18675,
+    "sff": "axons"
+  }
+]

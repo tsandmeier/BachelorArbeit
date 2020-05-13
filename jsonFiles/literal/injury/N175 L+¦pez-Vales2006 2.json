@@ -1,0 +1,80 @@
+[
+  {
+    "docID": "N175 L+¦pez-Vales2006 2",
+    "et": "LateralHemisection",
+    "off": 13799,
+    "sff": "dorsolateral"
+  },
+  {
+    "docID": "N175 L+¦pez-Vales2006 2",
+    "et": "PhotochemicalInjury",
+    "off": 3937,
+    "sff": "photochemical spinal cord lesion"
+  },
+  {
+    "docID": "N175 L+¦pez-Vales2006 2",
+    "et": "T8",
+    "off": 10520,
+    "sff": "T8"
+  },
+  {
+    "docID": "N175 L+¦pez-Vales2006 2",
+    "et": "LateralHemisection",
+    "off": 4191,
+    "sff": "cord"
+  },
+  {
+    "docID": "N175 L+¦pez-Vales2006 2",
+    "et": "T8",
+    "off": 896,
+    "sff": "T8"
+  },
+  {
+    "docID": "N175 L+¦pez-Vales2006 2",
+    "et": "LateralHemisection",
+    "off": 5042,
+    "sff": "lateral"
+  },
+  {
+    "docID": "N175 L+¦pez-Vales2006 2",
+    "et": "LightSource",
+    "off": 4276,
+    "sff": "optic fiber"
+  },
+  {
+    "docID": "N175 L+¦pez-Vales2006 2",
+    "et": "LightSource",
+    "off": 4364,
+    "sff": "equipped"
+  },
+  {
+    "docID": "N175 L+¦pez-Vales2006 2",
+    "et": "DorsalHemisection",
+    "off": 3897,
+    "sff": "dorsal"
+  },
+  {
+    "docID": "N175 L+¦pez-Vales2006 2",
+    "et": "LateralHemisection",
+    "off": 13483,
+    "sff": "lateral"
+  },
+  {
+    "docID": "N175 L+¦pez-Vales2006 2",
+    "et": "SodiumPentobarbital",
+    "off": 3775,
+    "sff": "pentobarbital"
+  },
+  {
+    "docID": "N175 L+¦pez-Vales2006 2",
+    "et": "LateralHemisection",
+    "off": 14214,
+    "sff": "lateral"
+  },
+  {
+    "docID": "N175 L+¦pez-Vales2006 2",
+    "et": "PhotochemicalInjury",
+    "off": 4152,
+    "sff": "illuminating"
+  }
+]

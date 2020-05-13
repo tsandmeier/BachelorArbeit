@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N148 Gorrie 2010",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 556,
+    "sff": "OECs"
+  },
+  {
+    "docID": "N148 Gorrie 2010",
+    "et": "Vehicle",
+    "off": 965,
+    "sff": "medium"
+  },
+  {
+    "docID": "N148 Gorrie 2010",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 703,
+    "sff": "hOECs"
+  },
+  {
+    "docID": "N148 Gorrie 2010",
+    "et": "DosageExtracorporal",
+    "off": 16284,
+    "sff": "cells"
+  },
+  {
+    "docID": "N148 Gorrie 2010",
+    "et": "InjectionDelivery",
+    "off": 7038,
+    "sff": "injection"
+  },
+  {
+    "docID": "N148 Gorrie 2010",
+    "et": "Rostral",
+    "off": 16224,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N148 Gorrie 2010",
+    "et": "Rostral",
+    "off": 17632,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N148 Gorrie 2010",
+    "et": "DosageExtracorporal",
+    "off": 11703,
+    "sff": "cells"
+  },
+  {
+    "docID": "N148 Gorrie 2010",
+    "et": "DosageExtracorporal",
+    "off": 13691,
+    "sff": "Each"
+  },
+  {
+    "docID": "N148 Gorrie 2010",
+    "et": "DosageExtracorporal",
+    "off": 18510,
+    "sff": "3"
+  },
+  {
+    "docID": "N148 Gorrie 2010",
+    "et": "DosageExtracorporal",
+    "off": 12234,
+    "sff": "cells"
+  },
+  {
+    "docID": "N148 Gorrie 2010",
+    "et": "Vehicle",
+    "off": 16726,
+    "sff": "control"
+  }
+]

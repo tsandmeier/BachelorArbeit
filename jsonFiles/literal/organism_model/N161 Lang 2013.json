@@ -1,0 +1,302 @@
+[
+  {
+    "docID": "N161 Lang 2013",
+    "et": "FischerRat",
+    "off": 15910,
+    "sff": "rats"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "Age",
+    "off": 20029,
+    "sff": "day"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "MouseSpecies",
+    "off": 22299,
+    "sff": "mice"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "SpragueDawleyRat",
+    "off": 22032,
+    "sff": "rats"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "SpragueDawleyRat",
+    "off": 20114,
+    "sff": "rats"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "RatSpecies",
+    "off": 20647,
+    "sff": "rats"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "Age",
+    "off": 17466,
+    "sff": "days"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "WistarRat",
+    "off": 20647,
+    "sff": "rats"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "Weight",
+    "off": 21176,
+    "sff": "grams"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "LongEvansRat",
+    "off": 20233,
+    "sff": "rats"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "LongEvansRat",
+    "off": 20462,
+    "sff": "rats"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "SpragueDawleyRat",
+    "off": 16001,
+    "sff": "rats"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "Weight",
+    "off": 23877,
+    "sff": "g"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "MouseSpecies",
+    "off": 16473,
+    "sff": "transgenic mice"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "MouseSpecies",
+    "off": 16473,
+    "sff": "transgenic"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "LongEvansRat",
+    "off": 21493,
+    "sff": "rats"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "SpragueDawleyRat",
+    "off": 26464,
+    "sff": "SD"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "SpragueDawleyRat",
+    "off": 15910,
+    "sff": "rats"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "SpragueDawleyRat",
+    "off": 20647,
+    "sff": "rats"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "WistarRat",
+    "off": 15811,
+    "sff": "rats"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "FischerRat",
+    "off": 19411,
+    "sff": "rats"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "RatSpecies",
+    "off": 15811,
+    "sff": "rats"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "MouseSpecies",
+    "off": 22284,
+    "sff": "GFP"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "Weight",
+    "off": 21299,
+    "sff": "g"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "MouseSpecies",
+    "off": 22288,
+    "sff": "transgenic"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "LongEvansRat",
+    "off": 15811,
+    "sff": "rats"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "SpragueDawleyRat",
+    "off": 19411,
+    "sff": "rats"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "WistarRat",
+    "off": 20462,
+    "sff": "rats"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "WistarRat",
+    "off": 15972,
+    "sff": "rats"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "MouseSpecies",
+    "off": 16484,
+    "sff": "mice"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "MouseSpecies",
+    "off": 23460,
+    "sff": "under"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "RatSpecies",
+    "off": 20462,
+    "sff": "rats"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "FischerRat",
+    "off": 21493,
+    "sff": "rats"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "WistarRat",
+    "off": 16001,
+    "sff": "rats"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "MouseSpecies",
+    "off": 22811,
+    "sff": "under"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "SpragueDawleyRat",
+    "off": 15811,
+    "sff": "rats"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "Weight",
+    "off": 25486,
+    "sff": "g"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "MouseSpecies",
+    "off": 22288,
+    "sff": "transgenic mice"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "SpragueDawleyRat",
+    "off": 20462,
+    "sff": "rats"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "WistarRat",
+    "off": 22032,
+    "sff": "rats"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "LongEvansRat",
+    "off": 20647,
+    "sff": "rats"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "Age",
+    "off": 23769,
+    "sff": "day"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "Weight",
+    "off": 23141,
+    "sff": "400"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "RatSpecies",
+    "off": 1544,
+    "sff": "rats"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "LongEvansRat",
+    "off": 20114,
+    "sff": "rats"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "SpragueDawleyRat",
+    "off": 15972,
+    "sff": "rats"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "WistarRat",
+    "off": 20114,
+    "sff": "rats"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "Age",
+    "off": 25316,
+    "sff": "day"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "Weight",
+    "off": 26457,
+    "sff": "mean"
+  },
+  {
+    "docID": "N161 Lang 2013",
+    "et": "RatSpecies",
+    "off": 20114,
+    "sff": "rats"
+  }
+]

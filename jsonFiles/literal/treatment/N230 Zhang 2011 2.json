@@ -1,0 +1,68 @@
+[
+  {
+    "docID": "N230 Zhang 2011 2",
+    "et": "DosageExtracorporal",
+    "off": 9021,
+    "sff": "Two pieces of 0.5 x 0.5 mm"
+  },
+  {
+    "docID": "N230 Zhang 2011 2",
+    "et": "RingersSolution",
+    "off": 10611,
+    "sff": "solution"
+  },
+  {
+    "docID": "N230 Zhang 2011 2",
+    "et": "RingersSolution",
+    "off": 6467,
+    "sff": "solution"
+  },
+  {
+    "docID": "N230 Zhang 2011 2",
+    "et": "RingersSolution",
+    "off": 8115,
+    "sff": "solution"
+  },
+  {
+    "docID": "N230 Zhang 2011 2",
+    "et": "RingersSolution",
+    "off": 8690,
+    "sff": "solution"
+  },
+  {
+    "docID": "N230 Zhang 2011 2",
+    "et": "DeliveryMethod",
+    "off": 9073,
+    "sff": "delivered"
+  },
+  {
+    "docID": "N230 Zhang 2011 2",
+    "et": "Tissue",
+    "off": 857,
+    "sff": "LP"
+  },
+  {
+    "docID": "N230 Zhang 2011 2",
+    "et": "Saline",
+    "off": 8683,
+    "sff": "saline solution"
+  },
+  {
+    "docID": "N230 Zhang 2011 2",
+    "et": "RingersSolution",
+    "off": 9882,
+    "sff": "solution"
+  },
+  {
+    "docID": "N230 Zhang 2011 2",
+    "et": "Rostral",
+    "off": 25581,
+    "sff": "rostrally"
+  },
+  {
+    "docID": "N230 Zhang 2011 2",
+    "et": "Matrix",
+    "off": 6706,
+    "sff": "ALP"
+  }
+]

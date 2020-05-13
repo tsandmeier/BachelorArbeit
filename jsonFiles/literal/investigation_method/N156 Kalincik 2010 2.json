@@ -1,0 +1,194 @@
+[
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "AxonalChangesTest",
+    "off": 26184,
+    "sff": "neurons"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "AxonalChangesTest",
+    "off": 28362,
+    "sff": "neurons"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "TissueSparingTest",
+    "off": 33525,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "HistologicalInvestigationTest",
+    "off": 28448,
+    "sff": "levels"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "TissueSparingTest",
+    "off": 21249,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "AutonomicDysreflexiaTest",
+    "off": 17513,
+    "sff": "minHR"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "AxonalSproutingTest",
+    "off": 22643,
+    "sff": "primary"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "AxonalRegenerationTest",
+    "off": 15013,
+    "sff": "against"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "TissueSparingTest",
+    "off": 31849,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "TissueSparingTest",
+    "off": 33641,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "AutonomicDysreflexiaTest",
+    "off": 17502,
+    "sff": "maxMAP"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "ApoptosisTest",
+    "off": 10292,
+    "sff": "activity"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "AxonalRegenerationTest",
+    "off": 20871,
+    "sff": "staining"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "AxonalSproutingTest",
+    "off": 33963,
+    "sff": "primary"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "NeuronalChangesTest",
+    "off": 1635,
+    "sff": "soma size"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "AxonalChangesTest",
+    "off": 26641,
+    "sff": "measures"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "AxonalSproutingTest",
+    "off": 18857,
+    "sff": "primary"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "AutonomicDysreflexiaTest",
+    "off": 6746,
+    "sff": "HR"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "AxonalChangesTest",
+    "off": 22284,
+    "sff": "neurons"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "HistologicalInvestigationTest",
+    "off": 23687,
+    "sff": "changes"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "AxonalChangesTest",
+    "off": 26024,
+    "sff": "neurons"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "AxonalSproutingTest",
+    "off": 28319,
+    "sff": "primary"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "AxonalSproutingTest",
+    "off": 35357,
+    "sff": "primary"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "AxonalSproutingTest",
+    "off": 24985,
+    "sff": "primary"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "AxonalRegenerationTest",
+    "off": 20299,
+    "sff": "staining"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "AxonalChangesTest",
+    "off": 33825,
+    "sff": "neurons"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "AxonalSproutingTest",
+    "off": 19731,
+    "sff": "primary"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "AxonalChangesTest",
+    "off": 27251,
+    "sff": "measures"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "AxonalChangesTest",
+    "off": 23795,
+    "sff": "measures"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "AxonalSproutingTest",
+    "off": 27703,
+    "sff": "processes"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "AxonalChangesTest",
+    "off": 28012,
+    "sff": "neurons"
+  },
+  {
+    "docID": "N156 Kalincik 2010 2",
+    "et": "TissueSparingTest",
+    "off": 20557,
+    "sff": "tissue"
+  }
+]

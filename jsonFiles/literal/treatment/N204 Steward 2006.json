@@ -1,0 +1,68 @@
+[
+  {
+    "docID": "N204 Steward 2006",
+    "et": "Tissue",
+    "off": 833,
+    "sff": "OLP"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "Tissue",
+    "off": 24409,
+    "sff": "RLP"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "Tissue",
+    "off": 13705,
+    "sff": "RLP"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "SurgeryTreatment",
+    "off": 18313,
+    "sff": "scar tissue from the previous transection site was removed"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "Tissue",
+    "off": 15143,
+    "sff": "respiratory mucosa"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "Tissue",
+    "off": 1170,
+    "sff": "RLP"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 1132,
+    "sff": "OECs"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "Saline",
+    "off": 22967,
+    "sff": "saline"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "Tissue",
+    "off": 25274,
+    "sff": "OLP"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "Tissue",
+    "off": 25310,
+    "sff": "RLP"
+  },
+  {
+    "docID": "N204 Steward 2006",
+    "et": "Rostral",
+    "off": 35730,
+    "sff": "rostral"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N158 Kang 2015",
+    "et": "SodiumPentobarbital",
+    "off": 7575,
+    "sff": "sodium"
+  },
+  {
+    "docID": "N158 Kang 2015",
+    "et": "LightSource",
+    "off": 19939,
+    "sff": "fiber"
+  },
+  {
+    "docID": "N158 Kang 2015",
+    "et": "T10",
+    "off": 11473,
+    "sff": "T10"
+  },
+  {
+    "docID": "N158 Kang 2015",
+    "et": "LightSource",
+    "off": 18877,
+    "sff": "fiber"
+  },
+  {
+    "docID": "N158 Kang 2015",
+    "et": "LightSource",
+    "off": 19726,
+    "sff": "fiber"
+  },
+  {
+    "docID": "N158 Kang 2015",
+    "et": "SodiumPentobarbital",
+    "off": 7561,
+    "sff": "pentobarbital sodium"
+  },
+  {
+    "docID": "N158 Kang 2015",
+    "et": "Scissors",
+    "off": 11599,
+    "sff": "iridectome"
+  },
+  {
+    "docID": "N158 Kang 2015",
+    "et": "VertebralArea",
+    "off": 12764,
+    "sff": "4th"
+  },
+  {
+    "docID": "N158 Kang 2015",
+    "et": "SodiumPentobarbital",
+    "off": 7561,
+    "sff": "pentobarbital"
+  },
+  {
+    "docID": "N158 Kang 2015",
+    "et": "LightSource",
+    "off": 20762,
+    "sff": "fiber"
+  },
+  {
+    "docID": "N158 Kang 2015",
+    "et": "InjuryDevice",
+    "off": 11874,
+    "sff": "needle"
+  },
+  {
+    "docID": "N158 Kang 2015",
+    "et": "LateralHemisection",
+    "off": 11556,
+    "sff": "cut through the right spinal cord"
+  }
+]

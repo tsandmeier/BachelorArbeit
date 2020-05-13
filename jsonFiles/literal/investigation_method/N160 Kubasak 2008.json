@@ -1,0 +1,212 @@
+[
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "LesionVolumeTest",
+    "off": 27076,
+    "sff": "GFAP-negative"
+  },
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "LocomotorTest",
+    "off": 22846,
+    "sff": "scores"
+  },
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "LocomotorTest",
+    "off": 22842,
+    "sff": "PWR scores"
+  },
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "AxonalRegenerationTest",
+    "off": 24932,
+    "sff": "DBH-positive fibres"
+  },
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "LesionVolumeTest",
+    "off": 40317,
+    "sff": "GFAP-negative"
+  },
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "AxonalRegenerationTest",
+    "off": 25511,
+    "sff": "DBH-positive fibres"
+  },
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "LesionVolumeTest",
+    "off": 13309,
+    "sff": "GFAP-negative"
+  },
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "LesionVolumeTest",
+    "off": 38098,
+    "sff": "cavities"
+  },
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "LesionVolumeTest",
+    "off": 38394,
+    "sff": "GFAP-negative"
+  },
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "LocomotorTest",
+    "off": 18174,
+    "sff": "PWR"
+  },
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "AxonalRegenerationTest",
+    "off": 40619,
+    "sff": "DBH-positive fibres"
+  },
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "LocomotorTest",
+    "off": 31298,
+    "sff": "hindlimb movement based on normalized PWR values"
+  },
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "AxonalRegenerationTest",
+    "off": 24849,
+    "sff": "DBH-positive fibres"
+  },
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "LesionVolumeTest",
+    "off": 24460,
+    "sff": "GFAP-negative"
+  },
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "AutomatedGaitAnalysis",
+    "off": 20147,
+    "sff": "probability"
+  },
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "LesionVolumeTest",
+    "off": 38663,
+    "sff": "volume"
+  },
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "LocomotorTest",
+    "off": 32633,
+    "sff": "mean stepping quality analysed by PWR scores"
+  },
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "LocomotorTest",
+    "off": 34375,
+    "sff": "number of steps completed"
+  },
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "LocomotorTest",
+    "off": 35987,
+    "sff": "PWR scores"
+  },
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "LocomotorTest",
+    "off": 35943,
+    "sff": "IFFT scores"
+  },
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "AxonalRegenerationTest",
+    "off": 39679,
+    "sff": "DBH-positive fibres"
+  },
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "LesionVolumeTest",
+    "off": 41574,
+    "sff": "GFAP-negative"
+  },
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "AxonalRegenerationTest",
+    "off": 40219,
+    "sff": "DBH-positive fibre density"
+  },
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "LocomotorTest",
+    "off": 16647,
+    "sff": "IFFT"
+  },
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "LesionVolumeTest",
+    "off": 39541,
+    "sff": "GFAP-negative"
+  },
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "LesionVolumeTest",
+    "off": 26355,
+    "sff": "GFAP-negative"
+  },
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "LesionVolumeTest",
+    "off": 38734,
+    "sff": "lesion volumes"
+  },
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "LocomotorTest",
+    "off": 1566,
+    "sff": "plantar steps"
+  },
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "LocomotorTest",
+    "off": 29742,
+    "sff": "PWR scores"
+  },
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "LesionVolumeTest",
+    "off": 26924,
+    "sff": "GFAP-negative"
+  },
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "AutomatedGaitAnalysis",
+    "off": 17670,
+    "sff": "stride"
+  },
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "LesionVolumeTest",
+    "off": 25322,
+    "sff": "GFAP-negative"
+  },
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "LesionVolumeTest",
+    "off": 41259,
+    "sff": "GFAP-negative"
+  },
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "LocomotorTest",
+    "off": 32037,
+    "sff": "plantar steps"
+  },
+  {
+    "docID": "N160 Kubasak 2008",
+    "et": "LesionVolumeTest",
+    "off": 25905,
+    "sff": "GFAP-negative"
+  }
+]

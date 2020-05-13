@@ -1,0 +1,200 @@
+[
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "LesionVolumeTest",
+    "off": 29801,
+    "sff": "mean volume of GFAP-negative tissue"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "AxonalRegenerationTest",
+    "off": 34203,
+    "sff": "incidence of regenerating neurons"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "AxonalRegenerationTest",
+    "off": 33828,
+    "sff": "number of regenerating neurons"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "ImagingTest",
+    "off": 20799,
+    "sff": "region"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "InclinedPlaneTest",
+    "off": 28226,
+    "sff": "climbing performance"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "TissueSparingTest",
+    "off": 30010,
+    "sff": "amount"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "InclinedPlaneTest",
+    "off": 7686,
+    "sff": "climbing"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "LocomotorTest",
+    "off": 17805,
+    "sff": "horizontal"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "AstrogliosisTest",
+    "off": 29329,
+    "sff": "reactive"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "LesionVolumeTest",
+    "off": 13282,
+    "sff": "GFAP-negative"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "AxonalSproutingTest",
+    "off": 31449,
+    "sff": "number of pixels representing NFLpositive sprouts"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "InclinedPlaneTest",
+    "off": 23479,
+    "sff": "climbing abilities"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "AxonalRegenerationTest",
+    "off": 34372,
+    "sff": "percentage of peroxidase-labeled neurons"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "AstrogliosisTest",
+    "off": 11596,
+    "sff": "reactive"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "NeuroprotectionTest",
+    "off": 30717,
+    "sff": "tissue preservation"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "InclinedPlaneTest",
+    "off": 7686,
+    "sff": "climbing test"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "InclinedPlaneTest",
+    "off": 23359,
+    "sff": "ability to climb"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "InclinedPlaneTest",
+    "off": 25068,
+    "sff": "climbing"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "AxonalRegenerationTest",
+    "off": 34203,
+    "sff": "incidence"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "AxonalRegenerationTest",
+    "off": 32758,
+    "sff": "total number of neurons regenerating their axons beyond the lesion"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "AxonalRegenerationTest",
+    "off": 33407,
+    "sff": "numbers of regenerating brainstem neurons"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "InclinedPlaneTest",
+    "off": 26904,
+    "sff": "maximum climbing performance"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "InclinedPlaneTest",
+    "off": 27562,
+    "sff": "climbing"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "InclinedPlaneTest",
+    "off": 25068,
+    "sff": "climbing performance"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "AxonalRegenerationTest",
+    "off": 13601,
+    "sff": "brainstem"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "ImagingTest",
+    "off": 31307,
+    "sff": "region"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "InclinedPlaneTest",
+    "off": 25077,
+    "sff": "performance"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "LocomotorTest",
+    "off": 14654,
+    "sff": "horizontal"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "ImagingTest",
+    "off": 6165,
+    "sff": "region"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "InclinedPlaneTest",
+    "off": 27562,
+    "sff": "climbing performance"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "InclinedPlaneTest",
+    "off": 25488,
+    "sff": "climbing abilities"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "SinglePelletReachingTest",
+    "off": 22099,
+    "sff": "Movement"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "AxonalSproutingTest",
+    "off": 11473,
+    "sff": "primary"
+  }
+]

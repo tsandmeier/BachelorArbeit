@@ -1,0 +1,200 @@
+[
+  {
+    "docID": "N197 Rochkind 2006",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 13354,
+    "sff": "stimulation"
+  },
+  {
+    "docID": "N197 Rochkind 2006",
+    "et": "AxonalSproutingTest",
+    "off": 19125,
+    "sff": "primary"
+  },
+  {
+    "docID": "N197 Rochkind 2006",
+    "et": "AstrogliosisTest",
+    "off": 13467,
+    "sff": "measured"
+  },
+  {
+    "docID": "N197 Rochkind 2006",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 13211,
+    "sff": "stimulus"
+  },
+  {
+    "docID": "N197 Rochkind 2006",
+    "et": "InclinedPlaneTest",
+    "off": 13886,
+    "sff": "performance"
+  },
+  {
+    "docID": "N197 Rochkind 2006",
+    "et": "TissueSparingTest",
+    "off": 22969,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N197 Rochkind 2006",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 13417,
+    "sff": "Latency"
+  },
+  {
+    "docID": "N197 Rochkind 2006",
+    "et": "InclinedPlaneTest",
+    "off": 19784,
+    "sff": "performance"
+  },
+  {
+    "docID": "N197 Rochkind 2006",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 1598,
+    "sff": "stimuli"
+  },
+  {
+    "docID": "N197 Rochkind 2006",
+    "et": "AstrogliosisTest",
+    "off": 23594,
+    "sff": "area"
+  },
+  {
+    "docID": "N197 Rochkind 2006",
+    "et": "TissueSparingTest",
+    "off": 29630,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N197 Rochkind 2006",
+    "et": "TissueSparingTest",
+    "off": 25664,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N197 Rochkind 2006",
+    "et": "TissueSparingTest",
+    "off": 22401,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N197 Rochkind 2006",
+    "et": "HindpawSensationTest",
+    "off": 24012,
+    "sff": "responses"
+  },
+  {
+    "docID": "N197 Rochkind 2006",
+    "et": "InclinedPlaneTest",
+    "off": 13967,
+    "sff": "performance"
+  },
+  {
+    "docID": "N197 Rochkind 2006",
+    "et": "AxonalChangesTest",
+    "off": 17518,
+    "sff": "neurons"
+  },
+  {
+    "docID": "N197 Rochkind 2006",
+    "et": "InclinedPlaneTest",
+    "off": 18070,
+    "sff": "performance"
+  },
+  {
+    "docID": "N197 Rochkind 2006",
+    "et": "InclinedPlaneTest",
+    "off": 29784,
+    "sff": "performance"
+  },
+  {
+    "docID": "N197 Rochkind 2006",
+    "et": "TissueSparingTest",
+    "off": 22928,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N197 Rochkind 2006",
+    "et": "AxonalRegenerationTest",
+    "off": 22563,
+    "sff": "numbers"
+  },
+  {
+    "docID": "N197 Rochkind 2006",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 21902,
+    "sff": "SSEPs"
+  },
+  {
+    "docID": "N197 Rochkind 2006",
+    "et": "HistologicalInvestigationTest",
+    "off": 16336,
+    "sff": "Immunofluorescence"
+  },
+  {
+    "docID": "N197 Rochkind 2006",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 12877,
+    "sff": "somatosensory"
+  },
+  {
+    "docID": "N197 Rochkind 2006",
+    "et": "AstrogliosisTest",
+    "off": 15027,
+    "sff": "measured"
+  },
+  {
+    "docID": "N197 Rochkind 2006",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 13429,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N197 Rochkind 2006",
+    "et": "AxonalChangesTest",
+    "off": 17305,
+    "sff": "neurons"
+  },
+  {
+    "docID": "N197 Rochkind 2006",
+    "et": "LesionVolumeTest",
+    "off": 28689,
+    "sff": "formation"
+  },
+  {
+    "docID": "N197 Rochkind 2006",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 21359,
+    "sff": "mean"
+  },
+  {
+    "docID": "N197 Rochkind 2006",
+    "et": "TissueSparingTest",
+    "off": 22416,
+    "sff": "amount"
+  },
+  {
+    "docID": "N197 Rochkind 2006",
+    "et": "TissueSparingTest",
+    "off": 22237,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N197 Rochkind 2006",
+    "et": "TissueSparingTest",
+    "off": 22889,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N197 Rochkind 2006",
+    "et": "SpinalCordEvokedPotentialsTest",
+    "off": 13429,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N197 Rochkind 2006",
+    "et": "HindpawSensationTest",
+    "off": 27106,
+    "sff": "responses"
+  }
+]

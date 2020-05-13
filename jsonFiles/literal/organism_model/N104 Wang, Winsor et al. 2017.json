@@ -1,0 +1,302 @@
+[
+  {
+    "docID": "N104 Wang, Winsor et al. 2017",
+    "et": "MouseSpecies",
+    "off": 36628,
+    "sff": "mice"
+  },
+  {
+    "docID": "N104 Wang, Winsor et al. 2017",
+    "et": "MouseSpecies",
+    "off": 19992,
+    "sff": "mice"
+  },
+  {
+    "docID": "N104 Wang, Winsor et al. 2017",
+    "et": "MouseSpecies",
+    "off": 22943,
+    "sff": "mice"
+  },
+  {
+    "docID": "N104 Wang, Winsor et al. 2017",
+    "et": "Adult",
+    "off": 23292,
+    "sff": "Adult"
+  },
+  {
+    "docID": "N104 Wang, Winsor et al. 2017",
+    "et": "MouseSpecies",
+    "off": 28973,
+    "sff": "mice"
+  },
+  {
+    "docID": "N104 Wang, Winsor et al. 2017",
+    "et": "Adult",
+    "off": 28967,
+    "sff": "adult"
+  },
+  {
+    "docID": "N104 Wang, Winsor et al. 2017",
+    "et": "Female",
+    "off": 12929,
+    "sff": "female"
+  },
+  {
+    "docID": "N104 Wang, Winsor et al. 2017",
+    "et": "Age",
+    "off": 23080,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N104 Wang, Winsor et al. 2017",
+    "et": "C57_BL6_Mouse",
+    "off": 12940,
+    "sff": "Bl6"
+  },
+  {
+    "docID": "N104 Wang, Winsor et al. 2017",
+    "et": "Age",
+    "off": 22954,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N104 Wang, Winsor et al. 2017",
+    "et": "Weight",
+    "off": 12965,
+    "sff": "22"
+  },
+  {
+    "docID": "N104 Wang, Winsor et al. 2017",
+    "et": "Adult",
+    "off": 12238,
+    "sff": "adult"
+  },
+  {
+    "docID": "N104 Wang, Winsor et al. 2017",
+    "et": "Age",
+    "off": 12253,
+    "sff": "wks"
+  },
+  {
+    "docID": "N104 Wang, Winsor et al. 2017",
+    "et": "Age",
+    "off": 29228,
+    "sff": "days"
+  },
+  {
+    "docID": "N104 Wang, Winsor et al. 2017",
+    "et": "Age",
+    "off": 29572,
+    "sff": "postnatal"
+  },
+  {
+    "docID": "N104 Wang, Winsor et al. 2017",
+    "et": "MouseSpecies",
+    "off": 14014,
+    "sff": "mice"
+  },
+  {
+    "docID": "N104 Wang, Winsor et al. 2017",
+    "et": "Weight",
+    "off": 19274,
+    "sff": "300"
+  },
+  {
+    "docID": "N104 Wang, Winsor et al. 2017",
+    "et": "MouseSpecies",
+    "off": 24258,
+    "sff": "mice"
+  },
+  {
+    "docID": "N104 Wang, Winsor et al. 2017",
+    "et": "Adult",
+    "off": 44610,
+    "sff": "adult"
+  },
+  {
+    "docID": "N104 Wang, Winsor et al. 2017",
+    "et": "C57_BL6_Mouse",
+    "off": 12944,
+    "sff": "mice"
+  },
+  {
+    "docID": "N104 Wang, Winsor et al. 2017",
+    "et": "Weight",
+    "off": 12964,
+    "sff": "–"
+  },
+  {
+    "docID": "N104 Wang, Winsor et al. 2017",
+    "et": "Adult",
+    "off": 24252,
+    "sff": "adult"
+  },
+  {
+    "docID": "N104 Wang, Winsor et al. 2017",
+    "et": "MouseSpecies",
+    "off": 44616,
+    "sff": "mice"
+  },
+  {
+    "docID": "N104 Wang, Winsor et al. 2017",
+    "et": "MouseSpecies",
+    "off": 41164,
+    "sff": "mice"
+  },
+  {
+    "docID": "N104 Wang, Winsor et al. 2017",
+    "et": "Adult",
+    "off": 30026,
+    "sff": "adult"
+  },
+  {
+    "docID": "N104 Wang, Winsor et al. 2017",
+    "et": "Age",
+    "off": 44849,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N104 Wang, Winsor et al. 2017",
+    "et": "Weight",
+    "off": 12962,
+    "sff": "20"
+  },
+  {
+    "docID": "N104 Wang, Winsor et al. 2017",
+    "et": "MouseSpecies",
+    "off": 12244,
+    "sff": "mice"
+  },
+  {
+    "docID": "N104 Wang, Winsor et al. 2017",
+    "et": "MouseSpecies",
+    "off": 15062,
+    "sff": "mice"
+  },
+  {
+    "docID": "N104 Wang, Winsor et al. 2017",
+    "et": "Adult",
+    "off": 41158,
+    "sff": "Adult"
+  },
+  {
+    "docID": "N104 Wang, Winsor et al. 2017",
+    "et": "Age",
+    "off": 12250,
+    "sff": "N8"
+  },
+  {
+    "docID": "N104 Wang, Winsor et al. 2017",
+    "et": "C57_BL6_Mouse",
+    "off": 12936,
+    "sff": "C57"
+  },
+  {
+    "docID": "N104 Wang, Winsor et al. 2017",
+    "et": "Weight",
+    "off": 11106,
+    "sff": "300"
+  },
+  {
+    "docID": "N104 Wang, Winsor et al. 2017",
+    "et": "Adult",
+    "off": 9717,
+    "sff": "adult"
+  },
+  {
+    "docID": "N104 Wang, Winsor et al. 2017",
+    "et": "MouseSpecies",
+    "off": 25573,
+    "sff": "mice"
+  },
+  {
+    "docID": "N104 Wang, Winsor et al. 2017",
+    "et": "Adult",
+    "off": 25567,
+    "sff": "adult"
+  },
+  {
+    "docID": "N104 Wang, Winsor et al. 2017",
+    "et": "Adult",
+    "off": 34260,
+    "sff": "Adult"
+  },
+  {
+    "docID": "N104 Wang, Winsor et al. 2017",
+    "et": "Weight",
+    "off": 14913,
+    "sff": "200"
+  },
+  {
+    "docID": "N104 Wang, Winsor et al. 2017",
+    "et": "Age",
+    "off": 12950,
+    "sff": "N8 wks age"
+  },
+  {
+    "docID": "N104 Wang, Winsor et al. 2017",
+    "et": "Age",
+    "off": 12964,
+    "sff": "–"
+  },
+  {
+    "docID": "N104 Wang, Winsor et al. 2017",
+    "et": "Weight",
+    "off": 12968,
+    "sff": "g"
+  },
+  {
+    "docID": "N104 Wang, Winsor et al. 2017",
+    "et": "Weight",
+    "off": 16773,
+    "sff": "300"
+  },
+  {
+    "docID": "N104 Wang, Winsor et al. 2017",
+    "et": "Adult",
+    "off": 19986,
+    "sff": "adult"
+  },
+  {
+    "docID": "N104 Wang, Winsor et al. 2017",
+    "et": "SpragueDawleyRat",
+    "off": 12964,
+    "sff": "–"
+  },
+  {
+    "docID": "N104 Wang, Winsor et al. 2017",
+    "et": "MouseSpecies",
+    "off": 9723,
+    "sff": "mice"
+  },
+  {
+    "docID": "N104 Wang, Winsor et al. 2017",
+    "et": "Adult",
+    "off": 22937,
+    "sff": "adult"
+  },
+  {
+    "docID": "N104 Wang, Winsor et al. 2017",
+    "et": "MouseSpecies",
+    "off": 23298,
+    "sff": "mice"
+  },
+  {
+    "docID": "N104 Wang, Winsor et al. 2017",
+    "et": "Adult",
+    "off": 12923,
+    "sff": "adult"
+  },
+  {
+    "docID": "N104 Wang, Winsor et al. 2017",
+    "et": "Age",
+    "off": 20108,
+    "sff": "days"
+  },
+  {
+    "docID": "N104 Wang, Winsor et al. 2017",
+    "et": "MouseSpecies",
+    "off": 12944,
+    "sff": "mice"
+  }
+]

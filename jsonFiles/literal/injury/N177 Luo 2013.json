@@ -1,0 +1,68 @@
+[
+  {
+    "docID": "N177 Luo 2013",
+    "et": "CompleteTransection",
+    "off": 6602,
+    "sff": "completely"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "Blade",
+    "off": 6629,
+    "sff": "sharp"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "Blade",
+    "off": 6538,
+    "sff": "surgical"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "NYUImpactor",
+    "off": 5383,
+    "sff": "University"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "Scissors",
+    "off": 6651,
+    "sff": "scissors"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "LateralHemisection",
+    "off": 6593,
+    "sff": "cord"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "VertebralArea",
+    "off": 6508,
+    "sff": "levels"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "Anaesthetic",
+    "off": 6963,
+    "sff": "ice"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "LateralHemisection",
+    "off": 7121,
+    "sff": "incision"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "PhotochemicalInjury",
+    "off": 6586,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N177 Luo 2013",
+    "et": "CompleteTransection",
+    "off": 6602,
+    "sff": "completely transectedusing"
+  }
+]

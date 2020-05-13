@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "InjectionDelivery",
+    "off": 5824,
+    "sff": "injected"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "InjectionDelivery",
+    "off": 9248,
+    "sff": "injected"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "InjectionDelivery",
+    "off": 6657,
+    "sff": "injected"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "InjectionDelivery",
+    "off": 6722,
+    "sff": "injected"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 268,
+    "sff": "OB-OEG"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "RehabilitativeTraining",
+    "off": 7639,
+    "sff": "Active range of motion"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "RehabilitativeTraining",
+    "off": 7614,
+    "sff": "passive range of motion"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "RehabilitativeTraining",
+    "off": 7631,
+    "sff": "motion"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "Rostral",
+    "off": 6327,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "RehabilitativeTraining",
+    "off": 7732,
+    "sff": "passive range of motion"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "RehabilitativeTraining",
+    "off": 7614,
+    "sff": "passive"
+  },
+  {
+    "docID": "N185 Munoz-Quiles 2009",
+    "et": "InjectionDelivery",
+    "off": 6447,
+    "sff": "injected"
+  }
+]

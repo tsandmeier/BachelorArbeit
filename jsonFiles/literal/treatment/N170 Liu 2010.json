@@ -1,0 +1,68 @@
+[
+  {
+    "docID": "N170 Liu 2010",
+    "et": "InjectionDelivery",
+    "off": 6269,
+    "sff": "injections"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "InjectionDelivery",
+    "off": 5906,
+    "sff": "inject"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "InjectionDelivery",
+    "off": 6204,
+    "sff": "injections"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "InjectionDelivery",
+    "off": 9032,
+    "sff": "inject"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "CyclosporineA",
+    "off": 6292,
+    "sff": "cyclosporin"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "InjectionDelivery",
+    "off": 5617,
+    "sff": "injected"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 351,
+    "sff": "OEG"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "Vehicle",
+    "off": 5787,
+    "sff": "culture medium"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "DeliveryMethod",
+    "off": 5806,
+    "sff": "implanted"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "Vehicle",
+    "off": 5929,
+    "sff": "culture medium"
+  },
+  {
+    "docID": "N170 Liu 2010",
+    "et": "InjectionDelivery",
+    "off": 6253,
+    "sff": "intraperitoneal"
+  }
+]

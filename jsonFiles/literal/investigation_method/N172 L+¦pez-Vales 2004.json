@@ -1,0 +1,212 @@
+[
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "InclinedPlaneTest",
+    "off": 21455,
+    "sff": "mean maximum angle"
+  },
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "TissueSparingTest",
+    "off": 25791,
+    "sff": "parenchyma"
+  },
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 22911,
+    "sff": "amplitude of the three waves"
+  },
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "AxonalRegenerationTest",
+    "off": 27638,
+    "sff": "density"
+  },
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "TissueSparingTest",
+    "off": 24607,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 968,
+    "sff": "withdrawal latency"
+  },
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "AstrogliosisTest",
+    "off": 16049,
+    "sff": "reactive"
+  },
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 12820,
+    "sff": "somatosensory"
+  },
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 27908,
+    "sff": "mean"
+  },
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "InclinedPlaneTest",
+    "off": 21655,
+    "sff": "mean maximum angle"
+  },
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "TissueSparingTest",
+    "off": 23672,
+    "sff": "area of preserved spinal cord"
+  },
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "TissueSparingTest",
+    "off": 23797,
+    "sff": "area of preserved spinal cord"
+  },
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 11933,
+    "sff": "somatosensory"
+  },
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 22076,
+    "sff": "withdrawal latency"
+  },
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "TissueSparingTest",
+    "off": 24162,
+    "sff": "parenchyma"
+  },
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 23764,
+    "sff": "three"
+  },
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "TissueSparingTest",
+    "off": 24478,
+    "sff": "parenchyma"
+  },
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 11610,
+    "sff": "withdrawal latency"
+  },
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "TissueSparingTest",
+    "off": 24289,
+    "sff": "parenchyma"
+  },
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 22447,
+    "sff": "amplitude"
+  },
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 516,
+    "sff": "somatosensory"
+  },
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "TissueSparingTest",
+    "off": 26715,
+    "sff": "parenchyma"
+  },
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 838,
+    "sff": "somatosensory"
+  },
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 22751,
+    "sff": "latencies"
+  },
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 19146,
+    "sff": "somatosensory"
+  },
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "AngiogenesisTest",
+    "off": 28565,
+    "sff": "density of blood vessels"
+  },
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "TissueSparingTest",
+    "off": 1062,
+    "sff": "area of preserved spinal cord"
+  },
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "TissueSparingTest",
+    "off": 24658,
+    "sff": "parenchyma"
+  },
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 1003,
+    "sff": "stimulus"
+  },
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "TissueSparingTest",
+    "off": 23238,
+    "sff": "parenchyma"
+  },
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 22399,
+    "sff": "latency"
+  },
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "TissueSparingTest",
+    "off": 23624,
+    "sff": "parenchyma"
+  },
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "AstrogliosisTest",
+    "off": 16853,
+    "sff": "reactive"
+  },
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "ThermalHyperalgesiaTest",
+    "off": 21751,
+    "sff": "withdrawal"
+  },
+  {
+    "docID": "N172 L+¦pez-Vales 2004",
+    "et": "AstrogliosisTest",
+    "off": 24904,
+    "sff": "grade"
+  }
+]

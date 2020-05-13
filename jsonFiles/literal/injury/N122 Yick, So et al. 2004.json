@@ -1,0 +1,62 @@
+[
+  {
+    "docID": "N122 Yick, So et al. 2004",
+    "et": "InjuryDevice",
+    "off": 13999,
+    "sff": "cylinder"
+  },
+  {
+    "docID": "N122 Yick, So et al. 2004",
+    "et": "KetamineAsAnaesthetic",
+    "off": 8443,
+    "sff": "ketamine"
+  },
+  {
+    "docID": "N122 Yick, So et al. 2004",
+    "et": "Xylazine",
+    "off": 9610,
+    "sff": "xylazine"
+  },
+  {
+    "docID": "N122 Yick, So et al. 2004",
+    "et": "C4",
+    "off": 7043,
+    "sff": "fourth"
+  },
+  {
+    "docID": "N122 Yick, So et al. 2004",
+    "et": "Compression",
+    "off": 8937,
+    "sff": "dorsolateral"
+  },
+  {
+    "docID": "N122 Yick, So et al. 2004",
+    "et": "LateralHemisection",
+    "off": 6217,
+    "sff": "right hemisection"
+  },
+  {
+    "docID": "N122 Yick, So et al. 2004",
+    "et": "Scissors",
+    "off": 6280,
+    "sff": "spring scissors"
+  },
+  {
+    "docID": "N122 Yick, So et al. 2004",
+    "et": "Xylazine",
+    "off": 8467,
+    "sff": "xylazine"
+  },
+  {
+    "docID": "N122 Yick, So et al. 2004",
+    "et": "InjuryDevice",
+    "off": 21459,
+    "sff": "cylinder"
+  },
+  {
+    "docID": "N122 Yick, So et al. 2004",
+    "et": "KetamineAsAnaesthetic",
+    "off": 9597,
+    "sff": "ketamine"
+  }
+]

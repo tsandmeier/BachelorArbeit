@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "InjectionDelivery",
+    "off": 6692,
+    "sff": "intraperitoneally"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "Cell",
+    "off": 5569,
+    "sff": "ONFs"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "InjectionDelivery",
+    "off": 8461,
+    "sff": "injected"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "RingersSolution",
+    "off": 7547,
+    "sff": "Ringer"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "Saline",
+    "off": 8044,
+    "sff": "saline"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "DosageExtracorporal",
+    "off": 6669,
+    "sff": "10"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 434,
+    "sff": "OEC"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "Cell",
+    "off": 7816,
+    "sff": "ONFs"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "DosageExtracorporal",
+    "off": 8144,
+    "sff": "100,000"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "DosageExtracorporal",
+    "off": 6669,
+    "sff": "10 mg"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "Cell",
+    "off": 5107,
+    "sff": "ONFs"
+  },
+  {
+    "docID": "N209 Tharion 2011",
+    "et": "Cell",
+    "off": 5125,
+    "sff": "ONFs"
+  }
+]

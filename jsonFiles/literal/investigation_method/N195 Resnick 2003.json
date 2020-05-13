@@ -1,0 +1,194 @@
+[
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "HistologicalInvestigationTest",
+    "off": 9068,
+    "sff": "staining"
+  },
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "ImagingTest",
+    "off": 9178,
+    "sff": "region"
+  },
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "HistologicalInvestigationTest",
+    "off": 10217,
+    "sff": "staining"
+  },
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "BBBTest",
+    "off": 4926,
+    "sff": "score"
+  },
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "ScarringTest",
+    "off": 7807,
+    "sff": "staining"
+  },
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "ScarringTest",
+    "off": 8127,
+    "sff": "staining"
+  },
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "AstrogliosisTest",
+    "off": 10212,
+    "sff": "GFAP staining"
+  },
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "ScarringTest",
+    "off": 8057,
+    "sff": "staining"
+  },
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "TissueSparingTest",
+    "off": 5838,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "ScarringTest",
+    "off": 8848,
+    "sff": "staining"
+  },
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "MyelinationTest",
+    "off": 8579,
+    "sff": "posttraumatic"
+  },
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "HistologicalInvestigationTest",
+    "off": 10340,
+    "sff": "staining"
+  },
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "InflammationTest",
+    "off": 9025,
+    "sff": "staining"
+  },
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "GaitTest",
+    "off": 10790,
+    "sff": "stability"
+  },
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "BBBTest",
+    "off": 9332,
+    "sff": "scores"
+  },
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "AxonalRegenerationTest",
+    "off": 7498,
+    "sff": "staining"
+  },
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "BBBTest",
+    "off": 962,
+    "sff": "BBB"
+  },
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "ScarringTest",
+    "off": 7903,
+    "sff": "staining"
+  },
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "HistologicalInvestigationTest",
+    "off": 8848,
+    "sff": "staining"
+  },
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "HistologicalInvestigationTest",
+    "off": 8461,
+    "sff": "staining"
+  },
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "HistologicalInvestigationTest",
+    "off": 9711,
+    "sff": "positive"
+  },
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "ScarringTest",
+    "off": 9068,
+    "sff": "staining"
+  },
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "ImagingTest",
+    "off": 8705,
+    "sff": "region"
+  },
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "AxonalRegenerationTest",
+    "off": 7610,
+    "sff": "immunostaining"
+  },
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "ImagingTest",
+    "off": 8959,
+    "sff": "region"
+  },
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "LadderRungTest",
+    "off": 10722,
+    "sff": "stepping"
+  },
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "ScarringTest",
+    "off": 9207,
+    "sff": "staining"
+  },
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "HistologicalInvestigationTest",
+    "off": 8127,
+    "sff": "staining"
+  },
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "BBBTest",
+    "off": 4797,
+    "sff": "BBB scores"
+  },
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "ScarringTest",
+    "off": 8461,
+    "sff": "staining"
+  },
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "HistologicalInvestigationTest",
+    "off": 8003,
+    "sff": "NGFR"
+  },
+  {
+    "docID": "N195 Resnick 2003",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 9347,
+    "sff": "three"
+  }
+]

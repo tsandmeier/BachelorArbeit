@@ -1,0 +1,194 @@
+[
+  {
+    "docID": "N179 Masgutova 2010",
+    "et": "AxonalRegenerationTest",
+    "off": 6124,
+    "sff": "number"
+  },
+  {
+    "docID": "N179 Masgutova 2010",
+    "et": "LesionVolumeTest",
+    "off": 498,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N179 Masgutova 2010",
+    "et": "LesionVolumeTest",
+    "off": 9083,
+    "sff": "area"
+  },
+  {
+    "docID": "N179 Masgutova 2010",
+    "et": "NeuronalChangesTest",
+    "off": 8139,
+    "sff": "cells"
+  },
+  {
+    "docID": "N179 Masgutova 2010",
+    "et": "MyelinationTest",
+    "off": 10575,
+    "sff": "remyelination"
+  },
+  {
+    "docID": "N179 Masgutova 2010",
+    "et": "ProteinLevelAnalysis",
+    "off": 7767,
+    "sff": "level"
+  },
+  {
+    "docID": "N179 Masgutova 2010",
+    "et": "ProteinLevelAnalysis",
+    "off": 3922,
+    "sff": "level"
+  },
+  {
+    "docID": "N179 Masgutova 2010",
+    "et": "AxonalRegenerationTest",
+    "off": 9206,
+    "sff": "number"
+  },
+  {
+    "docID": "N179 Masgutova 2010",
+    "et": "GaitTest",
+    "off": 365,
+    "sff": "lateral"
+  },
+  {
+    "docID": "N179 Masgutova 2010",
+    "et": "LesionVolumeTest",
+    "off": 8711,
+    "sff": "area of damage"
+  },
+  {
+    "docID": "N179 Masgutova 2010",
+    "et": "HistologicalInvestigationTest",
+    "off": 6242,
+    "sff": "staining"
+  },
+  {
+    "docID": "N179 Masgutova 2010",
+    "et": "MyelinationTest",
+    "off": 11548,
+    "sff": "remyelination"
+  },
+  {
+    "docID": "N179 Masgutova 2010",
+    "et": "LesionVolumeTest",
+    "off": 5581,
+    "sff": "area"
+  },
+  {
+    "docID": "N179 Masgutova 2010",
+    "et": "HistologicalInvestigationTest",
+    "off": 483,
+    "sff": "changes"
+  },
+  {
+    "docID": "N179 Masgutova 2010",
+    "et": "TissueSparingTest",
+    "off": 7112,
+    "sff": "area of preserved grey matter"
+  },
+  {
+    "docID": "N179 Masgutova 2010",
+    "et": "LesionVolumeTest",
+    "off": 8711,
+    "sff": "area"
+  },
+  {
+    "docID": "N179 Masgutova 2010",
+    "et": "NeuronalChangesTest",
+    "off": 7715,
+    "sff": "cells"
+  },
+  {
+    "docID": "N179 Masgutova 2010",
+    "et": "AxonalSproutingTest",
+    "off": 4082,
+    "sff": "processes"
+  },
+  {
+    "docID": "N179 Masgutova 2010",
+    "et": "AxonalRegenerationTest",
+    "off": 7435,
+    "sff": "number"
+  },
+  {
+    "docID": "N179 Masgutova 2010",
+    "et": "MyelinationTest",
+    "off": 9685,
+    "sff": "posttraumatic"
+  },
+  {
+    "docID": "N179 Masgutova 2010",
+    "et": "HistologicalInvestigationTest",
+    "off": 9699,
+    "sff": "demyelination"
+  },
+  {
+    "docID": "N179 Masgutova 2010",
+    "et": "TissueSparingTest",
+    "off": 9083,
+    "sff": "area of preserved grey matter"
+  },
+  {
+    "docID": "N179 Masgutova 2010",
+    "et": "MyelinationTest",
+    "off": 4068,
+    "sff": "posttraumatic"
+  },
+  {
+    "docID": "N179 Masgutova 2010",
+    "et": "LesionVolumeTest",
+    "off": 8805,
+    "sff": "area of damage"
+  },
+  {
+    "docID": "N179 Masgutova 2010",
+    "et": "LesionVolumeTest",
+    "off": 5551,
+    "sff": "area"
+  },
+  {
+    "docID": "N179 Masgutova 2010",
+    "et": "LesionVolumeTest",
+    "off": 7149,
+    "sff": "area"
+  },
+  {
+    "docID": "N179 Masgutova 2010",
+    "et": "LesionVolumeTest",
+    "off": 8805,
+    "sff": "area"
+  },
+  {
+    "docID": "N179 Masgutova 2010",
+    "et": "LesionVolumeTest",
+    "off": 11364,
+    "sff": "area"
+  },
+  {
+    "docID": "N179 Masgutova 2010",
+    "et": "AxonalRegenerationTest",
+    "off": 5832,
+    "sff": "number"
+  },
+  {
+    "docID": "N179 Masgutova 2010",
+    "et": "NeuronalChangesTest",
+    "off": 9220,
+    "sff": "cells"
+  },
+  {
+    "docID": "N179 Masgutova 2010",
+    "et": "BBBTest",
+    "off": 697,
+    "sff": "BBB test"
+  },
+  {
+    "docID": "N179 Masgutova 2010",
+    "et": "AxonalSproutingTest",
+    "off": 10449,
+    "sff": "processes"
+  }
+]

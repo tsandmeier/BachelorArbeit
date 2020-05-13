@@ -1,0 +1,62 @@
+[
+  {
+    "docID": "N066 Sarveazad, Babahajian et al. 2017 ",
+    "et": "InjuryDevice",
+    "off": 13735,
+    "sff": "cord"
+  },
+  {
+    "docID": "N066 Sarveazad, Babahajian et al. 2017 ",
+    "et": "Contusion",
+    "off": 1742,
+    "sff": "SCI"
+  },
+  {
+    "docID": "N066 Sarveazad, Babahajian et al. 2017 ",
+    "et": "Contusion",
+    "off": 2891,
+    "sff": "cords"
+  },
+  {
+    "docID": "N066 Sarveazad, Babahajian et al. 2017 ",
+    "et": "Contusion",
+    "off": 3327,
+    "sff": "SCI"
+  },
+  {
+    "docID": "N066 Sarveazad, Babahajian et al. 2017 ",
+    "et": "Contusion",
+    "off": 2735,
+    "sff": "SCI"
+  },
+  {
+    "docID": "N066 Sarveazad, Babahajian et al. 2017 ",
+    "et": "InjuryByAccident",
+    "off": 13740,
+    "sff": "injury"
+  },
+  {
+    "docID": "N066 Sarveazad, Babahajian et al. 2017 ",
+    "et": "Contusion",
+    "off": 2067,
+    "sff": "contusion"
+  },
+  {
+    "docID": "N066 Sarveazad, Babahajian et al. 2017 ",
+    "et": "PhotochemicalInjury",
+    "off": 14664,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N066 Sarveazad, Babahajian et al. 2017 ",
+    "et": "Contusion",
+    "off": 2086,
+    "sff": "SCI"
+  },
+  {
+    "docID": "N066 Sarveazad, Babahajian et al. 2017 ",
+    "et": "LateralHemisection",
+    "off": 3356,
+    "sff": "cord"
+  }
+]

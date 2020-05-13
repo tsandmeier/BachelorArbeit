@@ -1,0 +1,302 @@
+[
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Adult",
+    "off": 43566,
+    "sff": "adult"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "RatSpecies",
+    "off": 1044,
+    "sff": "rats"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Age",
+    "off": 29148,
+    "sff": "12"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "FischerRat",
+    "off": 43686,
+    "sff": "rats"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Adult",
+    "off": 20019,
+    "sff": "adult"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "ListerHoodedRat",
+    "off": 43686,
+    "sff": "rats"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Weight",
+    "off": 17670,
+    "sff": "200"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "SpragueDawleyRat",
+    "off": 1044,
+    "sff": "rats"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Adult",
+    "off": 43680,
+    "sff": "adult"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Adult",
+    "off": 1038,
+    "sff": "Adult"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Weight",
+    "off": 39465,
+    "sff": "400"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Adult",
+    "off": 51498,
+    "sff": "adult"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Age",
+    "off": 45499,
+    "sff": "3"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Age",
+    "off": 45305,
+    "sff": "14"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Weight",
+    "off": 9830,
+    "sff": "g"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Mixed",
+    "off": 11879,
+    "sff": "male"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Age",
+    "off": 45507,
+    "sff": "13"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Weight",
+    "off": 45266,
+    "sff": "300"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Adult",
+    "off": 55227,
+    "sff": "adult"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Weight",
+    "off": 30306,
+    "sff": "200"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "SpragueDawleyRat",
+    "off": 11571,
+    "sff": "rats"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Weight",
+    "off": 13412,
+    "sff": "200"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Weight",
+    "off": 45275,
+    "sff": "300"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Age",
+    "off": 45650,
+    "sff": "8"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "WistarRat",
+    "off": 11884,
+    "sff": "Wistar rats"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Adult",
+    "off": 19438,
+    "sff": "adult"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "RatSpecies",
+    "off": 1493,
+    "sff": "rats"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Adult",
+    "off": 59384,
+    "sff": "adult"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Weight",
+    "off": 30206,
+    "sff": "400"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Weight",
+    "off": 28252,
+    "sff": "200"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "RatSpecies",
+    "off": 44232,
+    "sff": "rats"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Adult",
+    "off": 11873,
+    "sff": "adult"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "FischerRat",
+    "off": 1493,
+    "sff": "rats"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "MouseSpecies",
+    "off": 51514,
+    "sff": "mice"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "C57_BL6_Mouse",
+    "off": 55605,
+    "sff": "wild-type"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "C57_BL6_Mouse",
+    "off": 51504,
+    "sff": "wild-type"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Weight",
+    "off": 33597,
+    "sff": "200"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "FischerRat",
+    "off": 44232,
+    "sff": "rats"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Weight",
+    "off": 11930,
+    "sff": "kg"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Gender",
+    "off": 11879,
+    "sff": "male"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Adult",
+    "off": 2045,
+    "sff": "adult"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "MouseSpecies",
+    "off": 43140,
+    "sff": "protein"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Weight",
+    "off": 11928,
+    "sff": "g"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "FischerRat",
+    "off": 11571,
+    "sff": "rats"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Age",
+    "off": 45658,
+    "sff": "9"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Male",
+    "off": 11879,
+    "sff": "male"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "LongEvansRat",
+    "off": 11571,
+    "sff": "rats"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "RatSpecies",
+    "off": 11571,
+    "sff": "rats"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Weight",
+    "off": 15401,
+    "sff": "kg"
+  },
+  {
+    "docID": "N013 CaffertyCafferty",
+    "et": "Age",
+    "off": 45403,
+    "sff": "3"
+  }
+]

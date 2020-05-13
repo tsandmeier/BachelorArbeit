@@ -1,0 +1,80 @@
+[
+  {
+    "docID": "N167 Li 2012",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 340,
+    "sff": "OECs"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "Vehicle",
+    "off": 8480,
+    "sff": "DMEM"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "Caudal",
+    "off": 8227,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "InjectionDelivery",
+    "off": 12221,
+    "sff": "injected"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "InjectionDelivery",
+    "off": 8447,
+    "sff": "injected"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "Saline",
+    "off": 8805,
+    "sff": "saline"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "InjectionDelivery",
+    "off": 21221,
+    "sff": "injected"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "InjectionDelivery",
+    "off": 8102,
+    "sff": "injected"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "Rostral",
+    "off": 8215,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "DosageExtracorporal",
+    "off": 8263,
+    "sff": "3 μl of cell suspension was used"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "SchwannCell",
+    "off": 302,
+    "sff": "SCs"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "InjectionDelivery",
+    "off": 20686,
+    "sff": "injected"
+  },
+  {
+    "docID": "N167 Li 2012",
+    "et": "InjectionDelivery",
+    "off": 7323,
+    "sff": "intraperitoneal"
+  }
+]

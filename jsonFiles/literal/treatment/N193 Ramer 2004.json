@@ -1,0 +1,80 @@
+[
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 695,
+    "sff": "OECs"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Rostral",
+    "off": 15369,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Rostral",
+    "off": 39305,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Rostral",
+    "off": 16560,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "InjectionDelivery",
+    "off": 12183,
+    "sff": "injected"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Rostral",
+    "off": 38931,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "InjectionDelivery",
+    "off": 11298,
+    "sff": "microinjected"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Rostral",
+    "off": 22040,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "InjectionDelivery",
+    "off": 29831,
+    "sff": "injected"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Rostral",
+    "off": 22205,
+    "sff": "rostrally"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "Rostral",
+    "off": 16642,
+    "sff": "rostrally"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "InjectionDelivery",
+    "off": 11282,
+    "sff": "stereotaxically microinjected"
+  },
+  {
+    "docID": "N193 Ramer 2004",
+    "et": "InjectionDelivery",
+    "off": 29295,
+    "sff": "injected"
+  }
+]

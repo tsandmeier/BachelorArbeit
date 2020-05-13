@@ -1,0 +1,308 @@
+[
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "Gender",
+    "off": 8846,
+    "sff": "male"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "MouseSpecies",
+    "off": 8859,
+    "sff": "mice"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "MouseSpecies",
+    "off": 34728,
+    "sff": "mice"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "Weight",
+    "off": 8879,
+    "sff": "–"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "MouseSpecies",
+    "off": 9488,
+    "sff": "mice"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "Adult",
+    "off": 1015,
+    "sff": "Adult"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "Age",
+    "off": 13086,
+    "sff": "9"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "MouseSpecies",
+    "off": 46105,
+    "sff": "mice"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "SpragueDawleyRat",
+    "off": 13054,
+    "sff": "rats"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "MouseSpecies",
+    "off": 28440,
+    "sff": "mice"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "Weight",
+    "off": 42423,
+    "sff": "mean"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "MouseSpecies",
+    "off": 9239,
+    "sff": "mice"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "Age",
+    "off": 8857,
+    "sff": "6"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "SpragueDawleyRat",
+    "off": 8879,
+    "sff": "–"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "Weight",
+    "off": 8877,
+    "sff": "20"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "Age",
+    "off": 15628,
+    "sff": "6"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "MouseSpecies",
+    "off": 43782,
+    "sff": "mice"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "Adult",
+    "off": 2530,
+    "sff": "adult"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "MouseSpecies",
+    "off": 38388,
+    "sff": "mice"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "MouseSpecies",
+    "off": 34931,
+    "sff": "mice"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "MouseSpecies",
+    "off": 47474,
+    "sff": "mice"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "MouseSpecies",
+    "off": 46071,
+    "sff": "mice"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "Weight",
+    "off": 10121,
+    "sff": "kg"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "MouseSpecies",
+    "off": 1372,
+    "sff": "mice"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "Weight",
+    "off": 11023,
+    "sff": "kg"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "Mixed",
+    "off": 8846,
+    "sff": "male"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "C57_BL6_Mouse",
+    "off": 8851,
+    "sff": "C57BL"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "Weight",
+    "off": 42602,
+    "sff": "mean"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "C57_BL6_Mouse",
+    "off": 8859,
+    "sff": "mice"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "Weight",
+    "off": 21865,
+    "sff": "mean"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "Age",
+    "off": 32661,
+    "sff": "days"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "MouseSpecies",
+    "off": 38605,
+    "sff": "mice"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "Age",
+    "off": 17552,
+    "sff": "day"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "Age",
+    "off": 13562,
+    "sff": "days"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "Adult",
+    "off": 8840,
+    "sff": "adult"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "Weight",
+    "off": 29315,
+    "sff": "mean"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "Age",
+    "off": 17450,
+    "sff": "2"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "MouseSpecies",
+    "off": 47697,
+    "sff": "mice"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "MouseSpecies",
+    "off": 36697,
+    "sff": "mice"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "MouseSpecies",
+    "off": 26711,
+    "sff": "mice"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "Weight",
+    "off": 14687,
+    "sff": "300"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "Weight",
+    "off": 8883,
+    "sff": "g"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "C57_BL6_Mouse",
+    "off": 8857,
+    "sff": "6"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "MouseSpecies",
+    "off": 1217,
+    "sff": "mice"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "Age",
+    "off": 8879,
+    "sff": "–"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "Age",
+    "off": 16946,
+    "sff": "days"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "MouseSpecies",
+    "off": 17090,
+    "sff": "mice"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "Age",
+    "off": 48053,
+    "sff": "days"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "Male",
+    "off": 8846,
+    "sff": "male"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "MouseSpecies",
+    "off": 36272,
+    "sff": "mice"
+  },
+  {
+    "docID": "N003 Starkey, Bartus et al. 2012",
+    "et": "Weight",
+    "off": 8857,
+    "sff": "6"
+  }
+]

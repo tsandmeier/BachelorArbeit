@@ -1,0 +1,188 @@
+[
+  {
+    "docID": "N151 Huang 2010",
+    "et": "LadderRungTest",
+    "off": 1837,
+    "sff": "stepping"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "InvestigationMethod",
+    "off": 1413,
+    "sff": "axonal"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "AxonalChangesTest",
+    "off": 3812,
+    "sff": "observed"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "HistologicalInvestigationTest",
+    "off": 1172,
+    "sff": "CSPG"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "TissueSparingTest",
+    "off": 1957,
+    "sff": "parenchyma"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "InvestigationMethod",
+    "off": 974,
+    "sff": "axonal"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "TissueSparingTest",
+    "off": 1310,
+    "sff": "volume"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "ApoptosisTest",
+    "off": 2950,
+    "sff": "number"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "AxonalChangesTest",
+    "off": 1413,
+    "sff": "axonal"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "ImagingTest",
+    "off": 3696,
+    "sff": "regions"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "AngiogenesisTest",
+    "off": 2606,
+    "sff": "number"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "ScarringTest",
+    "off": 3924,
+    "sff": "GFAP"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "AstrogliosisTest",
+    "off": 3628,
+    "sff": "GFAP"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "ImagingTest",
+    "off": 4058,
+    "sff": "region"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "AxonalChangesTest",
+    "off": 974,
+    "sff": "axonal"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "AstrogliosisTest",
+    "off": 2950,
+    "sff": "number"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "NeuronalChangesTest",
+    "off": 3490,
+    "sff": "cells"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "InvestigationMethod",
+    "off": 1188,
+    "sff": "axonal"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "AxonalChangesTest",
+    "off": 3779,
+    "sff": "regions"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "ImagingTest",
+    "off": 2030,
+    "sff": "region"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "ImagingTest",
+    "off": 3779,
+    "sff": "regions"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "CystVolumeTest",
+    "off": 1310,
+    "sff": "volume"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "AxonalChangesTest",
+    "off": 1188,
+    "sff": "axonal"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "AxonalChangesTest",
+    "off": 1525,
+    "sff": "axons"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "AxonalChangesTest",
+    "off": 1766,
+    "sff": "axonal"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "AxonalChangesTest",
+    "off": 3503,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "MotorEvokedPotentialsTest",
+    "off": 938,
+    "sff": "component"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "ImagingTest",
+    "off": 3416,
+    "sff": "regions"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "TissueSparingTest",
+    "off": 3332,
+    "sff": "white"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "ScarringTest",
+    "off": 3628,
+    "sff": "GFAP"
+  },
+  {
+    "docID": "N151 Huang 2010",
+    "et": "AngiogenesisTest",
+    "off": 2950,
+    "sff": "number"
+  }
+]

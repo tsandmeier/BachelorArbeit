@@ -1,0 +1,68 @@
+[
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "Isoflurane",
+    "off": 8069,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "VertebralArea",
+    "off": 24254,
+    "sff": "levels"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "CompleteTransection",
+    "off": 9145,
+    "sff": "sectioned"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "VertebralArea",
+    "off": 27649,
+    "sff": "levels"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "VertebralArea",
+    "off": 27234,
+    "sff": "levels"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "KetamineAsAnaesthetic",
+    "off": 8921,
+    "sff": "ketamine"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "VertebralArea",
+    "off": 28101,
+    "sff": "levels"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "VertebralArea",
+    "off": 8132,
+    "sff": "T9"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "T9",
+    "off": 8132,
+    "sff": "T9"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "VertebralArea",
+    "off": 8563,
+    "sff": "levels"
+  },
+  {
+    "docID": "N206 Takeoka 2009",
+    "et": "CompleteTransection",
+    "off": 23127,
+    "sff": "completely transected"
+  }
+]

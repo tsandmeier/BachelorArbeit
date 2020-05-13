@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N166 Li 2011",
+    "et": "InjectionDelivery",
+    "off": 22295,
+    "sff": "injected"
+  },
+  {
+    "docID": "N166 Li 2011",
+    "et": "Rostral",
+    "off": 8913,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N166 Li 2011",
+    "et": "InjectionDelivery",
+    "off": 17306,
+    "sff": "injected"
+  },
+  {
+    "docID": "N166 Li 2011",
+    "et": "Caudal",
+    "off": 17974,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N166 Li 2011",
+    "et": "DosageExtracorporal",
+    "off": 8989,
+    "sff": "90,000 cells"
+  },
+  {
+    "docID": "N166 Li 2011",
+    "et": "InjectionDelivery",
+    "off": 22766,
+    "sff": "injected"
+  },
+  {
+    "docID": "N166 Li 2011",
+    "et": "Rostral",
+    "off": 12247,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N166 Li 2011",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 670,
+    "sff": "OECs"
+  },
+  {
+    "docID": "N166 Li 2011",
+    "et": "InjectionDelivery",
+    "off": 8804,
+    "sff": "injected"
+  },
+  {
+    "docID": "N166 Li 2011",
+    "et": "Caudal",
+    "off": 8925,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N166 Li 2011",
+    "et": "Rostral",
+    "off": 20889,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N166 Li 2011",
+    "et": "Rostral",
+    "off": 17962,
+    "sff": "rostral"
+  }
+]

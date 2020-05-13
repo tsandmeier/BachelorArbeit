@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "C4",
+    "off": 45366,
+    "sff": "C4"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "VertebralArea",
+    "off": 12498,
+    "sff": "C3 and C4"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "KetamineAsAnaesthetic",
+    "off": 17603,
+    "sff": "ketamine"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "VertebralArea",
+    "off": 12498,
+    "sff": "C3 and C4 vertebrae"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "Scissors",
+    "off": 12565,
+    "sff": "microscissors"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "C4",
+    "off": 12505,
+    "sff": "C4"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "Compression",
+    "off": 9574,
+    "sff": "dorsolateral"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "InjuryDevice",
+    "off": 16020,
+    "sff": "cylinder"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "Xylazine",
+    "off": 17640,
+    "sff": "xylazine"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "Xylazine",
+    "off": 12408,
+    "sff": "xylazine"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "InjuryDevice",
+    "off": 48288,
+    "sff": "cylinder"
+  },
+  {
+    "docID": "N225 Xiao 2005",
+    "et": "KetamineAsAnaesthetic",
+    "off": 12351,
+    "sff": "ketamine"
+  }
+]

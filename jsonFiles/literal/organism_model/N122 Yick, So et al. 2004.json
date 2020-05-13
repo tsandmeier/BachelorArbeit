@@ -1,0 +1,302 @@
+[
+  {
+    "docID": "N122 Yick, So et al. 2004",
+    "et": "ListerHoodedRat",
+    "off": 776,
+    "sff": "rats"
+  },
+  {
+    "docID": "N122 Yick, So et al. 2004",
+    "et": "MouseSpecies",
+    "off": 11129,
+    "sff": "protein"
+  },
+  {
+    "docID": "N122 Yick, So et al. 2004",
+    "et": "Weight",
+    "off": 18352,
+    "sff": "g"
+  },
+  {
+    "docID": "N122 Yick, So et al. 2004",
+    "et": "MouseSpecies",
+    "off": 11005,
+    "sff": "protein"
+  },
+  {
+    "docID": "N122 Yick, So et al. 2004",
+    "et": "Age",
+    "off": 7202,
+    "sff": "2.5"
+  },
+  {
+    "docID": "N122 Yick, So et al. 2004",
+    "et": "C57_BL6_Mouse",
+    "off": 23457,
+    "sff": "6"
+  },
+  {
+    "docID": "N122 Yick, So et al. 2004",
+    "et": "Age",
+    "off": 17106,
+    "sff": "4"
+  },
+  {
+    "docID": "N122 Yick, So et al. 2004",
+    "et": "Age",
+    "off": 13972,
+    "sff": "5"
+  },
+  {
+    "docID": "N122 Yick, So et al. 2004",
+    "et": "Weight",
+    "off": 8482,
+    "sff": "kg"
+  },
+  {
+    "docID": "N122 Yick, So et al. 2004",
+    "et": "Weight",
+    "off": 22029,
+    "sff": "200"
+  },
+  {
+    "docID": "N122 Yick, So et al. 2004",
+    "et": "WistarRat",
+    "off": 10648,
+    "sff": "rats"
+  },
+  {
+    "docID": "N122 Yick, So et al. 2004",
+    "et": "Age",
+    "off": 16433,
+    "sff": "2.5"
+  },
+  {
+    "docID": "N122 Yick, So et al. 2004",
+    "et": "RatSpecies",
+    "off": 10648,
+    "sff": "rats"
+  },
+  {
+    "docID": "N122 Yick, So et al. 2004",
+    "et": "Age",
+    "off": 11900,
+    "sff": "9"
+  },
+  {
+    "docID": "N122 Yick, So et al. 2004",
+    "et": "Weight",
+    "off": 7312,
+    "sff": "kg"
+  },
+  {
+    "docID": "N122 Yick, So et al. 2004",
+    "et": "Age",
+    "off": 23432,
+    "sff": "days"
+  },
+  {
+    "docID": "N122 Yick, So et al. 2004",
+    "et": "Weight",
+    "off": 15773,
+    "sff": "200"
+  },
+  {
+    "docID": "N122 Yick, So et al. 2004",
+    "et": "Age",
+    "off": 6855,
+    "sff": "2.5"
+  },
+  {
+    "docID": "N122 Yick, So et al. 2004",
+    "et": "SpragueDawleyRat",
+    "off": 10648,
+    "sff": "rats"
+  },
+  {
+    "docID": "N122 Yick, So et al. 2004",
+    "et": "Age",
+    "off": 12079,
+    "sff": "4"
+  },
+  {
+    "docID": "N122 Yick, So et al. 2004",
+    "et": "Age",
+    "off": 8318,
+    "sff": "days"
+  },
+  {
+    "docID": "N122 Yick, So et al. 2004",
+    "et": "Weight",
+    "off": 11144,
+    "sff": "g"
+  },
+  {
+    "docID": "N122 Yick, So et al. 2004",
+    "et": "Age",
+    "off": 17510,
+    "sff": "9"
+  },
+  {
+    "docID": "N122 Yick, So et al. 2004",
+    "et": "Adult",
+    "off": 770,
+    "sff": "Adult"
+  },
+  {
+    "docID": "N122 Yick, So et al. 2004",
+    "et": "Age",
+    "off": 7714,
+    "sff": "4"
+  },
+  {
+    "docID": "N122 Yick, So et al. 2004",
+    "et": "Age",
+    "off": 22541,
+    "sff": "days"
+  },
+  {
+    "docID": "N122 Yick, So et al. 2004",
+    "et": "Weight",
+    "off": 12342,
+    "sff": "200"
+  },
+  {
+    "docID": "N122 Yick, So et al. 2004",
+    "et": "Weight",
+    "off": 18354,
+    "sff": "kg"
+  },
+  {
+    "docID": "N122 Yick, So et al. 2004",
+    "et": "Age",
+    "off": 22999,
+    "sff": "9"
+  },
+  {
+    "docID": "N122 Yick, So et al. 2004",
+    "et": "Weight",
+    "off": 7140,
+    "sff": "kg"
+  },
+  {
+    "docID": "N122 Yick, So et al. 2004",
+    "et": "Weight",
+    "off": 19528,
+    "sff": "200"
+  },
+  {
+    "docID": "N122 Yick, So et al. 2004",
+    "et": "Age",
+    "off": 17616,
+    "sff": "9"
+  },
+  {
+    "docID": "N122 Yick, So et al. 2004",
+    "et": "Age",
+    "off": 18114,
+    "sff": "9"
+  },
+  {
+    "docID": "N122 Yick, So et al. 2004",
+    "et": "Age",
+    "off": 15944,
+    "sff": "3"
+  },
+  {
+    "docID": "N122 Yick, So et al. 2004",
+    "et": "Age",
+    "off": 17731,
+    "sff": "9"
+  },
+  {
+    "docID": "N122 Yick, So et al. 2004",
+    "et": "LongEvansRat",
+    "off": 10648,
+    "sff": "rats"
+  },
+  {
+    "docID": "N122 Yick, So et al. 2004",
+    "et": "C57_BL6_Mouse",
+    "off": 21231,
+    "sff": "6"
+  },
+  {
+    "docID": "N122 Yick, So et al. 2004",
+    "et": "Age",
+    "off": 22517,
+    "sff": "day"
+  },
+  {
+    "docID": "N122 Yick, So et al. 2004",
+    "et": "Age",
+    "off": 23923,
+    "sff": "days"
+  },
+  {
+    "docID": "N122 Yick, So et al. 2004",
+    "et": "Age",
+    "off": 17721,
+    "sff": "3"
+  },
+  {
+    "docID": "N122 Yick, So et al. 2004",
+    "et": "Age",
+    "off": 7429,
+    "sff": "2.5"
+  },
+  {
+    "docID": "N122 Yick, So et al. 2004",
+    "et": "Weight",
+    "off": 8459,
+    "sff": "kg"
+  },
+  {
+    "docID": "N122 Yick, So et al. 2004",
+    "et": "Weight",
+    "off": 20393,
+    "sff": "mean"
+  },
+  {
+    "docID": "N122 Yick, So et al. 2004",
+    "et": "Weight",
+    "off": 7815,
+    "sff": "kg"
+  },
+  {
+    "docID": "N122 Yick, So et al. 2004",
+    "et": "Age",
+    "off": 17837,
+    "sff": "9"
+  },
+  {
+    "docID": "N122 Yick, So et al. 2004",
+    "et": "Weight",
+    "off": 10980,
+    "sff": "g"
+  },
+  {
+    "docID": "N122 Yick, So et al. 2004",
+    "et": "Weight",
+    "off": 12148,
+    "sff": "200"
+  },
+  {
+    "docID": "N122 Yick, So et al. 2004",
+    "et": "Age",
+    "off": 17827,
+    "sff": "3"
+  },
+  {
+    "docID": "N122 Yick, So et al. 2004",
+    "et": "Weight",
+    "off": 6769,
+    "sff": "kg"
+  },
+  {
+    "docID": "N122 Yick, So et al. 2004",
+    "et": "Age",
+    "off": 10277,
+    "sff": "3"
+  }
+]

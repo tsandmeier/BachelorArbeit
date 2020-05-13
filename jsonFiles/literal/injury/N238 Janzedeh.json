@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N238 Janzedeh",
+    "et": "KetamineAsAnaesthetic",
+    "off": 6469,
+    "sff": "ketamine"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "Laminectomy",
+    "off": 12332,
+    "sff": "exposed"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "Compression",
+    "off": 6349,
+    "sff": "compression method"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "InjuryDevice",
+    "off": 10850,
+    "sff": "mouse"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "Compression",
+    "off": 564,
+    "sff": "compression"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "InjuryDevice",
+    "off": 6349,
+    "sff": "compression"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "KetamineAsAnaesthetic",
+    "off": 7738,
+    "sff": "ketamine"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "InjuryDevice",
+    "off": 6727,
+    "sff": "compression"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "LateralHemisection",
+    "off": 6604,
+    "sff": "cord"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "Xylazine",
+    "off": 7762,
+    "sff": "xylasine"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "Xylazine",
+    "off": 6493,
+    "sff": "xylasine"
+  },
+  {
+    "docID": "N238 Janzedeh",
+    "et": "InjuryDevice",
+    "off": 564,
+    "sff": "compression"
+  }
+]

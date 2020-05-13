@@ -1,0 +1,68 @@
+[
+  {
+    "docID": "N165 Li 2010",
+    "et": "SodiumPentobarbital",
+    "off": 3678,
+    "sff": "sodium"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "Contusion",
+    "off": 454,
+    "sff": "contused"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "NYUImpactor",
+    "off": 3833,
+    "sff": "NYU-impactor"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "Contusion",
+    "off": 68,
+    "sff": "contused"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "SodiumPentobarbital",
+    "off": 3664,
+    "sff": "pentobarbital"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "SodiumPentobarbital",
+    "off": 3664,
+    "sff": "pentobarbital sodium"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "Contusion",
+    "off": 1102,
+    "sff": "contused"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "T10",
+    "off": 3766,
+    "sff": "T10"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "NYUImpactor",
+    "off": 468,
+    "sff": "NYU-impactor"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "T10",
+    "off": 487,
+    "sff": "T10"
+  },
+  {
+    "docID": "N165 Li 2010",
+    "et": "WeightDrop",
+    "off": 8629,
+    "sff": "device"
+  }
+]

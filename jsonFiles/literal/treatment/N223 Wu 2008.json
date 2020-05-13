@@ -1,0 +1,68 @@
+[
+  {
+    "docID": "N223 Wu 2008",
+    "et": "DosageExtracorporal",
+    "off": 772,
+    "sff": "105"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "DosageExtracorporal",
+    "off": 385,
+    "sff": "3"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "DosageExtracorporal",
+    "off": 3003,
+    "sff": "3"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "DosageExtracorporal",
+    "off": 379,
+    "sff": "3"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "DosageExtracorporal",
+    "off": 2488,
+    "sff": "cells"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "DosageExtracorporal",
+    "off": 3180,
+    "sff": "3"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 311,
+    "sff": "OEG"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "InjectionDelivery",
+    "off": 4535,
+    "sff": "intraperitoneal"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "DosageExtracorporal",
+    "off": 742,
+    "sff": "3"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "DosageExtracorporal",
+    "off": 1465,
+    "sff": "3"
+  },
+  {
+    "docID": "N223 Wu 2008",
+    "et": "TreadmillTraining",
+    "off": 1168,
+    "sff": "hindlimb"
+  }
+]

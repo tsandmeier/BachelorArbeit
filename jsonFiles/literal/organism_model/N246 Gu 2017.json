@@ -1,0 +1,302 @@
+[
+  {
+    "docID": "N246 Gu 2017",
+    "et": "Age",
+    "off": 32615,
+    "sff": "day"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "FischerRat",
+    "off": 31571,
+    "sff": "rats"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "Age",
+    "off": 13682,
+    "sff": "2.5"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "RatSpecies",
+    "off": 31571,
+    "sff": "rats"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "Age",
+    "off": 11237,
+    "sff": "day"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "WistarRat",
+    "off": 31571,
+    "sff": "rats"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "Age",
+    "off": 9561,
+    "sff": "5"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "Age",
+    "off": 31662,
+    "sff": "weeks"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "LongEvansRat",
+    "off": 6708,
+    "sff": "rats"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "Male",
+    "off": 31551,
+    "sff": "male"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "ListerHoodedRat",
+    "off": 31571,
+    "sff": "rats"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "MouseSpecies",
+    "off": 36793,
+    "sff": "protein"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "Age",
+    "off": 7312,
+    "sff": "6"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "Weight",
+    "off": 10077,
+    "sff": "200"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "LewisRat",
+    "off": 31571,
+    "sff": "rats"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "Age",
+    "off": 10952,
+    "sff": "9"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "Weight",
+    "off": 31593,
+    "sff": "250 and 300 g"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "Weight",
+    "off": 32029,
+    "sff": "g"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "Age",
+    "off": 33549,
+    "sff": "day"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "MouseSpecies",
+    "off": 30254,
+    "sff": "protein"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "MouseSpecies",
+    "off": 29235,
+    "sff": "under"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "Age",
+    "off": 30396,
+    "sff": "4"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "LongEvansRat",
+    "off": 31571,
+    "sff": "rats"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "Mixed",
+    "off": 422,
+    "sff": "Male"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "Age",
+    "off": 32394,
+    "sff": "days"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "Age",
+    "off": 31111,
+    "sff": "days"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "Weight",
+    "off": 32426,
+    "sff": "kg"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "Age",
+    "off": 17127,
+    "sff": "9"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "Age",
+    "off": 14121,
+    "sff": "6"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "Age",
+    "off": 31660,
+    "sff": "2"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "MouseSpecies",
+    "off": 10141,
+    "sff": "under"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "Weight",
+    "off": 32316,
+    "sff": "kg"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "Weight",
+    "off": 37655,
+    "sff": "mean"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "Age",
+    "off": 9501,
+    "sff": "5"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "Weight",
+    "off": 31811,
+    "sff": "kg"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "Age",
+    "off": 30014,
+    "sff": "days"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "SpragueDawleyRat",
+    "off": 31556,
+    "sff": "Sprague-Dawley rats"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "Adult",
+    "off": 31545,
+    "sff": "adult"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "SpragueDawleyRat",
+    "off": 427,
+    "sff": "Sprague-Dawley rats"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "Age",
+    "off": 11790,
+    "sff": "3"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "Age",
+    "off": 10117,
+    "sff": "5"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "Age",
+    "off": 10965,
+    "sff": "days"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "Male",
+    "off": 422,
+    "sff": "Male"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "SpragueDawleyRat",
+    "off": 31556,
+    "sff": "Sprague-Dawley"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "Age",
+    "off": 9529,
+    "sff": "5"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "WistarRat",
+    "off": 33391,
+    "sff": "rats"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "Age",
+    "off": 31168,
+    "sff": "day"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "Weight",
+    "off": 33643,
+    "sff": "kg"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "Age",
+    "off": 10954,
+    "sff": "days"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "Age",
+    "off": 13034,
+    "sff": "4"
+  }
+]

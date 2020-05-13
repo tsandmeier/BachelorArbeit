@@ -1,0 +1,80 @@
+[
+  {
+    "docID": "N189 Novikova 2011",
+    "et": "Rostral",
+    "off": 1305,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N189 Novikova 2011",
+    "et": "DeliveryMethod",
+    "off": 14223,
+    "sff": "transferred"
+  },
+  {
+    "docID": "N189 Novikova 2011",
+    "et": "Rostral",
+    "off": 30202,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N189 Novikova 2011",
+    "et": "Rostral",
+    "off": 30429,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N189 Novikova 2011",
+    "et": "InjectionDelivery",
+    "off": 16466,
+    "sff": "pressure-injected"
+  },
+  {
+    "docID": "N189 Novikova 2011",
+    "et": "Rostral",
+    "off": 33941,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N189 Novikova 2011",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 1095,
+    "sff": "a-OEC"
+  },
+  {
+    "docID": "N189 Novikova 2011",
+    "et": "Caudal",
+    "off": 1317,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N189 Novikova 2011",
+    "et": "Saline",
+    "off": 16918,
+    "sff": "saline"
+  },
+  {
+    "docID": "N189 Novikova 2011",
+    "et": "Caudal",
+    "off": 30214,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N189 Novikova 2011",
+    "et": "Rostral",
+    "off": 16549,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N189 Novikova 2011",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 497,
+    "sff": "OEC"
+  },
+  {
+    "docID": "N189 Novikova 2011",
+    "et": "Rostral",
+    "off": 33700,
+    "sff": "rostral"
+  }
+]

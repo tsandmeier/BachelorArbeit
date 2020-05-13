@@ -1,0 +1,302 @@
+[
+  {
+    "docID": "N241 Pan",
+    "et": "RatSpecies",
+    "off": 690,
+    "sff": "rats"
+  },
+  {
+    "docID": "N241 Pan",
+    "et": "SpragueDawleyRat",
+    "off": 15896,
+    "sff": "rats"
+  },
+  {
+    "docID": "N241 Pan",
+    "et": "SpragueDawleyRat",
+    "off": 14867,
+    "sff": "rats"
+  },
+  {
+    "docID": "N241 Pan",
+    "et": "Weight",
+    "off": 17320,
+    "sff": "200"
+  },
+  {
+    "docID": "N241 Pan",
+    "et": "WistarRat",
+    "off": 17072,
+    "sff": "rats"
+  },
+  {
+    "docID": "N241 Pan",
+    "et": "SpragueDawleyRat",
+    "off": 530,
+    "sff": "rats"
+  },
+  {
+    "docID": "N241 Pan",
+    "et": "SpragueDawleyRat",
+    "off": 12059,
+    "sff": "SD"
+  },
+  {
+    "docID": "N241 Pan",
+    "et": "SpragueDawleyRat",
+    "off": 15501,
+    "sff": "rats"
+  },
+  {
+    "docID": "N241 Pan",
+    "et": "WistarRat",
+    "off": 15299,
+    "sff": "rats"
+  },
+  {
+    "docID": "N241 Pan",
+    "et": "SpragueDawleyRat",
+    "off": 14213,
+    "sff": "rats"
+  },
+  {
+    "docID": "N241 Pan",
+    "et": "SpragueDawleyRat",
+    "off": 1155,
+    "sff": "rats"
+  },
+  {
+    "docID": "N241 Pan",
+    "et": "SpragueDawleyRat",
+    "off": 13505,
+    "sff": "rats"
+  },
+  {
+    "docID": "N241 Pan",
+    "et": "WistarRat",
+    "off": 15710,
+    "sff": "rats"
+  },
+  {
+    "docID": "N241 Pan",
+    "et": "RatSpecies",
+    "off": 847,
+    "sff": "rats"
+  },
+  {
+    "docID": "N241 Pan",
+    "et": "SpragueDawleyRat",
+    "off": 1083,
+    "sff": "rats"
+  },
+  {
+    "docID": "N241 Pan",
+    "et": "WistarRat",
+    "off": 14674,
+    "sff": "rats"
+  },
+  {
+    "docID": "N241 Pan",
+    "et": "SpragueDawleyRat",
+    "off": 15793,
+    "sff": "rats"
+  },
+  {
+    "docID": "N241 Pan",
+    "et": "SpragueDawleyRat",
+    "off": 690,
+    "sff": "rats"
+  },
+  {
+    "docID": "N241 Pan",
+    "et": "SpragueDawleyRat",
+    "off": 17072,
+    "sff": "rats"
+  },
+  {
+    "docID": "N241 Pan",
+    "et": "WistarRat",
+    "off": 14955,
+    "sff": "rats"
+  },
+  {
+    "docID": "N241 Pan",
+    "et": "RatSpecies",
+    "off": 16995,
+    "sff": "rats"
+  },
+  {
+    "docID": "N241 Pan",
+    "et": "SpragueDawleyRat",
+    "off": 1068,
+    "sff": "rats"
+  },
+  {
+    "docID": "N241 Pan",
+    "et": "FischerRat",
+    "off": 11089,
+    "sff": "Fischer"
+  },
+  {
+    "docID": "N241 Pan",
+    "et": "WistarRat",
+    "off": 16995,
+    "sff": "rats"
+  },
+  {
+    "docID": "N241 Pan",
+    "et": "Weight",
+    "off": 10141,
+    "sff": "mean"
+  },
+  {
+    "docID": "N241 Pan",
+    "et": "SpragueDawleyRat",
+    "off": 11888,
+    "sff": "SD"
+  },
+  {
+    "docID": "N241 Pan",
+    "et": "SpragueDawleyRat",
+    "off": 15710,
+    "sff": "rats"
+  },
+  {
+    "docID": "N241 Pan",
+    "et": "RatSpecies",
+    "off": 17394,
+    "sff": "rats"
+  },
+  {
+    "docID": "N241 Pan",
+    "et": "WistarRat",
+    "off": 17394,
+    "sff": "rats"
+  },
+  {
+    "docID": "N241 Pan",
+    "et": "RatSpecies",
+    "off": 9451,
+    "sff": "rats"
+  },
+  {
+    "docID": "N241 Pan",
+    "et": "SpragueDawleyRat",
+    "off": 14674,
+    "sff": "rats"
+  },
+  {
+    "docID": "N241 Pan",
+    "et": "WistarRat",
+    "off": 15630,
+    "sff": "rats"
+  },
+  {
+    "docID": "N241 Pan",
+    "et": "SpragueDawleyRat",
+    "off": 847,
+    "sff": "rats"
+  },
+  {
+    "docID": "N241 Pan",
+    "et": "WistarRat",
+    "off": 15501,
+    "sff": "rats"
+  },
+  {
+    "docID": "N241 Pan",
+    "et": "Weight",
+    "off": 7480,
+    "sff": "kg"
+  },
+  {
+    "docID": "N241 Pan",
+    "et": "WistarRat",
+    "off": 14213,
+    "sff": "rats"
+  },
+  {
+    "docID": "N241 Pan",
+    "et": "WistarRat",
+    "off": 17537,
+    "sff": "rats"
+  },
+  {
+    "docID": "N241 Pan",
+    "et": "SpragueDawleyRat",
+    "off": 17537,
+    "sff": "rats"
+  },
+  {
+    "docID": "N241 Pan",
+    "et": "RatSpecies",
+    "off": 530,
+    "sff": "rats"
+  },
+  {
+    "docID": "N241 Pan",
+    "et": "WistarRat",
+    "off": 15896,
+    "sff": "rats"
+  },
+  {
+    "docID": "N241 Pan",
+    "et": "WistarRat",
+    "off": 14867,
+    "sff": "rats"
+  },
+  {
+    "docID": "N241 Pan",
+    "et": "SpragueDawleyRat",
+    "off": 10146,
+    "sff": "SD"
+  },
+  {
+    "docID": "N241 Pan",
+    "et": "SpragueDawleyRat",
+    "off": 16371,
+    "sff": "rats"
+  },
+  {
+    "docID": "N241 Pan",
+    "et": "SpragueDawleyRat",
+    "off": 17394,
+    "sff": "rats"
+  },
+  {
+    "docID": "N241 Pan",
+    "et": "SpragueDawleyRat",
+    "off": 1266,
+    "sff": "rats"
+  },
+  {
+    "docID": "N241 Pan",
+    "et": "SpragueDawleyRat",
+    "off": 6639,
+    "sff": "rats"
+  },
+  {
+    "docID": "N241 Pan",
+    "et": "SpragueDawleyRat",
+    "off": 14955,
+    "sff": "rats"
+  },
+  {
+    "docID": "N241 Pan",
+    "et": "SpragueDawleyRat",
+    "off": 9451,
+    "sff": "rats"
+  },
+  {
+    "docID": "N241 Pan",
+    "et": "WistarRat",
+    "off": 14627,
+    "sff": "rats"
+  },
+  {
+    "docID": "N241 Pan",
+    "et": "SpragueDawleyRat",
+    "off": 16995,
+    "sff": "rats"
+  }
+]

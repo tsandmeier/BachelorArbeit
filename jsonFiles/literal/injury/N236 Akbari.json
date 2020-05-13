@@ -1,0 +1,68 @@
+[
+  {
+    "docID": "N236 Akbari",
+    "et": "T10",
+    "off": 5931,
+    "sff": "T10"
+  },
+  {
+    "docID": "N236 Akbari",
+    "et": "Contusion",
+    "off": 477,
+    "sff": "SCI"
+  },
+  {
+    "docID": "N236 Akbari",
+    "et": "Contusion",
+    "off": 5961,
+    "sff": "contusion"
+  },
+  {
+    "docID": "N236 Akbari",
+    "et": "Contusion",
+    "off": 5678,
+    "sff": "cord"
+  },
+  {
+    "docID": "N236 Akbari",
+    "et": "NYUImpactor",
+    "off": 6037,
+    "sff": "NYU impactor"
+  },
+  {
+    "docID": "N236 Akbari",
+    "et": "Contusion",
+    "off": 5961,
+    "sff": "contusion injury"
+  },
+  {
+    "docID": "N236 Akbari",
+    "et": "Contusion",
+    "off": 740,
+    "sff": "SCI"
+  },
+  {
+    "docID": "N236 Akbari",
+    "et": "DorsalHemisection",
+    "off": 5885,
+    "sff": "dorsal"
+  },
+  {
+    "docID": "N236 Akbari",
+    "et": "Xylazine",
+    "off": 5802,
+    "sff": "xylazine"
+  },
+  {
+    "docID": "N236 Akbari",
+    "et": "KetamineAsAnaesthetic",
+    "off": 5781,
+    "sff": "ketamine"
+  },
+  {
+    "docID": "N236 Akbari",
+    "et": "Contusion",
+    "off": 18452,
+    "sff": "contusion"
+  }
+]

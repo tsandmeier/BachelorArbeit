@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "Saline",
+    "off": 6242,
+    "sff": "saline"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "Saline",
+    "off": 6034,
+    "sff": "saline"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "InjectionDelivery",
+    "off": 5526,
+    "sff": "injected"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "Rostral",
+    "off": 17833,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "DosageExtracorporal",
+    "off": 5486,
+    "sff": "rat"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "Direction",
+    "off": 5544,
+    "sff": "dorsal"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "Conduit",
+    "off": 8711,
+    "sff": "channels"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "Caudal",
+    "off": 5692,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 515,
+    "sff": "OECs"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "Rostral",
+    "off": 5666,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "DosageExtracorporal",
+    "off": 8253,
+    "sff": "10"
+  },
+  {
+    "docID": "N201 Sasaki 2006",
+    "et": "DosageExtracorporal",
+    "off": 7361,
+    "sff": "1"
+  }
+]

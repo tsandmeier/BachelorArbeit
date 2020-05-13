@@ -1,0 +1,80 @@
+[
+  {
+    "docID": "N045 Novotna 2011 21630006",
+    "et": "Compression",
+    "off": 7100,
+    "sff": "balloon-compression"
+  },
+  {
+    "docID": "N045 Novotna 2011 21630006",
+    "et": "ScoutenWireKnife",
+    "off": 8505,
+    "sff": "wire"
+  },
+  {
+    "docID": "N045 Novotna 2011 21630006",
+    "et": "Compression",
+    "off": 7121,
+    "sff": "technique"
+  },
+  {
+    "docID": "N045 Novotna 2011 21630006",
+    "et": "Halothane",
+    "off": 8098,
+    "sff": "halothane"
+  },
+  {
+    "docID": "N045 Novotna 2011 21630006",
+    "et": "Halothane",
+    "off": 7263,
+    "sff": "halothane"
+  },
+  {
+    "docID": "N045 Novotna 2011 21630006",
+    "et": "Balloon",
+    "off": 7597,
+    "sff": "balloon"
+  },
+  {
+    "docID": "N045 Novotna 2011 21630006",
+    "et": "AllenWeightDropDevice",
+    "off": 7121,
+    "sff": "technique"
+  },
+  {
+    "docID": "N045 Novotna 2011 21630006",
+    "et": "Balloon",
+    "off": 7443,
+    "sff": "balloon"
+  },
+  {
+    "docID": "N045 Novotna 2011 21630006",
+    "et": "Compression",
+    "off": 1248,
+    "sff": "compression"
+  },
+  {
+    "docID": "N045 Novotna 2011 21630006",
+    "et": "Compression",
+    "off": 7629,
+    "sff": "lesion"
+  },
+  {
+    "docID": "N045 Novotna 2011 21630006",
+    "et": "Contusion",
+    "off": 1472,
+    "sff": "SCI"
+  },
+  {
+    "docID": "N045 Novotna 2011 21630006",
+    "et": "Halothane",
+    "off": 8974,
+    "sff": "halothane"
+  },
+  {
+    "docID": "N045 Novotna 2011 21630006",
+    "et": "T9",
+    "off": 7370,
+    "sff": "9"
+  }
+]

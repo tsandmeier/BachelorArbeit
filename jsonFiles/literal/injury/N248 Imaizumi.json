@@ -1,0 +1,80 @@
+[
+  {
+    "docID": "N248 Imaizumi",
+    "et": "KetamineAsAnaesthetic",
+    "off": 25244,
+    "sff": "ketamine"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "Scissors",
+    "off": 25511,
+    "sff": "Vannas-Tubbinegin spring scissors"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "LateralHemisection",
+    "off": 25343,
+    "sff": "column"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "DorsalHemisection",
+    "off": 25331,
+    "sff": "cord"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "Laminectomy",
+    "off": 25396,
+    "sff": "laminectomy"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "T11",
+    "off": 25381,
+    "sff": "T11"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "Xylazine",
+    "off": 25253,
+    "sff": "xylazine"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "InjuryDevice",
+    "off": 25331,
+    "sff": "cord"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "DorsalHemisection",
+    "off": 25324,
+    "sff": "spinal"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "VertebralArea",
+    "off": 25425,
+    "sff": "T11"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "DorsalHemisection",
+    "off": 25433,
+    "sff": "dorsal"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "DorsalHemisection",
+    "off": 25336,
+    "sff": "dorsal"
+  },
+  {
+    "docID": "N248 Imaizumi",
+    "et": "DorsalHemisection",
+    "off": 25324,
+    "sff": "spinal cord dorsal column transection"
+  }
+]

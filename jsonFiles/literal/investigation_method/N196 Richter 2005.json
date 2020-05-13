@@ -1,0 +1,212 @@
+[
+  {
+    "docID": "N196 Richter 2005",
+    "et": "AxonalChangesTest",
+    "off": 39049,
+    "sff": "axons"
+  },
+  {
+    "docID": "N196 Richter 2005",
+    "et": "AngiogenesisTest",
+    "off": 23991,
+    "sff": "number of blood vessels"
+  },
+  {
+    "docID": "N196 Richter 2005",
+    "et": "AngiogenesisTest",
+    "off": 40270,
+    "sff": "numbers of blood vessels"
+  },
+  {
+    "docID": "N196 Richter 2005",
+    "et": "AxonalChangesTest",
+    "off": 22577,
+    "sff": "NF-positive"
+  },
+  {
+    "docID": "N196 Richter 2005",
+    "et": "AxonalChangesTest",
+    "off": 41105,
+    "sff": "axons"
+  },
+  {
+    "docID": "N196 Richter 2005",
+    "et": "AxonalChangesTest",
+    "off": 44613,
+    "sff": "subP-positive axons"
+  },
+  {
+    "docID": "N196 Richter 2005",
+    "et": "CystVolumeTest",
+    "off": 31148,
+    "sff": "percentage of the lesion site occupied by cavity"
+  },
+  {
+    "docID": "N196 Richter 2005",
+    "et": "AxonalChangesTest",
+    "off": 44868,
+    "sff": "subP-positive axons"
+  },
+  {
+    "docID": "N196 Richter 2005",
+    "et": "AxonalChangesTest",
+    "off": 36879,
+    "sff": "axons"
+  },
+  {
+    "docID": "N196 Richter 2005",
+    "et": "AstrogliosisTest",
+    "off": 31614,
+    "sff": "astrogliosis"
+  },
+  {
+    "docID": "N196 Richter 2005",
+    "et": "AxonalChangesTest",
+    "off": 44247,
+    "sff": "observed"
+  },
+  {
+    "docID": "N196 Richter 2005",
+    "et": "CystVolumeTest",
+    "off": 30279,
+    "sff": "percentage of the lesion site occupied by cavity"
+  },
+  {
+    "docID": "N196 Richter 2005",
+    "et": "AxonalChangesTest",
+    "off": 38007,
+    "sff": "axons"
+  },
+  {
+    "docID": "N196 Richter 2005",
+    "et": "AxonalChangesTest",
+    "off": 31744,
+    "sff": "axonal"
+  },
+  {
+    "docID": "N196 Richter 2005",
+    "et": "AstrogliosisTest",
+    "off": 32134,
+    "sff": "astrogliosis"
+  },
+  {
+    "docID": "N196 Richter 2005",
+    "et": "AxonalChangesTest",
+    "off": 22451,
+    "sff": "NF-positive"
+  },
+  {
+    "docID": "N196 Richter 2005",
+    "et": "AstrogliosisTest",
+    "off": 32781,
+    "sff": "astrogliosis"
+  },
+  {
+    "docID": "N196 Richter 2005",
+    "et": "AxonalChangesTest",
+    "off": 24785,
+    "sff": "subP-positive axons"
+  },
+  {
+    "docID": "N196 Richter 2005",
+    "et": "AxonalSproutingTest",
+    "off": 45688,
+    "sff": "CGRPpositive sprouting"
+  },
+  {
+    "docID": "N196 Richter 2005",
+    "et": "AxonalChangesTest",
+    "off": 22286,
+    "sff": "NF-positive"
+  },
+  {
+    "docID": "N196 Richter 2005",
+    "et": "AngiogenesisTest",
+    "off": 40087,
+    "sff": "number of blood vessels"
+  },
+  {
+    "docID": "N196 Richter 2005",
+    "et": "TissueSparingTest",
+    "off": 34789,
+    "sff": "parenchyma"
+  },
+  {
+    "docID": "N196 Richter 2005",
+    "et": "AxonalChangesTest",
+    "off": 35738,
+    "sff": "axonal"
+  },
+  {
+    "docID": "N196 Richter 2005",
+    "et": "AxonalChangesTest",
+    "off": 36141,
+    "sff": "axons"
+  },
+  {
+    "docID": "N196 Richter 2005",
+    "et": "AxonalChangesTest",
+    "off": 36783,
+    "sff": "axons"
+  },
+  {
+    "docID": "N196 Richter 2005",
+    "et": "AxonalChangesTest",
+    "off": 44902,
+    "sff": "CGRP-positive"
+  },
+  {
+    "docID": "N196 Richter 2005",
+    "et": "AstrogliosisTest",
+    "off": 32622,
+    "sff": "reactive astrogliosis"
+  },
+  {
+    "docID": "N196 Richter 2005",
+    "et": "AxonalChangesTest",
+    "off": 44213,
+    "sff": "axonal outgrowth of subtypes"
+  },
+  {
+    "docID": "N196 Richter 2005",
+    "et": "AxonalChangesTest",
+    "off": 44083,
+    "sff": "subP-positive axons"
+  },
+  {
+    "docID": "N196 Richter 2005",
+    "et": "AxonalChangesTest",
+    "off": 46408,
+    "sff": "THpositive axons"
+  },
+  {
+    "docID": "N196 Richter 2005",
+    "et": "AxonalChangesTest",
+    "off": 46554,
+    "sff": "TH-positive axons"
+  },
+  {
+    "docID": "N196 Richter 2005",
+    "et": "AxonalChangesTest",
+    "off": 22932,
+    "sff": "NF-positive"
+  },
+  {
+    "docID": "N196 Richter 2005",
+    "et": "AxonalChangesTest",
+    "off": 38627,
+    "sff": "axons"
+  },
+  {
+    "docID": "N196 Richter 2005",
+    "et": "AxonalChangesTest",
+    "off": 37090,
+    "sff": "axons"
+  },
+  {
+    "docID": "N196 Richter 2005",
+    "et": "AxonalChangesTest",
+    "off": 37757,
+    "sff": "growth"
+  }
+]

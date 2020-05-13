@@ -1,0 +1,68 @@
+[
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "VertebralArea",
+    "off": 17896,
+    "sff": "levels"
+  },
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "Contusion",
+    "off": 556,
+    "sff": "contused"
+  },
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "PhotochemicalInjury",
+    "off": 7611,
+    "sff": "cord"
+  },
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "NYUImpactor",
+    "off": 7536,
+    "sff": "NYU II impactor"
+  },
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "T11",
+    "off": 9325,
+    "sff": "T11"
+  },
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "VertebralArea",
+    "off": 7484,
+    "sff": "levels"
+  },
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "SodiumPentobarbital",
+    "off": 7405,
+    "sff": "pentobarbital"
+  },
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "Blade",
+    "off": 7193,
+    "sff": "surgical"
+  },
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "T9",
+    "off": 9318,
+    "sff": "T9"
+  },
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "Contusion",
+    "off": 1495,
+    "sff": "contused"
+  },
+  {
+    "docID": "N233 Zhang 2015",
+    "et": "T10",
+    "off": 7491,
+    "sff": "T10"
+  }
+]

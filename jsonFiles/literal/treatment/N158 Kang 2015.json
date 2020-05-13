@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N158 Kang 2015",
+    "et": "InjectionDelivery",
+    "off": 9062,
+    "sff": "injected"
+  },
+  {
+    "docID": "N158 Kang 2015",
+    "et": "Rostral",
+    "off": 19107,
+    "sff": "cranial"
+  },
+  {
+    "docID": "N158 Kang 2015",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 2084,
+    "sff": "OECs"
+  },
+  {
+    "docID": "N158 Kang 2015",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 453,
+    "sff": "OECs"
+  },
+  {
+    "docID": "N158 Kang 2015",
+    "et": "Saline",
+    "off": 4544,
+    "sff": "saline"
+  },
+  {
+    "docID": "N158 Kang 2015",
+    "et": "InjectionDelivery",
+    "off": 12090,
+    "sff": "injected"
+  },
+  {
+    "docID": "N158 Kang 2015",
+    "et": "Saline",
+    "off": 8069,
+    "sff": "saline"
+  },
+  {
+    "docID": "N158 Kang 2015",
+    "et": "InjectionDelivery",
+    "off": 11773,
+    "sff": "injected"
+  },
+  {
+    "docID": "N158 Kang 2015",
+    "et": "Vehicle",
+    "off": 6380,
+    "sff": "solution"
+  },
+  {
+    "docID": "N158 Kang 2015",
+    "et": "Saline",
+    "off": 11743,
+    "sff": "saline"
+  },
+  {
+    "docID": "N158 Kang 2015",
+    "et": "Saline",
+    "off": 9231,
+    "sff": "saline"
+  },
+  {
+    "docID": "N158 Kang 2015",
+    "et": "Saline",
+    "off": 702,
+    "sff": "saline"
+  }
+]

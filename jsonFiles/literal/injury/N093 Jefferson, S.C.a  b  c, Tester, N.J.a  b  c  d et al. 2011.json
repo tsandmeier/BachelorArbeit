@@ -1,0 +1,80 @@
+[
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "Scissors",
+    "off": 7124,
+    "sff": "iridectomy scissors"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "VertebralArea",
+    "off": 11782,
+    "sff": "5th"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "VertebralArea",
+    "off": 13561,
+    "sff": "level"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "Anaesthetic",
+    "off": 6731,
+    "sff": "atropine sulfate"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "T10",
+    "off": 7114,
+    "sff": "T10"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "VertebralArea",
+    "off": 28206,
+    "sff": "first"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "Anaesthetic",
+    "off": 6780,
+    "sff": "acetylpromazine"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "Anaesthetic",
+    "off": 6740,
+    "sff": "sulfate"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "Isoflurane",
+    "off": 6860,
+    "sff": "isoflurane"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "Anaesthetic",
+    "off": 6731,
+    "sff": "atropine"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "T9",
+    "off": 6357,
+    "sff": "T9"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "T10",
+    "off": 1050,
+    "sff": "T10"
+  },
+  {
+    "docID": "N093 Jefferson, S.C.a  b  c, Tester, N.J.a  b  c  d et al. 2011",
+    "et": "LateralHemisection",
+    "off": 7069,
+    "sff": "lateral hemisection"
+  }
+]

@@ -1,0 +1,188 @@
+[
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "AstrogliosisTest",
+    "off": 43960,
+    "sff": "differences"
+  },
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "AxonalChangesTest",
+    "off": 41966,
+    "sff": "axons"
+  },
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "AstrogliosisTest",
+    "off": 37854,
+    "sff": "GFAP immunofluorescence"
+  },
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "TissueSparingTest",
+    "off": 32982,
+    "sff": "amount of intact tissue remaining"
+  },
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "AstrogliosisTest",
+    "off": 37859,
+    "sff": "immunofluorescence"
+  },
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "AstrogliosisTest",
+    "off": 38045,
+    "sff": "GFAP immunofluorescence"
+  },
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "TissueSparingTest",
+    "off": 32370,
+    "sff": "intact tissue remaining"
+  },
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "AstrogliosisTest",
+    "off": 37518,
+    "sff": "GFAP"
+  },
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "AxonalChangesTest",
+    "off": 44606,
+    "sff": "Fluorogold"
+  },
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "AxonalChangesTest",
+    "off": 45736,
+    "sff": "number of labeled propriospinal neurons"
+  },
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "AstrogliosisTest",
+    "off": 37748,
+    "sff": "GFAP immunofluorescence"
+  },
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "AstrogliosisTest",
+    "off": 37523,
+    "sff": "staining"
+  },
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "AxonalChangesTest",
+    "off": 45334,
+    "sff": "Propriospinal neurons"
+  },
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "AstrogliosisTest",
+    "off": 37854,
+    "sff": "GFAP"
+  },
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "TissueSparingTest",
+    "off": 35894,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "TissueSparingTest",
+    "off": 8,
+    "sff": "sparing"
+  },
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "AxonalChangesTest",
+    "off": 43857,
+    "sff": "Numbers of Fluorogold neurons"
+  },
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "AstrogliosisTest",
+    "off": 37954,
+    "sff": "GFAP immunofluorescence"
+  },
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "AstrogliosisTest",
+    "off": 37518,
+    "sff": "GFAP staining"
+  },
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "AxonalChangesTest",
+    "off": 44606,
+    "sff": "Fluorogold numbers"
+  },
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "AxonalChangesTest",
+    "off": 44024,
+    "sff": "Fluorogold"
+  },
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "AxonalChangesTest",
+    "off": 29707,
+    "sff": "Propriospinal neurons"
+  },
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "AxonalChangesTest",
+    "off": 44218,
+    "sff": "numbers of Fluorogold labeled neurons"
+  },
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "TissueSparingTest",
+    "off": 31157,
+    "sff": "tissue"
+  },
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "AxonalChangesTest",
+    "off": 44024,
+    "sff": "Fluorogold numbers"
+  },
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "AxonalChangesTest",
+    "off": 44401,
+    "sff": "Fluorogold"
+  },
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "AstrogliosisTest",
+    "off": 40567,
+    "sff": "immunofluorescence"
+  },
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "AstrogliosisTest",
+    "off": 37237,
+    "sff": "immunofluorescence"
+  },
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "AxonalChangesTest",
+    "off": 43112,
+    "sff": "Fluorogold"
+  },
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "TissueSparingTest",
+    "off": 24155,
+    "sff": "parenchyma"
+  },
+  {
+    "docID": "N130 Barbour 2013",
+    "et": "AstrogliosisTest",
+    "off": 40434,
+    "sff": "immunofluorescence"
+  }
+]

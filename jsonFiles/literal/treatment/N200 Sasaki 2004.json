@@ -1,0 +1,80 @@
+[
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 489,
+    "sff": "OECs"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Rostral",
+    "off": 17237,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Caudal",
+    "off": 12154,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Rostral",
+    "off": 17782,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Rostral",
+    "off": 13360,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Rostral",
+    "off": 12142,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Rostral",
+    "off": 9225,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Rostral",
+    "off": 26217,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Rostral",
+    "off": 17514,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Rostral",
+    "off": 26115,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Caudal",
+    "off": 17249,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "InjectionDelivery",
+    "off": 9126,
+    "sff": "injected"
+  },
+  {
+    "docID": "N200 Sasaki 2004",
+    "et": "Rostral",
+    "off": 25982,
+    "sff": "rostral"
+  }
+]

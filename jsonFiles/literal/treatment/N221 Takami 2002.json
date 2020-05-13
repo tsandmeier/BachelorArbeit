@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N221 Takami 2002",
+    "et": "InjectionDelivery",
+    "off": 24122,
+    "sff": "injected"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "Rostral",
+    "off": 34539,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 585,
+    "sff": "OEG"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "InjectionDelivery",
+    "off": 24294,
+    "sff": "injected"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "InjectionDelivery",
+    "off": 22359,
+    "sff": "injected"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "Rostral",
+    "off": 37119,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "Rostral",
+    "off": 14639,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "SchwannCell",
+    "off": 549,
+    "sff": "SCs"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "InjectionDelivery",
+    "off": 10947,
+    "sff": "injected"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "Vehicle",
+    "off": 10425,
+    "sff": "DMEM-F12 medium"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "InjectionDelivery",
+    "off": 23920,
+    "sff": "injected"
+  },
+  {
+    "docID": "N221 Takami 2002",
+    "et": "Rostral",
+    "off": 37001,
+    "sff": "rostral"
+  }
+]

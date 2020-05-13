@@ -1,0 +1,68 @@
+[
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "Direction",
+    "off": 431,
+    "sff": "dorsal"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "Direction",
+    "off": 1425,
+    "sff": "dorsal"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "DosageExtracorporal",
+    "off": 15668,
+    "sff": "10"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "DosageExtracorporal",
+    "off": 14596,
+    "sff": "10"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "Direction",
+    "off": 11748,
+    "sff": "distal"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 13036,
+    "sff": "OEC-conditioned medium"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 12994,
+    "sff": "OECs"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "Direction",
+    "off": 10915,
+    "sff": "proximal"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "DosageExtracorporal",
+    "off": 902,
+    "sff": "3"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "DosageExtracorporal",
+    "off": 13379,
+    "sff": "10"
+  },
+  {
+    "docID": "N159 Keyvan-Fouladi 2003",
+    "et": "InjectionDelivery",
+    "off": 848,
+    "sff": "injected"
+  }
+]

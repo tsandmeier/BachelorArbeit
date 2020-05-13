@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N207 Takeoka 2010",
+    "et": "InjectionDelivery",
+    "off": 7686,
+    "sff": "injected"
+  },
+  {
+    "docID": "N207 Takeoka 2010",
+    "et": "TreadmillTraining",
+    "off": 30655,
+    "sff": "step training"
+  },
+  {
+    "docID": "N207 Takeoka 2010",
+    "et": "TreadmillTraining",
+    "off": 28255,
+    "sff": "treadmill"
+  },
+  {
+    "docID": "N207 Takeoka 2010",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 492,
+    "sff": "OEG"
+  },
+  {
+    "docID": "N207 Takeoka 2010",
+    "et": "Rostral",
+    "off": 7700,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N207 Takeoka 2010",
+    "et": "RehabilitativeTraining",
+    "off": 7832,
+    "sff": "intensive manual hindlimb step training"
+  },
+  {
+    "docID": "N207 Takeoka 2010",
+    "et": "TreadmillTraining",
+    "off": 21670,
+    "sff": "step training"
+  },
+  {
+    "docID": "N207 Takeoka 2010",
+    "et": "DosageExtracorporal",
+    "off": 7669,
+    "sff": "400,000"
+  },
+  {
+    "docID": "N207 Takeoka 2010",
+    "et": "TreadmillTraining",
+    "off": 28265,
+    "sff": "step training"
+  },
+  {
+    "docID": "N207 Takeoka 2010",
+    "et": "Vehicle",
+    "off": 7647,
+    "sff": "Media"
+  },
+  {
+    "docID": "N207 Takeoka 2010",
+    "et": "TreadmillTraining",
+    "off": 29276,
+    "sff": "step training"
+  },
+  {
+    "docID": "N207 Takeoka 2010",
+    "et": "TreadmillTraining",
+    "off": 1941,
+    "sff": "treadmill"
+  }
+]

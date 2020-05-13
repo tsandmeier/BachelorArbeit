@@ -1,0 +1,194 @@
+[
+  {
+    "docID": "N136 Centenaro 2011",
+    "et": "AxonalRegenerationTest",
+    "off": 19218,
+    "sff": "fibers"
+  },
+  {
+    "docID": "N136 Centenaro 2011",
+    "et": "AxonalRegenerationTest",
+    "off": 17344,
+    "sff": "labeled neurons"
+  },
+  {
+    "docID": "N136 Centenaro 2011",
+    "et": "AxonalRegenerationTest",
+    "off": 11251,
+    "sff": "CGRP"
+  },
+  {
+    "docID": "N136 Centenaro 2011",
+    "et": "AxonalSproutingTest",
+    "off": 17258,
+    "sff": "primary"
+  },
+  {
+    "docID": "N136 Centenaro 2011",
+    "et": "AstrogliosisTest",
+    "off": 11284,
+    "sff": "astrocytic"
+  },
+  {
+    "docID": "N136 Centenaro 2011",
+    "et": "AxonalRegenerationTest",
+    "off": 19421,
+    "sff": "fibers"
+  },
+  {
+    "docID": "N136 Centenaro 2011",
+    "et": "AxonalRegenerationTest",
+    "off": 17147,
+    "sff": "labeled neurons"
+  },
+  {
+    "docID": "N136 Centenaro 2011",
+    "et": "AxonalSproutingTest",
+    "off": 8807,
+    "sff": "sprouting axons"
+  },
+  {
+    "docID": "N136 Centenaro 2011",
+    "et": "AxonalSproutingTest",
+    "off": 16360,
+    "sff": "sprouting axons"
+  },
+  {
+    "docID": "N136 Centenaro 2011",
+    "et": "HistologicalInvestigationTest",
+    "off": 11701,
+    "sff": "profiles"
+  },
+  {
+    "docID": "N136 Centenaro 2011",
+    "et": "AstrogliosisTest",
+    "off": 10437,
+    "sff": "astrocytic"
+  },
+  {
+    "docID": "N136 Centenaro 2011",
+    "et": "SomatosensoryEvokedPotentialsTest",
+    "off": 17266,
+    "sff": "somatosensory"
+  },
+  {
+    "docID": "N136 Centenaro 2011",
+    "et": "AxonalRegenerationTest",
+    "off": 11156,
+    "sff": "CGRP"
+  },
+  {
+    "docID": "N136 Centenaro 2011",
+    "et": "AxonalRegenerationTest",
+    "off": 11953,
+    "sff": "fibers"
+  },
+  {
+    "docID": "N136 Centenaro 2011",
+    "et": "AxonalRegenerationTest",
+    "off": 10836,
+    "sff": "CGRP"
+  },
+  {
+    "docID": "N136 Centenaro 2011",
+    "et": "AxonalRegenerationTest",
+    "off": 18163,
+    "sff": "fibers"
+  },
+  {
+    "docID": "N136 Centenaro 2011",
+    "et": "AxonalRegenerationTest",
+    "off": 8979,
+    "sff": "CGRP"
+  },
+  {
+    "docID": "N136 Centenaro 2011",
+    "et": "AxonalSproutingTest",
+    "off": 18982,
+    "sff": "ascending sensory fibers immunostained by CGRP"
+  },
+  {
+    "docID": "N136 Centenaro 2011",
+    "et": "AxonalRegenerationTest",
+    "off": 19213,
+    "sff": "CGRP"
+  },
+  {
+    "docID": "N136 Centenaro 2011",
+    "et": "TissueSparingTest",
+    "off": 8271,
+    "sff": "spared tissue"
+  },
+  {
+    "docID": "N136 Centenaro 2011",
+    "et": "AxonalRegenerationTest",
+    "off": 9148,
+    "sff": "fibers"
+  },
+  {
+    "docID": "N136 Centenaro 2011",
+    "et": "TissueSparingTest",
+    "off": 16264,
+    "sff": "spinal tissue sparing"
+  },
+  {
+    "docID": "N136 Centenaro 2011",
+    "et": "BBBTest",
+    "off": 6774,
+    "sff": "BBB scores"
+  },
+  {
+    "docID": "N136 Centenaro 2011",
+    "et": "AxonalRegenerationTest",
+    "off": 9376,
+    "sff": "CGRP"
+  },
+  {
+    "docID": "N136 Centenaro 2011",
+    "et": "AxonalRegenerationTest",
+    "off": 9381,
+    "sff": "fibers"
+  },
+  {
+    "docID": "N136 Centenaro 2011",
+    "et": "AxonalRegenerationTest",
+    "off": 18015,
+    "sff": "CGRP"
+  },
+  {
+    "docID": "N136 Centenaro 2011",
+    "et": "AxonalRegenerationTest",
+    "off": 19499,
+    "sff": "fibers"
+  },
+  {
+    "docID": "N136 Centenaro 2011",
+    "et": "AxonalRegenerationTest",
+    "off": 17300,
+    "sff": "brainstem"
+  },
+  {
+    "docID": "N136 Centenaro 2011",
+    "et": "AxonalRegenerationTest",
+    "off": 18029,
+    "sff": "fibers"
+  },
+  {
+    "docID": "N136 Centenaro 2011",
+    "et": "AxonalRegenerationTest",
+    "off": 19416,
+    "sff": "CGRP"
+  },
+  {
+    "docID": "N136 Centenaro 2011",
+    "et": "TissueSparingTest",
+    "off": 16005,
+    "sff": "spinal tissue sparing"
+  },
+  {
+    "docID": "N136 Centenaro 2011",
+    "et": "AxonalRegenerationTest",
+    "off": 17147,
+    "sff": "labeled"
+  }
+]

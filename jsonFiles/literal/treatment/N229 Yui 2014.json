@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N229 Yui 2014",
+    "et": "InjectionDelivery",
+    "off": 13290,
+    "sff": "injected"
+  },
+  {
+    "docID": "N229 Yui 2014",
+    "et": "Saline",
+    "off": 14679,
+    "sff": "saline"
+  },
+  {
+    "docID": "N229 Yui 2014",
+    "et": "Saline",
+    "off": 15955,
+    "sff": "saline"
+  },
+  {
+    "docID": "N229 Yui 2014",
+    "et": "DeliveryMethod",
+    "off": 7709,
+    "sff": "transferred"
+  },
+  {
+    "docID": "N229 Yui 2014",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 30,
+    "sff": "OECs"
+  },
+  {
+    "docID": "N229 Yui 2014",
+    "et": "DosageExtracorporal",
+    "off": 6860,
+    "sff": "1 ml"
+  },
+  {
+    "docID": "N229 Yui 2014",
+    "et": "Rostral",
+    "off": 21295,
+    "sff": "cranial"
+  },
+  {
+    "docID": "N229 Yui 2014",
+    "et": "DosageExtracorporal",
+    "off": 7463,
+    "sff": "1 × 106"
+  },
+  {
+    "docID": "N229 Yui 2014",
+    "et": "InjectionDelivery",
+    "off": 12738,
+    "sff": "injected"
+  },
+  {
+    "docID": "N229 Yui 2014",
+    "et": "Caudal",
+    "off": 13597,
+    "sff": "caudal"
+  },
+  {
+    "docID": "N229 Yui 2014",
+    "et": "Rostral",
+    "off": 13585,
+    "sff": "cranial"
+  },
+  {
+    "docID": "N229 Yui 2014",
+    "et": "DeliveryMethod",
+    "off": 7587,
+    "sff": "transferred"
+  }
+]

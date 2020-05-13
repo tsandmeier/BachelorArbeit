@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N246 Gu 2017",
+    "et": "Saline",
+    "off": 30187,
+    "sff": "saline"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "DosageExtracorporal",
+    "off": 33044,
+    "sff": "1"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "DosageExtracorporal",
+    "off": 33025,
+    "sff": "2 ml"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "InjectionDelivery",
+    "off": 32870,
+    "sff": "intraperitoneally"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "Rostral",
+    "off": 34993,
+    "sff": "rostral"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "InjectionDelivery",
+    "off": 33090,
+    "sff": "injected"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "InjectionDelivery",
+    "off": 32324,
+    "sff": "injected"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "DosageExtracorporal",
+    "off": 33002,
+    "sff": "2 ml"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "DosageExtracorporal",
+    "off": 33044,
+    "sff": "1 ml"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "OlfactoryEnsheathingGliaCell",
+    "off": 31386,
+    "sff": "OEC-M"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "InjectionDelivery",
+    "off": 32988,
+    "sff": "injected"
+  },
+  {
+    "docID": "N246 Gu 2017",
+    "et": "InjectionDelivery",
+    "off": 32861,
+    "sff": "injected"
+  }
+]

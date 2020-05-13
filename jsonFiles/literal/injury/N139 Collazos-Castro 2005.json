@@ -1,0 +1,74 @@
+[
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "AllenWeightDropDevice",
+    "off": 16368,
+    "sff": "weight-drop"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "SodiumPentobarbital",
+    "off": 8242,
+    "sff": "pentobarbital"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "WeightDrop",
+    "off": 16368,
+    "sff": "weight-drop"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "DorsalHemisection",
+    "off": 8449,
+    "sff": "were"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "AllenWeightDropDevice",
+    "off": 8358,
+    "sff": "weight-drop technique of Allen"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "Contusion",
+    "off": 8299,
+    "sff": "contusion"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "LateralHemisection",
+    "off": 11073,
+    "sff": "right side"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "Xylazine",
+    "off": 8271,
+    "sff": "xilazine"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "Blade",
+    "off": 8176,
+    "sff": "surgical"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "LateralHemisection",
+    "off": 8534,
+    "sff": "column"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "AllenWeightDropDevice",
+    "off": 16543,
+    "sff": "technique"
+  },
+  {
+    "docID": "N139 Collazos-Castro 2005",
+    "et": "MASCISImpactor",
+    "off": 16368,
+    "sff": "weight-drop"
+  }
+]
