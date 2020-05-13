@@ -59,7 +59,7 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
     private int mode;
     List<AbstractFeatureTemplate<?>> featureTemplates;
 
-    private final EEvaluationDetail evaluationDetail = EEvaluationDetail.LITERAL;
+    private final EEvaluationDetail evaluationDetail = EEvaluationDetail.DOCUMENT_LINKED;
 
     private double alpha;
 
@@ -427,7 +427,7 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
              * Save the model as binary. Do not override, in case a file already exists for
              * that name.
              */
-            model.save(false);
+            model.save(true);
 
             /**
              * Print the model in a readable format.
@@ -489,7 +489,7 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
 
         log.info("genutztes Modell: " + modelBaseDir.toString() + "/" + this.modelName);
 
-        writeToJson(results, "jsonFiles/literal/"+typeOfTopic+"/");
+//        writeToJson(results, "jsonFiles/literal/"+typeOfTopic+"/");
 
 
 //        log.info("******************TRAINIERT MIT LITERAL - GETESTET MIT DOCLINKED*****************************");

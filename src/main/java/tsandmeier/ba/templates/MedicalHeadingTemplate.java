@@ -86,8 +86,6 @@ public class MedicalHeadingTemplate extends AbstractFeatureTemplate<MedicalHeadi
 					}
 				}
 			}
-
-
 		}
 		return factors;
 	}
