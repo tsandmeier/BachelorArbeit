@@ -59,7 +59,7 @@ public class NerlaEvaluatorPartialOverlap extends AbstractEvaluator {
                     List<DocumentToken> predictedTokens = doa.relatedTokens;
 
                     for (DocumentToken goldToken : goldTokens) {
-                        if (predictedTokens.stream().anyMatch(p -> p.getText().equals(goldToken.getText()))) {
+                        if (predictedTokens.stream().anyMatch(p -> p.getText().toLowerCase().equals(goldToken.getText().toLowerCase()))) {
                             tp++;
                             continue outer;
                         }
@@ -87,7 +87,7 @@ public class NerlaEvaluatorPartialOverlap extends AbstractEvaluator {
                     List<DocumentToken> predictedTokens = doa.relatedTokens;
 
                     for (DocumentToken goldToken : goldTokens) {
-                        if (predictedTokens.stream().anyMatch(p -> p.getText().equals(goldToken.getText()))) {
+                        if (predictedTokens.stream().anyMatch(p -> p.getText().toLowerCase().equals(goldToken.getText().toLowerCase()))) {
                             hasTruePositive = true;
                         }
                     }
