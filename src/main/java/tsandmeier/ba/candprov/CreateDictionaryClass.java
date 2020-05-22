@@ -31,8 +31,11 @@ public class CreateDictionaryClass {
 
 
 //    Set<EntityType> weightSet = new HashSet<>(Collections.singletonList(EntityType.get("Weight")));
+
 //    Set<EntityType> dosageSet = new HashSet<>(Collections.singletonList(EntityType.get("Dosage")));
-//    Set<EntityType> dosageSet = new HashSet<>(Arrays.asList(EntityType.get("Dosage"), EntityType.get("DosageIntracorporal"),
+
+
+    //    Set<EntityType> dosageSet = new HashSet<>(Arrays.asList(EntityType.get("Dosage"), EntityType.get("DosageIntracorporal"),
 //        EntityType.get("DosageExtracorporal")));
 
 //    private Set<EntityType> distanceSet = new HashSet<>(Collections.singletonList(EntityType.get("Distance")));
@@ -74,10 +77,10 @@ public class CreateDictionaryClass {
                     reverseDictionary.get(token.getText()).add(annotation.asInstanceOfDocumentLinkedAnnotation().entityType);
                 }
 
-//                dictionary.putIfAbsent(EntityType.get("IntraperitonealLocation"), new HashSet<>());
-//                dictionary.get(EntityType.get("IntraperitonealLocation")).add("i.p.");
-//                reverseDictionary.putIfAbsent("i.p.", new HashSet<>());
-//                reverseDictionary.get("i.p.").add(EntityType.get("IntraperitonealLocation"));
+//                dictionary.putIfAbsent(EntityType.get("CatSpecies"), new HashSet<>());
+//                dictionary.get(EntityType.get("CatSpecies")).add("cats");
+//                reverseDictionary.putIfAbsent("cats", new HashSet<>());
+//                reverseDictionary.get("cats").add(EntityType.get("CatSpecies"));
 //
 //                dictionary.putIfAbsent(EntityType.get("InjectionDelivery"), new HashSet<>());
 //                dictionary.get(EntityType.get("InjectionDelivery")).add("i.p.");

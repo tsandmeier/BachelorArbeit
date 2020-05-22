@@ -65,36 +65,40 @@ public class NerlaEvaluatorPartialOverlap extends AbstractEvaluator {
                         }
                     }
                 }
+                fn++;
             }
 //
-            fp += otherAnnotations.size() - tp;
+//            fp += otherAnnotations.size() - tp;
+
+            fp = Math.max(otherAnnotations.size() - tp, 0);
+
 
 //            fn += annotations.size() - tp;
 
 
 //
-            outer:
-            for (AbstractAnnotation a : annotations) {
-
-                boolean hasTruePositive = false;
-
-                for (AbstractAnnotation oa : otherAnnotations) {
-
-                    DocumentLinkedAnnotation da = (DocumentLinkedAnnotation) a;
-                    List<DocumentToken> goldTokens = da.relatedTokens;
-
-                    DocumentLinkedAnnotation doa = (DocumentLinkedAnnotation) oa;
-                    List<DocumentToken> predictedTokens = doa.relatedTokens;
-
-                    for (DocumentToken goldToken : goldTokens) {
-                        if (predictedTokens.stream().anyMatch(p -> p.getText().toLowerCase().equals(goldToken.getText().toLowerCase()))) {
-                            hasTruePositive = true;
-                        }
-                    }
-                }
-                if(!hasTruePositive)
-                    fn++;
-            }
+//            outer:
+//            for (AbstractAnnotation a : annotations) {
+//
+//                boolean hasTruePositive = false;
+//
+//                for (AbstractAnnotation oa : otherAnnotations) {
+//
+//                    DocumentLinkedAnnotation da = (DocumentLinkedAnnotation) a;
+//                    List<DocumentToken> goldTokens = da.relatedTokens;
+//
+//                    DocumentLinkedAnnotation doa = (DocumentLinkedAnnotation) oa;
+//                    List<DocumentToken> predictedTokens = doa.relatedTokens;
+//
+//                    for (DocumentToken goldToken : goldTokens) {
+//                        if (predictedTokens.stream().anyMatch(p -> p.getText().toLowerCase().equals(goldToken.getText().toLowerCase()))) {
+//                            hasTruePositive = true;
+//                        }
+//                    }
+//                }
+//                if(!hasTruePositive)
+//                    fn++;
+//            }
 
 
 //            outer:
@@ -220,6 +224,36 @@ public class NerlaEvaluatorPartialOverlap extends AbstractEvaluator {
         if (scoretype == Score.EScoreType.MACRO)
             score.toMacro();
         return score;
+    }
+
+    @Override
+    protected boolean evalEqualsMax(Collection<? extends AbstractAnnotation> annotations,
+                                    Collection<? extends AbstractAnnotation> otherAnnotations) {
+
+        int tp = 0;
+
+        outer:
+        for (AbstractAnnotation oa : otherAnnotations) {
+            for (AbstractAnnotation a : annotations) {
+
+                DocumentLinkedAnnotation da = (DocumentLinkedAnnotation) a;
+                List<DocumentToken> goldTokens = da.relatedTokens;
+
+                DocumentLinkedAnnotation doa = (DocumentLinkedAnnotation) oa;
+                List<DocumentToken> predictedTokens = doa.relatedTokens;
+
+                for (DocumentToken goldToken : goldTokens) {
+                    if (predictedTokens.stream().anyMatch(p -> p.getText().toLowerCase().equals(goldToken.getText().toLowerCase()))) {
+                        tp++;
+                        continue outer;
+                    }
+                }
+            }
+            return false;
+        }
+
+        return Math.max(otherAnnotations.size() - tp, 0) == 0;
+
     }
 
 }

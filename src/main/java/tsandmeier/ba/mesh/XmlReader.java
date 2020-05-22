@@ -75,14 +75,14 @@ public class XmlReader {
                                 Element termNodeElem = (Element) termListNode.getChildNodes().item(k);
 
                                 String termName = termNodeElem.getElementsByTagName("String").item(0).getChildNodes().item(0).getNodeValue();
-                                termList.add(new MeshTerm(termName));
+                                termList.add(new MeshTerm(termName.toLowerCase()));
 
                             }
                         }
-                        conceptList.add(new MeshConcept(conceptName, termList));
+                        conceptList.add(new MeshConcept(conceptName.toLowerCase(), termList));
                     }
                 }
-                descriptorList.add(new MeshDescriptor(descriptorName, conceptList));
+                descriptorList.add(new MeshDescriptor(descriptorName.toLowerCase(), conceptList));
             }
         }
 

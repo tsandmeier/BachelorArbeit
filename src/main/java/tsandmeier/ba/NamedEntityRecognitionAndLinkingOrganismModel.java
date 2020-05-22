@@ -420,7 +420,7 @@ public class NamedEntityRecognitionAndLinkingOrganismModel extends AbstractSemRe
         featureTemplates.add(new HMTemplate(false));
         featureTemplates.add(new StartsWithCapitalTemplate());
         featureTemplates.add(new IdentityTemplate());
-        featureTemplates.add(new WMTemplate());
+//        featureTemplates.add(new WMTemplate());
         featureTemplates.add(new WordCountTemplate());
     }
 

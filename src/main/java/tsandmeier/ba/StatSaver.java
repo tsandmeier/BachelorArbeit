@@ -27,7 +27,7 @@ public class StatSaver {
             NumberMBTemplate.class.getSimpleName(), NumberWBTemplate.class.getSimpleName(), OverlappingTemplate.class.getSimpleName(), RootTypeTemplate.class.getSimpleName(),
             SimilarWordsTemplate.class.getSimpleName(),
             StartsWithCapitalTemplate.class.getSimpleName(), WBOTemplate.class.getSimpleName(), WBTemplate.class.getSimpleName(),
-            WMTemplate.class.getSimpleName(), WordCountTemplate.class.getSimpleName(), WordsInBetweenTemplate.class.getSimpleName());
+            WordCountTemplate.class.getSimpleName(), WordsInBetweenTemplate.class.getSimpleName());
 
     static String[] temps;
 
