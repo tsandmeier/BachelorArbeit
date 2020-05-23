@@ -20,10 +20,7 @@ import de.hterhors.semanticmr.crf.structure.IEvaluatable;
 import de.hterhors.semanticmr.crf.structure.annotations.AbstractAnnotation;
 import de.hterhors.semanticmr.crf.structure.annotations.DocumentLinkedAnnotation;
 import de.hterhors.semanticmr.crf.templates.AbstractFeatureTemplate;
-import de.hterhors.semanticmr.crf.variables.Annotations;
-import de.hterhors.semanticmr.crf.variables.IStateInitializer;
-import de.hterhors.semanticmr.crf.variables.Instance;
-import de.hterhors.semanticmr.crf.variables.State;
+import de.hterhors.semanticmr.crf.variables.*;
 import de.hterhors.semanticmr.eval.EEvaluationDetail;
 import de.hterhors.semanticmr.init.reader.csv.CSVDataStructureReader;
 import de.hterhors.semanticmr.init.specifications.SystemScope;
@@ -47,6 +44,8 @@ import tsandmeier.ba.templates.*;
 import javax.xml.parsers.ParserConfigurationException;
 import java.io.File;
 import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Paths;
 import java.util.*;
 import java.util.stream.Collectors;
 
@@ -110,6 +109,14 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
 
 
         InstanceProvider.maxNumberOfAnnotations = 1000;
+
+        Set<String> stopWords = new HashSet<>(Collections.emptySet());
+        try {
+            stopWords.addAll(Files.readAllLines(Paths.get("src/main/resources/stopWords.txt")));
+        } catch (IOException e) {
+            throw new RuntimeException(e.getMessage());
+        }
+        Document.setStopWords(stopWords);
 
 
         AbstractCorpusDistributor shuffleCorpusDistributor = new ShuffleCorpusDistributor.Builder()
@@ -210,10 +217,13 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
         crf = new SemanticParsingCRFCustomTwo(model, explorer, sampler, stateInitializer, objectiveFunction);
 
 
-
+        long timeBefore = System.currentTimeMillis();
         IEvaluatable.Score coverage = crf.computeCoverage(true, objectiveFunction, instanceProvider.getRedistributedTestInstances());
         System.out.println(coverage);
+        long timeAfter = System.currentTimeMillis();
+        System.out.println("Dauer: "+((timeAfter-timeBefore)/1000));
         System.exit(1);
+
 
 
 

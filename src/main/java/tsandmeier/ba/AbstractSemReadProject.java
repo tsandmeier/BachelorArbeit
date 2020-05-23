@@ -47,7 +47,6 @@ public class AbstractSemReadProject {
 
 		}
 		log.info("Mean Score: " + mean);
-//		System.out.println("Mean Score: " + mean);
 		return mean;
 	}
 }
