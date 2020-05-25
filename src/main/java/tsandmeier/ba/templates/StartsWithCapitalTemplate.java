@@ -20,6 +20,8 @@ public class StartsWithCapitalTemplate extends AbstractFeatureTemplate<StartsWit
 
     public StartsWithCapitalTemplate(boolean cache){super(cache);}
 
+    public StartsWithCapitalTemplate(){super();}
+
     static class StartsWithCapitalScope
             extends AbstractFactorScope {
 

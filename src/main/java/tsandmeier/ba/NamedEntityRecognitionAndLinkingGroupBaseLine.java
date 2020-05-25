@@ -331,7 +331,7 @@ public class NamedEntityRecognitionAndLinkingGroupBaseLine extends AbstractSemRe
     private void addSingleMentionTemplates(List<AbstractFeatureTemplate> featureTemplates) {
         featureTemplates.add(new BigramTemplate(false)); //nützlich
         featureTemplates.add(new HMTemplate(false));
-        featureTemplates.add(new StartsWithCapitalTemplate());
+        featureTemplates.add(new StartsWithCapitalTemplate(false));
         featureTemplates.add(new IdentityTemplate());
 //        featureTemplates.add(new WMTemplate());
         featureTemplates.add(new WordCountTemplate());

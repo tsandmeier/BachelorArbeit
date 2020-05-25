@@ -248,16 +248,16 @@ public class NamedEntityRecognitionAndLinkingGeneral extends AbstractSemReadProj
             case 1:
                 featureTemplates.add(new AMFLTemplate());
                 featureTemplates.add(new BMFLTemplate());
-                featureTemplates.add(new MentionsInSentenceTemplate_FAST());
-//                featureTemplates.add(new WBOTemplate());
-                featureTemplates.add(new WBTemplate_FAST());
-//                featureTemplates.add(new WMTemplate());
-                featureTemplates.add(new WordsInBetweenTemplate_FAST());
-//                featureTemplates.add(new BigramTemplate());
-//                featureTemplates.add(new HMTemplate());
-                featureTemplates.add(new NumberMBTemplate_FAST());
-                featureTemplates.add(new NumberWBTemplate_FAST());
-//                featureTemplates.add(new OverlappingTemplate());
+//                featureTemplates.add(new MentionsInSentenceTemplate_FAST());
+////                featureTemplates.add(new WBOTemplate());
+//                featureTemplates.add(new WBTemplate_FAST());
+////                featureTemplates.add(new WMTemplate());
+//                featureTemplates.add(new WordsInBetweenTemplate_FAST());
+////                featureTemplates.add(new BigramTemplate());
+////                featureTemplates.add(new HMTemplate());
+//                featureTemplates.add(new NumberMBTemplate_FAST());
+//                featureTemplates.add(new NumberWBTemplate_FAST());
+////                featureTemplates.add(new OverlappingTemplate());
                 featureTemplates.add(new PosInDocTemplateDrittel());
                 featureTemplates.add(new PosInSentenceTemplateDrittel());
                 break;
@@ -272,8 +272,8 @@ public class NamedEntityRecognitionAndLinkingGeneral extends AbstractSemReadProj
                 featureTemplates.add(new WordsInBetweenGroupNamesTemplate_FAST());
 //                featureTemplates.add(new BigramTemplate());
 //                featureTemplates.add(new HMTemplate());
-                featureTemplates.add(new NumberMBTemplate_FAST());
-                featureTemplates.add(new NumberWBTemplate_FAST());
+//                featureTemplates.add(new NumberMBTemplate_FAST());
+//                featureTemplates.add(new NumberWBTemplate_FAST());
 //                featureTemplates.add(new OverlappingTemplate());
                 featureTemplates.add(new PosInDocTemplateDrittel());
                 featureTemplates.add(new PosInSentenceTemplateDrittel());
