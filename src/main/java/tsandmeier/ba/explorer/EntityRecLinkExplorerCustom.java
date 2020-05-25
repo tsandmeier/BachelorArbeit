@@ -118,25 +118,25 @@ public class EntityRecLinkExplorerCustom implements IExplorationStrategy {
                 fillWindowSizeEntities(currentState);   //specified max windowSize for each entity
 
                 EntityType specificEntity = getSpecificEntity(toToken, text);
-//                if (specificEntity != null && specificEntity.equals(EntityType.get("Weight"))) { //extra rules for some cases. if a token fits the rule, it's only annotated with one entity
-//                    try {
-//                        AbstractAnnotation newCurrentPrediction = AnnotationBuilder.toAnnotation(
-//                                currentState.getInstance().getDocument(), specificEntity, text,
-//                                fromToken.getDocCharOffset());
-//                        proposalStates.add(currentState.deepAddCopy(newCurrentPrediction));
-//                    } catch (RuntimeException e) {
-//                        e.printStackTrace();
-//                    }
-//                } else {
-//                    Set<EntityType> entityTypeCandidates = currentState.getInstance().getEntityTypeCandidates(text);
-//
-//                    if (specificEntity == null || !specificEntity.equals(EntityType.get("Age"))) {
-//                        entityTypeCandidates.remove(EntityType.get("Age"));
-//                    }
+                if (specificEntity != null && specificEntity.equals(EntityType.get("Weight"))) { //extra rules for some cases. if a token fits the rule, it's only annotated with one entity
+                    try {
+                        AbstractAnnotation newCurrentPrediction = AnnotationBuilder.toAnnotation(
+                                currentState.getInstance().getDocument(), specificEntity, text,
+                                fromToken.getDocCharOffset());
+                        proposalStates.add(currentState.deepAddCopy(newCurrentPrediction));
+                    } catch (RuntimeException e) {
+                        e.printStackTrace();
+                    }
+                } else {
+                    Set<EntityType> entityTypeCandidates = currentState.getInstance().getEntityTypeCandidates(text);
 
-//                    for (EntityType entityType : entityTypeCandidates) {
-                for(EntityType entityType : currentState.getInstance().getEntityTypeCandidates(text)){
-//                        if (windowSizeEntities.get(entityType) >= windowSize) {
+                    if (specificEntity == null || !specificEntity.equals(EntityType.get("Age"))) {
+                        entityTypeCandidates.remove(EntityType.get("Age"));
+                    }
+
+                    for (EntityType entityType : entityTypeCandidates) {
+//                for(EntityType entityType : currentState.getInstance().getEntityTypeCandidates(text)){
+                        if (windowSizeEntities.get(entityType) >= windowSize) {
                             try {
                                 AbstractAnnotation newCurrentPrediction = AnnotationBuilder.toAnnotation(
                                         currentState.getInstance().getDocument(), entityType, text,
@@ -145,9 +145,9 @@ public class EntityRecLinkExplorerCustom implements IExplorationStrategy {
                             } catch (RuntimeException e) {
                                 e.printStackTrace();
                             }
-//                        }
+                        }
                     }
-//                }
+                }
 
 
             }
