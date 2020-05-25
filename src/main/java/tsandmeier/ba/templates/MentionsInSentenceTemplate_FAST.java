@@ -21,6 +21,10 @@ public class MentionsInSentenceTemplate_FAST extends AbstractFeatureTemplate<Men
 
     String punctuations = ".:!?";
 
+    public MentionsInSentenceTemplate_FAST(boolean cache){
+    	super(cache);
+	}
+
 	static class MentionsInSentenceScope
 			extends AbstractFactorScope {
 

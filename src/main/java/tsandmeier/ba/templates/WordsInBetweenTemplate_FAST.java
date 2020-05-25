@@ -22,6 +22,8 @@ public class WordsInBetweenTemplate_FAST extends AbstractFeatureTemplate<WordsIn
 
     private static final int MAX_NUMBER_OF_WORDS = 6;  //6 words seems to be the most successful
 
+    public WordsInBetweenTemplate_FAST(boolean cache){super(cache);}
+
     static class AreWordsInBetweenScope
             extends AbstractFactorScope {
 
@@ -33,6 +35,7 @@ public class WordsInBetweenTemplate_FAST extends AbstractFeatureTemplate<WordsIn
         public EntityType typeTwo;
 
         String subtext;
+
 
         public AreWordsInBetweenScope(
                 AbstractFeatureTemplate<AreWordsInBetweenScope> template,

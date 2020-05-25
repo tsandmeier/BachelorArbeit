@@ -18,6 +18,8 @@ import java.util.Objects;
  */
 public class NumberWBTemplate_FAST extends AbstractFeatureTemplate<NumberWBTemplate_FAST.NumberWBScope> {
 
+	public NumberWBTemplate_FAST(boolean cache){super(cache);}
+
 	static class NumberWBScope
 			extends AbstractFactorScope {
 

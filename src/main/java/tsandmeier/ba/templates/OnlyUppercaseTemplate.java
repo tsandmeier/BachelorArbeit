@@ -20,6 +20,7 @@ import java.util.stream.Stream;
  */
 public class OnlyUppercaseTemplate extends AbstractFeatureTemplate<OnlyUppercaseTemplate.StartsWithCapitalScope> {
 
+    public OnlyUppercaseTemplate(boolean cache){super(cache);}
 
     static class StartsWithCapitalScope
             extends AbstractFactorScope {

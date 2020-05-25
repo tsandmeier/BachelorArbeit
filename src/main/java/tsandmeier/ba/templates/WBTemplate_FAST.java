@@ -22,6 +22,8 @@ public class WBTemplate_FAST extends AbstractFeatureTemplate<WBTemplate_FAST.WBS
     private static boolean WBFACTIVE = true;
     private static boolean WBLACTIVE = true;
 
+    public WBTemplate_FAST(boolean cache){super(cache);}
+
     static class WBScope
             extends AbstractFactorScope {
 

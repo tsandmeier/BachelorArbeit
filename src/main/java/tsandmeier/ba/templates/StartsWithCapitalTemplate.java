@@ -18,6 +18,7 @@ import java.util.Objects;
  */
 public class StartsWithCapitalTemplate extends AbstractFeatureTemplate<StartsWithCapitalTemplate.StartsWithCapitalScope> {
 
+    public StartsWithCapitalTemplate(boolean cache){super(cache);}
 
     static class StartsWithCapitalScope
             extends AbstractFactorScope {

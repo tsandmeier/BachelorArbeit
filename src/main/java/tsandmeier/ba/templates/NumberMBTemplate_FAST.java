@@ -16,6 +16,7 @@ import java.util.Objects;
  */
 public class NumberMBTemplate_FAST extends AbstractFeatureTemplate<NumberMBTemplate_FAST.NumberMBScope> {
 
+    public NumberMBTemplate_FAST(boolean cache){super(cache);}
 
     static class NumberMBScope
             extends AbstractFactorScope {

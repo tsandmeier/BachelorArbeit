@@ -18,6 +18,7 @@ import java.util.Objects;
  */
 public class ContainsDigitTemplate extends AbstractFeatureTemplate<ContainsDigitTemplate.StartsWithCapitalScope> {
 
+    public ContainsDigitTemplate(boolean cache){super(cache);}
 
     static class StartsWithCapitalScope
             extends AbstractFactorScope {

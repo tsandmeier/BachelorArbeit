@@ -126,11 +126,11 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
         InstanceProvider instanceProvider = new InstanceProvider(instanceDirectory, shuffleCorpusDistributor);
 
 
-//        CreateDictionaryClass dictionaryClass = new CreateDictionaryClass(instanceProvider.getInstances());
+        CreateDictionaryClass dictionaryClass = new CreateDictionaryClass(instanceProvider.getInstances());
 
         for (Instance instance : instanceProvider.getInstances()) {
-//            instance.addCandidates(dictionaryClass.getDictionary());
-            instance.addCandidates(EntityType.get("OrganismModel").getRelatedEntityTypes());
+            instance.addCandidates(dictionaryClass.getDictionary());
+//            instance.addCandidates(EntityType.get("OrganismModel").getRelatedEntityTypes());
         }
 
         EntityRecLinkExplorerCustom explorer = new EntityRecLinkExplorerCustom();
@@ -147,21 +147,21 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
 
         switch (mode) {
             case 1:
-                featureTemplates.add(new AMFLTemplate());
-                featureTemplates.add(new BMFLTemplate());
-                featureTemplates.add(new MentionsInSentenceTemplate_FAST());
-                featureTemplates.add(new WBTemplate_FAST());
-                featureTemplates.add(new WordsInBetweenTemplate_FAST());
-                featureTemplates.add(new BigramTemplate());
+                featureTemplates.add(new AMFLTemplate(true));
+                featureTemplates.add(new BMFLTemplate(true));
+                featureTemplates.add(new MentionsInSentenceTemplate_FAST(true));
+                featureTemplates.add(new WBTemplate_FAST(true));
+                featureTemplates.add(new WordsInBetweenTemplate_FAST(true));
+                featureTemplates.add(new BigramTemplate(true));
                 featureTemplates.add(new BagOfWordsTemplate(true));
-                featureTemplates.add(new NumberMBTemplate_FAST());
-                featureTemplates.add(new NumberWBTemplate_FAST());
-                featureTemplates.add(new PosInDocTemplateZehntel());
-                featureTemplates.add(new PosInSentenceTemplateZehntel());
+                featureTemplates.add(new NumberMBTemplate_FAST(true));
+                featureTemplates.add(new NumberWBTemplate_FAST(true));
+                featureTemplates.add(new PosInDocTemplateZehntel(true));
+                featureTemplates.add(new PosInSentenceTemplateZehntel(true));
 
-                featureTemplates.add(new StartsWithCapitalTemplate());
-                featureTemplates.add(new OnlyUppercaseTemplate());
-                featureTemplates.add(new ContainsDigitTemplate());
+                featureTemplates.add(new StartsWithCapitalTemplate(true));
+                featureTemplates.add(new OnlyUppercaseTemplate(true));
+                featureTemplates.add(new ContainsDigitTemplate(true));
 
 //                featureTemplates.add(new MedicalHeadingTemplate(new XmlReader("mesh/mesh_short.xml").getDescriptorList(),true));
                 break;
@@ -172,8 +172,8 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
                 featureTemplates.add(new WBFGroupNamesTemplate_FAST());
                 featureTemplates.add(new WBLGroupNamesTemplate_FAST());
                 featureTemplates.add(new WordsInBetweenGroupNamesTemplate_FAST());
-                featureTemplates.add(new NumberMBTemplate_FAST());
-                featureTemplates.add(new NumberWBTemplate_FAST());
+                featureTemplates.add(new NumberMBTemplate_FAST(true));
+                featureTemplates.add(new NumberWBTemplate_FAST(true));
                 featureTemplates.add(new PosInDocTemplateDrittel());
                 featureTemplates.add(new PosInSentenceTemplateDrittel());
                 break;
@@ -217,12 +217,12 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
         crf = new SemanticParsingCRFCustomTwo(model, explorer, sampler, stateInitializer, objectiveFunction);
 
 
-        long timeBefore = System.currentTimeMillis();
-        IEvaluatable.Score coverage = crf.computeCoverage(true, objectiveFunction, instanceProvider.getRedistributedTestInstances());
-        System.out.println(coverage);
-        long timeAfter = System.currentTimeMillis();
-        System.out.println("Dauer: "+((timeAfter-timeBefore)/1000));
-        System.exit(1);
+//        long timeBefore = System.currentTimeMillis();
+//        IEvaluatable.Score coverage = crf.computeCoverage(true, objectiveFunction, instanceProvider.getRedistributedTestInstances());
+//        System.out.println(coverage);
+//        long timeAfter = System.currentTimeMillis();
+//        System.out.println("Dauer: "+((timeAfter-timeBefore)/1000));
+//        System.exit(1);
 
 
 
