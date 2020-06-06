@@ -8,6 +8,7 @@ import de.hterhors.semanticmr.crf.structure.annotations.AbstractAnnotation;
 import de.hterhors.semanticmr.crf.structure.annotations.AnnotationBuilder;
 import de.hterhors.semanticmr.crf.variables.DocumentToken;
 import de.hterhors.semanticmr.crf.variables.State;
+import de.hterhors.semanticmr.tools.specifications.AutomatedSectionifcation;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import tsandmeier.ba.tools.AutomatedSectionification;
@@ -18,7 +19,7 @@ import java.util.List;
 import java.util.Set;
 import java.util.regex.Pattern;
 
-public class EntityRecLinkExplorerCustom implements IExplorationStrategy {
+public class EntityRecLinkExplorerCustom implements IExplorationStrategyCustom {
     private static Logger log = LogManager.getFormatterLogger(EntityRecLinkExplorer.class);
 
     final private HardConstraintsProvider hardConstraintsProvider;
@@ -40,6 +41,8 @@ public class EntityRecLinkExplorerCustom implements IExplorationStrategy {
     public int MAX_WINDOW_SIZE = 5;
     public int MIN_WINDOW_SIZE = 1;
 
+    private int sentenceIndex;
+
     public HashMap<EntityType, Integer> windowSizeEntities = new HashMap<>();
 
     @Override
@@ -52,11 +55,15 @@ public class EntityRecLinkExplorerCustom implements IExplorationStrategy {
 
         updateAverage(proposalStates);
 
-        System.out.println("Proposal States: "+ proposalStates.size());
-        System.out.println("Average Number of Proposal States: "+ averageNumberOfNewProposalStates);
+//        System.out.println("Proposal States: " + proposalStates.size());
+//        System.out.println("Average Number of Proposal States: " + averageNumberOfNewProposalStates);
 
         return proposalStates;
 
+    }
+
+    @Override
+    public void set(State state) {
     }
 
     private void removeAnnotation(List<State> proposalStates, State currentState) {
@@ -69,9 +76,16 @@ public class EntityRecLinkExplorerCustom implements IExplorationStrategy {
     }
 
     private void addNewAnnotation(final List<State> proposalStates, State currentState) {
-        final List<DocumentToken> tokens = currentState.getInstance().getDocument().tokenList;
+//        final List<DocumentToken> tokens = currentState.getInstance().getDocument().tokenList;
 
-        AutomatedSectionification sectionification = new AutomatedSectionification(currentState.getInstance());
+//        AutomatedSectionification sectionification = new AutomatedSectionification(currentState.getInstance());
+//
+//        AutomatedSectionification.ESection section = sectionification.getSection(sentenceIndex);
+//        if (!(section.equals(AutomatedSectionification.ESection.METHODS) || section.equals(AutomatedSectionification.ESection.ABSTRACT)
+//                || section.equals(AutomatedSectionification.ESection.RESULTS) || section.equals(AutomatedSectionification.ESection.UNKNOWN)))
+//            return;
+
+        final List<DocumentToken> tokens = currentState.getInstance().getDocument().getSentenceByIndex(sentenceIndex);
 
         for (int windowSize = MIN_WINDOW_SIZE; windowSize <= MAX_WINDOW_SIZE; windowSize++) {
 
@@ -103,10 +117,10 @@ public class EntityRecLinkExplorerCustom implements IExplorationStrategy {
                 if (fromToken.getSentenceIndex() != toToken.getSentenceIndex())
                     continue;
 
-				AutomatedSectionification.ESection section = sectionification.getSection(fromToken.getSentenceIndex());
-				if(!(section.equals(AutomatedSectionification.ESection.METHODS)||section.equals(AutomatedSectionification.ESection.ABSTRACT)
-						||section.equals(AutomatedSectionification.ESection.RESULTS)||section.equals(AutomatedSectionification.ESection.UNKNOWN)))
-					continue;
+//				AutomatedSectionification.ESection section = sectionification.getSection(fromToken.getSentenceIndex());
+//				if(!(section.equals(AutomatedSectionification.ESection.METHODS)||section.equals(AutomatedSectionification.ESection.ABSTRACT)
+//						||section.equals(AutomatedSectionification.ESection.RESULTS)||section.equals(AutomatedSectionification.ESection.UNKNOWN)))
+//					continue;
 
                 if (fromToken == toToken && currentState.containsAnnotationOnTokens(fromToken))
                     continue;
@@ -165,13 +179,16 @@ public class EntityRecLinkExplorerCustom implements IExplorationStrategy {
     }
 
     private void fillWindowSizeEntities(State currentState) { //TODO: Automate. Maybe occurence with most words in all gold Annotations?
-        windowSizeEntities.putIfAbsent(EntityType.get("Weight"), 5);
+        windowSizeEntities.putIfAbsent(EntityType.get("Weight"), 6);
         windowSizeEntities.putIfAbsent(EntityType.get("Age"), 5);
         windowSizeEntities.putIfAbsent(EntityType.get("SpragueDawleyRat"), 5);
         windowSizeEntities.putIfAbsent(EntityType.get("LongEvansRat"), 4);
         windowSizeEntities.putIfAbsent(EntityType.get("WistarRat"), 4);
         windowSizeEntities.putIfAbsent(EntityType.get("Gender"), 3);
         windowSizeEntities.putIfAbsent(EntityType.get("Mixed"), 3);
+        windowSizeEntities.putIfAbsent(EntityType.get("FischerRat"), 3);
+        windowSizeEntities.putIfAbsent(EntityType.get("C57_BL6_Mouse"), 4);
+        windowSizeEntities.putIfAbsent(EntityType.get("ListerHoodedRat"), 3);
         for (EntityType entityType : currentState.getInstance().getEntityTypeCandidates("")) {
             windowSizeEntities.putIfAbsent(entityType, 2);
         }
@@ -184,4 +201,18 @@ public class EntityRecLinkExplorerCustom implements IExplorationStrategy {
         averageNumberOfNewProposalStates /= 2;
     }
 
+    @Override
+    public boolean hasNext() {
+        return false;
+    }
+
+    @Override
+    public State next() {
+        return null;
+    }
+
+    @Override
+    public void setSentenceIndex(int sentenceIndex) {
+        this.sentenceIndex = sentenceIndex;
+    }
 }

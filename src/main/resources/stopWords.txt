@@ -164,8 +164,6 @@ far
 farther
 few
 fewer
-fifth
-first
 followed
 following
 follows
@@ -295,7 +293,6 @@ may
 maybe
 mayn't
 me
-mean
 meantime
 meanwhile
 merely
@@ -639,14 +636,11 @@ de
 describe
 detail
 due
-eleven
 empty
-fifteen
 fify
 fill
 find
 fire
-forty
 front
 full
 give
@@ -663,14 +657,10 @@ put
 show
 side
 sincere
-sixty
 system
-ten
 thick
 thin
 top
-twelve
-twenty
 abst
 accordance
 act
@@ -788,7 +778,6 @@ theyd
 theyre
 thou
 thoughh
-thousand
 throug
 til
 tip

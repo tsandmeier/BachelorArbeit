@@ -3,7 +3,6 @@ package tsandmeier.ba;
 import de.hterhors.semanticmr.corpus.InstanceProvider;
 import de.hterhors.semanticmr.corpus.distributor.AbstractCorpusDistributor;
 import de.hterhors.semanticmr.corpus.distributor.ShuffleCorpusDistributor;
-import de.hterhors.semanticmr.crf.helper.log.LogUtils;
 import de.hterhors.semanticmr.crf.structure.IEvaluatable;
 import de.hterhors.semanticmr.crf.structure.annotations.AbstractAnnotation;
 import de.hterhors.semanticmr.crf.structure.annotations.AnnotationBuilder;
@@ -18,16 +17,14 @@ import org.apache.logging.log4j.Logger;
 import tsandmeier.ba.tools.AutomatedSectionification;
 import tsandmeier.ba.baseLine.CollectExpGroupNames;
 import tsandmeier.ba.baseLine.SCIOEntityTypes;
-import tsandmeier.ba.crf.SemanticParsingCRFCustomTwo;
+import tsandmeier.ba.crf.SemanticParsingCRFCustom;
 import tsandmeier.ba.evaluator.NerlaEvaluatorPartialOverlap;
-import tsandmeier.ba.specs.NERLASpecsGroupName;
 import tsandmeier.ba.templates.*;
 
 import java.io.File;
 import java.io.IOException;
 import java.util.*;
 import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 
 /**
  * Example of how to perform named entity recognition and linking.
@@ -35,7 +32,7 @@ import java.util.regex.Pattern;
 public class NamedEntityRecognitionAndLinkingGroupBaseLine extends AbstractSemReadProject {
     private static Logger log = LogManager.getFormatterLogger("de.hterhors.semanticmr.projects.examples.corpus.nerl.NerlCorpusCreationExample");
     private final boolean overrideModel = false;
-    SemanticParsingCRFCustomTwo crf;
+    SemanticParsingCRFCustom crf;
     private IEvaluatable.Score mean;
     private int mode;
     List<AbstractFeatureTemplate<?>> featureTemplates;
@@ -348,7 +345,7 @@ public class NamedEntityRecognitionAndLinkingGroupBaseLine extends AbstractSemRe
     }
 
 
-    public SemanticParsingCRFCustomTwo getCRF() {
+    public SemanticParsingCRFCustom getCRF() {
         return crf;
     }
 

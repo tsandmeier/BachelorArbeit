@@ -26,7 +26,7 @@ import de.hterhors.semanticmr.init.specifications.SystemScope;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import tsandmeier.ba.candprov.CreateDictionaryClass;
-import tsandmeier.ba.crf.SemanticParsingCRFCustomTwo;
+import tsandmeier.ba.crf.SemanticParsingCRFCustom;
 import tsandmeier.ba.evaluator.NerlaObjectiveFunctionPartialOverlap;
 import tsandmeier.ba.explorer.EntityRecLinkExplorerCustom;
 import tsandmeier.ba.groupnameTemplates.*;
@@ -42,7 +42,7 @@ import java.util.*;
 public class NamedEntityRecognitionAndLinkingGeneral extends AbstractSemReadProject {
     private static Logger log = LogManager.getFormatterLogger("de.hterhors.semanticmr.projects.examples.corpus.nerl.NerlCorpusCreationExample");
     private final boolean overrideModel = false;
-    SemanticParsingCRFCustomTwo crf;
+    SemanticParsingCRFCustom crf;
     private IEvaluatable.Score mean;
     private int mode;
     List<AbstractFeatureTemplate<?>> featureTemplates;
@@ -405,8 +405,10 @@ public class NamedEntityRecognitionAndLinkingGeneral extends AbstractSemReadProj
          * NOTE: Make sure that the base model directory exists!
          */
         final File modelBaseDir = new File("models/nerla/");
-        final String modelName = "NERLA1234" + new Random().nextInt(10000);
+        String modelName = "NERLA1234" + new Random().nextInt(10000);
 //        final String modelName = "NERLA12341332";
+
+
 
         Model model;
 
@@ -426,7 +428,7 @@ public class NamedEntityRecognitionAndLinkingGeneral extends AbstractSemReadProj
         /**
          * Create a new semantic parsing CRF and initialize with needed parameter.
          */
-        crf = new SemanticParsingCRFCustomTwo(model, explorer, sampler, stateInitializer, objectiveFunction);
+        crf = new SemanticParsingCRFCustom(model, explorer, sampler, stateInitializer, objectiveFunction);
 
 //        IEvaluatable.Score coverage = crf.computeCoverage(true,objectiveFunction, instanceProvider.getRedistributedTrainingInstances());
 //
@@ -553,7 +555,7 @@ public class NamedEntityRecognitionAndLinkingGeneral extends AbstractSemReadProj
     }
 
 
-    public SemanticParsingCRFCustomTwo getCRF() {
+    public SemanticParsingCRFCustom getCRF() {
         return crf;
     }
 

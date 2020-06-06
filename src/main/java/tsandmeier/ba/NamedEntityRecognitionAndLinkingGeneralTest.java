@@ -3,7 +3,6 @@ package tsandmeier.ba;
 import de.hterhors.semanticmr.corpus.InstanceProvider;
 import de.hterhors.semanticmr.corpus.distributor.AbstractCorpusDistributor;
 import de.hterhors.semanticmr.corpus.distributor.ShuffleCorpusDistributor;
-import de.hterhors.semanticmr.crf.exploration.EntityRecLinkExplorer;
 import de.hterhors.semanticmr.crf.learner.AdvancedLearner;
 import de.hterhors.semanticmr.crf.learner.optimizer.SGD;
 import de.hterhors.semanticmr.crf.learner.regularizer.L2;
@@ -30,15 +29,13 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.xml.sax.SAXException;
 import tsandmeier.ba.candprov.CreateDictionaryClass;
-import tsandmeier.ba.crf.SemanticParsingCRFCustomTwo;
+import tsandmeier.ba.crf.SemanticParsingCRFCustom;
 import tsandmeier.ba.evaluator.NerlaObjectiveFunctionPartialOverlap;
 import tsandmeier.ba.explorer.EntityRecLinkExplorerCustom;
 import tsandmeier.ba.groupnameTemplates.GroupNamesInSameSentenceTemplate_FAST;
 import tsandmeier.ba.groupnameTemplates.WBFGroupNamesTemplate_FAST;
 import tsandmeier.ba.groupnameTemplates.WBLGroupNamesTemplate_FAST;
 import tsandmeier.ba.groupnameTemplates.WordsInBetweenGroupNamesTemplate_FAST;
-import tsandmeier.ba.helper.FilterHelper;
-import tsandmeier.ba.mesh.XmlReader;
 import tsandmeier.ba.templates.*;
 
 import javax.xml.parsers.ParserConfigurationException;
@@ -54,8 +51,8 @@ import java.util.stream.Collectors;
  */
 public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemReadProject {
     private static final Logger log = LogManager.getFormatterLogger("de.hterhors.semanticmr.projects.examples.corpus.nerl.NerlCorpusCreationExample");
-    private final boolean overrideModel = true;
-    SemanticParsingCRFCustomTwo crf;
+    private final boolean overrideModel = false;
+    SemanticParsingCRFCustom crf;
     private IEvaluatable.Score mean;
     List<AbstractFeatureTemplate<?>> featureTemplates;
     private final EEvaluationDetail evaluationDetail = EEvaluationDetail.LITERAL;
@@ -102,7 +99,7 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
         this.modelName = modelName;
         this.recallFactor = recallFactor;
 
-        log.info("Trainiert mit Objective Function, getestet mit ObjectiveFunctionPartialOverlap");
+//        log.info("Trainiert mit Objective Function, getestet mit ObjectiveFunctionPartialOverlap");
         log.info("Evaluation Detail: " + evaluationDetail.toString());
         log.info("MaxStepCrit: 50");
         log.info("PREDICTHIGHRECALL: " + recallFactor);
@@ -118,6 +115,10 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
         }
         Document.setStopWords(stopWords);
 
+        Set<String> punctuationWords = Collections.unmodifiableSet(new HashSet(Arrays.asList("±", ",", ".", "-", "_", ";", ":", "#", "'", "+", "*", "!", "\"", "§", "$", "%", "&", "/", "{", "}", "[", "]", "=", "?", "\\", "´", "`", "^", "°", "<", ">", "|")));
+
+        Document.setPunctuationWords(punctuationWords);
+
 
         AbstractCorpusDistributor shuffleCorpusDistributor = new ShuffleCorpusDistributor.Builder()
                 .setCorpusSizeFraction(1F).setTrainingProportion(80).setTestProportion(20).setSeed(100L).build();
@@ -129,8 +130,8 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
         CreateDictionaryClass dictionaryClass = new CreateDictionaryClass(instanceProvider.getInstances());
 
         for (Instance instance : instanceProvider.getInstances()) {
-            instance.addCandidates(dictionaryClass.getDictionary());
-//            instance.addCandidates(EntityType.get("OrganismModel").getRelatedEntityTypes());
+//            instance.addCandidates(dictionaryClass.getDictionary());
+            instance.addCandidates(EntityType.get("OrganismModel").getRelatedEntityTypes());
         }
 
         EntityRecLinkExplorerCustom explorer = new EntityRecLinkExplorerCustom();
@@ -149,7 +150,7 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
             case 1:
                 featureTemplates.add(new AMFLTemplate(true));
                 featureTemplates.add(new BMFLTemplate(true));
-                featureTemplates.add(new MentionsInSentenceTemplate_FAST(true));
+//                featureTemplates.add(new MentionsInSentenceTemplate_FAST(true));
                 featureTemplates.add(new WBTemplate_FAST(true));
                 featureTemplates.add(new WordsInBetweenTemplate_FAST(true));
                 featureTemplates.add(new BigramTemplate(true));
@@ -198,9 +199,8 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
 
 
         final File modelBaseDir = new File("models/nerla/");
-//        this.modelName = "NERLA1234" + new Random().nextInt(10000);
+        this.modelName = "NERLA1234" + new Random().nextInt(10000);
 //        this.modelName = "testModel";
-
 
 
 
@@ -214,11 +214,11 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
             model = new Model(featureTemplates, modelBaseDir, this.modelName);
         }
 
-        crf = new SemanticParsingCRFCustomTwo(model, explorer, sampler, stateInitializer, objectiveFunction);
+        crf = new SemanticParsingCRFCustom(model, explorer, sampler, stateInitializer, objectiveFunction);
 
 
 //        long timeBefore = System.currentTimeMillis();
-//        IEvaluatable.Score coverage = crf.computeCoverage(true, objectiveFunction, instanceProvider.getRedistributedTestInstances());
+//        IEvaluatable.Score coverage = crf.computeCoverage(true, objectiveFunction, instanceProvider.getInstances());
 //        System.out.println(coverage);
 //        long timeAfter = System.currentTimeMillis();
 //        System.out.println("Dauer: "+((timeAfter-timeBefore)/1000));
@@ -229,19 +229,23 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
 
 
         if (!model.isTrained()) {
+//            model.setCache(new FactorPoolCache(model, maxCacheSize, minCacheSize));
             crf.train(learner, instanceProvider.getRedistributedTrainingInstances(), numberOfEpochs, sampleStoppingCrits);
 
             model.save(true);
 
             model.printReadable();
         }
-        crf.changeObjectiveFunction(new NerlaObjectiveFunctionPartialOverlap(evaluationDetail));
+//        crf.changeObjectiveFunction(new NerlaObjectiveFunctionPartialOverlap(evaluationDetail));
 
 
         Map<Instance, State> results = crf.predictHighRecall(instanceProvider.getRedistributedTestInstances(), recallFactor, maxStepCrit,
                 noModelChangeCrit);
 
         mean = evaluate(log, results);
+
+        log.info(crf.getTrainingStatistics());
+        log.info(crf.getTestStatistics());
 
         log.info("genutztes Modell: " + modelBaseDir.toString() + "/" + this.modelName);
 
