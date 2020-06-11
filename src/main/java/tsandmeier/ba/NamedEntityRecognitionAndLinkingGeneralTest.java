@@ -6,6 +6,7 @@ import de.hterhors.semanticmr.corpus.distributor.ShuffleCorpusDistributor;
 import de.hterhors.semanticmr.crf.learner.AdvancedLearner;
 import de.hterhors.semanticmr.crf.learner.optimizer.SGD;
 import de.hterhors.semanticmr.crf.learner.regularizer.L2;
+import de.hterhors.semanticmr.crf.model.FactorPoolCache;
 import de.hterhors.semanticmr.crf.model.Model;
 import de.hterhors.semanticmr.crf.of.IObjectiveFunction;
 import de.hterhors.semanticmr.crf.of.NerlaObjectiveFunction;
@@ -121,7 +122,7 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
 
 
         AbstractCorpusDistributor shuffleCorpusDistributor = new ShuffleCorpusDistributor.Builder()
-                .setCorpusSizeFraction(1F).setTrainingProportion(80).setTestProportion(20).setSeed(100L).build();
+                .setCorpusSizeFraction(0.1F).setTrainingProportion(80).setTestProportion(20).setSeed(100L).build();
 
 
         InstanceProvider instanceProvider = new InstanceProvider(instanceDirectory, shuffleCorpusDistributor);
@@ -150,21 +151,24 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
             case 1:
                 featureTemplates.add(new AMFLTemplate(true));
                 featureTemplates.add(new BMFLTemplate(true));
-//                featureTemplates.add(new MentionsInSentenceTemplate_FAST(true));
+                featureTemplates.add(new MentionsInSentenceTemplate_FAST(true));
                 featureTemplates.add(new WBTemplate_FAST(true));
                 featureTemplates.add(new WordsInBetweenTemplate_FAST(true));
-                featureTemplates.add(new BigramTemplate(true));
+                featureTemplates.add(new BigramTemplate());
                 featureTemplates.add(new BagOfWordsTemplate(true));
                 featureTemplates.add(new NumberMBTemplate_FAST(true));
                 featureTemplates.add(new NumberWBTemplate_FAST(true));
                 featureTemplates.add(new PosInDocTemplateZehntel(true));
                 featureTemplates.add(new PosInSentenceTemplateZehntel(true));
-
-                featureTemplates.add(new StartsWithCapitalTemplate(true));
-                featureTemplates.add(new OnlyUppercaseTemplate(true));
-                featureTemplates.add(new ContainsDigitTemplate(true));
-
-//                featureTemplates.add(new MedicalHeadingTemplate(new XmlReader("mesh/mesh_short.xml").getDescriptorList(),true));
+//
+//                featureTemplates.add(new StartsWithCapitalTemplate(true));
+//                featureTemplates.add(new OnlyUppercaseTemplate(true));
+//                featureTemplates.add(new ContainsDigitTemplate(true));
+//
+//                try {
+//                    featureTemplates.add(new MedicalHeadingTemplate());
+//                } catch (UnirestException e) {
+//                }
                 break;
             case 2:
                 featureTemplates.add(new AMFLTemplate());
@@ -200,12 +204,14 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
 
         final File modelBaseDir = new File("models/nerla/");
         this.modelName = "NERLA1234" + new Random().nextInt(10000);
-//        this.modelName = "testModel";
+//        this.modelName = "NERLA12349621";
 
 
 
 
         Model model;
+
+
 
         if (Model.exists(modelBaseDir, this.modelName) && !overrideModel) {
 
@@ -213,6 +219,8 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
         } else {
             model = new Model(featureTemplates, modelBaseDir, this.modelName);
         }
+
+        model.setCache(new FactorPoolCache(model, 6400, 3200));
 
         crf = new SemanticParsingCRFCustom(model, explorer, sampler, stateInitializer, objectiveFunction);
 
@@ -225,11 +233,7 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
 //        System.exit(1);
 
 
-
-
-
         if (!model.isTrained()) {
-//            model.setCache(new FactorPoolCache(model, maxCacheSize, minCacheSize));
             crf.train(learner, instanceProvider.getRedistributedTrainingInstances(), numberOfEpochs, sampleStoppingCrits);
 
             model.save(true);

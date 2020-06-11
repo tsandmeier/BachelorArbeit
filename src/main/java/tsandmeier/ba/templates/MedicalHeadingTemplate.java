@@ -1,5 +1,13 @@
 package tsandmeier.ba.templates;
 
+import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
+import com.google.gson.JsonElement;
+import com.google.gson.JsonParser;
+import com.mashape.unirest.http.HttpResponse;
+import com.mashape.unirest.http.JsonNode;
+import com.mashape.unirest.http.Unirest;
+import com.mashape.unirest.http.exceptions.UnirestException;
 import de.hterhors.semanticmr.crf.model.AbstractFactorScope;
 import de.hterhors.semanticmr.crf.model.Factor;
 import de.hterhors.semanticmr.crf.structure.EntityType;
@@ -7,10 +15,17 @@ import de.hterhors.semanticmr.crf.structure.annotations.DocumentLinkedAnnotation
 import de.hterhors.semanticmr.crf.templates.AbstractFeatureTemplate;
 import de.hterhors.semanticmr.crf.variables.DocumentToken;
 import de.hterhors.semanticmr.crf.variables.State;
+import org.xml.sax.SAXException;
 import tsandmeier.ba.mesh.MeshConcept;
 import tsandmeier.ba.mesh.MeshDescriptor;
 import tsandmeier.ba.mesh.MeshTerm;
+import tsandmeier.ba.mesh.XmlReader;
 
+import javax.xml.parsers.ParserConfigurationException;
+import java.io.IOException;
+import java.io.InputStream;
+import java.net.URL;
+import java.net.URLConnection;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;
@@ -22,14 +37,40 @@ public class MedicalHeadingTemplate extends AbstractFeatureTemplate<MedicalHeadi
 
 	List<MeshDescriptor> descriptorList;
 
-	public MedicalHeadingTemplate(List<MeshDescriptor> descriptorList, boolean cache){
+	public MedicalHeadingTemplate(boolean cache) throws IOException, SAXException, ParserConfigurationException {
 		super(cache);
-		this.descriptorList = descriptorList;
+		this.descriptorList = new XmlReader("mesh/mesh.xml").getDescriptorList();
 	}
 
-	public MedicalHeadingTemplate(List<MeshDescriptor> descriptorList) {
+	public MedicalHeadingTemplate() throws IOException, SAXException, ParserConfigurationException, UnirestException {
 		super();
-		this.descriptorList = descriptorList;
+		System.out.println("ADD MEDICAL HEADING...");
+
+//		URLConnection connection = new URL("https://id.nlm.nih.gov/mesh/lookup/descriptor?label=Wistar%20Rats&match=exact&limit=10").openConnection();
+////		connection.setRequestProperty("header1", header1);
+////		connection.setRequestProperty("header2", header2);
+////Get Response
+//		InputStream is = connection.getInputStream();
+//		System.out.println(connection.getContentType());
+//		System.out.println(connection.getContent());
+//		System.out.println(connection.getHeaderField("http://id.nlm.nih.gov/mesh/vocab#preferredConcept"));
+
+		HttpResponse<JsonNode> response = Unirest.get("https://id.nlm.nih.gov/mesh/lookup/descriptor?label=Wistar%20Rats&match=exact&limit=10")
+				.asJson();
+//		System.out.println(response.getStatus());
+//		System.out.println(response.getHeaders().get("Content-Type"));
+//		System.out.println(response.getBody().getObject().get("id"));
+
+		Gson gson = new GsonBuilder().setPrettyPrinting().create();
+		JsonParser jp = new JsonParser();
+		JsonElement je = jp.parse(response.getBody().toString());
+		String prettyJsonString = gson.toJson(je);
+		System.out.println(prettyJsonString);
+
+
+
+//		this.descriptorList = new XmlReader("mesh/mesh.xml").getDescriptorList();
+		System.out.println("MEDICAL HEADING ADDED");
 	}
 
 	static class MedicalHeadingScope

@@ -22,7 +22,7 @@ public class StatSaver {
 
     final static List<String> featureTemplates = Arrays.asList(AMFLTemplate.class.getSimpleName(), BigramTemplate.class.getSimpleName(),
             BMFLTemplate.class.getSimpleName(), BracketsTemplate.class.getSimpleName(), HMTemplate.class.getSimpleName(), IdentityTemplate.class.getSimpleName(),
-            MentionsInSentenceTemplate.class.getSimpleName(), ML12Template.class.getSimpleName(), NormalizedAgeTemplate.class.getSimpleName(),
+            MentionsInSentenceTemplate.class.getSimpleName(), NormalizedAgeTemplate.class.getSimpleName(),
             NormalizedWeightTemplate.class.getSimpleName(),
             NumberMBTemplate.class.getSimpleName(), NumberWBTemplate.class.getSimpleName(), OverlappingTemplate.class.getSimpleName(), RootTypeTemplate.class.getSimpleName(),
             SimilarWordsTemplate.class.getSimpleName(),

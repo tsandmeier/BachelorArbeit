@@ -9,10 +9,10 @@ import de.hterhors.semanticmr.init.specifications.SystemScope;
 import tsandmeier.ba.specs.NERLASpecsGroupName;
 import tsandmeier.ba.templates.AMFLTemplate;
 import tsandmeier.ba.weka.DataPointCollector;
-import weka.core.Attribute;
-import weka.core.Instances;
-import weka.core.SparseInstance;
-import weka.core.converters.ArffSaver;
+//import weka.core.Attribute;
+//import weka.core.Instances;
+//import weka.core.SparseInstance;
+//import weka.core.converters.ArffSaver;
 
 import java.io.File;
 import java.io.IOException;
@@ -30,8 +30,8 @@ public class Converter {
     private static final String CLASSIFICATION_LABEL_UNKOWN = "?";
 
 
-    private final Attribute classAttribute = new Attribute("classLabel",
-            Arrays.asList(CLASSIFICATION_LABEL_NO, CLASSIFICATION_LABEL_YES, CLASSIFICATION_LABEL_UNKOWN));
+//    private final Attribute classAttribute = new Attribute("classLabel",
+//            Arrays.asList(CLASSIFICATION_LABEL_NO, CLASSIFICATION_LABEL_YES, CLASSIFICATION_LABEL_UNKOWN));
 
 
 
@@ -52,9 +52,9 @@ public class Converter {
 
         collectInstances(instanceProvider.getInstances(), trainingDataCollector, true);
 
-        Instances wekaTRAINInstance = convertToWekaInstances("TEST", trainingDataCollector.getDataPoints());
+//        Instances wekaTRAINInstance = convertToWekaInstances("TEST", trainingDataCollector.getDataPoints());
 
-        saveArff(new File("arff/groupNameClustering_train.arff"), wekaTRAINInstance);
+//        saveArff(new File("arff/groupNameClustering_train.arff"), wekaTRAINInstance);
     }
 
     private void collectInstances(List<Instance> instances, DataPointCollector collector, boolean training) {
@@ -128,40 +128,40 @@ public class Converter {
         return features;
     }
 
-    private Instances convertToWekaInstances(final String dataSetName, final List<DataPointCollector.DataPoint> dataPoints) {
+//    private Instances convertToWekaInstances(final String dataSetName, final List<DataPointCollector.DataPoint> dataPoints) {
+//
+//        Attribute[] attributes = new Attribute[trainingDataCollector.sparseIndexMapping.size()];
+//
+//        for (Map.Entry<String, Integer> attribute : trainingDataCollector.sparseIndexMapping.entrySet()) {
+//            attributes[attribute.getValue()] = new Attribute(attribute.getKey());
+//        }
+//
+//        ArrayList<Attribute> attributeList = new ArrayList<>();
+//        attributeList.addAll(Arrays.asList(attributes));
+//        Instances instances = new Instances(dataSetName, attributeList, dataPoints.size());
+//
+//        attributeList.add(classAttribute);
+//
+//        instances.setClassIndex(attributeList.size() - 1);
+//
+//        for (DataPointCollector.DataPoint fdp : dataPoints) {
+//            double[] attValues = new double[attributeList.size()];
+//
+//            for (Map.Entry<Integer, Double> d : fdp.features.entrySet()) {
+//                attValues[d.getKey()] = d.getValue();
+//            }
+//            attValues[attributeList.size() - 1] = fdp.score;
+//            instances.add(new SparseInstance(1, attValues));
+//        }
+//
+//        return instances;
+//    }
 
-        Attribute[] attributes = new Attribute[trainingDataCollector.sparseIndexMapping.size()];
-
-        for (Map.Entry<String, Integer> attribute : trainingDataCollector.sparseIndexMapping.entrySet()) {
-            attributes[attribute.getValue()] = new Attribute(attribute.getKey());
-        }
-
-        ArrayList<Attribute> attributeList = new ArrayList<>();
-        attributeList.addAll(Arrays.asList(attributes));
-        Instances instances = new Instances(dataSetName, attributeList, dataPoints.size());
-
-        attributeList.add(classAttribute);
-
-        instances.setClassIndex(attributeList.size() - 1);
-
-        for (DataPointCollector.DataPoint fdp : dataPoints) {
-            double[] attValues = new double[attributeList.size()];
-
-            for (Map.Entry<Integer, Double> d : fdp.features.entrySet()) {
-                attValues[d.getKey()] = d.getValue();
-            }
-            attValues[attributeList.size() - 1] = fdp.score;
-            instances.add(new SparseInstance(1, attValues));
-        }
-
-        return instances;
-    }
-
-    private void saveArff(final File arffOutputFile, Instances dataSet) throws IOException {
-        ArffSaver saver = new ArffSaver();
-        saver.setInstances(dataSet);
-        saver.setFile(arffOutputFile);
-        saver.writeBatch();
-    }
+//    private void saveArff(final File arffOutputFile, Instances dataSet) throws IOException {
+//        ArffSaver saver = new ArffSaver();
+//        saver.setInstances(dataSet);
+//        saver.setFile(arffOutputFile);
+//        saver.writeBatch();
+//    }
 
 }
