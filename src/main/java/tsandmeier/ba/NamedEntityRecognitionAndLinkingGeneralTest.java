@@ -1,5 +1,6 @@
 package tsandmeier.ba;
 
+import com.mashape.unirest.http.exceptions.UnirestException;
 import de.hterhors.semanticmr.corpus.InstanceProvider;
 import de.hterhors.semanticmr.corpus.distributor.AbstractCorpusDistributor;
 import de.hterhors.semanticmr.corpus.distributor.ShuffleCorpusDistributor;
@@ -149,26 +150,24 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
 
         switch (mode) {
             case 1:
-                featureTemplates.add(new AMFLTemplate(true));
-                featureTemplates.add(new BMFLTemplate(true));
-                featureTemplates.add(new MentionsInSentenceTemplate_FAST(true));
-                featureTemplates.add(new WBTemplate_FAST(true));
-                featureTemplates.add(new WordsInBetweenTemplate_FAST(true));
-                featureTemplates.add(new BigramTemplate());
-                featureTemplates.add(new BagOfWordsTemplate(true));
-                featureTemplates.add(new NumberMBTemplate_FAST(true));
-                featureTemplates.add(new NumberWBTemplate_FAST(true));
-                featureTemplates.add(new PosInDocTemplateZehntel(true));
-                featureTemplates.add(new PosInSentenceTemplateZehntel(true));
+//                featureTemplates.add(new AMFLTemplate(true));
+//                featureTemplates.add(new BMFLTemplate(true));
+//                featureTemplates.add(new MentionsInSentenceTemplate_FAST(true));
+//                featureTemplates.add(new WBTemplate_FAST(true));
+//                featureTemplates.add(new WordsInBetweenTemplate_FAST(true));
+//                featureTemplates.add(new BigramTemplate());
+//                featureTemplates.add(new BagOfWordsTemplate(true));
+//                featureTemplates.add(new NumberMBTemplate_FAST(true));
+//                featureTemplates.add(new NumberWBTemplate_FAST(true));
+//                featureTemplates.add(new PosInDocTemplateZehntel(true));
+//                featureTemplates.add(new PosInSentenceTemplateZehntel(true));
 //
 //                featureTemplates.add(new StartsWithCapitalTemplate(true));
 //                featureTemplates.add(new OnlyUppercaseTemplate(true));
 //                featureTemplates.add(new ContainsDigitTemplate(true));
 //
-//                try {
-//                    featureTemplates.add(new MedicalHeadingTemplate());
-//                } catch (UnirestException e) {
-//                }
+                featureTemplates.add(new MedicalHeadingTemplate());
+
                 break;
             case 2:
                 featureTemplates.add(new AMFLTemplate());
@@ -186,7 +185,7 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
 
         IStateInitializer stateInitializer = ((instance) -> new State(instance, new Annotations()));
 
-        int numberOfEpochs = 10;
+        int numberOfEpochs = 2;
 
         ISamplingStoppingCriterion maxStepCrit = new MaxChainLengthCrit(100);
 
@@ -204,7 +203,7 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
 
         final File modelBaseDir = new File("models/nerla/");
         this.modelName = "NERLA1234" + new Random().nextInt(10000);
-//        this.modelName = "NERLA12349621";
+//        this.modelName = "NERLA12346839";
 
 
 
