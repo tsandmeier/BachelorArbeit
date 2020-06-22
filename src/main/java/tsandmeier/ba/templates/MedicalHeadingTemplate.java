@@ -20,6 +20,7 @@ import java.net.URLConnection;
 import java.nio.charset.Charset;
 import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
 import java.util.Objects;
 
@@ -30,16 +31,14 @@ public class MedicalHeadingTemplate extends AbstractFeatureTemplate<MedicalHeadi
 
     List<MeshDescriptor> descriptorList;
 
+    private static HashMap<String, List<String>> map = new HashMap<>();
+
     public MedicalHeadingTemplate(boolean cache) {
         super(cache);
     }
 
     public MedicalHeadingTemplate() {
         super();
-        System.out.println("ADD MEDICAL HEADING...");
-
-
-        System.out.println("MEDICAL HEADING ADDED");
     }
 
     public static JSONObject readJsonFromUrl(String url) throws IOException, JSONException {
@@ -115,37 +114,49 @@ public class MedicalHeadingTemplate extends AbstractFeatureTemplate<MedicalHeadi
             String text = annotation.getSurfaceForm().replace(" ", "%20");
 
             if(text.length() > 3  && !(text.charAt(0) == '\ufeff')) {
+                if(!map.containsKey(text)) {
+                    try {
 
-				try {
-					json = readJsonFromUrl("https://id.nlm.nih.gov/mesh/sparql?query=PREFIX%20rdf%3A%20%3Chttp%3A%2F%2Fwww.w" +
-							"3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0D%0APREFIX%20rdfs%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F" +
-							"2000%2F01%2Frdf-schema%23%3E%0D%0APREFIX%20xsd%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchem" +
-							"a%23%3E%0D%0APREFIX%20owl%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F2002%2F07%2Fowl%23%3E%0D%0APREFIX%2" +
-							"0meshv%3A%20%3Chttp%3A%2F%2Fid.nlm.nih.gov%2Fmesh%2Fvocab%23%3E%0D%0APREFIX%20mesh%3A%20%3Chttp%" +
-							"3A%2F%2Fid.nlm.nih.gov%2Fmesh%2F%3E%0D%0APREFIX%20mesh2020%3A%20%3Chttp%3A%2F%2Fid.nlm.nih.gov%2" +
-							"Fmesh%2F2020%2F%3E%0D%0APREFIX%20mesh2019%3A%20%3Chttp%3A%2F%2Fid.nlm.nih.gov%2Fmesh%2F2019%2F%3" +
-							"E%0D%0APREFIX%20mesh2018%3A%20%3Chttp%3A%2F%2Fid.nlm.nih.gov%2Fmesh%2F2018%2F%3E%0D%0A%0D%0ASEL" +
-							"ECT%20DISTINCT%20%3Fd%20%3FdName%20%0D%0AFROM%20%3Chttp%3A%2F%2Fid.nlm.nih.gov%2Fmesh%3E%0D%0AWH" +
-							"ERE%20%7B%0D%0A%20%20%3Fd%20a%20meshv%3ADescriptor%20.%0D%0A%20%20%3Fd%20meshv%3Aterm%20%3Ft%20." +
-							"%0D%0A%20%20%3Fd%20rdfs%3Alabel%20%3FdName%20.%0D%0A%20%20%3Ft%20rdfs%3Alabel%20%3FtName%0D%0A%20%20" +
-							"FILTER(REGEX(%3FtName%2C%27" +
-							annotation.getSurfaceForm().replace(" ", "%20") +
-							"%27%2C%27i%27))%20%0D%0A%7D&format=JSON&limit=50&offset=0&inference=true");
+                        //find all Descriptors which have at least one term containing the text
+
+                        json = readJsonFromUrl("https://id.nlm.nih.gov/mesh/sparql?query=PREFIX%20rdf%3A%20%3Chttp%3A%2F%2Fwww.w" +
+                                "3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0D%0APREFIX%20rdfs%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F" +
+                                "2000%2F01%2Frdf-schema%23%3E%0D%0APREFIX%20xsd%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchem" +
+                                "a%23%3E%0D%0APREFIX%20owl%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F2002%2F07%2Fowl%23%3E%0D%0APREFIX%2" +
+                                "0meshv%3A%20%3Chttp%3A%2F%2Fid.nlm.nih.gov%2Fmesh%2Fvocab%23%3E%0D%0APREFIX%20mesh%3A%20%3Chttp%" +
+                                "3A%2F%2Fid.nlm.nih.gov%2Fmesh%2F%3E%0D%0APREFIX%20mesh2020%3A%20%3Chttp%3A%2F%2Fid.nlm.nih.gov%2" +
+                                "Fmesh%2F2020%2F%3E%0D%0APREFIX%20mesh2019%3A%20%3Chttp%3A%2F%2Fid.nlm.nih.gov%2Fmesh%2F2019%2F%3" +
+                                "E%0D%0APREFIX%20mesh2018%3A%20%3Chttp%3A%2F%2Fid.nlm.nih.gov%2Fmesh%2F2018%2F%3E%0D%0A%0D%0ASEL" +
+                                "ECT%20DISTINCT%20%3Fd%20%3FdName%20%0D%0AFROM%20%3Chttp%3A%2F%2Fid.nlm.nih.gov%2Fmesh%3E%0D%0AWH" +
+                                "ERE%20%7B%0D%0A%20%20%3Fd%20a%20meshv%3ADescriptor%20.%0D%0A%20%20%3Fd%20meshv%3Aterm%20%3Ft%20." +
+                                "%0D%0A%20%20%3Fd%20rdfs%3Alabel%20%3FdName%20.%0D%0A%20%20%3Ft%20rdfs%3Alabel%20%3FtName%0D%0A%20%20" +
+                                "FILTER(REGEX(%3FtName%2C%27" +
+                                text +
+                                "%27%2C%27i%27))%20%0D%0A%7D&format=JSON&limit=50&offset=0&inference=true");
 
 
-					JSONArray bindings = (JSONArray) ((JSONObject) json.get("results")).get("bindings");
+                        JSONArray bindings = (JSONArray) ((JSONObject) json.get("results")).get("bindings");
 
-					for (Object object : bindings) {
-						JSONObject jsonObject = (JSONObject) object;
-						JSONObject dname = (JSONObject) jsonObject.get("dName");
-						String name = dname.getString("value");
-						factors.add(new MedicalHeadingScope(this, annotation.getEntityType(), name));
-					}
-				} catch (IOException e) {
+                        List<String> matchingDescriptors = new ArrayList<>();
+
+                        for (Object object : bindings) {
+                            JSONObject jsonObject = (JSONObject) object;
+                            JSONObject dname = (JSONObject) jsonObject.get("dName");
+                            String descriptorName = dname.getString("value");
+                            factors.add(new MedicalHeadingScope(this, annotation.getEntityType(), descriptorName));
+                            matchingDescriptors.add(descriptorName);
+                        }
+                        map.put(text, matchingDescriptors);
+                    } catch (IOException e) {
 //				e.printStackTrace();
-//					System.out.println("No valid url for: " + annotation.getSurfaceForm());
-				}
-
+                        System.out.println("No valid url for: " + annotation.getSurfaceForm());
+                        map.put(text, new ArrayList<>());
+                    }
+                } else{
+                    for(String descriptorName: map.get(text)){
+                        factors.add(new MedicalHeadingScope(this, annotation.getEntityType(), descriptorName));
+                    }
+                }
 			}
 
         }
