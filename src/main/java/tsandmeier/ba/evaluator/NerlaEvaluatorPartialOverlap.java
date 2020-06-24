@@ -14,6 +14,7 @@ import java.util.Collection;
 
 import de.hterhors.semanticmr.crf.structure.annotations.AbstractAnnotation;
 import de.hterhors.semanticmr.crf.structure.annotations.EntityTypeAnnotation;
+import org.apache.commons.lang3.NotImplementedException;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
@@ -254,6 +255,11 @@ public class NerlaEvaluatorPartialOverlap extends AbstractEvaluator {
 
         return Math.max(otherAnnotations.size() - tp, 0) == 0;
 
+    }
+
+    @Override
+    public List<Integer> getBestAssignment(Collection<? extends AbstractAnnotation> collection, Collection<? extends AbstractAnnotation> collection1, Score.EScoreType eScoreType) {
+        throw new NotImplementedException("Not impl.");
     }
 
 }

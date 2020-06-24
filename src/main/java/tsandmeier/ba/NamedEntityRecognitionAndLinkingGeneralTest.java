@@ -239,6 +239,7 @@ public class NamedEntityRecognitionAndLinkingGeneralTest extends AbstractSemRead
 
             model.printReadable();
         }
+
 //        crf.changeObjectiveFunction(new NerlaObjectiveFunctionPartialOverlap(evaluationDetail));
 
 

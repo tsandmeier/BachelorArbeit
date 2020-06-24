@@ -152,8 +152,12 @@ public class MedicalHeadingTemplate extends AbstractFeatureTemplate<MedicalHeadi
 //                        System.out.println("No valid url for: " + annotation.getSurfaceForm());
                         map.put(text, new ArrayList<>());
                     } catch (JSONException e){
-//                        System.out.println("Broken json file for: " + annotation.getSurfaceForm());
+                        System.out.println("Broken json file for: " + annotation.getSurfaceForm());
                         map.put(text, new ArrayList<>());
+                    } catch (Exception e){
+                        map.put(text, new ArrayList<>());
+                        System.out.println(e.getMessage());
+                        System.out.println(text);
                     }
                 } else{
                     for(String descriptorName: map.get(text)){

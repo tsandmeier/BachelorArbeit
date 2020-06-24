@@ -10,10 +10,10 @@ import java.util.List;
 
 public class NerlaObjectiveFunctionPartialOverlap implements IObjectiveFunction {
 
-    final private NerlaEvaluatorPartialOverlap evaluator;
+    final private NerlaEvaluatorPartialOverlapTwo evaluator;
 
     public NerlaObjectiveFunctionPartialOverlap(EEvaluationDetail evaluationDetail) {
-        this.evaluator = new NerlaEvaluatorPartialOverlap(evaluationDetail);
+        this.evaluator = new NerlaEvaluatorPartialOverlapTwo(evaluationDetail);
     }
 
     public NerlaObjectiveFunctionPartialOverlap() {

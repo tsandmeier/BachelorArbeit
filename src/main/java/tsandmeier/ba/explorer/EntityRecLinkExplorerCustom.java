@@ -8,7 +8,7 @@ import de.hterhors.semanticmr.crf.structure.annotations.AbstractAnnotation;
 import de.hterhors.semanticmr.crf.structure.annotations.AnnotationBuilder;
 import de.hterhors.semanticmr.crf.variables.DocumentToken;
 import de.hterhors.semanticmr.crf.variables.State;
-import de.hterhors.semanticmr.tools.specifications.AutomatedSectionifcation;
+//import de.hterhors.semanticmr.tools.specifications.AutomatedSectionifcation;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import tsandmeier.ba.tools.AutomatedSectionification;
