@@ -4,8 +4,6 @@ import de.hterhors.semanticmr.crf.structure.EntityType;
 import de.hterhors.semanticmr.crf.structure.annotations.AbstractAnnotation;
 import de.hterhors.semanticmr.crf.variables.DocumentToken;
 import de.hterhors.semanticmr.crf.variables.Instance;
-import de.uni.bielefeld.sc.hterhors.psink.scio.semanticmr.literal_normalization.interpreter.AgeInterpreter;
-import de.uni.bielefeld.sc.hterhors.psink.scio.semanticmr.literal_normalization.interpreter.WeightInterpreter;
 
 import java.util.*;
 
@@ -19,8 +17,8 @@ public class CreateDictionaryClass {
      */
     final private Map<EntityType, Set<String>> dictionary = new HashMap<>();
 
-    WeightInterpreter sw;
-    AgeInterpreter sa;
+//    WeightInterpreter sw;
+//    AgeInterpreter sa;
 
 
 //    Set<EntityType> weightSet = new HashSet<>(Collections.singletonList(EntityType.get("Weight")));
@@ -44,8 +42,8 @@ public class CreateDictionaryClass {
     final private Map<String, Set<EntityType>> reverseDictionary = new HashMap<>();
 
 
-    final private Map<String, WeightInterpreter> weightCache = new HashMap<>();
-    final private Map<String, AgeInterpreter> ageCache = new HashMap<>();
+//    final private Map<String, WeightInterpreter> weightCache = new HashMap<>();
+//    final private Map<String, AgeInterpreter> ageCache = new HashMap<>();
 
     public CreateDictionaryClass(List<Instance> instances) {
 

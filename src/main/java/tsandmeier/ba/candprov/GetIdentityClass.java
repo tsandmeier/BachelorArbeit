@@ -1,8 +1,6 @@
 package tsandmeier.ba.candprov;
 
 import de.hterhors.semanticmr.crf.structure.EntityType;
-import de.uni.bielefeld.sc.hterhors.psink.scio.semanticmr.literal_normalization.interpreter.AgeInterpreter;
-import de.uni.bielefeld.sc.hterhors.psink.scio.semanticmr.literal_normalization.interpreter.WeightInterpreter;
 
 import java.io.File;
 import java.io.IOException;
@@ -17,8 +15,8 @@ public class GetIdentityClass {
     final private Map<EntityType, Set<String>> dictionary = new HashMap<>();
 
 
-    WeightInterpreter sw;
-    AgeInterpreter sa;
+//    WeightInterpreter sw;
+//    AgeInterpreter sa;
 
     Set<EntityType> weightSet = new HashSet<>(Collections.singletonList(EntityType.get("Weight")));
 //	Set<EntityType> ageSet = new HashSet<>(Collections.singletonList(EntityType.get("Age")));
@@ -28,9 +26,9 @@ public class GetIdentityClass {
      */
     final private Map<String, Set<EntityType>> reverseDictionary = new HashMap<>();
 
-
-    final private Map<String, WeightInterpreter> weightCache = new HashMap<>();
-    final private Map<String, AgeInterpreter> ageCache = new HashMap<>();
+//
+//    final private Map<String, WeightInterpreter> weightCache = new HashMap<>();
+//    final private Map<String, AgeInterpreter> ageCache = new HashMap<>();
 
     /**
      * The in memory dictionary based candidate provider is the simplest form of
@@ -67,14 +65,14 @@ public class GetIdentityClass {
 //			return set;
 //		}
 //
-		if((sw = weightCache.get(text))==null)
-		{
-			weightCache.put(text, sw =new WeightInterpreter(text));
-		}
-
-		if(sw.isInterpretable()){
-			return weightSet;
-		}
+//		if((sw = weightCache.get(text))==null)
+//		{
+//			weightCache.put(text, sw =new WeightInterpreter(text));
+//		}
+//
+//		if(sw.isInterpretable()){
+//			return weightSet;
+//		}
 //
 //
 //		if((sa = ageCache.get(text))==null)

@@ -7,7 +7,6 @@ import de.hterhors.semanticmr.crf.structure.annotations.DocumentLinkedAnnotation
 import de.hterhors.semanticmr.crf.templates.AbstractFeatureTemplate;
 import de.hterhors.semanticmr.crf.variables.DocumentToken;
 import de.hterhors.semanticmr.crf.variables.State;
-import de.uni.bielefeld.sc.hterhors.psink.scio.semanticmr.literal_normalization.interpreter.AgeInterpreter;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -84,16 +83,16 @@ public class NormalizedAgeTemplate extends AbstractFeatureTemplate<NormalizedAge
 
     @Override
     public void generateFeatureVector(Factor<NormalizedAgeFactor> factor) {
-        AgeInterpreter ai = new AgeInterpreter(makeString(factor.getFactorScope().tokens)).normalize();
-        if (ai.getMeanValue() < 800) {
-            factor.getFeatureVector().set("Age under 2 years: <" + factor.getFactorScope().type.name + ">", true);
-        }
-        if (ai.getMeanValue() < 5500) {
-            factor.getFeatureVector().set("Age under 15 years: <" + factor.getFactorScope().type.name + ">", true);
-        }
-        if (ai.getMeanValue() < 3650) {
-            factor.getFeatureVector().set("Age under 10 years: <" + factor.getFactorScope().type.name + ">", true);
-        }
+//        AgeInterpreter ai = new AgeInterpreter(makeString(factor.getFactorScope().tokens)).normalize();
+//        if (ai.getMeanValue() < 800) {
+//            factor.getFeatureVector().set("Age under 2 years: <" + factor.getFactorScope().type.name + ">", true);
+//        }
+//        if (ai.getMeanValue() < 5500) {
+//            factor.getFeatureVector().set("Age under 15 years: <" + factor.getFactorScope().type.name + ">", true);
+//        }
+//        if (ai.getMeanValue() < 3650) {
+//            factor.getFeatureVector().set("Age under 10 years: <" + factor.getFactorScope().type.name + ">", true);
+//        }
 
     }
 

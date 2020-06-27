@@ -1,9 +1,6 @@
 package tsandmeier.ba.candprov;
 
 import de.hterhors.semanticmr.crf.structure.EntityType;
-import de.uni.bielefeld.sc.hterhors.psink.scio.semanticmr.literal_normalization.interpreter.AgeInterpreter;
-import de.uni.bielefeld.sc.hterhors.psink.scio.semanticmr.literal_normalization.interpreter.WeightInterpreter;
-
 import java.io.File;
 import java.io.IOException;
 import java.nio.file.Files;
@@ -28,8 +25,8 @@ public class GetDictionaryClass {
 
 
 
-	WeightInterpreter sw;
-	AgeInterpreter sa;
+//	WeightInterpreter sw;
+//	AgeInterpreter sa;
 
 	Set<EntityType> weightSet = new HashSet<>(Collections.singletonList(EntityType.get("Weight")));
 	Set<EntityType> ageSet = new HashSet<>(Collections.singletonList(EntityType.get("Age")));
@@ -40,8 +37,8 @@ public class GetDictionaryClass {
 	final private Map<String, Set<EntityType>> reverseDictionary = new HashMap<>();
 
 
-	final private Map<String, WeightInterpreter > weightCache = new HashMap<	>();
-	final private Map<String, AgeInterpreter> ageCache = new HashMap<	>();
+//	final private Map<String, WeightInterpreter > weightCache = new HashMap<	>();
+//	final private Map<String, AgeInterpreter> ageCache = new HashMap<	>();
 
 	/**
 	 * The in memory dictionary based candidate provider is the simplest form of
@@ -82,25 +79,25 @@ public class GetDictionaryClass {
 //			return set;
 //		}
 
-		if((sw = weightCache.get(text))==null)
-		{
-			weightCache.put(text, sw =new WeightInterpreter(text));
-		}
-
-		if(sw.isInterpretable()){
-			//System.out.println("IS WEIGHT: " +text);
-			return weightSet;
-		}
+//		if((sw = weightCache.get(text))==null)
+//		{
+//			weightCache.put(text, sw =new WeightInterpreter(text));
+//		}
 //
+//		if(sw.isInterpretable()){
+//			//System.out.println("IS WEIGHT: " +text);
+//			return weightSet;
+//		}
+////
+////
+//		if((sa = ageCache.get(text))==null)
+//		{
+//			ageCache.put(text, sa =new AgeInterpreter(text));
+//		}
 //
-		if((sa = ageCache.get(text))==null)
-		{
-			ageCache.put(text, sa =new AgeInterpreter(text));
-		}
-
-		if(sa.isInterpretable()){
-			return ageSet;
-		}
+//		if(sa.isInterpretable()){
+//			return ageSet;
+//		}
 
 
 
