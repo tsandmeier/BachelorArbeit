@@ -145,7 +145,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass>tsandmeier.ba.NamedEntityRecognitionAndLinkingGeneralTest</mainClass>
+                            <mainClass>tsandmeier.ba.NamedEntityRecognitionAndLinkingInjury</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
