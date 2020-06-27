@@ -44373,6 +44373,28 @@
         },
         {
           "txt": {
+            "sff": "dorsal columns29"
+          },
+          "et": {
+            "etn": "InjuryArea"
+          },
+          "dp": {
+            "off": 15358
+          }
+        },
+        {
+          "txt": {
+            "sff": "40 mg kg21"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 15288
+          }
+        },
+        {
+          "txt": {
             "sff": "C4."
           },
           "et": {

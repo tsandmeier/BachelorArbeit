@@ -108677,6 +108677,17 @@
         },
         {
           "txt": {
+            "sff": "5%"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 26610
+          }
+        },
+        {
+          "txt": {
             "sff": "thoracic level 9/10."
           },
           "et": {
@@ -108684,6 +108695,28 @@
           },
           "dp": {
             "off": 26100
+          }
+        },
+        {
+          "txt": {
+            "sff": "2%"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 26644
+          }
+        },
+        {
+          "txt": {
+            "sff": "delivered via an endotracheal tube"
+          },
+          "et": {
+            "etn": "InhalationDelivery"
+          },
+          "dp": {
+            "off": 26647
           }
         },
         {

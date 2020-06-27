@@ -5,10 +5,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>tsandmeier.ba</groupId>
-    <artifactId>Organism_Model</artifactId>
+    <artifactId>Injury_Full</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    <name>Organism_Model</name>
+    <name>Injury_Full</name>
     <packaging>jar</packaging>
 
     <dependencies>
@@ -23,6 +23,12 @@
         <dependency>
             <groupId>de.hterhors.semanticmr</groupId>
             <artifactId>SemanticMR-Core</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
+
+        <dependency>
+            <groupId>de.uni.bielefeld.sc.hterhors.psink.semanticmr.scio</groupId>
+            <artifactId>scio_extraction</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
 
@@ -102,8 +108,13 @@
             <artifactId>log4j-core</artifactId>
             <version>2.11.1</version>
         </dependency>
+        <dependency>
+            <groupId>tsandmeier.ba</groupId>
+            <artifactId>GroupNames</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
 
-<!--        &lt;!&ndash; https://mvnrepository.com/artifact/nz.ac.waikato.cms.weka/weka-stable &ndash;&gt;-->
+        <!--        &lt;!&ndash; https://mvnrepository.com/artifact/nz.ac.waikato.cms.weka/weka-stable &ndash;&gt;-->
 <!--        <dependency>-->
 <!--            <groupId>nz.ac.waikato.cms.weka</groupId>-->
 <!--            <artifactId>weka-stable</artifactId>-->

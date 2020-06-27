@@ -25930,6 +25930,61 @@
       "dla": [
         {
           "txt": {
+            "sff": "A 12-h light/12-h dark cycle"
+          },
+          "et": {
+            "etn": "Housing"
+          },
+          "dp": {
+            "off": 5545
+          }
+        },
+        {
+          "txt": {
+            "sff": "ad libitum"
+          },
+          "et": {
+            "etn": "Hydration"
+          },
+          "dp": {
+            "off": 5440
+          }
+        },
+        {
+          "txt": {
+            "sff": "i.p."
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 6443
+          }
+        },
+        {
+          "txt": {
+            "sff": "penicillin"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 7347
+          }
+        },
+        {
+          "txt": {
+            "sff": "i.p."
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 6443
+          }
+        },
+        {
+          "txt": {
             "sff": "7–9th"
           },
           "et": {
@@ -25941,6 +25996,28 @@
         },
         {
           "txt": {
+            "sff": "40–60 mg kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 6411
+          }
+        },
+        {
+          "txt": {
+            "sff": "Standardrodent food"
+          },
+          "et": {
+            "etn": "Nutrition"
+          },
+          "dp": {
+            "off": 5395
+          }
+        },
+        {
+          "txt": {
             "sff": "scissors"
           },
           "et": {
@@ -25948,6 +26025,17 @@
           },
           "dp": {
             "off": 6651
+          }
+        },
+        {
+          "txt": {
+            "sff": "Bladders of animals wereemptied manually"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 7276
           }
         },
         {

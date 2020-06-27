@@ -40082,6 +40082,17 @@
       "dla": [
         {
           "txt": {
+            "sff": "severe injuries"
+          },
+          "et": {
+            "etn": "SevereInjury"
+          },
+          "dp": {
+            "off": 1914
+          }
+        },
+        {
+          "txt": {
             "sff": "T8"
           },
           "et": {

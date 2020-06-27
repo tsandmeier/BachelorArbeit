@@ -39333,6 +39333,72 @@
         },
         {
           "txt": {
+            "sff": "25 g"
+          },
+          "et": {
+            "etn": "Weight"
+          },
+          "dp": {
+            "off": 10696
+          }
+        },
+        {
+          "txt": {
+            "sff": "T9"
+          },
+          "et": {
+            "etn": "T9"
+          },
+          "dp": {
+            "off": 10656
+          }
+        },
+        {
+          "txt": {
+            "sff": "food ad libitum"
+          },
+          "et": {
+            "etn": "Nutrition"
+          },
+          "dp": {
+            "off": 9583
+          }
+        },
+        {
+          "txt": {
+            "sff": "T10"
+          },
+          "et": {
+            "etn": "T10"
+          },
+          "dp": {
+            "off": 10659
+          }
+        },
+        {
+          "txt": {
+            "sff": "ad libitum"
+          },
+          "et": {
+            "etn": "Hydration"
+          },
+          "dp": {
+            "off": 9588
+          }
+        },
+        {
+          "txt": {
+            "sff": "cm"
+          },
+          "et": {
+            "etn": "Distance"
+          },
+          "dp": {
+            "off": 10701
+          }
+        },
+        {
+          "txt": {
             "sff": "contusion"
           },
           "et": {
@@ -39344,6 +39410,17 @@
         },
         {
           "txt": {
+            "sff": "bladders were expressed"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 11621
+          }
+        },
+        {
+          "txt": {
             "sff": "T9-T10"
           },
           "et": {
@@ -39351,6 +39428,17 @@
           },
           "dp": {
             "off": 10656
+          }
+        },
+        {
+          "txt": {
+            "sff": "The rats were maintained in pairs in separate cages"
+          },
+          "et": {
+            "etn": "Housing"
+          },
+          "dp": {
+            "off": 11682
           }
         }
       ],

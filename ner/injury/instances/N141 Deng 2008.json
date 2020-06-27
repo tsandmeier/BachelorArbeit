@@ -48650,6 +48650,83 @@
       "dla": [
         {
           "txt": {
+            "sff": "partial"
+          },
+          "et": {
+            "etn": "ModerateInjury"
+          },
+          "dp": {
+            "off": 7913
+          }
+        },
+        {
+          "txt": {
+            "sff": "chloral hydrate"
+          },
+          "et": {
+            "etn": "MedicationDuringSurgery"
+          },
+          "dp": {
+            "off": 7765
+          }
+        },
+        {
+          "txt": {
+            "sff": "Cefazolin"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 9433
+          }
+        },
+        {
+          "txt": {
+            "sff": "25 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 9443
+          }
+        },
+        {
+          "txt": {
+            "sff": "height of 50 mm"
+          },
+          "et": {
+            "etn": "Distance"
+          },
+          "dp": {
+            "off": 7874
+          }
+        },
+        {
+          "txt": {
+            "sff": "10 g"
+          },
+          "et": {
+            "etn": "Weight"
+          },
+          "dp": {
+            "off": 7827
+          }
+        },
+        {
+          "txt": {
+            "sff": "Urinary bladders"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 9509
+          }
+        },
+        {
+          "txt": {
             "sff": "T10"
           },
           "et": {

@@ -66037,6 +66037,17 @@
         },
         {
           "txt": {
+            "sff": "2%"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 8066
+          }
+        },
+        {
+          "txt": {
             "sff": "T9"
           },
           "et": {

@@ -132402,6 +132402,61 @@
       "dla": [
         {
           "txt": {
+            "sff": "75 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 10163
+          }
+        },
+        {
+          "txt": {
+            "sff": "1 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 11018
+          }
+        },
+        {
+          "txt": {
+            "sff": "singly housed in cages containing nesting material (sawdust and paper)"
+          },
+          "et": {
+            "etn": "Housing"
+          },
+          "dp": {
+            "off": 8907
+          }
+        },
+        {
+          "txt": {
+            "sff": "0.5 mg/ kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 10113
+          }
+        },
+        {
+          "txt": {
+            "sff": "atipamezole"
+          },
+          "et": {
+            "etn": "PostsurgicalMedication"
+          },
+          "dp": {
+            "off": 12241
+          }
+        },
+        {
+          "txt": {
             "sff": "unilateral pyramidotomy lesion"
           },
           "et": {
@@ -132431,6 +132486,39 @@
           },
           "dp": {
             "off": 10153
+          }
+        },
+        {
+          "txt": {
+            "sff": "intraperitoneally (i.p.)"
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 10207
+          }
+        },
+        {
+          "txt": {
+            "sff": "the CST was completely transected on one side at the level of the medulla"
+          },
+          "et": {
+            "etn": "UnilateralInjuryArea"
+          },
+          "dp": {
+            "off": 11362
+          }
+        },
+        {
+          "txt": {
+            "sff": "injected"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 10198
           }
         },
         {

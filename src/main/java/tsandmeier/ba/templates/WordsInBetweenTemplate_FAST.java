@@ -24,6 +24,10 @@ public class WordsInBetweenTemplate_FAST extends AbstractFeatureTemplate<WordsIn
 
     public WordsInBetweenTemplate_FAST(boolean cache){super(cache);}
 
+    public WordsInBetweenTemplate_FAST() {
+        super();
+    }
+
     static class AreWordsInBetweenScope
             extends AbstractFactorScope {
 

@@ -69805,6 +69805,138 @@
         },
         {
           "txt": {
+            "sff": "acepromazine maleate"
+          },
+          "et": {
+            "etn": "Sedative"
+          },
+          "dp": {
+            "off": 7746
+          }
+        },
+        {
+          "txt": {
+            "sff": "15 seconds"
+          },
+          "et": {
+            "etn": "Duration"
+          },
+          "dp": {
+            "off": 8265
+          }
+        },
+        {
+          "txt": {
+            "sff": "160 mg/kg body weight"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 9957
+          }
+        },
+        {
+          "txt": {
+            "sff": "injection"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 7546
+          }
+        },
+        {
+          "txt": {
+            "sff": "analgesics"
+          },
+          "et": {
+            "etn": "PostsurgicalMedication"
+          },
+          "dp": {
+            "off": 9909
+          }
+        },
+        {
+          "txt": {
+            "sff": "30 mg/kg body weight"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 10140
+          }
+        },
+        {
+          "txt": {
+            "sff": "food placed within cages for easy access"
+          },
+          "et": {
+            "etn": "Nutrition"
+          },
+          "dp": {
+            "off": 10576
+          }
+        },
+        {
+          "txt": {
+            "sff": "lidocaine"
+          },
+          "et": {
+            "etn": "MedicationDuringSurgery"
+          },
+          "dp": {
+            "off": 8191
+          }
+        },
+        {
+          "txt": {
+            "sff": "angled microscissors"
+          },
+          "et": {
+            "etn": "Scissors"
+          },
+          "dp": {
+            "off": 8340
+          }
+        },
+        {
+          "txt": {
+            "sff": "Bladders were expressed"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 10169
+          }
+        },
+        {
+          "txt": {
+            "sff": "Cages were changed twice weekly."
+          },
+          "et": {
+            "etn": "Housing"
+          },
+          "dp": {
+            "off": 10700
+          }
+        },
+        {
+          "txt": {
+            "sff": "placed within cages for easy access"
+          },
+          "et": {
+            "etn": "Hydration"
+          },
+          "dp": {
+            "off": 10581
+          }
+        },
+        {
+          "txt": {
             "sff": "complete spinal cord transection"
           },
           "et": {
@@ -69827,13 +69959,24 @@
         },
         {
           "txt": {
-            "sff": "angled microscissors"
+            "sff": "antibiotic"
           },
           "et": {
-            "etn": "Scissors"
+            "etn": "AntibioticMedication"
           },
           "dp": {
-            "off": 8340
+            "off": 10091
+          }
+        },
+        {
+          "txt": {
+            "sff": "i.p."
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 7603
           }
         },
         {
@@ -69845,6 +69988,28 @@
           },
           "dp": {
             "off": 9155
+          }
+        },
+        {
+          "txt": {
+            "sff": "8.6 mg/ml"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 7722
+          }
+        },
+        {
+          "txt": {
+            "sff": "42.8 mg/ml"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 7644
           }
         }
       ],

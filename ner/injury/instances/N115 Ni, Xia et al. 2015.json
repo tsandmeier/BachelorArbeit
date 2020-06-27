@@ -62794,13 +62794,13 @@
       "dla": [
         {
           "txt": {
-            "sff": "hemitransected"
+            "sff": "bladder voiding"
           },
           "et": {
-            "etn": "LateralHemisection"
+            "etn": "BladderExpression"
           },
           "dp": {
-            "off": 25280
+            "off": 26669
           }
         },
         {
@@ -62823,6 +62823,116 @@
           },
           "dp": {
             "off": 25105
+          }
+        },
+        {
+          "txt": {
+            "sff": "injection"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 25011
+          }
+        },
+        {
+          "txt": {
+            "sff": "penicillin"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 26569
+          }
+        },
+        {
+          "txt": {
+            "sff": "right"
+          },
+          "et": {
+            "etn": "Right"
+          },
+          "dp": {
+            "off": 25274
+          }
+        },
+        {
+          "txt": {
+            "sff": "hemitransected"
+          },
+          "et": {
+            "etn": "LateralHemisection"
+          },
+          "dp": {
+            "off": 25280
+          }
+        },
+        {
+          "txt": {
+            "sff": "chloral hydrate"
+          },
+          "et": {
+            "etn": "ChloralHydrate"
+          },
+          "dp": {
+            "off": 25036
+          }
+        },
+        {
+          "txt": {
+            "sff": "160,000 U"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 26653
+          }
+        },
+        {
+          "txt": {
+            "sff": "housed alone in cages kept in the animal care facility on a 12-h light/dark cycle"
+          },
+          "et": {
+            "etn": "Housing"
+          },
+          "dp": {
+            "off": 26380
+          }
+        },
+        {
+          "txt": {
+            "sff": "water ad libitum"
+          },
+          "et": {
+            "etn": "Hydration"
+          },
+          "dp": {
+            "off": 26508
+          }
+        },
+        {
+          "txt": {
+            "sff": "food"
+          },
+          "et": {
+            "etn": "Nutrition"
+          },
+          "dp": {
+            "off": 26499
+          }
+        },
+        {
+          "txt": {
+            "sff": "intraperitoneal"
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 24995
           }
         }
       ],

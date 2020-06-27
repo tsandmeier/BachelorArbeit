@@ -56488,6 +56488,17 @@
         },
         {
           "txt": {
+            "sff": "severe SCI"
+          },
+          "et": {
+            "etn": "SevereInjury"
+          },
+          "dp": {
+            "off": 4990
+          }
+        },
+        {
+          "txt": {
             "sff": "consequence of intervertebral disc extrusion"
           },
           "et": {

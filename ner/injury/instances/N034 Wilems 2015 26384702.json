@@ -87874,6 +87874,127 @@
       "dla": [
         {
           "txt": {
+            "sff": "cefazolin"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 17710
+          }
+        },
+        {
+          "txt": {
+            "sff": "0.01 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 17885
+          }
+        },
+        {
+          "txt": {
+            "sff": "lateral dorsal hemisection"
+          },
+          "et": {
+            "etn": "DorsalHemisection"
+          },
+          "dp": {
+            "off": 17431
+          }
+        },
+        {
+          "txt": {
+            "sff": "gas"
+          },
+          "et": {
+            "etn": "InhalationDelivery"
+          },
+          "dp": {
+            "off": 16887
+          }
+        },
+        {
+          "txt": {
+            "sff": "5 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 16911
+          }
+        },
+        {
+          "txt": {
+            "sff": "injection"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 16898
+          }
+        },
+        {
+          "txt": {
+            "sff": "0.04 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 17750
+          }
+        },
+        {
+          "txt": {
+            "sff": "bladders were manually expressed"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 17940
+          }
+        },
+        {
+          "txt": {
+            "sff": "buprenorphine"
+          },
+          "et": {
+            "etn": "PostsurgicalMedication"
+          },
+          "dp": {
+            "off": 17735
+          }
+        },
+        {
+          "txt": {
+            "sff": "5%"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 16873
+          }
+        },
+        {
+          "txt": {
+            "sff": "scissors"
+          },
+          "et": {
+            "etn": "Scissors"
+          },
+          "dp": {
+            "off": 17419
+          }
+        },
+        {
+          "txt": {
             "sff": "isoflurane"
           },
           "et": {
@@ -87907,24 +88028,13 @@
         },
         {
           "txt": {
-            "sff": "lateral dorsal hemisection"
+            "sff": "buprenorphine"
           },
           "et": {
-            "etn": "DorsalHemisection"
+            "etn": "PostsurgicalMedication"
           },
           "dp": {
-            "off": 17431
-          }
-        },
-        {
-          "txt": {
-            "sff": "scissors"
-          },
-          "et": {
-            "etn": "Scissors"
-          },
-          "dp": {
-            "off": 17419
+            "off": 17820
           }
         }
       ],

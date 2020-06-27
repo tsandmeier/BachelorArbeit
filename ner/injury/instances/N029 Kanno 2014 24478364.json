@@ -141410,13 +141410,46 @@
       "dla": [
         {
           "txt": {
-            "sff": "ketamine"
+            "sff": "food"
           },
           "et": {
-            "etn": "KetamineAsAnaesthetic"
+            "etn": "Nutrition"
           },
           "dp": {
-            "off": 15124
+            "off": 15480
+          }
+        },
+        {
+          "txt": {
+            "sff": "45 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 15115
+          }
+        },
+        {
+          "txt": {
+            "sff": "0.3 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 16374
+          }
+        },
+        {
+          "txt": {
+            "sff": "injection"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 15171
           }
         },
         {
@@ -141428,6 +141461,17 @@
           },
           "dp": {
             "off": 15755
+          }
+        },
+        {
+          "txt": {
+            "sff": "housed two per cage at a temperature of 24°C"
+          },
+          "et": {
+            "etn": "Housing"
+          },
+          "dp": {
+            "off": 15399
           }
         },
         {
@@ -141461,6 +141505,105 @@
           },
           "dp": {
             "off": 15827
+          }
+        },
+        {
+          "txt": {
+            "sff": "ad libitum access to water"
+          },
+          "et": {
+            "etn": "Hydration"
+          },
+          "dp": {
+            "off": 15449
+          }
+        },
+        {
+          "txt": {
+            "sff": "gentamicin"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 16306
+          }
+        },
+        {
+          "txt": {
+            "sff": "Bladders"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 16473
+          }
+        },
+        {
+          "txt": {
+            "sff": "ketamine"
+          },
+          "et": {
+            "etn": "KetamineAsAnaesthetic"
+          },
+          "dp": {
+            "off": 15124
+          }
+        },
+        {
+          "txt": {
+            "sff": "5 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 15134
+          }
+        },
+        {
+          "txt": {
+            "sff": "Buprenex"
+          },
+          "et": {
+            "etn": "PostsurgicalMedication"
+          },
+          "dp": {
+            "off": 16364
+          }
+        },
+        {
+          "txt": {
+            "sff": "10 g weight dropped 12.5 mm"
+          },
+          "et": {
+            "etn": "Force"
+          },
+          "dp": {
+            "off": 15775
+          }
+        },
+        {
+          "txt": {
+            "sff": "Moderate"
+          },
+          "et": {
+            "etn": "ModerateInjury"
+          },
+          "dp": {
+            "off": 15725
+          }
+        },
+        {
+          "txt": {
+            "sff": "intraperitoneal"
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 15155
           }
         }
       ],

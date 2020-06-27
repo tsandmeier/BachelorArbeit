@@ -54170,35 +54170,46 @@
       "dla": [
         {
           "txt": {
-            "sff": "pentobarbital"
+            "sff": "intraperitoneally"
           },
           "et": {
-            "etn": "SodiumPentobarbital"
+            "etn": "InjectionDelivery"
           },
           "dp": {
-            "off": 5212
+            "off": 5276
           }
         },
         {
           "txt": {
-            "sff": "completely transected"
+            "sff": "intraperitoneally"
           },
           "et": {
-            "etn": "CompleteTransection"
+            "etn": "IntraperitonealLocation"
           },
           "dp": {
-            "off": 5477
+            "off": 5276
           }
         },
         {
           "txt": {
-            "sff": "T9–11"
+            "sff": "flomoxef sodium"
           },
           "et": {
-            "etn": "VertebralArea"
+            "etn": "AntibioticMedication"
           },
           "dp": {
-            "off": 8177
+            "off": 5341
+          }
+        },
+        {
+          "txt": {
+            "sff": "water ad libitum"
+          },
+          "et": {
+            "etn": "Hydration"
+          },
+          "dp": {
+            "off": 5118
           }
         },
         {
@@ -54214,13 +54225,13 @@
         },
         {
           "txt": {
-            "sff": "laminectomy"
+            "sff": "bladders were manually expressed"
           },
           "et": {
-            "etn": "Laminectomy"
+            "etn": "BladderExpression"
           },
           "dp": {
-            "off": 8183
+            "off": 6003
           }
         },
         {
@@ -54232,6 +54243,94 @@
           },
           "dp": {
             "off": 5522
+          }
+        },
+        {
+          "txt": {
+            "sff": "12-hour light/dark cycle"
+          },
+          "et": {
+            "etn": "Housing"
+          },
+          "dp": {
+            "off": 5149
+          }
+        },
+        {
+          "txt": {
+            "sff": "pentobarbital"
+          },
+          "et": {
+            "etn": "SodiumPentobarbital"
+          },
+          "dp": {
+            "off": 5212
+          }
+        },
+        {
+          "txt": {
+            "sff": "50 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 5358
+          }
+        },
+        {
+          "txt": {
+            "sff": "completely transected"
+          },
+          "et": {
+            "etn": "CompleteTransection"
+          },
+          "dp": {
+            "off": 5477
+          }
+        },
+        {
+          "txt": {
+            "sff": "50 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 5227
+          }
+        },
+        {
+          "txt": {
+            "sff": "ad libitum"
+          },
+          "et": {
+            "etn": "Nutrition"
+          },
+          "dp": {
+            "off": 5124
+          }
+        },
+        {
+          "txt": {
+            "sff": "T9–11"
+          },
+          "et": {
+            "etn": "VertebralArea"
+          },
+          "dp": {
+            "off": 8177
+          }
+        },
+        {
+          "txt": {
+            "sff": "laminectomy"
+          },
+          "et": {
+            "etn": "Laminectomy"
+          },
+          "dp": {
+            "off": 8183
           }
         }
       ],

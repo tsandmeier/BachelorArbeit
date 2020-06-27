@@ -167773,6 +167773,17 @@
         },
         {
           "txt": {
+            "sff": "Bladders were manually expressed"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 7628
+          }
+        },
+        {
+          "txt": {
             "sff": "isoflurane"
           },
           "et": {
@@ -167780,6 +167791,17 @@
           },
           "dp": {
             "off": 6616
+          }
+        },
+        {
+          "txt": {
+            "sff": "2%"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 6613
           }
         },
         {

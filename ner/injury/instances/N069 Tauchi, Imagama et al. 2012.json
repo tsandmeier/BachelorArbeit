@@ -71589,6 +71589,105 @@
         },
         {
           "txt": {
+            "sff": "200 kydn"
+          },
+          "et": {
+            "etn": "Force"
+          },
+          "dp": {
+            "off": 5536
+          }
+        },
+        {
+          "txt": {
+            "sff": "injection"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 5390
+          }
+        },
+        {
+          "txt": {
+            "sff": "ketamine"
+          },
+          "et": {
+            "etn": "KetamineAsAnaesthetic"
+          },
+          "dp": {
+            "off": 5403
+          }
+        },
+        {
+          "txt": {
+            "sff": "1.0 ml Bactramin (Roche, Basel, Switzerland) in 500 ml acidified water"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 6646
+          }
+        },
+        {
+          "txt": {
+            "sff": "100 mg/ kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 5413
+          }
+        },
+        {
+          "txt": {
+            "sff": "10 mg/kg)"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 5439
+          }
+        },
+        {
+          "txt": {
+            "sff": "intraperitoneal"
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 5374
+          }
+        },
+        {
+          "txt": {
+            "sff": "Food was provided on the cage floor"
+          },
+          "et": {
+            "etn": "Nutrition"
+          },
+          "dp": {
+            "off": 6488
+          }
+        },
+        {
+          "txt": {
+            "sff": "bladder was compressed"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 6387
+          }
+        },
+        {
+          "txt": {
             "sff": "contusion"
           },
           "et": {
@@ -71611,13 +71710,24 @@
         },
         {
           "txt": {
-            "sff": "ketamine"
+            "sff": "antibiotics"
           },
           "et": {
-            "etn": "KetamineAsAnaesthetic"
+            "etn": "AntibioticMedication"
           },
           "dp": {
-            "off": 5403
+            "off": 6609
+          }
+        },
+        {
+          "txt": {
+            "sff": "no difficulty reaching their water bottles"
+          },
+          "et": {
+            "etn": "Hydration"
+          },
+          "dp": {
+            "off": 6542
           }
         },
         {

@@ -42010,6 +42010,50 @@
       "dla": [
         {
           "txt": {
+            "sff": "ad libitum access to food"
+          },
+          "et": {
+            "etn": "Nutrition"
+          },
+          "dp": {
+            "off": 4980
+          }
+        },
+        {
+          "txt": {
+            "sff": "severe"
+          },
+          "et": {
+            "etn": "SevereInjury"
+          },
+          "dp": {
+            "off": 12081
+          }
+        },
+        {
+          "txt": {
+            "sff": "(250 kdyn"
+          },
+          "et": {
+            "etn": "Force"
+          },
+          "dp": {
+            "off": 12088
+          }
+        },
+        {
+          "txt": {
+            "sff": "All animals were housed in barrier cages in a temperature- and humiditycontrolled room"
+          },
+          "et": {
+            "etn": "Housing"
+          },
+          "dp": {
+            "off": 4888
+          }
+        },
+        {
+          "txt": {
             "sff": "IH-0400 Impactor"
           },
           "et": {
@@ -42017,6 +42061,50 @@
           },
           "dp": {
             "off": 11987
+          }
+        },
+        {
+          "txt": {
+            "sff": "bladders were manually expressed"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 12343
+          }
+        },
+        {
+          "txt": {
+            "sff": "i.p."
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 11862
+          }
+        },
+        {
+          "txt": {
+            "sff": "injection"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 11867
+          }
+        },
+        {
+          "txt": {
+            "sff": "water"
+          },
+          "et": {
+            "etn": "Hydration"
+          },
+          "dp": {
+            "off": 5010
           }
         },
         {
@@ -42050,6 +42138,39 @@
           },
           "dp": {
             "off": 11880
+          }
+        },
+        {
+          "txt": {
+            "sff": "20 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 12267
+          }
+        },
+        {
+          "txt": {
+            "sff": "50 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 11895
+          }
+        },
+        {
+          "txt": {
+            "sff": "cefazolin sodium"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 12276
           }
         }
       ],

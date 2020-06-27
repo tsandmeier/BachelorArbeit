@@ -64957,6 +64957,61 @@
         },
         {
           "txt": {
+            "sff": "(0.625 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 13958
+          }
+        },
+        {
+          "txt": {
+            "sff": "antibiotics"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 16205
+          }
+        },
+        {
+          "txt": {
+            "sff": "ad libitum"
+          },
+          "et": {
+            "etn": "Nutrition"
+          },
+          "dp": {
+            "off": 16357
+          }
+        },
+        {
+          "txt": {
+            "sff": "injection"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 13876
+          }
+        },
+        {
+          "txt": {
+            "sff": "artificial 12 hours light/dark cycle and caged by threes"
+          },
+          "et": {
+            "etn": "Housing"
+          },
+          "dp": {
+            "off": 16377
+          }
+        },
+        {
+          "txt": {
             "sff": "ketamine hydrochloride"
           },
           "et": {
@@ -64964,6 +65019,17 @@
           },
           "dp": {
             "off": 13889
+          }
+        },
+        {
+          "txt": {
+            "sff": "80 mg/Kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 16255
           }
         },
         {
@@ -64990,6 +65056,39 @@
         },
         {
           "txt": {
+            "sff": "tap water ad libitum"
+          },
+          "et": {
+            "etn": "Hydration"
+          },
+          "dp": {
+            "off": 16347
+          }
+        },
+        {
+          "txt": {
+            "sff": "12.5 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 13913
+          }
+        },
+        {
+          "txt": {
+            "sff": "bladder was compressed"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 16466
+          }
+        },
+        {
+          "txt": {
             "sff": "chlorpromazine hydrochloride"
           },
           "et": {
@@ -64997,6 +65096,17 @@
           },
           "dp": {
             "off": 13929
+          }
+        },
+        {
+          "txt": {
+            "sff": "intraperitoneal injection"
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 13860
           }
         }
       ],

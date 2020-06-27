@@ -94693,6 +94693,17 @@
         },
         {
           "txt": {
+            "sff": "lignocaine"
+          },
+          "et": {
+            "etn": "MedicationDuringSurgery"
+          },
+          "dp": {
+            "off": 9473
+          }
+        },
+        {
+          "txt": {
             "sff": "T12"
           },
           "et": {
@@ -94700,6 +94711,39 @@
           },
           "dp": {
             "off": 9425
+          }
+        },
+        {
+          "txt": {
+            "sff": "i.p"
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 7628
+          }
+        },
+        {
+          "txt": {
+            "sff": "A piece of gelfoam soaked"
+          },
+          "et": {
+            "etn": "DeliveryMethod"
+          },
+          "dp": {
+            "off": 9442
+          }
+        },
+        {
+          "txt": {
+            "sff": "0.5 ml / 20 g"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 7633
           }
         },
         {
@@ -94722,6 +94766,28 @@
           },
           "dp": {
             "off": 7474
+          }
+        },
+        {
+          "txt": {
+            "sff": "spinal cord"
+          },
+          "et": {
+            "etn": "SpinalCord"
+          },
+          "dp": {
+            "off": 9509
+          }
+        },
+        {
+          "txt": {
+            "sff": "dorsal column"
+          },
+          "et": {
+            "etn": "InjuryArea"
+          },
+          "dp": {
+            "off": 9014
           }
         }
       ],

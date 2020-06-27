@@ -62026,17 +62026,6 @@
       "dla": [
         {
           "txt": {
-            "sff": "microscissors"
-          },
-          "et": {
-            "etn": "Scissors"
-          },
-          "dp": {
-            "off": 9345
-          }
-        },
-        {
-          "txt": {
             "sff": "Spinal cord injury was induced by illuminating"
           },
           "et": {
@@ -62048,6 +62037,50 @@
         },
         {
           "txt": {
+            "sff": "microscissors"
+          },
+          "et": {
+            "etn": "Scissors"
+          },
+          "dp": {
+            "off": 9345
+          }
+        },
+        {
+          "txt": {
+            "sff": "i.p."
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 8516
+          }
+        },
+        {
+          "txt": {
+            "sff": "i.p."
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 8516
+          }
+        },
+        {
+          "txt": {
+            "sff": "200 kLux"
+          },
+          "et": {
+            "etn": "LightIntensity"
+          },
+          "dp": {
+            "off": 8867
+          }
+        },
+        {
+          "txt": {
             "sff": "sodium pentobarbital"
           },
           "et": {
@@ -62055,6 +62088,17 @@
           },
           "dp": {
             "off": 8484
+          }
+        },
+        {
+          "txt": {
+            "sff": "40 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 8506
           }
         },
         {
@@ -62081,17 +62125,6 @@
         },
         {
           "txt": {
-            "sff": "complete transection"
-          },
-          "et": {
-            "etn": "CompleteTransection"
-          },
-          "dp": {
-            "off": 9205
-          }
-        },
-        {
-          "txt": {
             "sff": "optic fiber"
           },
           "et": {
@@ -62099,6 +62132,17 @@
           },
           "dp": {
             "off": 8919
+          }
+        },
+        {
+          "txt": {
+            "sff": "complete transection"
+          },
+          "et": {
+            "etn": "CompleteTransection"
+          },
+          "dp": {
+            "off": 9205
           }
         }
       ],

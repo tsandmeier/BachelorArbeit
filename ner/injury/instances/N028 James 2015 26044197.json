@@ -39898,24 +39898,35 @@
       "dla": [
         {
           "txt": {
-            "sff": "Infinite Horizon impactor"
+            "sff": "1 mg/kg"
           },
           "et": {
-            "etn": "InfiniteHorizonImpactor"
+            "etn": "DosageExtracorporal"
           },
           "dp": {
-            "off": 7994
+            "off": 8407
           }
         },
         {
           "txt": {
-            "sff": "contusion injury"
+            "sff": "60 mg/kg"
           },
           "et": {
-            "etn": "Contusion"
+            "etn": "DosageExtracorporal"
           },
           "dp": {
-            "off": 8237
+            "off": 7622
+          }
+        },
+        {
+          "txt": {
+            "sff": "water"
+          },
+          "et": {
+            "etn": "Hydration"
+          },
+          "dp": {
+            "off": 5918
           }
         },
         {
@@ -39931,13 +39942,35 @@
         },
         {
           "txt": {
-            "sff": "C5"
+            "sff": "housed under a 12 hour light/dark cycle"
           },
           "et": {
-            "etn": "C5"
+            "etn": "Housing"
           },
           "dp": {
-            "off": 7879
+            "off": 5849
+          }
+        },
+        {
+          "txt": {
+            "sff": "carprofen"
+          },
+          "et": {
+            "etn": "PostsurgicalMedication"
+          },
+          "dp": {
+            "off": 8858
+          }
+        },
+        {
+          "txt": {
+            "sff": "moderate"
+          },
+          "et": {
+            "etn": "ModerateInjury"
+          },
+          "dp": {
+            "off": 8214
           }
         },
         {
@@ -39949,6 +39982,94 @@
           },
           "dp": {
             "off": 7612
+          }
+        },
+        {
+          "txt": {
+            "sff": "Infinite Horizon impactor"
+          },
+          "et": {
+            "etn": "InfiniteHorizonImpactor"
+          },
+          "dp": {
+            "off": 7994
+          }
+        },
+        {
+          "txt": {
+            "sff": "atipamezole hydrochloride"
+          },
+          "et": {
+            "etn": "PostsurgicalMedication"
+          },
+          "dp": {
+            "off": 8380
+          }
+        },
+        {
+          "txt": {
+            "sff": "antibiotics"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 8962
+          }
+        },
+        {
+          "txt": {
+            "sff": "free access to food"
+          },
+          "et": {
+            "etn": "Nutrition"
+          },
+          "dp": {
+            "off": 5894
+          }
+        },
+        {
+          "txt": {
+            "sff": "contusion injury"
+          },
+          "et": {
+            "etn": "Contusion"
+          },
+          "dp": {
+            "off": 8237
+          }
+        },
+        {
+          "txt": {
+            "sff": "0.25 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 7650
+          }
+        },
+        {
+          "txt": {
+            "sff": "C5"
+          },
+          "et": {
+            "etn": "C5"
+          },
+          "dp": {
+            "off": 7879
+          }
+        },
+        {
+          "txt": {
+            "sff": "225 kdyne"
+          },
+          "et": {
+            "etn": "Force"
+          },
+          "dp": {
+            "off": 8173
           }
         }
       ],

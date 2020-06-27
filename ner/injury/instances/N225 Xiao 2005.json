@@ -92394,6 +92394,17 @@
       "dla": [
         {
           "txt": {
+            "sff": "RST in the ipsilateral dorsolateral funiculus, partially lesioned the ipsilateral ventral funiculus and gray matter"
+          },
+          "et": {
+            "etn": "InjuryArea"
+          },
+          "dp": {
+            "off": 12720
+          }
+        },
+        {
+          "txt": {
             "sff": "C3 and C4 vertebrae"
           },
           "et": {
@@ -92405,13 +92416,46 @@
         },
         {
           "txt": {
-            "sff": "microscissors"
+            "sff": "FG"
           },
           "et": {
-            "etn": "Scissors"
+            "etn": "MedicationDuringSurgery"
           },
           "dp": {
-            "off": 12565
+            "off": 12970
+          }
+        },
+        {
+          "txt": {
+            "sff": "C4"
+          },
+          "et": {
+            "etn": "C4"
+          },
+          "dp": {
+            "off": 12505
+          }
+        },
+        {
+          "txt": {
+            "sff": "C3"
+          },
+          "et": {
+            "etn": "C3"
+          },
+          "dp": {
+            "off": 12498
+          }
+        },
+        {
+          "txt": {
+            "sff": "cavity"
+          },
+          "et": {
+            "etn": "SpinalLesionSite"
+          },
+          "dp": {
+            "off": 12902
           }
         },
         {
@@ -92427,6 +92471,39 @@
         },
         {
           "txt": {
+            "sff": "right"
+          },
+          "et": {
+            "etn": "Right"
+          },
+          "dp": {
+            "off": 9615
+          }
+        },
+        {
+          "txt": {
+            "sff": "microscissors"
+          },
+          "et": {
+            "etn": "Scissors"
+          },
+          "dp": {
+            "off": 12565
+          }
+        },
+        {
+          "txt": {
+            "sff": "intraperitoneal injection"
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 12322
+          }
+        },
+        {
+          "txt": {
             "sff": "xylazine"
           },
           "et": {
@@ -92434,6 +92511,39 @@
           },
           "dp": {
             "off": 12408
+          }
+        },
+        {
+          "txt": {
+            "sff": "10 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 12418
+          }
+        },
+        {
+          "txt": {
+            "sff": "100 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 12361
+          }
+        },
+        {
+          "txt": {
+            "sff": "injection"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 12338
           }
         },
         {

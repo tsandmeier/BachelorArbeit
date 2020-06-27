@@ -64760,6 +64760,17 @@
         },
         {
           "txt": {
+            "sff": "2%"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 7577
+          }
+        },
+        {
+          "txt": {
             "sff": "isoflurane"
           },
           "et": {

@@ -92818,6 +92818,17 @@
       "dla": [
         {
           "txt": {
+            "sff": "0.2 ml/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 15480
+          }
+        },
+        {
+          "txt": {
             "sff": "microscissors"
           },
           "et": {
@@ -92825,6 +92836,39 @@
           },
           "dp": {
             "off": 15624
+          }
+        },
+        {
+          "txt": {
+            "sff": "cefazolin sodium"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 16432
+          }
+        },
+        {
+          "txt": {
+            "sff": "intraperitoneally"
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 15491
+          }
+        },
+        {
+          "txt": {
+            "sff": "40 mg/day"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 16450
           }
         },
         {
@@ -92840,6 +92884,17 @@
         },
         {
           "txt": {
+            "sff": "intraperitoneally"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 15491
+          }
+        },
+        {
+          "txt": {
             "sff": "pentobarbital sodium"
           },
           "et": {
@@ -92847,6 +92902,28 @@
           },
           "dp": {
             "off": 15458
+          }
+        },
+        {
+          "txt": {
+            "sff": "22±25°C on highly absorbent bedding"
+          },
+          "et": {
+            "etn": "KeepingCondition"
+          },
+          "dp": {
+            "off": 16381
+          }
+        },
+        {
+          "txt": {
+            "sff": "bladder expression"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 16492
           }
         },
         {

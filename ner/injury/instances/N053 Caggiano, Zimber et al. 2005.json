@@ -85397,17 +85397,6 @@
         },
         {
           "txt": {
-            "sff": "T9/T10"
-          },
-          "et": {
-            "etn": "VertebralArea"
-          },
-          "dp": {
-            "off": 9375
-          }
-        },
-        {
-          "txt": {
             "sff": "forceps"
           },
           "et": {
@@ -85419,6 +85408,61 @@
         },
         {
           "txt": {
+            "sff": "T9/T10"
+          },
+          "et": {
+            "etn": "VertebralArea"
+          },
+          "dp": {
+            "off": 9375
+          }
+        },
+        {
+          "txt": {
+            "sff": "50 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 8723
+          }
+        },
+        {
+          "txt": {
+            "sff": "mild"
+          },
+          "et": {
+            "etn": "MildInjury"
+          },
+          "dp": {
+            "off": 9890
+          }
+        },
+        {
+          "txt": {
+            "sff": "moderate"
+          },
+          "et": {
+            "etn": "ModerateInjury"
+          },
+          "dp": {
+            "off": 9866
+          }
+        },
+        {
+          "txt": {
+            "sff": "1.8%"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 8618
+          }
+        },
+        {
+          "txt": {
             "sff": "isoflurane"
           },
           "et": {
@@ -85426,6 +85470,28 @@
           },
           "dp": {
             "off": 8623
+          }
+        },
+        {
+          "txt": {
+            "sff": "Cefazolin"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 8712
+          }
+        },
+        {
+          "txt": {
+            "sff": "severe"
+          },
+          "et": {
+            "etn": "SevereInjury"
+          },
+          "dp": {
+            "off": 9844
           }
         },
         {

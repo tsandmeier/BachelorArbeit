@@ -87418,6 +87418,17 @@
       "dla": [
         {
           "txt": {
+            "sff": "Dimorph"
+          },
+          "et": {
+            "etn": "PostsurgicalMedication"
+          },
+          "dp": {
+            "off": 31749
+          }
+        },
+        {
+          "txt": {
             "sff": "pentobarbital"
           },
           "et": {
@@ -87440,6 +87451,17 @@
         },
         {
           "txt": {
+            "sff": "Bladders were manually expressed"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 32045
+          }
+        },
+        {
+          "txt": {
             "sff": "T8-T9"
           },
           "et": {
@@ -87451,6 +87473,83 @@
         },
         {
           "txt": {
+            "sff": "Baytril"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 31927
+          }
+        },
+        {
+          "txt": {
+            "sff": "i.p"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 30763
+          }
+        },
+        {
+          "txt": {
+            "sff": "i.p"
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 30763
+          }
+        },
+        {
+          "txt": {
+            "sff": "temperature controlled environment"
+          },
+          "et": {
+            "etn": "Housing"
+          },
+          "dp": {
+            "off": 29490
+          }
+        },
+        {
+          "txt": {
+            "sff": "ad libitum"
+          },
+          "et": {
+            "etn": "Nutrition"
+          },
+          "dp": {
+            "off": 29556
+          }
+        },
+        {
+          "txt": {
+            "sff": "water ad libitum"
+          },
+          "et": {
+            "etn": "Hydration"
+          },
+          "dp": {
+            "off": 29550
+          }
+        },
+        {
+          "txt": {
+            "sff": "2.5 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 31956
+          }
+        },
+        {
+          "txt": {
             "sff": "microscissors"
           },
           "et": {
@@ -87458,6 +87557,28 @@
           },
           "dp": {
             "off": 31111
+          }
+        },
+        {
+          "txt": {
+            "sff": "0.08–0.16 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 31782
+          }
+        },
+        {
+          "txt": {
+            "sff": "40 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 30753
           }
         }
       ],

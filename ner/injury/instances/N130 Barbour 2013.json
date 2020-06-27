@@ -139114,13 +139114,24 @@
       "dla": [
         {
           "txt": {
-            "sff": "T10"
+            "sff": "0.1 mg/kg"
           },
           "et": {
-            "etn": "T10"
+            "etn": "DosageExtracorporal"
           },
           "dp": {
-            "off": 10153
+            "off": 10973
+          }
+        },
+        {
+          "txt": {
+            "sff": "moderate"
+          },
+          "et": {
+            "etn": "ModerateInjury"
+          },
+          "dp": {
+            "off": 10230
           }
         },
         {
@@ -139132,6 +139143,105 @@
           },
           "dp": {
             "off": 10033
+          }
+        },
+        {
+          "txt": {
+            "sff": "free access to food and water"
+          },
+          "et": {
+            "etn": "Hydration"
+          },
+          "dp": {
+            "off": 7038
+          }
+        },
+        {
+          "txt": {
+            "sff": "2-3%"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 10057
+          }
+        },
+        {
+          "txt": {
+            "sff": "10 g"
+          },
+          "et": {
+            "etn": "Weight"
+          },
+          "dp": {
+            "off": 10282
+          }
+        },
+        {
+          "txt": {
+            "sff": "penicillin"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 10886
+          }
+        },
+        {
+          "txt": {
+            "sff": "12.5 mm"
+          },
+          "et": {
+            "etn": "Distance"
+          },
+          "dp": {
+            "off": 10301
+          }
+        },
+        {
+          "txt": {
+            "sff": "T10"
+          },
+          "et": {
+            "etn": "T10"
+          },
+          "dp": {
+            "off": 10153
+          }
+        },
+        {
+          "txt": {
+            "sff": "free access to food"
+          },
+          "et": {
+            "etn": "Nutrition"
+          },
+          "dp": {
+            "off": 7038
+          }
+        },
+        {
+          "txt": {
+            "sff": "housed in groups of three under controlled conditions of temperature and humidity"
+          },
+          "et": {
+            "etn": "Housing"
+          },
+          "dp": {
+            "off": 6950
+          }
+        },
+        {
+          "txt": {
+            "sff": "Manual bladder expression was performed"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 11249
           }
         },
         {
@@ -139165,6 +139275,17 @@
           },
           "dp": {
             "off": 10239
+          }
+        },
+        {
+          "txt": {
+            "sff": "Temgesic buprenorphine"
+          },
+          "et": {
+            "etn": "PostsurgicalMedication"
+          },
+          "dp": {
+            "off": 10936
           }
         }
       ],

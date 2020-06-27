@@ -95658,13 +95658,24 @@
       "dla": [
         {
           "txt": {
-            "sff": "Midazolam"
+            "sff": "ad libitum.Acomplete"
           },
           "et": {
-            "etn": "Anaesthetic"
+            "etn": "Hydration"
           },
           "dp": {
-            "off": 9493
+            "off": 8282
+          }
+        },
+        {
+          "txt": {
+            "sff": "analgesic Buprenex"
+          },
+          "et": {
+            "etn": "PostsurgicalMedication"
+          },
+          "dp": {
+            "off": 13081
           }
         },
         {
@@ -95680,13 +95691,24 @@
         },
         {
           "txt": {
-            "sff": "Hypnorm"
+            "sff": "All rats were kept at a 12 h light/dark cycle"
           },
           "et": {
-            "etn": "Anaesthetic"
+            "etn": "Housing"
           },
           "dp": {
-            "off": 9410
+            "off": 8208
+          }
+        },
+        {
+          "txt": {
+            "sff": "antibiotic, cefazolin"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 13386
           }
         },
         {
@@ -95698,6 +95720,105 @@
           },
           "dp": {
             "off": 9939
+          }
+        },
+        {
+          "txt": {
+            "sff": "Bladders were expressed"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 13532
+          }
+        },
+        {
+          "txt": {
+            "sff": "0.03 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 13183
+          }
+        },
+        {
+          "txt": {
+            "sff": "Midazolam"
+          },
+          "et": {
+            "etn": "Anaesthetic"
+          },
+          "dp": {
+            "off": 9493
+          }
+        },
+        {
+          "txt": {
+            "sff": "0.75 mg in 150 µl/200 g body weight"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 9504
+          }
+        },
+        {
+          "txt": {
+            "sff": "120 µl per 200 g body weight"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 9419
+          }
+        },
+        {
+          "txt": {
+            "sff": "Hypnorm"
+          },
+          "et": {
+            "etn": "Anaesthetic"
+          },
+          "dp": {
+            "off": 9410
+          }
+        },
+        {
+          "txt": {
+            "sff": "For 2 weeks after injury, up to 1 ml of Ensure (chocolate or vanilla) was fed to each rat twice each day"
+          },
+          "et": {
+            "etn": "Nutrition"
+          },
+          "dp": {
+            "off": 13635
+          }
+        },
+        {
+          "txt": {
+            "sff": "subcutaneous"
+          },
+          "et": {
+            "etn": "SubcutaneousLocation"
+          },
+          "dp": {
+            "off": 9384
+          }
+        },
+        {
+          "txt": {
+            "sff": "injection"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 9397
           }
         }
       ],

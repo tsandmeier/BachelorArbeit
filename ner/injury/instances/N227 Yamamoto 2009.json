@@ -33445,6 +33445,17 @@
         },
         {
           "txt": {
+            "sff": "Unilateral CST lesions"
+          },
+          "et": {
+            "etn": "InjuryArea"
+          },
+          "dp": {
+            "off": 17331
+          }
+        },
+        {
+          "txt": {
             "sff": "between the first and second cervical vertebrae"
           },
           "et": {
@@ -33452,6 +33463,28 @@
           },
           "dp": {
             "off": 17564
+          }
+        },
+        {
+          "txt": {
+            "sff": "first"
+          },
+          "et": {
+            "etn": "C1"
+          },
+          "dp": {
+            "off": 17576
+          }
+        },
+        {
+          "txt": {
+            "sff": "second cervical vertebrae"
+          },
+          "et": {
+            "etn": "C2"
+          },
+          "dp": {
+            "off": 17586
           }
         },
         {

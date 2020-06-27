@@ -116005,6 +116005,50 @@
         },
         {
           "txt": {
+            "sff": "injections"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 12675
+          }
+        },
+        {
+          "txt": {
+            "sff": "Buprenorfine"
+          },
+          "et": {
+            "etn": "PostSurgeryCondition"
+          },
+          "dp": {
+            "off": 13411
+          }
+        },
+        {
+          "txt": {
+            "sff": "descending rubrospinal axons, the dorsal component of the CS tract, all ascending dorsal column axons, and local spinal sensory neurites"
+          },
+          "et": {
+            "etn": "InjuryArea"
+          },
+          "dp": {
+            "off": 13944
+          }
+        },
+        {
+          "txt": {
+            "sff": "Buprenorfine"
+          },
+          "et": {
+            "etn": "MedicationDuringSurgery"
+          },
+          "dp": {
+            "off": 12691
+          }
+        },
+        {
+          "txt": {
             "sff": "microscissors"
           },
           "et": {
@@ -116023,6 +116067,28 @@
           },
           "dp": {
             "off": 12856
+          }
+        },
+        {
+          "txt": {
+            "sff": "1–2%"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 12851
+          }
+        },
+        {
+          "txt": {
+            "sff": "intraperitoneal (i.p.)"
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 12652
           }
         },
         {

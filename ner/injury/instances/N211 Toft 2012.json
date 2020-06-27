@@ -91666,6 +91666,17 @@
       "dla": [
         {
           "txt": {
+            "sff": "bilateral dorsal column"
+          },
+          "et": {
+            "etn": "DorsalInjuryArea"
+          },
+          "dp": {
+            "off": 14415
+          }
+        },
+        {
+          "txt": {
             "sff": "bilateral dorsal column lesion"
           },
           "et": {
@@ -91673,6 +91684,17 @@
           },
           "dp": {
             "off": 14415
+          }
+        },
+        {
+          "txt": {
+            "sff": "analgesic"
+          },
+          "et": {
+            "etn": "PostsurgicalMedication"
+          },
+          "dp": {
+            "off": 16029
           }
         },
         {
@@ -91688,6 +91710,17 @@
         },
         {
           "txt": {
+            "sff": "4"
+          },
+          "et": {
+            "etn": "L4"
+          },
+          "dp": {
+            "off": 14613
+          }
+        },
+        {
+          "txt": {
             "sff": "halothane"
           },
           "et": {
@@ -91695,6 +91728,28 @@
           },
           "dp": {
             "off": 14592
+          }
+        },
+        {
+          "txt": {
+            "sff": "L3"
+          },
+          "et": {
+            "etn": "L3"
+          },
+          "dp": {
+            "off": 14610
+          }
+        },
+        {
+          "txt": {
+            "sff": "0.06 mg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 16064
           }
         }
       ],

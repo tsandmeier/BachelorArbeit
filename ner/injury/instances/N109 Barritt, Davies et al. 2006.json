@@ -118226,6 +118226,39 @@
       "dla": [
         {
           "txt": {
+            "sff": "crushed"
+          },
+          "et": {
+            "etn": "Compression"
+          },
+          "dp": {
+            "off": 7516
+          }
+        },
+        {
+          "txt": {
+            "sff": "lignocaine"
+          },
+          "et": {
+            "etn": "MedicationDuringSurgery"
+          },
+          "dp": {
+            "off": 7234
+          }
+        },
+        {
+          "txt": {
+            "sff": "0.25mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 6935
+          }
+        },
+        {
+          "txt": {
             "sff": "C4"
           },
           "et": {
@@ -118237,13 +118270,13 @@
         },
         {
           "txt": {
-            "sff": "crushed"
+            "sff": "60mg/kg"
           },
           "et": {
-            "etn": "Compression"
+            "etn": "DosageExtracorporal"
           },
           "dp": {
-            "off": 7516
+            "off": 6960
           }
         },
         {
@@ -118259,6 +118292,28 @@
         },
         {
           "txt": {
+            "sff": "spinal cord"
+          },
+          "et": {
+            "etn": "SpinalCord"
+          },
+          "dp": {
+            "off": 7312
+          }
+        },
+        {
+          "txt": {
+            "sff": "dorsal columns"
+          },
+          "et": {
+            "etn": "InjuryArea"
+          },
+          "dp": {
+            "off": 7496
+          }
+        },
+        {
+          "txt": {
             "sff": "ketamine"
           },
           "et": {
@@ -118270,6 +118325,17 @@
         },
         {
           "txt": {
+            "sff": "intraperitoneal"
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 6905
+          }
+        },
+        {
+          "txt": {
             "sff": "medetomidine"
           },
           "et": {
@@ -118277,6 +118343,17 @@
           },
           "dp": {
             "off": 6921
+          }
+        },
+        {
+          "txt": {
+            "sff": "intraperitoneal"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 6905
           }
         },
         {

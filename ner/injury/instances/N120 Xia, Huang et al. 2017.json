@@ -76978,10 +76978,32 @@
       "dla": [
         {
           "txt": {
+            "sff": "injection"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 10177
+          }
+        },
+        {
+          "txt": {
             "sff": "T7–T9"
           },
           "et": {
             "etn": "VertebralArea"
+          },
+          "dp": {
+            "off": 10268
+          }
+        },
+        {
+          "txt": {
+            "sff": "T7"
+          },
+          "et": {
+            "etn": "T7"
           },
           "dp": {
             "off": 10268
@@ -77000,6 +77022,17 @@
         },
         {
           "txt": {
+            "sff": "T9"
+          },
+          "et": {
+            "etn": "T9"
+          },
+          "dp": {
+            "off": 10271
+          }
+        },
+        {
+          "txt": {
             "sff": "No. 11 scalpel blade"
           },
           "et": {
@@ -77007,6 +77040,50 @@
           },
           "dp": {
             "off": 11682
+          }
+        },
+        {
+          "txt": {
+            "sff": "3 mL/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 10190
+          }
+        },
+        {
+          "txt": {
+            "sff": "chloral hydrate"
+          },
+          "et": {
+            "etn": "ChloralHydrate"
+          },
+          "dp": {
+            "off": 10198
+          }
+        },
+        {
+          "txt": {
+            "sff": "intraperitoneal"
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 10161
+          }
+        },
+        {
+          "txt": {
+            "sff": "right-side"
+          },
+          "et": {
+            "etn": "Right"
+          },
+          "dp": {
+            "off": 1377
           }
         }
       ],

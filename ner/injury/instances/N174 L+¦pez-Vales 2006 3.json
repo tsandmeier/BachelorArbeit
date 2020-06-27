@@ -69146,6 +69146,39 @@
       "dla": [
         {
           "txt": {
+            "sff": "Bladders were expressed"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 8587
+          }
+        },
+        {
+          "txt": {
+            "sff": "ad libitum"
+          },
+          "et": {
+            "etn": "Nutrition"
+          },
+          "dp": {
+            "off": 8575
+          }
+        },
+        {
+          "txt": {
+            "sff": "water"
+          },
+          "et": {
+            "etn": "Hydration"
+          },
+          "dp": {
+            "off": 8560
+          }
+        },
+        {
+          "txt": {
             "sff": "pentobarbital"
           },
           "et": {
@@ -69157,6 +69190,39 @@
         },
         {
           "txt": {
+            "sff": "40 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 7504
+          }
+        },
+        {
+          "txt": {
+            "sff": "i.p."
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 7514
+          }
+        },
+        {
+          "txt": {
+            "sff": "a 12-h light/dark cycle"
+          },
+          "et": {
+            "etn": "Housing"
+          },
+          "dp": {
+            "off": 8523
+          }
+        },
+        {
+          "txt": {
             "sff": "microscissors"
           },
           "et": {
@@ -69164,6 +69230,17 @@
           },
           "dp": {
             "off": 7637
+          }
+        },
+        {
+          "txt": {
+            "sff": "i.p."
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 7514
           }
         },
         {

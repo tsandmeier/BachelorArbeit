@@ -106898,13 +106898,13 @@
       "dla": [
         {
           "txt": {
-            "sff": "xylazine"
+            "sff": "left"
           },
           "et": {
-            "etn": "Xylazine"
+            "etn": "Left"
           },
           "dp": {
-            "off": 19437
+            "off": 19838
           }
         },
         {
@@ -106920,6 +106920,72 @@
         },
         {
           "txt": {
+            "sff": "10 mg/kg of body weight"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 19447
+          }
+        },
+        {
+          "txt": {
+            "sff": "Finadyne"
+          },
+          "et": {
+            "etn": "PostsurgicalMedication"
+          },
+          "dp": {
+            "off": 20535
+          }
+        },
+        {
+          "txt": {
+            "sff": "intramuscular injection"
+          },
+          "et": {
+            "etn": "IntramuscularLocation"
+          },
+          "dp": {
+            "off": 19327
+          }
+        },
+        {
+          "txt": {
+            "sff": "microscissors"
+          },
+          "et": {
+            "etn": "Scissors"
+          },
+          "dp": {
+            "off": 19913
+          }
+        },
+        {
+          "txt": {
+            "sff": "food"
+          },
+          "et": {
+            "etn": "Nutrition"
+          },
+          "dp": {
+            "off": 17361
+          }
+        },
+        {
+          "txt": {
+            "sff": "xylazine"
+          },
+          "et": {
+            "etn": "Xylazine"
+          },
+          "dp": {
+            "off": 19437
+          }
+        },
+        {
+          "txt": {
             "sff": "left dorsolateral funiculus of the spinal cord was lesioned"
           },
           "et": {
@@ -106927,6 +106993,39 @@
           },
           "dp": {
             "off": 19838
+          }
+        },
+        {
+          "txt": {
+            "sff": "2.4 mg/kg of body weight"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 20557
+          }
+        },
+        {
+          "txt": {
+            "sff": "100 mg/kg of body weight"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 19364
+          }
+        },
+        {
+          "txt": {
+            "sff": "ad libitum access to water"
+          },
+          "et": {
+            "etn": "Hydration"
+          },
+          "dp": {
+            "off": 17330
           }
         },
         {
@@ -106942,13 +107041,35 @@
         },
         {
           "txt": {
-            "sff": "microscissors"
+            "sff": "housed under standard conditions, maintained in a 12 hr light/dark cycle"
           },
           "et": {
-            "etn": "Scissors"
+            "etn": "Housing"
           },
           "dp": {
-            "off": 19913
+            "off": 17248
+          }
+        },
+        {
+          "txt": {
+            "sff": "injection"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 19341
+          }
+        },
+        {
+          "txt": {
+            "sff": "RST projection area and slightly damaged the spinal gray matter"
+          },
+          "et": {
+            "etn": "InjuryArea"
+          },
+          "dp": {
+            "off": 20070
           }
         }
       ],

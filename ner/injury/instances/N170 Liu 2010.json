@@ -25178,6 +25178,28 @@
       "dla": [
         {
           "txt": {
+            "sff": "left"
+          },
+          "et": {
+            "etn": "Left"
+          },
+          "dp": {
+            "off": 5212
+          }
+        },
+        {
+          "txt": {
+            "sff": "gentamicin"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 6226
+          }
+        },
+        {
+          "txt": {
             "sff": "scalpel"
           },
           "et": {
@@ -25185,6 +25207,28 @@
           },
           "dp": {
             "off": 5276
+          }
+        },
+        {
+          "txt": {
+            "sff": "T12"
+          },
+          "et": {
+            "etn": "T12"
+          },
+          "dp": {
+            "off": 5075
+          }
+        },
+        {
+          "txt": {
+            "sff": "1×105 U"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 6218
           }
         },
         {
@@ -25200,6 +25244,17 @@
         },
         {
           "txt": {
+            "sff": "T11"
+          },
+          "et": {
+            "etn": "T11"
+          },
+          "dp": {
+            "off": 5071
+          }
+        },
+        {
+          "txt": {
             "sff": "T11–T12"
           },
           "et": {
@@ -25207,6 +25262,17 @@
           },
           "dp": {
             "off": 5071
+          }
+        },
+        {
+          "txt": {
+            "sff": "lidocaine"
+          },
+          "et": {
+            "etn": "Anaesthetic"
+          },
+          "dp": {
+            "off": 5160
           }
         }
       ],

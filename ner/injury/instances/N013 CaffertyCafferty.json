@@ -110266,6 +110266,17 @@
       "dla": [
         {
           "txt": {
+            "sff": "food"
+          },
+          "et": {
+            "etn": "Nutrition"
+          },
+          "dp": {
+            "off": 7544
+          }
+        },
+        {
+          "txt": {
             "sff": "C5, C6, C8, and T1"
           },
           "et": {
@@ -110288,6 +110299,17 @@
         },
         {
           "txt": {
+            "sff": "Dorsal roots"
+          },
+          "et": {
+            "etn": "InjuryArea"
+          },
+          "dp": {
+            "off": 7142
+          }
+        },
+        {
+          "txt": {
             "sff": "isoflurane"
           },
           "et": {
@@ -110295,6 +110317,28 @@
           },
           "dp": {
             "off": 7072
+          }
+        },
+        {
+          "txt": {
+            "sff": "inhalation"
+          },
+          "et": {
+            "etn": "InhalationDelivery"
+          },
+          "dp": {
+            "off": 7046
+          }
+        },
+        {
+          "txt": {
+            "sff": "2%"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 7069
           }
         }
       ],

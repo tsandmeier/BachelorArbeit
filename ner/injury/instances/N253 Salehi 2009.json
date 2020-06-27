@@ -46605,13 +46605,13 @@
         },
         {
           "txt": {
-            "sff": "xylazine"
+            "sff": "acetaminophen 1-2 mg/ml"
           },
           "et": {
-            "etn": "Xylazine"
+            "etn": "DosageExtracorporal"
           },
           "dp": {
-            "off": 9811
+            "off": 10303
           }
         },
         {
@@ -46623,6 +46623,39 @@
           },
           "dp": {
             "off": 9787
+          }
+        },
+        {
+          "txt": {
+            "sff": "The animals were maintained on a 12 hour dark/light cycle at 20°C."
+          },
+          "et": {
+            "etn": "Housing"
+          },
+          "dp": {
+            "off": 3952
+          }
+        },
+        {
+          "txt": {
+            "sff": "Bladder expression"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 10347
+          }
+        },
+        {
+          "txt": {
+            "sff": "analgesic"
+          },
+          "et": {
+            "etn": "PostsurgicalMedication"
+          },
+          "dp": {
+            "off": 10292
           }
         },
         {
@@ -46645,6 +46678,116 @@
           },
           "dp": {
             "off": 10090
+          }
+        },
+        {
+          "txt": {
+            "sff": "ad libitum"
+          },
+          "et": {
+            "etn": "Nutrition"
+          },
+          "dp": {
+            "off": 4051
+          }
+        },
+        {
+          "txt": {
+            "sff": "5 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 9821
+          }
+        },
+        {
+          "txt": {
+            "sff": "intraperitoneal"
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 9757
+          }
+        },
+        {
+          "txt": {
+            "sff": "water was proportioned ad libitum"
+          },
+          "et": {
+            "etn": "Hydration"
+          },
+          "dp": {
+            "off": 4028
+          }
+        },
+        {
+          "txt": {
+            "sff": "xylazine"
+          },
+          "et": {
+            "etn": "Xylazine"
+          },
+          "dp": {
+            "off": 9811
+          }
+        },
+        {
+          "txt": {
+            "sff": "antibiotic"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 10256
+          }
+        },
+        {
+          "txt": {
+            "sff": "20 μl"
+          },
+          "et": {
+            "etn": "Volume"
+          },
+          "dp": {
+            "off": 10159
+          }
+        },
+        {
+          "txt": {
+            "sff": "50 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 9797
+          }
+        },
+        {
+          "txt": {
+            "sff": "injections"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 9773
+          }
+        },
+        {
+          "txt": {
+            "sff": "50 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 10278
           }
         }
       ],

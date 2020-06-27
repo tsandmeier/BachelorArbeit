@@ -9914,7 +9914,7 @@
           "dti": 1238,
           "sco": 240,
           "dco": 7264,
-          "txt": "n-"
+          "txt": ""
         },
         {
           "si": 40,
@@ -10098,7 +10098,7 @@
           "dti": 1261,
           "sco": 341,
           "dco": 7365,
-          "txt": "n-"
+          "txt": ""
         },
         {
           "si": 40,
@@ -10274,7 +10274,7 @@
           "dti": 1283,
           "sco": 445,
           "dco": 7469,
-          "txt": "n-"
+          "txt": ""
         },
         {
           "si": 40,
@@ -10442,7 +10442,7 @@
           "dti": 1304,
           "sco": 533,
           "dco": 7557,
-          "txt": "n-"
+          "txt": ""
         },
         {
           "si": 40,
@@ -10610,7 +10610,7 @@
           "dti": 1325,
           "sco": 629,
           "dco": 7653,
-          "txt": "n-"
+          "txt": ""
         },
         {
           "si": 40,
@@ -11034,7 +11034,7 @@
           "dti": 1378,
           "sco": 54,
           "dco": 7905,
-          "txt": "n-"
+          "txt": ""
         },
         {
           "si": 42,
@@ -12978,7 +12978,7 @@
           "dti": 1621,
           "sco": 71,
           "dco": 9186,
-          "txt": "n-"
+          "txt": ""
         },
         {
           "si": 54,
@@ -19122,7 +19122,7 @@
           "dti": 2389,
           "sco": 65,
           "dco": 12965,
-          "txt": "n-"
+          "txt": ""
         },
         {
           "si": 84,
@@ -19306,7 +19306,7 @@
           "dti": 2412,
           "sco": 167,
           "dco": 13067,
-          "txt": "n-"
+          "txt": ""
         },
         {
           "si": 84,
@@ -19482,7 +19482,7 @@
           "dti": 2434,
           "sco": 272,
           "dco": 13172,
-          "txt": "n-"
+          "txt": ""
         },
         {
           "si": 84,
@@ -19650,7 +19650,7 @@
           "dti": 2455,
           "sco": 360,
           "dco": 13260,
-          "txt": "n-"
+          "txt": ""
         },
         {
           "si": 84,
@@ -43874,7 +43874,7 @@
           "dti": 5483,
           "sco": 202,
           "dco": 27922,
-          "txt": "p-"
+          "txt": ""
         },
         {
           "si": 185,
@@ -44242,7 +44242,7 @@
           "dti": 5529,
           "sco": 167,
           "dco": 28125,
-          "txt": "p-"
+          "txt": ""
         },
         {
           "si": 186,
@@ -44626,7 +44626,7 @@
           "dti": 5577,
           "sco": 181,
           "dco": 28342,
-          "txt": "p-"
+          "txt": ""
         },
         {
           "si": 187,
@@ -45258,7 +45258,7 @@
           "dti": 5656,
           "sco": 359,
           "dco": 28737,
-          "txt": "p-"
+          "txt": ""
         },
         {
           "si": 188,
@@ -46130,7 +46130,7 @@
           "dti": 5765,
           "sco": 157,
           "dco": 29275,
-          "txt": "p-"
+          "txt": ""
         },
         {
           "si": 191,
@@ -46650,7 +46650,7 @@
           "dti": 5830,
           "sco": 434,
           "dco": 29552,
-          "txt": "p-"
+          "txt": ""
         },
         {
           "si": 191,
@@ -47098,7 +47098,7 @@
           "dti": 5886,
           "sco": 199,
           "dco": 29794,
-          "txt": "p-"
+          "txt": ""
         },
         {
           "si": 192,
@@ -47466,7 +47466,7 @@
           "dti": 5932,
           "sco": 173,
           "dco": 30003,
-          "txt": "p-"
+          "txt": ""
         },
         {
           "si": 193,
@@ -47746,7 +47746,7 @@
           "dti": 5967,
           "sco": 107,
           "dco": 30146,
-          "txt": "p-"
+          "txt": ""
         },
         {
           "si": 194,
@@ -48730,7 +48730,7 @@
           "dti": 6090,
           "sco": 313,
           "dco": 30801,
-          "txt": "p-"
+          "txt": ""
         },
         {
           "si": 197,
@@ -49266,7 +49266,7 @@
           "dti": 6157,
           "sco": 168,
           "dco": 31160,
-          "txt": "p-"
+          "txt": ""
         },
         {
           "si": 199,
@@ -49554,7 +49554,7 @@
           "dti": 6193,
           "sco": 169,
           "dco": 31351,
-          "txt": "p-"
+          "txt": ""
         },
         {
           "si": 200,
@@ -57533,13 +57533,35 @@
         },
         {
           "txt": {
-            "sff": "laminectomy"
+            "sff": "water were provided ad libitum"
           },
           "et": {
-            "etn": "Laminectomy"
+            "etn": "Hydration"
           },
           "dp": {
-            "off": 7309
+            "off": 6992
+          }
+        },
+        {
+          "txt": {
+            "sff": "chloral hydrate"
+          },
+          "et": {
+            "etn": "ChloralHydrate"
+          },
+          "dp": {
+            "off": 8445
+          }
+        },
+        {
+          "txt": {
+            "sff": "50mmto"
+          },
+          "et": {
+            "etn": "Distance"
+          },
+          "dp": {
+            "off": 8564
           }
         },
         {
@@ -57551,6 +57573,28 @@
           },
           "dp": {
             "off": 8531
+          }
+        },
+        {
+          "txt": {
+            "sff": "manual bladder expression"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 8981
+          }
+        },
+        {
+          "txt": {
+            "sff": "0.8mg/100 g"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 8696
           }
         },
         {
@@ -57573,6 +57617,83 @@
           },
           "dp": {
             "off": 8432
+          }
+        },
+        {
+          "txt": {
+            "sff": "maintained under standard housing conditions (temperature: 18–24∘C; relative humidity: 45%; light and dark cycle: 12 h : 12 h)"
+          },
+          "et": {
+            "etn": "Housing"
+          },
+          "dp": {
+            "off": 6855
+          }
+        },
+        {
+          "txt": {
+            "sff": "laminectomy"
+          },
+          "et": {
+            "etn": "Laminectomy"
+          },
+          "dp": {
+            "off": 7309
+          }
+        },
+        {
+          "txt": {
+            "sff": "buprenorphine"
+          },
+          "et": {
+            "etn": "PostsurgicalMedication"
+          },
+          "dp": {
+            "off": 8633
+          }
+        },
+        {
+          "txt": {
+            "sff": "0.1mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 8648
+          }
+        },
+        {
+          "txt": {
+            "sff": "ad libitum"
+          },
+          "et": {
+            "etn": "Nutrition"
+          },
+          "dp": {
+            "off": 7012
+          }
+        },
+        {
+          "txt": {
+            "sff": "10 g"
+          },
+          "et": {
+            "etn": "Weight"
+          },
+          "dp": {
+            "off": 8507
+          }
+        },
+        {
+          "txt": {
+            "sff": "Gentamicin"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 8684
           }
         }
       ],

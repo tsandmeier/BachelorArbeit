@@ -57138,6 +57138,17 @@
       "dla": [
         {
           "txt": {
+            "sff": "right"
+          },
+          "et": {
+            "etn": "Right"
+          },
+          "dp": {
+            "off": 5337
+          }
+        },
+        {
+          "txt": {
             "sff": "C5"
           },
           "et": {
@@ -57149,35 +57160,13 @@
         },
         {
           "txt": {
-            "sff": "C5"
+            "sff": "0.1mg=kg"
           },
           "et": {
-            "etn": "C5"
+            "etn": "DosageExtracorporal"
           },
           "dp": {
-            "off": 5319
-          }
-        },
-        {
-          "txt": {
-            "sff": "ketamine"
-          },
-          "et": {
-            "etn": "KetamineAsAnaesthetic"
-          },
-          "dp": {
-            "off": 6695
-          }
-        },
-        {
-          "txt": {
-            "sff": "hemisection"
-          },
-          "et": {
-            "etn": "LateralHemisection"
-          },
-          "dp": {
-            "off": 5118
+            "off": 7703
           }
         },
         {
@@ -57193,6 +57182,17 @@
         },
         {
           "txt": {
+            "sff": "200mg=kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 7674
+          }
+        },
+        {
+          "txt": {
             "sff": "Infinite Horizon Impact"
           },
           "et": {
@@ -57200,6 +57200,116 @@
           },
           "dp": {
             "off": 6913
+          }
+        },
+        {
+          "txt": {
+            "sff": "isoflurane"
+          },
+          "et": {
+            "etn": "Isoflurane"
+          },
+          "dp": {
+            "off": 5239
+          }
+        },
+        {
+          "txt": {
+            "sff": "60mg=kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 6705
+          }
+        },
+        {
+          "txt": {
+            "sff": "ampicillin"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 7662
+          }
+        },
+        {
+          "txt": {
+            "sff": "intraperitoneally"
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 6672
+          }
+        },
+        {
+          "txt": {
+            "sff": "C5"
+          },
+          "et": {
+            "etn": "C5"
+          },
+          "dp": {
+            "off": 5319
+          }
+        },
+        {
+          "txt": {
+            "sff": "hemisection"
+          },
+          "et": {
+            "etn": "LateralHemisection"
+          },
+          "dp": {
+            "off": 5118
+          }
+        },
+        {
+          "txt": {
+            "sff": "ketamine"
+          },
+          "et": {
+            "etn": "KetamineAsAnaesthetic"
+          },
+          "dp": {
+            "off": 6695
+          }
+        },
+        {
+          "txt": {
+            "sff": "injected"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 6663
+          }
+        },
+        {
+          "txt": {
+            "sff": "200 kdyne"
+          },
+          "et": {
+            "etn": "Force"
+          },
+          "dp": {
+            "off": 7196
+          }
+        },
+        {
+          "txt": {
+            "sff": "buprenorphine"
+          },
+          "et": {
+            "etn": "PostsurgicalMedication"
+          },
+          "dp": {
+            "off": 7688
           }
         },
         {
@@ -57215,13 +57325,13 @@
         },
         {
           "txt": {
-            "sff": "isoflurane"
+            "sff": "10mg=kg"
           },
           "et": {
-            "etn": "Isoflurane"
+            "etn": "DosageExtracorporal"
           },
           "dp": {
-            "off": 5239
+            "off": 6728
           }
         }
       ],

@@ -58429,6 +58429,17 @@
         },
         {
           "txt": {
+            "sff": "i.p."
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 8050
+          }
+        },
+        {
+          "txt": {
             "sff": "sodium pentobarbital"
           },
           "et": {
@@ -58451,6 +58462,17 @@
         },
         {
           "txt": {
+            "sff": "Rose Bengal"
+          },
+          "et": {
+            "etn": "MedicationDuringSurgery"
+          },
+          "dp": {
+            "off": 8410
+          }
+        },
+        {
+          "txt": {
             "sff": "lesion was induced by illuminating"
           },
           "et": {
@@ -58458,6 +58480,39 @@
           },
           "dp": {
             "off": 8706
+          }
+        },
+        {
+          "txt": {
+            "sff": "i.p."
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 8050
+          }
+        },
+        {
+          "txt": {
+            "sff": "200 kLux"
+          },
+          "et": {
+            "etn": "LightIntensity"
+          },
+          "dp": {
+            "off": 9162
+          }
+        },
+        {
+          "txt": {
+            "sff": "50 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 8040
           }
         }
       ],

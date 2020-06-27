@@ -81445,6 +81445,50 @@
         },
         {
           "txt": {
+            "sff": "Food"
+          },
+          "et": {
+            "etn": "Nutrition"
+          },
+          "dp": {
+            "off": 15568
+          }
+        },
+        {
+          "txt": {
+            "sff": "0.01 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 15307
+          }
+        },
+        {
+          "txt": {
+            "sff": "a12 h light-dark cycle"
+          },
+          "et": {
+            "etn": "Housing"
+          },
+          "dp": {
+            "off": 15544
+          }
+        },
+        {
+          "txt": {
+            "sff": "water"
+          },
+          "et": {
+            "etn": "Hydration"
+          },
+          "dp": {
+            "off": 15577
+          }
+        },
+        {
+          "txt": {
             "sff": "iridectomy scissors"
           },
           "et": {
@@ -81456,6 +81500,28 @@
         },
         {
           "txt": {
+            "sff": "bladders of the animals were emptied"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 15346
+          }
+        },
+        {
+          "txt": {
+            "sff": "enrofloxacine"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 15240
+          }
+        },
+        {
+          "txt": {
             "sff": "T7"
           },
           "et": {
@@ -81463,6 +81529,39 @@
           },
           "dp": {
             "off": 14766
+          }
+        },
+        {
+          "txt": {
+            "sff": "buprenorphine"
+          },
+          "et": {
+            "etn": "PostsurgicalMedication"
+          },
+          "dp": {
+            "off": 15292
+          }
+        },
+        {
+          "txt": {
+            "sff": "inhalation"
+          },
+          "et": {
+            "etn": "InhalationDelivery"
+          },
+          "dp": {
+            "off": 14657
+          }
+        },
+        {
+          "txt": {
+            "sff": "8.5 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 15255
           }
         },
         {

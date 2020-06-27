@@ -108218,6 +108218,28 @@
       "dla": [
         {
           "txt": {
+            "sff": "ad libitum access to food"
+          },
+          "et": {
+            "etn": "Nutrition"
+          },
+          "dp": {
+            "off": 6888
+          }
+        },
+        {
+          "txt": {
+            "sff": "Animals were housed under standard conditions"
+          },
+          "et": {
+            "etn": "Housing"
+          },
+          "dp": {
+            "off": 6837
+          }
+        },
+        {
+          "txt": {
             "sff": "T9‚ÄìT10"
           },
           "et": {
@@ -108225,6 +108247,17 @@
           },
           "dp": {
             "off": 12285
+          }
+        },
+        {
+          "txt": {
+            "sff": "ÄìT10"
+          },
+          "et": {
+            "etn": "T10"
+          },
+          "dp": {
+            "off": 12288
           }
         },
         {
@@ -108247,6 +108280,50 @@
           },
           "dp": {
             "off": 11863
+          }
+        },
+        {
+          "txt": {
+            "sff": "water.Weestablished"
+          },
+          "et": {
+            "etn": "Hydration"
+          },
+          "dp": {
+            "off": 6918
+          }
+        },
+        {
+          "txt": {
+            "sff": "gas administered via facemask"
+          },
+          "et": {
+            "etn": "InhalationDelivery"
+          },
+          "dp": {
+            "off": 11874
+          }
+        },
+        {
+          "txt": {
+            "sff": "T9"
+          },
+          "et": {
+            "etn": "T9"
+          },
+          "dp": {
+            "off": 12285
+          }
+        },
+        {
+          "txt": {
+            "sff": "manual bladder expression"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 13342
           }
         },
         {

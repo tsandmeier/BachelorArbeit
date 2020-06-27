@@ -120941,6 +120941,17 @@
         },
         {
           "txt": {
+            "sff": "25%"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 5437
+          }
+        },
+        {
+          "txt": {
             "sff": "fine forceps (Dumont no. 5)"
           },
           "et": {
@@ -120981,6 +120992,17 @@
           },
           "dp": {
             "off": 5731
+          }
+        },
+        {
+          "txt": {
+            "sff": "1-2%"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 5405
           }
         }
       ],

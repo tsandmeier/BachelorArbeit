@@ -138858,6 +138858,105 @@
       "dla": [
         {
           "txt": {
+            "sff": "antibiotics"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 14294
+          }
+        },
+        {
+          "txt": {
+            "sff": "Temgesic"
+          },
+          "et": {
+            "etn": "PostsurgicalMedication"
+          },
+          "dp": {
+            "off": 14162
+          }
+        },
+        {
+          "txt": {
+            "sff": "2%"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 13930
+          }
+        },
+        {
+          "txt": {
+            "sff": "23.8 g"
+          },
+          "et": {
+            "etn": "Force"
+          },
+          "dp": {
+            "off": 14713
+          }
+        },
+        {
+          "txt": {
+            "sff": "isoflurane"
+          },
+          "et": {
+            "etn": "Isoflurane"
+          },
+          "dp": {
+            "off": 13917
+          }
+        },
+        {
+          "txt": {
+            "sff": "gas anesthesia"
+          },
+          "et": {
+            "etn": "InhalationDelivery"
+          },
+          "dp": {
+            "off": 13872
+          }
+        },
+        {
+          "txt": {
+            "sff": "25uC  after SCI in a 12:12 h light/dark photoperiod"
+          },
+          "et": {
+            "etn": "Housing"
+          },
+          "dp": {
+            "off": 11025
+          }
+        },
+        {
+          "txt": {
+            "sff": "Food"
+          },
+          "et": {
+            "etn": "Nutrition"
+          },
+          "dp": {
+            "off": 11078
+          }
+        },
+        {
+          "txt": {
+            "sff": "ad  libitum"
+          },
+          "et": {
+            "etn": "Hydration"
+          },
+          "dp": {
+            "off": 11155
+          }
+        },
+        {
+          "txt": {
             "sff": "T7"
           },
           "et": {
@@ -138865,6 +138964,17 @@
           },
           "dp": {
             "off": 14812
+          }
+        },
+        {
+          "txt": {
+            "sff": "bladder was expressed"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 11405
           }
         },
         {
@@ -138880,13 +138990,13 @@
         },
         {
           "txt": {
-            "sff": "isoflurane"
+            "sff": "50 mg/kg"
           },
           "et": {
-            "etn": "Isoflurane"
+            "etn": "DosageExtracorporal"
           },
           "dp": {
-            "off": 13917
+            "off": 14153
           }
         },
         {

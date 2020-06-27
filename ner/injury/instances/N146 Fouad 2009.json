@@ -43816,6 +43816,28 @@
         },
         {
           "txt": {
+            "sff": "120 ml per 200 g body weight"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 5280
+          }
+        },
+        {
+          "txt": {
+            "sff": "S.C."
+          },
+          "et": {
+            "etn": "SubcutaneousLocation"
+          },
+          "dp": {
+            "off": 5406
+          }
+        },
+        {
+          "txt": {
             "sff": "Th8"
           },
           "et": {
@@ -43827,6 +43849,50 @@
         },
         {
           "txt": {
+            "sff": "antibiotics"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 7156
+          }
+        },
+        {
+          "txt": {
+            "sff": "bladders were manually emptied"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 6550
+          }
+        },
+        {
+          "txt": {
+            "sff": "0.75mg in 150 ¬µl per 200 g body weight"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 5365
+          }
+        },
+        {
+          "txt": {
+            "sff": "100mg kg-1"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 7188
+          }
+        },
+        {
+          "txt": {
             "sff": "Hypnorm (fentanyl citrate"
           },
           "et": {
@@ -43834,6 +43900,28 @@
           },
           "dp": {
             "off": 5253
+          }
+        },
+        {
+          "txt": {
+            "sff": "S.C."
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 5406
+          }
+        },
+        {
+          "txt": {
+            "sff": "were group housed, mixed together in guineapig cages"
+          },
+          "et": {
+            "etn": "Housing"
+          },
+          "dp": {
+            "off": 6490
           }
         }
       ],

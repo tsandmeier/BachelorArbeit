@@ -43003,6 +43003,17 @@
         },
         {
           "txt": {
+            "sff": "0.5–3.0%"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 22513
+          }
+        },
+        {
+          "txt": {
             "sff": "unilateral dorsal column lesion"
           },
           "et": {
@@ -43021,6 +43032,28 @@
           },
           "dp": {
             "off": 22330
+          }
+        },
+        {
+          "txt": {
+            "sff": "0.4 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 22340
+          }
+        },
+        {
+          "txt": {
+            "sff": "8–10 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 22314
           }
         }
       ],

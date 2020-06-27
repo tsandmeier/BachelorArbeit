@@ -46882,6 +46882,28 @@
       "dla": [
         {
           "txt": {
+            "sff": "intraperitoneal injection"
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 8055
+          }
+        },
+        {
+          "txt": {
+            "sff": "60000 U/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 8516
+          }
+        },
+        {
+          "txt": {
             "sff": "T10"
           },
           "et": {
@@ -46904,6 +46926,39 @@
         },
         {
           "txt": {
+            "sff": "40–50 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 8112
+          }
+        },
+        {
+          "txt": {
+            "sff": "25mm"
+          },
+          "et": {
+            "etn": "Distance"
+          },
+          "dp": {
+            "off": 8312
+          }
+        },
+        {
+          "txt": {
+            "sff": "Bicillin"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 8506
+          }
+        },
+        {
+          "txt": {
             "sff": "sodium pentobarbiturate"
           },
           "et": {
@@ -46922,6 +46977,39 @@
           },
           "dp": {
             "off": 8241
+          }
+        },
+        {
+          "txt": {
+            "sff": "bladder expression"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 8565
+          }
+        },
+        {
+          "txt": {
+            "sff": "weight (10.0 g)"
+          },
+          "et": {
+            "etn": "Weight"
+          },
+          "dp": {
+            "off": 8291
+          }
+        },
+        {
+          "txt": {
+            "sff": "injection"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 8071
           }
         }
       ],

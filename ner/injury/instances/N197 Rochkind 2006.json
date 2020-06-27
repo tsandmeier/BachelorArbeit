@@ -43978,6 +43978,17 @@
       "dla": [
         {
           "txt": {
+            "sff": "intraperitoneal injections"
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 9802
+          }
+        },
+        {
+          "txt": {
             "sff": "Xylosine"
           },
           "et": {
@@ -44011,6 +44022,83 @@
         },
         {
           "txt": {
+            "sff": "The paraplegic rats were kept solitary in cages, but were gathered in groups for 1 h every day, in a large facility"
+          },
+          "et": {
+            "etn": "Housing"
+          },
+          "dp": {
+            "off": 12208
+          }
+        },
+        {
+          "txt": {
+            "sff": "T7"
+          },
+          "et": {
+            "etn": "T7"
+          },
+          "dp": {
+            "off": 10522
+          }
+        },
+        {
+          "txt": {
+            "sff": "injections"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 9818
+          }
+        },
+        {
+          "txt": {
+            "sff": "T8"
+          },
+          "et": {
+            "etn": "T8"
+          },
+          "dp": {
+            "off": 10525
+          }
+        },
+        {
+          "txt": {
+            "sff": "rats were assisted in urination"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 12025
+          }
+        },
+        {
+          "txt": {
+            "sff": "4.8 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 9942
+          }
+        },
+        {
+          "txt": {
+            "sff": "sterile food"
+          },
+          "et": {
+            "etn": "Nutrition"
+          },
+          "dp": {
+            "off": 12194
+          }
+        },
+        {
+          "txt": {
             "sff": "Ketamine"
           },
           "et": {
@@ -44018,6 +44106,17 @@
           },
           "dp": {
             "off": 9874
+          }
+        },
+        {
+          "txt": {
+            "sff": "125–130 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 9899
           }
         },
         {

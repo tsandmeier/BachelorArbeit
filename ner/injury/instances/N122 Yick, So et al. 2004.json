@@ -75253,6 +75253,17 @@
         },
         {
           "txt": {
+            "sff": "right"
+          },
+          "et": {
+            "etn": "Right"
+          },
+          "dp": {
+            "off": 6217
+          }
+        },
+        {
+          "txt": {
             "sff": "right hemisection"
           },
           "et": {
@@ -75275,6 +75286,17 @@
         },
         {
           "txt": {
+            "sff": "injection"
+          },
+          "et": {
+            "etn": "DeliveryMethod"
+          },
+          "dp": {
+            "off": 5994
+          }
+        },
+        {
+          "txt": {
             "sff": "C7"
           },
           "et": {
@@ -75282,6 +75304,39 @@
           },
           "dp": {
             "off": 6165
+          }
+        },
+        {
+          "txt": {
+            "sff": "80 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 6017
+          }
+        },
+        {
+          "txt": {
+            "sff": "8 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 6041
+          }
+        },
+        {
+          "txt": {
+            "sff": "intraperitoneal"
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 5978
           }
         },
         {

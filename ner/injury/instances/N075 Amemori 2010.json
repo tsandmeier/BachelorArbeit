@@ -86178,6 +86178,39 @@
       "dla": [
         {
           "txt": {
+            "sff": "15 μL"
+          },
+          "et": {
+            "etn": "Volume"
+          },
+          "dp": {
+            "off": 6342
+          }
+        },
+        {
+          "txt": {
+            "sff": "3%"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 6493
+          }
+        },
+        {
+          "txt": {
+            "sff": "5 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 6840
+          }
+        },
+        {
+          "txt": {
             "sff": "isofl urane"
           },
           "et": {
@@ -86200,6 +86233,28 @@
         },
         {
           "txt": {
+            "sff": "assisted in feeding and urination"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 6685
+          }
+        },
+        {
+          "txt": {
+            "sff": "50–100 mg/ kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 10443
+          }
+        },
+        {
+          "txt": {
             "sff": "T8"
           },
           "et": {
@@ -86207,6 +86262,39 @@
           },
           "dp": {
             "off": 6368
+          }
+        },
+        {
+          "txt": {
+            "sff": "in air was administered"
+          },
+          "et": {
+            "etn": "InhalationDelivery"
+          },
+          "dp": {
+            "off": 6508
+          }
+        },
+        {
+          "txt": {
+            "sff": "gentamicin sulfate"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 6820
+          }
+        },
+        {
+          "txt": {
+            "sff": "ampicillin"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 10431
           }
         },
         {

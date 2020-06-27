@@ -40010,6 +40010,28 @@
       "dla": [
         {
           "txt": {
+            "sff": "bladder expression"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 7883
+          }
+        },
+        {
+          "txt": {
+            "sff": "10.0 g"
+          },
+          "et": {
+            "etn": "Weight"
+          },
+          "dp": {
+            "off": 7575
+          }
+        },
+        {
+          "txt": {
             "sff": "NYU II impactor"
           },
           "et": {
@@ -40017,6 +40039,17 @@
           },
           "dp": {
             "off": 7536
+          }
+        },
+        {
+          "txt": {
+            "sff": "intraperitoneal"
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 7372
           }
         },
         {
@@ -40039,6 +40072,61 @@
           },
           "dp": {
             "off": 7405
+          }
+        },
+        {
+          "txt": {
+            "sff": "25 mm"
+          },
+          "et": {
+            "etn": "Distance"
+          },
+          "dp": {
+            "off": 7587
+          }
+        },
+        {
+          "txt": {
+            "sff": "60,000 U/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 7832
+          }
+        },
+        {
+          "txt": {
+            "sff": "30 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 7420
+          }
+        },
+        {
+          "txt": {
+            "sff": "injection"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 7388
+          }
+        },
+        {
+          "txt": {
+            "sff": "Bicillin"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 7822
           }
         },
         {

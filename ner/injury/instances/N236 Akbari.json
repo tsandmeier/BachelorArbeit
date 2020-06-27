@@ -33034,6 +33034,17 @@
       "dla": [
         {
           "txt": {
+            "sff": "10 g"
+          },
+          "et": {
+            "etn": "Weight"
+          },
+          "dp": {
+            "off": 6001
+          }
+        },
+        {
+          "txt": {
             "sff": "contusion"
           },
           "et": {
@@ -33041,6 +33052,105 @@
           },
           "dp": {
             "off": 5961
+          }
+        },
+        {
+          "txt": {
+            "sff": "50 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 5772
+          }
+        },
+        {
+          "txt": {
+            "sff": "gentamicin"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 6349
+          }
+        },
+        {
+          "txt": {
+            "sff": "provided ad libitum"
+          },
+          "et": {
+            "etn": "Nutrition"
+          },
+          "dp": {
+            "off": 6586
+          }
+        },
+        {
+          "txt": {
+            "sff": "height of 25 mm"
+          },
+          "et": {
+            "etn": "Distance"
+          },
+          "dp": {
+            "off": 6020
+          }
+        },
+        {
+          "txt": {
+            "sff": "Bladder expression"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 6422
+          }
+        },
+        {
+          "txt": {
+            "sff": "T9-T10"
+          },
+          "et": {
+            "etn": "VertebralArea"
+          },
+          "dp": {
+            "off": 5928
+          }
+        },
+        {
+          "txt": {
+            "sff": "injection"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 5759
+          }
+        },
+        {
+          "txt": {
+            "sff": "5 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 5794
+          }
+        },
+        {
+          "txt": {
+            "sff": "intraperi toneal"
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 5742
           }
         },
         {
@@ -33056,13 +33166,13 @@
         },
         {
           "txt": {
-            "sff": "T9-T10"
+            "sff": "temperature controlled room"
           },
           "et": {
-            "etn": "VertebralArea"
+            "etn": "Housing"
           },
           "dp": {
-            "off": 5928
+            "off": 6532
           }
         },
         {
@@ -33085,6 +33195,28 @@
           },
           "dp": {
             "off": 5802
+          }
+        },
+        {
+          "txt": {
+            "sff": "12 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 6378
+          }
+        },
+        {
+          "txt": {
+            "sff": "water ad libitum"
+          },
+          "et": {
+            "etn": "Hydration"
+          },
+          "dp": {
+            "off": 5171
           }
         }
       ],

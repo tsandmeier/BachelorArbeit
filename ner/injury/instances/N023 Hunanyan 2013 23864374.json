@@ -99573,6 +99573,28 @@
         },
         {
           "txt": {
+            "sff": "buprenorphine"
+          },
+          "et": {
+            "etn": "MedicationDuringSurgery"
+          },
+          "dp": {
+            "off": 13224
+          }
+        },
+        {
+          "txt": {
+            "sff": "in an induction chamber"
+          },
+          "et": {
+            "etn": "InhalationDelivery"
+          },
+          "dp": {
+            "off": 12825
+          }
+        },
+        {
+          "txt": {
             "sff": "isoflurane"
           },
           "et": {
@@ -99580,6 +99602,105 @@
           },
           "dp": {
             "off": 12803
+          }
+        },
+        {
+          "txt": {
+            "sff": "3%"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 12800
+          }
+        },
+        {
+          "txt": {
+            "sff": "subcutaneous"
+          },
+          "et": {
+            "etn": "SubcutaneousLocation"
+          },
+          "dp": {
+            "off": 13198
+          }
+        },
+        {
+          "txt": {
+            "sff": "isoflurane"
+          },
+          "et": {
+            "etn": "Isoflurane"
+          },
+          "dp": {
+            "off": 12900
+          }
+        },
+        {
+          "txt": {
+            "sff": "150-kdyn force"
+          },
+          "et": {
+            "etn": "Force"
+          },
+          "dp": {
+            "off": 13607
+          }
+        },
+        {
+          "txt": {
+            "sff": "facemask delivering"
+          },
+          "et": {
+            "etn": "InhalationDelivery"
+          },
+          "dp": {
+            "off": 12875
+          }
+        },
+        {
+          "txt": {
+            "sff": "moderate-severity"
+          },
+          "et": {
+            "etn": "ModerateInjury"
+          },
+          "dp": {
+            "off": 13643
+          }
+        },
+        {
+          "txt": {
+            "sff": "1.5%"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 12895
+          }
+        },
+        {
+          "txt": {
+            "sff": "injection"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 13211
+          }
+        },
+        {
+          "txt": {
+            "sff": "disrupted dCST axons"
+          },
+          "et": {
+            "etn": "InjuryArea"
+          },
+          "dp": {
+            "off": 1650
           }
         },
         {
@@ -99595,13 +99716,13 @@
         },
         {
           "txt": {
-            "sff": "isoflurane"
+            "sff": "antibiotic"
           },
           "et": {
-            "etn": "Isoflurane"
+            "etn": "AntibioticMedication"
           },
           "dp": {
-            "off": 12900
+            "off": 14948
           }
         },
         {

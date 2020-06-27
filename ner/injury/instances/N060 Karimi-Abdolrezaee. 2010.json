@@ -156091,6 +156091,28 @@
         },
         {
           "txt": {
+            "sff": "Äì2%"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 8284
+          }
+        },
+        {
+          "txt": {
+            "sff": "analgesia"
+          },
+          "et": {
+            "etn": "PostsurgicalMedication"
+          },
+          "dp": {
+            "off": 8725
+          }
+        },
+        {
+          "txt": {
             "sff": "T7"
           },
           "et": {
@@ -156098,6 +156120,50 @@
           },
           "dp": {
             "off": 8627
+          }
+        },
+        {
+          "txt": {
+            "sff": "23 g clip"
+          },
+          "et": {
+            "etn": "Force"
+          },
+          "dp": {
+            "off": 8564
+          }
+        },
+        {
+          "txt": {
+            "sff": "housed in standard rat cages with absorbent bedding at a temperature of 26¬∞C"
+          },
+          "et": {
+            "etn": "Housing"
+          },
+          "dp": {
+            "off": 8884
+          }
+        },
+        {
+          "txt": {
+            "sff": "Clavamox"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 8795
+          }
+        },
+        {
+          "txt": {
+            "sff": "bladders were manually expressed"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 8969
           }
         }
       ],

@@ -39499,6 +39499,61 @@
         },
         {
           "txt": {
+            "sff": "75 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 25263
+          }
+        },
+        {
+          "txt": {
+            "sff": "dorsal column"
+          },
+          "et": {
+            "etn": "DorsalInjuryArea"
+          },
+          "dp": {
+            "off": 25336
+          }
+        },
+        {
+          "txt": {
+            "sff": "i.p."
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 25283
+          }
+        },
+        {
+          "txt": {
+            "sff": "10 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 25273
+          }
+        },
+        {
+          "txt": {
+            "sff": "i.p."
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 25283
+          }
+        },
+        {
+          "txt": {
             "sff": "spinal cord dorsal column transection"
           },
           "et": {

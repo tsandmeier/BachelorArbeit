@@ -57253,6 +57253,28 @@
         },
         {
           "txt": {
+            "sff": "dorsal funiculus"
+          },
+          "et": {
+            "etn": "DorsalInjuryArea"
+          },
+          "dp": {
+            "off": 8546
+          }
+        },
+        {
+          "txt": {
+            "sff": "4 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 8367
+          }
+        },
+        {
+          "txt": {
             "sff": "xylazine"
           },
           "et": {
@@ -57286,6 +57308,28 @@
         },
         {
           "txt": {
+            "sff": "i.p."
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 8376
+          }
+        },
+        {
+          "txt": {
+            "sff": "i.p."
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 8376
+          }
+        },
+        {
+          "txt": {
             "sff": "T9"
           },
           "et": {
@@ -57293,6 +57337,17 @@
           },
           "dp": {
             "off": 8410
+          }
+        },
+        {
+          "txt": {
+            "sff": "90"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 8364
           }
         }
       ],

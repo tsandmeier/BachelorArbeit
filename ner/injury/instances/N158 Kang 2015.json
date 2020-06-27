@@ -45890,6 +45890,17 @@
       "dla": [
         {
           "txt": {
+            "sff": "bladder massaging twice"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 12137
+          }
+        },
+        {
+          "txt": {
             "sff": "T10"
           },
           "et": {
@@ -45912,6 +45923,39 @@
         },
         {
           "txt": {
+            "sff": "intraperitoneal injection"
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 11312
+          }
+        },
+        {
+          "txt": {
+            "sff": "injection"
+          },
+          "et": {
+            "etn": "DeliveryMethod"
+          },
+          "dp": {
+            "off": 11328
+          }
+        },
+        {
+          "txt": {
+            "sff": "right"
+          },
+          "et": {
+            "etn": "Right"
+          },
+          "dp": {
+            "off": 11572
+          }
+        },
+        {
+          "txt": {
             "sff": "iridectome"
           },
           "et": {
@@ -45923,6 +45967,17 @@
         },
         {
           "txt": {
+            "sff": "penicillin"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 12099
+          }
+        },
+        {
+          "txt": {
             "sff": "cut through the right spinal cord"
           },
           "et": {
@@ -45930,6 +45985,17 @@
           },
           "dp": {
             "off": 11556
+          }
+        },
+        {
+          "txt": {
+            "sff": "0.4%"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 11341
           }
         }
       ],

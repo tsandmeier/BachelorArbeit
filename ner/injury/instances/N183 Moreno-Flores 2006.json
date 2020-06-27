@@ -61077,6 +61077,17 @@
         },
         {
           "txt": {
+            "sff": "lesion in the dorsal columns"
+          },
+          "et": {
+            "etn": "DorsalInjuryArea"
+          },
+          "dp": {
+            "off": 32955
+          }
+        },
+        {
+          "txt": {
             "sff": "crushing"
           },
           "et": {

@@ -86509,13 +86509,46 @@
         },
         {
           "txt": {
-            "sff": "compression"
+            "sff": "Temgesic"
           },
           "et": {
-            "etn": "Compression"
+            "etn": "PostsurgicalMedication"
           },
           "dp": {
-            "off": 7234
+            "off": 6952
+          }
+        },
+        {
+          "txt": {
+            "sff": "0.05 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 6962
+          }
+        },
+        {
+          "txt": {
+            "sff": "available ad libitum"
+          },
+          "et": {
+            "etn": "Nutrition"
+          },
+          "dp": {
+            "off": 6756
+          }
+        },
+        {
+          "txt": {
+            "sff": "50 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 7996
           }
         },
         {
@@ -86538,6 +86571,116 @@
           },
           "dp": {
             "off": 7878
+          }
+        },
+        {
+          "txt": {
+            "sff": "1-4%"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 7470
+          }
+        },
+        {
+          "txt": {
+            "sff": "available ad libitum"
+          },
+          "et": {
+            "etn": "Hydration"
+          },
+          "dp": {
+            "off": 6756
+          }
+        },
+        {
+          "txt": {
+            "sff": "standard plastic cages at 22uC before spinal cord injury (SCI) and 26uC after SCI in a 12:12 h light/dark photoperiod"
+          },
+          "et": {
+            "etn": "Housing"
+          },
+          "dp": {
+            "off": 6599
+          }
+        },
+        {
+          "txt": {
+            "sff": "Clavamox"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 8080
+          }
+        },
+        {
+          "txt": {
+            "sff": "compression"
+          },
+          "et": {
+            "etn": "Compression"
+          },
+          "dp": {
+            "off": 7234
+          }
+        },
+        {
+          "txt": {
+            "sff": "Temgesic"
+          },
+          "et": {
+            "etn": "PostsurgicalMedication"
+          },
+          "dp": {
+            "off": 7986
+          }
+        },
+        {
+          "txt": {
+            "sff": "the bladder was expressed"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 7062
+          }
+        },
+        {
+          "txt": {
+            "sff": "23 g clip"
+          },
+          "et": {
+            "etn": "Force"
+          },
+          "dp": {
+            "off": 7783
+          }
+        },
+        {
+          "txt": {
+            "sff": "for 1 min"
+          },
+          "et": {
+            "etn": "Duration"
+          },
+          "dp": {
+            "off": 7852
+          }
+        },
+        {
+          "txt": {
+            "sff": "given through a mask integrated"
+          },
+          "et": {
+            "etn": "InhalationDelivery"
+          },
+          "dp": {
+            "off": 7476
           }
         }
       ],

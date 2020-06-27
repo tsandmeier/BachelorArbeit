@@ -20,7 +20,11 @@ public class NumberWBTemplate_FAST extends AbstractFeatureTemplate<NumberWBTempl
 
 	public NumberWBTemplate_FAST(boolean cache){super(cache);}
 
-	static class NumberWBScope
+    public NumberWBTemplate_FAST() {
+        super();
+    }
+
+    static class NumberWBScope
 			extends AbstractFactorScope {
 
 		String entityNameOne;

@@ -83490,6 +83490,17 @@
       "dla": [
         {
           "txt": {
+            "sff": "left"
+          },
+          "et": {
+            "etn": "Left"
+          },
+          "dp": {
+            "off": 11119
+          }
+        },
+        {
+          "txt": {
             "sff": "T8"
           },
           "et": {
@@ -83497,6 +83508,17 @@
           },
           "dp": {
             "off": 10992
+          }
+        },
+        {
+          "txt": {
+            "sff": "scissors"
+          },
+          "et": {
+            "etn": "Scissors"
+          },
+          "dp": {
+            "off": 11190
           }
         },
         {
@@ -83523,13 +83545,13 @@
         },
         {
           "txt": {
-            "sff": "iridectomy scissors"
+            "sff": "1.5  L/min"
           },
           "et": {
-            "etn": "Scissors"
+            "etn": "DosageExtracorporal"
           },
           "dp": {
-            "off": 11179
+            "off": 10922
           }
         }
       ],

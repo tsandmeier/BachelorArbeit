@@ -66578,6 +66578,17 @@
       "dla": [
         {
           "txt": {
+            "sff": "6.5g"
+          },
+          "et": {
+            "etn": "Weight"
+          },
+          "dp": {
+            "off": 8918
+          }
+        },
+        {
+          "txt": {
             "sff": "C6/7"
           },
           "et": {
@@ -66589,13 +66600,57 @@
         },
         {
           "txt": {
-            "sff": "isoflurane"
+            "sff": "inhaled"
           },
           "et": {
-            "etn": "Isoflurane"
+            "etn": "InhalationDelivery"
           },
           "dp": {
-            "off": 8455
+            "off": 8447
+          }
+        },
+        {
+          "txt": {
+            "sff": "sterile cages under heating lamps"
+          },
+          "et": {
+            "etn": "Housing"
+          },
+          "dp": {
+            "off": 9173
+          }
+        },
+        {
+          "txt": {
+            "sff": "bladders were manually expressed"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 9571
+          }
+        },
+        {
+          "txt": {
+            "sff": "2%"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 8467
+          }
+        },
+        {
+          "txt": {
+            "sff": "60mg/L water"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 9383
           }
         },
         {
@@ -66618,6 +66673,83 @@
           },
           "dp": {
             "off": 6213
+          }
+        },
+        {
+          "txt": {
+            "sff": "40 seconds"
+          },
+          "et": {
+            "etn": "Duration"
+          },
+          "dp": {
+            "off": 8927
+          }
+        },
+        {
+          "txt": {
+            "sff": "ad libitum"
+          },
+          "et": {
+            "etn": "Nutrition"
+          },
+          "dp": {
+            "off": 9322
+          }
+        },
+        {
+          "txt": {
+            "sff": "buprenorphine"
+          },
+          "et": {
+            "etn": "PostsurgicalMedication"
+          },
+          "dp": {
+            "off": 9067
+          }
+        },
+        {
+          "txt": {
+            "sff": "isoflurane"
+          },
+          "et": {
+            "etn": "Isoflurane"
+          },
+          "dp": {
+            "off": 8455
+          }
+        },
+        {
+          "txt": {
+            "sff": "ad libitum"
+          },
+          "et": {
+            "etn": "Hydration"
+          },
+          "dp": {
+            "off": 9322
+          }
+        },
+        {
+          "txt": {
+            "sff": "Clavamox"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 9362
+          }
+        },
+        {
+          "txt": {
+            "sff": "0.05mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 9057
           }
         }
       ],

@@ -108949,35 +108949,13 @@
         },
         {
           "txt": {
-            "sff": "T10"
+            "sff": "0.05 mg/ml"
           },
           "et": {
-            "etn": "T10"
+            "etn": "DosageExtracorporal"
           },
           "dp": {
-            "off": 13720
-          }
-        },
-        {
-          "txt": {
-            "sff": "Xylazine"
-          },
-          "et": {
-            "etn": "Xylazine"
-          },
-          "dp": {
-            "off": 13761
-          }
-        },
-        {
-          "txt": {
-            "sff": "NYU impactor"
-          },
-          "et": {
-            "etn": "NYUImpactor"
-          },
-          "dp": {
-            "off": 13905
+            "off": 13803
           }
         },
         {
@@ -108993,6 +108971,127 @@
         },
         {
           "txt": {
+            "sff": "Bladders"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 15521
+          }
+        },
+        {
+          "txt": {
+            "sff": "injected"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 13840
+          }
+        },
+        {
+          "txt": {
+            "sff": "10 g, 25 mm"
+          },
+          "et": {
+            "etn": "Force"
+          },
+          "dp": {
+            "off": 13919
+          }
+        },
+        {
+          "txt": {
+            "sff": "6 mg/ml"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 13771
+          }
+        },
+        {
+          "txt": {
+            "sff": "T10"
+          },
+          "et": {
+            "etn": "T10"
+          },
+          "dp": {
+            "off": 13720
+          }
+        },
+        {
+          "txt": {
+            "sff": "63 mg/ml"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 13830
+          }
+        },
+        {
+          "txt": {
+            "sff": "Xylazine"
+          },
+          "et": {
+            "etn": "Xylazine"
+          },
+          "dp": {
+            "off": 13761
+          }
+        },
+        {
+          "txt": {
+            "sff": "Cefazolin"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 15464
+          }
+        },
+        {
+          "txt": {
+            "sff": "ad libitum"
+          },
+          "et": {
+            "etn": "Nutrition"
+          },
+          "dp": {
+            "off": 13016
+          }
+        },
+        {
+          "txt": {
+            "sff": "NYU impactor"
+          },
+          "et": {
+            "etn": "NYUImpactor"
+          },
+          "dp": {
+            "off": 13905
+          }
+        },
+        {
+          "txt": {
+            "sff": "intraperitoneally"
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 13849
+          }
+        },
+        {
+          "txt": {
             "sff": "Acepromazine maleate"
           },
           "et": {
@@ -109000,6 +109099,17 @@
           },
           "dp": {
             "off": 13781
+          }
+        },
+        {
+          "txt": {
+            "sff": "water were available ad libitum"
+          },
+          "et": {
+            "etn": "Hydration"
+          },
+          "dp": {
+            "off": 12995
           }
         }
       ],

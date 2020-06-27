@@ -124354,6 +124354,17 @@
       "dla": [
         {
           "txt": {
+            "sff": "6 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 14345
+          }
+        },
+        {
+          "txt": {
             "sff": "crushing"
           },
           "et": {
@@ -124361,6 +124372,17 @@
           },
           "dp": {
             "off": 14753
+          }
+        },
+        {
+          "txt": {
+            "sff": "63 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 14322
           }
         },
         {
@@ -124387,13 +124409,24 @@
         },
         {
           "txt": {
-            "sff": "ketamine"
+            "sff": "dorsal surface of the spinal cord"
           },
           "et": {
-            "etn": "KetamineAsAnaesthetic"
+            "etn": "SpinalCord"
           },
           "dp": {
-            "off": 14280
+            "off": 14574
+          }
+        },
+        {
+          "txt": {
+            "sff": "20 mg/ml"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 14531
           }
         },
         {
@@ -124405,6 +124438,116 @@
           },
           "dp": {
             "off": 14434
+          }
+        },
+        {
+          "txt": {
+            "sff": "Animals were housed singly with exposure to a 12 h light/dark cycle."
+          },
+          "et": {
+            "etn": "Housing"
+          },
+          "dp": {
+            "off": 14055
+          }
+        },
+        {
+          "txt": {
+            "sff": "buprenorphine HCl"
+          },
+          "et": {
+            "etn": "PostsurgicalMedication"
+          },
+          "dp": {
+            "off": 15612
+          }
+        },
+        {
+          "txt": {
+            "sff": "dorsal funiculus bilaterally, severing all dorsal column (DC) axons"
+          },
+          "et": {
+            "etn": "InjuryArea"
+          },
+          "dp": {
+            "off": 14766
+          }
+        },
+        {
+          "txt": {
+            "sff": "water were provided ad libitum"
+          },
+          "et": {
+            "etn": "Hydration"
+          },
+          "dp": {
+            "off": 14133
+          }
+        },
+        {
+          "txt": {
+            "sff": "ketamine"
+          },
+          "et": {
+            "etn": "KetamineAsAnaesthetic"
+          },
+          "dp": {
+            "off": 14280
+          }
+        },
+        {
+          "txt": {
+            "sff": "lidocaine"
+          },
+          "et": {
+            "etn": "Anaesthetic"
+          },
+          "dp": {
+            "off": 14505
+          }
+        },
+        {
+          "txt": {
+            "sff": "0.3 mg/kg)"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 15631
+          }
+        },
+        {
+          "txt": {
+            "sff": "Food"
+          },
+          "et": {
+            "etn": "Nutrition"
+          },
+          "dp": {
+            "off": 14124
+          }
+        },
+        {
+          "txt": {
+            "sff": "25 mg/kg)"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 15710
+          }
+        },
+        {
+          "txt": {
+            "sff": "Cefazolin"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 15699
           }
         }
       ],

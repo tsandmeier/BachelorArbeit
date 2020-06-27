@@ -46581,6 +46581,17 @@
         },
         {
           "txt": {
+            "sff": "10 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 10208
+          }
+        },
+        {
+          "txt": {
             "sff": "T8–T9"
           },
           "et": {
@@ -46599,6 +46610,72 @@
           },
           "dp": {
             "off": 9379
+          }
+        },
+        {
+          "txt": {
+            "sff": "T8"
+          },
+          "et": {
+            "etn": "T8"
+          },
+          "dp": {
+            "off": 9806
+          }
+        },
+        {
+          "txt": {
+            "sff": "T9"
+          },
+          "et": {
+            "etn": "T9"
+          },
+          "dp": {
+            "off": 9809
+          }
+        },
+        {
+          "txt": {
+            "sff": "After surgery, rats were kept alone in large cages."
+          },
+          "et": {
+            "etn": "Housing"
+          },
+          "dp": {
+            "off": 10019
+          }
+        },
+        {
+          "txt": {
+            "sff": "bladder expression"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 10078
+          }
+        },
+        {
+          "txt": {
+            "sff": "enrofloxacin"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 10194
+          }
+        },
+        {
+          "txt": {
+            "sff": "15 µl"
+          },
+          "et": {
+            "etn": "Volume"
+          },
+          "dp": {
+            "off": 9909
           }
         }
       ],

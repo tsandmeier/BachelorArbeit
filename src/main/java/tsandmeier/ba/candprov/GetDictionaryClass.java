@@ -1,8 +1,8 @@
 package tsandmeier.ba.candprov;
 
 import de.hterhors.semanticmr.crf.structure.EntityType;
-import tsandmeier.ba.normalizer.interpreter.AgeInterpreter;
-import tsandmeier.ba.normalizer.interpreter.WeightInterpreter;
+import de.uni.bielefeld.sc.hterhors.psink.scio.semanticmr.literal_normalization.interpreter.AgeInterpreter;
+import de.uni.bielefeld.sc.hterhors.psink.scio.semanticmr.literal_normalization.interpreter.WeightInterpreter;
 
 import java.io.File;
 import java.io.IOException;

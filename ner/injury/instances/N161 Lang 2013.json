@@ -39474,6 +39474,39 @@
       "dla": [
         {
           "txt": {
+            "sff": "penicillin"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 20721
+          }
+        },
+        {
+          "txt": {
+            "sff": "chloral hydrate"
+          },
+          "et": {
+            "etn": "ChloralHydrate"
+          },
+          "dp": {
+            "off": 19394
+          }
+        },
+        {
+          "txt": {
+            "sff": "injection"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 19376
+          }
+        },
+        {
+          "txt": {
             "sff": "laminectomies"
           },
           "et": {
@@ -39507,6 +39540,28 @@
         },
         {
           "txt": {
+            "sff": "3.6%"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 19389
+          }
+        },
+        {
+          "txt": {
+            "sff": "left"
+          },
+          "et": {
+            "etn": "Left"
+          },
+          "dp": {
+            "off": 19772
+          }
+        },
+        {
+          "txt": {
             "sff": "T10"
           },
           "et": {
@@ -39514,6 +39569,17 @@
           },
           "dp": {
             "off": 19583
+          }
+        },
+        {
+          "txt": {
+            "sff": "intraperitoneal"
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 19360
           }
         }
       ],

@@ -45746,13 +45746,24 @@
       "dla": [
         {
           "txt": {
-            "sff": "Th8-Th9"
+            "sff": "andwater"
           },
           "et": {
-            "etn": "VertebralArea"
+            "etn": "Hydration"
           },
           "dp": {
-            "off": 7792
+            "off": 5859
+          }
+        },
+        {
+          "txt": {
+            "sff": "bladder evacuation"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 8048
           }
         },
         {
@@ -45768,6 +45779,94 @@
         },
         {
           "txt": {
+            "sff": "moderate"
+          },
+          "et": {
+            "etn": "ModerateInjury"
+          },
+          "dp": {
+            "off": 7911
+          }
+        },
+        {
+          "txt": {
+            "sff": "weighing 10 g"
+          },
+          "et": {
+            "etn": "Weight"
+          },
+          "dp": {
+            "off": 7829
+          }
+        },
+        {
+          "txt": {
+            "sff": "12.5 cm distance"
+          },
+          "et": {
+            "etn": "Distance"
+          },
+          "dp": {
+            "off": 7871
+          }
+        },
+        {
+          "txt": {
+            "sff": ", temperature of 21 ± 3 °C, and 12 h dark/light"
+          },
+          "et": {
+            "etn": "Housing"
+          },
+          "dp": {
+            "off": 5867
+          }
+        },
+        {
+          "txt": {
+            "sff": "adequate access to food"
+          },
+          "et": {
+            "etn": "Nutrition"
+          },
+          "dp": {
+            "off": 5835
+          }
+        },
+        {
+          "txt": {
+            "sff": "10 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 7596
+          }
+        },
+        {
+          "txt": {
+            "sff": "Th8-Th9"
+          },
+          "et": {
+            "etn": "VertebralArea"
+          },
+          "dp": {
+            "off": 7792
+          }
+        },
+        {
+          "txt": {
+            "sff": "8 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 8000
+          }
+        },
+        {
+          "txt": {
             "sff": "Piston"
           },
           "et": {
@@ -45775,6 +45874,28 @@
           },
           "dp": {
             "off": 7821
+          }
+        },
+        {
+          "txt": {
+            "sff": "gentamicin"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 8008
+          }
+        },
+        {
+          "txt": {
+            "sff": "80 mg/ kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 7571
           }
         },
         {

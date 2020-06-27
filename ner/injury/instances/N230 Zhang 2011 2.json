@@ -53482,13 +53482,46 @@
       "dla": [
         {
           "txt": {
-            "sff": "NYU (New York University) impactor device"
+            "sff": "ip"
           },
           "et": {
-            "etn": "NYUImpactor"
+            "etn": "IntraperitonealLocation"
           },
           "dp": {
-            "off": 6094
+            "off": 6225
+          }
+        },
+        {
+          "txt": {
+            "sff": "50 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 6215
+          }
+        },
+        {
+          "txt": {
+            "sff": "Antibiotic cephazolin"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 6337
+          }
+        },
+        {
+          "txt": {
+            "sff": "Urinary bladders were manually emptied"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 6547
           }
         },
         {
@@ -53500,6 +53533,50 @@
           },
           "dp": {
             "off": 6193
+          }
+        },
+        {
+          "txt": {
+            "sff": "ip"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 6225
+          }
+        },
+        {
+          "txt": {
+            "sff": "0.02 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 6288
+          }
+        },
+        {
+          "txt": {
+            "sff": "25 mm height"
+          },
+          "et": {
+            "etn": "Distance"
+          },
+          "dp": {
+            "off": 6012
+          }
+        },
+        {
+          "txt": {
+            "sff": "NYU (New York University) impactor device"
+          },
+          "et": {
+            "etn": "NYUImpactor"
+          },
+          "dp": {
+            "off": 6094
           }
         },
         {
@@ -53522,6 +53599,28 @@
           },
           "dp": {
             "off": 5994
+          }
+        },
+        {
+          "txt": {
+            "sff": "20 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 6369
+          }
+        },
+        {
+          "txt": {
+            "sff": "analgesia buprenorphine"
+          },
+          "et": {
+            "etn": "PostsurgicalMedication"
+          },
+          "dp": {
+            "off": 6246
           }
         }
       ],

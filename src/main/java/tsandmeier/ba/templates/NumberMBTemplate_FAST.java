@@ -18,6 +18,10 @@ public class NumberMBTemplate_FAST extends AbstractFeatureTemplate<NumberMBTempl
 
     public NumberMBTemplate_FAST(boolean cache){super(cache);}
 
+    public NumberMBTemplate_FAST() {
+        super();
+    }
+
     static class NumberMBScope
             extends AbstractFactorScope {
 

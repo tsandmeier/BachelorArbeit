@@ -70650,13 +70650,13 @@
       "dla": [
         {
           "txt": {
-            "sff": "contusion injury"
+            "sff": "housed singly in plastic cages on 12 h light/dark cycles with free moving space"
           },
           "et": {
-            "etn": "Contusion"
+            "etn": "Housing"
           },
           "dp": {
-            "off": 37242
+            "off": 32065
           }
         },
         {
@@ -70672,6 +70672,28 @@
         },
         {
           "txt": {
+            "sff": "Urinary bladders were emptied"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 38066
+          }
+        },
+        {
+          "txt": {
+            "sff": "50 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 37449
+          }
+        },
+        {
+          "txt": {
             "sff": "T10"
           },
           "et": {
@@ -70683,6 +70705,50 @@
         },
         {
           "txt": {
+            "sff": "ip"
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 37459
+          }
+        },
+        {
+          "txt": {
+            "sff": "10 g"
+          },
+          "et": {
+            "etn": "Weight"
+          },
+          "dp": {
+            "off": 37678
+          }
+        },
+        {
+          "txt": {
+            "sff": "height of 25 mm"
+          },
+          "et": {
+            "etn": "Distance"
+          },
+          "dp": {
+            "off": 37740
+          }
+        },
+        {
+          "txt": {
+            "sff": "standard food"
+          },
+          "et": {
+            "etn": "Nutrition"
+          },
+          "dp": {
+            "off": 32183
+          }
+        },
+        {
+          "txt": {
             "sff": "NYU (New York University) impactor"
           },
           "et": {
@@ -70690,6 +70756,83 @@
           },
           "dp": {
             "off": 37307
+          }
+        },
+        {
+          "txt": {
+            "sff": "0.02 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 37902
+          }
+        },
+        {
+          "txt": {
+            "sff": "free access to drinking water"
+          },
+          "et": {
+            "etn": "Hydration"
+          },
+          "dp": {
+            "off": 32149
+          }
+        },
+        {
+          "txt": {
+            "sff": "analgesia buprenorphine"
+          },
+          "et": {
+            "etn": "PostsurgicalMedication"
+          },
+          "dp": {
+            "off": 37877
+          }
+        },
+        {
+          "txt": {
+            "sff": "contusion injury"
+          },
+          "et": {
+            "etn": "Contusion"
+          },
+          "dp": {
+            "off": 37242
+          }
+        },
+        {
+          "txt": {
+            "sff": "ip"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 37459
+          }
+        },
+        {
+          "txt": {
+            "sff": "20 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 38013
+          }
+        },
+        {
+          "txt": {
+            "sff": "antibiotic cephazolin"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 37990
           }
         }
       ],

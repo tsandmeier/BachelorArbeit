@@ -17365,6 +17365,17 @@
         },
         {
           "txt": {
+            "sff": "90/"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 2732
+          }
+        },
+        {
+          "txt": {
             "sff": "rompun"
           },
           "et": {
@@ -17387,6 +17398,17 @@
         },
         {
           "txt": {
+            "sff": "10 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 2735
+          }
+        },
+        {
+          "txt": {
             "sff": "Th 8–9"
           },
           "et": {
@@ -17398,6 +17420,17 @@
         },
         {
           "txt": {
+            "sff": "–9"
+          },
+          "et": {
+            "etn": "T9"
+          },
+          "dp": {
+            "off": 2963
+          }
+        },
+        {
+          "txt": {
             "sff": "1.5-mm gap"
           },
           "et": {
@@ -17405,6 +17438,39 @@
           },
           "dp": {
             "off": 3056
+          }
+        },
+        {
+          "txt": {
+            "sff": "intraperitoneally"
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 2745
+          }
+        },
+        {
+          "txt": {
+            "sff": "Th 8"
+          },
+          "et": {
+            "etn": "T8"
+          },
+          "dp": {
+            "off": 2959
+          }
+        },
+        {
+          "txt": {
+            "sff": "intraperitoneally"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 2745
           }
         }
       ],

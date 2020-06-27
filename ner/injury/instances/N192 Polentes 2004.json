@@ -100592,6 +100592,105 @@
         },
         {
           "txt": {
+            "sff": "20mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 12332
+          }
+        },
+        {
+          "txt": {
+            "sff": "intraperitoneally"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 10238
+          }
+        },
+        {
+          "txt": {
+            "sff": "left side"
+          },
+          "et": {
+            "etn": "Left"
+          },
+          "dp": {
+            "off": 10579
+          }
+        },
+        {
+          "txt": {
+            "sff": "50 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 10286
+          }
+        },
+        {
+          "txt": {
+            "sff": "Terramycine"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 12307
+          }
+        },
+        {
+          "txt": {
+            "sff": "Visceralgine Forte"
+          },
+          "et": {
+            "etn": "PostsurgicalMedication"
+          },
+          "dp": {
+            "off": 12229
+          }
+        },
+        {
+          "txt": {
+            "sff": "5%, 0.5 ml"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 12375
+          }
+        },
+        {
+          "txt": {
+            "sff": "descending respiratory pathways"
+          },
+          "et": {
+            "etn": "InjuryArea"
+          },
+          "dp": {
+            "off": 10898
+          }
+        },
+        {
+          "txt": {
+            "sff": "intraperitoneally"
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 10238
+          }
+        },
+        {
+          "txt": {
             "sff": "The left side of the spinal cord was hemisected"
           },
           "et": {
@@ -100610,6 +100709,28 @@
           },
           "dp": {
             "off": 10764
+          }
+        },
+        {
+          "txt": {
+            "sff": "glucose"
+          },
+          "et": {
+            "etn": "PostsurgicalMedication"
+          },
+          "dp": {
+            "off": 12366
+          }
+        },
+        {
+          "txt": {
+            "sff": "2 mg/100g"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 12260
           }
         }
       ],

@@ -82976,6 +82976,50 @@
         },
         {
           "txt": {
+            "sff": "housed in groups in standard cages under a 12 h:12 h  light/dark cycle"
+          },
+          "et": {
+            "etn": "Housing"
+          },
+          "dp": {
+            "off": 16596
+          }
+        },
+        {
+          "txt": {
+            "sff": "food"
+          },
+          "et": {
+            "etn": "Nutrition"
+          },
+          "dp": {
+            "off": 16673
+          }
+        },
+        {
+          "txt": {
+            "sff": "water ad libitum"
+          },
+          "et": {
+            "etn": "Hydration"
+          },
+          "dp": {
+            "off": 16682
+          }
+        },
+        {
+          "txt": {
+            "sff": "inhalation"
+          },
+          "et": {
+            "etn": "InhalationDelivery"
+          },
+          "dp": {
+            "off": 16847
+          }
+        },
+        {
+          "txt": {
             "sff": "fine forceps"
           },
           "et": {
@@ -82987,6 +83031,17 @@
         },
         {
           "txt": {
+            "sff": "dorsal columns"
+          },
+          "et": {
+            "etn": "DorsalInjuryArea"
+          },
+          "dp": {
+            "off": 17986
+          }
+        },
+        {
+          "txt": {
             "sff": "C4"
           },
           "et": {
@@ -82994,6 +83049,17 @@
           },
           "dp": {
             "off": 17654
+          }
+        },
+        {
+          "txt": {
+            "sff": "1-2%"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 16881
           }
         }
       ],

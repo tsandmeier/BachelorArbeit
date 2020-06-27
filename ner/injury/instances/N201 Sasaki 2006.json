@@ -43221,6 +43221,17 @@
         },
         {
           "txt": {
+            "sff": "dorsal funiculus"
+          },
+          "et": {
+            "etn": "DorsalInjuryArea"
+          },
+          "dp": {
+            "off": 5453
+          }
+        },
+        {
+          "txt": {
             "sff": "dorsal transection"
           },
           "et": {

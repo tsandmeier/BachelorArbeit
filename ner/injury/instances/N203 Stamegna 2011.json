@@ -58562,6 +58562,17 @@
       "dla": [
         {
           "txt": {
+            "sff": "left C2 spinal cord"
+          },
+          "et": {
+            "etn": "UnilateralInjuryArea"
+          },
+          "dp": {
+            "off": 7815
+          }
+        },
+        {
+          "txt": {
             "sff": "pentobarbital"
           },
           "et": {
@@ -58584,6 +58595,28 @@
         },
         {
           "txt": {
+            "sff": "50 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 6670
+          }
+        },
+        {
+          "txt": {
+            "sff": "intraperitoneally"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 6622
+          }
+        },
+        {
+          "txt": {
             "sff": "C2"
           },
           "et": {
@@ -58591,6 +58624,50 @@
           },
           "dp": {
             "off": 7678
+          }
+        },
+        {
+          "txt": {
+            "sff": "30 min"
+          },
+          "et": {
+            "etn": "Duration"
+          },
+          "dp": {
+            "off": 8062
+          }
+        },
+        {
+          "txt": {
+            "sff": "12 cm"
+          },
+          "et": {
+            "etn": "Distance"
+          },
+          "dp": {
+            "off": 8020
+          }
+        },
+        {
+          "txt": {
+            "sff": "intraperitoneally"
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 6622
+          }
+        },
+        {
+          "txt": {
+            "sff": "20 g weight"
+          },
+          "et": {
+            "etn": "Weight"
+          },
+          "dp": {
+            "off": 7960
           }
         },
         {

@@ -30842,24 +30842,57 @@
       "dla": [
         {
           "txt": {
-            "sff": "ketamine"
+            "sff": "expression of the urinary bladder"
           },
           "et": {
-            "etn": "KetamineAsAnaesthetic"
+            "etn": "BladderExpression"
           },
           "dp": {
-            "off": 6643
+            "off": 7484
           }
         },
         {
           "txt": {
-            "sff": "T10"
+            "sff": "intraperitoneally"
           },
           "et": {
-            "etn": "T10"
+            "etn": "InjectionDelivery"
           },
           "dp": {
-            "off": 6711
+            "off": 6692
+          }
+        },
+        {
+          "txt": {
+            "sff": "10 g"
+          },
+          "et": {
+            "etn": "Weight"
+          },
+          "dp": {
+            "off": 6860
+          }
+        },
+        {
+          "txt": {
+            "sff": "20 cm"
+          },
+          "et": {
+            "etn": "Distance"
+          },
+          "dp": {
+            "off": 6882
+          }
+        },
+        {
+          "txt": {
+            "sff": "antibiotics"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 7578
           }
         },
         {
@@ -30875,6 +30908,17 @@
         },
         {
           "txt": {
+            "sff": "fed with a normal diet"
+          },
+          "et": {
+            "etn": "Nutrition"
+          },
+          "dp": {
+            "off": 4492
+          }
+        },
+        {
+          "txt": {
             "sff": "xylazine"
           },
           "et": {
@@ -30882,6 +30926,72 @@
           },
           "dp": {
             "off": 6656
+          }
+        },
+        {
+          "txt": {
+            "sff": "analgesics"
+          },
+          "et": {
+            "etn": "PostsurgicalMedication"
+          },
+          "dp": {
+            "off": 7563
+          }
+        },
+        {
+          "txt": {
+            "sff": "90"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 6666
+          }
+        },
+        {
+          "txt": {
+            "sff": "ketamine"
+          },
+          "et": {
+            "etn": "KetamineAsAnaesthetic"
+          },
+          "dp": {
+            "off": 6643
+          }
+        },
+        {
+          "txt": {
+            "sff": "10 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 6669
+          }
+        },
+        {
+          "txt": {
+            "sff": "T10"
+          },
+          "et": {
+            "etn": "T10"
+          },
+          "dp": {
+            "off": 6711
+          }
+        },
+        {
+          "txt": {
+            "sff": "intraperitoneally"
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 6692
           }
         }
       ],

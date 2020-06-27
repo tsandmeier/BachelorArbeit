@@ -73592,6 +73592,17 @@
         },
         {
           "txt": {
+            "sff": "bilateral ablation of the  rubrospinal axons"
+          },
+          "et": {
+            "etn": "InjuryArea"
+          },
+          "dp": {
+            "off": 1589
+          }
+        },
+        {
+          "txt": {
             "sff": "bilateral injury"
           },
           "et": {
@@ -73599,6 +73610,17 @@
           },
           "dp": {
             "off": 1501
+          }
+        },
+        {
+          "txt": {
+            "sff": "1.5-2.5%"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 7571
           }
         },
         {

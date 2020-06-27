@@ -41824,6 +41824,39 @@
         },
         {
           "txt": {
+            "sff": "40 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 5819
+          }
+        },
+        {
+          "txt": {
+            "sff": "i.p."
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 5829
+          }
+        },
+        {
+          "txt": {
+            "sff": "i.p."
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 5829
+          }
+        },
+        {
+          "txt": {
             "sff": "T9 -T10"
           },
           "et": {
@@ -41842,6 +41875,17 @@
           },
           "dp": {
             "off": 5864
+          }
+        },
+        {
+          "txt": {
+            "sff": "bladder compression"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 6743
           }
         }
       ],

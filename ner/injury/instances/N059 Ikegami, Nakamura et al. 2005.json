@@ -96685,6 +96685,39 @@
         },
         {
           "txt": {
+            "sff": "bladder expression"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 12304
+          }
+        },
+        {
+          "txt": {
+            "sff": "chloral hydrate"
+          },
+          "et": {
+            "etn": "MedicationDuringSurgery"
+          },
+          "dp": {
+            "off": 11872
+          }
+        },
+        {
+          "txt": {
+            "sff": "free access to water"
+          },
+          "et": {
+            "etn": "Hydration"
+          },
+          "dp": {
+            "off": 12266
+          }
+        },
+        {
+          "txt": {
             "sff": "Th10"
           },
           "et": {
@@ -96703,6 +96736,61 @@
           },
           "dp": {
             "off": 11979
+          }
+        },
+        {
+          "txt": {
+            "sff": "intraperitoneal"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 11840
+          }
+        },
+        {
+          "txt": {
+            "sff": "10-g weight"
+          },
+          "et": {
+            "etn": "Weight"
+          },
+          "dp": {
+            "off": 12179
+          }
+        },
+        {
+          "txt": {
+            "sff": "intraperitoneal"
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 11840
+          }
+        },
+        {
+          "txt": {
+            "sff": "25 mm"
+          },
+          "et": {
+            "etn": "Distance"
+          },
+          "dp": {
+            "off": 12216
+          }
+        },
+        {
+          "txt": {
+            "sff": "food"
+          },
+          "et": {
+            "etn": "Nutrition"
+          },
+          "dp": {
+            "off": 12291
           }
         }
       ],

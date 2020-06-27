@@ -80978,6 +80978,28 @@
       "dla": [
         {
           "txt": {
+            "sff": "water"
+          },
+          "et": {
+            "etn": "Hydration"
+          },
+          "dp": {
+            "off": 10028
+          }
+        },
+        {
+          "txt": {
+            "sff": "70%"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 8489
+          }
+        },
+        {
+          "txt": {
             "sff": "weight drop device"
           },
           "et": {
@@ -80985,6 +81007,116 @@
           },
           "dp": {
             "off": 9110
+          }
+        },
+        {
+          "txt": {
+            "sff": "1Ð2%"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 8458
+          }
+        },
+        {
+          "txt": {
+            "sff": "i.m."
+          },
+          "et": {
+            "etn": "IntramuscularLocation"
+          },
+          "dp": {
+            "off": 8887
+          }
+        },
+        {
+          "txt": {
+            "sff": "10.0-g"
+          },
+          "et": {
+            "etn": "Weight"
+          },
+          "dp": {
+            "off": 9615
+          }
+        },
+        {
+          "txt": {
+            "sff": "Bicillin"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 10062
+          }
+        },
+        {
+          "txt": {
+            "sff": "Contusion injury"
+          },
+          "et": {
+            "etn": "Contusion"
+          },
+          "dp": {
+            "off": 9074
+          }
+        },
+        {
+          "txt": {
+            "sff": "halothane"
+          },
+          "et": {
+            "etn": "Halothane"
+          },
+          "dp": {
+            "off": 8463
+          }
+        },
+        {
+          "txt": {
+            "sff": "12.5 mm"
+          },
+          "et": {
+            "etn": "Distance"
+          },
+          "dp": {
+            "off": 9643
+          }
+        },
+        {
+          "txt": {
+            "sff": "i.m."
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 8887
+          }
+        },
+        {
+          "txt": {
+            "sff": "moderately injured"
+          },
+          "et": {
+            "etn": "ModerateInjury"
+          },
+          "dp": {
+            "off": 9582
+          }
+        },
+        {
+          "txt": {
+            "sff": "0.02 mL/100 mg body weight"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 8849
           }
         },
         {
@@ -81011,24 +81143,24 @@
         },
         {
           "txt": {
-            "sff": "Contusion injury"
+            "sff": "food"
           },
           "et": {
-            "etn": "Contusion"
+            "etn": "Nutrition"
           },
           "dp": {
-            "off": 9074
+            "off": 10038
           }
         },
         {
           "txt": {
-            "sff": "halothane"
+            "sff": "bicillin"
           },
           "et": {
-            "etn": "Halothane"
+            "etn": "MedicationDuringSurgery"
           },
           "dp": {
-            "off": 8463
+            "off": 8839
           }
         }
       ],

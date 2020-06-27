@@ -155218,6 +155218,17 @@
       "dla": [
         {
           "txt": {
+            "sff": "dorsal columnDCN"
+          },
+          "et": {
+            "etn": "DorsalInjuryArea"
+          },
+          "dp": {
+            "off": 9278
+          }
+        },
+        {
+          "txt": {
             "sff": "acepromazine"
           },
           "et": {
@@ -155240,6 +155251,17 @@
         },
         {
           "txt": {
+            "sff": "50 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 7965
+          }
+        },
+        {
+          "txt": {
             "sff": "transverse lesion"
           },
           "et": {
@@ -155247,6 +155269,17 @@
           },
           "dp": {
             "off": 9109
+          }
+        },
+        {
+          "txt": {
+            "sff": "2.5 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 8015
           }
         },
         {
@@ -155262,6 +155295,17 @@
         },
         {
           "txt": {
+            "sff": "injection"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 7914
+          }
+        },
+        {
+          "txt": {
             "sff": "Vibraknife"
           },
           "et": {
@@ -155273,6 +155317,17 @@
         },
         {
           "txt": {
+            "sff": "intramuscular"
+          },
+          "et": {
+            "etn": "IntramuscularLocation"
+          },
+          "dp": {
+            "off": 7900
+          }
+        },
+        {
+          "txt": {
             "sff": "C3 and C4"
           },
           "et": {
@@ -155280,6 +155335,17 @@
           },
           "dp": {
             "off": 9139
+          }
+        },
+        {
+          "txt": {
+            "sff": "6.5 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 7986
           }
         }
       ],

@@ -94370,6 +94370,61 @@
       "dla": [
         {
           "txt": {
+            "sff": "voiding"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 13172
+          }
+        },
+        {
+          "txt": {
+            "sff": "15 mg/100 g body weight"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 13048
+          }
+        },
+        {
+          "txt": {
+            "sff": "15 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 13332
+          }
+        },
+        {
+          "txt": {
+            "sff": "IM"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 13090
+          }
+        },
+        {
+          "txt": {
+            "sff": "1.4 mg/ml"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 12927
+          }
+        },
+        {
+          "txt": {
             "sff": "ketamine"
           },
           "et": {
@@ -94377,6 +94432,116 @@
           },
           "dp": {
             "off": 12874
+          }
+        },
+        {
+          "txt": {
+            "sff": "T9/T10"
+          },
+          "et": {
+            "etn": "VertebralArea"
+          },
+          "dp": {
+            "off": 13698
+          }
+        },
+        {
+          "txt": {
+            "sff": "Kefzol"
+          },
+          "et": {
+            "etn": "MedicationDuringSurgery"
+          },
+          "dp": {
+            "off": 12981
+          }
+        },
+        {
+          "txt": {
+            "sff": "1 mg/ml"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 13216
+          }
+        },
+        {
+          "txt": {
+            "sff": "intramuscular"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 12846
+          }
+        },
+        {
+          "txt": {
+            "sff": "tetracycline"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 13202
+          }
+        },
+        {
+          "txt": {
+            "sff": "Kefzol"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 12981
+          }
+        },
+        {
+          "txt": {
+            "sff": "8.6 mg/ ml"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 12902
+          }
+        },
+        {
+          "txt": {
+            "sff": "Vitamin C"
+          },
+          "et": {
+            "etn": "PostsurgicalMedication"
+          },
+          "dp": {
+            "off": 13229
+          }
+        },
+        {
+          "txt": {
+            "sff": "intramuscular"
+          },
+          "et": {
+            "etn": "IntramuscularLocation"
+          },
+          "dp": {
+            "off": 12846
+          }
+        },
+        {
+          "txt": {
+            "sff": "IM"
+          },
+          "et": {
+            "etn": "IntramuscularLocation"
+          },
+          "dp": {
+            "off": 13090
           }
         },
         {
@@ -94392,6 +94557,17 @@
         },
         {
           "txt": {
+            "sff": "Baytril"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 13323
+          }
+        },
+        {
+          "txt": {
             "sff": "acepromacine"
           },
           "et": {
@@ -94399,6 +94575,17 @@
           },
           "dp": {
             "off": 12914
+          }
+        },
+        {
+          "txt": {
+            "sff": "200 mg/L"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 13240
           }
         },
         {
@@ -94414,13 +94601,13 @@
         },
         {
           "txt": {
-            "sff": "T9/T10"
+            "sff": "43 mg/ml"
           },
           "et": {
-            "etn": "VertebralArea"
+            "etn": "DosageExtracorporal"
           },
           "dp": {
-            "off": 13698
+            "off": 12883
           }
         }
       ],

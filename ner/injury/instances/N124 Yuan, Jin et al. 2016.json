@@ -75581,6 +75581,17 @@
         },
         {
           "txt": {
+            "sff": "dorsal column"
+          },
+          "et": {
+            "etn": "DorsalInjuryArea"
+          },
+          "dp": {
+            "off": 1293
+          }
+        },
+        {
+          "txt": {
             "sff": "DCH model"
           },
           "et": {

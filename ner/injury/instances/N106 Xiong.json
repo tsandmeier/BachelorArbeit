@@ -39568,6 +39568,50 @@
         },
         {
           "txt": {
+            "sff": "intraperitoneally"
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 7745
+          }
+        },
+        {
+          "txt": {
+            "sff": "intraperitoneally"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 7745
+          }
+        },
+        {
+          "txt": {
+            "sff": "30 mg kg− 1"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 7790
+          }
+        },
+        {
+          "txt": {
+            "sff": "food"
+          },
+          "et": {
+            "etn": "Nutrition"
+          },
+          "dp": {
+            "off": 7608
+          }
+        },
+        {
+          "txt": {
             "sff": "completely transected"
           },
           "et": {
@@ -39575,6 +39619,28 @@
           },
           "dp": {
             "off": 8114
+          }
+        },
+        {
+          "txt": {
+            "sff": "individually housed in a quiet and non-strong light vivarium"
+          },
+          "et": {
+            "etn": "Housing"
+          },
+          "dp": {
+            "off": 7517
+          }
+        },
+        {
+          "txt": {
+            "sff": "free access to water"
+          },
+          "et": {
+            "etn": "Hydration"
+          },
+          "dp": {
+            "off": 7583
           }
         },
         {

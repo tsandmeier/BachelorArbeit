@@ -72357,13 +72357,46 @@
         },
         {
           "txt": {
-            "sff": "contusion"
+            "sff": "T9"
           },
           "et": {
-            "etn": "Contusion"
+            "etn": "T9"
           },
           "dp": {
-            "off": 9579
+            "off": 9531
+          }
+        },
+        {
+          "txt": {
+            "sff": "water"
+          },
+          "et": {
+            "etn": "Hydration"
+          },
+          "dp": {
+            "off": 9116
+          }
+        },
+        {
+          "txt": {
+            "sff": "200 Kdyns"
+          },
+          "et": {
+            "etn": "Force"
+          },
+          "dp": {
+            "off": 9592
+          }
+        },
+        {
+          "txt": {
+            "sff": "T8"
+          },
+          "et": {
+            "etn": "T8"
+          },
+          "dp": {
+            "off": 9528
           }
         },
         {
@@ -72379,13 +72412,13 @@
         },
         {
           "txt": {
-            "sff": "T8–T9 vertebra"
+            "sff": "free access to food"
           },
           "et": {
-            "etn": "VertebralArea"
+            "etn": "Nutrition"
           },
           "dp": {
-            "off": 9528
+            "off": 9092
           }
         },
         {
@@ -72397,6 +72430,94 @@
           },
           "dp": {
             "off": 9612
+          }
+        },
+        {
+          "txt": {
+            "sff": "The animals were housed with free access to food and water at room temperature of 22±2°C"
+          },
+          "et": {
+            "etn": "Housing"
+          },
+          "dp": {
+            "off": 9063
+          }
+        },
+        {
+          "txt": {
+            "sff": "10 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 9397
+          }
+        },
+        {
+          "txt": {
+            "sff": "500 mg/l"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 11219
+          }
+        },
+        {
+          "txt": {
+            "sff": "amoxicillin"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 11206
+          }
+        },
+        {
+          "txt": {
+            "sff": "contusion"
+          },
+          "et": {
+            "etn": "Contusion"
+          },
+          "dp": {
+            "off": 9579
+          }
+        },
+        {
+          "txt": {
+            "sff": "Bladders were expressed"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 11092
+          }
+        },
+        {
+          "txt": {
+            "sff": "90 mg/kg)"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 9373
+          }
+        },
+        {
+          "txt": {
+            "sff": "T8–T9 vertebra"
+          },
+          "et": {
+            "etn": "VertebralArea"
+          },
+          "dp": {
+            "off": 9528
           }
         }
       ],

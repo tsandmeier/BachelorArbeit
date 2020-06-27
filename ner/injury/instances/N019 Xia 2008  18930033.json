@@ -26194,6 +26194,17 @@
       "dla": [
         {
           "txt": {
+            "sff": "i.p."
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 4299
+          }
+        },
+        {
+          "txt": {
             "sff": "lateral hemisection"
           },
           "et": {
@@ -26201,6 +26212,28 @@
           },
           "dp": {
             "off": 4380
+          }
+        },
+        {
+          "txt": {
+            "sff": "bladder compression"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 5558
+          }
+        },
+        {
+          "txt": {
+            "sff": "i.p."
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 4299
           }
         },
         {
@@ -26234,6 +26267,17 @@
           },
           "dp": {
             "off": 4412
+          }
+        },
+        {
+          "txt": {
+            "sff": "40 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 4289
           }
         }
       ],

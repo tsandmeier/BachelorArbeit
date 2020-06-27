@@ -72586,6 +72586,28 @@
       "dla": [
         {
           "txt": {
+            "sff": "1%"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 8877
+          }
+        },
+        {
+          "txt": {
+            "sff": "60"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 8905
+          }
+        },
+        {
+          "txt": {
             "sff": "laminectomy"
           },
           "et": {
@@ -72619,6 +72641,105 @@
         },
         {
           "txt": {
+            "sff": "0.02 mL/100 mg body weight, 300 U/mL"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 9437
+          }
+        },
+        {
+          "txt": {
+            "sff": "12.5 mm"
+          },
+          "et": {
+            "etn": "Distance"
+          },
+          "dp": {
+            "off": 9253
+          }
+        },
+        {
+          "txt": {
+            "sff": "bladder was emptied manually"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 11162
+          }
+        },
+        {
+          "txt": {
+            "sff": "10.0 g"
+          },
+          "et": {
+            "etn": "Weight"
+          },
+          "dp": {
+            "off": 9240
+          }
+        },
+        {
+          "txt": {
+            "sff": "T10"
+          },
+          "et": {
+            "etn": "T10"
+          },
+          "dp": {
+            "off": 9088
+          }
+        },
+        {
+          "txt": {
+            "sff": "NYU impactor"
+          },
+          "et": {
+            "etn": "NYUImpactor"
+          },
+          "dp": {
+            "off": 9160
+          }
+        },
+        {
+          "txt": {
+            "sff": "T9"
+          },
+          "et": {
+            "etn": "T9"
+          },
+          "dp": {
+            "off": 9085
+          }
+        },
+        {
+          "txt": {
+            "sff": "Bicillin"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 9427
+          }
+        },
+        {
+          "txt": {
+            "sff": "moderate injury"
+          },
+          "et": {
+            "etn": "ModerateInjury"
+          },
+          "dp": {
+            "off": 9202
+          }
+        },
+        {
+          "txt": {
             "sff": "N2O"
           },
           "et": {
@@ -72637,17 +72758,6 @@
           },
           "dp": {
             "off": 404
-          }
-        },
-        {
-          "txt": {
-            "sff": "NYU impactor"
-          },
-          "et": {
-            "etn": "NYUImpactor"
-          },
-          "dp": {
-            "off": 9160
           }
         }
       ],

@@ -80386,6 +80386,50 @@
       "dla": [
         {
           "txt": {
+            "sff": "right"
+          },
+          "et": {
+            "etn": "Right"
+          },
+          "dp": {
+            "off": 6413
+          }
+        },
+        {
+          "txt": {
+            "sff": "C6"
+          },
+          "et": {
+            "etn": "C6"
+          },
+          "dp": {
+            "off": 6166
+          }
+        },
+        {
+          "txt": {
+            "sff": "spring scissors"
+          },
+          "et": {
+            "etn": "Scissors"
+          },
+          "dp": {
+            "off": 6312
+          }
+        },
+        {
+          "txt": {
+            "sff": "through the right dorsal horn and into the left gracile fasciculus"
+          },
+          "et": {
+            "etn": "DorsalInjuryArea"
+          },
+          "dp": {
+            "off": 6451
+          }
+        },
+        {
+          "txt": {
             "sff": "C5 and C6 vertebrae"
           },
           "et": {
@@ -80419,6 +80463,50 @@
         },
         {
           "txt": {
+            "sff": "injections"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 5860
+          }
+        },
+        {
+          "txt": {
+            "sff": "C5"
+          },
+          "et": {
+            "etn": "C5"
+          },
+          "dp": {
+            "off": 6159
+          }
+        },
+        {
+          "txt": {
+            "sff": "6.5 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 5933
+          }
+        },
+        {
+          "txt": {
+            "sff": "(2.5 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 5962
+          }
+        },
+        {
+          "txt": {
             "sff": "ketamine hydrochloride"
           },
           "et": {
@@ -80430,13 +80518,24 @@
         },
         {
           "txt": {
-            "sff": "spring scissors"
+            "sff": "intramuscular"
           },
           "et": {
-            "etn": "Scissors"
+            "etn": "IntramuscularLocation"
           },
           "dp": {
-            "off": 6312
+            "off": 5846
+          }
+        },
+        {
+          "txt": {
+            "sff": "50 mg/ kg)"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 5911
           }
         },
         {

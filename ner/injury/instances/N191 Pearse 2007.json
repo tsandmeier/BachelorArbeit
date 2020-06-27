@@ -147834,6 +147834,17 @@
       "dla": [
         {
           "txt": {
+            "sff": "45 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 10676
+          }
+        },
+        {
+          "txt": {
             "sff": "Contusion injury"
           },
           "et": {
@@ -147841,6 +147852,105 @@
           },
           "dp": {
             "off": 10778
+          }
+        },
+        {
+          "txt": {
+            "sff": "Gentamicin"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 11543
+          }
+        },
+        {
+          "txt": {
+            "sff": "10.0 g"
+          },
+          "et": {
+            "etn": "Weight"
+          },
+          "dp": {
+            "off": 11095
+          }
+        },
+        {
+          "txt": {
+            "sff": "0.01 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 11716
+          }
+        },
+        {
+          "txt": {
+            "sff": "water"
+          },
+          "et": {
+            "etn": "Hydration"
+          },
+          "dp": {
+            "off": 11509
+          }
+        },
+        {
+          "txt": {
+            "sff": "The rats were allowed to recover in a warmed cage"
+          },
+          "et": {
+            "etn": "Housing"
+          },
+          "dp": {
+            "off": 11454
+          }
+        },
+        {
+          "txt": {
+            "sff": "intraperitoneal injection"
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 10716
+          }
+        },
+        {
+          "txt": {
+            "sff": "12.5 mm"
+          },
+          "et": {
+            "etn": "Distance"
+          },
+          "dp": {
+            "off": 11123
+          }
+        },
+        {
+          "txt": {
+            "sff": "xylazine"
+          },
+          "et": {
+            "etn": "Xylazine"
+          },
+          "dp": {
+            "off": 10703
+          }
+        },
+        {
+          "txt": {
+            "sff": "5 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 10695
           }
         },
         {
@@ -147856,6 +147966,39 @@
         },
         {
           "txt": {
+            "sff": "5 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 11555
+          }
+        },
+        {
+          "txt": {
+            "sff": "moderately injured"
+          },
+          "et": {
+            "etn": "ModerateInjury"
+          },
+          "dp": {
+            "off": 11062
+          }
+        },
+        {
+          "txt": {
+            "sff": "injection"
+          },
+          "et": {
+            "etn": "DeliveryMethod"
+          },
+          "dp": {
+            "off": 10732
+          }
+        },
+        {
+          "txt": {
             "sff": "MASCIS weight drop device"
           },
           "et": {
@@ -147863,6 +148006,17 @@
           },
           "dp": {
             "off": 10814
+          }
+        },
+        {
+          "txt": {
+            "sff": "Buprenex"
+          },
+          "et": {
+            "etn": "PostsurgicalMedication"
+          },
+          "dp": {
+            "off": 11706
           }
         },
         {
@@ -147878,13 +148032,13 @@
         },
         {
           "txt": {
-            "sff": "xylazine"
+            "sff": "food"
           },
           "et": {
-            "etn": "Xylazine"
+            "etn": "Nutrition"
           },
           "dp": {
-            "off": 10703
+            "off": 11519
           }
         }
       ],

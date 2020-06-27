@@ -114477,24 +114477,13 @@
         },
         {
           "txt": {
-            "sff": "xylazine"
+            "sff": "10 mg/kg"
           },
           "et": {
-            "etn": "Xylazine"
+            "etn": "DosageExtracorporal"
           },
           "dp": {
-            "off": 6754
-          }
-        },
-        {
-          "txt": {
-            "sff": "ketamine"
-          },
-          "et": {
-            "etn": "KetamineAsAnaesthetic"
-          },
-          "dp": {
-            "off": 6730
+            "off": 6764
           }
         },
         {
@@ -114510,6 +114499,39 @@
         },
         {
           "txt": {
+            "sff": "intraperitoneally"
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 6707
+          }
+        },
+        {
+          "txt": {
+            "sff": "200 kdyne force"
+          },
+          "et": {
+            "etn": "Force"
+          },
+          "dp": {
+            "off": 7223
+          }
+        },
+        {
+          "txt": {
+            "sff": "buprenorphine"
+          },
+          "et": {
+            "etn": "PostsurgicalMedication"
+          },
+          "dp": {
+            "off": 5948
+          }
+        },
+        {
+          "txt": {
             "sff": "C5"
           },
           "et": {
@@ -114517,6 +114539,83 @@
           },
           "dp": {
             "off": 6804
+          }
+        },
+        {
+          "txt": {
+            "sff": "200 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 5933
+          }
+        },
+        {
+          "txt": {
+            "sff": "xylazine"
+          },
+          "et": {
+            "etn": "Xylazine"
+          },
+          "dp": {
+            "off": 6754
+          }
+        },
+        {
+          "txt": {
+            "sff": "injected"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 6698
+          }
+        },
+        {
+          "txt": {
+            "sff": "ketamine"
+          },
+          "et": {
+            "etn": "KetamineAsAnaesthetic"
+          },
+          "dp": {
+            "off": 6730
+          }
+        },
+        {
+          "txt": {
+            "sff": "60 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 6740
+          }
+        },
+        {
+          "txt": {
+            "sff": "0.1 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 5963
+          }
+        },
+        {
+          "txt": {
+            "sff": "ampicillin"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 5921
           }
         }
       ],

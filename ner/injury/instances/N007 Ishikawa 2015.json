@@ -36186,6 +36186,28 @@
       "dla": [
         {
           "txt": {
+            "sff": "injection"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 7298
+          }
+        },
+        {
+          "txt": {
+            "sff": "ipsilateral"
+          },
+          "et": {
+            "etn": "Direction"
+          },
+          "dp": {
+            "off": 7462
+          }
+        },
+        {
+          "txt": {
             "sff": "fine  micro-blade"
           },
           "et": {
@@ -36208,13 +36230,13 @@
         },
         {
           "txt": {
-            "sff": "xylazine"
+            "sff": "10 mg/kg"
           },
           "et": {
-            "etn": "Xylazine"
+            "etn": "DosageExtracorporal"
           },
           "dp": {
-            "off": 7336
+            "off": 7346
           }
         },
         {
@@ -36226,6 +36248,72 @@
           },
           "dp": {
             "off": 7452
+          }
+        },
+        {
+          "txt": {
+            "sff": "to the preferred  paw"
+          },
+          "et": {
+            "etn": "Location"
+          },
+          "dp": {
+            "off": 7474
+          }
+        },
+        {
+          "txt": {
+            "sff": "C3"
+          },
+          "et": {
+            "etn": "C3"
+          },
+          "dp": {
+            "off": 7452
+          }
+        },
+        {
+          "txt": {
+            "sff": "xylazine"
+          },
+          "et": {
+            "etn": "Xylazine"
+          },
+          "dp": {
+            "off": 7336
+          }
+        },
+        {
+          "txt": {
+            "sff": "dorsal CST and the ascending sensory  dorsal columns"
+          },
+          "et": {
+            "etn": "DorsalInjuryArea"
+          },
+          "dp": {
+            "off": 7649
+          }
+        },
+        {
+          "txt": {
+            "sff": "C4"
+          },
+          "et": {
+            "etn": "C4"
+          },
+          "dp": {
+            "off": 7459
+          }
+        },
+        {
+          "txt": {
+            "sff": "100 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 7321
           }
         },
         {

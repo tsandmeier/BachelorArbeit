@@ -71885,6 +71885,28 @@
         },
         {
           "txt": {
+            "sff": "i.p"
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 7361
+          }
+        },
+        {
+          "txt": {
+            "sff": "i.p"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 7361
+          }
+        },
+        {
+          "txt": {
             "sff": "T8–T9"
           },
           "et": {
@@ -71892,6 +71914,72 @@
           },
           "dp": {
             "off": 7626
+          }
+        },
+        {
+          "txt": {
+            "sff": "morphine sulfate"
+          },
+          "et": {
+            "etn": "PostsurgicalMedication"
+          },
+          "dp": {
+            "off": 8249
+          }
+        },
+        {
+          "txt": {
+            "sff": "temperature controlled environment"
+          },
+          "et": {
+            "etn": "Housing"
+          },
+          "dp": {
+            "off": 6069
+          }
+        },
+        {
+          "txt": {
+            "sff": "0.08–0.16 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 8267
+          }
+        },
+        {
+          "txt": {
+            "sff": "ad libitum"
+          },
+          "et": {
+            "etn": "Nutrition"
+          },
+          "dp": {
+            "off": 6136
+          }
+        },
+        {
+          "txt": {
+            "sff": "2.5 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 8412
+          }
+        },
+        {
+          "txt": {
+            "sff": "bladder expression"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 8550
           }
         },
         {
@@ -71907,6 +71995,28 @@
         },
         {
           "txt": {
+            "sff": "40 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 7351
+          }
+        },
+        {
+          "txt": {
+            "sff": "antibiotic"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 8387
+          }
+        },
+        {
+          "txt": {
             "sff": "transected"
           },
           "et": {
@@ -71914,6 +72024,17 @@
           },
           "dp": {
             "off": 7692
+          }
+        },
+        {
+          "txt": {
+            "sff": "water ad libitum"
+          },
+          "et": {
+            "etn": "Hydration"
+          },
+          "dp": {
+            "off": 6130
           }
         }
       ],

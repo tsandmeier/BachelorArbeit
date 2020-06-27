@@ -89946,6 +89946,28 @@
       "dla": [
         {
           "txt": {
+            "sff": "moderate"
+          },
+          "et": {
+            "etn": "ModerateInjury"
+          },
+          "dp": {
+            "off": 7833
+          }
+        },
+        {
+          "txt": {
+            "sff": "Buprenorphine Hydrochloride"
+          },
+          "et": {
+            "etn": "PostsurgicalMedication"
+          },
+          "dp": {
+            "off": 9174
+          }
+        },
+        {
+          "txt": {
             "sff": "T9"
           },
           "et": {
@@ -89957,6 +89979,50 @@
         },
         {
           "txt": {
+            "sff": "Cefazolin"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 8995
+          }
+        },
+        {
+          "txt": {
+            "sff": "0.1 ml/100 g"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 7547
+          }
+        },
+        {
+          "txt": {
+            "sff": "i.p."
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 7561
+          }
+        },
+        {
+          "txt": {
+            "sff": "0.03 ml"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 9034
+          }
+        },
+        {
+          "txt": {
             "sff": "sodium pentobarbital"
           },
           "et": {
@@ -89964,6 +90030,72 @@
           },
           "dp": {
             "off": 7515
+          }
+        },
+        {
+          "txt": {
+            "sff": "ad libitum access to both food"
+          },
+          "et": {
+            "etn": "Nutrition"
+          },
+          "dp": {
+            "off": 9534
+          }
+        },
+        {
+          "txt": {
+            "sff": "bladders manually expressed"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 8898
+          }
+        },
+        {
+          "txt": {
+            "sff": "10 g impactor rod"
+          },
+          "et": {
+            "etn": "Weight"
+          },
+          "dp": {
+            "off": 7896
+          }
+        },
+        {
+          "txt": {
+            "sff": "water"
+          },
+          "et": {
+            "etn": "Hydration"
+          },
+          "dp": {
+            "off": 9569
+          }
+        },
+        {
+          "txt": {
+            "sff": "height of 25 mm"
+          },
+          "et": {
+            "etn": "Distance"
+          },
+          "dp": {
+            "off": 7921
+          }
+        },
+        {
+          "txt": {
+            "sff": "0.03 ml"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 9265
           }
         },
         {
@@ -89986,6 +90118,17 @@
           },
           "dp": {
             "off": 7772
+          }
+        },
+        {
+          "txt": {
+            "sff": "injection"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 7566
           }
         }
       ],

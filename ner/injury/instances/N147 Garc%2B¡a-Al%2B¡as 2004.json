@@ -76653,6 +76653,28 @@
         },
         {
           "txt": {
+            "sff": "free access to food"
+          },
+          "et": {
+            "etn": "Nutrition"
+          },
+          "dp": {
+            "off": 8865
+          }
+        },
+        {
+          "txt": {
+            "sff": "water"
+          },
+          "et": {
+            "etn": "Hydration"
+          },
+          "dp": {
+            "off": 8889
+          }
+        },
+        {
+          "txt": {
             "sff": "T8"
           },
           "et": {
@@ -76660,6 +76682,28 @@
           },
           "dp": {
             "off": 7187
+          }
+        },
+        {
+          "txt": {
+            "sff": "50 mg/kg,"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 6857
+          }
+        },
+        {
+          "txt": {
+            "sff": "two per cage, were exposed to a 12 hr light/dark cycle"
+          },
+          "et": {
+            "etn": "Housing"
+          },
+          "dp": {
+            "off": 8801
           }
         },
         {
@@ -76682,6 +76726,50 @@
           },
           "dp": {
             "off": 6835
+          }
+        },
+        {
+          "txt": {
+            "sff": "i.p."
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 6867
+          }
+        },
+        {
+          "txt": {
+            "sff": "80 kLux"
+          },
+          "et": {
+            "etn": "LightIntensity"
+          },
+          "dp": {
+            "off": 7595
+          }
+        },
+        {
+          "txt": {
+            "sff": "mild injury"
+          },
+          "et": {
+            "etn": "MildInjury"
+          },
+          "dp": {
+            "off": 722
+          }
+        },
+        {
+          "txt": {
+            "sff": "i.p."
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 6867
           }
         }
       ],

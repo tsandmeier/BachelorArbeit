@@ -51562,6 +51562,17 @@
       "dla": [
         {
           "txt": {
+            "sff": "1–2%"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 10640
+          }
+        },
+        {
+          "txt": {
             "sff": "C4"
           },
           "et": {
@@ -51591,6 +51602,17 @@
           },
           "dp": {
             "off": 10892
+          }
+        },
+        {
+          "txt": {
+            "sff": "descending dorsal corticospinal tracts and the ascending sensory dorsal columns"
+          },
+          "et": {
+            "etn": "InjuryArea"
+          },
+          "dp": {
+            "off": 11044
           }
         },
         {

@@ -29178,6 +29178,17 @@
       "dla": [
         {
           "txt": {
+            "sff": "manual bladder evacuation"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 4438
+          }
+        },
+        {
+          "txt": {
             "sff": "T8 or T9"
           },
           "et": {
@@ -29185,6 +29196,28 @@
           },
           "dp": {
             "off": 3983
+          }
+        },
+        {
+          "txt": {
+            "sff": "T9"
+          },
+          "et": {
+            "etn": "T9"
+          },
+          "dp": {
+            "off": 3989
+          }
+        },
+        {
+          "txt": {
+            "sff": "cm"
+          },
+          "et": {
+            "etn": "Distance"
+          },
+          "dp": {
+            "off": 4026
           }
         },
         {
@@ -29207,6 +29240,28 @@
           },
           "dp": {
             "off": 4058
+          }
+        },
+        {
+          "txt": {
+            "sff": "T8"
+          },
+          "et": {
+            "etn": "T8"
+          },
+          "dp": {
+            "off": 3983
+          }
+        },
+        {
+          "txt": {
+            "sff": "12.5 g"
+          },
+          "et": {
+            "etn": "Weight"
+          },
+          "dp": {
+            "off": 4019
           }
         }
       ],

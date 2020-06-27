@@ -31872,6 +31872,17 @@
         },
         {
           "txt": {
+            "sff": "Unilateral CST lesions"
+          },
+          "et": {
+            "etn": "UnilateralInjuryArea"
+          },
+          "dp": {
+            "off": 5506
+          }
+        },
+        {
+          "txt": {
             "sff": "radiofrequency lesion device"
           },
           "et": {
@@ -31879,6 +31890,17 @@
           },
           "dp": {
             "off": 5715
+          }
+        },
+        {
+          "txt": {
+            "sff": "C2"
+          },
+          "et": {
+            "etn": "C2"
+          },
+          "dp": {
+            "off": 5554
           }
         },
         {

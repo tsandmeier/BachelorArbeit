@@ -66949,6 +66949,17 @@
         },
         {
           "txt": {
+            "sff": "5 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 8281
+          }
+        },
+        {
+          "txt": {
             "sff": "weight-drop technique of Allen"
           },
           "et": {
@@ -66956,6 +66967,17 @@
           },
           "dp": {
             "off": 8358
+          }
+        },
+        {
+          "txt": {
+            "sff": "50 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 8257
           }
         },
         {
@@ -66971,6 +66993,17 @@
         },
         {
           "txt": {
+            "sff": "mild"
+          },
+          "et": {
+            "etn": "MildInjury"
+          },
+          "dp": {
+            "off": 8294
+          }
+        },
+        {
+          "txt": {
             "sff": "xilazine"
           },
           "et": {
@@ -66982,6 +67015,17 @@
         },
         {
           "txt": {
+            "sff": "10-g"
+          },
+          "et": {
+            "etn": "Weight"
+          },
+          "dp": {
+            "off": 8548
+          }
+        },
+        {
+          "txt": {
             "sff": "C-7"
           },
           "et": {
@@ -66989,6 +67033,17 @@
           },
           "dp": {
             "off": 8312
+          }
+        },
+        {
+          "txt": {
+            "sff": "12.5 mm"
+          },
+          "et": {
+            "etn": "Distance"
+          },
+          "dp": {
+            "off": 8577
           }
         }
       ],

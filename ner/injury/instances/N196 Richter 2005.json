@@ -88498,6 +88498,28 @@
       "dla": [
         {
           "txt": {
+            "sff": "fourth"
+          },
+          "et": {
+            "etn": "C4"
+          },
+          "dp": {
+            "off": 12343
+          }
+        },
+        {
+          "txt": {
+            "sff": "crushing the dorsolateral funiculus"
+          },
+          "et": {
+            "etn": "UnilateralInjuryArea"
+          },
+          "dp": {
+            "off": 12659
+          }
+        },
+        {
+          "txt": {
             "sff": "forceps"
           },
           "et": {
@@ -88505,6 +88527,50 @@
           },
           "dp": {
             "off": 12484
+          }
+        },
+        {
+          "txt": {
+            "sff": "10"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 12244
+          }
+        },
+        {
+          "txt": {
+            "sff": "i.p."
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 12261
+          }
+        },
+        {
+          "txt": {
+            "sff": "i.p."
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 12261
+          }
+        },
+        {
+          "txt": {
+            "sff": "70 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 12251
           }
         },
         {
@@ -88538,6 +88604,17 @@
           },
           "dp": {
             "off": 12234
+          }
+        },
+        {
+          "txt": {
+            "sff": "third"
+          },
+          "et": {
+            "etn": "C3"
+          },
+          "dp": {
+            "off": 12333
           }
         }
       ],

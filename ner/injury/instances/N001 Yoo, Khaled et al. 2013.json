@@ -93386,6 +93386,116 @@
       "dla": [
         {
           "txt": {
+            "sff": "Bupivacaine"
+          },
+          "et": {
+            "etn": "Anaesthetic"
+          },
+          "dp": {
+            "off": 38236
+          }
+        },
+        {
+          "txt": {
+            "sff": "T7–T9 level"
+          },
+          "et": {
+            "etn": "VertebralArea"
+          },
+          "dp": {
+            "off": 38538
+          }
+        },
+        {
+          "txt": {
+            "sff": "around the incision site"
+          },
+          "et": {
+            "etn": "Location"
+          },
+          "dp": {
+            "off": 38294
+          }
+        },
+        {
+          "txt": {
+            "sff": "mouse spinal cord compression device"
+          },
+          "et": {
+            "etn": "InjuryDevice"
+          },
+          "dp": {
+            "off": 38616
+          }
+        },
+        {
+          "txt": {
+            "sff": "moderate"
+          },
+          "et": {
+            "etn": "ModerateInjury"
+          },
+          "dp": {
+            "off": 37529
+          }
+        },
+        {
+          "txt": {
+            "sff": "24 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 38166
+          }
+        },
+        {
+          "txt": {
+            "sff": "bladders"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 37201
+          }
+        },
+        {
+          "txt": {
+            "sff": "Ketamine"
+          },
+          "et": {
+            "etn": "KetamineAsAnaesthetic"
+          },
+          "dp": {
+            "off": 38089
+          }
+        },
+        {
+          "txt": {
+            "sff": "160 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 38099
+          }
+        },
+        {
+          "txt": {
+            "sff": "temperatureand humidity-controlled room"
+          },
+          "et": {
+            "etn": "Housing"
+          },
+          "dp": {
+            "off": 37107
+          }
+        },
+        {
+          "txt": {
             "sff": "Xylazine"
           },
           "et": {
@@ -93408,35 +93518,68 @@
         },
         {
           "txt": {
-            "sff": "T7–T9 level"
+            "sff": "intraperitoneal"
           },
           "et": {
-            "etn": "VertebralArea"
+            "etn": "IntraperitonealLocation"
           },
           "dp": {
-            "off": 38538
+            "off": 38060
           }
         },
         {
           "txt": {
-            "sff": "mouse spinal cord compression device"
+            "sff": "ad libitum"
           },
           "et": {
-            "etn": "InjuryDevice"
+            "etn": "Hydration"
           },
           "dp": {
-            "off": 38616
+            "off": 37185
           }
         },
         {
           "txt": {
-            "sff": "Ketamine"
+            "sff": "injected"
           },
           "et": {
-            "etn": "KetamineAsAnaesthetic"
+            "etn": "InjectionDelivery"
           },
           "dp": {
-            "off": 38089
+            "off": 38285
+          }
+        },
+        {
+          "txt": {
+            "sff": "injection"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 38076
+          }
+        },
+        {
+          "txt": {
+            "sff": "food provided ad libitum"
+          },
+          "et": {
+            "etn": "Nutrition"
+          },
+          "dp": {
+            "off": 37171
+          }
+        },
+        {
+          "txt": {
+            "sff": "severe"
+          },
+          "et": {
+            "etn": "SevereInjury"
+          },
+          "dp": {
+            "off": 39001
           }
         }
       ],

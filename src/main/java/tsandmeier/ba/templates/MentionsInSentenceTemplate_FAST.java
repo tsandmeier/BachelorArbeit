@@ -25,7 +25,11 @@ public class MentionsInSentenceTemplate_FAST extends AbstractFeatureTemplate<Men
     	super(cache);
 	}
 
-	static class MentionsInSentenceScope
+    public MentionsInSentenceTemplate_FAST() {
+        super();
+    }
+
+    static class MentionsInSentenceScope
 			extends AbstractFactorScope {
 
 		String entityNameOne;

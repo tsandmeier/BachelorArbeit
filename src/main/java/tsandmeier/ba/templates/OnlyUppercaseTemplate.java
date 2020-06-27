@@ -22,6 +22,10 @@ public class OnlyUppercaseTemplate extends AbstractFeatureTemplate<OnlyUppercase
 
     public OnlyUppercaseTemplate(boolean cache){super(cache);}
 
+    public OnlyUppercaseTemplate() {
+        super();
+    }
+
     static class StartsWithCapitalScope
             extends AbstractFactorScope {
 

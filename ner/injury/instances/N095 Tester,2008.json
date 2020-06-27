@@ -85970,35 +85970,90 @@
       "dla": [
         {
           "txt": {
-            "sff": "iridectomy scissors"
+            "sff": "housed singly or in pairs in cages on thick beds (~12.5–20 cm) of shredded newspaper or several layers of egg crate foam"
           },
           "et": {
-            "etn": "Scissors"
+            "etn": "Housing"
           },
           "dp": {
-            "off": 10665
+            "off": 13015
           }
         },
         {
           "txt": {
-            "sff": "isoflurane"
+            "sff": "intubated"
           },
           "et": {
-            "etn": "Isoflurane"
+            "etn": "InhalationDelivery"
           },
           "dp": {
-            "off": 10189
+            "off": 10127
           }
         },
         {
           "txt": {
-            "sff": "T10"
+            "sff": "inhaled"
           },
           "et": {
-            "etn": "T10"
+            "etn": "InhalationDelivery"
           },
           "dp": {
-            "off": 10696
+            "off": 10032
+          }
+        },
+        {
+          "txt": {
+            "sff": "IM"
+          },
+          "et": {
+            "etn": "IntramuscularLocation"
+          },
+          "dp": {
+            "off": 9777
+          }
+        },
+        {
+          "txt": {
+            "sff": "IM"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 9777
+          }
+        },
+        {
+          "txt": {
+            "sff": "Penicillin G"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 9737
+          }
+        },
+        {
+          "txt": {
+            "sff": "0.01 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 12697
+          }
+        },
+        {
+          "txt": {
+            "sff": "injections"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 9870
           }
         },
         {
@@ -86010,6 +86065,83 @@
           },
           "dp": {
             "off": 10078
+          }
+        },
+        {
+          "txt": {
+            "sff": "0.04–0.06 mg/ kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 9902
+          }
+        },
+        {
+          "txt": {
+            "sff": "Penicillin G"
+          },
+          "et": {
+            "etn": "MedicationDuringSurgery"
+          },
+          "dp": {
+            "off": 9737
+          }
+        },
+        {
+          "txt": {
+            "sff": "Buprenorphine"
+          },
+          "et": {
+            "etn": "PostsurgicalMedication"
+          },
+          "dp": {
+            "off": 12682
+          }
+        },
+        {
+          "txt": {
+            "sff": "iridectomy scissors"
+          },
+          "et": {
+            "etn": "Scissors"
+          },
+          "dp": {
+            "off": 10665
+          }
+        },
+        {
+          "txt": {
+            "sff": "subcutaneous"
+          },
+          "et": {
+            "etn": "SubcutaneousLocation"
+          },
+          "dp": {
+            "off": 9857
+          }
+        },
+        {
+          "txt": {
+            "sff": "2–5%"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 10073
+          }
+        },
+        {
+          "txt": {
+            "sff": "isoflurane"
+          },
+          "et": {
+            "etn": "Isoflurane"
+          },
+          "dp": {
+            "off": 10189
           }
         },
         {
@@ -86043,6 +86175,72 @@
           },
           "dp": {
             "off": 9924
+          }
+        },
+        {
+          "txt": {
+            "sff": "2–3%"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 10211
+          }
+        },
+        {
+          "txt": {
+            "sff": "40,000 U/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 9761
+          }
+        },
+        {
+          "txt": {
+            "sff": "bladders were emptied"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 13323
+          }
+        },
+        {
+          "txt": {
+            "sff": "0.4–0.5 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 9941
+          }
+        },
+        {
+          "txt": {
+            "sff": "left"
+          },
+          "et": {
+            "etn": "Left"
+          },
+          "dp": {
+            "off": 10619
+          }
+        },
+        {
+          "txt": {
+            "sff": "T10"
+          },
+          "et": {
+            "etn": "T10"
+          },
+          "dp": {
+            "off": 10696
           }
         }
       ],

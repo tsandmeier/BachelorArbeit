@@ -101517,6 +101517,17 @@
         },
         {
           "txt": {
+            "sff": "intraperitoneal"
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 7894
+          }
+        },
+        {
+          "txt": {
             "sff": "xylazine"
           },
           "et": {
@@ -101524,6 +101535,39 @@
           },
           "dp": {
             "off": 7948
+          }
+        },
+        {
+          "txt": {
+            "sff": "1.0 ml of Bactramin (Roche) in 500 ml of acidified water"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 9747
+          }
+        },
+        {
+          "txt": {
+            "sff": "bladder was compressed"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 9485
+          }
+        },
+        {
+          "txt": {
+            "sff": "Food was provided on the cage floor"
+          },
+          "et": {
+            "etn": "Nutrition"
+          },
+          "dp": {
+            "off": 9587
           }
         },
         {
@@ -101539,6 +101583,17 @@
         },
         {
           "txt": {
+            "sff": "injection"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 7910
+          }
+        },
+        {
+          "txt": {
             "sff": "contusion"
           },
           "et": {
@@ -101550,6 +101605,28 @@
         },
         {
           "txt": {
+            "sff": "had no  difficulty reaching their water bottles"
+          },
+          "et": {
+            "etn": "Hydration"
+          },
+          "dp": {
+            "off": 9637
+          }
+        },
+        {
+          "txt": {
+            "sff": "200 kdyn"
+          },
+          "et": {
+            "etn": "Force"
+          },
+          "dp": {
+            "off": 8056
+          }
+        },
+        {
+          "txt": {
             "sff": "ketamine"
           },
           "et": {
@@ -101557,6 +101634,50 @@
           },
           "dp": {
             "off": 7923
+          }
+        },
+        {
+          "txt": {
+            "sff": "100 mg/kg)"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 7933
+          }
+        },
+        {
+          "txt": {
+            "sff": "10 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 7958
+          }
+        },
+        {
+          "txt": {
+            "sff": "dorsal CST and dorsal gray matter"
+          },
+          "et": {
+            "etn": "DorsalInjuryArea"
+          },
+          "dp": {
+            "off": 8267
+          }
+        },
+        {
+          "txt": {
+            "sff": "antibiotics"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 9709
           }
         }
       ],

@@ -35370,6 +35370,17 @@
       "dla": [
         {
           "txt": {
+            "sff": "right"
+          },
+          "et": {
+            "etn": "Right"
+          },
+          "dp": {
+            "off": 4918
+          }
+        },
+        {
+          "txt": {
             "sff": "T11"
           },
           "et": {
@@ -35403,6 +35414,17 @@
         },
         {
           "txt": {
+            "sff": "8 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 4766
+          }
+        },
+        {
+          "txt": {
             "sff": "right hemisection"
           },
           "et": {
@@ -35414,6 +35436,28 @@
         },
         {
           "txt": {
+            "sff": "80 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 4742
+          }
+        },
+        {
+          "txt": {
+            "sff": "i.p"
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 4727
+          }
+        },
+        {
+          "txt": {
             "sff": "spring scissors"
           },
           "et": {
@@ -35421,6 +35465,17 @@
           },
           "dp": {
             "off": 4986
+          }
+        },
+        {
+          "txt": {
+            "sff": "i.p."
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 4727
           }
         }
       ],

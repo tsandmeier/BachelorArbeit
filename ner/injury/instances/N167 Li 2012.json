@@ -44274,6 +44274,28 @@
       "dla": [
         {
           "txt": {
+            "sff": "Bicillin"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 7790
+          }
+        },
+        {
+          "txt": {
+            "sff": "40–50 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 7381
+          }
+        },
+        {
+          "txt": {
             "sff": "T10"
           },
           "et": {
@@ -44285,6 +44307,17 @@
         },
         {
           "txt": {
+            "sff": "25mmabove"
+          },
+          "et": {
+            "etn": "Distance"
+          },
+          "dp": {
+            "off": 7581
+          }
+        },
+        {
+          "txt": {
             "sff": "sodium pentobarbiturate"
           },
           "et": {
@@ -44292,6 +44325,17 @@
           },
           "dp": {
             "off": 7356
+          }
+        },
+        {
+          "txt": {
+            "sff": "intraperitoneal injection"
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 7323
           }
         },
         {
@@ -44314,6 +44358,50 @@
           },
           "dp": {
             "off": 7528
+          }
+        },
+        {
+          "txt": {
+            "sff": "60,000 U/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 7800
+          }
+        },
+        {
+          "txt": {
+            "sff": "injection"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 7339
+          }
+        },
+        {
+          "txt": {
+            "sff": "10.0 g"
+          },
+          "et": {
+            "etn": "Weight"
+          },
+          "dp": {
+            "off": 7568
+          }
+        },
+        {
+          "txt": {
+            "sff": "bladder expression"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 7851
           }
         }
       ],

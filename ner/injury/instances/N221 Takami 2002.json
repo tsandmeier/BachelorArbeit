@@ -76354,13 +76354,35 @@
       "dla": [
         {
           "txt": {
-            "sff": "nitrous oxide"
+            "sff": "70%"
           },
           "et": {
-            "etn": "NitrousOxide"
+            "etn": "DosageExtracorporal"
           },
           "dp": {
-            "off": 8821
+            "off": 8817
+          }
+        },
+        {
+          "txt": {
+            "sff": "food"
+          },
+          "et": {
+            "etn": "Nutrition"
+          },
+          "dp": {
+            "off": 9899
+          }
+        },
+        {
+          "txt": {
+            "sff": "Bicillin"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 9905
           }
         },
         {
@@ -76387,6 +76409,72 @@
         },
         {
           "txt": {
+            "sff": "1–2%"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 8786
+          }
+        },
+        {
+          "txt": {
+            "sff": "10 gm weight"
+          },
+          "et": {
+            "etn": "Weight"
+          },
+          "dp": {
+            "off": 9578
+          }
+        },
+        {
+          "txt": {
+            "sff": "ad libitum access to water"
+          },
+          "et": {
+            "etn": "Hydration"
+          },
+          "dp": {
+            "off": 9868
+          }
+        },
+        {
+          "txt": {
+            "sff": "nitrous oxide"
+          },
+          "et": {
+            "etn": "NitrousOxide"
+          },
+          "dp": {
+            "off": 8821
+          }
+        },
+        {
+          "txt": {
+            "sff": "12.5 mm"
+          },
+          "et": {
+            "etn": "Distance"
+          },
+          "dp": {
+            "off": 9625
+          }
+        },
+        {
+          "txt": {
+            "sff": "Bicillin"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 9051
+          }
+        },
+        {
+          "txt": {
             "sff": "T8"
           },
           "et": {
@@ -76398,6 +76486,17 @@
         },
         {
           "txt": {
+            "sff": "moderately"
+          },
+          "et": {
+            "etn": "ModerateInjury"
+          },
+          "dp": {
+            "off": 9553
+          }
+        },
+        {
+          "txt": {
             "sff": "halothane"
           },
           "et": {
@@ -76405,6 +76504,28 @@
           },
           "dp": {
             "off": 8791
+          }
+        },
+        {
+          "txt": {
+            "sff": "partly warmed cages"
+          },
+          "et": {
+            "etn": "Housing"
+          },
+          "dp": {
+            "off": 9843
+          }
+        },
+        {
+          "txt": {
+            "sff": "0.02 ml/100 mg body weight"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 9061
           }
         }
       ],

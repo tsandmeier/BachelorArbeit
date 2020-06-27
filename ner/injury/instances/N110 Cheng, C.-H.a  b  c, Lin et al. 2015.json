@@ -144442,13 +144442,13 @@
       "dla": [
         {
           "txt": {
-            "sff": "T8"
+            "sff": "Prophylactic antibiotics"
           },
           "et": {
-            "etn": "T8"
+            "etn": "AntibioticMedication"
           },
           "dp": {
-            "off": 14514
+            "off": 15142
           }
         },
         {
@@ -144475,6 +144475,17 @@
         },
         {
           "txt": {
+            "sff": "inhaled"
+          },
+          "et": {
+            "etn": "InhalationDelivery"
+          },
+          "dp": {
+            "off": 13406
+          }
+        },
+        {
+          "txt": {
             "sff": "NYU-MASCIS"
           },
           "et": {
@@ -144482,6 +144493,39 @@
           },
           "dp": {
             "off": 16003
+          }
+        },
+        {
+          "txt": {
+            "sff": "food"
+          },
+          "et": {
+            "etn": "Nutrition"
+          },
+          "dp": {
+            "off": 12836
+          }
+        },
+        {
+          "txt": {
+            "sff": "5%"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 13426
+          }
+        },
+        {
+          "txt": {
+            "sff": "65 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 15402
           }
         },
         {
@@ -144497,6 +144541,17 @@
         },
         {
           "txt": {
+            "sff": "10.0 g rod"
+          },
+          "et": {
+            "etn": "Weight"
+          },
+          "dp": {
+            "off": 15932
+          }
+        },
+        {
+          "txt": {
             "sff": "completely transected"
           },
           "et": {
@@ -144508,6 +144563,17 @@
         },
         {
           "txt": {
+            "sff": "free access to water"
+          },
+          "et": {
+            "etn": "Hydration"
+          },
+          "dp": {
+            "off": 12811
+          }
+        },
+        {
+          "txt": {
             "sff": "microsurgical stab knife"
           },
           "et": {
@@ -144515,6 +144581,94 @@
           },
           "dp": {
             "off": 14611
+          }
+        },
+        {
+          "txt": {
+            "sff": "bladders were manually expressed"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 15096
+          }
+        },
+        {
+          "txt": {
+            "sff": "acetaminophen"
+          },
+          "et": {
+            "etn": "PostsurgicalMedication"
+          },
+          "dp": {
+            "off": 15387
+          }
+        },
+        {
+          "txt": {
+            "sff": "T8"
+          },
+          "et": {
+            "etn": "T8"
+          },
+          "dp": {
+            "off": 14514
+          }
+        },
+        {
+          "txt": {
+            "sff": "0.5 mL/day"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 15168
+          }
+        },
+        {
+          "txt": {
+            "sff": "1–2%"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 13444
+          }
+        },
+        {
+          "txt": {
+            "sff": "all efforts were made to minimize the animals’ suffering, and 2 rats were housed per cage under the same conditions"
+          },
+          "et": {
+            "etn": "Housing"
+          },
+          "dp": {
+            "off": 12857
+          }
+        },
+        {
+          "txt": {
+            "sff": "severely"
+          },
+          "et": {
+            "etn": "SevereInjury"
+          },
+          "dp": {
+            "off": 15900
+          }
+        },
+        {
+          "txt": {
+            "sff": "height of 50 mm"
+          },
+          "et": {
+            "etn": "Distance"
+          },
+          "dp": {
+            "off": 15977
           }
         }
       ],

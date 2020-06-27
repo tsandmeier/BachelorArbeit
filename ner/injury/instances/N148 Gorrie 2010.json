@@ -68602,6 +68602,17 @@
       "dla": [
         {
           "txt": {
+            "sff": "100 mg/mL"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 36178
+          }
+        },
+        {
+          "txt": {
             "sff": "contusion injury"
           },
           "et": {
@@ -68624,6 +68635,94 @@
         },
         {
           "txt": {
+            "sff": "IP"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 35367
+          }
+        },
+        {
+          "txt": {
+            "sff": "12.5 mm"
+          },
+          "et": {
+            "etn": "Distance"
+          },
+          "dp": {
+            "off": 35823
+          }
+        },
+        {
+          "txt": {
+            "sff": "carprofen"
+          },
+          "et": {
+            "etn": "PostsurgicalMedication"
+          },
+          "dp": {
+            "off": 36210
+          }
+        },
+        {
+          "txt": {
+            "sff": "IP"
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 35367
+          }
+        },
+        {
+          "txt": {
+            "sff": "50 mg/mL"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 36220
+          }
+        },
+        {
+          "txt": {
+            "sff": "100"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 35353
+          }
+        },
+        {
+          "txt": {
+            "sff": "10 g"
+          },
+          "et": {
+            "etn": "Weight"
+          },
+          "dp": {
+            "off": 35832
+          }
+        },
+        {
+          "txt": {
+            "sff": "cephalothin sodium"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 36159
+          }
+        },
+        {
+          "txt": {
             "sff": "T10"
           },
           "et": {
@@ -68631,6 +68730,17 @@
           },
           "dp": {
             "off": 35684
+          }
+        },
+        {
+          "txt": {
+            "sff": "10 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 35357
           }
         },
         {
@@ -68653,6 +68763,17 @@
           },
           "dp": {
             "off": 35763
+          }
+        },
+        {
+          "txt": {
+            "sff": "Bladders were expressed"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 36325
           }
         }
       ],

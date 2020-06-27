@@ -126058,6 +126058,17 @@
       "dla": [
         {
           "txt": {
+            "sff": "bladders"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 10589
+          }
+        },
+        {
+          "txt": {
             "sff": "isoflurane"
           },
           "et": {
@@ -126080,6 +126091,28 @@
         },
         {
           "txt": {
+            "sff": "and temperature-controlled (23–25°C)"
+          },
+          "et": {
+            "etn": "Housing"
+          },
+          "dp": {
+            "off": 7410
+          }
+        },
+        {
+          "txt": {
+            "sff": "2%"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 7696
+          }
+        },
+        {
+          "txt": {
             "sff": "T8"
           },
           "et": {
@@ -126087,6 +126120,17 @@
           },
           "dp": {
             "off": 8163
+          }
+        },
+        {
+          "txt": {
+            "sff": "12 h light/dark cycle"
+          },
+          "et": {
+            "etn": "KeepingCondition"
+          },
+          "dp": {
+            "off": 7459
           }
         }
       ],

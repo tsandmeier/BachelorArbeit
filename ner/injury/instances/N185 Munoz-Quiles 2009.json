@@ -64378,6 +64378,17 @@
       "dla": [
         {
           "txt": {
+            "sff": "T9"
+          },
+          "et": {
+            "etn": "T9"
+          },
+          "dp": {
+            "off": 5304
+          }
+        },
+        {
+          "txt": {
             "sff": "completely sectioned"
           },
           "et": {
@@ -64385,6 +64396,28 @@
           },
           "dp": {
             "off": 5399
+          }
+        },
+        {
+          "txt": {
+            "sff": "1 g/200 mg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 7297
+          }
+        },
+        {
+          "txt": {
+            "sff": "analgesic magnesium metamizol"
+          },
+          "et": {
+            "etn": "PostsurgicalMedication"
+          },
+          "dp": {
+            "off": 7128
           }
         },
         {
@@ -64407,6 +64440,39 @@
           },
           "dp": {
             "off": 5426
+          }
+        },
+        {
+          "txt": {
+            "sff": "Urinary bladder was manually expressed"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 7393
+          }
+        },
+        {
+          "txt": {
+            "sff": "antibiotic, Augmentin (amoxicillin/clavulanic acid"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 7245
+          }
+        },
+        {
+          "txt": {
+            "sff": "T8"
+          },
+          "et": {
+            "etn": "T8"
+          },
+          "dp": {
+            "off": 5298
           }
         }
       ],

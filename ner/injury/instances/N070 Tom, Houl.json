@@ -36965,6 +36965,17 @@
         },
         {
           "txt": {
+            "sff": "200mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 4302
+          }
+        },
+        {
+          "txt": {
             "sff": "isoflurane"
           },
           "et": {
@@ -36983,6 +36994,39 @@
           },
           "dp": {
             "off": 3736
+          }
+        },
+        {
+          "txt": {
+            "sff": "buprenorphine"
+          },
+          "et": {
+            "etn": "PostsurgicalMedication"
+          },
+          "dp": {
+            "off": 4316
+          }
+        },
+        {
+          "txt": {
+            "sff": "0.1mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 4331
+          }
+        },
+        {
+          "txt": {
+            "sff": "ampicillin"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 4290
           }
         }
       ],

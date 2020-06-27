@@ -103229,6 +103229,17 @@
         },
         {
           "txt": {
+            "sff": "intraperitoneal"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 9615
+          }
+        },
+        {
+          "txt": {
             "sff": "sodium pentobarbital"
           },
           "et": {
@@ -103236,6 +103247,61 @@
           },
           "dp": {
             "off": 9644
+          }
+        },
+        {
+          "txt": {
+            "sff": "25 mm"
+          },
+          "et": {
+            "etn": "Distance"
+          },
+          "dp": {
+            "off": 9845
+          }
+        },
+        {
+          "txt": {
+            "sff": "50 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 10276
+          }
+        },
+        {
+          "txt": {
+            "sff": "40 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 9691
+          }
+        },
+        {
+          "txt": {
+            "sff": "intraperitoneal"
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 9615
+          }
+        },
+        {
+          "txt": {
+            "sff": "Keflin or penicillin G"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 10303
           }
         },
         {
@@ -103258,6 +103324,28 @@
           },
           "dp": {
             "off": 9813
+          }
+        },
+        {
+          "txt": {
+            "sff": "bladders of spinal cord-injured rats were manually expressed"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 10404
+          }
+        },
+        {
+          "txt": {
+            "sff": "10-g rod"
+          },
+          "et": {
+            "etn": "Weight"
+          },
+          "dp": {
+            "off": 9836
           }
         }
       ],

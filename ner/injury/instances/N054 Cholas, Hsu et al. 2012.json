@@ -92714,24 +92714,24 @@
       "dla": [
         {
           "txt": {
-            "sff": "T8 and T9"
+            "sff": "left"
           },
           "et": {
-            "etn": "VertebralArea"
+            "etn": "Left"
           },
           "dp": {
-            "off": 16843
+            "off": 17361
           }
         },
         {
           "txt": {
-            "sff": "lateral hemiresection"
+            "sff": "intraperitoneal"
           },
           "et": {
-            "etn": "LateralHemisection"
+            "etn": "IntraperitonealLocation"
           },
           "dp": {
-            "off": 17261
+            "off": 16056
           }
         },
         {
@@ -92747,6 +92747,105 @@
         },
         {
           "txt": {
+            "sff": "bladders had to be emptied manually"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 19610
+          }
+        },
+        {
+          "txt": {
+            "sff": "T8 and T9"
+          },
+          "et": {
+            "etn": "VertebralArea"
+          },
+          "dp": {
+            "off": 16843
+          }
+        },
+        {
+          "txt": {
+            "sff": "injection"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 16072
+          }
+        },
+        {
+          "txt": {
+            "sff": "water"
+          },
+          "et": {
+            "etn": "Hydration"
+          },
+          "dp": {
+            "off": 19144
+          }
+        },
+        {
+          "txt": {
+            "sff": "5 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 19179
+          }
+        },
+        {
+          "txt": {
+            "sff": "food"
+          },
+          "et": {
+            "etn": "Nutrition"
+          },
+          "dp": {
+            "off": 19135
+          }
+        },
+        {
+          "txt": {
+            "sff": "antibiotics"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 18848
+          }
+        },
+        {
+          "txt": {
+            "sff": "lateral hemiresection"
+          },
+          "et": {
+            "etn": "LateralHemisection"
+          },
+          "dp": {
+            "off": 17261
+          }
+        },
+        {
+          "txt": {
+            "sff": "ketofen"
+          },
+          "et": {
+            "etn": "PostsurgicalMedication"
+          },
+          "dp": {
+            "off": 19165
+          }
+        },
+        {
+          "txt": {
             "sff": "sodium pentobarbital"
           },
           "et": {
@@ -92754,6 +92853,17 @@
           },
           "dp": {
             "off": 16087
+          }
+        },
+        {
+          "txt": {
+            "sff": "45 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 16193
           }
         }
       ],

@@ -84301,6 +84301,127 @@
         },
         {
           "txt": {
+            "sff": "10 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 10879
+          }
+        },
+        {
+          "txt": {
+            "sff": "200 Kdyn"
+          },
+          "et": {
+            "etn": "Force"
+          },
+          "dp": {
+            "off": 11126
+          }
+        },
+        {
+          "txt": {
+            "sff": "injection"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 10917
+          }
+        },
+        {
+          "txt": {
+            "sff": "T8"
+          },
+          "et": {
+            "etn": "T8"
+          },
+          "dp": {
+            "off": 11086
+          }
+        },
+        {
+          "txt": {
+            "sff": "T9"
+          },
+          "et": {
+            "etn": "T9"
+          },
+          "dp": {
+            "off": 11089
+          }
+        },
+        {
+          "txt": {
+            "sff": "90"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 10876
+          }
+        },
+        {
+          "txt": {
+            "sff": "The animals were housed with free access to food and water at room temperature of 22 \u0001 2 °C"
+          },
+          "et": {
+            "etn": "Housing"
+          },
+          "dp": {
+            "off": 10538
+          }
+        },
+        {
+          "txt": {
+            "sff": "Bladders were expressed"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 12853
+          }
+        },
+        {
+          "txt": {
+            "sff": "i.p."
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 10888
+          }
+        },
+        {
+          "txt": {
+            "sff": "i.p."
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 10888
+          }
+        },
+        {
+          "txt": {
+            "sff": "amoxicillin"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 12966
+          }
+        },
+        {
+          "txt": {
             "sff": "ketamine"
           },
           "et": {
@@ -84308,6 +84429,50 @@
           },
           "dp": {
             "off": 10846
+          }
+        },
+        {
+          "txt": {
+            "sff": "water"
+          },
+          "et": {
+            "etn": "Hydration"
+          },
+          "dp": {
+            "off": 10591
+          }
+        },
+        {
+          "txt": {
+            "sff": "subcutaneous injection"
+          },
+          "et": {
+            "etn": "SubcutaneousLocation"
+          },
+          "dp": {
+            "off": 10904
+          }
+        },
+        {
+          "txt": {
+            "sff": "free access to food"
+          },
+          "et": {
+            "etn": "Nutrition"
+          },
+          "dp": {
+            "off": 10567
+          }
+        },
+        {
+          "txt": {
+            "sff": "buprenorphine"
+          },
+          "et": {
+            "etn": "MedicationDuringSurgery"
+          },
+          "dp": {
+            "off": 10930
           }
         },
         {
@@ -84341,6 +84506,17 @@
           },
           "dp": {
             "off": 11156
+          }
+        },
+        {
+          "txt": {
+            "sff": "500 mg/L"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 12979
           }
         }
       ],

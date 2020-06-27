@@ -76466,6 +76466,17 @@
       "dla": [
         {
           "txt": {
+            "sff": "Bupivacaine"
+          },
+          "et": {
+            "etn": "MedicationDuringSurgery"
+          },
+          "dp": {
+            "off": 11498
+          }
+        },
+        {
+          "txt": {
             "sff": "ketamine"
           },
           "et": {
@@ -76473,17 +76484,6 @@
           },
           "dp": {
             "off": 9404
-          }
-        },
-        {
-          "txt": {
-            "sff": "ophthalmic scalpel"
-          },
-          "et": {
-            "etn": "Blade"
-          },
-          "dp": {
-            "off": 11130
           }
         },
         {
@@ -76499,13 +76499,13 @@
         },
         {
           "txt": {
-            "sff": "completely transect"
+            "sff": "90"
           },
           "et": {
-            "etn": "CompleteTransection"
+            "etn": "DosageExtracorporal"
           },
           "dp": {
-            "off": 8803
+            "off": 9447
           }
         },
         {
@@ -76532,6 +76532,138 @@
         },
         {
           "txt": {
+            "sff": "Buprenorphine"
+          },
+          "et": {
+            "etn": "PostsurgicalMedication"
+          },
+          "dp": {
+            "off": 12005
+          }
+        },
+        {
+          "txt": {
+            "sff": "Baytril"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 12110
+          }
+        },
+        {
+          "txt": {
+            "sff": "completely transect"
+          },
+          "et": {
+            "etn": "CompleteTransection"
+          },
+          "dp": {
+            "off": 8803
+          }
+        },
+        {
+          "txt": {
+            "sff": "Bladders were manually expressed"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 12665
+          }
+        },
+        {
+          "txt": {
+            "sff": "0.01–0.05 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 12020
+          }
+        },
+        {
+          "txt": {
+            "sff": "5 mg/ kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 11585
+          }
+        },
+        {
+          "txt": {
+            "sff": "intraperitoneal"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 9431
+          }
+        },
+        {
+          "txt": {
+            "sff": "ophthalmic scalpel"
+          },
+          "et": {
+            "etn": "Blade"
+          },
+          "dp": {
+            "off": 11130
+          }
+        },
+        {
+          "txt": {
+            "sff": "10 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 9450
+          }
+        },
+        {
+          "txt": {
+            "sff": "Carprofen"
+          },
+          "et": {
+            "etn": "PostsurgicalMedication"
+          },
+          "dp": {
+            "off": 11574
+          }
+        },
+        {
+          "txt": {
+            "sff": "water"
+          },
+          "et": {
+            "etn": "Hydration"
+          },
+          "dp": {
+            "off": 8758
+          }
+        },
+        {
+          "txt": {
+            "sff": "free access to food"
+          },
+          "et": {
+            "etn": "Nutrition"
+          },
+          "dp": {
+            "off": 8734
+          }
+        },
+        {
+          "txt": {
             "sff": "microscalpel"
           },
           "et": {
@@ -76539,6 +76671,39 @@
           },
           "dp": {
             "off": 9993
+          }
+        },
+        {
+          "txt": {
+            "sff": "Rats were housed 4–5 per cage"
+          },
+          "et": {
+            "etn": "Housing"
+          },
+          "dp": {
+            "off": 8699
+          }
+        },
+        {
+          "txt": {
+            "sff": "intraperitoneal"
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 9431
+          }
+        },
+        {
+          "txt": {
+            "sff": "2.5 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 12132
           }
         }
       ],

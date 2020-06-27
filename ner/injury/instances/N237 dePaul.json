@@ -72346,6 +72346,28 @@
       "dla": [
         {
           "txt": {
+            "sff": "intraperitoneally"
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 39500
+          }
+        },
+        {
+          "txt": {
+            "sff": "250 kDyne force"
+          },
+          "et": {
+            "etn": "Force"
+          },
+          "dp": {
+            "off": 39960
+          }
+        },
+        {
+          "txt": {
             "sff": "xylazine"
           },
           "et": {
@@ -72357,6 +72379,17 @@
         },
         {
           "txt": {
+            "sff": "10 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 39566
+          }
+        },
+        {
+          "txt": {
             "sff": "T8"
           },
           "et": {
@@ -72364,6 +72397,39 @@
           },
           "dp": {
             "off": 39638
+          }
+        },
+        {
+          "txt": {
+            "sff": "bladder expression"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 40349
+          }
+        },
+        {
+          "txt": {
+            "sff": "60 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 39542
+          }
+        },
+        {
+          "txt": {
+            "sff": "injected"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 39518
           }
         },
         {

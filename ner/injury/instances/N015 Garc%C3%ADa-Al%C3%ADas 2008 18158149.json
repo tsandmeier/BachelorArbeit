@@ -61683,6 +61683,17 @@
         },
         {
           "txt": {
+            "sff": "descending dorsal corticospinal tracts and the ascending sensory dorsal columns"
+          },
+          "et": {
+            "etn": "DorsalInjuryArea"
+          },
+          "dp": {
+            "off": 5509
+          }
+        },
+        {
+          "txt": {
             "sff": "nitrous oxide"
           },
           "et": {
@@ -61690,6 +61701,28 @@
           },
           "dp": {
             "off": 5125
+          }
+        },
+        {
+          "txt": {
+            "sff": "1-2%"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 5090
+          }
+        },
+        {
+          "txt": {
+            "sff": "50%"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 5121
           }
         },
         {

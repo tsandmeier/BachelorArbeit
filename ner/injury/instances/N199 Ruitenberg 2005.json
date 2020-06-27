@@ -84322,6 +84322,116 @@
       "dla": [
         {
           "txt": {
+            "sff": "analgesic buprenorphine hydrochloride"
+          },
+          "et": {
+            "etn": "PostsurgicalMedication"
+          },
+          "dp": {
+            "off": 15305
+          }
+        },
+        {
+          "txt": {
+            "sff": "20 mg/ml"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 15180
+          }
+        },
+        {
+          "txt": {
+            "sff": "1.5%"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 13606
+          }
+        },
+        {
+          "txt": {
+            "sff": "right"
+          },
+          "et": {
+            "etn": "Right"
+          },
+          "dp": {
+            "off": 14060
+          }
+        },
+        {
+          "txt": {
+            "sff": "halothane"
+          },
+          "et": {
+            "etn": "Halothane"
+          },
+          "dp": {
+            "off": 13595
+          }
+        },
+        {
+          "txt": {
+            "sff": "procaine penicillin"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 15126
+          }
+        },
+        {
+          "txt": {
+            "sff": "administering measured amounts of food each day"
+          },
+          "et": {
+            "etn": "Nutrition"
+          },
+          "dp": {
+            "off": 5585
+          }
+        },
+        {
+          "txt": {
+            "sff": "benzathine penicillin"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 15157
+          }
+        },
+        {
+          "txt": {
+            "sff": "procaine hydrochloride"
+          },
+          "et": {
+            "etn": "PostsurgicalMedication"
+          },
+          "dp": {
+            "off": 15189
+          }
+        },
+        {
+          "txt": {
+            "sff": "60%"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 13675
+          }
+        },
+        {
+          "txt": {
             "sff": "C4"
           },
           "et": {
@@ -84355,17 +84465,6 @@
         },
         {
           "txt": {
-            "sff": "halothane"
-          },
-          "et": {
-            "etn": "Halothane"
-          },
-          "dp": {
-            "off": 13595
-          }
-        },
-        {
-          "txt": {
             "sff": "N2O"
           },
           "et": {
@@ -84373,6 +84472,39 @@
           },
           "dp": {
             "off": 13679
+          }
+        },
+        {
+          "txt": {
+            "sff": "dorsal hemisphere completely including the CST"
+          },
+          "et": {
+            "etn": "DorsalInjuryArea"
+          },
+          "dp": {
+            "off": 14119
+          }
+        },
+        {
+          "txt": {
+            "sff": "150 mg/ml"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 15147
+          }
+        },
+        {
+          "txt": {
+            "sff": "150 mg/ml"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 15116
           }
         }
       ],

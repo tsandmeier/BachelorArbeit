@@ -79234,13 +79234,13 @@
       "dla": [
         {
           "txt": {
-            "sff": "custom-designed fine surgical forceps"
+            "sff": "fourth"
           },
           "et": {
-            "etn": "Forceps"
+            "etn": "C4"
           },
           "dp": {
-            "off": 11785
+            "off": 11580
           }
         },
         {
@@ -79256,13 +79256,46 @@
         },
         {
           "txt": {
-            "sff": "xylazine hydrochloride"
+            "sff": "10 mg/kg"
           },
           "et": {
-            "etn": "Xylazine"
+            "etn": "DosageExtracorporal"
           },
           "dp": {
-            "off": 11437
+            "off": 11461
+          }
+        },
+        {
+          "txt": {
+            "sff": "70 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 11377
+          }
+        },
+        {
+          "txt": {
+            "sff": "fifth cervical segments"
+          },
+          "et": {
+            "etn": "C5"
+          },
+          "dp": {
+            "off": 11591
+          }
+        },
+        {
+          "txt": {
+            "sff": "dorsolateral funiculus"
+          },
+          "et": {
+            "etn": "InjuryArea"
+          },
+          "dp": {
+            "off": 11732
           }
         },
         {
@@ -79274,6 +79307,72 @@
           },
           "dp": {
             "off": 11353
+          }
+        },
+        {
+          "txt": {
+            "sff": "custom-designed fine surgical forceps"
+          },
+          "et": {
+            "etn": "Forceps"
+          },
+          "dp": {
+            "off": 11785
+          }
+        },
+        {
+          "txt": {
+            "sff": "i.p."
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 11387
+          }
+        },
+        {
+          "txt": {
+            "sff": "i.p."
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 11387
+          }
+        },
+        {
+          "txt": {
+            "sff": "xylazine hydrochloride"
+          },
+          "et": {
+            "etn": "Xylazine"
+          },
+          "dp": {
+            "off": 11437
+          }
+        },
+        {
+          "txt": {
+            "sff": "i.p."
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 11470
+          }
+        },
+        {
+          "txt": {
+            "sff": "i.p."
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 11470
           }
         }
       ],

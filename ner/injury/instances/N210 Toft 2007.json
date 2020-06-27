@@ -86389,6 +86389,17 @@
         },
         {
           "txt": {
+            "sff": "dorsal columns"
+          },
+          "et": {
+            "etn": "DorsalInjuryArea"
+          },
+          "dp": {
+            "off": 12245
+          }
+        },
+        {
+          "txt": {
             "sff": "halothane"
           },
           "et": {
@@ -86396,6 +86407,28 @@
           },
           "dp": {
             "off": 12147
+          }
+        },
+        {
+          "txt": {
+            "sff": "4"
+          },
+          "et": {
+            "etn": "L4"
+          },
+          "dp": {
+            "off": 12290
+          }
+        },
+        {
+          "txt": {
+            "sff": "L3"
+          },
+          "et": {
+            "etn": "L3"
+          },
+          "dp": {
+            "off": 12287
           }
         },
         {

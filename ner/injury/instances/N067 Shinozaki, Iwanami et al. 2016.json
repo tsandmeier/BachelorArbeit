@@ -98042,6 +98042,72 @@
       "dla": [
         {
           "txt": {
+            "sff": "250 kdyn"
+          },
+          "et": {
+            "etn": "Force"
+          },
+          "dp": {
+            "off": 7715
+          }
+        },
+        {
+          "txt": {
+            "sff": "12-h light/dark cycle"
+          },
+          "et": {
+            "etn": "Housing"
+          },
+          "dp": {
+            "off": 6522
+          }
+        },
+        {
+          "txt": {
+            "sff": "blad-der"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 8270
+          }
+        },
+        {
+          "txt": {
+            "sff": "ad libitum accessto food"
+          },
+          "et": {
+            "etn": "Nutrition"
+          },
+          "dp": {
+            "off": 6549
+          }
+        },
+        {
+          "txt": {
+            "sff": "ketamine"
+          },
+          "et": {
+            "etn": "KetamineAsAnaesthetic"
+          },
+          "dp": {
+            "off": 7476
+          }
+        },
+        {
+          "txt": {
+            "sff": "30"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 7499
+          }
+        },
+        {
+          "txt": {
             "sff": "IH impactor"
           },
           "et": {
@@ -98064,13 +98130,57 @@
         },
         {
           "txt": {
-            "sff": "ketamine"
+            "sff": "severe"
           },
           "et": {
-            "etn": "KetamineAsAnaesthetic"
+            "etn": "SevereInjury"
           },
           "dp": {
-            "off": 7476
+            "off": 7855
+          }
+        },
+        {
+          "txt": {
+            "sff": "intraperitoneally"
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 7526
+          }
+        },
+        {
+          "txt": {
+            "sff": "Antibiotics"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 6778
+          }
+        },
+        {
+          "txt": {
+            "sff": "3 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 7504
+          }
+        },
+        {
+          "txt": {
+            "sff": "intraperitoneally"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 7526
           }
         },
         {
@@ -98082,6 +98192,17 @@
           },
           "dp": {
             "off": 7862
+          }
+        },
+        {
+          "txt": {
+            "sff": "water"
+          },
+          "et": {
+            "etn": "Hydration"
+          },
+          "dp": {
+            "off": 6578
           }
         },
         {

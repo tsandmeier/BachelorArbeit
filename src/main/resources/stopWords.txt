@@ -399,7 +399,6 @@ regardless
 regards
 relatively
 respectively
-right
 round
 said
 same
@@ -697,8 +696,6 @@ heres
 hes
 hid
 home
-id
-im
 immediately
 importance
 important

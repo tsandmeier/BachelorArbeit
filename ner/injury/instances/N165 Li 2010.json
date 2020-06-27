@@ -25058,6 +25058,17 @@
       "dla": [
         {
           "txt": {
+            "sff": "25 mm.Postoperative"
+          },
+          "et": {
+            "etn": "Distance"
+          },
+          "dp": {
+            "off": 3889
+          }
+        },
+        {
+          "txt": {
             "sff": "NYU-impactor"
           },
           "et": {
@@ -25069,6 +25080,17 @@
         },
         {
           "txt": {
+            "sff": "30 mg/ kg)"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 3686
+          }
+        },
+        {
+          "txt": {
             "sff": "pentobarbital sodium"
           },
           "et": {
@@ -25076,6 +25098,39 @@
           },
           "dp": {
             "off": 3664
+          }
+        },
+        {
+          "txt": {
+            "sff": "injection"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 3651
+          }
+        },
+        {
+          "txt": {
+            "sff": "10 g"
+          },
+          "et": {
+            "etn": "Weight"
+          },
+          "dp": {
+            "off": 3863
+          }
+        },
+        {
+          "txt": {
+            "sff": "intraperitioneal injection"
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 3634
           }
         },
         {

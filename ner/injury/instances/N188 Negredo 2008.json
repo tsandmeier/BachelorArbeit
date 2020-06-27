@@ -89114,6 +89114,83 @@
       "dla": [
         {
           "txt": {
+            "sff": "Bladder expression"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 14410
+          }
+        },
+        {
+          "txt": {
+            "sff": "1 g–200 mg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 14324
+          }
+        },
+        {
+          "txt": {
+            "sff": "Augmentine"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 14283
+          }
+        },
+        {
+          "txt": {
+            "sff": "After this period animals were allowed to eat ad libitum until killing."
+          },
+          "et": {
+            "etn": "Nutrition"
+          },
+          "dp": {
+            "off": 15866
+          }
+        },
+        {
+          "txt": {
+            "sff": "laminectomy"
+          },
+          "et": {
+            "etn": "Laminectomy"
+          },
+          "dp": {
+            "off": 13051
+          }
+        },
+        {
+          "txt": {
+            "sff": "medetomidine"
+          },
+          "et": {
+            "etn": "Anaesthetic"
+          },
+          "dp": {
+            "off": 12745
+          }
+        },
+        {
+          "txt": {
+            "sff": "ketamine"
+          },
+          "et": {
+            "etn": "KetamineAsAnaesthetic"
+          },
+          "dp": {
+            "off": 12790
+          }
+        },
+        {
+          "txt": {
             "sff": "completeness of the lesion"
           },
           "et": {
@@ -89136,6 +89213,17 @@
         },
         {
           "txt": {
+            "sff": "T9"
+          },
+          "et": {
+            "etn": "T9"
+          },
+          "dp": {
+            "off": 13132
+          }
+        },
+        {
+          "txt": {
             "sff": "T8–T9"
           },
           "et": {
@@ -89147,35 +89235,35 @@
         },
         {
           "txt": {
-            "sff": "medetomidine"
+            "sff": "25 mg ml−1"
           },
           "et": {
-            "etn": "Anaesthetic"
+            "etn": "DosageExtracorporal"
           },
           "dp": {
-            "off": 12745
+            "off": 12816
           }
         },
         {
           "txt": {
-            "sff": "laminectomy"
+            "sff": "andmagnesium metamizol"
           },
           "et": {
-            "etn": "Laminectomy"
+            "etn": "PostsurgicalMedication"
           },
           "dp": {
-            "off": 13051
+            "off": 14215
           }
         },
         {
           "txt": {
-            "sff": "ketamine"
+            "sff": "T8"
           },
           "et": {
-            "etn": "KetamineAsAnaesthetic"
+            "etn": "T8"
           },
           "dp": {
-            "off": 12790
+            "off": 13129
           }
         }
       ],

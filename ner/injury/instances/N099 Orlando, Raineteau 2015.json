@@ -77477,6 +77477,50 @@
         },
         {
           "txt": {
+            "sff": "Hypnorm"
+          },
+          "et": {
+            "etn": "Anaesthetic"
+          },
+          "dp": {
+            "off": 7053
+          }
+        },
+        {
+          "txt": {
+            "sff": "antibiotic"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 8241
+          }
+        },
+        {
+          "txt": {
+            "sff": "22.5 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 7160
+          }
+        },
+        {
+          "txt": {
+            "sff": "dorsal spinal cord hemisection"
+          },
+          "et": {
+            "etn": "DorsalHemisection"
+          },
+          "dp": {
+            "off": 7895
+          }
+        },
+        {
+          "txt": {
             "sff": "Dormicum"
           },
           "et": {
@@ -77488,13 +77532,24 @@
         },
         {
           "txt": {
-            "sff": "Hypnorm"
+            "sff": "analgesic"
           },
           "et": {
-            "etn": "Anaesthetic"
+            "etn": "PostsurgicalMedication"
           },
           "dp": {
-            "off": 7053
+            "off": 8156
+          }
+        },
+        {
+          "txt": {
+            "sff": "intraperitoneal"
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 7212
           }
         },
         {
@@ -77510,13 +77565,57 @@
         },
         {
           "txt": {
-            "sff": "dorsal spinal cord hemisection"
+            "sff": "0.7 mg/kg"
           },
           "et": {
-            "etn": "DorsalHemisection"
+            "etn": "DosageExtracorporal"
           },
           "dp": {
-            "off": 7895
+            "off": 7079
+          }
+        },
+        {
+          "txt": {
+            "sff": "5 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 8167
+          }
+        },
+        {
+          "txt": {
+            "sff": "Bladders were checked"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 8361
+          }
+        },
+        {
+          "txt": {
+            "sff": "injection"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 7228
+          }
+        },
+        {
+          "txt": {
+            "sff": "5 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 8253
           }
         }
       ],

@@ -62090,6 +62090,138 @@
       "dla": [
         {
           "txt": {
+            "sff": "0.5% bupivacaine hydrochloride"
+          },
+          "et": {
+            "etn": "MedicationDuringSurgery"
+          },
+          "dp": {
+            "off": 6794
+          }
+        },
+        {
+          "txt": {
+            "sff": "housed separately in plastic home boxes (65×40×22 cm)"
+          },
+          "et": {
+            "etn": "Housing"
+          },
+          "dp": {
+            "off": 4941
+          }
+        },
+        {
+          "txt": {
+            "sff": "100 mg/ kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 6571
+          }
+        },
+        {
+          "txt": {
+            "sff": "urinary bladderwas"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 7942
+          }
+        },
+        {
+          "txt": {
+            "sff": "i.p"
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 6668
+          }
+        },
+        {
+          "txt": {
+            "sff": "ad-lib food"
+          },
+          "et": {
+            "etn": "Nutrition"
+          },
+          "dp": {
+            "off": 5015
+          }
+        },
+        {
+          "txt": {
+            "sff": "T3"
+          },
+          "et": {
+            "etn": "T3"
+          },
+          "dp": {
+            "off": 6903
+          }
+        },
+        {
+          "txt": {
+            "sff": "i.p"
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 6582
+          }
+        },
+        {
+          "txt": {
+            "sff": "7 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 6660
+          }
+        },
+        {
+          "txt": {
+            "sff": "60 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 7688
+          }
+        },
+        {
+          "txt": {
+            "sff": "i.p."
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 6582
+          }
+        },
+        {
+          "txt": {
+            "sff": "water"
+          },
+          "et": {
+            "etn": "Hydration"
+          },
+          "dp": {
+            "off": 5031
+          }
+        },
+        {
+          "txt": {
             "sff": "microscissors"
           },
           "et": {
@@ -62112,6 +62244,28 @@
         },
         {
           "txt": {
+            "sff": "subcutaneously"
+          },
+          "et": {
+            "etn": "SubcutaneousLocation"
+          },
+          "dp": {
+            "off": 6774
+          }
+        },
+        {
+          "txt": {
+            "sff": "cephalotin"
+          },
+          "et": {
+            "etn": "PostsurgicalMedication"
+          },
+          "dp": {
+            "off": 7676
+          }
+        },
+        {
+          "txt": {
             "sff": "ketamine hydrochloride"
           },
           "et": {
@@ -62123,13 +62277,13 @@
         },
         {
           "txt": {
-            "sff": "T3"
+            "sff": "5 mg/kg"
           },
           "et": {
-            "etn": "T3"
+            "etn": "DosageExtracorporal"
           },
           "dp": {
-            "off": 6903
+            "off": 7846
           }
         },
         {
@@ -62141,6 +62295,17 @@
           },
           "dp": {
             "off": 6650
+          }
+        },
+        {
+          "txt": {
+            "sff": "analgesic rimadyl"
+          },
+          "et": {
+            "etn": "PostsurgicalMedication"
+          },
+          "dp": {
+            "off": 7827
           }
         }
       ],

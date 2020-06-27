@@ -74901,6 +74901,28 @@
         },
         {
           "txt": {
+            "sff": "10 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 8576
+          }
+        },
+        {
+          "txt": {
+            "sff": "injection"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 8465
+          }
+        },
+        {
+          "txt": {
             "sff": "T9"
           },
           "et": {
@@ -74912,6 +74934,17 @@
         },
         {
           "txt": {
+            "sff": "severe"
+          },
+          "et": {
+            "etn": "SevereInjury"
+          },
+          "dp": {
+            "off": 9247
+          }
+        },
+        {
+          "txt": {
             "sff": "fine watchmaker’s forceps"
           },
           "et": {
@@ -74919,6 +74952,28 @@
           },
           "dp": {
             "off": 8850
+          }
+        },
+        {
+          "txt": {
+            "sff": "100mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 8507
+          }
+        },
+        {
+          "txt": {
+            "sff": "intraperitoneal"
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 8449
           }
         },
         {

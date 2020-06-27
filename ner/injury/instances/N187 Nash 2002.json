@@ -71466,6 +71466,28 @@
       "dla": [
         {
           "txt": {
+            "sff": "C4"
+          },
+          "et": {
+            "etn": "C4"
+          },
+          "dp": {
+            "off": 8422
+          }
+        },
+        {
+          "txt": {
+            "sff": "dorsal CST"
+          },
+          "et": {
+            "etn": "DorsalInjuryArea"
+          },
+          "dp": {
+            "off": 8761
+          }
+        },
+        {
+          "txt": {
             "sff": "laminectomy"
           },
           "et": {
@@ -71473,6 +71495,28 @@
           },
           "dp": {
             "off": 8342
+          }
+        },
+        {
+          "txt": {
+            "sff": "Rats were food restricted, receiving ≈3 gm food/100 gm body weight per day, before and throughout training and testing"
+          },
+          "et": {
+            "etn": "Nutrition"
+          },
+          "dp": {
+            "off": 13678
+          }
+        },
+        {
+          "txt": {
+            "sff": "buprenorphine"
+          },
+          "et": {
+            "etn": "PostsurgicalMedication"
+          },
+          "dp": {
+            "off": 9811
           }
         },
         {
@@ -71488,13 +71532,13 @@
         },
         {
           "txt": {
-            "sff": "iridectomy scissors"
+            "sff": "5%"
           },
           "et": {
-            "etn": "Scissors"
+            "etn": "DosageExtracorporal"
           },
           "dp": {
-            "off": 8662
+            "off": 8108
           }
         },
         {
@@ -71510,6 +71554,17 @@
         },
         {
           "txt": {
+            "sff": "iridectomy scissors"
+          },
+          "et": {
+            "etn": "Scissors"
+          },
+          "dp": {
+            "off": 8662
+          }
+        },
+        {
+          "txt": {
             "sff": "transecting the dorsal CST"
           },
           "et": {
@@ -71517,6 +71572,28 @@
           },
           "dp": {
             "off": 8745
+          }
+        },
+        {
+          "txt": {
+            "sff": "C2"
+          },
+          "et": {
+            "etn": "C2"
+          },
+          "dp": {
+            "off": 8415
+          }
+        },
+        {
+          "txt": {
+            "sff": "bladders were manually expressed"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 10405
           }
         }
       ],

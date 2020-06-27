@@ -50128,13 +50128,13 @@
         },
         {
           "txt": {
-            "sff": "micro-vascular clip"
+            "sff": "bladder empting"
           },
           "et": {
-            "etn": "Clip"
+            "etn": "BladderExpression"
           },
           "dp": {
-            "off": 6629
+            "off": 6900
           }
         },
         {
@@ -50146,6 +50146,105 @@
           },
           "dp": {
             "off": 6543
+          }
+        },
+        {
+          "txt": {
+            "sff": "80 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 6479
+          }
+        },
+        {
+          "txt": {
+            "sff": "20 g/cm2"
+          },
+          "et": {
+            "etn": "Force"
+          },
+          "dp": {
+            "off": 6693
+          }
+        },
+        {
+          "txt": {
+            "sff": "0.8 mg/100 g"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 6877
+          }
+        },
+        {
+          "txt": {
+            "sff": "micro-vascular clip"
+          },
+          "et": {
+            "etn": "Clip"
+          },
+          "dp": {
+            "off": 6629
+          }
+        },
+        {
+          "txt": {
+            "sff": "gentamycin"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 6866
+          }
+        },
+        {
+          "txt": {
+            "sff": "12-hour light/dark cycle condition"
+          },
+          "et": {
+            "etn": "Housing"
+          },
+          "dp": {
+            "off": 6148
+          }
+        },
+        {
+          "txt": {
+            "sff": "10 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 6503
+          }
+        },
+        {
+          "txt": {
+            "sff": "access to food"
+          },
+          "et": {
+            "etn": "Nutrition"
+          },
+          "dp": {
+            "off": 6102
+          }
+        },
+        {
+          "txt": {
+            "sff": "water freely"
+          },
+          "et": {
+            "etn": "Hydration"
+          },
+          "dp": {
+            "off": 6121
           }
         },
         {

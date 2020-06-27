@@ -59170,24 +59170,79 @@
       "dla": [
         {
           "txt": {
-            "sff": "sodium pentobarbital"
+            "sff": "40 mg/kg body weight"
           },
           "et": {
-            "etn": "SodiumPentobarbital"
+            "etn": "DosageExtracorporal"
           },
           "dp": {
-            "off": 31781
+            "off": 31805
           }
         },
         {
           "txt": {
-            "sff": "T10"
+            "sff": "0.01 mg/kg"
           },
           "et": {
-            "etn": "T10"
+            "etn": "DosageExtracorporal"
           },
           "dp": {
-            "off": 31935
+            "off": 32418
+          }
+        },
+        {
+          "txt": {
+            "sff": "water"
+          },
+          "et": {
+            "etn": "Hydration"
+          },
+          "dp": {
+            "off": 32558
+          }
+        },
+        {
+          "txt": {
+            "sff": "manual bladder evacuation"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 32577
+          }
+        },
+        {
+          "txt": {
+            "sff": "10 g"
+          },
+          "et": {
+            "etn": "Weight"
+          },
+          "dp": {
+            "off": 32026
+          }
+        },
+        {
+          "txt": {
+            "sff": "25.0 mm"
+          },
+          "et": {
+            "etn": "Distance"
+          },
+          "dp": {
+            "off": 32060
+          }
+        },
+        {
+          "txt": {
+            "sff": "Buprenorphine"
+          },
+          "et": {
+            "etn": "PostsurgicalMedication"
+          },
+          "dp": {
+            "off": 32403
           }
         },
         {
@@ -59210,6 +59265,83 @@
           },
           "dp": {
             "off": 31957
+          }
+        },
+        {
+          "txt": {
+            "sff": "sodium pentobarbital"
+          },
+          "et": {
+            "etn": "SodiumPentobarbital"
+          },
+          "dp": {
+            "off": 31781
+          }
+        },
+        {
+          "txt": {
+            "sff": "T10"
+          },
+          "et": {
+            "etn": "T10"
+          },
+          "dp": {
+            "off": 31935
+          }
+        },
+        {
+          "txt": {
+            "sff": "injection"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 31768
+          }
+        },
+        {
+          "txt": {
+            "sff": "free access to food"
+          },
+          "et": {
+            "etn": "Nutrition"
+          },
+          "dp": {
+            "off": 32534
+          }
+        },
+        {
+          "txt": {
+            "sff": "Gentamicin"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 32299
+          }
+        },
+        {
+          "txt": {
+            "sff": "5 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 32311
+          }
+        },
+        {
+          "txt": {
+            "sff": "intraperitoneal"
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 31752
           }
         }
       ],

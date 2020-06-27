@@ -32165,6 +32165,17 @@
         },
         {
           "txt": {
+            "sff": "intraperitoneal"
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 3811
+          }
+        },
+        {
+          "txt": {
             "sff": "photochemical spinal cord lesion"
           },
           "et": {
@@ -32176,6 +32187,17 @@
         },
         {
           "txt": {
+            "sff": "intraperitoneal"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 3811
+          }
+        },
+        {
+          "txt": {
             "sff": "T8"
           },
           "et": {
@@ -32183,6 +32205,28 @@
           },
           "dp": {
             "off": 3919
+          }
+        },
+        {
+          "txt": {
+            "sff": "40 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 3801
+          }
+        },
+        {
+          "txt": {
+            "sff": "200 kLux"
+          },
+          "et": {
+            "etn": "LightIntensity"
+          },
+          "dp": {
+            "off": 4220
           }
         },
         {

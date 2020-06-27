@@ -63474,13 +63474,46 @@
       "dla": [
         {
           "txt": {
-            "sff": "microblade"
+            "sff": "free access to food"
           },
           "et": {
-            "etn": "Blade"
+            "etn": "Nutrition"
           },
           "dp": {
-            "off": 26140
+            "off": 28398
+          }
+        },
+        {
+          "txt": {
+            "sff": "left"
+          },
+          "et": {
+            "etn": "Left"
+          },
+          "dp": {
+            "off": 26193
+          }
+        },
+        {
+          "txt": {
+            "sff": "Marcaine"
+          },
+          "et": {
+            "etn": "PostsurgicalMedication"
+          },
+          "dp": {
+            "off": 28145
+          }
+        },
+        {
+          "txt": {
+            "sff": "water"
+          },
+          "et": {
+            "etn": "Hydration"
+          },
+          "dp": {
+            "off": 28443
           }
         },
         {
@@ -63507,6 +63540,17 @@
         },
         {
           "txt": {
+            "sff": "7 mg kg-1 body weight"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 25663
+          }
+        },
+        {
+          "txt": {
             "sff": "C2"
           },
           "et": {
@@ -63525,6 +63569,72 @@
           },
           "dp": {
             "off": 26154
+          }
+        },
+        {
+          "txt": {
+            "sff": "Buprenorphine"
+          },
+          "et": {
+            "etn": "PostsurgicalMedication"
+          },
+          "dp": {
+            "off": 28158
+          }
+        },
+        {
+          "txt": {
+            "sff": "(70mg kg-1 body weight"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 25625
+          }
+        },
+        {
+          "txt": {
+            "sff": "intraperitoneally"
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 25708
+          }
+        },
+        {
+          "txt": {
+            "sff": "microblade"
+          },
+          "et": {
+            "etn": "Blade"
+          },
+          "dp": {
+            "off": 26140
+          }
+        },
+        {
+          "txt": {
+            "sff": "intraperitoneally"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 25708
+          }
+        },
+        {
+          "txt": {
+            "sff": "housed in groups of two to three and exposed to a normal dark-light cycle"
+          },
+          "et": {
+            "etn": "Housing"
+          },
+          "dp": {
+            "off": 28319
           }
         }
       ],

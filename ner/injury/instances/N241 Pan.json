@@ -34805,6 +34805,61 @@
         },
         {
           "txt": {
+            "sff": "80,000 U/qd"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 9584
+          }
+        },
+        {
+          "txt": {
+            "sff": "ampicillin"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 9596
+          }
+        },
+        {
+          "txt": {
+            "sff": "injected"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 7447
+          }
+        },
+        {
+          "txt": {
+            "sff": "pressing the bladder"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 9491
+          }
+        },
+        {
+          "txt": {
+            "sff": "chloral hydrate"
+          },
+          "et": {
+            "etn": "ChloralHydrate"
+          },
+          "dp": {
+            "off": 7456
+          }
+        },
+        {
+          "txt": {
             "sff": "T10"
           },
           "et": {
@@ -34823,6 +34878,17 @@
           },
           "dp": {
             "off": 6832
+          }
+        },
+        {
+          "txt": {
+            "sff": "abdominally"
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 7435
           }
         }
       ],

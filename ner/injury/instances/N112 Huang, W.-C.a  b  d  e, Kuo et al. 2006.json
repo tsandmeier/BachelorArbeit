@@ -37778,6 +37778,17 @@
       "dla": [
         {
           "txt": {
+            "sff": "inhalation"
+          },
+          "et": {
+            "etn": "InhalationDelivery"
+          },
+          "dp": {
+            "off": 5243
+          }
+        },
+        {
+          "txt": {
             "sff": "complete transection"
           },
           "et": {

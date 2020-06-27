@@ -119656,6 +119656,17 @@
         },
         {
           "txt": {
+            "sff": "scissors"
+          },
+          "et": {
+            "etn": "Scissors"
+          },
+          "dp": {
+            "off": 7130
+          }
+        },
+        {
+          "txt": {
             "sff": "anesthetized with hypothermia"
           },
           "et": {
@@ -119667,13 +119678,13 @@
         },
         {
           "txt": {
-            "sff": "iridectomy scissors"
+            "sff": "chloral hydrate"
           },
           "et": {
-            "etn": "Scissors"
+            "etn": "ChloralHydrate"
           },
           "dp": {
-            "off": 7119
+            "off": 7033
           }
         }
       ],

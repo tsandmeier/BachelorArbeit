@@ -74122,6 +74122,17 @@
       "dla": [
         {
           "txt": {
+            "sff": "12-h light/dark cycle"
+          },
+          "et": {
+            "etn": "Housing"
+          },
+          "dp": {
+            "off": 6079
+          }
+        },
+        {
+          "txt": {
             "sff": "T4"
           },
           "et": {
@@ -74129,6 +74140,72 @@
           },
           "dp": {
             "off": 13400
+          }
+        },
+        {
+          "txt": {
+            "sff": "urinary bladder"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 15147
+          }
+        },
+        {
+          "txt": {
+            "sff": "5 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 15074
+          }
+        },
+        {
+          "txt": {
+            "sff": "analgesic rimadyl"
+          },
+          "et": {
+            "etn": "PostsurgicalMedication"
+          },
+          "dp": {
+            "off": 15055
+          }
+        },
+        {
+          "txt": {
+            "sff": "ad-lib food"
+          },
+          "et": {
+            "etn": "Nutrition"
+          },
+          "dp": {
+            "off": 6037
+          }
+        },
+        {
+          "txt": {
+            "sff": "60 mg/kg,"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 14916
+          }
+        },
+        {
+          "txt": {
+            "sff": "water"
+          },
+          "et": {
+            "etn": "Hydration"
+          },
+          "dp": {
+            "off": 6053
           }
         },
         {
@@ -74151,6 +74228,28 @@
           },
           "dp": {
             "off": 13343
+          }
+        },
+        {
+          "txt": {
+            "sff": "cephalotin"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 14904
+          }
+        },
+        {
+          "txt": {
+            "sff": "prophylactic paraffin oil"
+          },
+          "et": {
+            "etn": "PostSurgeryCondition"
+          },
+          "dp": {
+            "off": 15321
           }
         },
         {

@@ -45202,13 +45202,35 @@
       "dla": [
         {
           "txt": {
-            "sff": "xylazine"
+            "sff": "100 mg kg−1"
           },
           "et": {
-            "etn": "Xylazine"
+            "etn": "DosageExtracorporal"
           },
           "dp": {
-            "off": 8784
+            "off": 8691
+          }
+        },
+        {
+          "txt": {
+            "sff": "intraperitoneally"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 8805
+          }
+        },
+        {
+          "txt": {
+            "sff": "intraperitoneally"
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 8805
           }
         },
         {
@@ -45224,6 +45246,127 @@
         },
         {
           "txt": {
+            "sff": "intraperitoneally"
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 8703
+          }
+        },
+        {
+          "txt": {
+            "sff": "intraperitoneally"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 8703
+          }
+        },
+        {
+          "txt": {
+            "sff": "30 mg kg−1"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 10491
+          }
+        },
+        {
+          "txt": {
+            "sff": "subcutaneously"
+          },
+          "et": {
+            "etn": "SubcutaneousLocation"
+          },
+          "dp": {
+            "off": 10419
+          }
+        },
+        {
+          "txt": {
+            "sff": "T3"
+          },
+          "et": {
+            "etn": "T3"
+          },
+          "dp": {
+            "off": 8907
+          }
+        },
+        {
+          "txt": {
+            "sff": "7 mg kg−1"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 8794
+          }
+        },
+        {
+          "txt": {
+            "sff": "antibiotic (Cephalothin"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 10466
+          }
+        },
+        {
+          "txt": {
+            "sff": "analgesic (Carprofen"
+          },
+          "et": {
+            "etn": "PostsurgicalMedication"
+          },
+          "dp": {
+            "off": 10707
+          }
+        },
+        {
+          "txt": {
+            "sff": "subcutaneously"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 10419
+          }
+        },
+        {
+          "txt": {
+            "sff": "ad libitum food"
+          },
+          "et": {
+            "etn": "Nutrition"
+          },
+          "dp": {
+            "off": 7214
+          }
+        },
+        {
+          "txt": {
+            "sff": "xylazine"
+          },
+          "et": {
+            "etn": "Xylazine"
+          },
+          "dp": {
+            "off": 8784
+          }
+        },
+        {
+          "txt": {
             "sff": "microscissors"
           },
           "et": {
@@ -45231,6 +45374,50 @@
           },
           "dp": {
             "off": 9721
+          }
+        },
+        {
+          "txt": {
+            "sff": "muscarinic cholinoceptor antagonist atropine methyl nitrate"
+          },
+          "et": {
+            "etn": "AtropineSulfate"
+          },
+          "dp": {
+            "off": 10348
+          }
+        },
+        {
+          "txt": {
+            "sff": "50 mg kg−1"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 10729
+          }
+        },
+        {
+          "txt": {
+            "sff": "They were housed in individual plastic home boxes (65 × 40 × 22 cm) with ad libitum food and water and maintained on a 12/12 h light/dark cycle"
+          },
+          "et": {
+            "etn": "Housing"
+          },
+          "dp": {
+            "off": 7141
+          }
+        },
+        {
+          "txt": {
+            "sff": "Manual emptying of the urinary bladder"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 10986
           }
         },
         {
@@ -45246,13 +45433,13 @@
         },
         {
           "txt": {
-            "sff": "T3"
+            "sff": "water"
           },
           "et": {
-            "etn": "T3"
+            "etn": "Hydration"
           },
           "dp": {
-            "off": 8907
+            "off": 7234
           }
         }
       ],

@@ -98213,6 +98213,28 @@
         },
         {
           "txt": {
+            "sff": "1.8%"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 8594
+          }
+        },
+        {
+          "txt": {
+            "sff": "50 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 8691
+          }
+        },
+        {
+          "txt": {
             "sff": "forceps"
           },
           "et": {
@@ -98220,6 +98242,17 @@
           },
           "dp": {
             "off": 9684
+          }
+        },
+        {
+          "txt": {
+            "sff": "Cefazolin"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 8680
           }
         },
         {

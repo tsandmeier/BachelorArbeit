@@ -46946,6 +46946,17 @@
       "dla": [
         {
           "txt": {
+            "sff": "force of 105 g"
+          },
+          "et": {
+            "etn": "Force"
+          },
+          "dp": {
+            "off": 6195
+          }
+        },
+        {
+          "txt": {
             "sff": "contusion"
           },
           "et": {
@@ -46957,6 +46968,72 @@
         },
         {
           "txt": {
+            "sff": "food"
+          },
+          "et": {
+            "etn": "Nutrition"
+          },
+          "dp": {
+            "off": 6835
+          }
+        },
+        {
+          "txt": {
+            "sff": "moderate or severe"
+          },
+          "et": {
+            "etn": "InjuryIntensity"
+          },
+          "dp": {
+            "off": 5953
+          }
+        },
+        {
+          "txt": {
+            "sff": "injection"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 5719
+          }
+        },
+        {
+          "txt": {
+            "sff": "housed singly in cages"
+          },
+          "et": {
+            "etn": "Housing"
+          },
+          "dp": {
+            "off": 6753
+          }
+        },
+        {
+          "txt": {
+            "sff": "intraperitoneal"
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 5703
+          }
+        },
+        {
+          "txt": {
+            "sff": "chloral hydrate"
+          },
+          "et": {
+            "etn": "ChloralHydrate"
+          },
+          "dp": {
+            "off": 5732
+          }
+        },
+        {
+          "txt": {
             "sff": "Allen's method"
           },
           "et": {
@@ -46964,6 +47041,17 @@
           },
           "dp": {
             "off": 6056
+          }
+        },
+        {
+          "txt": {
+            "sff": "free access to drinking water"
+          },
+          "et": {
+            "etn": "Hydration"
+          },
+          "dp": {
+            "off": 6801
           }
         },
         {

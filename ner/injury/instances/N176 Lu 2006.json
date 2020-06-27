@@ -72845,6 +72845,17 @@
         },
         {
           "txt": {
+            "sff": "25 mg/ml"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 9672
+          }
+        },
+        {
+          "txt": {
             "sff": "C4"
           },
           "et": {
@@ -72867,6 +72878,17 @@
         },
         {
           "txt": {
+            "sff": "acepromazine"
+          },
+          "et": {
+            "etn": "Sedative"
+          },
+          "dp": {
+            "off": 9706
+          }
+        },
+        {
+          "txt": {
             "sff": "dorsal column wireknife lesion"
           },
           "et": {
@@ -72878,6 +72900,17 @@
         },
         {
           "txt": {
+            "sff": "1.3 g/ml"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 9691
+          }
+        },
+        {
+          "txt": {
             "sff": "wireknife"
           },
           "et": {
@@ -72885,6 +72918,17 @@
           },
           "dp": {
             "off": 9795
+          }
+        },
+        {
+          "txt": {
+            "sff": "dorsal column"
+          },
+          "et": {
+            "etn": "DorsalInjuryArea"
+          },
+          "dp": {
+            "off": 9781
           }
         }
       ],

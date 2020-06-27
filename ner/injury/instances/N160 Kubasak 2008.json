@@ -76562,13 +76562,35 @@
       "dla": [
         {
           "txt": {
-            "sff": "completely transected"
+            "sff": "Baytril"
           },
           "et": {
-            "etn": "CompleteTransection"
+            "etn": "AntibioticMedication"
           },
           "dp": {
-            "off": 7004
+            "off": 7936
+          }
+        },
+        {
+          "txt": {
+            "sff": "Buprenex"
+          },
+          "et": {
+            "etn": "PostsurgicalMedication"
+          },
+          "dp": {
+            "off": 8030
+          }
+        },
+        {
+          "txt": {
+            "sff": "Bladder expressions"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 8208
           }
         },
         {
@@ -76584,17 +76606,6 @@
         },
         {
           "txt": {
-            "sff": "laminectomy"
-          },
-          "et": {
-            "etn": "Laminectomy"
-          },
-          "dp": {
-            "off": 8469
-          }
-        },
-        {
-          "txt": {
             "sff": "micro-scissors"
           },
           "et": {
@@ -76602,6 +76613,17 @@
           },
           "dp": {
             "off": 7069
+          }
+        },
+        {
+          "txt": {
+            "sff": "laminectomy"
+          },
+          "et": {
+            "etn": "Laminectomy"
+          },
+          "dp": {
+            "off": 8469
           }
         },
         {
@@ -76617,6 +76639,17 @@
         },
         {
           "txt": {
+            "sff": "2%"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 6805
+          }
+        },
+        {
+          "txt": {
             "sff": "T8 and T9"
           },
           "et": {
@@ -76624,6 +76657,72 @@
           },
           "dp": {
             "off": 8488
+          }
+        },
+        {
+          "txt": {
+            "sff": "T8"
+          },
+          "et": {
+            "etn": "T8"
+          },
+          "dp": {
+            "off": 8488
+          }
+        },
+        {
+          "txt": {
+            "sff": "0.05 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 8040
+          }
+        },
+        {
+          "txt": {
+            "sff": "completely transected"
+          },
+          "et": {
+            "etn": "CompleteTransection"
+          },
+          "dp": {
+            "off": 7004
+          }
+        },
+        {
+          "txt": {
+            "sff": "housed individually in a room maintained at 24±1°C with 40% humidity and a 12:12 h light:dark cycle"
+          },
+          "et": {
+            "etn": "Housing"
+          },
+          "dp": {
+            "off": 8339
+          }
+        },
+        {
+          "txt": {
+            "sff": "T9"
+          },
+          "et": {
+            "etn": "T9"
+          },
+          "dp": {
+            "off": 8495
+          }
+        },
+        {
+          "txt": {
+            "sff": "0.2 cc"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 7945
           }
         }
       ],

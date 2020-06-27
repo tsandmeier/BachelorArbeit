@@ -87472,6 +87472,17 @@
         },
         {
           "txt": {
+            "sff": "70-kdyne"
+          },
+          "et": {
+            "etn": "Force"
+          },
+          "dp": {
+            "off": 32182
+          }
+        },
+        {
+          "txt": {
             "sff": "compression"
           },
           "et": {

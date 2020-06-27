@@ -28618,6 +28618,17 @@
           "dp": {
             "off": 2145
           }
+        },
+        {
+          "txt": {
+            "sff": "inhalation"
+          },
+          "et": {
+            "etn": "InhalationDelivery"
+          },
+          "dp": {
+            "off": 13275
+          }
         }
       ],
       "la": [],

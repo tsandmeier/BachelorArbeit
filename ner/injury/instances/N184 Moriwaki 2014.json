@@ -40042,6 +40042,50 @@
       "dla": [
         {
           "txt": {
+            "sff": "mild"
+          },
+          "et": {
+            "etn": "MildInjury"
+          },
+          "dp": {
+            "off": 902
+          }
+        },
+        {
+          "txt": {
+            "sff": "manual bladder evacuation"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 6201
+          }
+        },
+        {
+          "txt": {
+            "sff": "150 kdyn = 1.5 N"
+          },
+          "et": {
+            "etn": "Force"
+          },
+          "dp": {
+            "off": 5927
+          }
+        },
+        {
+          "txt": {
+            "sff": "for 5 s"
+          },
+          "et": {
+            "etn": "Duration"
+          },
+          "dp": {
+            "off": 5954
+          }
+        },
+        {
+          "txt": {
             "sff": "IH-0400 Impactor"
           },
           "et": {
@@ -40053,6 +40097,28 @@
         },
         {
           "txt": {
+            "sff": "5 mg/day"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 6135
+          }
+        },
+        {
+          "txt": {
+            "sff": "T7"
+          },
+          "et": {
+            "etn": "T7"
+          },
+          "dp": {
+            "off": 5853
+          }
+        },
+        {
+          "txt": {
             "sff": "isofl urane"
           },
           "et": {
@@ -40060,6 +40126,28 @@
           },
           "dp": {
             "off": 5653
+          }
+        },
+        {
+          "txt": {
+            "sff": "T6"
+          },
+          "et": {
+            "etn": "T6"
+          },
+          "dp": {
+            "off": 5850
+          }
+        },
+        {
+          "txt": {
+            "sff": "oxazepam"
+          },
+          "et": {
+            "etn": "PostsurgicalMedication"
+          },
+          "dp": {
+            "off": 6116
           }
         },
         {

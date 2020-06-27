@@ -70642,6 +70642,72 @@
       "dla": [
         {
           "txt": {
+            "sff": "40mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 6000
+          }
+        },
+        {
+          "txt": {
+            "sff": "gentamicin"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 7076
+          }
+        },
+        {
+          "txt": {
+            "sff": "200 kdyne"
+          },
+          "et": {
+            "etn": "Force"
+          },
+          "dp": {
+            "off": 6387
+          }
+        },
+        {
+          "txt": {
+            "sff": "moderate"
+          },
+          "et": {
+            "etn": "ModerateInjury"
+          },
+          "dp": {
+            "off": 6360
+          }
+        },
+        {
+          "txt": {
+            "sff": "medetomidine"
+          },
+          "et": {
+            "etn": "Anaesthetic"
+          },
+          "dp": {
+            "off": 5977
+          }
+        },
+        {
+          "txt": {
+            "sff": "1.3mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 6977
+          }
+        },
+        {
+          "txt": {
             "sff": "ketamine"
           },
           "et": {
@@ -70649,6 +70715,39 @@
           },
           "dp": {
             "off": 5915
+          }
+        },
+        {
+          "txt": {
+            "sff": "intraperitoneal"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 5888
+          }
+        },
+        {
+          "txt": {
+            "sff": "Antisedan"
+          },
+          "et": {
+            "etn": "PostsurgicalMedication"
+          },
+          "dp": {
+            "off": 6939
+          }
+        },
+        {
+          "txt": {
+            "sff": "5mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 7088
           }
         },
         {
@@ -70686,13 +70785,35 @@
         },
         {
           "txt": {
-            "sff": "medetomidine"
+            "sff": "intraperitoneal"
           },
           "et": {
-            "etn": "Anaesthetic"
+            "etn": "IntraperitonealLocation"
           },
           "dp": {
-            "off": 5977
+            "off": 5888
+          }
+        },
+        {
+          "txt": {
+            "sff": "60mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 5925
+          }
+        },
+        {
+          "txt": {
+            "sff": "Bladder expression"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 7162
           }
         }
       ],

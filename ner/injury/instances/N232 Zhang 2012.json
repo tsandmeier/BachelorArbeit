@@ -72698,6 +72698,28 @@
       "dla": [
         {
           "txt": {
+            "sff": "free access to drinking water"
+          },
+          "et": {
+            "etn": "Hydration"
+          },
+          "dp": {
+            "off": 31052
+          }
+        },
+        {
+          "txt": {
+            "sff": "Analgesia buprenorphine"
+          },
+          "et": {
+            "etn": "PostsurgicalMedication"
+          },
+          "dp": {
+            "off": 34768
+          }
+        },
+        {
+          "txt": {
             "sff": "sodium pentobarbital"
           },
           "et": {
@@ -72709,6 +72731,105 @@
         },
         {
           "txt": {
+            "sff": "Urinary bladders were carefully emptied by hand"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 35023
+          }
+        },
+        {
+          "txt": {
+            "sff": "50 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 34225
+          }
+        },
+        {
+          "txt": {
+            "sff": "20mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 34916
+          }
+        },
+        {
+          "txt": {
+            "sff": "i.p."
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 34235
+          }
+        },
+        {
+          "txt": {
+            "sff": "Antibiotic cephazolin"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 34893
+          }
+        },
+        {
+          "txt": {
+            "sff": "0.02mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 34793
+          }
+        },
+        {
+          "txt": {
+            "sff": "10 g"
+          },
+          "et": {
+            "etn": "Weight"
+          },
+          "dp": {
+            "off": 34494
+          }
+        },
+        {
+          "txt": {
+            "sff": "i.p."
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 34235
+          }
+        },
+        {
+          "txt": {
+            "sff": "standard food"
+          },
+          "et": {
+            "etn": "Nutrition"
+          },
+          "dp": {
+            "off": 31086
+          }
+        },
+        {
+          "txt": {
             "sff": "Contusion injury"
           },
           "et": {
@@ -72716,6 +72837,17 @@
           },
           "dp": {
             "off": 34021
+          }
+        },
+        {
+          "txt": {
+            "sff": "housed singly in plastic cages under standard conditions"
+          },
+          "et": {
+            "etn": "Housing"
+          },
+          "dp": {
+            "off": 30990
           }
         },
         {
@@ -72738,6 +72870,17 @@
           },
           "dp": {
             "off": 34083
+          }
+        },
+        {
+          "txt": {
+            "sff": "25 mm"
+          },
+          "et": {
+            "etn": "Distance"
+          },
+          "dp": {
+            "off": 34571
           }
         }
       ],

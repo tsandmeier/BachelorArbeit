@@ -58072,6 +58072,28 @@
         },
         {
           "txt": {
+            "sff": "injection"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 6019
+          }
+        },
+        {
+          "txt": {
+            "sff": "intraperitoneal"
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 6003
+          }
+        },
+        {
+          "txt": {
             "sff": "ketamine"
           },
           "et": {
@@ -58105,6 +58127,17 @@
         },
         {
           "txt": {
+            "sff": "(8 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 6065
+          }
+        },
+        {
+          "txt": {
             "sff": "scissors"
           },
           "et": {
@@ -58112,6 +58145,28 @@
           },
           "dp": {
             "off": 6382
+          }
+        },
+        {
+          "txt": {
+            "sff": "right"
+          },
+          "et": {
+            "etn": "Right"
+          },
+          "dp": {
+            "off": 6302
+          }
+        },
+        {
+          "txt": {
+            "sff": "80 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 6042
           }
         }
       ],

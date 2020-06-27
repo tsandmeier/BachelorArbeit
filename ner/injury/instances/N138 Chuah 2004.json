@@ -73530,6 +73530,17 @@
       "dla": [
         {
           "txt": {
+            "sff": "3%"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 8167
+          }
+        },
+        {
+          "txt": {
             "sff": "dorsal columns"
           },
           "et": {
@@ -73541,24 +73552,46 @@
         },
         {
           "txt": {
-            "sff": "T8–9"
+            "sff": "Norocillin"
           },
           "et": {
-            "etn": "VertebralArea"
+            "etn": "MedicationDuringSurgery"
           },
           "dp": {
-            "off": 726
+            "off": 8463
           }
         },
         {
           "txt": {
-            "sff": "microscissors"
+            "sff": "0.1 ml/kg"
           },
           "et": {
-            "etn": "Scissors"
+            "etn": "DosageExtracorporal"
           },
           "dp": {
-            "off": 9286
+            "off": 11409
+          }
+        },
+        {
+          "txt": {
+            "sff": "Rimadyl"
+          },
+          "et": {
+            "etn": "MedicationDuringSurgery"
+          },
+          "dp": {
+            "off": 8328
+          }
+        },
+        {
+          "txt": {
+            "sff": "T8"
+          },
+          "et": {
+            "etn": "T8"
+          },
+          "dp": {
+            "off": 726
           }
         },
         {
@@ -73574,6 +73607,83 @@
         },
         {
           "txt": {
+            "sff": "9"
+          },
+          "et": {
+            "etn": "T9"
+          },
+          "dp": {
+            "off": 729
+          }
+        },
+        {
+          "txt": {
+            "sff": "T8–9"
+          },
+          "et": {
+            "etn": "VertebralArea"
+          },
+          "dp": {
+            "off": 726
+          }
+        },
+        {
+          "txt": {
+            "sff": "2–2.5%"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 8212
+          }
+        },
+        {
+          "txt": {
+            "sff": "injected"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 8289
+          }
+        },
+        {
+          "txt": {
+            "sff": "intramuscularly"
+          },
+          "et": {
+            "etn": "IntramuscularLocation"
+          },
+          "dp": {
+            "off": 8432
+          }
+        },
+        {
+          "txt": {
+            "sff": "microscissors"
+          },
+          "et": {
+            "etn": "Scissors"
+          },
+          "dp": {
+            "off": 9286
+          }
+        },
+        {
+          "txt": {
+            "sff": "subcutaneously"
+          },
+          "et": {
+            "etn": "SubcutaneousLocation"
+          },
+          "dp": {
+            "off": 8298
+          }
+        },
+        {
+          "txt": {
             "sff": "isoflurane"
           },
           "et": {
@@ -73581,6 +73691,17 @@
           },
           "dp": {
             "off": 8219
+          }
+        },
+        {
+          "txt": {
+            "sff": "Rimadyl"
+          },
+          "et": {
+            "etn": "PostsurgicalMedication"
+          },
+          "dp": {
+            "off": 11419
           }
         }
       ],

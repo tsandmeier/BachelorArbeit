@@ -61893,6 +61893,39 @@
           "dp": {
             "off": 6891
           }
+        },
+        {
+          "txt": {
+            "sff": "L4"
+          },
+          "et": {
+            "etn": "L4"
+          },
+          "dp": {
+            "off": 6899
+          }
+        },
+        {
+          "txt": {
+            "sff": "severe spinal cord injury"
+          },
+          "et": {
+            "etn": "SevereInjury"
+          },
+          "dp": {
+            "off": 6591
+          }
+        },
+        {
+          "txt": {
+            "sff": "T10"
+          },
+          "et": {
+            "etn": "T10"
+          },
+          "dp": {
+            "off": 6891
+          }
         }
       ],
       "la": [],

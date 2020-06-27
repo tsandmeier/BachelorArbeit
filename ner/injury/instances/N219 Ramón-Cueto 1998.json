@@ -85640,6 +85640,28 @@
         },
         {
           "txt": {
+            "sff": "bladder expression"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 15919
+          }
+        },
+        {
+          "txt": {
+            "sff": "Bicillin"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 15892
+          }
+        },
+        {
+          "txt": {
             "sff": "complete transection"
           },
           "et": {
@@ -85647,6 +85669,50 @@
           },
           "dp": {
             "off": 6458
+          }
+        },
+        {
+          "txt": {
+            "sff": "60"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 13425
+          }
+        },
+        {
+          "txt": {
+            "sff": "Lidocaine"
+          },
+          "et": {
+            "etn": "MedicationDuringSurgery"
+          },
+          "dp": {
+            "off": 13858
+          }
+        },
+        {
+          "txt": {
+            "sff": "20,000 U/d"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 15902
+          }
+        },
+        {
+          "txt": {
+            "sff": "spinal cord"
+          },
+          "et": {
+            "etn": "SpinalCord"
+          },
+          "dp": {
+            "off": 13902
           }
         }
       ],

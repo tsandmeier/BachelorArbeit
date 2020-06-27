@@ -83901,13 +83901,68 @@
         },
         {
           "txt": {
-            "sff": "acetylpromazine"
+            "sff": "SQ"
           },
           "et": {
-            "etn": "Anaesthetic"
+            "etn": "SubcutaneousLocation"
           },
           "dp": {
-            "off": 6780
+            "off": 6766
+          }
+        },
+        {
+          "txt": {
+            "sff": "IM"
+          },
+          "et": {
+            "etn": "IntramuscularLocation"
+          },
+          "dp": {
+            "off": 6617
+          }
+        },
+        {
+          "txt": {
+            "sff": "SQ"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 6811
+          }
+        },
+        {
+          "txt": {
+            "sff": "left"
+          },
+          "et": {
+            "etn": "Left"
+          },
+          "dp": {
+            "off": 7064
+          }
+        },
+        {
+          "txt": {
+            "sff": "Buprenorphine"
+          },
+          "et": {
+            "etn": "PostsurgicalMedication"
+          },
+          "dp": {
+            "off": 8363
+          }
+        },
+        {
+          "txt": {
+            "sff": "Bladders were expressed"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 8872
           }
         },
         {
@@ -83919,6 +83974,138 @@
           },
           "dp": {
             "off": 6731
+          }
+        },
+        {
+          "txt": {
+            "sff": "Penicillin G"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 6579
+          }
+        },
+        {
+          "txt": {
+            "sff": "0.01 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 8378
+          }
+        },
+        {
+          "txt": {
+            "sff": "1–3.5%"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 6872
+          }
+        },
+        {
+          "txt": {
+            "sff": "40,000U/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 6603
+          }
+        },
+        {
+          "txt": {
+            "sff": "0.4–0.5 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 6797
+          }
+        },
+        {
+          "txt": {
+            "sff": "Penicillin G"
+          },
+          "et": {
+            "etn": "MedicationDuringSurgery"
+          },
+          "dp": {
+            "off": 6579
+          }
+        },
+        {
+          "txt": {
+            "sff": "IM"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 6617
+          }
+        },
+        {
+          "txt": {
+            "sff": "SQ"
+          },
+          "et": {
+            "etn": "SubcutaneousLocation"
+          },
+          "dp": {
+            "off": 6811
+          }
+        },
+        {
+          "txt": {
+            "sff": "acetylpromazine"
+          },
+          "et": {
+            "etn": "Anaesthetic"
+          },
+          "dp": {
+            "off": 6780
+          }
+        },
+        {
+          "txt": {
+            "sff": "SQ"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 6766
+          }
+        },
+        {
+          "txt": {
+            "sff": "0.04–0.06 mg/ kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 6749
+          }
+        },
+        {
+          "txt": {
+            "sff": "cats returned to their home cages with 5–7 inch thick egg crate foam cushions covering the entire cage floor"
+          },
+          "et": {
+            "etn": "Housing"
+          },
+          "dp": {
+            "off": 8628
           }
         },
         {

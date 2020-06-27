@@ -61322,6 +61322,17 @@
       "dla": [
         {
           "txt": {
+            "sff": "150 kdyne"
+          },
+          "et": {
+            "etn": "Force"
+          },
+          "dp": {
+            "off": 3205
+          }
+        },
+        {
+          "txt": {
             "sff": "T10/T11"
           },
           "et": {
@@ -61344,6 +61355,28 @@
         },
         {
           "txt": {
+            "sff": "60 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 3142
+          }
+        },
+        {
+          "txt": {
+            "sff": "water"
+          },
+          "et": {
+            "etn": "Hydration"
+          },
+          "dp": {
+            "off": 2985
+          }
+        },
+        {
+          "txt": {
             "sff": "ketamine"
           },
           "et": {
@@ -61355,6 +61388,17 @@
         },
         {
           "txt": {
+            "sff": "ad libitum access to food"
+          },
+          "et": {
+            "etn": "Nutrition"
+          },
+          "dp": {
+            "off": 2955
+          }
+        },
+        {
+          "txt": {
             "sff": "medetomidine"
           },
           "et": {
@@ -61362,6 +61406,17 @@
           },
           "dp": {
             "off": 3156
+          }
+        },
+        {
+          "txt": {
+            "sff": "0.25 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 3169
           }
         },
         {

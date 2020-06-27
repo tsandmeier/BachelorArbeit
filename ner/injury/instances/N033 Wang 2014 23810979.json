@@ -81720,6 +81720,28 @@
           "dp": {
             "off": 10159
           }
+        },
+        {
+          "txt": {
+            "sff": "entire bilateral dorsal funiculi, including the CST"
+          },
+          "et": {
+            "etn": "InjuryArea"
+          },
+          "dp": {
+            "off": 10358
+          }
+        },
+        {
+          "txt": {
+            "sff": "buprenorphine hydrochloride"
+          },
+          "et": {
+            "etn": "PostsurgicalMedication"
+          },
+          "dp": {
+            "off": 11495
+          }
         }
       ],
       "la": [],

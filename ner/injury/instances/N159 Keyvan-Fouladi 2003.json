@@ -34613,6 +34613,17 @@
         },
         {
           "txt": {
+            "sff": "unilateral lesions"
+          },
+          "et": {
+            "etn": "UnilateralInjuryArea"
+          },
+          "dp": {
+            "off": 3342
+          }
+        },
+        {
+          "txt": {
             "sff": "heat lesion"
           },
           "et": {

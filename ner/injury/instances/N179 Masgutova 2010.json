@@ -17872,6 +17872,50 @@
           "dp": {
             "off": 3806
           }
+        },
+        {
+          "txt": {
+            "sff": "intraperitoneally"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 3838
+          }
+        },
+        {
+          "txt": {
+            "sff": "600 mg/ kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 3827
+          }
+        },
+        {
+          "txt": {
+            "sff": "intraperitoneally"
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 3838
+          }
+        },
+        {
+          "txt": {
+            "sff": "right side"
+          },
+          "et": {
+            "etn": "Right"
+          },
+          "dp": {
+            "off": 3902
+          }
         }
       ],
       "la": [],

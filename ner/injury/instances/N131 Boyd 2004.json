@@ -51424,6 +51424,39 @@
         },
         {
           "txt": {
+            "sff": "4 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 4861
+          }
+        },
+        {
+          "txt": {
+            "sff": "0.75 mg\u0001kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 4881
+          }
+        },
+        {
+          "txt": {
+            "sff": "5.6 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 4841
+          }
+        },
+        {
+          "txt": {
             "sff": "Clip"
           },
           "et": {
@@ -51453,6 +51486,17 @@
           },
           "dp": {
             "off": 875
+          }
+        },
+        {
+          "txt": {
+            "sff": "22 g"
+          },
+          "et": {
+            "etn": "Force"
+          },
+          "dp": {
+            "off": 5122
           }
         },
         {

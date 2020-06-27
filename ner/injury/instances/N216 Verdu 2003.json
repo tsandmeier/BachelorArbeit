@@ -51053,6 +51053,28 @@
         },
         {
           "txt": {
+            "sff": "50 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 8471
+          }
+        },
+        {
+          "txt": {
+            "sff": "8 kLux"
+          },
+          "et": {
+            "etn": "LightIntensity"
+          },
+          "dp": {
+            "off": 9309
+          }
+        },
+        {
+          "txt": {
             "sff": "T8"
           },
           "et": {
@@ -51060,6 +51082,28 @@
           },
           "dp": {
             "off": 8795
+          }
+        },
+        {
+          "txt": {
+            "sff": "Amitriptyline"
+          },
+          "et": {
+            "etn": "PostsurgicalMedication"
+          },
+          "dp": {
+            "off": 10094
+          }
+        },
+        {
+          "txt": {
+            "sff": "150 µg/ml"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 10109
           }
         },
         {
@@ -51082,6 +51126,28 @@
           },
           "dp": {
             "off": 9129
+          }
+        },
+        {
+          "txt": {
+            "sff": "i.p."
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 8481
+          }
+        },
+        {
+          "txt": {
+            "sff": "i.p."
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 8481
           }
         }
       ],

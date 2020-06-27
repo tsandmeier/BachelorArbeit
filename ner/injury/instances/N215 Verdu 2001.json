@@ -33498,6 +33498,28 @@
       "dla": [
         {
           "txt": {
+            "sff": "maximal nominal power"
+          },
+          "et": {
+            "etn": "LightIntensity"
+          },
+          "dp": {
+            "off": 4924
+          }
+        },
+        {
+          "txt": {
+            "sff": "50 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 4207
+          }
+        },
+        {
+          "txt": {
             "sff": "150W halogen bulb"
           },
           "et": {
@@ -33509,13 +33531,13 @@
         },
         {
           "txt": {
-            "sff": "photochemical injury"
+            "sff": "Rose Bengal (RB"
           },
           "et": {
-            "etn": "PhotochemicalInjury"
+            "etn": "MedicationDuringSurgery"
           },
           "dp": {
-            "off": 3574
+            "off": 4525
           }
         },
         {
@@ -33531,6 +33553,72 @@
         },
         {
           "txt": {
+            "sff": "i.p."
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 4217
+          }
+        },
+        {
+          "txt": {
+            "sff": "spinal cord"
+          },
+          "et": {
+            "etn": "SpinalCord"
+          },
+          "dp": {
+            "off": 4601
+          }
+        },
+        {
+          "txt": {
+            "sff": "bupivacaine"
+          },
+          "et": {
+            "etn": "MedicationDuringSurgery"
+          },
+          "dp": {
+            "off": 4466
+          }
+        },
+        {
+          "txt": {
+            "sff": "T12"
+          },
+          "et": {
+            "etn": "T12"
+          },
+          "dp": {
+            "off": 4379
+          }
+        },
+        {
+          "txt": {
+            "sff": "i.p."
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 4217
+          }
+        },
+        {
+          "txt": {
+            "sff": "150 µg/ ml"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 5563
+          }
+        },
+        {
+          "txt": {
             "sff": "T12±L1"
           },
           "et": {
@@ -33538,6 +33626,61 @@
           },
           "dp": {
             "off": 4379
+          }
+        },
+        {
+          "txt": {
+            "sff": "10 min"
+          },
+          "et": {
+            "etn": "Duration"
+          },
+          "dp": {
+            "off": 4617
+          }
+        },
+        {
+          "txt": {
+            "sff": "amitriptyline"
+          },
+          "et": {
+            "etn": "PostsurgicalMedication"
+          },
+          "dp": {
+            "off": 5548
+          }
+        },
+        {
+          "txt": {
+            "sff": "photochemical injury"
+          },
+          "et": {
+            "etn": "PhotochemicalInjury"
+          },
+          "dp": {
+            "off": 3574
+          }
+        },
+        {
+          "txt": {
+            "sff": "The animals were kept in a warm environment until full recovery"
+          },
+          "et": {
+            "etn": "Housing"
+          },
+          "dp": {
+            "off": 5469
+          }
+        },
+        {
+          "txt": {
+            "sff": "L1"
+          },
+          "et": {
+            "etn": "L1"
+          },
+          "dp": {
+            "off": 4383
           }
         }
       ],

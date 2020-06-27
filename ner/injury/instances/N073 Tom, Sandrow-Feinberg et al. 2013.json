@@ -152893,13 +152893,24 @@
         },
         {
           "txt": {
-            "sff": "C5"
+            "sff": "intraperitoneally"
           },
           "et": {
-            "etn": "C5"
+            "etn": "IntraperitonealLocation"
           },
           "dp": {
-            "off": 6201
+            "off": 6104
+          }
+        },
+        {
+          "txt": {
+            "sff": "0.1 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 5305
           }
         },
         {
@@ -152915,6 +152926,28 @@
         },
         {
           "txt": {
+            "sff": "buprenorphine"
+          },
+          "et": {
+            "etn": "PostsurgicalMedication"
+          },
+          "dp": {
+            "off": 5290
+          }
+        },
+        {
+          "txt": {
+            "sff": "injected"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 6095
+          }
+        },
+        {
+          "txt": {
             "sff": "xylazine"
           },
           "et": {
@@ -152926,6 +152959,61 @@
         },
         {
           "txt": {
+            "sff": "ampicillin"
+          },
+          "et": {
+            "etn": "AntibioticMedication"
+          },
+          "dp": {
+            "off": 5263
+          }
+        },
+        {
+          "txt": {
+            "sff": "200 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 5275
+          }
+        },
+        {
+          "txt": {
+            "sff": "10 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 6161
+          }
+        },
+        {
+          "txt": {
+            "sff": "200 kdyn force"
+          },
+          "et": {
+            "etn": "Force"
+          },
+          "dp": {
+            "off": 6632
+          }
+        },
+        {
+          "txt": {
+            "sff": "C5"
+          },
+          "et": {
+            "etn": "C5"
+          },
+          "dp": {
+            "off": 6201
+          }
+        },
+        {
+          "txt": {
             "sff": "Infinite Horizon Impact Device"
           },
           "et": {
@@ -152933,6 +153021,17 @@
           },
           "dp": {
             "off": 6348
+          }
+        },
+        {
+          "txt": {
+            "sff": "60 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 6137
           }
         }
       ],

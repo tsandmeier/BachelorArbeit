@@ -27042,6 +27042,17 @@
       "dla": [
         {
           "txt": {
+            "sff": "s.c."
+          },
+          "et": {
+            "etn": "SubcutaneousLocation"
+          },
+          "dp": {
+            "off": 4517
+          }
+        },
+        {
+          "txt": {
             "sff": "Hypnorm"
           },
           "et": {
@@ -27075,6 +27086,17 @@
         },
         {
           "txt": {
+            "sff": "120 µL per 200 g bw"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 4412
+          }
+        },
+        {
+          "txt": {
             "sff": "complete transection"
           },
           "et": {
@@ -27082,6 +27104,28 @@
           },
           "dp": {
             "off": 1044
+          }
+        },
+        {
+          "txt": {
+            "sff": "0.75 mg in 150 µL/200 g bwt"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 4488
+          }
+        },
+        {
+          "txt": {
+            "sff": "s.c."
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 4517
           }
         }
       ],

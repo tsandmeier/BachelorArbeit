@@ -50765,6 +50765,50 @@
         },
         {
           "txt": {
+            "sff": "i.p."
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 6757
+          }
+        },
+        {
+          "txt": {
+            "sff": "ad libitum"
+          },
+          "et": {
+            "etn": "Nutrition"
+          },
+          "dp": {
+            "off": 7950
+          }
+        },
+        {
+          "txt": {
+            "sff": "40 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 6747
+          }
+        },
+        {
+          "txt": {
+            "sff": "i.p."
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 6757
+          }
+        },
+        {
+          "txt": {
             "sff": "microscalpel"
           },
           "et": {
@@ -50783,6 +50827,39 @@
           },
           "dp": {
             "off": 6848
+          }
+        },
+        {
+          "txt": {
+            "sff": "kept under a 12 h light/dark cycle"
+          },
+          "et": {
+            "etn": "KeepingCondition"
+          },
+          "dp": {
+            "off": 7887
+          }
+        },
+        {
+          "txt": {
+            "sff": "ad libitum"
+          },
+          "et": {
+            "etn": "Hydration"
+          },
+          "dp": {
+            "off": 7950
+          }
+        },
+        {
+          "txt": {
+            "sff": "Bladders were expressed"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 7962
           }
         },
         {

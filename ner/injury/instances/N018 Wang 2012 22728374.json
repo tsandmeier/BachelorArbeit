@@ -79533,6 +79533,17 @@
         },
         {
           "txt": {
+            "sff": "10 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 12233
+          }
+        },
+        {
+          "txt": {
             "sff": "xylazine"
           },
           "et": {
@@ -79544,6 +79555,39 @@
         },
         {
           "txt": {
+            "sff": "exposed spinal surface"
+          },
+          "et": {
+            "etn": "SpinalCord"
+          },
+          "dp": {
+            "off": 12367
+          }
+        },
+        {
+          "txt": {
+            "sff": "Lidocaine"
+          },
+          "et": {
+            "etn": "Anaesthetic"
+          },
+          "dp": {
+            "off": 12334
+          }
+        },
+        {
+          "txt": {
+            "sff": "60 mg/kg"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 12209
+          }
+        },
+        {
+          "txt": {
             "sff": "crush injury"
           },
           "et": {
@@ -79551,6 +79595,39 @@
           },
           "dp": {
             "off": 12621
+          }
+        },
+        {
+          "txt": {
+            "sff": "injection"
+          },
+          "et": {
+            "etn": "InjectionDelivery"
+          },
+          "dp": {
+            "off": 12186
+          }
+        },
+        {
+          "txt": {
+            "sff": "2%"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 12345
+          }
+        },
+        {
+          "txt": {
+            "sff": "intraperitoneal"
+          },
+          "et": {
+            "etn": "IntraperitonealLocation"
+          },
+          "dp": {
+            "off": 12169
           }
         },
         {

@@ -20,6 +20,10 @@ public class ContainsDigitTemplate extends AbstractFeatureTemplate<ContainsDigit
 
     public ContainsDigitTemplate(boolean cache){super(cache);}
 
+    public ContainsDigitTemplate() {
+        super();
+    }
+
     static class StartsWithCapitalScope
             extends AbstractFactorScope {
 

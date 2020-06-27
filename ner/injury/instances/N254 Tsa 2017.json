@@ -64944,6 +64944,17 @@
         },
         {
           "txt": {
+            "sff": "1 – 2%"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 11069
+          }
+        },
+        {
+          "txt": {
             "sff": "completely transected"
           },
           "et": {
@@ -64951,6 +64962,17 @@
           },
           "dp": {
             "off": 11383
+          }
+        },
+        {
+          "txt": {
+            "sff": "Bladder evacuation"
+          },
+          "et": {
+            "etn": "BladderExpression"
+          },
+          "dp": {
+            "off": 11745
           }
         }
       ],

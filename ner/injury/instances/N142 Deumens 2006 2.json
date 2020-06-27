@@ -72714,6 +72714,28 @@
       "dla": [
         {
           "txt": {
+            "sff": "1–2%"
+          },
+          "et": {
+            "etn": "DosageExtracorporal"
+          },
+          "dp": {
+            "off": 10697
+          }
+        },
+        {
+          "txt": {
+            "sff": "This lesion interrupts descending rubrospinal axons, the dorsal component of the CS tract, all ascending dorsal column axons, and local spinal sensory neurites"
+          },
+          "et": {
+            "etn": "InjuryArea"
+          },
+          "dp": {
+            "off": 11993
+          }
+        },
+        {
+          "txt": {
             "sff": "T11/T12"
           },
           "et": {
@@ -72721,6 +72743,17 @@
           },
           "dp": {
             "off": 6471
+          }
+        },
+        {
+          "txt": {
+            "sff": "Temgesic"
+          },
+          "et": {
+            "etn": "PostsurgicalMedication"
+          },
+          "dp": {
+            "off": 11254
           }
         },
         {
